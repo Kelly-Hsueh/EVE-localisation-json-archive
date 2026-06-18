@@ -9,7 +9,7 @@ on:
       force:
         description: "Force re-download all languages even if hash unchanged"
         required: false
-        default: "false"
+        default: false
         type: boolean
       servers:
         description: "Servers to process (TQ, SISI, or TQ SISI)"
