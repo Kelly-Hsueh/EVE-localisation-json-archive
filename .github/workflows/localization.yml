@@ -36,10 +36,10 @@ jobs:
           SERVERS_INPUT="${{ github.event.inputs.servers || 'TQ SISI' }}"
           SERVERS="[]"
           if echo "$SERVERS_INPUT" | grep -qi "TQ"; then
-            SERVERS=$(echo "$SERVERS" | jq '. += ["TQ"]')
+            SERVERS=$(echo "$SERVERS" | jq -c '. + ["TQ"]')
           fi
           if echo "$SERVERS_INPUT" | grep -qi "SISI"; then
-            SERVERS=$(echo "$SERVERS" | jq '. += ["SISI"]')
+            SERVERS=$(echo "$SERVERS" | jq -c '. + ["SISI"]')
           fi
           echo "servers=$SERVERS" >> "$GITHUB_OUTPUT"
 
