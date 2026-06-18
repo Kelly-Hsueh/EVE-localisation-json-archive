@@ -2,7 +2,6 @@ name: EVE Localization Archive
 
 on:
   schedule:
-    # Run daily at 11:00 UTC
     - cron: "0 11 * * *"
   workflow_dispatch:
     inputs:
@@ -25,78 +24,47 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # -------------------------------------------------------------------------
-  # Parse input to determine which servers to process
-  # -------------------------------------------------------------------------
   setup:
     name: Setup
     runs-on: ubuntu-latest
     outputs:
-      process-tq: ${{ steps.filter.outputs.tq }}
-      process-sisi: ${{ steps.filter.outputs.sisi }}
       matrix: ${{ steps.matrix.outputs.servers }}
-
     steps:
       - name: Determine servers to process
-        id: filter
-        run: |
-          SERVERS="${{ github.event.inputs.servers || 'TQ SISI' }}"
-          TQ="false"
-          SISI="false"
-
-          if echo "$SERVERS" | grep -qi "TQ"; then
-            TQ="true"
-          fi
-          if echo "$SERVERS" | grep -qi "SISI"; then
-            SISI="true"
-          fi
-
-          echo "tq=$TQ" >> "$GITHUB_OUTPUT"
-          echo "sisi=$SISI" >> "$GITHUB_OUTPUT"
-
-      - name: Build matrix for processing
         id: matrix
-        env:
-          PROCESS_TQ: ${{ steps.filter.outputs.tq }}
-          PROCESS_SISI: ${{ steps.filter.outputs.sisi }}
         run: |
+          SERVERS_INPUT="${{ github.event.inputs.servers || 'TQ SISI' }}"
           SERVERS="[]"
-          if [ "$PROCESS_TQ" = "true" ]; then
+          if echo "$SERVERS_INPUT" | grep -qi "TQ"; then
             SERVERS=$(echo "$SERVERS" | jq '. += ["TQ"]')
           fi
-          if [ "$PROCESS_SISI" = "true" ]; then
+          if echo "$SERVERS_INPUT" | grep -qi "SISI"; then
             SERVERS=$(echo "$SERVERS" | jq '. += ["SISI"]')
           fi
           echo "servers=$SERVERS" >> "$GITHUB_OUTPUT"
 
-  # -------------------------------------------------------------------------
-  # Build stage: Process each server in parallel (matrix)
-  # No git commits or pushes in this stage
-  # -------------------------------------------------------------------------
   build:
     name: Process ${{ matrix.server }}
     needs: setup
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
+      max-parallel: 2
       matrix:
         server: ${{ fromJSON(needs.setup.outputs.matrix) }}
-      max-parallel: 2
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
         with:
-          fetch-depth: 1
-
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: "3.14"
-
       - name: Install dependencies
-        run: pip install requests
-
-      - name: Run pipeline for ${{ matrix.server }}
+        run: |
+          pip install requests
+      - name: Run localization pipeline
         id: pipeline
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -106,112 +74,42 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             FORCE_FLAG="--force"
           fi
-
-          python scripts/run.py ${{ matrix.server }} $FORCE_FLAG
-
-          # Extract build info for logging
-          SERVER_LOWER=$(echo "${{ matrix.server }}" | tr '[:upper:]' '[:lower:]')
-          if [ -f "state/${SERVER_LOWER}-build.txt" ]; then
-            BUILD=$(cat "state/${SERVER_LOWER}-build.txt")
-          else
-            BUILD="unknown"
-          fi
-          echo "build=$BUILD" >> "$GITHUB_OUTPUT"
-          echo "Processing complete: ${{ matrix.server }} (build: $BUILD)"
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v7
-        with:
-          name: localization-${{ matrix.server }}
-          path: |
-            latest/${{ matrix.server | lower }}/
-            state/${{ matrix.server | lower }}-build.txt
-            state/${{ matrix.server | lower }}-hashes.json
-            CHANGELOG_${{ matrix.server }}.md
-          retention-days: 1
-          if-no-files-found: warn
-
-  # -------------------------------------------------------------------------
-  # Commit stage: Consolidate and push all changes once
-  # -------------------------------------------------------------------------
-  commit:
-    name: Commit & Push Changes
-    needs: [setup, build]
-    runs-on: ubuntu-latest
-    if: always() && needs.build.result != 'failure'
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
-        with:
-          fetch-depth: 1
-
-      - name: Download all artifacts
-        uses: actions/download-artifact@v8
-        with:
-          path: artifacts/
-
-      - name: Merge artifacts into workspace
-        run: |
-          echo "Merging artifacts from all servers..."
-
-          for artifact_dir in artifacts/localization-*; do
-            if [ ! -d "$artifact_dir" ]; then
-              continue
-            fi
-            
-            server=$(basename "$artifact_dir" | sed 's/localization-//')
-            echo "Processing server: $server"
-            
-            # Copy localization data
-            if [ -d "$artifact_dir/latest/$server" ]; then
-              mkdir -p "latest/$server"
-              cp -r "$artifact_dir/latest/$server"/* "latest/$server/" 2>/dev/null || true
-            fi
-            
-            # Copy state files
-            server_lower=$(echo "$server" | tr '[:upper:]' '[:lower:]')
-            if [ -f "$artifact_dir/state/${server_lower}-build.txt" ]; then
-              mkdir -p state
-              cp "$artifact_dir/state/${server_lower}-build.txt" "state/"
-            fi
-            if [ -f "$artifact_dir/state/${server_lower}-hashes.json" ]; then
-              mkdir -p state
-              cp "$artifact_dir/state/${server_lower}-hashes.json" "state/"
-            fi
-            
-            # Copy changelog
-            if [ -f "$artifact_dir/CHANGELOG_${server}.md" ]; then
-              cp "$artifact_dir/CHANGELOG_${server}.md" .
-            fi
-          done
-
-          echo "Artifact merge complete"
-
+          python scripts/run.py "${{ matrix.server }}" $FORCE_FLAG
       - name: Check for changes
-        id: check_changes
+        id: changes
         run: |
-          git add latest/ state/ CHANGELOG_*.md 2>/dev/null || true
-
+          SERVER_LOWER=$(echo "${{ matrix.server }}" | tr '[:upper:]' '[:lower:]')
+          git add \
+            "latest/${SERVER_LOWER}" \
+            "state/${SERVER_LOWER}-build.txt" \
+            "state/${SERVER_LOWER}-hashes.json" \
+            "CHANGELOG_${{ matrix.server }}.md" \
+            2>/dev/null || true
           if git diff --cached --quiet; then
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
             echo "No changes detected"
           else
             echo "has_changes=true" >> "$GITHUB_OUTPUT"
-            echo "Changes detected, proceeding with commit"
+            echo "Changes detected"
           fi
-
       - name: Commit changes
-        if: steps.check_changes.outputs.has_changes == 'true'
+        if: steps.changes.outputs.has_changes == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git commit -m "chore(localization): update localization data
-
-          automated by GitHub Actions"
-
+          git commit -m "chore(localization): update ${{ matrix.server }} localization"
       - name: Push changes
-        if: steps.check_changes.outputs.has_changes == 'true'
+        if: steps.changes.outputs.has_changes == 'true'
         run: |
-          git push origin ${{ github.ref_name }}
+          for attempt in 1 2 3; do
+            echo "Push attempt $attempt"
+            git pull --rebase origin "${{ github.ref_name }}" || true
+            if git push origin "${{ github.ref_name }}"; then
+              echo "Push successful"
+              exit 0
+            fi
+            echo "Push failed, retrying in 5 seconds..."
+            sleep 5
+          done
+          echo "Failed to push after 3 attempts"
+          exit 1
