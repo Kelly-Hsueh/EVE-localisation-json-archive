@@ -85,10 +85,19 @@ def get_resfileindex_url(build: int) -> str:
         f"app:/resfileindex.txt entry not found in build manifest {build}")
 
 
+# Language codes that appear in the resfileindex but are NOT real localisations.
+# "main" is a known internal entry; add others here if they appear in future builds.
+_NON_LANGUAGE_ENTRIES = frozenset({"main"})
+
+
 def parse_resfileindex(content: str) -> dict[str, dict]:
     """
     Return a dict keyed by language code, e.g. "zh", with values:
       { "resource_path": str, "download_path": str, "hash": str }
+
+    Entries whose language code is in _NON_LANGUAGE_ENTRIES are silently skipped.
+    Any other unrecognised code is warned about but still included so new CCP
+    languages are not silently dropped.
     """
     entries = {}
     pattern = re.compile(
@@ -99,9 +108,10 @@ def parse_resfileindex(content: str) -> dict[str, dict]:
     for line in content.splitlines():
         if m := pattern.match(line):
             lang = m[1].lower()
-            if lang not in LANGUAGES:
-                msg = f"\033[31m[WARNING] Skipping unsupported localization language: {lang}\033[0m"
-                print(msg, file=sys.stderr)
+            if lang in _NON_LANGUAGE_ENTRIES:
+                print(
+                    f"\033[31m[WARNING] Skipping non-language entry: {lang}\033[0m",
+                    file=sys.stderr)
                 continue
             download_path = m[2]
             content_hash = m[3]

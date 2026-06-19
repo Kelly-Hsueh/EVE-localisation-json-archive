@@ -77,11 +77,44 @@ def create_release(
 
     r = requests.post(create_url, headers=headers, json=payload, timeout=30)
     if r.status_code == 422:
-        # Release already exists – fetch it
-        print(f"Release {tag} already exists, fetching existing release...")
+        # 422 has two distinct causes:
+        #   (a) A release for this tag already exists → GET returns 200
+        #   (b) The git tag exists but has no release attached (e.g. release was
+        #       deleted from the UI without deleting the underlying tag) → GET returns 404
         r2 = requests.get(f"{api_base}/releases/tags/{tag}", headers=headers, timeout=30)
-        r2.raise_for_status()
-        release = r2.json()
+
+        if r2.status_code == 200:
+            # Case (a): release exists, reuse it
+            print(f"Release {tag} already exists, reusing.")
+            release = r2.json()
+
+        elif r2.status_code == 404:
+            # Case (b): orphan git tag with no release attached.
+            # Delete the dangling tag ref and retry.
+            print(
+                f"Orphan git tag '{tag}' found (tag exists but release was deleted). "
+                "Deleting tag and retrying..."
+            )
+            r3 = requests.delete(
+                f"{api_base}/git/refs/tags/{tag}",
+                headers=headers,
+                timeout=30,
+            )
+            # 204 = deleted OK; anything else is unexpected
+            if r3.status_code != 204:
+                raise RuntimeError(
+                    f"Failed to delete orphan tag '{tag}': "
+                    f"HTTP {r3.status_code} {r3.text}"
+                )
+
+            # Retry release creation now that the tag is gone
+            r = requests.post(create_url, headers=headers, json=payload, timeout=30)
+            r.raise_for_status()
+            release = r.json()
+
+        else:
+            # Unexpected status on the GET — surface it
+            r2.raise_for_status()
     else:
         r.raise_for_status()
         release = r.json()
