@@ -87,7 +87,7 @@ def process_server(server: str, force: bool = False) -> bool:
     # 4. Changelog
     # ------------------------------------------------------------------
     changes_path = ROOT / "changes.md"
-    md, diffs = changelog_module.generate_changelog(
+    summary, md, diffs = changelog_module.generate_changelog(
         server,
         build,
         changed_langs,
@@ -95,9 +95,11 @@ def process_server(server: str, force: bool = False) -> bool:
     )
 
     if md:
+        # changes.md (release artifact) contains the full diff including Details
         changes_path.write_text(md, encoding="utf-8")
         print(f"[{server}] Wrote {changes_path}")
 
+        # Cumulative repo changelog also stores the full content
         cumulative_path = ROOT / f"CHANGELOG_{server}.md"
         changelog_module.prepend_to_changelog(cumulative_path, md)
         print(f"[{server}] Updated {cumulative_path}")
@@ -108,7 +110,8 @@ def process_server(server: str, force: bool = False) -> bool:
     # 5. GitHub Release
     # ------------------------------------------------------------------
     if os.environ.get("GITHUB_TOKEN") and os.environ.get("GITHUB_REPO"):
-        body = md[:4000] if md else f"Localization update for {server} build {build}."
+        # Release body = summary table only; full diff is in the changes.md asset
+        body = summary or f"Localization update for {server} build {build}."
         url = release_module.create_release(
             server,
             build,
@@ -118,10 +121,8 @@ def process_server(server: str, force: bool = False) -> bool:
         )
         print(f"[{server}] Release created: {url}")
     else:
-        msg = (
-            f"\033[33m[{server}] [NOTICE] Skipping GitHub Release "
-            f"(GITHUB_TOKEN or GITHUB_REPO not set).\033[0m"
-        )
+        msg = (f"\033[33m[{server}] [NOTICE] Skipping GitHub Release "
+               f"(GITHUB_TOKEN or GITHUB_REPO not set).\033[0m")
         print(msg, file=sys.stderr)
 
     # Cleanup temp backup
@@ -137,7 +138,8 @@ def process_server(server: str, force: bool = False) -> bool:
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="EVE localization archive pipeline.")
+    parser = argparse.ArgumentParser(
+        description="EVE localization archive pipeline.")
     parser.add_argument(
         "servers",
         nargs="+",
@@ -156,4 +158,5 @@ if __name__ == "__main__":
         released = process_server(server.upper(), force=args.force)
         any_released = any_released or released
 
-    sys.exit(0 if any_released else 0)  # always exit 0; GH Actions checks outputs
+    sys.exit(
+        0 if any_released else 0)  # always exit 0; GH Actions checks outputs

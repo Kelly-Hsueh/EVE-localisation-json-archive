@@ -21,21 +21,21 @@ LATEST_DIR = ROOT / "latest"
 
 
 def _api_headers() -> dict:
-    token = os.environ.get("GITHUB_TOKEN")
-    if not token:
+    if token := os.environ.get("GITHUB_TOKEN"):
+        return {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2022-11-28",
+        }
+    else:
         raise RuntimeError("GITHUB_TOKEN environment variable not set.")
-    return {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-    }
 
 
 def _repo() -> str:
-    repo = os.environ.get("GITHUB_REPO")
-    if not repo:
+    if repo := os.environ.get("GITHUB_REPO"):
+        return repo
+    else:
         raise RuntimeError("GITHUB_REPO environment variable not set.")
-    return repo
 
 
 def create_release(

@@ -19,7 +19,6 @@ LATEST_DIR = ROOT / "latest"
 
 TRUNC_LIMIT = 500  # characters before we truncate long strings
 
-
 # ---------------------------------------------------------------------------
 # Text helpers
 # ---------------------------------------------------------------------------
@@ -51,22 +50,19 @@ def diff_block(lang_key: str, old: str, new: str) -> str:
         # Too long – show plain blocks instead of diff
         return (
             f"{lang_key.upper()} (before)\n\n"
-            f"```text\n{old_trunc}"
-            + (f"\n(truncated, {len(old):,} chars total)" if old_was else "")
-            + f"\n```\n\n"
+            f"```text\n{old_trunc}" +
+            (f"\n(truncated, {len(old):,} chars total)" if old_was else "") +
+            f"\n```\n\n"
             f"{lang_key.upper()} (after)\n\n"
-            f"```text\n{new_trunc}"
-            + (f"\n(truncated, {len(new):,} chars total)" if new_was else "")
-            + "\n```\n"
-        )
+            f"```text\n{new_trunc}" +
+            (f"\n(truncated, {len(new):,} chars total)" if new_was else "") +
+            "\n```\n")
 
-    return (
-        f"{lang_key.upper()}\n\n"
-        f"```diff\n"
-        f"- {old}\n"
-        f"+ {new}\n"
-        f"```\n"
-    )
+    return (f"{lang_key.upper()}\n\n"
+            f"```diff\n"
+            f"- {old}\n"
+            f"+ {new}\n"
+            f"```\n")
 
 
 # ---------------------------------------------------------------------------
@@ -75,9 +71,8 @@ def diff_block(lang_key: str, old: str, new: str) -> str:
 
 
 def load_json(path: Path) -> dict:
-    if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
-    return {}
+    return json.loads(path.read_text(
+        encoding="utf-8")) if path.exists() else {}
 
 
 # ---------------------------------------------------------------------------
@@ -142,15 +137,13 @@ def _render_summary(build: int, diffs: dict[str, dict]) -> str:
         removed = len(d["removed"])
         rows.append(f"| {lang} | {added} | {modified} | {removed} |")
 
-    table = (
-        "| Language | Added | Modified | Removed |\n"
-        "|----------|-------|----------|---------|\n"
-        + "\n".join(rows)
-    )
+    table = ("| Language | Added | Modified | Removed |\n"
+             "|----------|-------|----------|---------|\n" + "\n".join(rows))
     return f"# Build {build}\n\n## Summary\n\n{table}\n"
 
 
-def _render_entry(msg_id: str, category: str, entry_data: dict, lang: str) -> str:
+def _render_entry(msg_id: str, category: str, entry_data: dict,
+                  lang: str) -> str:
     """Render a single changelog entry."""
     lines = [f"**MessageID: {msg_id}**", ""]
 
@@ -174,26 +167,31 @@ def _render_entry(msg_id: str, category: str, entry_data: dict, lang: str) -> st
         lines.append("### Translation Modified")
         lines.append("")
         lines.append(fmt_block("en", new_entry.get("en", "")))
-        lines.append(diff_block(lang, old_entry.get(lang, ""), new_entry.get(lang, "")))
+        lines.append(
+            diff_block(lang, old_entry.get(lang, ""), new_entry.get(lang, "")))
 
     elif category == "src_mod":
         old_entry = entry_data["old"]
         new_entry = entry_data["new"]
         lines.append("### Source Modified")
         lines.append("")
-        lines.append(diff_block("en", old_entry.get("en", ""), new_entry.get("en", "")))
+        lines.append(
+            diff_block("en", old_entry.get("en", ""), new_entry.get("en", "")))
         if lang != "en":
             en_changed = old_entry.get("en", "") != new_entry.get("en", "")
             tr_changed = old_entry.get(lang, "") != new_entry.get(lang, "")
             if tr_changed:
-                lines.append(diff_block(lang, old_entry.get(lang, ""), new_entry.get(lang, "")))
+                lines.append(
+                    diff_block(lang, old_entry.get(lang, ""),
+                               new_entry.get(lang, "")))
             else:
                 lines.append(fmt_block(lang, new_entry.get(lang, "")))
 
     return "\n".join(lines) + "\n\n"
 
 
-def _collect_detail_events(diffs: dict[str, dict]) -> list[tuple[str, str, str, dict]]:
+def _collect_detail_events(
+        diffs: dict[str, dict]) -> list[tuple[str, str, str, dict]]:
     """
     Collect all events as (msg_id, lang, category, data) and sort by msg_id.
     """
@@ -225,9 +223,9 @@ def render_changes_md(build: int, diffs: dict[str, dict]) -> str:
     events = _collect_detail_events(diffs)
 
     detail_lines = ["## Details\n"]
-    for msg_id, lang, category, data in events:
-        detail_lines.append(_render_entry(msg_id, category, data, lang))
-
+    detail_lines.extend(
+        _render_entry(msg_id, category, data, lang)
+        for msg_id, lang, category, data in events)
     return summary + "\n" + "\n".join(detail_lines)
 
 
@@ -238,9 +236,11 @@ def render_changes_md(build: int, diffs: dict[str, dict]) -> str:
 
 def prepend_to_changelog(changelog_path: Path, new_section: str) -> None:
     """Prepend *new_section* to the cumulative changelog file."""
-    existing = changelog_path.read_text(encoding="utf-8") if changelog_path.exists() else ""
+    existing = changelog_path.read_text(
+        encoding="utf-8") if changelog_path.exists() else ""
     separator = "\n---\n\n" if existing else ""
-    changelog_path.write_text(new_section + separator + existing, encoding="utf-8")
+    changelog_path.write_text(new_section + separator + existing,
+                              encoding="utf-8")
 
 
 # ---------------------------------------------------------------------------
@@ -281,10 +281,11 @@ def generate_changelog(
             diffs[output_key] = diff
 
     if not diffs:
-        return "", {}
+        return "", "", {}
 
+    summary = _render_summary(build, diffs)
     md = render_changes_md(build, diffs)
-    return md, diffs
+    return summary, md, diffs
 
 
 # ---------------------------------------------------------------------------
@@ -294,15 +295,20 @@ def generate_changelog(
 if __name__ == "__main__":
     import argparse
 
-    parser = argparse.ArgumentParser(description="Generate EVE localization changelog.")
+    parser = argparse.ArgumentParser(
+        description="Generate EVE localization changelog.")
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
     parser.add_argument("build", type=int)
-    parser.add_argument("langs", nargs="+", help='Changed language codes, e.g. zh ja')
-    parser.add_argument("--old-dir", type=Path, help="Directory with previous JSON files")
+    parser.add_argument("langs",
+                        nargs="+",
+                        help='Changed language codes, e.g. zh ja')
+    parser.add_argument("--old-dir",
+                        type=Path,
+                        help="Directory with previous JSON files")
     parser.add_argument("--output", type=Path, default=Path("changes.md"))
     args = parser.parse_args()
 
-    md, diffs = generate_changelog(
+    summary, md, diffs = generate_changelog(
         args.server.upper(),
         args.build,
         args.langs,
