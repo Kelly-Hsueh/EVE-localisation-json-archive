@@ -64,6 +64,9 @@ GitHub Releases are tagged `tq-{build}` or `sisi-{build}` and contain:
 
 ## Local Usage
 
+> [!IMPORTANT]
+> Requires Python 3.10 or later.
+
 ```bash
 pip install -r requirements.txt
 
