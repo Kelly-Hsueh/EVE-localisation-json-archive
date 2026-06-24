@@ -1,4 +1,4 @@
-[![EVE Localisation Archive](https://github.com/Kelly-Hsueh/EVE-localisation-json-archive/actions/workflows/localisation.yml/badge.svg)](https://github.com/Kelly-Hsueh/EVE-localisation-json-archive/actions/workflows/localisation.yml)
+[![Archive Localisation Data](https://github.com/Kelly-Hsueh/EVE-localisation-json-archive/actions/workflows/localisation.yml/badge.svg)](https://github.com/Kelly-Hsueh/EVE-localisation-json-archive/actions/workflows/localisation.yml)
 
 # EVE Localisation Archive
 
