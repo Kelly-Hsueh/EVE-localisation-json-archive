@@ -27,7 +27,7 @@ LATEST_DIR = ROOT / "latest"
 
 
 def load_pickle(path: Path) -> dict:
-    """Load a localization pickle and return the message dict."""
+    """Load a localisation pickle and return the message dict."""
     with open(path, "rb") as f:
         raw = pickle.load(f)
     return raw[1]
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(
-        description="Merge EVE localization pickles to JSON.")
+        description="Merge EVE localisation pickles to JSON.")
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
     parser.add_argument("lang", help='Language code, e.g. "zh", "ja", "en-us"')
     args = parser.parse_args()

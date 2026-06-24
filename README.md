@@ -1,6 +1,8 @@
-# EVE Localization Archive
+[![EVE Localisation Archive](https://github.com/Kelly-Hsueh/EVE-localisation-json-archive/actions/workflows/localisation.yml/badge.svg)](https://github.com/Kelly-Hsueh/EVE-localisation-json-archive/actions/workflows/localisation.yml)
 
-Automated archive of EVE Online localization data for Tranquility (TQ) and Singularity (SISI).
+# EVE Localisation Archive
+
+Automated archive of EVE Online localisation data for Tranquility (TQ) and Singularity (SISI).
 
 ## Structure
 
@@ -12,8 +14,8 @@ latest/
 state/
 ├── tq-build.txt        ← last processed TQ build number
 ├── sisi-build.txt      ← last processed SISI build number
-├── tq-hashes.json      ← last known localization hashes for TQ
-└── sisi-hashes.json    ← last known localization hashes for SISI
+├── tq-hashes.json      ← last known localisation hashes for TQ
+└── sisi-hashes.json    ← last known localisation hashes for SISI
 
 scripts/
 ├── fetch.py            ← download pickles from EVE CDN
@@ -24,7 +26,7 @@ scripts/
 └── run.py              ← orchestrator (fetch → merge → changelog → release)
 
 .github/workflows/
-└── localization.yml    ← daily GitHub Actions workflow
+└── localisation.yml    ← daily GitHub Actions workflow
 
 CHANGELOG_TQ.md        ← cumulative TQ changelog
 CHANGELOG_SISI.md      ← cumulative SISI changelog
@@ -75,11 +77,8 @@ python scripts/run.py SISI
 python scripts/run.py TQ SISI --force
 ```
 
-Set `GITHUB_TOKEN` and `GITHUB_REPO` (e.g. `your-org/eve-localization-archive`)
-to enable automatic release creation.
-
 ## Legal
 
 Scripts in this repository are released under the MIT License.  
-EVE Online localization content is © Fenris Creations ehf. All rights reserved.  
+EVE Online localisation content is © Fenris Creations ehf. All rights reserved.  
 This project is not affiliated with or endorsed by Fenris Creations.

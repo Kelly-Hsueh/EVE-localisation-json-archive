@@ -1,4 +1,4 @@
-name: EVE Localization Archive
+name: EVE Localisation Archive
 
 on:
   schedule:
@@ -63,10 +63,11 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.14"
+
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run localization pipeline
+      - name: Run localisation pipeline
         run: |
           FORCE_FLAG=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
@@ -98,8 +99,14 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          BUILD=$(cat "state/$(echo '${{ matrix.server }}' | tr '[:upper:]' '[:lower:]')-build.txt" 2>/dev/null || echo "unknown")
-          git commit -m "chore(localization): update ${{ matrix.server }} build ${BUILD}
+          SERVER_LOWER=$(echo "${{ matrix.server }}" | tr '[:upper:]' '[:lower:]')
+          BUILD=$(cat "state/${SERVER_LOWER}-build.txt" 2>/dev/null || echo "unknown")
+          if git diff --cached --quiet -- "latest/${SERVER_LOWER}/"; then
+            MSG="data: track ${{ matrix.server }} build ${BUILD} (no localisation changes)"
+          else
+            MSG="data: update ${{ matrix.server }} build ${BUILD}"
+          fi
+          git commit -m "${MSG}
 
           automated by GitHub Actions."
 
@@ -131,5 +138,5 @@ jobs:
           if [ -f "$META" ]; then
             python scripts/create_release.py "$META"
           else
-            echo "No pending release metadata found (no localization changes)."
+            echo "No pending release metadata found (no localisation changes)."
           fi

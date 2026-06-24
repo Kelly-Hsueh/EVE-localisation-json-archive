@@ -1,10 +1,10 @@
 """
-fetch.py – Download EVE Online localization pickle files for TQ and SISI.
+fetch.py – Download EVE Online localisation pickle files for TQ and SISI.
 
 Flow per server:
   1. GET eveclient_{SERVER}.json → build number
   2. GET eveonline_{build}.txt   → locate resfileindex entry
-  3. Download resfileindex        → parse localization entries
+  3. Download resfileindex        → parse localisation entries
   4. Compare hashes against state/{server}-hashes.json
   5. Download only languages whose hash changed
   6. Return metadata for downstream steps
@@ -158,7 +158,7 @@ def save_state_build(server: str, build: int) -> None:
 
 def fetch_server(server: str, force: bool = False) -> dict:
     """
-    Fetch localization data for *server* ("TQ" or "SISI").
+    Fetch localisation data for *server* ("TQ" or "SISI").
 
     Returns:
       {
@@ -190,7 +190,7 @@ def fetch_server(server: str, force: bool = False) -> dict:
     resfileindex_content = get_text(resfileindex_url)
     entries = parse_resfileindex(resfileindex_content)
 
-    print(f"[{server}] Found {len(entries)} localization entries.")
+    print(f"[{server}] Found {len(entries)} localisation entries.")
 
     changed = {}
     new_hashes = {lang: info["hash"] for lang, info in entries.items()}
@@ -242,7 +242,7 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(
-        description="Fetch EVE localization pickles.")
+        description="Fetch EVE localisation pickles.")
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
     parser.add_argument("--force",
                         action="store_true",
