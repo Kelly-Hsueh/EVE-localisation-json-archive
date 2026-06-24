@@ -77,3 +77,9 @@ python scripts/run.py TQ SISI --force
 
 Set `GITHUB_TOKEN` and `GITHUB_REPO` (e.g. `your-org/eve-localization-archive`)
 to enable automatic release creation.
+
+## Legal
+
+Scripts in this repository are released under the MIT License.  
+EVE Online localization content is © Fenris Creations ehf. All rights reserved.  
+This project is not affiliated with or endorsed by Fenris Creations.
