@@ -1,3 +1,1139 @@
+# Build 3421648
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 12 | 14 | 0 |
+| en | 12 | 6 | 0 |
+| es | 12 | 14 | 0 |
+| fr | 12 | 14 | 0 |
+| ja | 12 | 14 | 0 |
+| ko | 12 | 14 | 0 |
+| ru | 12 | 14 | 0 |
+| zh | 12 | 14 | 0 |
+
+## Details
+
+### MessageID: 1009122 · Source Modified
+
+EN
+
+```diff
++ The crate contains an insured T1 fitted Destroyer from your starter Empire.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易
+```
+
+
+
+
+### MessageID: 1009124 · Source Modified
+
+EN
+
+```diff
++ The crate contains an exploration frigate for your starting Empire; it is fitted and insured.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易
+```
+
+
+
+
+### MessageID: 1009128 · Source Modified
+
+EN
+
+```diff
++ The crate contains an insured T1 fitted Cruiser from your starting Empire.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易
+```
+
+
+
+
+### MessageID: 1045807 · Source Modified
+
+EN
+
+```diff
+- This sealed containment crate holds a Calm Abyssal Filament of a random weather ty[…]
++ This sealed containment crate holds a Tranquil Abyssal Filament of a random weather ty[…]
+```
+
+
+DE
+
+```text
+Diese versiegelte Sicherheitskiste enthält ein ruhiges Abgrundfilament eines zufälligen Wettertyps, das Sie in eine Raumverwerfung des Abgrunds transportieren kann.
+```
+
+
+ES
+
+```text
+Esta caja de contención sellada contiene un filamento abisal calmado de un tipo atmosférico aleatorio que puede transportarte a una burbuja del espacio muerto abisal.
+```
+
+
+FR
+
+```text
+Cette caisse de confinement scellée contient un filament abyssal paisible de type aléatoire, qui peut vous transporter dans une poche d'abîme Deadspace.
+```
+
+
+JA
+
+```text
+この密閉された箱には1個のカーム・アビサルフィラメントが入っている。フィラメントはランダムな天候を起こし、それを使ってアビサルデッドスペースポケットに行くことができる。
+```
+
+
+KO
+
+```text
+어비설 데드스페이스 포켓으로 이동시켜주는 고요한 어비설 필라멘트(무작위 기상 속성)가 담겨 있는 격납용기입니다.
+```
+
+
+RU
+
+```text
+Внутри этого герметичного контейнера находится нить бездны, ведущая в участок Мёртвой бездны со спокойной средой и случайными климатическими условиями..
+```
+
+
+ZH
+
+```text
+这个密封的箱子里面有一个随机类型的镇静深渊纤维，可以将你传送到一个深渊空间层中。
+```
+
+
+
+
+### MessageID: 1045814 · Source Modified
+
+EN
+
+```diff
+- […]te contains an insured T1 fitted Cruisers from your starting Empire.
++ […]te contains an insured T1 fitted Cruiser from your starting Empire.
+```
+
+
+DE
+
+```text
+Die Kiste enthält einen versicherten T1-Kreuzer mit Schiffsausrüstung aus Ihrem Startimperium.
+```
+
+
+ES
+
+```text
+La caja incluye cruceros T1 equipados y asegurados de tu imperio inicial.
+```
+
+
+FR
+
+```text
+La caisse contient un croiseur T1 pour votre empire de départ, déjà équipé et assuré.
+```
+
+
+JA
+
+```text
+この箱には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれてる。
+```
+
+
+KO
+
+```text
+소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 크루저를 제공합니다.
+```
+
+
+RU
+
+```text
+Этот контейнер содержит оснащённый и застрахованный крейсер 1-го техноуровня, выпущенный вашей изначальной державой.
+```
+
+
+ZH
+
+```text
+打开箱子后你可以获得一艘来自你起始帝国、已装配并投保的T1巡洋舰。
+```
+
+
+
+
+### MessageID: 1045832 · Source Modified
+
+EN
+
+```diff
++ The crate contains a fitted Pioneer mining destroyer with insurance.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1047410 · Translation Modified
+
+EN
+
+```text
+Gallente Pilot
+```
+
+
+DE
+
+```diff
+- 
++ Gallente Pilot
+```
+
+
+ES
+
+```diff
+- 
++ Piloto gallente
+```
+
+
+FR
+
+```diff
+- 
++ Pilote gallente
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテパイロット
+```
+
+
+KO
+
+```diff
+- 
++ 갈란테 파일럿
+```
+
+
+RU
+
+```diff
+- 
++ Gallente Pilot
+```
+
+
+ZH
+
+```diff
+- 
++ 盖伦特飞行员
+```
+
+
+
+
+### MessageID: 1047411 · Translation Modified
+
+EN
+
+```text
+<font size="14"><b>Gallente Pilot Expert System</b></font>
+
+This Expert System makes available skills enabling a capsuleer to fly Gallente Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
+
+<b>The temporary skills provided by this Expert System last for seven days.</b>
+
+An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
+(truncated, 1,394 chars total)
+```
+
+
+DE
+
+```diff
+- 
++ <font size="14"><b>Expertensystem für Gallente-Piloten</b></font> Dieses Expertensystem ermöglicht es Kapselpiloten, durch Bereitstellung entsprechender Skills, verschiedene Gallente Tech 1, sowie Navy-Fregatten, Zerstörer, Kreuzer, Schlachtkreuzer und Schlachtschiffe zu fliegen. Dazu gibt es Unterstützungsskills mit dem Fokus auf Gallente. <b>Die durch dieses Expertensystem bereitgestellten temporären Skills sind sieben Tage lang gültig.</b> Ein Expertensystem ist eine entfernte, eingeschränkte künstliche Intelligenz, die Ihnen während der aktiven Mietdauer Zugang zu bestimmten Skills bietet. Da es unabhängig von Ihrem Klon und Ihrer Kapsel ist, geht ein aktives Expertensystem nicht bei Kapseltod oder Klonsprung verloren. <font size="14"><b>Aktivierung eines Expertensystems</b></font> Die Aktivierung eines Expertensystems erfolgt automatisch bei Einlösung des Gegenstands durch den spezifischen Kapselpiloten, der den Dienst nutzen möchte. <i>Expertensysteme sind ein Produkt, das vom PKN Interstellar Consortium entwickelt und über das HyperNet Überlichtgeschwindigkeitskommunikationsnetzwerk bereitgestellt wird. Sie werden von den Mitgliedscorporations von PKN Interstellar vermarktet. Ein Expertensystem ist eine eingeschränkte KI, die auf künstlicher Gelhirn-Technologie basiert. Da das Expertensystem neuronale Pfade nutzt, die durch Skilltraining oder Skill-Injektion erstellt wurden, ist es mit Kapsel-Schiff-Interfaces und Kontrollsystemen kompatibel. Die Echtzeit-Kommando- und Kontrollkommunikation erfolgt über dedizierte Überlichtkanäle im HyperNet von PKN Interstellar.</i>
+```
+
+
+ES
+
+```diff
++ <font size="14"><b>Sistema experto para piloto gallente</b></font>
++ 
++ Este sistema experto pone a disposición de los capsulistas habilidades que les permiten pilotar fragatas, destructores, cruceros, cruceros de combate y acorazados gallentes T1 y de la Armada, además de naves de apoyo gallentes.
++ 
++ <b>Las habilidades temporales proporcionadas por este sistema experto duran siete días.</b>
++ 
++ Un sistema experto es una inteligencia artificial remota y restringida que proporciona acceso a ciertas habilidades durante el periodo activo. No depende ni de tu clon ni de tu cápsula, por lo que no lo perderás si esta se destruye o si se lleva a cabo un salto de clon.
++ 
++ <font size="14"><b>Activación de un sistema experto</b></font>
++ 
++ Un sistema experto se activa automáticamente cuando el capsulista que va a usar el servicio canjea el objeto.
++ 
++ <i>Los sistemas expertos son productos desarrollados por el consorcio PKN Interstellar, quien los pone a disposición de los usuarios a través de la red de comunicaciones supralumínica HyperNet y los comercializa a través de las corporaciones que forman parte de PKN Interstellar. Un sistema experto es una IA restringida que funciona con tecnología de cerebro-gel artificial. Como utiliza vías neuronales basadas en las que se crean al desarrollar o inyectar habilidades, es compatible con los sistemas de control y la interfaz cápsula-nave. Así pues, se establece una comunicación entre mando y control en tiempo real con canales supralumínicos exclusivos dentro de la red HyperNet de PKN Interstellar.</i>
+```
+
+
+FR
+
+```diff
+- 
++ <font size="14"><b>Système expert de pilote gallente</b></font> Ce système expert confère au capsulier les compétences lui permettant de piloter des vaisseaux gallente de Tech I et Navy de type frégate, destroyer, croiseur, croiseur cuirassé et cuirassé ainsi que des compétences de soutien spécifiques aux Gallente. <b>Les compétences temporaires octroyées par ce système expert durent sept jours.</b> Un système expert est une intelligence artificielle restreinte à distance qui vous fait bénéficier de certaines compétences pendant la période de location active. Étant indépendant de votre clone et de votre capsule, un système expert actif ne sera donc pas perdu en cas de décapsulage ou saut de clone. <font size="14"><b>Activation d'un système expert</b></font> L'activation d'un système expert est automatique lors de l'utilisation de l'objet par le capsulier qui souhaite utiliser le service. <i>Les systèmes experts sont un produit développé par le consortium PKN Interstellar, disponible via le réseau de communications PRL HyperNet et commercialisé par les corporations membres de PKN Interstellar. Un système expert est une IA restreinte basée sur la technologie du neurogel. Comme le système expert utilise des voies neuronales basées sur celles créées par l'apprentissage de compétences ou l'injection de compétences, il est compatible avec l'interface et les systèmes de contrôle vaisseau-capsule. Les communications de contrôle et de commandement en temps réel transitent via des canaux PRL dédiés sur l'HyperNet de PKN Interstellar.</i>
+```
+
+
+JA
+
+```diff
++ <font size="14"><b>ガレンテパイロット・エキスパートシステム</b></font>
++ 
++ このエキスパートシステムを使用すると、カプセラがガレンテのT1および連邦海軍仕様のフリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦を操縦するために必要なスキルと、ガレンテ艦に特化したサポートスキルを利用できるようになる。
++ 
++ <b>このエキスパートシステムで提供される一時スキルの有効期間は7日間。</b>
++ 
++ エキスパートシステムは、有効なレンタル期間中に特定のスキルへのアクセスを提供する、リモートで制限された人工知能である。クローンやカプセルからは独立しているため、ポッドの喪失やクローンジャンプによって失われることがない。
++ 
++ <font size="14"><b>エキスパートシステムの起動</b></font>
++ 
++ エキスパートシステムは、サービスを利用しようとする特定のカプセラがアイテムを交換することで自動的に起動する。
++ 
++ <i>エキスパートシステムは、PKNインターステラー・コンソーシアムが開発した製品で、ハイパーネットFTL通信網を流通し、PKNインターステラーの関連企業が販売している。人工ゲルブレイン技術をベースにした制限付きAIで、スキルトレーニングやスキルインジェクションによって生成された神経経路を利用しているため、カプセルシップのインターフェースや制御システムとも互換性がある。PKNインターステラーのハイパーネット上の専用FTLチャンネルを使用して、リアルタイムコマンドと制御通信を実現している。</i>
+```
+
+
+KO
+
+```diff
++ <font size="14"><b>갈란테 파일럿 전문가 시스템</b></font>
++ 
++ 이 전문가 시스템은 갈란테에 특화된 지원 스킬과 더불어, 캡슐리어가 갈란테 테크 I 및 해군 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽을 운용하는 데 필요한 스킬을 제공합니다.
++ 
++ <b>해당 전문가 시스템은 7일간 지속됩니다.</b>
++ 
++ 전문가 시스템은 제한형 AI로 일정 기간 캡슐리어의 스킬 사용을 활성화합니다. 사용자의 신체 및 캡슐과 독립되어 있기 때문에 캡슐이 파괴되거나 클론을 변경해도 시스템이 제거되지 않습니다.
++ 
++ <font size="14"><b>전문가 시스템 활성화</b></font>
++ 
++ 전문가 시스템을 수령하면 즉시 적용됩니다.
++ 
++ <i>전문가 시스템은 PKN 인터스텔라에 의해 개발 및 판매되는 제품으로 FTL 통신 네트워크인 하이퍼넷을 통해 배포됩니다. 인공 젤브레인을 바탕으로 설계된 제한형 AI이며, 스킬 주입 및 훈련을 통해 생성된 신경망을 활용하기에 함선 인터페이스를 비롯한 제어 시스템과 연동됩니다. FTL 네트워크인 하이퍼넷을 통해 실시간 제어 및 통신이 이루어집니다.</i>
+```
+
+
+RU
+
+```diff
+- 
++ <font size="14"><b>Экспертная система «Галлентский пилот»</b></font> Эта экспертная система даёт доступ к навыкам, позволяющим пилоту летать на галлентских судах 1 техноуровня, на галлентских флотских судах, эсминцах, крейсерах, линейных крейсерах и линкорах, а также разблокирует соответствующие навыки поддержки. <b>Полученные временные навыки действуют в течение семи дней.</b> Экспертная система — это дистанционный искусственный интеллект ограниченного действия, предоставляющий определённые навыки на время его использования. Такие системы не теряются при уничтожении капсулы или смене клона, поскольку не зависят от них. <font size="14"><b>Активация экспертной системы</b></font> Активация происходит автоматически, когда капсулёр использует соответствующий предмет. <i>Экспертные системы — это продукты консорциума «ПКН Интерстеллар», предоставляемые корпорациями, входящими в состав «ПКН Интерстеллар», и доступные посредством системы сверхсветовых коммуникаций через гиперсеть. По своей сути они являются ИИ ограниченного действия, созданными на основе технологии гелеобразного мозга. Экспертные системы используют нейронные каналы, образующиеся при освоении или инъекции навыков, поэтому они совместимы с интерфейсом корабля и капсулы, а также с их системами управления. Управление и коммуникация осуществляются в реальном времени по выделенным сверхсветовым каналам гиперсети консорциума «ПКН Интерстеллар».</i>
+```
+
+
+ZH
+
+```diff
+- 
++ <font size="14"><b>盖伦特飞行员专家系统</b></font>该专家系统可为克隆飞行员提供驾驶盖伦特一级科技与海军护卫舰、驱逐舰、巡洋舰、战列巡洋舰及战列舰所需的技能，以及配套的盖伦特舰船辅助技能。<b>此专家系统提供的临时技能有效期为七天。</b>专家系统是一种远程受限人工智能，可在租赁有效期内为你提供特定技能的使用权限。专家系统不依托于克隆体和太空舱，因此已启用的专家系统在太空舱损毁或进行远距克隆时也能继续使用。<font size="14"><b>启用专家系统</b></font>克隆飞行员兑换此物品后就会自动启用专家系统。<i>专家系统由PKN星际财团研发，通过超光速网络通信提供服务，并由PKN星际集团成员企业负责推广与销售。专家系统是一种基于虚拟大脑技术的受限人工智能。专家系统使用了通过技能训练或技能注入产生的神经通路，可与太空舱界面和控制系统兼容。通过PKN星际集团超网上的专用超光速频道可以实现实时指令和控制通信。</i>
+```
+
+
+
+
+### MessageID: 1047444 · Translation Modified
+
+EN
+
+```text
+Federation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Federación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ 「連邦の日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 연방의 날 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 联邦国庆日庆典箱
+```
+
+
+
+
+### MessageID: 1047445 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald Metallic - Limited, Liberty's Wings - Limited, Background, Festival Launcher and a Four Freedoms Firework.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Villore Viridescent Matte – Limited, Intaki Emerald Metallic – Limited, Libertys Wings – Limited, Hintergrund, festlicher Raketenwerfer und ein „Vier Freiheiten“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Este contenedor incluye 10 PLEX, Villore viridiscente mate (limitado), Intaki esmeralda metálico (limitado), Alas de libertad (limitado), un fondo, un lanzador festivalero y fuegos artificiales de las Cuatro Libertades.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Viridescence de Villore mat - Limité, Émeraude d'Intaki métallique - Limité, Ailes de la Liberté - Limité, Arrière-plan, Lanceur de Festival et un feu d'artifice Quatre Libertés.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、ビロア・ヴィリデセント・マット（限定）、インタキ・エメラルド・メタリック（限定）、リバティ・ウィング（限定）、背景、フェスティバルランチャー、そして「四大自由の花火」が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 청록색 빌로어 무광 - 한정, 인타키 에메랄드 금속성 - 한정, 자유의 날개 - 한정, 배경, 축제용 런처 및 4대 자유 폭죽 1개가 담겨 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Villore Viridescent Matte (однораз.), Intaki Emerald Metallic (однораз.), Liberty's Wings (однораз.), фон, модуль для праздничного запуска и фейерверк «Четыре свободы».
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、哑光级维洛勒浅绿（限量版）、金属级印塔基翠绿（限量版）、自由之翼（限量版）、背景、节日发射器和一枚四大自由烟火。
+```
+
+
+
+
+### MessageID: 1047446 · Translation Modified
+
+EN
+
+```text
+Federation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Federación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ 「連邦の日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 연방의 날 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 联邦国庆日庆典箱
+```
+
+
+
+
+### MessageID: 1047447 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald Metallic - Limited, Liberty's Wings - Limited, Background, Festival Launcher and a Four Freedoms Firework
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Villore Viridescent Matte – Limited, Intaki Emerald Metallic – Limited, Libertys Wings – Limited, Hintergrund, festlicher Raketenwerfer und ein „Vier Freiheiten“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Este contenedor incluye 10 PLEX, Villore viridiscente mate (limitado), Intaki esmeralda metálico (limitado), Alas de libertad (limitado), un fondo, un lanzador festivalero y fuegos artificiales de las Cuatro Libertades.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Viridescence de Villore mat - Limité, Émeraude d'Intaki métallique - Limité, Ailes de la Liberté - Limité, Arrière-plan, Lanceur de Festival et un feu d'artifice Quatre Libertés.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、ビロア・ヴィリデセント・マット（限定）、インタキ・エメラルド・メタリック（限定）、リバティ・ウィング（限定）、背景、フェスティバルランチャー、そして「四大自由の花火」が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 청록색 빌로어 무광 - 한정, 인타키 에메랄드 금속성 - 한정, 자유의 날개 - 한정, 배경, 축제용 런처 및 4대 자유 폭죽 1개가 담겨 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Villore Viridescent Matte (однораз.), Intaki Emerald Metallic (однораз.), Liberty's Wings (однораз.), фон, модуль для праздничного запуска и фейерверк «Четыре свободы»
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、哑光级维洛勒浅绿（限量版）、金属级印塔基翠绿（限量版）、自由之翼（限量版）、背景、节日发射器和一枚四大自由烟火
+```
+
+
+
+
+### MessageID: 1047581 · Translation Modified
+
+EN
+
+```text
+Soaring Federation Background
+```
+
+
+DE
+
+```diff
+- 
++ Soaring Federation Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Federación en vuelo
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Fédération surplombante
+```
+
+
+JA
+
+```diff
+- 
++ 背景「繁栄する連邦」
+```
+
+
+KO
+
+```diff
+- 
++ 비상하는 연방 배경
+```
+
+
+RU
+
+```diff
+- 
++ Soaring Federation Background
+```
+
+
+ZH
+
+```diff
+- 
++ 翱翔联邦背景
+```
+
+
+
+
+### MessageID: 1047582 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048031 · Added
+
+EN
+
+```text
+Minmatar Pilot
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048032 · Added
+
+EN
+
+```text
+<font size="14"><b>Minmatar Pilot Expert System</b></font>
+
+This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
+
+<b>The temporary skills provided by this Expert System last for seven days.</b>
+
+An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
+(truncated, 1,394 chars total)
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048203 · Added
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048204 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048212 · Added
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048213 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048291 · Added
+
+EN
+
+```text
+Liberated Matar Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048292 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048294 · Added
+
+EN
+
+```text
+Foundation Wisdom Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048295 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048296 · Added
+
+EN
+
+```text
+Union Contemplation Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048297 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+---
+
 # Build 3419624
 
 ## Summary
