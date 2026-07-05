@@ -79,6 +79,9 @@ python scripts/run.py SISI
 # Force re-download everything
 python scripts/run.py TQ SISI --force
 ```
+## Acknowledgements
+
+Thanks to [EstamelGG](https://github.com/EstamelGG) for his help during the design phase.
 
 ## Legal
 
