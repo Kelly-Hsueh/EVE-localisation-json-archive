@@ -14,6 +14,7 @@ __pycache__/
 
 # Development notes and refactoring documentation (local only)
 dev-notes/
+*_matches.csv
 
 # Temporary files
 tempCodeRunnerFile.py
