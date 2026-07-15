@@ -1,11 +1,15 @@
 """
-search_strings.py – Search EVE localisation JSON for a keyword and export matches to CSV.
+search_strings.py – Search EVE localisation JSON for a keyword and export matches to TSV.
 
 Scans latest/{server}/{lang}.json files and finds entries whose text (in any
 selected language, or a specific one) matches the given keyword.  Matches are
-grouped by MessageID; the output CSV includes one row per MessageID with
+grouped by MessageID; the output TSV includes one row per MessageID with
 columns for every language present in the archive for that server, so you
 can see the English source alongside all translations.
+
+TSV (not CSV) is used because Python's csv module doubles quote characters,
+which corrupts game string content; tab-separated output preserves the
+original text as-is, including any embedded newlines, for readability.
 
 Usage:
   # Plain substring match, all languages, TQ server
@@ -15,14 +19,13 @@ Usage:
   python scripts/search_strings.py TQ "Warp.*Cyno" --regex --lang en,zh
 
   # Custom output path
-  python scripts/search_strings.py SISI "跃迁" -o cyno_strings.csv
+  python scripts/search_strings.py SISI "跃迁" -o cyno_strings.tsv
 
-Output CSV columns:
-  message_id, en, de, es, fr, it, ja, ko, ru, zh   (only languages found on disk)
+Output TSV columns:
+  messageID, en, de, es, fr, it, ja, ko, ru, zh   (only languages found on disk)
 """
 
 import argparse
-import csv
 import json
 import re
 import sys
@@ -76,7 +79,7 @@ def search(server: str, keyword: str, languages: list[str] | None,
            use_regex: bool, ignore_case: bool) -> tuple[list[str], list[dict]]:
     """
     Returns (column_langs, rows) where each row is
-    {"message_id": str, lang: text, ...} for every matching MessageID.
+    {"messageID": str, lang: text, ...} for every matching MessageID.
     """
     server_dir = LATEST_DIR / server.lower()
     if not server_dir.exists():
@@ -118,7 +121,7 @@ def search(server: str, keyword: str, languages: list[str] | None,
 
     rows = []
     for msg_id in sorted(matched_ids, key=sort_key):
-        row = {"message_id": msg_id}
+        row = {"messageID": msg_id}
         for lang in all_langs:
             entry = data[lang].get(msg_id, {})
             row[lang] = entry.get("en", "") if lang == "en" else entry.get(
@@ -128,19 +131,33 @@ def search(server: str, keyword: str, languages: list[str] | None,
     return all_langs, rows
 
 
-def write_csv(path: Path, langs: list[str], rows: list[dict]) -> None:
-    fieldnames = ["message_id"] + langs
+def _tsv_safe(value: str) -> str:
+    """
+    Escape characters that would break TSV's row/column structure.
+
+    Only tab, newline, and carriage return are touched, since those are
+    the characters that actually corrupt a TSV row/column boundary.
+    Everything else in the source text — including backslashes and
+    quotes — is left exactly as-is so the field round-trips back to the
+    original string.
+    """
+    return value.replace("\t", "\\t").replace("\n", "\\n").replace("\r", "\\r")
+
+
+def write_tsv(path: Path, langs: list[str], rows: list[dict]) -> None:
+    fieldnames = ["messageID"] + langs
     with open(path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
-        writer.writeheader()
+        f.write("\t".join(fieldnames) + "\n")
         for row in rows:
-            writer.writerow(row)
+            f.write("\t".join(
+                _tsv_safe(str(row.get(field, "")))
+                for field in fieldnames) + "\n")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Search EVE localisation archive for "
-        "a keyword and export matches to CSV.")
+        "a keyword and export matches to TSV.")
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
     parser.add_argument("keyword",
                         help="Substring or regex pattern to search for")
@@ -164,7 +181,7 @@ def main() -> None:
         "--output",
         type=Path,
         default=None,
-        help="Output CSV path (default: {server}_{keyword}_matches.csv)")
+        help="Output TSV path (default: {server}_{keyword}_matches.tsv)")
     args = parser.parse_args()
 
     server = args.server.upper()
@@ -187,9 +204,9 @@ def main() -> None:
         out_path = args.output
     else:
         safe_kw = re.sub(r"[^\w-]+", "_", args.keyword)[:40]
-        out_path = ROOT / f"{server.lower()}_{safe_kw}_matches.csv"
+        out_path = ROOT / f"{server.lower()}_{safe_kw}_matches.tsv"
 
-    write_csv(out_path, langs, rows)
+    write_tsv(out_path, langs, rows)
     print(f"Matched {len(rows)} MessageID(s). Wrote → {out_path}")
 
 
