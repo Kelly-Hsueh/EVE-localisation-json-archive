@@ -1,3 +1,3491 @@
+# Build 3435006
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 48 | 25 | 0 |
+| en | 6 | 3 | 0 |
+| es | 48 | 27 | 0 |
+| fr | 48 | 27 | 0 |
+| ja | 48 | 27 | 0 |
+| ko | 48 | 26 | 0 |
+| ru | 48 | 26 | 0 |
+| zh | 48 | 27 | 0 |
+
+## Details
+
+### MessageID: 67192 · Source Modified
+
+EN
+
+```diff
+  <center>
+  <h2>EVE Online</h2>
+  <br>
+- <p>Version: 24.01</p>
+- <p>EVE is a product of Fenris Creations hf.</p>
++ <p>Version: {version}.{[numeric]build} </p>
++ <p>EVE is a product of Fenris Creations ehf.</p>
+  <p>Copyright © Fenris Creations 1997-2026. All rights reserved.</p>
+  <p>Please visit our homepage http://www.fenris.com/ for more information.</p>
+[…]
+     <h3>This product includes the following software:</h3>
+  <hr>
+- <h3>Uses software that is based in part on the work of the Independent JPEG Group.</h3>
+- <hr>
+- <h3>Uses software that is based in part of the work of the PNG Development Group.</h3>
+- <hr>
+- <h3>Uses Zlib, general purpose data compression library, written by Jean-loup Gailly and Mark Adler.</h3>
+- <hr>
+- <h3>Uses ChartDirector by Advanced Software Engineering.</h3>
+- <hr>
+- <p>Uses Wwise. Copyright © 2006-2009 Audiokinetic Inc. All rights reserved.</p>
+- <p>Uses Granny Animation. Copyright © 1999-2008 by RAD Game Tools, Inc.</p>
+- <p>Uses Simplygon® Copyright © 2009 Donya® Labs AB.</p>
+- <h3>Portions of this software are copyright © 2001-2008 Python Software Foundation, all rights reserved.</h3>
+- <hr>
+- <h3>Portions of this software are copyright © 2008 The FreeType Project, all rights reserved.</h3>
+- <hr>
+- <h3>This product includes software that is based in part of the work of the Xiph.Org Foundation. © 2005, Xiph.Org Foundation</h3>
+- <hr>
+- <h3>MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.</h3>
+- <hr>
+- <h3>This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.</h3>
+- <hr>
++ <p>
++     Uses software that is based in part on the work of the Independent JPEG Group.<br>
++     Uses software that is based in part of the work of the PNG Development Group.<br>
++     Uses Zlib, general purpose data compression library, written by Jean-loup Gailly and Mark Adler.<br>
++     Uses ChartDirector by Advanced Software Engineering.<br>
++     Uses Wwise. Copyright © 2006-2009 Audiokinetic Inc. All rights reserved.<br>
++     Uses Granny Animation. Copyright © 1999-2008 by RAD Game Tools, Inc.<br>
++     Uses Simplygon® Copyright © 2009 Donya® Labs AB.<br>
++     Portions of this software are copyright © 2001-2008 Python Software Foundation, all rights reserved.<br>
++     Portions of this software are copyright © 2008 The FreeType Project, all rights reserved.<br>
++     This product includes software that is based in part of the work of the Xiph.Org Foundation. © 2005, Xiph.Org Foundation<br>
++     MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.<br>
++     This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.<br>
++ </p>
+```
+
+
+DE
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
+(truncated, 2,172 chars total)
+```
+
+
+ES
+
+```text
+<center>
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    Versión: {version}.{[numeric]build}<br><br>
+    <h4>EVE is a product of CCP hf.</h4>
+    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
+    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
+    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
+</center>
+<br><br>
+<h2>Credits</h2>
+<p>
+    Sp
+(truncated, 2,224 chars total)
+```
+
+
+FR
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
+(truncated, 2,154 chars total)
+```
+
+
+JA
+
+```text
+<center>
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    バージョン：{version}.{[numeric]build}<br><br>
+    <h4>EVEはCCP hfの製品です。</h4>
+    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
+    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
+    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
+</center>
+<br><br>
+<h2>クレジット</h2>
+<p>
+    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
+    感謝いたします。
+(truncated, 1,847 chars total)
+```
+
+
+KO
+
+```text
+<center>
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    버전: {version}.{[numeric]build}<br><br>
+    <h4>EVE는 CCP hf의 제품입니다.</h4>
+    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
+    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
+    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
+</center>
+<br><br>
+<h2>크레딧</h2>
+<p>
+    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
+     그 가족 여러분께 특히 감
+(truncated, 1,844 chars total)
+```
+
+
+RU
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
+(truncated, 2,107 chars total)
+```
+
+
+ZH
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]currentYear}。保留所有权利。<br> 如需了解更多信息，请访问我们的主页<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>。<br> 如需获取帮助，请联系<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>鸣谢</h2><p>十分感谢所有参与EVE制作的人员，尤其要感谢CCP的员工和家庭的支持。<p>{EVECredits} <br> <br> {VanguardCredits} <br> <br> {CCPCredits}<p><p><br> 本产品包含下列软件程序：<br> <br> 采用了部分
+(truncated, 1,411 chars total)
+```
+
+
+
+
+### MessageID: 710092 · Source Modified
+
+EN
+
+```diff
+[…]
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Game Design Director :</b></td>
++         <td width=325 align=right><b>Game Design Director:</b></td>
+          <td>Adam Board</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Game Designer :</b></td>
+-         <td>Anthony Massey</td>
++         <td width=325 align=right><b>Creative Lead:</b></td>
++         <td>Jamie Stanton</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Technical Designer :</b></td>
++         <td width=325 align=right><b>Lead Gameplay Designer:</b></td>
++         <td>Peter Griffin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Game Designer:</b></td>
++         <td>Christiaan Jones</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Technical Designer:</b></td>
+          <td>Bryan Malloroy</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Level Designer :</b></td>
+-         <td>Jesse Holcroft</td>
++         <td width=325 align=right><b>Systems Designer:</b></td>
++         <td>Richard Driscoll</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Level Designer :</b></td>
++         <td width=325 align=right><b>Lead Level Designer:</b></td>
++         <td>Jarek Szymanski</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Level Designer:</b></td>
+          <td>Tyler Lamon</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead UI/UX Designer :</b></td>
++         <td width=325 align=right><b>Lead UI/UX Designer:</b></td>
+          <td>Ryan Last-Harris</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior UI/UX Designers :</b></td>
+-         <td>Jacob Jensen, Sierra Lorenzini</td>
++         <td width=325 align=right><b>Senior UI/UX Designers:</b></td>
++         <td>Sierra Lorenzini</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Systems Designer :</b></td>
+-         <td>Richard Driscoll</td>
++         <td width=325 align=right><b>Senior UI/UX Technical Designer:</b></td>
++         <td>Jacob Jensen</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>UI Artist :</b></td>
++         <td width=325 align=right><b>Senior UI Artist:</b></td>
+          <td>Mathieu Bijuk</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Narrative Experience Designer :</b></td>
+-         <td>Jamie Stanton</td>
++         <td width=325 align=right><b>Narrative Design:</b></td>
++         <td>Alastair Lavery, Madeleine Jay</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Engineering</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Technical Director :</b></td>
++         <td width=325 align=right><b>Technical Director:</b></td>
+          <td>Tom Woodhead</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Backend Engineer :</b></td>
++         <td width=325 align=right><b>Lead Backend Engineer:</b></td>
+          <td>Alex Rudd</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Backend Engineers :</b></td>
+-         <td>Hannah Dawson, Kurtis Lamb</td>
++         <td width=325 align=right><b>Principal Backend Engineer:</b></td>
++         <td>Kurtis Lamb</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate Backend Engineer :</b></td>
++         <td width=325 align=right><b>Senior Backend Engineer:</b></td>
++         <td>Hannah Dawson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate Backend Engineer:</b></td>
+          <td>Irina Fratila</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>Lead Gameplay Engineer:</b></td>
+          <td>Alick Goldenberg</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>Principal Gameplay Engineer:</b></td>
+          <td>Victor Macho</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Gameplay Engineers :</b></td>
++         <td width=325 align=right><b>Senior Gameplay Engineers:</b></td>
+          <td>Jury Verrigni, Raul Gernaert</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>Senior Animation Gameplay Engineer:</b></td>
++         <td>Miquel Cunill</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Gameplay Engineer:</b></td>
+          <td>Ortwin Van der Stappen</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead UI Engineer :</b></td>
++         <td width=325 align=right><b>Lead UI Engineer:</b></td>
+          <td>Dominic Curry</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior UI Engineer :</b></td>
++         <td width=325 align=right><b>Senior UI Engineer:</b></td>
+          <td>Charlie Marshall</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>UI Engineer :</b></td>
++         <td width=325 align=right><b>UI Engineer:</b></td>
+          <td>Rhys Theckston</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Core Tech Engineer :</b></td>
++         <td width=325 align=right><b>UI Engineering Intern:</b></td>
++         <td>Franklin Mathurin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Core Tech Engineer:</b></td>
+          <td>Alistair Forbes</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Rendering Engineer :</b></td>
++         <td width=325 align=right><b>Lead Rendering Engineer:</b></td>
+          <td>Jared Belkus</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Rendering Engineer :</b></td>
++         <td width=325 align=right><b>Rendering Engineer:</b></td>
+          <td>Sam Smith</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Audio Programmer :</b></td>
++         <td width=325 align=right><b>Principal Audio Programmer:</b></td>
+          <td>David Pituk</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead AI Engineer :</b></td>
++         <td width=325 align=right><b>Lead AI Engineer:</b></td>
+          <td>Nick Davies</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>AI Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>AI Gameplay Engineer:</b></td>
+          <td>Aria Jonsdottir</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Build Engineer:</b></td>
++         <td>Ayran Olckers</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Art</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Art Director :</b></td>
+-         <td>Ben Cottage</td>
++         <td width=325 align=right><b>Lead Artist:</b></td>
++         <td>David Sibbe</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Concept Artist :</b></td>
++         <td width=325 align=right><b>Senior Environment Artists:</b></td>
++         <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Environment Artist:</b></td>
++         <td>Daria Odnorogova</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Weapons Artist:</b></td>
++         <td>Vladyslav Tkachuk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Concept Artist:</b></td>
+          <td>Jon Dunham</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Concept Artist :</b></td>
++         <td width=325 align=right><b>Senior Character Concept Artist:</b></td>
++         <td>Tom McDowell</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Concept Artist:</b></td>
+          <td>Chloe Harrison</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior VFX Artist :</b></td>
++         <td width=325 align=right><b>Senior VFX Artist:</b></td>
+          <td>Davide Fortunato</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lighting Artist :</b></td>
++         <td width=325 align=right><b>Lighting Artist:</b></td>
+          <td>Zach Hewett</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Environment Artists :</b></td>
+-         <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td>
+-     </tr>
+-     <tr VALIGN="top">
+-         <td width=325 align=right><b>Environment Artist :</b></td>
+-         <td>Daria Odnorogova</td>
+-     </tr>
+-     <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Technical Artist :</b></td>
++         <td width=325 align=right><b>Lead Technical Artist:</b></td>
+          <td>Hrafnhildur Anna Bjornsdottir</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Technical Artists :</b></td>
++         <td width=325 align=right><b>Senior Technical Artist:</b></td>
+          <td>Lukas Boonen, Árni Berúlfur Jónsson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Technical Artists :</b></td>
++         <td width=325 align=right><b>Technical Artist:</b></td>
+          <td>Peter Skager, Amritha Immaneni</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate Technical Artist :</b></td>
++         <td width=325 align=right><b>Associate Technical Artist:</b></td>
+          <td>Daniela Flores</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Animator :</b></td>
++         <td width=325 align=right><b>Lead Character Artist:</b></td>
++         <td>Louie Ishii</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Character Artist:</b></td>
++         <td>Jakob Falkenberg</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Animator:</b></td>
+          <td>Maurizio Ramanzin</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Character Artist :</b></td>
+-         <td>Seth Nash</td>
++         <td width=325 align=right><b>Senior Animator:</b></td>
++         <td>Óðinn Árnason</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Sound</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Sound Designer :</b></td>
++         <td width=325 align=right><b>Lead Sound Designer:</b></td>
+          <td>Alexis Mavropoulos</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>VO Artists :</b></td>
+-         <td>Hrafnhildur Anna Bjornsdottir, Alastair Lavery, Bryan Malloroy, Alexis Mavropoulos</td>
++         <td width=325 align=right><b>VO Artists:</b></td>
++         <td>Bryan Malloroy, Alexis Mavropoulos</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Production</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Executive Producer :</b></td>
++         <td width=325 align=right><b>Executive Producer:</b></td>
+          <td>Snorri Árnason</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Head of Production :</b></td>
++         <td width=325 align=right><b>Head of Production:</b></td>
+          <td>David Ecker</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Creative Director :</b></td>
++         <td width=325 align=right><b>Creative Director:</b></td>
+          <td>Bergur Finnbogason</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Game Director :</b></td>
++         <td width=325 align=right><b>Game Director:</b></td>
+          <td>Scott Davis</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Development Director :</b></td>
++         <td width=325 align=right><b>Development Director:</b></td>
+          <td>David Thompson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Strategist :</b></td>
++         <td width=325 align=right><b>Senior Strategist:</b></td>
+          <td>Sahil Gupta</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Producer :</b></td>
++         <td width=325 align=right><b>Senior Producer:</b></td>
+          <td>Stijn Vervaet</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Producer :</b></td>
+-         <td>Isabel Foley</td>
+-     </tr>
+-     <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate Producer :</b></td>
+-         <td>Aleksandra Anna Stawirej</td>
++         <td width=325 align=right><b>Producer:</b></td>
++         <td>Isabel Foley, Alisa Krois</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Quality Assurance &amp; Player Experience</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>QA Lead :</b></td>
++         <td width=325 align=right><b>QA Lead:</b></td>
+          <td>Edward Haines</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>QA Analyst :</b></td>
++         <td width=325 align=right><b>QA Analyst:</b></td>
+          <td>Alastair Lavery</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate QA Analyst :</b></td>
++         <td width=325 align=right><b>Associate QA Analyst:</b></td>
+          <td>Madeleine Jay</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Project Manager :</b></td>
++         <td width=325 align=right><b>FQA Project Manager:</b></td>
+          <td>Mayur Sindhwani</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Leads :</b></td>
+-         <td>Dawid Kołaczuch, Daniel Osman, Wiktoria Brania, Marta Chmielewska</td>
++         <td width=325 align=right><b>FQA Lead:</b></td>
++         <td>Marta Chmielewska</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Associate Lead :</b></td>
+-         <td>Aleksander Macioł</td>
++         <td width=325 align=right><b>FQA Associate Lead:</b></td>
++         <td>Aleksander Macioł, Paweł Łaskowski</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Testers :</b></td>
+-         <td>Igor Dobrowolski, Mateusz Dutka, Weronika Durczok, Daria Kurpanik, Patryk Pałęga, Patrycja Szustak,
+-             Kamil Mróz, Mateusz Kurlandt, Wojciech Romańczyk, Magdalena Pałandziuch, Magdalena Łatka, Michał Szustak,
+-             Bartosz Czapla, Stanisław Stanek, Anna Zganiacz, Dariusz Tutak, Jakub Matyaszczyk, Szymon Kochanowski</td>
++         <td width=325 align=right><b>FQA Testers:</b></td>
++         <td>Igor Dobrowolski, Anna Zganiacz, Antoni Sowiński, Michał Derda, Patryk Ciupka, Tomasz Janczak, Marcin Karbowniczek</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Project Managers of Player Experience :</b></td>
++         <td width=325 align=right><b>Project Managers of Player Experience:</b></td>
+          <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Player Support Specialists :</b></td>
++         <td width=325 align=right><b>Player Support Specialists:</b></td>
+          <td>Sharon Fiedler, Diedrich Ohlandt</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Managers :</b></td>
+-         <td>Guðmundur Freyr Matthíasson, Paulo Rockenbach</td>
++         <td width=325 align=right><b>5CA Managers:</b></td>
++         <td>Guðmundur Freyr Matthíasson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Team Leads :</b></td>
++         <td width=325 align=right><b>5CA Team Leads:</b></td>
+          <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Support Game Masters :</b></td>
+-         <td>Abd ElRahman Shehabeldin, Abhista Pratama, Adrian Vazquez, Ammar Yasser, Amrane Larbi, Brayhan
+-             Rodriquez, Edward Turrall, Ferney Edilson Ramos Rojas, Garth Holmes, Hiba Wahhabi, Jaques Durand,
+-             Jorge Sikorsky, Jose Bernal, Juan Angelo Pasquin, Juan Jose Rojas Franco, Mihail Munteanu, Nada Shaaban,
+-             Nikola Trnavcevic, Norvin Manalang, Oksana Rudenko, Rajiv Pinera, Sergei Pavlov, Shaun Joyce, Vu Ngo</td>
++         <td width=325 align=right><b>5CA Support Game Masters:</b></td>
++         <td>Amrane Larbi, Sergei Pavlov, Leandro Serrano, Edward Turrall</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Outreach Game Masters :</b></td>
+-         <td>Edgar Morales, Eduardo Reyes, Endrio Lima, Rodrigo Oliveira</td>
++         <td width=325 align=right><b>5CA Outreach Game Masters:</b></td>
++         <td>Endrio Lima</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Data &amp; Analytics</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Data Scientist :</b></td>
++         <td width=325 align=right><b>Senior Data Scientist:</b></td>
+          <td>Julia Elisabeth Haidn</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Data Scientist :</b></td>
++         <td width=325 align=right><b>Data Scientist:</b></td>
+          <td>Kajetan Sygula</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Data Engineer :</b></td>
++         <td width=325 align=right><b>Data Engineer:</b></td>
+          <td>Daníel Fannar Guðmundsson</td>
+      </tr>
+  </table>
+  
+- <br>
+- <h3>With Thanks</h3>
++ <h3>IT Operations</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>With Thanks :</b></td>
+-         <td>Abi Hunt, Alan Hinchcliffe, Alec McSweeney, Aleksei Borovkov, Andreas Thomas, Carlos Ulloa, Cyrill
+-             Vitkovskiy, Dennis Lukat, Dominic Wright, Elena Diana Sfecla, Guilherme Carvalho, Jacopo Ascioni,
+-             James Cook, Jordan Blake, Liam Phillips, Luke Timms, Martin Baadsgaard, Matt James, Nicole Munro,
+-             Ovidiu Vasilescu, Phil Rowe, Pod O'Donnell, Robin Fencott, Sam Bromley, Suneil Aujla, Thomas Johnson,
+-             Tom Marcham, Tyler Sharpe, Viktor Demishev, Wojciech Szon, Adam Pugh, Denimira Deneva, Hector Mateo Pino,
+-             Krzysztof Luzny, Leonid Dudakov, Robert Hayes, Tom Jackson, Tom Savage, Tom Gandale, Vanessa Boelke,
+-             Gregory Allen Edwards, Gerard Lehiany, Nicholas Antonucci, Cristian Soriano, Tomasz Snopek, Neil Kaminski,
+-             Craig Harrison, Stuart Dodman, Sofia Galanopoulou, Marcus Michael, Jolin (Ya En) Lee, Gavin Skinner,
+-             Paris Moschovitis, Elliot Prior, Leonardo Calamati, Peter Hedge, Sherif Amer</td>
++         <td width=325 align=right><b>IT and Security Manager:</b></td>
++         <td>Ólafur Guðmundsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Solutions Architect:</b></td>
++         <td>Andy Perkins</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior System Administrator:</b></td>
++         <td>Andrew McCormack</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>System Administrators:</b></td>
++         <td>Adam Murphy, Róbert Steinar Tómasson, Ísold Aðalheiður Hoffmann</td>
+      </tr>
+  </table>
++ 
++ <h3>Publishing</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Director of Growth:</b></td>
++         <td>Anna Kozko</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Community Developer:</b></td>
++         <td>Neil Gorton</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Content Creator:</b></td>
++         <td>Muhammad Hadi</td>
++     </tr>
++ </table>
+```
+
+
+DE
+
+```diff
+- <h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Level Designer :</b></td> <td>Jesse Holcroft</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Level Designer :</b></td> <td>Tyler Lamon</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead UI/UX Designer :</b></td> <td>Ryan Last-Harris</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior UI/UX Designers :</b></td> <td>Jacob Jensen, Sierra Lorenzini</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Systems Designer :</b></td> <td>Richard Driscoll</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>UI Artist :</b></td> <td>Mathieu Bijuk</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Narrative Experience Designer :</b></td> <td>Jamie Stanton</td> </tr> </table> <br> <h3>Engineering</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Technical Director :</b></td> <td>Tom Woodhead</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Backend Engineer :</b></td> <td>Alex Rudd</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Backend Engineers :</b></td> <td>Hannah Dawson, Kurtis Lamb</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Backend Engineer :</b></td> <td>Irina Fratila</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Gameplay Engineer :</b></td> <td>Alick Goldenberg</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Gameplay Engineer :</b></td> <td>Victor Macho</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Gameplay Engineers :</b></td> <td>Jury Verrigni, Raul Gernaert</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Gameplay Engineer :</b></td> <td>Ortwin Van der Stappen</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead UI Engineer :</b></td> <td>Dominic Curry</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior UI Engineer :</b></td> <td>Charlie Marshall</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>UI Engineer :</b></td> <td>Rhys Theckston</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Core Tech Engineer :</b></td> <td>Alistair Forbes</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Rendering Engineer :</b></td> <td>Jared Belkus</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Rendering Engineer :</b></td> <td>Sam Smith</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Audio Programmer :</b></td> <td>David Pituk</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead AI Engineer :</b></td> <td>Nick Davies</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>AI Gameplay Engineer :</b></td> <td>Aria Jonsdottir</td> </tr> </table> <br> <h3>Art</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Art Director :</b></td> <td>Ben Cottage</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Concept Artist :</b></td> <td>Jon Dunham</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Concept Artist :</b></td> <td>Chloe Harrison</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior VFX Artist :</b></td> <td>Davide Fortunato</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lighting Artist :</b></td> <td>Zach Hewett</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Environment Artists :</b></td> <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Environment Artist :</b></td> <td>Daria Odnorogova</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Technical Artist :</b></td> <td>Hrafnhildur Anna Bjornsdottir</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Artists :</b></td> <td>Lukas Boonen, Árni Berúlfur Jónsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Artists :</b></td> <td>Peter Skager, Amritha Immaneni</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Technical Artist :</b></td> <td>Daniela Flores</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Animator :</b></td> <td>Maurizio Ramanzin</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Character Artist :</b></td> <td>Seth Nash</td> </tr> </table> <br> <h3>Sound</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Lead Sound Designer :</b></td> <td>Alexis Mavropoulos</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>VO Artists :</b></td> <td>Hrafnhildur Anna Bjornsdottir, Alastair Lavery, Bryan Malloroy, Alexis Mavropoulos</td> </tr> </table> <br> <h3>Production</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Executive Producer :</b></td> <td>Snorri Árnason</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Head of Production :</b></td> <td>David Ecker</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Creative Director :</b></td> <td>Bergur Finnbogason</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Game Director :</b></td> <td>Scott Davis</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Development Director :</b></td> <td>David Thompson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Strategist :</b></td> <td>Sahil Gupta</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Producer :</b></td> <td>Stijn Vervaet</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Producer :</b></td> <td>Isabel Foley</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Producer :</b></td> <td>Aleksandra Anna Stawirej</td> </tr> </table> <br> <h3>Quality Assurance &amp; Player Experience</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>QA Lead :</b></td> <td>Edward Haines</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>QA Analyst :</b></td> <td>Alastair Lavery</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate QA Analyst :</b></td> <td>Madeleine Jay</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Project Manager :</b></td> <td>Mayur Sindhwani</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Leads :</b></td> <td>Dawid Kołaczuch, Daniel Osman, Wiktoria Brania, Marta Chmielewska</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Associate Lead :</b></td> <td>Aleksander Macioł</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Testers :</b></td> <td>Igor Dobrowolski, Mateusz Dutka, Weronika Durczok, Daria Kurpanik, Patryk Pałęga, Patrycja Szustak, Kamil Mróz, Mateusz Kurlandt, Wojciech Romańczyk, Magdalena Pałandziuch, Magdalena Łatka, Michał Szustak, Bartosz Czapla, Stanisław Stanek, Anna Zganiacz, Dariusz Tutak, Jakub Matyaszczyk, Szymon Kochanowski</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Project Managers of Player Experience :</b></td> <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Player Support Specialists :</b></td> <td>Sharon Fiedler, Diedrich Ohlandt</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Managers :</b></td> <td>Guðmundur Freyr Matthíasson, Paulo Rockenbach</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Team Leads :</b></td> <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Support Game Masters :</b></td> <td>Abd ElRahman Shehabeldin, Abhista Pratama, Adrian Vazquez, Ammar Yasser, Amrane Larbi, Brayhan Rodriquez, Edward Turrall, Ferney Edilson Ramos Rojas, Garth Holmes, Hiba Wahhabi, Jaques Durand, Jorge Sikorsky, Jose Bernal, Juan Angelo Pasquin, Juan Jose Rojas Franco, Mihail Munteanu, Nada Shaaban, Nikola Trnavcevic, Norvin Manalang, Oksana Rudenko, Rajiv Pinera, Sergei Pavlov, Shaun Joyce, Vu Ngo</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Outreach Game Masters :</b></td> <td>Edgar Morales, Eduardo Reyes, Endrio Lima, Rodrigo Oliveira</td> </tr> </table> <br> <h3>Data &amp; Analytics</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Data Scientist :</b></td> <td>Julia Elisabeth Haidn</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Data Scientist :</b></td> <td>Kajetan Sygula</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Data Engineer :</b></td> <td>Daníel Fannar Guðmundsson</td> </tr> </table> <br> <h3>Dank an</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Dank an :</b></td> <td>Abi Hunt, Alan Hinchcliffe, Alec McSweeney, Aleksei Borovkov, Andreas Thomas, Carlos Ulloa, Cyrill Vitkovskiy, Dennis Lukat, Dominic Wright, Elena Diana Sfecla, Guilherme Carvalho, Jacopo Ascioni, James Cook, Jordan Blake, Liam Phillips, Luke Timms, Martin Baadsgaard, Matt James, Nicole Munro, Ovidiu Vasilescu, Phil Rowe, Pod O'Donnell, Robin Fencott, Sam Bromley, Suneil Aujla, Thomas Johnson, Tom Marcham, Tyler Sharpe, Viktor Demishev, Wojciech Szon, Adam Pugh, Denimira Deneva, Hector Mateo Pino, Krzysztof Luzny, Leonid Dudakov, Robert Hayes, Tom Jackson, Tom Savage, Tom Gandale, Vanessa Boelke, Gregory Allen Edwards, Gerard Lehiany, Nicholas Antonucci, Cristian Soriano, Tomasz Snopek, Neil Kaminski, Craig Harrison, Stuart Dodman, Sofia Galanopoulou, Marcus Michael, Jolin (Ya En) Lee, Gavin Skinner, Paris Moschovitis, Elliot Prior, Leonardo Calamati, Peter Hedge, Sherif Amer</td> </tr> </table>
++ <h2>EVE Vanguard Development Team</h2>
++ <br>
++ <h3>Game Design</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Game Design Director:</b></td>
++         <td>Adam Board</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Creative Lead:</b></td>
++         <td>Jamie Stanton</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Gameplay Designer:</b></td>
++         <td>Peter Griffin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Game Designer:</b></td>
++         <td>Christiaan Jones</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Technical Designer:</b></td>
++         <td>Bryan Malloroy</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Systems Designer:</b></td>
++         <td>Richard Driscoll</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Level Designer:</b></td>
++         <td>Jarek Szymanski</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Level Designer:</b></td>
++         <td>Tyler Lamon</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead UI/UX Designer:</b></td>
++         <td>Ryan Last-Harris</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI/UX Designers:</b></td>
++         <td>Sierra Lorenzini</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI/UX Technical Designer:</b></td>
++         <td>Jacob Jensen</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI Artist:</b></td>
++         <td>Mathieu Bijuk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Narrative Design:</b></td>
++         <td>Alastair Lavery, Madeleine Jay</td>
++     </tr>
++ </table>
++ 
++ <h3>Engineering</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Technical Director:</b></td>
++         <td>Tom Woodhead</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Backend Engineer:</b></td>
++         <td>Alex Rudd</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Backend Engineer:</b></td>
++         <td>Kurtis Lamb</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Backend Engineer:</b></td>
++         <td>Hannah Dawson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate Backend Engineer:</b></td>
++         <td>Irina Fratila</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Gameplay Engineer:</b></td>
++         <td>Alick Goldenberg</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Gameplay Engineer:</b></td>
++         <td>Victor Macho</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Gameplay Engineers:</b></td>
++         <td>Jury Verrigni, Raul Gernaert</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Animation Gameplay Engineer:</b></td>
++         <td>Miquel Cunill</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Gameplay Engineer:</b></td>
++         <td>Ortwin Van der Stappen</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead UI Engineer:</b></td>
++         <td>Dominic Curry</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI Engineer:</b></td>
++         <td>Charlie Marshall</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>UI Engineer:</b></td>
++         <td>Rhys Theckston</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>UI Engineering Intern:</b></td>
++         <td>Franklin Mathurin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Core Tech Engineer:</b></td>
++         <td>Alistair Forbes</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Rendering Engineer:</b></td>
++         <td>Jared Belkus</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Rendering Engineer:</b></td>
++         <td>Sam Smith</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Audio Programmer:</b></td>
++         <td>David Pituk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead AI Engineer:</b></td>
++         <td>Nick Davies</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>AI Gameplay Engineer:</b></td>
++         <td>Aria Jonsdottir</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Build Engineer:</b></td>
++         <td>Ayran Olckers</td>
++     </tr>
++ </table>
++ 
++ <h3>Art</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Artist:</b></td>
++         <td>David Sibbe</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Environment Artists:</b></td>
++         <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Environment Artist:</b></td>
++         <td>Daria Odnorogova</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Weapons Artist:</b></td>
++         <td>Vladyslav Tkachuk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Concept Artist:</b></td>
++         <td>Jon Dunham</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Character Concept Artist:</b></td>
++         <td>Tom McDowell</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Concept Artist:</b></td>
++         <td>Chloe Harrison</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior VFX Artist:</b></td>
++         <td>Davide Fortunato</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lighting Artist:</b></td>
++         <td>Zach Hewett</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Technical Artist:</b></td>
++         <td>Hrafnhildur Anna Bjornsdottir</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Technical Artist:</b></td>
++         <td>Lukas Boonen, Árni Berúlfur Jónsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Technical Artist:</b></td>
++         <td>Peter Skager, Amritha Immaneni</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate Technical Artist:</b></td>
++         <td>Daniela Flores</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Character Artist:</b></td>
++         <td>Louie Ishii</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Character Artist:</b></td>
++         <td>Jakob Falkenberg</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Animator:</b></td>
++         <td>Maurizio Ramanzin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Animator:</b></td>
++         <td>Óðinn Árnason</td>
++     </tr>
++ </table>
++ 
++ <h3>Sound</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Sound Designer:</b></td>
++         <td>Alexis Mavropoulos</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>VO Artists:</b></td>
++         <td>Bryan Malloroy, Alexis Mavropoulos</td>
++     </tr>
++ </table>
++ 
++ <h3>Production</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Executive Producer:</b></td>
++         <td>Snorri Árnason</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Head of Production:</b></td>
++         <td>David Ecker</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Creative Director:</b></td>
++         <td>Bergur Finnbogason</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Game Director:</b></td>
++         <td>Scott Davis</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Development Director:</b></td>
++         <td>David Thompson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Strategist:</b></td>
++         <td>Sahil Gupta</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Producer:</b></td>
++         <td>Stijn Vervaet</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Producer:</b></td>
++         <td>Isabel Foley, Alisa Krois</td>
++     </tr>
++ </table>
++ 
++ <h3>Quality Assurance &amp; Player Experience</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>QA Lead:</b></td>
++         <td>Edward Haines</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>QA Analyst:</b></td>
++         <td>Alastair Lavery</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate QA Analyst:</b></td>
++         <td>Madeleine Jay</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Project Manager:</b></td>
++         <td>Mayur Sindhwani</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Lead:</b></td>
++         <td>Marta Chmielewska</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Associate Lead:</b></td>
++         <td>Aleksander Macioł, Paweł Łaskowski</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Testers:</b></td>
++         <td>Igor Dobrowolski, Anna Zganiacz, Antoni Sowiński, Michał Derda, Patryk Ciupka, Tomasz Janczak, Marcin Karbowniczek</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Project Managers of Player Experience:</b></td>
++         <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Player Support Specialists:</b></td>
++         <td>Sharon Fiedler, Diedrich Ohlandt</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Managers:</b></td>
++         <td>Guðmundur Freyr Matthíasson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Team Leads:</b></td>
++         <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Support Game Masters:</b></td>
++         <td>Amrane Larbi, Sergei Pavlov, Leandro Serrano, Edward Turrall</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Outreach Game Masters:</b></td>
++         <td>Endrio Lima</td>
++     </tr>
++ </table>
++ 
++ <h3>Data &amp; Analytics</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Data Scientist:</b></td>
++         <td>Julia Elisabeth Haidn</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Data Scientist:</b></td>
++         <td>Kajetan Sygula</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Data Engineer:</b></td>
++         <td>Daníel Fannar Guðmundsson</td>
++     </tr>
++ </table>
++ 
++ <h3>IT Operations</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>IT and Security Manager:</b></td>
++         <td>Ólafur Guðmundsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Solutions Architect:</b></td>
++         <td>Andy Perkins</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior System Administrator:</b></td>
++         <td>Andrew McCormack</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>System Administrators:</b></td>
++         <td>Adam Murphy, Róbert Steinar Tómasson, Ísold Aðalheiður Hoffmann</td>
++     </tr>
++ </table>
++ 
++ <h3>Publishing</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Director of Growth:</b></td>
++         <td>Anna Kozko</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Community Developer:</b></td>
++         <td>Neil Gorton</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Content Creator:</b></td>
++         <td>Muhammad Hadi</td>
++     </tr>
++ </table>
+```
+
+
+ES
+
+```text
+<h2>EVE Vanguard Development Team</h2>
+<br>
+<h3>Game Design</h3>
+<hr>
+<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Game Design Director:</b></td>
+        <td>Adam Board</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Game Designer:</b></td>
+        <td>Anthony Massey</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Technical Designer:</b></t
+(truncated, 12,260 chars total)
+```
+
+
+FR
+
+```text
+<h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=
+(truncated, 10,201 chars total)
+```
+
+
+JA
+
+```text
+<h2>EVE Vanguard開発チーム</h2>
+<br>
+<h3>ゲームデザイン</h3>
+<hr>
+<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
+        <td>Adam Board</td> 
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>シニアゲームデザイナー</b></td>
+        <td>Anthony Massey</td> 
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>シニアテクニカルデザイナー：</b></td>
+        <td>Bryan Malloroy</td> 
+    <
+(truncated, 11,727 chars total)
+```
+
+
+KO
+
+```text
+<h2>EVE Vanguard Development Team</h2>
+<br>
+<h3>Game Design</h3>
+<hr>
+<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Game Design Director :</b></td>
+        <td>Adam Board</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Game Designer :</b></td>
+        <td>Anthony Massey</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Technical Designer :</b>
+(truncated, 12,328 chars total)
+```
+
+
+RU
+
+```text
+<h2>Команда разработчиков EVE Vanguard</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший разработчик:</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший технический дизайнер:</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=
+(truncated, 10,640 chars total)
+```
+
+
+ZH
+
+```text
+<h2>EVE Vanguard开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Adam Board</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Anthony Massey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级技术设计师：</b></td><td>Bryan Malloroy</td></tr><tr VALIGN="top"><td width=325 align=right><b>首席关卡设计师：</b></td><td>Jesse Holcroft</td></tr><tr VALIGN="top"><td width=325
+(truncated, 8,814 chars total)
+```
+
+
+
+
+### MessageID: 1009122 · Translation Modified
+
+EN
+
+```text
+The crate contains an insured T1 fitted Destroyer from your starter Empire.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält einen versicherten T1-Zerstörer aus Ihrem Starter-Imperium. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ La caja incluye un destructor T1 equipado y asegurado de tu imperio inicial.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni vendu[…]
++ Cette caisse contient un destroyer T1 de votre empire de départ, déjà équipé et assuré. Cet objet ne peut pas être échangé ni vendu[…]
+```
+
+
+JA
+
+```diff
++ この箱には、初期選択した国家のT1駆逐艦（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 디스트로이어를 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный эсминец 1-го техноуровня, выпущенный вашей изначальной державой. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易
++ 箱子内包含一艘来自你起始帝国、已装配并投保的T1驱逐舰。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1009124 · Translation Modified
+
+EN
+
+```text
+The crate contains an exploration frigate for your starting Empire; it is fitted and insured.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält eine Erkundungsfregatte für Ihr Startimperium; sie ist ausgerüstet und versichert. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ El contenedor incluye una fragata de exploración de tu imperio inicial; está equipada y asegurada.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni ve[…]
++ La caisse contient une frégate d'exploration pour votre empire de départ ; elle est équipée et assurée. Cet objet ne peut pas être échangé ni ve[…]
+```
+
+
+JA
+
+```diff
++ この箱には、初期選択した国家の探索用フリゲート（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 소속 4대 국가의 피팅과 보험 절차가 완료된 초보자용 탐사 프리깃을 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный экспедиционный фрегат вашей изначальной державы. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易
++ 箱子内包含一艘适合你起始帝国的探险护卫舰；已装配并投保。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1009128 · Translation Modified
+
+EN
+
+```text
+The crate contains an insured T1 fitted Cruiser from your starting Empire.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält einen versicherten T1-Zerstörer aus Ihrem Starter-Imperium. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ La caja incluye un crucero T1 equipado y asegurado de tu imperio inicial.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni ve[…]
++ La caisse contient un croiseur T1 de votre empire de départ, déjà équipé et assuré. Cet objet ne peut pas être échangé ni ve[…]
+```
+
+
+JA
+
+```diff
++ この箱には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 크루저를 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный крейсер 1-го техноуровня, выпущенный вашей изначальной державой. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易
++ 箱子内包含一艘来自你起始帝国、已装配并投保的T1巡洋舰。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1045807 · Translation Modified
+
+EN
+
+```text
+This sealed containment crate holds a Tranquil Abyssal Filament of a random weather type that can transport you to an Abyssal Deadspace pocket.
+```
+
+
+ES
+
+```diff
+- […]ón sellada contiene un filamento abisal calmado de un tipo atmosférico aleatorio que p[…]
++ […]ón sellada contiene un filamento abisal sereno de un tipo atmosférico aleatorio que p[…]
+```
+
+
+FR
+
+```diff
+- […]nt scellée contient un filament abyssal paisible de type aléatoire, qui peut vous tran[…]
++ […]nt scellée contient un filament abyssal tranquille de type aléatoire, qui peut vous tran[…]
+```
+
+
+JA
+
+```diff
+- この密閉された箱には1個のカーム・アビサルフィラメントが入っている。フィラメントはランダムな天候を起こし、それを使ってアビサルデッドスペースポケットに行くことができる。
++ この密閉された箱にはランダムな天候を起こすトランキル・アビサルフィラメントが入っており、それを使ってアビサルデッドスペースポケットに行くことができる。
+```
+
+
+KO
+
+```diff
+- 어비설 데드스페이스 포켓으로 이동시켜주는 고요한 어비설 필라멘트(무작위 기상 속성)가 담겨 있는 격납용기입니다.
++ 고요한 어비설 필라멘트가 담긴 상자입니다. 필라멘트 활성화 시 무작위 환경 효과를 지닌 어비설 데드스페이스 포켓으로 이동할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- […]ы, ведущая в участок Мёртвой бездны со спокойной средой и случайными климатическими условиями..
++ […]ы, ведущая в участок Мёртвой бездны со стабильной средой и случайными климатическими условиями.
+```
+
+
+ZH
+
+```diff
+- 这个密封的箱子里面有一个随机类型的镇静深渊纤维，可以将你传送到一个深渊空间层中。
++ 该密封箱内含一枚随机天气类型的宁静深渊纤维，可以将你传送到一处深渊空间层中。
+```
+
+
+
+
+### MessageID: 1045814 · Translation Modified
+
+EN
+
+```text
+The crate contains an insured T1 fitted Cruiser from your starting Empire.
+```
+
+
+ES
+
+```diff
+- La caja incluye cruceros T1 equipados y asegurados de tu imperio inicial.
++ La caja incluye un crucero T1 equipado y asegurado de tu imperio inicial.
+```
+
+
+FR
+
+```diff
+- La caisse contient un croiseur T1 pour votre empire de départ, déjà équipé et […]
++ La caisse contient un croiseur T1 de votre empire de départ, déjà équipé et […]
+```
+
+
+JA
+
+```diff
+- […]には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれてる。
++ […]には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれている。
+```
+
+
+ZH
+
+```diff
+- 打开箱子后你可以获得一艘来自你起始帝国、已装配并投保的T1巡洋舰。
++ 箱子内包含一艘来自你起始帝国、已装配并投保的T1巡洋舰。
+```
+
+
+
+
+### MessageID: 1045832 · Translation Modified
+
+EN
+
+```text
+The crate contains a fitted Pioneer mining destroyer with insurance.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält einen ausgerüsteten Pionier-Bergbau-Zerstörer mit Versicherung. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ La caja incluye un destructor minero Pioneer equipado y asegurado.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni ve[…]
++ La caisse contient un destroyer d'extraction minière Pioneer équipé et assuré. Cet objet ne peut pas être échangé ni ve[…]
+```
+
+
+JA
+
+```diff
++ この箱には、採掘用駆逐艦パイオニア（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 피팅과 보험 절차가 완료된 파이오니어 채굴 디스트로이어를 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный буровой эсминец Pioneer. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易。
++ 箱子内包含一艘已装配并投保的开拓者级采矿驱逐舰。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1047756 · Added
+
+EN
+
+```text
+VDB_Cloud_Infinite_02a_Fluffy
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047786 · Translation Modified
+
+EN
+
+```text
+SITREP Clash Booster
+```
+
+
+DE
+
+```diff
+- 
++ SITREP Clash Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador Clash modelo SITREP
+```
+
+
+FR
+
+```diff
+- 
++ Booster d'affrontement SITREP
+```
+
+
+JA
+
+```diff
+- 
++ SITREPクラッシュブースター
+```
+
+
+KO
+
+```diff
+- 
++ 시트렙 크래시 부스터
+```
+
+
+RU
+
+```diff
+- 
++ SITREP Clash Booster
+```
+
+
+ZH
+
+```diff
+- 
++ SITREP撞击增效剂
+```
+
+
+
+
+### MessageID: 1048031 · Translation Modified
+
+EN
+
+```text
+Minmatar Pilot
+```
+
+
+DE
+
+```diff
+- 
++ Minmatar Pilot
+```
+
+
+ES
+
+```diff
+- 
++ Piloto minmatariano
+```
+
+
+FR
+
+```diff
+- 
++ Pilote minmatar
+```
+
+
+JA
+
+```diff
+- 
++ ミンマターパイロット
+```
+
+
+KO
+
+```diff
+- 
++ 민마타 파일럿
+```
+
+
+RU
+
+```diff
+- 
++ Minmatar Pilot
+```
+
+
+ZH
+
+```diff
+- 
++ 米玛塔尔飞行员
+```
+
+
+
+
+### MessageID: 1048032 · Source Modified
+
+EN
+
+```diff
+  <font size="14"><b>Minmatar Pilot Expert System</b></font>
+  
+- This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
++ This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Minmatar-focused supporting skills.
+  
+  <b>The temporary skills provided by this Expert System last for seven days.</b>
+[…]
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048094 · Translation Modified
+
+EN
+
+```text
+A cypher used to encrypt or decrypt a strand of a Vanguard’s resonant consciousness. These cyphers are only shared with those who have earned the Vanguard’s trust. The theft or recreation of a Resonant Cypher is a sign of malicious intent against the Vanguard and is considered a heinous crime by the Avalon Flotilla.
+
+Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Chiffre, die verwendet wird, um einen Strang des resonanten Bewusstseins eines Vanguard zu verschlüsseln oder zu entschlüsseln. Diese Chiffren werden nur mit denen geteilt, die sich das Vertrauen der Vanguard verdient haben. Der Diebstahl oder die Nachbildung einer Resonant Cypher ist ein Zeichen böswilliger Absicht gegen die Vanguard und wird von der Avalon Flotilla als abscheuliches Verbrechen eingestuft. Avalon Flotilla Trader akzeptieren alle Vanguard Resonant Cyphers, die entweder verdient oder von ihren Feinden geborgen wurden.
+```
+
+
+ES
+
+```diff
++ Un código usado para encriptar o desencriptar una hebra de la conciencia resonante de un miembro de la Vanguardia. Estos códigos solo se comparten con quienes se han ganado la confianza de la Vanguardia. El robo o la recreación de un código resonante es señal de intenciones maliciosas contra la Vanguardia y la flotilla Avalon lo considera un crimen atroz.
++ 
++ Los comerciantes de la flotilla Avalon aceptarán encantados cualquier código resonante de la Vanguardia que se haya ganado o recuperado de sus enemigos.
+```
+
+
+FR
+
+```diff
+- 
++ Un système utilisé pour chiffrer ou déchiffrer un brin de la conscience résonante d'un Vanguard. Ces systèmes ne sont partagés qu'avec ceux qui ont gagné la confiance des Vanguard. Le vol ou la recréation d'un chiffrage de résonance est un signe d'intention malveillante envers les Vanguard et est considéré comme un crime odieux par la flottille d'Avalon. Les marchands de la flottille d'Avalon échangeront volontiers tout chiffrage de résonance Vanguard ayant été obtenu ou récupéré auprès de leurs ennemis.
+```
+
+
+JA
+
+```diff
++ Vanguardの共鳴する意識の断片を暗号化または復号するために使用されるサイファー。このサイファーは、Vanguardの信頼を得た者にのみ共有される。レゾナントサイファーの窃盗や複製は、Vanguardに対する悪意の表れとみなされ、Avalon艦隊によって大罪と規定されている。
++ 
++ Avalon艦隊トレーダーは、獲得または敵から回収されたVanguardレゾナントサイファーとアイテムのトレードを歓迎している。
+```
+
+
+KO
+
+```diff
++ Vanguard의 동조형 의식 신호에 암호를 설정하거나 해제하는 장치입니다. Vanguard의 신뢰를 얻은 대상에게만 주어집니다. 동조 해독기의 절도 또는 재설계 행위는 Vanguard에 대한 적대 행위로 간주되며 아발론 소함대에 의해 중대 범죄 행위로 취급됩니다.
++ 
++ 아발론 소함대 거래소는 Vanguard 동조 해독기의 출처를 따지지 않고 적극적으로 구매합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Шифр, используемый для шифрования или расшифровки нити резонансного сознания Vanguard. Такие шифры получают лишь те, кто заслужил доверие Vanguard. Кража или воссоздание резонансного шифра свидетельствует о злом умысле по отношению к Vanguard и рассматривается флотилией Avalon как тягчайшее преступление. Торговцы флотилии Avalon с радостью приобретут любые резонансные шифры Vanguard вне зависимости от того, были ли они получены за соответствующие заслуги или отбиты у врагов.
+```
+
+
+ZH
+
+```diff
+- 
++ 用于加密或解密先锋共振意识片段的密码卡。只有赢得先锋信任的人，才会获准持有这种密码卡。窃取或仿制共振密码卡均被视为对先锋怀有恶意，并被阿瓦隆分舰队认定为重罪。无论是由先锋队自行赚取，还是从敌人手中收缴的共振密码卡，阿瓦隆舰队贸易官均十分乐意进行交易。
+```
+
+
+
+
+### MessageID: 1048178 · Translation Modified
+
+EN
+
+```text
+Corax Navy Issue Arkombine Arisen SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Corax Navy Issue Arkombine Arisen SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Ascenso de los Arcombinos para la Corax modelo de la Armada
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Corax Navy Issue, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```diff
+- 
++ コラックス海軍仕様用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```diff
+- 
++ 코락스 해군 에디션 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Corax Navy Issue Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 渡鸦级海军型方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048203 · Translation Modified
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Liberación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Libération
+```
+
+
+JA
+
+```diff
+- 
++ 「解放記念日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 독립절 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Liberation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 独立日庆典箱
+```
+
+
+
+
+### MessageID: 1048204 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Blumen der Matar Satin – Limited, Dunkelheitgeschmiedetes Ferros metallisch – Limited, Säulen der Republik – Limited, Hintergrund „Befreites Matar“, festliche Raketenwerfer und ein „Flammen der Rebellion“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Esta caja incluye 10 PLEX, los componentes Flores de Matar satinado (limitado), Ferros forjados por la oscuridad metálico (limitado), Pilares de la República (limitado), el fondo Matar liberado, un lanzador festivalero y fuegos artificiales de las Llamas de la Rebelión.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Fleurs de Matar satiné - Limité, Ferros forgé dans l'obscurité métallique - Limité, Piliers de la République - Limité, arrière-plan Matar libérée, un lanceur de festival et un feu d'artifice Flammes de la Rébellion.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、フラワーオブマター・サテン（限定）、ダークネス・フォージド・フェロス・メタリック（限定）、ピラーズ・オブ・リパブリック（限定）、「リベレイテッド・マター」背景、フェスティバルランチャー、そして「反乱の炎」花火が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 마타르의 꽃 새틴 - 한정, 다크니스 포지드 페로스 금속성 - 한정, 공화국의 정신 - 한정, 해방된 마타르 배경, 축제용 런처 및 투쟁의 횃불 폭죽 1개가 들어 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Flowers of Matar Satin (однораз.), Darkness Forged Ferros Metallic (однораз.), Pillars of the Republic (однораз.), фон «Освобождённый Матар», модуль для праздничного запуска и фейерверк «Пламя восстания».
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、缎光级玛塔尔之花（限量版）、金属级黑色铸铁（限量版）、共和国支柱（限量版）、自由玛塔尔背景、节日发射器和一枚自由之焰烟火。
+```
+
+
+
+
+### MessageID: 1048212 · Translation Modified
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Liberación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Libération
+```
+
+
+JA
+
+```diff
+- 
++ 「解放記念日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 독립절 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Liberation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 独立日庆典箱
+```
+
+
+
+
+### MessageID: 1048213 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Blumen der Matar Satin – Limited, Dunkelheitgeschmiedetes Ferros metallisch – Limited, Säulen der Republik – Limited, Hintergrund „Befreites Matar“, festliche Raketenwerfer und ein „Flammen der Rebellion“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Esta caja incluye 10 PLEX, los componentes Flores de Matar satinado (limitado), Ferros forjados por la oscuridad metálico (limitado), Pilares de la República (limitado), el fondo Matar liberado, un lanzador festivalero y fuegos artificiales de las Llamas de la Rebelión.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Fleurs de Matar satiné - Limité, Ferros forgé dans l'obscurité métallique - Limité, Piliers de la République - Limité, un arrière-plan Matar libérée, un lanceur de festival et un feu d'artifice Flammes de la Rébellion.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、フラワーオブマター・サテン（限定）、ダークネス・フォージド・フェロス・メタリック（限定）、ピラーズ・オブ・リパブリック（限定）、「リベレイテッド・マター」背景、フェスティバルランチャー、そして「反乱の炎」花火が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 마타르의 꽃 새틴 - 한정, 다크니스 포지드 페로스 금속성 - 한정, 공화국의 정신 - 한정, 해방된 마타르 배경, 축제용 런처 및 투쟁의 횃불 폭죽 1개가 들어 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Flowers of Matar Satin (однораз.), Darkness Forged Ferros Metallic (однораз.), Pillars of the Republic (однораз.), фон «Освобождённый Матар», модуль для праздничного запуска и фейерверк «Пламя восстания».
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、缎光级玛塔尔之花（限量版）、金属级黑色铸铁（限量版）、共和国支柱（限量版）、自由玛塔尔背景、节日发射器和一枚自由之焰烟火。
+```
+
+
+
+
+### MessageID: 1048262 · Translation Modified
+
+EN
+
+```text
+From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
+```
+
+
+DE
+
+```diff
+- 
++ Von dieser Plattform aus ist das AEGIS-Kommando in der Lage, lokale Sicherheitsaktivitäten direkt zu koordinieren. Die Aktivitäten, die unter seiner Aufsicht stattfinden, sind so geheim, dass selbst ein überwiegender Teil von EDENCOM nicht über die notwendige Sicherheitsfreigabe verfügt, um eine Aufsicht zu gewährleisten. Eine spezialisierte Sondereinheit unter direkter Kontrolle von AEGIS wurde mit der Verantwortung für Kampfoperationen betraut.
+```
+
+
+ES
+
+```diff
+- 
++ Desde esta plataforma, el mando de AEGIS puede coordinar directamente las actividades de seguridad locales. Las operaciones que se desarrollan bajo su supervisión son tan secretas que ni siquiera el conjunto de la organización EDENCOM dispone del nivel de autorización necesario para ejercer control sobre ellas, por lo que una fuerza operativa especializada bajo el control directo de AEGIS ha asumido la responsabilidad de las operaciones de combate.
+```
+
+
+FR
+
+```diff
+- 
++ Depuis cette plateforme, le commandement d'AEGIS peut coordonner directement les activités de sécurité locales. Les activités menées sous sa supervision sont si secrètes que même le reste de l'organisation EDENCOM ne dispose pas du niveau de sécurité requis pour en assurer la supervision, et une unité d'intervention spécialisée placée directement sous le contrôle d'AEGIS a reçu la responsabilité des opérations de combat.
+```
+
+
+JA
+
+```diff
+- 
++ このプラットフォームから、AEGIS司令部は現地の警備活動を直接調整することができる。その管轄下で行われている活動は極めて機密性が高く、より広範な組織であるEDENCOMでさえも監視に必要なセキュリティクリアランスを満たしていない。そのため、AEGIS直属の専門部隊に戦闘作戦の全責任が委ねられている。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 지휘관이 주변 지역의 보안 활동을 진행하는 플랫폼입니다. 플랫폼 주관으로 진행되는 활동은 철저하게 기밀이 유지되기 때문에 EDENCOM도 감독할 수 있는 보안 접근 권한이 없습니다. 따라서 AEGIS 직권으로 운영하는 특수 임무 부대가 전투 작전을 수행할 책임을 맡습니다.
+```
+
+
+RU
+
+```diff
+- 
++ С этой платформы командование AEGIS может напрямую координировать локальные операции по обеспечению безопасности. Деятельность, находящаяся в его ведении, настолько засекречена, что даже у организации ЭДЕНКОМ в целом нет необходимого уровня допуска для осуществления надзора, а ответственность за боевые операции возложена на специальную оперативную группу, находящуюся в прямом подчинении AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局指挥部能够通过这个平台直接协调本地安保行动。在其管辖下开展的活动高度机密，甚至连更高级别的伊甸联合防御阵线组织也不具备足够的安全权限进行监督，因此由统合部紧急干预和安全局直属的特种部队负责战斗行动。
+```
+
+
+
+
+### MessageID: 1048291 · Translation Modified
+
+EN
+
+```text
+Liberated Matar Background
+```
+
+
+DE
+
+```diff
+- 
++ Liberated Matar Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Matar liberado
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Matar libérée
+```
+
+
+JA
+
+```diff
+- 
++ 背景「リベレイテッド・マター」
+```
+
+
+KO
+
+```diff
+- 
++ 해방된 마타르 배경
+```
+
+
+RU
+
+```diff
+- 
++ Liberated Matar Background
+```
+
+
+ZH
+
+```diff
+- 
++ 自由玛塔尔背景
+```
+
+
+
+
+### MessageID: 1048292 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048294 · Translation Modified
+
+EN
+
+```text
+Foundation Wisdom Background
+```
+
+
+DE
+
+```diff
+- 
++ Foundation Wisdom Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Sabiduría de la Fundación
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Fondation de la sagesse
+```
+
+
+JA
+
+```diff
+- 
++ 背景「建国の叡智」
+```
+
+
+KO
+
+```diff
+- 
++ 토대의 지혜 배경
+```
+
+
+RU
+
+```diff
+- 
++ Foundation Wisdom Background
+```
+
+
+ZH
+
+```diff
+- 
++ 基础智慧背景
+```
+
+
+
+
+### MessageID: 1048295 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048296 · Translation Modified
+
+EN
+
+```text
+Union Contemplation Background
+```
+
+
+DE
+
+```diff
+- 
++ Union Contemplation Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Contemplación de la unión
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Contemplation de l'union
+```
+
+
+JA
+
+```diff
+- 
++ 背景「統合への思索」
+```
+
+
+KO
+
+```diff
+- 
++ 연맹의 사색 배경
+```
+
+
+RU
+
+```diff
+- 
++ Union Contemplation Background
+```
+
+
+ZH
+
+```diff
+- 
++ 联合沉思背景
+```
+
+
+
+
+### MessageID: 1048297 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048335 · Translation Modified
+
+EN
+
+```text
+Operation Avalon
+```
+
+
+DE
+
+```diff
+- 
++ Operation Avalon
+```
+
+
+ES
+
+```diff
+- 
++ Operación Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Opération Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Operation Avalon 
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 작전
+```
+
+
+RU
+
+```diff
+- 
++ Operation Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆行动
+```
+
+
+
+
+### MessageID: 1048403 · Translation Modified
+
+EN
+
+```text
+A more valuable cypher used to encrypt or decrypt a strand of a ranking member of the Vanguard’s resonant consciousness. 
+
+These cyphers are only shared with those who have earned the Vanguard’s trust. The theft or recreation of a Resonant Cypher is a sign of malicious intent against the Vanguard and is considered a heinous crime by the Avalon Flotilla.
+
+Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
+```
+
+
+DE
+
+```diff
+- 
++ Eine wertvollere Chiffre, die verwendet wird, um einen Strang eines ranghohen Mitglied des resonanten Bewusstseins eines Vanguard zu verschlüsseln oder zu entschlüsseln. Diese Chiffren werden nur mit denen geteilt, die sich das Vertrauen der Vanguard verdient haben. Der Diebstahl oder die Nachbildung einer Resonant Cypher ist ein Zeichen böswilliger Absicht gegen die Vanguard und wird von der Avalon Flotilla als abscheuliches Verbrechen eingestuft. Avalon Flotilla Trader akzeptieren alle Vanguard Resonant Cyphers, die entweder verdient oder von ihren Feinden geborgen wurden.
+```
+
+
+ES
+
+```diff
++ Un código de gran valor usado para encriptar o desencriptar una hebra de la conciencia resonante de un miembro destacado de la Vanguardia.
++ 
++ Estos códigos solo se comparten con quienes se han ganado la confianza de la Vanguardia. El robo o la recreación de un código resonante es señal de intenciones maliciosas contra la Vanguardia y la flotilla Avalon lo considera un crimen atroz.
++ 
++ Los comerciantes de la flotilla Avalon aceptarán encantados cualquier código resonante de la Vanguardia que se haya ganado o recuperado de sus enemigos.
+```
+
+
+FR
+
+```diff
+- 
++ Un système plus précieux utilisé pour chiffrer ou déchiffrer un brin de la conscience résonante d'un membre haut placé des Vanguard. Ces systèmes ne sont partagés qu'avec ceux qui ont gagné la confiance des Vanguard. Le vol ou la recréation d'un chiffrage de résonance est un signe d'intention malveillante envers les Vanguard et est considéré comme un crime odieux par la flottille d'Avalon. Les marchands de la flottille d'Avalon échangeront volontiers tout chiffrage de résonance Vanguard ayant été obtenu ou récupéré auprès de leurs ennemis.
+```
+
+
+JA
+
+```diff
++ Vanguardの上級メンバーの共鳴する意識の断片を暗号化または復号するために使用される、より価値の高いサイファー。
++ 
++ このサイファーは、Vanguardの信頼を得た者にのみ共有される。レゾナントサイファーの窃盗や複製は、Vanguardに対する悪意の表れとみなされ、Avalon艦隊によって大罪と規定されている。
++ 
++ Avalon艦隊トレーダーは、獲得または敵から回収されたVanguardレゾナントサイファーとアイテムのトレードを歓迎している。
+```
+
+
+KO
+
+```diff
++ Vanguard 고위 인사의 동조형 의식 신호에 암호를 설정하거나 해제하는 더 가치가 큰 장치입니다. 
++ 
++ Vanguard의 신뢰를 얻은 대상에게만 주어집니다. 동조 해독기의 절도 또는 재설계 행위는 Vanguard에 대한 적대 행위로 간주되며 아발론 소함대에 의해 중대 범죄 행위로 취급됩니다.
++ 
++ 아발론 소함대 거래소는 Vanguard 동조 해독기의 출처를 따지지 않고 적극적으로 구매합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Более ценный шифр, используемый для шифрования или расшифровки нити резонансного сознания высокопоставленного представителя Vanguard. Такие шифры получают лишь те, кто заслужил доверие Vanguard. Кража или воссоздание резонансного шифра свидетельствует о злом умысле по отношению к Vanguard и рассматривается флотилией Avalon как тягчайшее преступление. Торговцы флотилии Avalon с радостью приобретут любые резонансные шифры Vanguard вне зависимости от того, были ли они получены за соответствующие заслуги или отбиты у врагов.
+```
+
+
+ZH
+
+```diff
+- 
++ 一种更有价值的密码卡，用于加密或解密先锋高级成员的共振意识片段。只有赢得先锋信任的人，才会获准持有这种密码卡。窃取或仿制共振密码卡均被视为对先锋怀有恶意，并被阿瓦隆分舰队认定为重罪。无论是由先锋队自行赚取，还是从敌人手中收缴的共振密码卡，阿瓦隆舰队贸易官均十分乐意进行交易。
+```
+
+
+
+
+### MessageID: 1048404 · Translation Modified
+
+EN
+
+```text
+Ranking Vanguard Resonant Cypher
+```
+
+
+DE
+
+```diff
+- 
++ Ranking Vanguard Resonant Cypher
+```
+
+
+ES
+
+```diff
+- 
++ Código resonante de mando de la Vanguardia
+```
+
+
+FR
+
+```diff
+- 
++ Chiffrage de résonnance de gradé Vanguard
+```
+
+
+JA
+
+```diff
+- 
++ 上級Vanguardレゾナントサイファー
+```
+
+
+KO
+
+```diff
+- 
++ 고위 Vanguard 동조 해독기
+```
+
+
+RU
+
+```diff
+- 
++ Ranking Vanguard Resonant Cypher
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋共振密码卡排名
+```
+
+
+
+
+### MessageID: 1048433 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048434 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048435 · Added
+
+EN
+
+```text
+Loki Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048436 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048437 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048438 · Added
+
+EN
+
+```text
+Bifrost Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048439 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048440 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048441 · Added
+
+EN
+
+```text
+Stiletto Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048442 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048443 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048444 · Added
+
+EN
+
+```text
+Prowler Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048445 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048446 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048447 · Added
+
+EN
+
+```text
+Claymore Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048448 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048449 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048450 · Added
+
+EN
+
+```text
+Tempest Fleet Issue Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048451 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048452 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048453 · Added
+
+EN
+
+```text
+Ymir Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048454 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048455 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048456 · Added
+
+EN
+
+```text
+Nomad Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048457 · Added
+
+EN
+
+```text
+Advanced Carriers
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048458 · Added
+
+EN
+
+```text
+Command Carriers
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048459 · Added
+
+EN
+
+```text
+Command Carriers
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048460 · Added
+
+EN
+
+```text
+Minmatar
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048461 · Added
+
+EN
+
+```text
+Minmatar
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048565 · Added
+
+EN
+
+```text
+Amarr Pilot
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048566 · Added
+
+EN
+
+```text
+<font size="14"><b>Amarr Pilot Expert System</b></font>
+
+This Expert System makes available skills enabling a capsuleer to fly Amarr Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Amarr-focused supporting skills.
+
+<b>The temporary skills provided by this Expert System last for seven days.</b>
+
+An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active ren
+(truncated, 1,385 chars total)
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048571 · Added
+
+EN
+
+```text
+Foundation Day Celebration Crate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048572 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048577 · Added
+
+EN
+
+```text
+Foundation Day Celebration Crate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048578 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048592 · Added
+
+EN
+
+```text
+Rogue Edge Construction Site
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048593 · Added
+
+EN
+
+```text
+Under Construction Stargate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048594 · Added
+
+EN
+
+```text
+A product of the Operation Rogue Edge campaign, the construction of this Stargate depends on the progress being made by capsuleers to support the Federation’s bold research initiative.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048595 · Added
+
+EN
+
+```text
+Federation Construction Stargate Deployment Blocker
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048596 · Added
+
+EN
+
+```text
+Rogue Edge Survey Site
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048601 · Added
+
+EN
+
+```text
+State Corridor Construction Site
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048602 · Added
+
+EN
+
+```text
+Under Construction Stargate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048603 · Added
+
+EN
+
+```text
+A product of the State Corridor Initiative campaign, the construction of this Stargate depends on the progress being made by capsuleers in securing Syndicate for the Caldari.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048604 · Added
+
+EN
+
+```text
+State Construction Stargate Deployment Blocker
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048605 · Added
+
+EN
+
+```text
+State Corridor Construction Site
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048609 · Added
+
+EN
+
+```text
+The State prohibits Upwell Structure deployment within 100,000km of the State Corridor Construction Site.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048610 · Added
+
+EN
+
+```text
+The Federation prohibits Upwell Structure deployment within 100,000km of Rogue Edge sites.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+---
+
 # Build 3433564
 
 ## Summary
