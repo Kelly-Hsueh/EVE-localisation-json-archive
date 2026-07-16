@@ -11,7 +11,7 @@ Steps:
   1. fetch   – detect new builds, download changed pickles
   2. backup  – copy current latest JSON to a temp dir (for diffing)
   3. merge   – export updated JSON files
-  4. changelog – generate changes.md and update cumulative changelog
+  4. changelog – generate changes_{build}.md and update cumulative changelog
   5. release – create GitHub Release with assets
   6. commit  – handled externally by the GitHub Actions workflow
 """
@@ -88,7 +88,7 @@ def process_server(server: str,
     # ------------------------------------------------------------------
     # 4. Changelog
     # ------------------------------------------------------------------
-    changes_path = ROOT / "changes.md"
+    changes_path = ROOT / f"changes_{build}.md"
     summary, md, diffs = changelog_module.generate_changelog(
         server,
         build,
@@ -97,7 +97,7 @@ def process_server(server: str,
     )
 
     if md:
-        # changes.md (release artifact) contains the full diff including Details
+        # changes_{build}.md (release artifact) contains the full diff including Details
         changes_path.write_text(md, encoding="utf-8")
         print(f"[{server}] Wrote {changes_path}")
 

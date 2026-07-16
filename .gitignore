@@ -21,4 +21,4 @@ wheels/
 tempCodeRunnerFile.py
 pickles/
 state/*-pending-release.json
-changes.md
+changes_*.md

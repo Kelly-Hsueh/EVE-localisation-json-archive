@@ -6,7 +6,7 @@ Requires environment variables:
   GITHUB_REPO   – owner/repo, e.g. "Kelly-Hsueh/EVE-Localisation-Archive"
 
 Only languages that actually changed are uploaded as release assets.
-changes.md is always included when provided.
+changes_{build}.md is always included when provided.
 """
 
 import os
@@ -148,8 +148,9 @@ def _upload_assets(
                       "application/json")
 
     if changes_md_path and (md_path := Path(changes_md_path)).exists():
-        print("  Uploading changes.md...")
-        _upload_asset(session, upload_url, "changes.md", md_path.read_bytes(),
+        asset_name = f"changes_{build}.md"
+        print(f"  Uploading {asset_name}...")
+        _upload_asset(session, upload_url, asset_name, md_path.read_bytes(),
                       "text/markdown")
 
 
@@ -217,7 +218,7 @@ if __name__ == "__main__":
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
     parser.add_argument("build", type=int)
     parser.add_argument("langs", nargs="+", help="Changed language codes")
-    parser.add_argument("--changes", type=Path, help="Path to changes.md")
+    parser.add_argument("--changes", type=Path, help="Path to changes_{build}.md")
     parser.add_argument("--draft", action="store_true")
     args = parser.parse_args()
 

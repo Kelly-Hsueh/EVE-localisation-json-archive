@@ -23,7 +23,8 @@ scripts/
 ├── changelog.py        ← generate Markdown changelogs
 ├── release.py          ← create GitHub Releases with assets
 ├── create_release.py   ← create release from deferred metadata (post-push)
-└── run.py              ← orchestrator (fetch → merge → changelog → release)
+├── run.py              ← orchestrator (fetch → merge → changelog → release)
+└── search_strings.py   ← search localisation strings by keyword, export to CSV
 
 .github/workflows/
 └── localisation.yml    ← daily GitHub Actions workflow
@@ -60,7 +61,7 @@ English-only (`en.json`) uses a single field:
 GitHub Releases are tagged `tq-{build}` or `sisi-{build}` and contain:
 
 - `{lang}_{build}.json` – one file per changed language
-- `changes.md` – detailed diff for that build
+- `changes_{build}.md` – detailed diff for that build
 
 ## Local Usage
 
@@ -79,6 +80,24 @@ python scripts/run.py SISI
 # Force re-download everything
 python scripts/run.py TQ SISI --force
 ```
+
+### Searching strings
+
+`search_strings.py` searches the archived JSON for a keyword and exports matching entries to CSV.
+
+```bash
+# Plain substring match across all languages, TQ server
+python scripts/search_strings.py TQ "warp"
+
+# Regex match, search only ZH columns
+python scripts/search_strings.py TQ "跃迁.*启动" --regex --lang zh
+
+# Search SISI, case-sensitive, custom output path
+python scripts/search_strings.py SISI "Warp" --case-sensitive -o cyno_strings.csv
+```
+
+Output CSV columns: `message_id`, then one column per language present on disk (`en`, `de`, `es`, `fr`, `it`, `ja`, `ko`, `ru`, `zh`).
+
 ## Acknowledgements
 
 Thanks to [EstamelGG](https://github.com/EstamelGG) for his help during the design phase.

@@ -398,7 +398,7 @@ def generate_changelog(
     """
     Returns (summary_md, full_md, diffs).
     summary_md  – just the table (for release body)
-    full_md     – summary + details (for changes.md artifact and cumulative log)
+    full_md     – summary + details (for changes_{build}.md artifact and cumulative log)
     """
     server_lower = server.lower()
     new_dir = LATEST_DIR / server_lower
@@ -434,7 +434,12 @@ if __name__ == "__main__":
     parser.add_argument("build", type=int)
     parser.add_argument("langs", nargs="+")
     parser.add_argument("--old-dir", type=Path)
-    parser.add_argument("--output", type=Path, default=Path("changes.md"))
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=None,
+        help="Output path (default: changes_{build}.md)",
+    )
     args = parser.parse_args()
 
     summary, md, _ = generate_changelog(args.server.upper(),
@@ -442,8 +447,9 @@ if __name__ == "__main__":
                                         args.langs,
                                         old_json_dir=args.old_dir)
     if md:
-        args.output.write_text(md, encoding="utf-8")
-        print(f"Wrote {args.output}")
+        out_path = args.output or Path(f"changes_{args.build}.md")
+        out_path.write_text(md, encoding="utf-8")
+        print(f"Wrote {out_path}")
         prepend_to_changelog(ROOT / f"CHANGELOG_{args.server.upper()}.md", md)
     else:
         print("No changes detected.")
