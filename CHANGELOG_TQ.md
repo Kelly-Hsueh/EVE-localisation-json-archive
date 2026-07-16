@@ -1,3 +1,4707 @@
+# Build 3436472
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 4 | 69 | 0 |
+| en | 4 | 69 | 0 |
+| es | 4 | 69 | 0 |
+| fr | 4 | 69 | 0 |
+| ja | 4 | 69 | 0 |
+| ko | 4 | 69 | 0 |
+| ru | 4 | 69 | 0 |
+| zh | 4 | 69 | 0 |
+
+## Details
+
+### MessageID: 61000 · Source Modified
+
+EN
+
+```diff
+- […]lanet, a new state had to be built from the scratch in very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living on this past achievement ever since. Though not very active any more in the wheeling and dealing of power politics it still holds some very valuable cards on its hand.
++ […]lanet, a new state had to be built from scratch in a very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living off this past achievement ever since. Though no longer very active in the wheeling and dealing of power politics, it still holds some very valuable cards in its hand.
+```
+
+
+DE
+
+```text
+Nach dem großen Exodus zur Zeit des Caldari Ausbruchs, als die Caldari ihren Heimatplaneten verließen, musste in kürzester Zeit ein neuer Staat aus dem Nichts errichtet werden. Caldari Constructions war eine der Firmen, die sich an diesem Vorhaben beteiligten, und lebt seit jeher von dieser Errungenschaft. Obwohl die Firma nicht mehr allzu sehr an den politischen Machenschaften beteiligt ist, hat sie noch das eine oder andere Ass im Ärmel.
+```
+
+
+ES
+
+```text
+Después del gran éxodo de la Evasión Caldari, cuando estos abandonaron su planeta natal, hubo de construirse un nuevo estado desde cero en muy poco tiempo. Caldari Constructions fue una de las empresas que participó en ese gran esfuerzo y, desde entonces, vive de esta proeza del pasado. Aunque ya no maneja activamente la política del poder, todavía tiene algunas cartas muy valiosas en la manga.
+```
+
+
+FR
+
+```text
+Après le grand exode au cours duquel les Caldari se virent contraints de quitter leur planète d'origine, ils durent fonder un nouvel État dans les plus brefs délais. Ayant participé à cette vaste campagne de reconstruction, la société Caldari Constructions récolte toujours les fruits de cet exploit historique. Bien qu'elle ne soit plus très active sur l'échiquier politique, il lui reste un certain nombre d'atouts dans sa manche.
+```
+
+
+JA
+
+```text
+「カルダリ脱出事件」で母星を追われ、故郷を失ったカルダリ人は、早急に新しい国を一から建設する必要に迫られた。カルダリ建設はその大事業に加わった企業の一つで、今なお過去の栄光に頼って生き延びている。さすがに政治的駆け引きへ手を出す意欲はあまりないようだが、まだいくつかの非常に強力な切り札を温存している。
+```
+
+
+KO
+
+```text
+칼다리가 고향 행성을 떠났던 칼다리 대이동 당시, 칼다리는 이 대이동이 완료되고 나서 아주 단기간 안에 새 국가를 급히 설립해야 했습니다. 칼다리 건설은 이 막대한 노력에 기여했던 여러 코퍼레이션 중 하나로서 현재까지도 이 당시의 업적을 발판 삼아 생업을 이어가고 있습니다. 이 코퍼레이션은 정치적인 권력 싸움에 더 이상 적극적으로 임하지 않지만 여전히 몇 가지 중요한 패를 손에 쥐고 있습니다.
+```
+
+
+RU
+
+```text
+После великого исхода, когда Caldari покинули свою родную планету в ходе борьбы за независимость, появилась необходимость создать новое государство практически с нуля за очень короткий промежуток времени. Caldari Constructions — одна из компаний, участвовавших в этом великом предприятии, и этот подвиг гарантировал ее успешное развитие в дальнейшем. Несмотря на то, что компания не принимает активного участия в политической жизни страны, она обладает несколькими очень ценными рычагами влияния.
+```
+
+
+ZH
+
+```text
+在加达里大迁徙中，大量加达里人逃离了自己家园，急需重建一个崭新的国度。加达里建筑集团就是重建工作中的重要一员，并迅速扩展壮大。虽然其不再滥用强权政治，但手中仍握有王牌。
+```
+
+
+
+
+### MessageID: 62430 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
++ […]material into the much valued boosters. Be warned that the Angels will not respo[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Angel in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Angel werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Ángeles han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Ángeles no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Angel ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Angel risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、エンジェルは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、エンジェルは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+엔젤 카르텔은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Angels построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Angels не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，天使在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天使对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 62433 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
++ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Booster umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Guristas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Guristas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Guristas ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Guristas risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、ガリスタスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、ガリスタスは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+구리스타스는 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Sansha построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Sansha не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，古斯塔斯在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，古斯塔斯对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 62434 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
++ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Booster umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Guristas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Guristas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Guristas ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Guristas risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、ガリスタスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、ガリスタスは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+구리스타스는 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Sansha построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Sansha не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，古斯塔斯在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，古斯塔斯对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 62436 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
++ […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Serpentis in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Serpentis werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Serpentis han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Serpentis no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Serpentis ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Serpentis risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、サーペンティスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、サーペンティスは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+서펜티스 코퍼레이션은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Serpentis построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры.  Примите к сведению, что Serpentis не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，天蛇在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天蛇对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 70885 · Source Modified
+
+EN
+
+```diff
+- Charit Rish's Baalgorn
++ Charit Rish's Bhaalgorn
+```
+
+
+DE
+
+```text
+Charit Rish's Baalgorn
+```
+
+
+ES
+
+```text
+Bhaalgorn de Charit Rish
+```
+
+
+FR
+
+```text
+Baalgorn de Charit Rish
+```
+
+
+JA
+
+```text
+チャーリットリッシュのバールゴーン
+```
+
+
+KO
+
+```text
+채릿 리시의 바알고른
+```
+
+
+RU
+
+```text
+Charit Rish's Baalgorn
+```
+
+
+ZH
+
+```text
+查利特·利须的巴戈龙级飞船
+```
+
+
+
+
+### MessageID: 70886 · Source Modified
+
+EN
+
+```diff
+- Neyan Khahsel's Baalgorn
++ Neyan Khahsel's Bhaalgorn
+```
+
+
+DE
+
+```text
+Neyan Khahsel's Baalgorn
+```
+
+
+ES
+
+```text
+Bhaalgorn de Neyan Khahsel
+```
+
+
+FR
+
+```text
+Baalgorn de Neyan Khahsel
+```
+
+
+JA
+
+```text
+ネヤンカーセルのバールゴーン
+```
+
+
+KO
+
+```text
+네얀 카흐셀의 바알고른
+```
+
+
+RU
+
+```text
+Neyan Khahsel's Baalgorn
+```
+
+
+ZH
+
+```text
+奈杨·卡萨尔的巴戈龙级飞船
+```
+
+
+
+
+### MessageID: 82056 · Source Modified
+
+EN
+
+```diff
+- A Baalgorn piloted by an agent.
++ A Bhaalgorn piloted by an agent.
+```
+
+
+DE
+
+```text
+Eine Baalgorn, die von einem Agenten geflogen wird.
+```
+
+
+ES
+
+```text
+Bhaalgorn pilotada por un agente.
+```
+
+
+FR
+
+```text
+Un Baalgorn piloté par un agent.
+```
+
+
+JA
+
+```text
+エージェントを乗せたバールゴーン。
+```
+
+
+KO
+
+```text
+에이전트가 조종하는 바알고른입니다.
+```
+
+
+RU
+
+```text
+Корабль класса Bhaalgorn, управляемый агентом.
+```
+
+
+ZH
+
+```text
+由代理人驾驶的巴戈龙级飞船。
+```
+
+
+
+
+### MessageID: 82057 · Source Modified
+
+EN
+
+```diff
+- A Baalgorn piloted by an agent.
++ A Bhaalgorn piloted by an agent.
+```
+
+
+DE
+
+```text
+Eine Baalgorn, die von einem Agenten geflogen wird.
+```
+
+
+ES
+
+```text
+Bhaalgorn pilotada por un agente.
+```
+
+
+FR
+
+```text
+Un Baalgorn piloté par un agent.
+```
+
+
+JA
+
+```text
+エージェントを乗せたバールゴーン。
+```
+
+
+KO
+
+```text
+에이전트가 조종하는 바알고른입니다.
+```
+
+
+RU
+
+```text
+Корабль класса Bhaalgorn, управляемый агентом.
+```
+
+
+ZH
+
+```text
+由代理人驾驶的巴戈龙级飞船。
+```
+
+
+
+
+### MessageID: 86887 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
+```
+
+
+
+
+### MessageID: 86888 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Blauer Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+蓝色晶体，在大型小行星或卫星内部深处的高压环境中形成。用于电子和武器制造业。仅在少数地区储量丰富。
+```
+
+
+
+
+### MessageID: 86889 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
+```
+
+
+
+
+### MessageID: 86890 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
+```
+
+
+
+
+### MessageID: 86891 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+黄绿色晶体，在大型小行星或卫星内部深处的高压环境中形成。用于电子和武器制造业。仅在少数地区储量丰富。
+```
+
+
+
+
+### MessageID: 86892 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
+```
+
+
+
+
+### MessageID: 86893 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Roter Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+红色晶体，在大型小行星或卫星内部深处的高压环境中形成。用于电子和武器制造业。仅在少数地区储量丰富。
+```
+
+
+
+
+### MessageID: 86894 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+DE
+
+```text
+Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
+```
+
+
+ES
+
+```text
+La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
+```
+
+
+JA
+
+```text
+ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
+```
+
+
+RU
+
+```text
+Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
+```
+
+
+ZH
+
+```text
+在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
+```
+
+
+
+
+### MessageID: 87925 · Source Modified
+
+EN
+
+```diff
+- Skill and knowledge of Hydromagnetic Physics and its use in the development of advanced technology . 
++ Skill and knowledge of Hydromagnetic Physics and its use in the development of advanced technology. 
+  
+- Used primarily in the research of shield system.
++ Used primarily in the research of shield systems.
+  
+  Allows Hydromagnetic Physics research to be performed with the help of a research agent. 
+  
+  Needed for all research and manufacturing operations on related blueprints. 1% reduction in manufacturing time for all items requiring Hydromagnetic Physics per level.
+```
+
+
+DE
+
+```text
+Fähigkeit und Kenntnisse von hydromagnetischer Physik und deren Verwendung in der Entwicklung fortschrittlicher Technologie. Wird in erster Linie zur Forschung am Schildsystem verwendet. Ermöglicht die Forschung von hydromagnetischer Physik mit Hilfe eines Forschungsagenten. Voraussetzung für alle Forschungs- und Fertigungsaufträge mit entsprechenden Blaupausen. 1% Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill "Hydromagnetic Physics" erfordern.
+```
+
+
+ES
+
+```text
+Habilidad y conocimientos de física hidromagnética y su uso en el desarrollo de tecnología avanzada.
+
+Se usa principalmente en la investigación de los sistemas de escudo.
+
+Permite la investigación de la física hidromagnética con la ayuda de un agente de investigación.
+
+Se necesita para todas las operaciones de investigación y fabricación en planos relacionados. Reduce un 1 % el tiempo de fabricación de todos los objetos que requieran física hidromagnética por nivel.
+```
+
+
+FR
+
+```text
+Compétence et connaissances liées à la physique hydromagnétique et à son utilisation pour le développement de technologies avancées. Cette compétence sert principalement à la recherche sur les systèmes de bouclier. Elle permet de lancer des recherches sur la physique hydromagnétique avec l'aide d'un agent de recherche. Nécessaire pour toutes les opérations de recherche et de fabrication sur les plans de construction connexes. réduit de 1 % le temps de production par niveau pour tous les éléments
+(truncated, 540 chars total)
+```
+
+
+JA
+
+```text
+磁気流体物理学と、それを先端技術の開発に利用するスキルおよび知識。
+
+主にシールドシステムの研究に利用される。
+
+リサーチエージェントの助けを借りて磁気流体物理学の研究を行うことができる。関連するブループリントを用いる全ての研究および製造作業に必要。
+
+レベル上昇ごとに磁気流体物理学を必要とするすべてのアイテムの製造時間が1%削減。
+```
+
+
+KO
+
+```text
+첨단 과학기술 분야인 자기 유체 역학 스킬입니다. <br><br>실드 시스템 연구에 주로 사용됩니다. <br><br>연구 에이전트의 도움을 받아 자기 유체 역학 연구를 시행할 수 있습니다. 관련된 블루프린트가 사용되는 모든 연구 및 제조 과정에 필요한 스킬입니다. <br><br>매 레벨마다 자기 유체 역학 스킬을 요구하는 모든 항목의 제조 시간 1% 감소
+```
+
+
+RU
+
+```text
+Знания в области гидромагнитной физики и навыки их использования для создания передовых технологий. 
+
+
+
+Этот навык преимущественно используется для разработки силовых полей.
+
+
+
+Позволяет проводить научно-исследовательские работы в области гидромагнитной физики с помощью агента научно-исследовательского отдела. 
+
+
+
+Используется для исследовательских и производственных операций по соответствующим чертежам. Приводит к экономии времени на прогон производства всех предметов, для производства которых 
+(truncated, 563 chars total)
+```
+
+
+ZH
+
+```text
+理解磁流体物理学及其在高科技开发中应用的技能。 
+
+主要用于各种护盾系统的研究。
+
+可以在研究代理人的帮助下进行磁流体物理学研究。 
+
+这是相关蓝图研究和制造的必需技能。每升一级，所有需要磁流体物理学技能的物品的生产时间减少1%。
+```
+
+
+
+
+### MessageID: 95664 · Source Modified
+
+EN
+
+```diff
+- <font color=E3170D size = 13>Welcome to Khodesa, the primary space-mi[…]
++ Welcome to Khodesa, the primary space-mi[…]
+```
+
+
+DE
+
+```text
+<font color=E3170D size = 13>Willkommen in Khodesa, dem Hauptausbildungslager für Weltraummilitär in Chanoun. Alle Besucher haben den Sicherheitsaußenposten in diesem Komplex <b>fernzubleiben</b>. Nichtbeachtung dieser einfachen Vorschrift hat die sofortige Zerstörung Ihres Raumschiffs zur Folge. Schönen Tag noch.</font>
+```
+
+
+ES
+
+```text
+<font color=E3170D size = 13>Te damos la bienvenida a Khodesa, el principal campo de entrenamiento espacial y militar de Chanoun. Todos los visitantes deben mantenerse <b>alejados</b> de los puestos avanzados de seguridad dentro de este complejo. El incumplimiento de esta regla provocará la destrucción inmediata de tu nave espacial. Que tengas un buen día.</font>
+```
+
+
+FR
+
+```text
+<font color=E3170D size = 13>Bienvenue à Khodesa, le camp d'entraînement militaire spatial principal de Chanoun. Aucun visiteur n'est autorisé à <b>s'approcher</b> des avant-postes de sécurité situés à l'intérieur du complexe. Tout contrevenant sera immédiatement abattu. Passez une bonne journée.</font>
+```
+
+
+JA
+
+```text
+<font color=E3170D size = 13>コーデサへようこそ。ここは、シャヌーン最大の宇宙軍事訓練所だ。全ての訪問者は、施設内のセキュリティアウトポストに<b>近づかない</b>ように。この単純なルールが守れない者の宇宙船は、即座に破壊されてしまうからな。では、よい一日を。</font>
+```
+
+
+KO
+
+```text
+<font color=E3170D size = 13>차눈의 최고 군사훈련지인 코데사에 온 것을 환영합니다. 모든 방문객은 시설 내의 보안기지로의 접근이 금지되어 있음을 알립니다. 단순한 규칙이지만 이를 어길시 즉각적인 발포가 있을 것입니다. 좋은 하루 되시길 바랍니다.
+```
+
+
+RU
+
+```text
+<font color=E3170D size = 13>Добро пожаловать в Ходесу — главный военно-космический учебный лагерь Чануна. Всем посетителям <b>запрещено приближаться</b> к защитным форпостам на территории комплекса. Нарушение этого простого правила ведет к немедленному уничтожению вашего космического судна. Хорошего дня!</font>
+```
+
+
+ZH
+
+```text
+<font color=E3170D size = 13>欢迎来到查浓的初级空间军事训练营——格德萨。所有访客都<b>必须远离</b>这个复合体内的安全哨站。如果违反这条简单的规定，你的飞船被立即摧毁。祝你愉快。</font>
+```
+
+
+
+
+### MessageID: 95672 · Source Modified
+
+EN
+
+```diff
+- <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P>
++ <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P><br>
+  <P>Recently, Lord Methros hired the Blood Raider Covenant to gain the upper hand in combating Lord Arachnan for supremacy in the region. As could be expected, he lost control of the pirates before long, and now they run their own operations from this old Amarrian bastion.</P>
+  
+```
+
+
+DE
+
+```text
+<p>Im letzten Jahrtausend baute der Kaiser des Amarr Imperiums diese Festung, aber sie wurde ein Opfer der Vernachlässigung, als sich die Aufmerksamkeit des Imperiums in eine andere Richtung wandte.</p><p>Kürzlich heuerte Lord Methros den Blood Raider-Bund an, um die Oberhand im Kampf mit Lord Arachnan um die Vorherrschaft in der Region zu gewinnen. Wie zu erwarten war, hat er schon lange die Kontrolle über die Piraten verloren und jetzt betreiben die ihre eigenen Operationen aus dieser alten Fe
+(truncated, 520 chars total)
+```
+
+
+ES
+
+```diff
+  <P>En los últimos milenios, el emperador de Amarr construyó este baluarte, pero se convirtió en víctima de la negligencia, ya que la atención del Imperio se dirigió a otros lugares.</P>
+  
+  <P>Recientemente, Lord Methros contrató al Pacto de los Saqueadores Sanguinarios para ganar ventaja en la lucha contra Lord Arachnan por la supremacía en la región. Como era de esperar, no tardó en perder el control de los piratas, que ahora dirigen sus propias operaciones desde este viejo baluarte amarriano.</P>
+```
+
+
+FR
+
+```diff
+  <P>Au cours du dernier millénaire, l'empereur amarr construisit ce bastion, qui tomba en désuétude lorsque l'Empire s'en désintéressa.</P> <P>Récemment, le Seigneur Methros engagea la cabale blood raider afin de prendre le dessus sur le Seigneur Arachnan et obtenir ainsi la suprématie sur la région. Comme on pouvait s'y attendre, il perdit rapidement le contrôle des pirates et ce sont eux qui utilisent aujourd'hui le vieux bastion amarr comme base d'opérations.</P>
+  
+  				
+```
+
+
+JA
+
+```diff
+  <P>過去千年に渡り、アマー帝国の皇帝がこの要塞を建設したが、帝国の関心が他へ移るにつれて顧みられなくなった。</P>
+  
+  <P>ところが最近、ロードメルスローズがこのリージョンの覇権を巡りロードアーチャナンと争ったとき、優位に立とうとしてブラッドレイダーカバナントを雇ったのである。予想できたことではあるが、ロードメルスローズはその後間もなく海賊どもを抑えられなくなり、今では海賊たちはこの古いアマーの要塞を拠点に自分たちの作戦を実行している。</P>
+```
+
+
+KO
+
+```diff
+  <P>지난 세기 아마르 제국의 황제에 의해 지어진 요새입니다. 그러나 제국의 관심이 다른곳으로 쏠리게 되면서 요새는 무관심 속에서 방치되었습니다.</P><P>최근에는 귀족 사이의 분쟁을 틈타 해적들이 요새를 점거하여 기지로 사용하고 있습니다. 메쓰로스는 아라크난을 상대로 우위를 점하기 위해 블러드 레이더 커버넌트를 고용하여 이 지역으로 불러들였지만  오래지나지 않아 해적은 기대를 저버리지 않고 통제불가 상태가 되었습니다. 현재 해적들은 이곳의 아마르 요새를 자신들의 기지처럼 드나들며 활동하고 있습니다.
+  
+```
+
+
+RU
+
+```diff
+  <P>В прошлом тысячелетии император Amarr построил этот бастион, но он был заброшен, когда внимание Империи сосредоточилось на других задачах. </P>
+  <P>Недавно лорд Methros нанял Blood Raider Covenant для обретения превосходства в борьбе с лордом Arachnan за главенство в этом регионе. Как и следовало ожидать, он давно потерял контроль над пиратами, и теперь они проводят свои операции из этого старого бастиона Amarr.</P>
+```
+
+
+ZH
+
+```text
+<P>在上个千年，艾玛帝国的皇帝建造了这座堡垒，可是后来帝国的注意力移往他处，它就被忽略了。</P><P>最近，梅多尔斯大人为在与埃拉克兰大人争夺星域主导权的斗争中占据主动，雇佣了血袭者同盟。可以想象，没过多久，他就控制不了那些海盗了。现在海盗们正在这座古老的艾玛堡垒中，开展自己的事业。</P>
+```
+
+
+
+
+### MessageID: 96031 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
++ […]material into the much valued boosters. Be warned that the Angels will not respo[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Angel in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Angels werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Ángeles han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Ángeles no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Angel ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Angel risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、エンジェルズは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、エンジェルズは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+엔젤 카르텔은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Angels построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Angels не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，天使在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天使对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 96032 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+DE
+
+```text
+Diese Anlage wurde maskiert, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Angels gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um die Booster-Formeln zu verbessern und Gase zu veredeln. Daher werden sie gut bewacht.
+```
+
+
+ES
+
+```text
+Los Ángeles han ocultado la existencia de esta instalación construyéndola dentro de grandes restos espaciales, donde han conseguido establecer un pequeño laboratorio químico cerca de la cosecha de nubes de gas que ambicionan. Estas instalaciones se utilizan para refinar y mejorar sus fórmulas de potenciadores y están bien protegidas.
+```
+
+
+FR
+
+```text
+En dissimulant cette structure dans une grande épave, les Angel sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
+```
+
+
+JA
+
+```text
+エンジェルズは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
+```
+
+
+KO
+
+```text
+엔젤 카르텔은 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
+```
+
+
+RU
+
+```text
+Angels смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
+```
+
+
+ZH
+
+```text
+凭借一座大型空间残骸的掩饰，天使顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
+```
+
+
+
+
+### MessageID: 96033 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
++ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Guristas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Guristas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Guristas ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Guristas risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、ガリスタスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、ガリスタスは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+구리스타스는 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Gurista построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Guristas не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，古斯塔斯在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，古斯塔斯对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 96034 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Sansha will not respo[…]
++ […]material into the much valued boosters. Be warned that the Sansha will not respo[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Booster umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los sanshas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los sanshas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Sansha ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Sansha risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、サンシャは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、サンシャは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+산샤 네이션은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 진입 시 중무장 상태로의 교전을 권장합니다.
+```
+
+
+RU
+
+```text
+Sansha построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры.  Примите к сведению, что Sansha не являются снисходительными к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，萨沙在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，萨沙对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 96035 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
++ […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
+```
+
+
+DE
+
+```text
+Versteckt vor neugierigen Augen haben die Serpentis in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Serpentis werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
+```
+
+
+ES
+
+```text
+A salvo de miradas indiscretas en una nube nebulosa, los Serpentis han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Serpentis no reaccionarán favorablemente a los intrusos, así que mantente alerta.
+```
+
+
+FR
+
+```text
+Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Serpentis ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Serpentis risquent de ne pas apprécier les intrus. Restez sur vos gardes !
+```
+
+
+JA
+
+```text
+星雲の中で人目を忍び、サーペンティスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、サーペンティスは侵入者に対しては容赦しない。用心せよ。
+```
+
+
+KO
+
+```text
+서펜티스 코퍼레이션은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
+```
+
+
+RU
+
+```text
+Serpentis построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры.  Примите к сведению, что Serpentis не питают снисходительности к чужакам. Будьте начеку.
+```
+
+
+ZH
+
+```text
+为了避人耳目，天蛇在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天蛇对任何入侵者都不会报以好脸色，一定要小心谨慎。
+```
+
+
+
+
+### MessageID: 96036 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+DE
+
+```text
+Diese Anlage wurde versteckt, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Guristas gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um Gase zu veredeln und die Booster-Formeln zu verbessern. Daher werden sie gut bewacht.
+```
+
+
+ES
+
+```text
+Los Guristas han construido esta estación dentro de enormes restos espaciales para mantenerla oculta y han conseguido establecer un pequeño laboratorio químico cerca de la extracción de las nubes de gas que desean. Este centro sirve para refinar y mejorar sus fórmulas de potenciadores y, como tal, está bien protegido.
+```
+
+
+FR
+
+```text
+En dissimulant cette structure dans une grande épave, les Guristas sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
+```
+
+
+JA
+
+```text
+ガリスタスは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
+```
+
+
+KO
+
+```text
+구리스타스는 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
+```
+
+
+RU
+
+```text
+Gurista смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
+```
+
+
+ZH
+
+```text
+凭借一座大型空间残骸的掩饰，古斯塔斯顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
+```
+
+
+
+
+### MessageID: 96037 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+DE
+
+```text
+Diese Anlage wurde versteckt, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Blood Raidern gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um Gase zu veredeln und die Booster-Formeln zu verbessern. Daher werden sie gut bewacht.
+```
+
+
+ES
+
+```text
+Los Saqueadores Sanguinarios han construido esta estación dentro de enormes restos espaciales para mantenerla oculta y han conseguido establecer un pequeño laboratorio químico cerca de la extracción de las nubes de gas que desean. Este centro sirve para refinar y mejorar sus fórmulas de potenciadores y, como tal, está bien protegido.
+```
+
+
+FR
+
+```text
+En dissimulant cette structure dans une grande épave, les Blood Raiders sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
+```
+
+
+JA
+
+```text
+ブラッドレイダーは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
+```
+
+
+KO
+
+```text
+블러드 레이더는 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
+```
+
+
+RU
+
+```text
+Blood Raiders смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
+```
+
+
+ZH
+
+```text
+凭借一座大型空间残骸的掩饰，血袭者顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
+```
+
+
+
+
+### MessageID: 96038 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+DE
+
+```text
+Diese Anlage wurde versteckt, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Serpentis gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um Gase zu veredeln und die Booster-Formeln zu verbessern. Daher werden sie gut bewacht.
+```
+
+
+ES
+
+```text
+Los Serpentis han construido esta estación dentro de enormes restos espaciales para mantenerla oculta y han conseguido establecer un pequeño laboratorio químico cerca de la extracción de las nubes de gas que desean. Este centro sirve para refinar y mejorar sus fórmulas de potenciadores y, como tal, está bien protegido.
+```
+
+
+FR
+
+```text
+En dissimulant cette structure dans une grande épave, les Serpentis sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
+```
+
+
+JA
+
+```text
+サーペンティスは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
+```
+
+
+KO
+
+```text
+서펜티스 코퍼레이션은 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
+```
+
+
+RU
+
+```text
+Serpentis смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
+```
+
+
+ZH
+
+```text
+凭借一座大型空间残骸的掩饰，天蛇顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
+```
+
+
+
+
+### MessageID: 96434 · Source Modified
+
+EN
+
+```diff
+  Astrophysicists studying Sleeper sites have noted that some Sleeper structures are still operational – and by design, no less. Outposts run basic life support systems, engineering stations buzz with running motors, and stations glimmer with light, energy, and mundane activity. No known reason exists for this persistent operation, but a few clues emerge.
+- <br><br>
++ <br>
+  This cluster of thermoelectric converters is common around large solar bodies, supposedly for collecting radiation and storing energy for use throughout Sleeper colonies: a persistent generator for a dead race. Even to this day, this structure is operational, although how it distributes its energy and for what purpose is still unknown.
+```
+
+
+DE
+
+```text
+Bei der Untersuchung von Sleeper-Stätten haben Astrophysiker festgestellt, dass manche dieser Strukturen noch funktionstüchtig sind und man sie offensichtlich auch bewusst so konstruiert hat. In den Außenposten laufen einfache Lebenserhaltungssysteme, in den Fertigungsstationen surren die Motoren, es brennt Licht - überall spürt man Energie, und alles sieht aus wie im alltäglichen Ablauf. Die Gründe für diesen Dauerbetrieb sind bisher nicht bekannt, aber es gibt einige Vermutungen. <br><br> Eine
+(truncated, 958 chars total)
+```
+
+
+ES
+
+```text
+Los astrofísicos que están estudiando las zonas de Sleepers han notado que algunas estructuras siguen operativas y con toda la intención. En los puestos avanzados hay sistemas básicos de asistencia vital, se han encontrado motores en marcha en las estaciones de ingeniería y en las estaciones se percibe luz, energía y actividad mundana. Se desconoce un motivo para esta operación continua, pero surgen algunas pistas.
+<br><br>
+Este cúmulo de convertidores termoeléctricos es común alrededor de gra
+(truncated, 790 chars total)
+```
+
+
+FR
+
+```text
+Les astrophysiciens qui étudient les sites sleeper ont noté que certaines structures sleeper sont toujours opérationnelles, de par leur conception. Les avant-postes commandent des systèmes de base d'assistance vitale, leurs moteurs tournent dans les stations d'ingénierie et les stations bénéficient d'éclairages, d'énergie et montrent des signes d'activité. Aucune raison connue ne justifie ce fonctionnement permanent, même si quelques indices ont été trouvés. <br><br> Cette nuée de convertisseurs
+(truncated, 881 chars total)
+```
+
+
+JA
+
+```text
+スリーパー遺跡を研究する天体物理学者たちは、スリーパーの建造物の一部がまだ機能する-これだけの長期にわたって機能し続けることを意図して作られた-ことに気付いた。アウトポストでは基本的な生命維持システムが稼働し、エンジニアリングステーションは動力装置の音を響かせ、ステーションには照明やエネルギーなどの日常的な営みが見て取れる。これほど長い間稼働できる理由は不明だが、いくつかの手がかりは見える。
+<br><br>
+熱電気変換器星団は大きな太陽天体ではよく見られるもので、放射を収集してエネルギーを貯め、そのエネルギーをスリーパーのコロニー全域で使用したものと思われる。絶滅した種族の永続するジェネレータである。エネルギーの供給方法や目的は未だに不明だが、この建造物は現在でも作動する。
+
+```
+
+
+KO
+
+```diff
+- […]구조물은 작동중이지만 작동 원리와 목적에 대해서는 알려진 바가 없습니다.
++ […]구조물은 작동중이지만 작동 원리와 목적에 대해서는 알려진 바가 없습니다.
+```
+
+
+RU
+
+```diff
+  Исследующие посты Sleeper астрофизики заметили, что некоторые из структур Sleeper всё еще в исправном состоянии, и что характерно — намеренно. Основные системы жизнеобеспечения находятся в рабочем состоянии, инженерные станции гудят моторами, а станции мерцают от света, энергии и обычной деятельности. Причины этой непрерывной работы не известны, однако существует несколько намеков на разгадку.
+  <br><br>
+  Эти группы термоэлектрических преобразователей часто встречаются на орбите больших тел звездных систем и предположительно используются для накопления излучения и сохранения энергии, которая затем используется в колониях Sleeper; перед вами непрерывно работающие генераторы исчезнувшей расы. Даже сегодня эта структура находится в рабочем состоянии, хотя всё еще остается неизвестным, как она распределяет свою энергию и для каких целей.
+```
+
+
+ZH
+
+```text
+研究冬眠者领地的空间物理学家注意到一些冬眠者建筑至今仍在运作——这绝对是有意为之的。哨站上还启用着生态系统，工程站里尚有马达声，空间站里灯火通明。没人知道这一切还能运作的准确原因，但已经有了些线索。<br><br>这一群热电转换器在大恒星周围很常见，应该就是为了将辐射能采集给冬眠者使用而设的，而冬眠者其实早就湮灭了。直至今日，该结构依旧能用，虽然没人知道它到底是怎么传输能量及其终极目的。
+```
+
+
+
+
+### MessageID: 99473 · Source Modified
+
+EN
+
+```diff
+- Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P>
+- <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P>
++ Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P><br>
++ <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P><br>
+  Surveillance mission 3498D-2K: Amazingly, just after the final blow-out of the station we caught some emergency transmissions from within it. Warp sequence was already initated so we could not investigate further, but we advise sending another recon as soon as possible.
+```
+
+
+DE
+
+```text
+Bis vor kurzem war dies eine High-Tech-Raffinerie, die biochemische Fusionen und überheizte Kuppeln benutzte. Dann kam die Katastrophe mit immer noch unbekannter Ursache.<P> <span id=thought>Kürzlich hinzugefügte Informationen erscheinen unten auf Ihrem Bildschirm</span><P> Überwachungsmission 3498D-2K: Erstaunlicherweise haben wir kurz nach dem letzten Gasausstoß darin Energie-Stahlung festgestellt. Die Warp-Sequenz war bereits eingeleitet, deshalb konnten wir dies nicht näher untersuchen, doch
+(truncated, 584 chars total)
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```diff
+  Il s'agissait, encore récemment, d'une raffinerie haute technologie équipée de dômes de surchauffe et d'équipements pour la fusion biochimique, mais un accident à l'origine inconnue s'est produit.<P>
+  <span id=thought>Certaines informations supplémentaires viennent de s'afficher dans la partie inférieure de votre écran.</span><P>
+  Mission de surveillance 3498D-2K : Bizarrement, nous avons capté des transmissions d'urgence semblant provenir de l'intérieur de la station juste après son explosion. Nous avions déjà initié la séquence de warp et n'avons pas pu en savoir plus, mais nous recommandons l'envoi d'une autre équipe de reconnaissance le plus vite possible.
+```
+
+
+JA
+
+```text
+つい最近まで、ここは有機化合と過熱ドームを使用する最先端の精錬所だった。それが突如災害に見舞われ、原因はいまだ判明していない。<P>
+<span id=thought>最近の追加情報が画面の下端にポップアップする。</span><P>
+調査報告 3498D-2K: どういうわけか、ステーションが最後の爆発を起こした直後、その内部から救難信号らしきものが何度か発信された。我が隊は既にワープ航法を開始したところだったため、それ以上の調査は行えなかったが、可及的速やかに追加調査隊を派遣するよう勧告する。
+```
+
+
+KO
+
+```text
+최근까지 이곳은 생화학 합성물과 과열 돔을 이용한 첨단 정제소였으나 원인 미상인 재앙이 발생하여 문을 닫게 되었습니다.<P> <span id=thought>최근 추가된 몇 가지 정보가 당신의 화면 하단에 나타날 것입니다.</span><P> 정찰 미션 3498D-2K: 놀랍게도 정거장이 폭발한 직후에 정거장 내부에서 긴급 신호가 발신되었습니다. 워프가 이미 시작되고 있던 터라 더 조사할 수는 없었지만 가능한 빨리 조사대를 파견해야 할 것 같습니다.
+```
+
+
+RU
+
+```diff
+  До недавнего времени это был высокотехнологичный перерабатывающий завод, использующий технологии биохимического синтеза и сверхвысокого перегрева. Но случилась катастрофа, причины которой до сих пор не установлены.<P>
+  <span id=thought>В нижней части вашего экрана появилась недавно добавленная информация.</span><P>
+  Разведывательная группа 3498D-2K: Удивительно, но сразу после взрыва станции мы уловили исходящие изнутри сигналы бедствия. Квантовый переход уже начался, поэтому мы не могли продолжать расследование, но советуем отправить другой разведывательный патруль как можно скорее.
+```
+
+
+ZH
+
+```text
+不久以前，这是座使用生化熔合和高热晶化的高科技精炼厂。但最近发生了一次不明原因的灾难。<P><span id=thought>一些新增信息突然出现在你屏幕下方。</span><P>
+侦察任务3498D-2K：令人惊讶的是，在空间站最后一次爆炸之后，我们捕捉到了里面发出的紧急求救信息。可当时跃迁程序已启动，我们无法进一步调查，只能建议尽快派遣另一支侦察部队。
+```
+
+
+
+
+### MessageID: 100341 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX100
++ Zainou 'Snapshot' XL Torpedoes XT-603
+```
+
+
+DE
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX100
+```
+
+
+ES
+
+```text
+Hardware: Francotirador ZMX100 de Zainou
+```
+
+
+FR
+
+```text
+Extension neurale – Zainou « Sharpshooter » ZMX100
+```
+
+
+JA
+
+```text
+ハードワイヤリング-ザイノウ「狙撃兵」ZMX100
+```
+
+
+KO
+
+```text
+하드와이어링 - 자이누 '샤프슈터' ZMX100
+```
+
+
+RU
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX100
+```
+
+
+ZH
+
+```text
+神经交互强化芯片 - 载诺 精确射击 ZMX100
+```
+
+
+
+
+### MessageID: 100342 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX1000
++ Zainou 'Snapshot' XL Torpedoes XT-605
+```
+
+
+DE
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX1000
+```
+
+
+ES
+
+```text
+Hardware: Francotirador ZMX1000 de Zainou
+```
+
+
+FR
+
+```text
+Extension neurale – Zainou « Sharpshooter » ZMX1000
+```
+
+
+JA
+
+```text
+ハードワイアリング-ザイノウ「狙撃兵」ZMX1000
+```
+
+
+KO
+
+```text
+하드와이어링 - 자이누 '샤프슈터' ZMX1000
+```
+
+
+RU
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX1000
+```
+
+
+ZH
+
+```text
+神经交互强化芯片 - 载诺 精确射击 ZMX1000
+```
+
+
+
+
+### MessageID: 100343 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX10
++ Zainou 'Snapshot' XL Torpedoes XT-601
+```
+
+
+DE
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX10
+```
+
+
+ES
+
+```text
+Hardware: Sharpshooter ZMX10 de Zainou
+```
+
+
+FR
+
+```text
+Extension neurale – Zainou « Sharpshooter » ZMX10
+```
+
+
+JA
+
+```text
+ハードワイアリング-ザイノウ「狙撃兵」ZMX10
+```
+
+
+KO
+
+```text
+하드와이어링 - 자이누 '샤프슈터' ZMX10
+```
+
+
+RU
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX10
+```
+
+
+ZH
+
+```text
+神经交互强化芯片 - 载诺 精确射击 ZMX10
+```
+
+
+
+
+### MessageID: 104794 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX11
++ Zainou 'Snapshot' XL Torpedoes XT-602
+```
+
+
+DE
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX11
+```
+
+
+ES
+
+```text
+Hardware: Sharpshooter ZMX11 de Zainou
+```
+
+
+FR
+
+```text
+Extension neurale – Zainou 'Sharpshooter' ZMX11
+```
+
+
+JA
+
+```text
+ハードワイヤリング-ザイノウ「狙撃兵」ZMX11
+```
+
+
+KO
+
+```text
+하드와이어링 - 자이누 '샤프슈터' ZMX11
+```
+
+
+RU
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX11
+```
+
+
+ZH
+
+```text
+神经交互强化芯片 - 载诺 精确射击 ZMX11
+```
+
+
+
+
+### MessageID: 104795 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX110
++ Zainou 'Snapshot' XL Torpedoes XT-604
+```
+
+
+DE
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX110
+```
+
+
+ES
+
+```text
+Hardware: Sharpshooter ZMX110 de Zainou
+```
+
+
+FR
+
+```text
+Extension neurale – Zainou 'Sharpshooter' ZMX110
+```
+
+
+JA
+
+```text
+ハードワイアリング-ザイノウ「狙撃兵」ZMX110
+```
+
+
+KO
+
+```text
+하드와이어링 - 자이누 '샤프슈터' ZMX110
+```
+
+
+RU
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX110
+```
+
+
+ZH
+
+```text
+神经交互强化芯片 - 载诺 精确射击 ZMX110
+```
+
+
+
+
+### MessageID: 104796 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX1100
++ Zainou 'Snapshot' XL Torpedoes XT-606
+```
+
+
+DE
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX1100
+```
+
+
+ES
+
+```text
+Hardware: Sharpshooter ZMX1100 de Zainou
+```
+
+
+FR
+
+```text
+Extension neurale – Zainou 'Sharpshooter' ZMX1100
+```
+
+
+JA
+
+```text
+ハードワイヤリング-ザイノウ「狙撃兵」ZMX1100
+```
+
+
+KO
+
+```text
+하드와이어링 - 자이누 '샤프슈터' ZMX1100
+```
+
+
+RU
+
+```text
+Hardwiring - Zainou 'Sharpshooter' ZMX1100
+```
+
+
+ZH
+
+```text
+神经交互强化芯片 - 载诺 精确射击 ZMX1100
+```
+
+
+
+
+### MessageID: 115123 · Source Modified
+
+EN
+
+```diff
+- […]roy the Outer Keep and steal the ancestreal armor of House Arachnan. Return with […]
++ […]roy the Outer Keep and steal the ancestral armor of House Arachnan. Return with […]
+```
+
+
+DE
+
+```text
+Vernichten Sie die äußere Unterkunft und stehlen Sie die Ahnen-Rüstung des Hauses Arachnan. Kehren Sie damit zurück, um die Mission abzuschließen.
+```
+
+
+ES
+
+```text
+Destruye la fortaleza exterior y roba la armadura ancestral de la Casa Arachnan. Vuelve con ella para completar la misión.
+```
+
+
+FR
+
+```text
+Détruisez le fort extérieur et dérobez l'armure ancestrale de la maison Arachnan. Revenez avec pour terminer la mission.
+```
+
+
+JA
+
+```text
+アウターキープを破壊し、ハウスアーチャナンに代々伝わるアーマーを盗み出せ。それを持って帰ればミッションは完了だ。
+```
+
+
+KO
+
+```text
+외곽 요새를 파괴하고 아라크난 가문의 갑옷을 훔치십시오.
+```
+
+
+RU
+
+```text
+Разрушьте внешнюю сторожевую башню и украдите фамильные доспехи дома Arachnan. Ваше задание будет считаться выполненным в том случае, если вы привезете их на нашу базу.
+```
+
+
+ZH
+
+```text
+摧毁外围要塞，窃取埃拉克兰家族祖传盔甲。并将其带回给代理人。
+```
+
+
+
+
+### MessageID: 124485 · Source Modified
+
+EN
+
+```diff
+- Good work — you´re done. Report back to me. 
++ Good work — you're done. Report back to me. 
+```
+
+
+DE
+
+```text
+Gute Arbeit - Sie sind hiermit fertig! Melden Sie sich bei mir zurück.
+```
+
+
+ES
+
+```text
+Buen trabajo. Ya has terminado. Informa de la situación. 
+```
+
+
+FR
+
+```text
+Beau travail, mission accomplie. Revenez faire votre rapport. 
+```
+
+
+JA
+
+```text
+ よくやった。任務完了だ。私のところへ報告に戻ってきてくれ。
+```
+
+
+KO
+
+```text
+일이 잘 마무리 되었군요. 이제 제게 돌아와 주십시오. 
+```
+
+
+RU
+
+```text
+ Хорошо поработали, задание закончено. Доложите мне. 
+```
+
+
+ZH
+
+```text
+干得好——你的任务完成了，回来向我报告吧。
+```
+
+
+
+
+### MessageID: 136448 · Source Modified
+
+EN
+
+```diff
+- It easy to think of the Amarr Empire as a cold, cruel, hegemonic state endorsing terrible repression and subjugation. Anyone making such an argument would have a strong case. But of course life is never so simple: For every Amarrian "true believer" in the Empire, there is another who doubts not only his or her faith, but also the government that reifies religious doctrine. <br><br>
++ It is easy to think of the Amarr Empire as a cold, cruel, hegemonic state endorsing terrible repression and subjugation. Anyone making such an argument would have a strong case. But of course life is never so simple: For every Amarrian "true believer" in the Empire, there is another who doubts not only his or her faith, but also the government that reifies religious doctrine. <br><br>
+  That isn't to say that half of the Amarrians in the Empire are traitors and rebels — far from it. But to assume that every free Amarrian citizen condones slavery and colonization is to make a grievous error. There are many sympathizers to the Minmatar cause in Amarr. <br><br> 
+  One such group is the coalition of the "Secret Starway" (called by some the "Secret Stairway"), a loose network of liberal idealists who work actively, but always covertly, to assist escaped slaves slip out of the Empire's sovereignty. One of the chief ironies of this group is that most of its members are fervent believers in the State religion; they simply have alternate, "heretical" views of those passages from the Scriptures that tend to be used in support of slavery. 
+```
+
+
+DE
+
+```text
+Man ist leicht versucht, die Amarr als grausam kalten Hegemonialstaat abzustempeln, der seine Untergebenen auf schreckliche Weise unterdrückt und diskriminiert. Es spricht auch nicht wenig für diese Sichtweise, aber das Leben besteht eben nicht bloß aus Schwarz und Weiß. Auf jeden "treuen Befürworter" des Amarr Imperiums kommt jemand, der nicht nur den eigenen Glauben, sondern auch die Regierung in Frage stellt, die religiöse Dogmen zur Staatsangelegenheit erklärt. <br><br> Das bedeutet widerum 
+(truncated, 1,323 chars total)
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```text
+Considérer l'Empire amarr comme un État froid, cruel, hégémonique pratiquant la répression et l'oppression est aisé et quiconque défendrait ce type de discours n'aurait pas de mal à défendre ses arguments. Pourtant, rien n'est jamais noir ou blanc : pour chaque croyant de l'Empire amarr, il existe un sceptique qui doute non seulement de sa conviction, mais aussi du gouvernement qui chosifie la doctrine religieuse. <br><br> Cela ne veut pas dire que la moitié des Amarr de l'Empire sont des traîtr
+(truncated, 1,144 chars total)
+```
+
+
+JA
+
+```diff
+   
+  アマー帝国が、厳しい抑圧と服従に裏打ちされた冷酷で覇権主義的な国だと思うのは簡単だ。このような立論をする者にははっきりとした言い分があるかもしれない。しかし、もちろん人生はそんなに単純ではない。帝国内にはアマーの「信奉者」ばかりでなく、その信仰や信仰教義を体現する政府に疑念を抱く人間もいて、その数はほぼ同じぐらいだ。 <br><br>
+  これはなにも帝国内のアマー人の半数が反逆者であるというのではまったくない。だが、全てのアマーの自由市民が奴隷制と植民地制を許容していると考えるのは、ひどい誤りである。アマーには、ミンマターの大義に対する同調者が大勢いる。 <br><br> 
+  そのようなグループの一つが「シークレットスターウェイ」（「シークレットステアウェイ」と呼ぶ者もいる）同盟である。これはリベラルな理想主義者のゆるやかなネットワークである。彼らは帝国の支配下から脱出する奴隷を支援するために精力的に、ときには表舞台でも活動している。このグループの一番の皮肉は、メンバーの大半が国教の熱烈な信者であることだ。通常は奴隷制の裏付けとして使用される聖典の一節を、彼らは別の「異端」的解釈をしているにすぎない。
+```
+
+
+KO
+
+```diff
+- […] 노예제를 옹호하는 경전 구절에 "이단적인" 견해가 있을 뿐인 거예요. 
++ […] 노예제를 옹호하는 경전 구절에 "이단적인" 견해가 있을 뿐인 거예요. 
+```
+
+
+RU
+
+```diff
+   
+  Проще всего думать об Империи Amarr как о холодной, жестокой гегемонии, в которой практикуются ужасные репрессии и рабство. Каждый, кто так думает, будет во многом прав. На самом деле все не так просто: на каждого «истинного верующего» Amarr в Империи приходится другой, который сомневается не только в своей вере, но и в правительстве, проводящем в жизнь эту религиозную доктрину. <br><br>
+  Это не означает, что половина жителей Империи — предатели и повстанцы; совсем нет. Но утверждать, что каждый ее свободный гражданин одобряет рабство и колонизаторскую политику — значит совершать чудовищную ошибку. Многие в Империи симпатизируют народу Minmatar. <br><br> 
+  В их числе — коалиция «Тайный путь» (которая некоторыми именуется «Тайной лестницей»), представляющая собой слабо разветвленную сеть идеалистов либерального толка, активно — но всегда тайно — помогающих беглым рабам покинуть границы Империи. Ирония этого движения заключается в том, что большинство его представителей являются пылкими почитателями государственной религии; они просто имеют иной, «еретический» взгляд на те фрагменты Скрижалей, в которых трактуется суть рабства.
+```
+
+
+ZH
+
+```text
+一提及艾玛，人们就很容易把它想成一个实施高压政策，实行劳工制的冷酷、残忍及专权国家。持这种观点的人总是理由十足。但事情总有两面性：对于艾玛帝国中每一个“真正信奉者”来讲，都有一个不仅对其自身信仰持怀疑态度、而且对政府提出的宗教不容置疑说也心存狐疑的人。<br><br>但这并不是说有一半艾玛人都是叛徒和逆贼——远远不是。当然你要说每个艾玛人都举双手赞成劳工及殖民的做法也是远远不对的。事实上在艾玛有很多米玛塔尔的同情者。<br><br>其中有一个这样的组织叫“秘密星路”（有人戏称“秘密楼道”），这是个松散的持有左路思潮的理想主义者群体。他们积极帮助那些流亡劳工逃出艾玛帝国，当然这些都是在幕后进行的。具有讽刺意味的是，这个组织中的大多数人都是艾玛宗教的狂热信仰者；而对于那常被用来支持劳工制的“经典”，他们只是有着不同的解读而已。
+```
+
+
+
+
+### MessageID: 144480 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is Parriaval's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is Parriaval's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
+  Congratulations, you've recaptured Parriaval Mastes! Now return to {[character]agentID.name} for your reward. 
+```
+
+
+DE
+
+```diff
+- […]Rettungskapsel. Nähern Sie sich bis auf 1.500 Meter dem Frachtcontainer (Cargo Co[…]
++ […]Rettungskapsel. Nähern Sie sich bis auf 2.500 Meter dem Frachtcontainer (Cargo Co[…]
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Parriaval. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Parriaval. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
+  ¡Enhorabuena, has capturado de nuevo a Parriaval Mastes! Ahora regresa a {[character]agentID.name} para recibir tu retribución.
+```
+
+
+FR
+
+```diff
+- Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Parriaval. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Parriaval Mastes ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
++ Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Parriaval. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Parriaval Mastes ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
+  				
+```
+
+
+JA
+
+```diff
+   正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから艦船制御パネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは停止する。 <br><br>
+  それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはパリアヴァルの脱出カプセルだ。1,500メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテナの中身が表示される。捕虜をクリックし、カーゴホールドにドラッグしろ。 <br><br>
+  おめでとう、再びパリアヴァルマステスを捕らえたぞ!{[character]agentID.name}のところに戻って報酬を受け取れ。
+```
+
+
+KO
+
+```text
+정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 파리아발의 탈출 캡슐입니다. 화물 컨테이너의 1500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 파리아발 마스테스를 체포하셨습니다! 이제 {[c
+(truncated, 540 chars total)
+```
+
+
+RU
+
+```diff
+   
+- Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>Откройте меню «Закладки», щёлкните правой кнопкой мыши по данному заданию и выберите «Перейти в варп-режим (выход в 0 м от цели)». Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Parriaval. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек. <br><br>
++ Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>Откройте меню «Закладки», щёлкните правой кнопкой мыши по данному заданию и выберите «Перейти в варп-режим (выход в 0 м от цели)». Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Parriaval. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек. <br><br>
+  Поздравляем, вы схватили Parriaval Mastes! Теперь вернитесь к {[character]agentID.name} за вознаграждением.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是帕里亚瓦尔的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。 <br><br>
+  恭喜,你已经成功地抓住了帕里亚瓦尔·梅斯特斯！现在请回到{[character]agentID.name}去领取你的报酬吧。
+```
+
+
+
+
+### MessageID: 144482 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the spy's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold.
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the spy's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold.
+```
+
+
+DE
+
+```diff
+  Ihr Agent hat ein Lesezeichen in Ihrem NeoCom platziert, um Ihnen zu helfen, zum richtigen Ort zu kommen. Öffnen Sie "Personen und Orte" und gehen Sie zum Lesezeichen-Reiter. Klicken Sie dann rechts auf den Gegenstand des Missionsziels (in diesem Fall das Verzeichnis) und wählen Sie "Kurs setzen". Klicken Sie nun auf das Autopilot-Symbol in der Steuerkonsole Ihres Schiffes. Ihr Schiff wird sich nun auf die Reise zum entsprechenden Sternensystem begeben. Sobald Sie angekommen sind, wird sich der Autopilot ausschalten. <br><br>
+- Gehen Sie nun zurück zu Ihren Lesezeichen, klicken Sie mit rechts auf das Verzeichnis und wählen Sie "Zu Position warpen". Wenn Sie am Zielort des Flüchtlings angekommen sind, finden Sie ihn als rotes Ziel in Ihrer Übersicht. Greifen Sie an und zerstören Sie sein Schiff. Sobald das Schiff zerstört wurde, wird ein Frachtcontainer ausgestoßen. Das ist die Rettungskapsel des Spions. Nähern Sie sich bis auf 1.500 Meter an, klicken Sie mit der rechten Maustaste darauf und wählen Sie "Öffnen" (oder benutzen Sie das "Öffnen"-Symbol über Ihrer Übersicht). Nun wird sich ein Fenster öffnen, welches den Inhalt des Containers anzeigt. Klicken Sie mit der linken Maustaste auf den Gefangenen, halten sie die Maustaste gedrückt und ziehen Sie ihn in Ihren Frachtraum.
++ Gehen Sie nun zurück zu Ihren Lesezeichen, klicken Sie mit rechts auf das Verzeichnis und wählen Sie "Zu Position warpen". Wenn Sie am Zielort des Flüchtlings angekommen sind, finden Sie ihn als rotes Ziel in Ihrer Übersicht. Greifen Sie an und zerstören Sie sein Schiff. Sobald das Schiff zerstört wurde, wird ein Frachtcontainer ausgestoßen. Das ist die Rettungskapsel des Spions. Nähern Sie sich bis auf 2.500 Meter an, klicken Sie mit der rechten Maustaste darauf und wählen Sie "Öffnen" (oder benutzen Sie das "Öffnen"-Symbol über Ihrer Übersicht). Nun wird sich ein Fenster öffnen, welches den Inhalt des Containers anzeigt. Klicken Sie mit der linken Maustaste auf den Gefangenen, halten sie die Maustaste gedrückt und ziehen Sie ihn in Ihren Frachtraum.
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+  
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape del espía. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega.
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape del espía. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega.
+```
+
+
+FR
+
+```diff
+  Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>
+- Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez « Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de l'espion. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s’ouvre, affichant le contenu du conteneur : cliquez sur le prisonnier et faites-le glisser jusqu’à votre soute de chargement.
++ Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez « Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de l'espion. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s’ouvre, affichant le contenu du conteneur : cliquez sur le prisonnier et faites-le glisser jusqu’à votre soute de chargement.
+```
+
+
+JA
+
+```text
+エージェントが君のNeoComにブックマークを配置したから、目的の地点に向かう際の指標になるだろう。「人物と位置」を開き、ブックマークに移動し、本作戦の目的を右クリックし、「目的地を設定」を選択すること。 その後「艦船のコントロールパネル」に移動し、「オートパイロット」のアイコンをクリックすればいい。そうすれば君の艦船が目的のシステムまで移動する。目的地に到着次第、オートパイロットはオフになる。<br><br>
+そうしたらブックマークに戻り、この任務を再び右クリックし、「目標地点にワープ」を選択すること。 亡命者がいる地点に到着すると、やつは赤いターゲットアイコンとして「オーバービュー」に表示される。やつの船を攻撃し、破壊するのだ。亡命者の船を破壊したら、カーゴコンテナが船から排出されるだろう。それが密偵用の脱出カプセルだ。1,500メートル以内にまで接近したら、カーゴコンテナを右クリックし、「開く」を選択する（あるいはオーバービューで「開く」アイコンを使用する）。そうするとウィンドウが開き、次のような内容が表示される。 捕虜をクリックしたままドラッグし、自分のカーゴホールドにドラッ
+(truncated, 504 chars total)
+```
+
+
+KO
+
+```text
+정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 테르헬렌의 탈출 캡슐입니다. 화물 컨테이너의 1.500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 밀레어 테르헬렌을 체포하셨습니다! 이제 {[c
+(truncated, 539 chars total)
+```
+
+
+RU
+
+```diff
+  Ваш агент снабдил вас координатами, чтобы помочь вам добраться до нужного места. Откройте меню «Адреса и координаты», перейдите на вкладку «Координаты», нажмите правой кнопкой мыши на цель задания и выберите команду «Задать место назначения». Теперь найдите панель управления корабля и нажмите на пиктограмму автопилота. Корабль сам доставит вас в заданную систему. По прибытии в систему автопилот отключится. <br><br>
+- Перейдите на вкладку «Координаты», нажмите правой кнопкой мыши на цель задания и выберите команду «Перейти в варп-режим». Как только вы окажетесь рядом с кораблём беглеца, вы увидите на панели обзора красный значок. Внесите его в список сопровождаемых целей и уничтожьте этот корабль. После того, как корабль будет уничтожен, от него отделится грузовой контейнер.  Это — спасательная капсула шпиона. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите команду «Открыть» (или используйте значок «Открыть», расположенный над обзорной панелью). После открытия окна с содержимым контейнера нажмите левой кнопкой мыши на пиктограмму с изображением пленника и, удерживая кнопку, сбросьте её в грузовой отсек вашего корабля.
++ Перейдите на вкладку «Координаты», нажмите правой кнопкой мыши на цель задания и выберите команду «Перейти в варп-режим». Как только вы окажетесь рядом с кораблём беглеца, вы увидите на панели обзора красный значок. Внесите его в список сопровождаемых целей и уничтожьте этот корабль. После того, как корабль будет уничтожен, от него отделится грузовой контейнер.  Это — спасательная капсула шпиона. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите команду «Открыть» (или используйте значок «Открыть», расположенный над обзорной панелью). После открытия окна с содержимым контейнера нажмите левой кнопкой мыши на пиктограмму с изображением пленника и, удерживая кнопку, сбросьте её в грузовой отсек вашего корабля.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是间谍的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。
+```
+
+
+
+
+### MessageID: 144483 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Varshan's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Varshan's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
+  Congratulations, you've recaptured Telos Varshan! Now return to {[character]agentID.name} for your reward. 
+```
+
+
+DE
+
+```diff
+- […]Rettungskapsel. Nähern Sie sich bis auf 1.500 Meter dem Frachtcontainer (Cargo Co[…]
++ […]Rettungskapsel. Nähern Sie sich bis auf 2.500 Meter dem Frachtcontainer (Cargo Co[…]
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Varshan. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Varshan. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
+  ¡Enhorabuena, has capturado de nuevo a Telos Varshan! Ahora regresa a {[character]agentID.name} para recibir tu retribución.
+```
+
+
+FR
+
+```diff
+- Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Varshan. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Telos Varshan ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
++ Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Varshan. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Telos Varshan ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
+  				
+```
+
+
+JA
+
+```diff
+  正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから船のコントロールパネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは停止する。 <br><br>
+  それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはヴァーシャンの脱出カプセルだ。1,500メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテナの中身が表示される。捕虜をクリックし、カーゴホールドにドラッグしろ。 <br><br>
+  おめでとう、再びテロスヴァーシャンを捕らえたぞ!{[character]agentID.name}のところに戻って報酬を受け取れ。
+```
+
+
+KO
+
+```text
+정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 바르샨의 탈출 캡슐입니다. 화물 컨테이너의 1500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 텔로스 바르샨을 체포하셨습니다! 이제 {[char
+(truncated, 537 chars total)
+```
+
+
+RU
+
+```diff
+   
+  Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>
+- Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Varshan. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
++ Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Varshan. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
+  Поздравляем! Вам удалось поймать беглеца; Осталось лишь вернуться к {[character]agentID.name} и получить заслуженное вознаграждение.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是瓦山的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。 <br><br>
+  恭喜，你已经成功地抓住了泰洛斯·瓦山！现在请回到{[character]agentID.name}去领取你的报酬吧。
+```
+
+
+
+
+### MessageID: 144484 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Terhellen's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Terhellen's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
+  Congratulations, you've recaptured Milare Terhellen! Now return to {[character]agentID.name} for your reward. 
+```
+
+
+DE
+
+```diff
+- […]Rettungskapsel. Nähern Sie sich bis auf 1.500 Meter dem Frachtcontainer (Cargo Co[…]
++ […]Rettungskapsel. Nähern Sie sich bis auf 2.500 Meter dem Frachtcontainer (Cargo Co[…]
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Terhellen. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Terhellen. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
+  ¡Enhorabuena, has capturado de nuevo a Milare Terhellen! Ahora regresa a {[character]agentID.name} para recibir tu retribución.
+```
+
+
+FR
+
+```diff
+- Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Terhellen. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Milare Terhellen ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
++ Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Terhellen. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Milare Terhellen ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
+  				
+```
+
+
+JA
+
+```diff
+  正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから艦船制御パネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは解除される。 <br><br>
+  それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはターヘレンの脱出カプセルだ。1,500 メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテンツが表示される。捕虜をクリックしたままカーゴホールドにドラッグしろ。 <br><br>
+  おめでとう、再びミラーレターヘンを捕らえたぞ !{[character]agentID.name}のもとに戻れば報酬がもらえるぞ。
+```
+
+
+KO
+
+```text
+정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 테르헬렌의 탈출 캡슐입니다. 화물 컨테이너의 1500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 밀레어 테르헬렌을 체포하셨습니다! 이제 {[ch
+(truncated, 539 chars total)
+```
+
+
+RU
+
+```diff
+   
+  Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>
+- Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Terhellen. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
++ Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Terhellen. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
+  Поздравляем! Вам удалось поймать беглеца; Осталось лишь вернуться к {[character]agentID.name} и получить заслуженное вознаграждение.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是特海伦的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。 <br><br>
+  恭喜，你已经成功地抓住了米拉尔·特海伦！现在请回到{[character]agentID.name}去领取你的报酬吧。
+```
+
+
+
+
+### MessageID: 144566 · Source Modified
+
+EN
+
+```diff
+  It's time to act fast, {[character]player.name}.  We've just received reports that the Caldari Navy has established a forward outpost in the Otitoh system, in preparation for a strike at our complex in the area.  According to our information they have a sizable force there already, and are preparing to move in more people.  We're happy to tell you, however, that the EMP charge you placed at the Lai Dai station had its desired effect, severely damaging a substantial number of support vessels and equipment the Navy had meant for use in Otitoh.  Now is therefore the time to strike, while they are weakened and working to compensate for the loss of backup assets.
+  <br><br>
+- We need you to go in there and take out the Navy's Command and Control center in the area.  Any losses you can inflict on them while doing so will be most appreciated, but the primary target is the C&C center.  If that is taken down, the Navy will have to retreat from the area, and our plans for this constellation will be that much closer to fruition. Once the building is destroyed, report back to me and I will see to it that you are rewarded handsomely for your efforts.  The Guristas will not forget this one, {[character]player.name}.  Good luck.
++ We need you to go in there and take out the Navy's Command and Control center in the area.  Any losses you can inflict on them while doing so will be most appreciated, but the primary target is the Command and Control center.  If that is taken down, the Navy will have to retreat from the area, and our plans for this constellation will be that much closer to fruition. Once the building is destroyed, report back to me and I will see to it that you are rewarded handsomely for your efforts.  The Guristas will not forget this one, {[character]player.name}.  Good luck.
+```
+
+
+DE
+
+```text
+Es ist an der Zeit, schnell zu agieren, {[character]player.name}. Wir haben gerade Berichte erhalten, dass die caldarische Navy einen vorderen Außenposten im System Otitoh errichtet hat, als Vorbereitung auf einen Schlag gegen unseren Komplex in der Gegend. Unseren Informationen zufolge haben sie dort bereits eine sehenswerte Streitmacht und bereiten sich darauf vor, mehr Truppen einzufliegen. Wir freuen uns jedoch Ihnen mitteilen zu können, dass die EMP-Ladung, die Sie an der Lai Dai-Station pl
+(truncated, 1,457 chars total)
+```
+
+
+ES
+
+```diff
+  Hay que actuar rápido, {[character]player.name}. Nos han comunicado que la Armada Caldari ha montado un puesto avanzado en el sistema Otitoh y se están preparando para atacar un complejo nuestro en la zona. Según los informes, cuentan con un buen ejército y pretenden seguir reclutando. Eso sí, nos complace anunciar que la carga de EMP que colocaste en la estación de Lai Dai ha tenido el efecto deseado y ha dañado seriamente las naves de apoyo y el equipo que la Armada pensaba utilizar en Otitoh. Hay que aprovechar que están debilitados y centrados en recuperarse del golpe para lanzar un ataque fulminante.
+  <br><br>
+  Ve allí y elimina el centro de mando y control de la Armada en la zona. Agradeceremos cualquier pérdida que puedas provocarles, pero tu prioridad debe ser el centro de control y mando. Una vez derribado, la Armada se verá obligada a retirarse, y nosotros estaremos varios pasos más cerca de implementar nuestros planes en la constelación. Cuando hayas destruido la estructura, avísame y me encargaré de que tus esfuerzos se vean generosamente recompensados. Los Guristas no olvidarán esto, {[character]player.name}. Buena suerte.
+```
+
+
+FR
+
+```text
+l n'y a pas une minute à perdre, {[character]player.name}.  Nous venons de recevoir des rapports indiquant que la Caldari Navy a établi un avant-poste dans le système d'Otitoh, pour préparer une attaque sur notre complexe dans le secteur.  Selon nos informations, ils disposent déjà d'une force conséquente et ils se préparent à grossir leurs rangs.  Cela dit, nous sommes heureux de vous apprendre que la charge IEM que vous avez placée à la station Lai Dai a eu l'effet escompté. Elle a sérieusemen
+(truncated, 1,372 chars total)
+```
+
+
+JA
+
+```diff
+  ついに行動するときだ、{[character]player.name}。カルダリ海軍が、オティトーシステムに前線アウトポストを設置したとの報を受けた。エリアにある我々の複合施設への攻撃準備のためだ。報告によれば、既に大規模な軍勢が集結しており、更に増員を準備中とのことだ。一方でうれしい知らせだが、君がライダイステーションに設置したEMP弾が期待どおりの効果を発揮し、海軍がオティトーで使う予定だった支援船団や装備の多くに、かなりのダメージを与えた。奴らの力が弱まり、失った支援部隊を立て直している今こそ、攻撃のチャンスだ。
+  <br><br>
+  君にもオティトーに行ってもらい、海軍の指揮統制センターを破壊して来てもらいたい。任務途中で敵を攻撃するのは歓迎するが、あくまで最終目標は指揮統制センターだ。それが破壊されれば、海軍はそのエリアから撤退せざるを得なくなり、我々のこのコンステレーションでの計画も、実現に向けて大きく前進する。建物を破壊したら、すぐに戻って報告してくれ。君の功績が十二分に報われるよう取り計らおう。ガリスタスは君のことを決して忘れないだろう、{[character]player.name}。では、健闘を祈っているぞ。
+```
+
+
+KO
+
+```text
+재빠르게 움직일 때입니다, {[character]player.name}. 칼다리 해군이 지역 내 우리 시설에 대한 공격을 위해 오티토 항성계에 전초기지를 세웠다는 보고를 막 전달받았습니다. 우리 측 정보에 따르면 놈들은 이미 상당수의 병력을 보유 중이며 추가 병력을 데려올 준비를 하고 있다고 합니다. 여기서 반가운 말씀을 하나 드리자면 당신이 라이다이 정거장에 설치해 뒀던 EMP 차지가 기대했던 효과를 거둬서 놈들의 해군이 오티토에서 사용할 작정이었던 상당수의 지원 함선과 장비에 심각한 손상을 줬다는 거죠. 그렇기 때문에 지금이야말로 공격을 할 절호의 기회입니다. 놈들이 약해져서 어떻게든 예비 전력 자산으로 손해를 복구해보려 아둥바둥거릴 때 말이죠.<br><br>그곳으로 출발해 지역 해군 지휘관제센터를 처리해 주세요. 공격 중 다른 놈들도 동시에 공격하신다면 감사하겠지만 우선 1차 타겟은 놈들의 C&C 센터입니다. 센터를 처리하고 나면 해군은 해당 지역에서 철수할 수밖에 없을 것이고
+(truncated, 642 chars total)
+```
+
+
+RU
+
+```diff
+  Учтите, {[character]player.name}, времени на размышления у нас почти не осталось. Нам сообщили, что флот Caldari развернул в системе Otitoh передовую базу и готовится атаковать один из наших комплексов. Прибывший на базу флот никак нельзя назвать маленьким, но в ближайшие дни он будет усилен дополнительными кораблями. Впрочем, далеко не все из них доберутся до места назначения — электромагнитная бомба, установленная вами на станции Lai Dai, вывела часть подкреплений из строя. Выигранное время мы употребим с пользой — нанесем по врагу упреждающий удар.
+  <br><br>
+  Отправляйтесь в Otitoh и уничтожьте командный центр флота Caldari. Я не стану возражать, если попутно вы взорвете несколько вражеских кораблей, но все же постарайтесь сконцентрировать ваши усилия на командном центре. Флоту, лишенному штаба, придется свернуть все проводимые им операции — следовательно, ничто не будет угрожать реализации наших планов по захвату созвездия. Как только вы разберетесь с этим центром, возвращайтесь ко мне — я позабочусь о том, чтобы вас щедро вознаградили.  Gurista умеют ценить друзей. Удачи, {[character]player.name}!
+```
+
+
+ZH
+
+```text
+得赶快行动了，{[character]player.name}。我们刚刚接报，加达里海军在欧提托星系里建造了一个前线岗哨，准备对我们所在地区的设施进行攻击。据我们掌握的消息，他们在那儿囤积了大量兵力，而且还准备增派更多的人手。不过有个好消息，你安置在莱戴空间站的电磁脉冲弹药大显威力，摧毁了不少补给船，还让加达里海军准备在欧提托使用的装备被提前预支。现在进攻的时机到了，趁着他们力量被削弱，后备补给匮乏，我们得赶快下手！<br><br>我要你去那儿摧毁这个地区的海军指挥控制中心。尽可能摧毁你所发现的目标，给他们以沉重打击，但是要记住你的主要的目标是指挥控制中心，如果那个地方被毁，加达里海军会被迫从这儿撤退，那样我们在这个星系的计划就更容易实现了。摧毁指挥控制中心后，回来向我报告，我会给你一笔不错的报酬。古斯塔斯不会忘记你的，{[character]player.name}。祝你好运！
+```
+
+
+
+
+### MessageID: 235487 · Source Modified
+
+EN
+
+```diff
+- […]ion objectives have not been completed.  Please check the mission's details via O[…]
++ […]ion objectives have not been completed. Please check the mission's details via O[…]
+```
+
+
+DE
+
+```text
+Mindestens ein Missionsziel wurde nicht erreicht. Bitte prüfen Sie die Missionsdetails in Ihren Gelegenheiten oder dem Infofenster für weitere Details.
+```
+
+
+ES
+
+```text
+Uno o más objetivos de misión no se han completado. Comprueba los detalles de la misión en tu interfaz de oportunidades o en tu panel de información para obtener más detalles.
+```
+
+
+FR
+
+```text
+Vous n'avez pas rempli un ou plusieurs objectifs de mission. Consultez les détails de la mission dans l'interface Opportunités ou sur le tableau de bord pour plus d'informations.
+```
+
+
+JA
+
+```text
+まだ完了していないミッション目標があります。 詳しくはオポチュニティーズインターフェースか情報パネルでミッション詳細を確認してください。
+```
+
+
+KO
+
+```text
+미션이 완료되지 않았습니다. 맞춤 임무 또는 정보 패널에서 미션 상세 정보를 확인하면 추가 정보를 얻을 수 있습니다.
+```
+
+
+RU
+
+```text
+Вы не выполнили одну или несколько целей задания. Все подробности можно узнать на информационной панели или в разделе «Сведения о задании» вашего интерфейса «Возможности АМИ».
+```
+
+
+ZH
+
+```text
+还有一个或多个任务目标没有达成。查看“机遇”界面的任务详情或信息面板，了解更多信息。
+```
+
+
+
+
+### MessageID: 286919 · Source Modified
+
+EN
+
+```diff
+- The Federation has long encouraged its citizens to stand up against oppression, plight, and wrongdoing. For those capsuleers who, at promise of no gain to themselves, stand brave against tyranny, the Gold Medallion of Liberty is a small acknowledgment of the Federation's gratitude.<br><br> 
++ The Federation has long encouraged its citizens to stand up against oppression, plight, and wrongdoing. For those capsuleers who, at promise of no gain to themselves, stand brave against tyranny, the Gold Medallion of Liberty is a small acknowledgment of the Federation's gratitude.<br> 
+  “It is our duty to spread justice. We cannot allow anyone to oppose that.” - President Arlette Villers
+```
+
+
+DE
+
+```diff
+  Die Föderation ermutigt ihre Bürger schon seit langem, gegen Unterdrückung, Elend und Verbrechen zu kämpfen. Für alle Kapselpiloten, die sich ohne das Versprechen auf persönlichen Vorteil mutig der Tyrannei in den Weg stellen, soll das Goldmedaillon der Freiheit einen kleinen Beweis für die Dankbarkeit der Föderation darstellen.<br><br> 
+  
+  "Es ist unsere Pflicht, für Gerechtigkeit zu sorgen. Wir dürfen nicht zulassen, dass sich dem jemand in den Weg stellt." - Präsident Arlette Villers
+```
+
+
+ES
+
+```diff
+  La Federación lleva mucho tiempo animando a sus ciudadanos a enfrentarse a la opresión, a situaciones de sufrimiento y a los actos indebidos. A aquellos capsulistas que luchan contra la tiranía sin beneficio propio alguno se les entrega el medallón de oro de la libertad, un pequeño reconocimiento de gratitud de la Federación.<br><br> 
+  
+  «Nuestro deber es difundir la justicia. No podemos permitir que nadie se oponga a eso». — Presidenta Arlette Villers.
+```
+
+
+FR
+
+```text
+La Fédération a longtemps encouragé ses citoyens à lutter contre l'oppression, la détresse, et les méfaits en tous genres. Pour tous les capsuliers qui, par le biais d'actions totalement désintéressées, ont fait front face à la tyrannie, le Médaillon doré de la liberté est une belle reconnaissance de toute la gratitude de la Fédération à leur égard.<br><br> « Il est de notre devoir de rendre justice. Nous ne laisserons personne s'y opposer. » - Presidente Arlette Villers
+```
+
+
+JA
+
+```text
+連邦は昔から国民に、圧政や問題や不正に立ち向かうことを推奨してきた。見返りを求めることなく圧政へ勇敢に立ち向かったカプセラに対する、連邦からささやかな感謝の印が解放黄金勲章である。『正義をもたらすのは我が国の義務である。なんびとにも正義を曲げさせてはならない』―大統領アルレット・ヴィラーズ
+```
+
+
+KO
+
+```text
+연방은 시민들에게 억압과 역경에 굴하지 말고 반기하기를 권장합니다. 개인의 영리가 아닌 억압과 독재에 맞서기 위해 일어선 캡슐리어들에게는 황금자유훈장이 수여됩니다. <br><br> <br><br>"정의를 전파하는 것이야말로 우리의 임무이며, 그 누구도 이러한 정신을 부정할 수는 없습니다." - 알레트 빌러스 대통령
+```
+
+
+RU
+
+```diff
+  Галлентская Федерация всегда побуждала граждан сопротивляться тирании, несправедливости и притеснениям. Пилоты, беззаветно и бескорыстно встающие на борьбу с тиранией, в знак признания заслуг перед Федерацией получают в награду Золотой Медальон Свободы.<br><br> 
+  
+  «Наше призвание — нести справедливость повсюду. Никто не вправе нам в этом мешать». — Президент Арлетт Вильерс
+```
+
+
+ZH
+
+```diff
+  联邦一直以来都鼓励它的子民们勇于挺身而出对镇压、困境和非道德行为说“不”。这枚金质自由奖章就是联邦政府对那些毫无利己私心，勇于奋起反抗暴政的克隆飞行员们表达的一份小小的谢意。<br><br> 
+  “散播正义是我们的责任，任何人都不能阻挡。”- 联邦总统阿列特·维勒尔斯
+```
+
+
+
+
+### MessageID: 286921 · Source Modified
+
+EN
+
+```diff
+- Freedom is the highest ideal of the Gallente Federation and the Platinum Medallion of Freedom is bestowed only on those selected by the President himself. To be awarded this prestigious honor requires the potential for extreme personal harm in order to advance the Federation's values throughout New Eden.<br><br> 
++ Freedom is the highest ideal of the Gallente Federation and the Platinum Medallion of Freedom is bestowed only on those selected by the President himself. To be awarded this prestigious honor requires the potential for extreme personal harm in order to advance the Federation's values throughout New Eden.<br> 
+  “If we do not stand up for peace, how can anyone else?” - President Aidonis Elabon
+```
+
+
+DE
+
+```text
+Freiheit ist das höchste Ideal der Gallente Federation und das Platinmedaillon der Freiheit wird nur jenen verliehen, die vom Präsidenten persönlich für würdig befunden wurden. Wer diese ruhmvolle Auszeichnung erhält, muss sich in extreme Gefahr begeben haben, um die Werte der Föderation in ganz New Eden zu verbreiten. "Wenn wir uns nicht für den Frieden einsetzen, wer soll es dann tun?" - Präsident Aidonis Elabon
+```
+
+
+ES
+
+```diff
+- La libertad es el ideal supremo de la Federación Gallente y el Medallón de la Libertad de platino solo se otorga a aquellas personas seleccionadas por el mismísimo presidente. Recibir este prestigioso honor requiere correr el riesgo de sufrir un daño personal extremo a fin de fomentar los valores de la Federación por todo Nuevo Edén.<br><br> 
++ La libertad es el ideal supremo de la Federación Gallente y el Medallón de la Libertad de platino solo se otorga a aquellas personas seleccionadas por el mismísimo presidente. Recibir este prestigioso honor requiere correr el riesgo de sufrir un daño personal extremo a fin de fomentar los valores de la Federación por todo Nuevo Edén.<br> 
+  
+  «Si nosotros no defendemos la paz, ¿quién lo hará?» — Presidente Aidonis Elabon.
+```
+
+
+FR
+
+```diff
+- […]de la Fédération à travers New Eden.<br><br> « Si nous n'œuvrons pas pour la paix, q[…]
++ […]de la Fédération à travers New Eden.<br> « Si nous n'œuvrons pas pour la paix, q[…]
+```
+
+
+JA
+
+```text
+自由はガレンテ連邦が最も尊ぶ理想であり、自由白金勲章は大統領が自ら選んだ人物にのみ授与される。この栄えある名誉に選ばれるためには、並々ならぬ身の危険を冒して連邦の尊ぶ理念をニューエデンに広める功績がなければならない。『我々が平和のために立ち上がらねば、他の誰にやれるというのだ』―大統領エイドニス・エラボン
+```
+
+
+KO
+
+```text
+자유는 갈란테 연방이 추구하는 최고의 이상입니다. 백금으로 제작된 자유의 훈장은 대통령이 직접 선정한 자들에게 수여됩니다. 이 권위 있는 상을 받기 위해서는 연방이 추구하는 가치를 위해 개인적인 무공이 뛰어나야 합니다.<br><br><br>"우리가 자유를 위해 일어서지 않으면 그 누가 할 수 있는가?" - 대통령 아이도니스 엘라본
+```
+
+
+RU
+
+```diff
+  Свобода — высочайший идеал Галлентской Федерации; Платиновый медальон Свободы — орден, вручаемый по личному решению Президента Федерации. Эта почётная награда вручается только тем, кто со значительным риском для жизни и здоровья отстаивал идеалы Галлентской Федерации в Новом Эдеме.<br> 
+  
+  «Если не мы будем бороться за мир, то кто же?» — Президент Адонис Элабон
+```
+
+
+ZH
+
+```diff
+  自由是盖伦特联邦所追求的最高理念，而铂金自由奖章只授予那些由联邦总统亲自选中的人。只有那些抛弃了一切个人私利而致力于将联邦的价值观散播到宇宙各处的勇者们才会被授予这种至高荣誉。<br><br> 
+  “如果我们不为和平而战，又有谁人肯呢？”- 联邦总统阿多尼斯·埃拉本
+```
+
+
+
+
+### MessageID: 527247 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+DE
+
+```text
+Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
+(truncated, 1,096 chars total)
+```
+
+
+ES
+
+```text
+Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
+
+El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
+(truncated, 1,298 chars total)
+```
+
+
+FR
+
+```text
+Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
+(truncated, 1,305 chars total)
+```
+
+
+JA
+
+```text
+初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
+
+
+
+最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
+
+
+
+これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
+```
+
+
+KO
+
+```text
+"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
+(truncated, 535 chars total)
+```
+
+
+RU
+
+```text
+«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
+(truncated, 1,190 chars total)
+```
+
+
+ZH
+
+```text
+这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
+
+
+
+该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
+
+
+
+之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
+```
+
+
+
+
+### MessageID: 527250 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+DE
+
+```text
+Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
+(truncated, 1,096 chars total)
+```
+
+
+ES
+
+```text
+Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
+
+El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
+(truncated, 1,298 chars total)
+```
+
+
+FR
+
+```text
+Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
+(truncated, 1,305 chars total)
+```
+
+
+JA
+
+```text
+初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
+
+
+
+最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
+
+
+
+これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
+```
+
+
+KO
+
+```text
+"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
+(truncated, 535 chars total)
+```
+
+
+RU
+
+```text
+«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
+(truncated, 1,190 chars total)
+```
+
+
+ZH
+
+```text
+这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
+
+
+
+该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
+
+
+
+之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
+```
+
+
+
+
+### MessageID: 527253 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+DE
+
+```text
+Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
+(truncated, 1,096 chars total)
+```
+
+
+ES
+
+```text
+Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
+
+El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
+(truncated, 1,298 chars total)
+```
+
+
+FR
+
+```text
+Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
+(truncated, 1,305 chars total)
+```
+
+
+JA
+
+```text
+初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
+
+
+
+最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
+
+
+
+これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
+```
+
+
+KO
+
+```text
+"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
+(truncated, 535 chars total)
+```
+
+
+RU
+
+```text
+«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
+(truncated, 1,189 chars total)
+```
+
+
+ZH
+
+```text
+这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
+
+
+
+该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
+
+
+
+之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
+```
+
+
+
+
+### MessageID: 527256 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+DE
+
+```text
+Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
+(truncated, 1,096 chars total)
+```
+
+
+ES
+
+```text
+Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
+
+El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
+(truncated, 1,298 chars total)
+```
+
+
+FR
+
+```text
+Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
+(truncated, 1,305 chars total)
+```
+
+
+JA
+
+```text
+初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
+
+
+
+最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
+
+
+
+これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
+```
+
+
+KO
+
+```text
+"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
+(truncated, 535 chars total)
+```
+
+
+RU
+
+```text
+«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
+(truncated, 1,190 chars total)
+```
+
+
+ZH
+
+```text
+这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
+
+
+
+该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
+
+
+
+之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
+```
+
+
+
+
+### MessageID: 569365 · Source Modified
+
+EN
+
+```diff
+- This Abyssal Filament will pull a <b>Tech I or Tech II Cruiser</b> into a pocket of Abyssal Deadspace experiencing <b>cataclysmic local environmental destabilization</b>and clouded by a field of dark matter that will <b>reduce weapon ranges</b> but <b>enhance ship velocity</b>.
++ This Abyssal Filament will pull a <b>Tech I or Tech II Cruiser</b> into a pocket of Abyssal Deadspace experiencing <b>cataclysmic local environmental destabilization</b> and clouded by a field of dark matter that will <b>reduce weapon ranges</b> but <b>enhance ship velocity</b>.
+  
+  <b><color=yellow>Restrictions:</color></b>  Cannot be activated in 1.0 or 0.9 systems. Capsuleer will be flagged as suspect if activated in 0.8, 0.7 or 0.6 systems. 
+[…]
+```
+
+
+DE
+
+```text
+Dieses Abgrundfilament zieht einen <b>Tech-I- oder Tech-II-Kreuzer</b> in eine Tasche der Raumverwerfung des Abgrunds, deren <b>katastrophale lokale Umweltdestabilisierung</b> von einem Feld dunkler Materie getrübt wird, das <b>die Reichweite der Waffen reduziert</b> aber <b>die Geschwindigkeit des Schiffs erhöht</b>. <b><color=yellow>Einschränkungen:</color></b> Kann nicht in Systemen mit 1,0 oder 0,9 aktiviert werden. Kapselpilot wird bei Aktivierung in Systemen mit 0,8, 0,7 oder 0,6 als verdä
+(truncated, 1,854 chars total)
+```
+
+
+ES
+
+```text
+Este filamento abisal arrastrará un <b>crucero T1 o T2</b> a una burbuja del espacio muerto abisal que experimenta <b>una desestabilización medioambiental local cataclísmica</b> y que está cubierta por un campo de materia oscura que <b>reducirá el alcance de las armas</b> pero <b>aumentará la velocidad de la nave</b>.
+
+<b><color=yellow>Restricciones:</color></b> No se puede activar en los sistemas 1.0 o 0.9. Los capsulistas se marcarán como sospechosos si se activa en sistemas 0.8, 0.7 o 0.6. 
+(truncated, 1,755 chars total)
+```
+
+
+FR
+
+```text
+Ce filament abyssal peut entraîner un <b>croiseur de Tech I ou Tech II</b> dans une poche de l'abîme Deadspace subissant des <b>perturbations environnementales cataclysmiques à échelle locale</b> et enveloppée par un champ de matière noire, qui <b>réduit la portée des armes,</b> mais <b>améliore la vitesse du vaisseau</b>. <b><color=yellow>Restrictions :</color></b> Ne peut être activé dans les systèmes avec un statut de sécurité de 1,0 ou 0,9. Le capsulier sera signalé comme suspect en cas d'ac
+(truncated, 1,881 chars total)
+```
+
+
+JA
+
+```text
+このアビサルフィラメントは<b>T1、あるいはT2巡洋艦</b>1隻をアビサルデッドスペースに送り込むことができる。現地は<b>災害クラスで環境が不安定化した状態</b>で、ダークマター・フィールドにより<b>兵器の射程が減少</b>するが、<b>航行速度は向上する</b>。
+
+<b><color=yellow>制限：</color></b>1.0または0.9のシステムでは起動できない。0.8、0.7、または0.6のシステムで起動させたカプセラには容疑者フラグが付与される。 
+
+<b><color=yellow>警告：</color></b> アビサルデッドスペースは非常に厳しい環境だ。ワープコアと時空フィラメントがもつれることで、艦船のワープフィールドに重大な歪みが発生し、しかもこれは時間経過により累積的に拡大する。<b><color=yellow>20分</color></b>の経過でワープフィールが破滅的に崩壊することが予測されており、それにより<b><color=yellow>艦船とカプセルが破壊される</color></b>のは間違いない。
+
+アビサルデッドスペー
+(truncated, 784 chars total)
+```
+
+
+KO
+
+```text
+<b>테크 I 또는 테크 II 크루저</b>를 <b>종말급 자연 재해로 불안정해진</b> 어비설 데드스페이스 포켓으로 이동시킵니다. 포켓 내부의 결집된 암흑 물질에 노출되면 <b>무기 사거리가 감소</b>되고 <b>함선의 비행 속도가 증가합니다</b>.
+
+<b><color=yellow>제한:</color></b> 시큐리티 상태가 1.0~0.9인 성계에서는 사용할 수 없습니다. 시큐리티 상태가 0.8~0.6인 성계에서 사용할 경우 용의자로 표시됩니다.
+
+<b><color=yellow>경고:</color></b> 어비설 데드스페이스는 매우 혹독한 환경을 지닌 지역입니다. 워프코어와 시공간 필라멘트 사이의 얽힘현상으로 인해 함선의 워프 필드가 극심하게 왜곡되어 왜곡률이 시간이 지날수록 누적상승합니다. 워프 필드는 <b><color=yellow>20분</color></b> 후에 붕괴되며 워프 필드에 위치한 <b><color=yellow>함선 및 캡슐이 파괴될 것입니다.</color>
+(truncated, 809 chars total)
+```
+
+
+RU
+
+```text
+Эта нить бездны способна переместить <b>крейсер 1 или 2 техноуровня</b> в один из участков Мёртвой бездны с <b>разрушительным дестабилизирующим воздействием окружающей среды</b>, окутанный полем тёмной материи, которое <b>уменьшает дальность поражения орудий</b>, но при этом <b>увеличивает скорость корабля</b>. <b><color=yellow>Ограничения:</color></b> невозможно активировать в системах с уровнем безопасности 1,0 и 0,9. При активации в системах с уровнем безопасности 0,8, 0,7 или 0,6 капсулёр бу
+(truncated, 1,705 chars total)
+```
+
+
+ZH
+
+```text
+这个深渊纤维会将一艘<b>一级或二级科技巡洋舰</b>拉入一个深渊空间层中，这里的环境<b>仿佛灾难降临般可怖</b>，放射出会<b>降低武器射程</b>但<b>提高舰船速度</b>的暗物质云。<b><color=yellow>限制：</color></b>不能在1.0或0.9星系中启用。如果在0.6、0.7或0.8星系中启用，克隆飞行员会被标记为可疑分子。<b><color=yellow>警告：</color></b>深渊空间的环境极其严苛和无情。纠缠在舰船的跃迁核心上的时空纤维会让舰船的跃迁力场严重变形，并会随时间推移而加剧。<b><color=yellow>20分钟</color></b>后，跃迁力场将会彻底崩塌，<b><color=yellow>舰船和太空舱也会随之灰飞烟灭</color></b>。一个三神裔设备会放射出与某个特定的深渊空间层相连的惰性时空纤维，被某个载有特定的能量参数的跃迁核心的舰船触发后，纤维会成为一个导管，将该舰船引入其连接的空间层中。这种大规模能量交换会在舰船的初始点留下高能量痕迹，时空纤维会纠缠在使用那个跃迁核心的舰船上。三神裔传输导管允许这样的舰船继
+(truncated, 531 chars total)
+```
+
+
+
+
+### MessageID: 571417 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  This station has been turned into a faci[…]
++ […]nds rather than destroy a useful asset. This station has been turned into a faci[…]
+```
+
+
+DE
+
+```text
+Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Diese Station wurde in eine Einrichtung umgewandelt, die sich auf die biologische Anpassung von Lebensformen an eine Vielzahl von Umgebungsbedingungen spezialisiert. Zu diesem Zweck dienen zahlreiche Kammern, in denen sowohl Tr
+(truncated, 627 chars total)
+```
+
+
+ES
+
+```text
+La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. Esta estación se ha transformado en un complejo centrado en la bioadaptación de formas de vida a distintas condiciones ambientales. Las numerosas cámaras dedicadas a esta finalidad se utilizan para adaptar a triglavianos y no triglavianos en
+(truncated, 560 chars total)
+```
+
+
+FR
+
+```text
+L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette station a été transformée en usine centrée sur la bioadaptation des formes de vie à diverses conditions environnementales. Les nombreuses salles dédiées à cet objectif sont utili
+(truncated, 650 chars total)
+```
+
+
+JA
+
+```text
+トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションは、生命体をさまざまな環境下に生体適応させるための研究施設に改修された。特別仕様の部屋の多くでは、トリグラビアンと非トリグラビアンの両方が必要に応じて環境に適応できるよう、日々尽力が為されている。
+```
+
+
+KO
+
+```text
+정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 생체적응 연구소로 운영되고 있으며 유기체가 극한 환경에서 생존할 수 있도록 개조 작업을 진행하고 있습니다. 정거장 내 대부분의 구역은 트리글라비안을 비롯한 비트리글라비안 개체의 생체 개조 작업에 사용되고 있습니다.
+```
+
+
+RU
+
+```text
+После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция была превращена в объект, который специализируется на биологической адаптации различных форм жизни к разнообразным внешним условиям. Она поделена на многочисленные камеры, предназначенные как для триглавских, так и нетриглавских форм жизни, условия соде
+(truncated, 622 chars total)
+```
+
+
+ZH
+
+```text
+三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站已被改造为一座研究设施，主要针对各种环境条件下的生命形态进行生化适应突变的相关研究。为这个目的而服务的众多舱室除了接纳三神裔之外，也根据环境变化需求而对非三神裔生命体进行适应突变。
+```
+
+
+
+
+### MessageID: 571418 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  The clade that seized this station saw f[…]
++ […]nds rather than destroy a useful asset. The clade that seized this station saw f[…]
+```
+
+
+DE
+
+```text
+Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Die Klade, die diese Station übernommen hat, hat sie in einen Terminus für die Rohstoffförderung verwandelt, die in der gesamten Krai-Region betrieben wird. Die umfangreichen Verarbeitungsprozesse erhalten offenbar auch Lieferu
+(truncated, 627 chars total)
+```
+
+
+ES
+
+```text
+La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. El clado que tomó esta estación decidió convertirla en un terminal para operaciones de extracción de recursos en su Krai. Resulta evidente que las grandes operaciones de procesamiento reciben envíos de la recolección de recursos y los saqueo
+(truncated, 598 chars total)
+```
+
+
+FR
+
+```text
+L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Le clade qui a pris possession de cette station a jugé bon de la convertir en un terminal d'opérations d'extraction de ressources menées à travers sa Krai. Le vaste traitement d'opérat
+(truncated, 696 chars total)
+```
+
+
+JA
+
+```text
+トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションを占拠したクレードは、ここをクライの資源抽出作業を取りまとめるターミナルに改修した。膨大な処理作業の中には、資源採掘による輸送品の受け取りや、既知宇宙の星系に尽きぬ興味を抱くトリグラビアンの略奪も当然含まれている。
+```
+
+
+KO
+
+```text
+정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 크라이 전역에서 수집한 자원을 추출하기 위한 장소로 활용되고 있습니다. 트리글라비안은 일반 우주에서 약탈 또는 추출한 자원을 정제하기 위해 해당 정거장을 사용하고 있습니다.
+```
+
+
+RU
+
+```text
+После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Клада, завладевшая этой станцией, решила преобразовать её в сортировочный узел для всех добывающих операций, которые проходят в этом Крае. На переработку сюда поступают ресурсы, добываемые — в том числе и во время налётов — в системах освоенной части космоса, предс
+(truncated, 542 chars total)
+```
+
+
+ZH
+
+```text
+三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  占据这里的演化枝将其改造为全星系范围内的资源开采作业的终端。它巨大的提炼设施除了接受开采而来的资源外，还包括从三神裔觊觎的已知星系中掠夺来的资源。
+```
+
+
+
+
+### MessageID: 571419 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  This station has been transformed into a[…]
++ […]nds rather than destroy a useful asset. This station has been transformed into a[…]
+```
+
+
+DE
+
+```text
+Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Diese Station wurde in eine Einrichtung umgewandelt, in der die kontrollierende Klade und ihre Unterkladen verschiedene Formen der „Prüfung“ durchführen. Diese Verfahren scheinen eine komplexe Mischung aus Tests und rituellem w
+(truncated, 705 chars total)
+```
+
+
+ES
+
+```text
+La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. Esta estación se ha transformado en un centro dedicado a las diversas formas de «demostrar» que están bajo el control del clado al mando y sus subclados. Tales procedimientos parecen una compleja mezcla de pruebas, rituales y discusiones fil
+(truncated, 665 chars total)
+```
+
+
+FR
+
+```text
+L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette station a été transformée en usine dédiée à différentes formes d'« expériences » effectuées par le clade propriétaire et ses sous-clades. Ces procédures semblent être un mélange 
+(truncated, 724 chars total)
+```
+
+
+JA
+
+```text
+トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションは、支配クレードとサブクレートによるさまざまな形態の「実証」に特化した施設に改修された。その手順には複雑なテスト、儀式、哲学的対話が混ざり合っているらしい。それはすなわち、個人、集団、理論、イデオロギー、テクノロジー、社会行動その他の価値を決める具体的な弁証法とも言える。
+```
+
+
+KO
+
+```text
+정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. "증명"은 다양한 실험, 의식, 그리고 철학적 담론을 바탕으로 한 검증 절차로 실질적인 담론을 통해 개인, 단체, 이론, 사상, 기술, 그리고 사회적 관습 등의 가치를 검증하는 데 활용됩니다.
+```
+
+
+RU
+
+```text
+После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция была преобразована в объект, предназначенный для различного рода «испытаний», которые проводит владеющая станцией клада и её малые клады. Эти процедуры представляют собой сложную смесь разного рода экспертиз, ритуалов и философских дискуссий, предназнач
+(truncated, 581 chars total)
+```
+
+
+ZH
+
+```text
+三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站被改造为一座专门研究各种“试炼”的设施。这其中混合了复杂的测试，仪式和哲学论述：一种用来确定个体、群体、理论、观念、技术、社会实践和其他等等一切的价值的具体辩证法。
+```
+
+
+
+
+### MessageID: 571420 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  The controlling clade has turned this st[…]
++ […]nds rather than destroy a useful asset. The controlling clade has turned this st[…]
+```
+
+
+DE
+
+```text
+Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Die kontrollierende Klade hat diese Station in eine Einrichtung umgewandelt, die als Mischung aus Kommunikationszentrum, Datenverarbeitungsanlage und diplomatischem Anlaufpunkt fungiert. Es könnte sich um eine spezialisierte Kl
+(truncated, 674 chars total)
+```
+
+
+ES
+
+```text
+La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. El clado al mando ha convertido esta estación en un complejo que actúa como central de comunicaciones, complejo de procesamiento de datos y territorio diplomático. Podría ser una especie de centro especializado para demostrar los aspectos se
+(truncated, 594 chars total)
+```
+
+
+FR
+
+```text
+L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Le clade qui en est devenu propriétaire a transformé cette station en une structure qui semble être un hybride entre une plateforme de communication, un complexe de traitement de donné
+(truncated, 723 chars total)
+```
+
+
+JA
+
+```text
+トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。支配層のクレードは、このステーションをコミュニケーションハブとデータ処理施設と外交場の複合施設に改修したようだ。トリグラビアン文化を支配している極めて弁証法的な思考と行動の、記号論的側面に焦点を当てた実証センターとして、ここは特別な位置付けにあるのかもしれない。
+```
+
+
+KO
+
+```text
+정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 데이터 처리, 통신, 그리고 외교사절을 위한 종합 시설로 활용되고 있습니다. 이 정거장은 트리글라비안 문화의 변증법적 행동 양식에 맞춰 설계되었습니다.
+```
+
+
+RU
+
+```text
+После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Клада, владеющая этой станцией, превратила её в некий объект, сочетающий функции узла связи, комплекса переработки данных и дипломатического центра. Возможно, это особый испытательный центр, который специализируется на семиотических аспектах сугубо диалектического 
+(truncated, 563 chars total)
+```
+
+
+ZH
+
+```text
+三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  占据这里的演化枝将其改造为一座融合了信息中继、数据处理和外事接待的综合场所。它也可能是一座特殊的试炼场，专注于主导了三神裔文化的符号化层面辩证性思考和行为方式。
+```
+
+
+
+
+### MessageID: 571421 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  This station has been significantly tran[…]
++ […]nds rather than destroy a useful asset. This station has been significantly tran[…]
+```
+
+
+DE
+
+```text
+Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Diese Station wurde aufgrund der Entscheidung der kontrollierenden Klade, sie als Einrichtung zum Farmen von Mutaplasmiden aller Art zu nutzen, umfassend umgebaut. Viele der Innenräume sind jetzt brodelnde Höhlen, die mit der s
+(truncated, 652 chars total)
+```
+
+
+ES
+
+```text
+La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. La decisión del clado invasor de utilizar esta estación como centro para el cultivo de mutaplásmidos de todo tipo ha provocado una transformación significativa. Muchos de los espacios internos son ahora cavernas agitadas y llenas de formas s
+(truncated, 630 chars total)
+```
+
+
+FR
+
+```text
+L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette station a été considérablement transformée par la décision du clade qui l'occupe de l'utiliser comme structure dédiée à l'élevage de tous types de mutaplasmides. Nombre d'espaces
+(truncated, 719 chars total)
+```
+
+
+JA
+
+```text
+トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションは占拠したクレードの決定によって大幅に改変が加えられ、あらゆる種類の変異プラスミド培養施設として使用されている。内部空間の多くは、奇妙な半生物や半人工物で溢れかえっている。これらはテクノロジーの発展と適用を目指す、トリグラビアンの進化ナノテクノロジーの産物である。
+```
+
+
+KO
+
+```text
+정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 정거장을 운영하는 클레이드의 지침에 따라 뮤타플라즈미드를 재배하고 있습니다. 정거장 내 대부분의 구역은 생체공학 물질을 생산하기 위해 개조되었으며 트리글라비안 나노기술 개발을 위해 운영되고 있습니다.
+```
+
+
+RU
+
+```text
+После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция подверглась значительным преобразованиям, поскольку владеющая ею клада решила использовать её для производства разнообразных мутаплазмидов. Существенная часть внутренних залов станции превратилась в бурлящие каверны, заполненные жуткими полуискусственны
+(truncated, 605 chars total)
+```
+
+
+ZH
+
+```text
+三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站被占据这里的演化枝进行了大规模改造，将其作为一座专门进行突变质体制造的设施。空间站内部的大部分空间现在充满了怪异的半生物质，半人工合成的纳米科技形态，三神裔将其用于生化适应技术的研究。
+```
+
+
+
+
+### MessageID: 571422 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  Security within this station is extremel[…]
++ […]nds rather than destroy a useful asset. Security within this station is extremel[…]
+```
+
+
+DE
+
+```text
+Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Die Sicherheit auf dieser Station ist extrem stark und die kontrollierende Klade ist noch intoleranter als gewöhnlich, wenn es um wahrgenommene Nichteinhaltungen und Verstöße von Bewohnern und Besuchern geht. Der Kern der Stati
+(truncated, 714 chars total)
+```
+
+
+ES
+
+```text
+La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. La seguridad dentro de esta estación es extremadamente férrea y el clado al mando es menos tolerante de lo habitual en lo relativo a las infracciones y las transgresiones cometidas por residentes o visitantes. El núcleo de la estación está t
+(truncated, 741 chars total)
+```
+
+
+FR
+
+```text
+L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. La sécurité au sein de cette station est extrêmement élevée et le clade propriétaire est encore moins indulgent qu'habituellement envers les infractions et crimes perçus de la part des
+(truncated, 768 chars total)
+```
+
+
+JA
+
+```text
+トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションのセキュリティは極めて厳重で、ここを支配するクレードは、住民や訪問者による違反や暴力行為に対してあまり寛容ではない。ステーションの中心は、クレードのエリートトロイカ以外は完全に立入禁止で、トリグラビアンの採掘作業で獲得した最高品質の資源の余剰分を保管するために使用している。
+```
+
+
+KO
+
+```text
+정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 최고 수준의 보안 조치가 적용되었으며 방문객 및 거주민이 규정을 위반할 경우에는 엄격한 처벌이 가해집니다. 정거장의 중심 구역은 희귀 자원을 보관하기 위한 저장 시설로 각 클레이드의 정예 트로이카들에게만 접근 권한이 부여되었습니다.
+```
+
+
+RU
+
+```text
+После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Безопасность внутри этой станции находится на высочайшем уровне, и владеющая ею клада не терпит никакого вмешательства в свои дела, а уж тем более нарушений со стороны как своих обитателей, так и чужаков. Ядро станции полностью изолировано, и доступ к нему имеют то
+(truncated, 626 chars total)
+```
+
+
+ZH
+
+```text
+三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站的安保等级极高，占据这里的演化枝对居民或造访者的冒犯行为表现出不寻常的冷酷严苛。空间站的核心部位完全封闭，显然演化枝的高层将其作为一座存储设施，用来保管三神裔开采作业收集来的最具价值的资源。
+```
+
+
+
+
+### MessageID: 594611 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. 
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。 
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594617 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594619 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594621 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+  La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+  
+  Este material está comprimido y tiene una forma mucho más compacta que el original.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594623 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594625 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+  La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+  
+  Este material está comprimido y tiene una forma mucho más compacta que el original.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594627 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594629 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+DE
+
+```text
+Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
+```
+
+
+ES
+
+```diff
+  La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+  
+  Este material está comprimido y tiene una forma mucho más compacta que el original.
+```
+
+
+FR
+
+```text
+La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
+(truncated, 538 chars total)
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+KO
+
+```text
+강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
+```
+
+
+RU
+
+```text
+Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 597630 · Source Modified
+
+EN
+
+```diff
+- Standup Flak Round Blueprint
++ Standup Flak Round I Blueprint
+```
+
+
+DE
+
+```text
+Standup Flak Round Blueprint
+```
+
+
+ES
+
+```text
+Plano de munición antiaérea Standup
+```
+
+
+FR
+
+```text
+Plan de construction Munitions DCA Standup
+```
+
+
+JA
+
+```text
+スタンドアップ対宙弾薬設計図
+```
+
+
+KO
+
+```text
+스탠드업 대공 탄약 블루프린트
+```
+
+
+RU
+
+```text
+Standup Flak Round Blueprint
+```
+
+
+ZH
+
+```text
+屹立防空弹药蓝图
+```
+
+
+
+
+### MessageID: 1016288 · Source Modified
+
+EN
+
+```diff
+[…]
+  <br>
+  <br>
+- I’ve tracked down her old work crew and got you on their work roster. I need you to go uncover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
++ I’ve tracked down her old work crew and got you on their work roster. I need you to go under cover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
+```
+
+
+DE
+
+```text
+Hallo, Captain. Ich könnte Ihre Hilfe gebrauchen. <br> <br> Eine enge Freundin von mir, die bei ORE arbeitete, Batya Sarnai, wird vermisst. Es wird angenommen, dass sie tot ist. Niemand sagt mir oder ihrer Familie sagen, was geschehen ist. Ich brauche Ihre Hilfe, um die Wahrheit aufzudecken. <br> <br> Ich habe ihre alte Arbeitscrew aufgespürt und dafür gesorgt, dass Sie in deren Dienstplan sind. Sie müssen sich als ORE-Miner tarnen, in ihren Großrechner hacken und alle Daten über Sarnai stehlen.
+```
+
+
+ES
+
+```text
+Hola, capitán. Me vendría bien tu ayuda.
+<br>
+<br>
+Una amiga cercana que trabajaba en ORE, Batya Sarnai, ha desaparecido y se la da por muerta. Nadie le dirá a su familia ni a mí qué ocurrió. Necesito tu ayuda para descubrir la verdad.
+<br>
+<br>
+He localizado a su antiguo equipo y te he metido en su plantilla. Hazte pasar por minero de ORE, hackea su unidad central y roba cualquier información sobre Sarnai.
+```
+
+
+FR
+
+```text
+Bonjour, Capitaine. J'aurais besoin de votre aide. <br> <br> Une de mes amies proches qui travaillait pour ORE, Batya Sarnai, est portée disparue, présumée morte. Personne ne veut me dire ce qui s'est passé, ni à moi, ni à sa famille. J'ai besoin de votre aide pour découvrir la vérité. <br> <br> J'ai retrouvé son ancienne équipe et vous ai fait engager. Je souhaite que vous vous infiltriez parmi les mineurs d'ORE, piratiez leur ordinateur central et dérobiez toutes les données concernant Sarnai.
+```
+
+
+JA
+
+```text
+やあ、艦長。助けてもらいたいことがある。
+<br>
+<br>
+OREで働いていた俺の親友、バトヤ・サルナイが行方不明になった。おそらくもうこの世にはいないだろう。俺も彼女の家族も、一体何が起きたのか分からないでいる。真実を突き止めるため、どうか力を貸してほしい。
+<br>
+<br>
+彼女が働いていた作業チームを突き止め、お前さんをそこの作業員として登録しておいた。OREの鉱員として潜入し、連中のメインフレームをハッキングしてサルナイに関するデータを盗み出してくれ。
+```
+
+
+KO
+
+```text
+안녕하신가, 함장. 도움이 필요해.
+<br>
+<br>
+바트야 사르나이라는 친구가 ORE에서 일하는데 연락이 끊어졌어. 아무래도 죽었겠지. 나나 가족에게도 무슨 일인지 연락이 오지 않았어. 사실을 알아낼 수 있게 도와주겠나.
+<br>
+<br>
+사르나이와 함께 일하던 인부들을 찾아내 함장의 정보를 등록했어. ORE 광부로 위장해 잠입하고 메인프레임을 해킹해 사르나이와 관련된 모든 정보를 빼내면 돼.
+```
+
+
+RU
+
+```text
+Здравствуйте, капитан. Мне нужна ваша помощь. <br> <br> Пропала Батайя Сарнаи — моя близкая подруга, работавшая в ОРЭ. Её посчитали погибшей. Никто не сообщил мне и её семье о том, что произошло. Помогите мне выяснить правду. <br> <br> Я нашёл бригаду, в которой она работала, и внёс вас в список рабочих. Представьтесь бурильщиком ОРЭ, взломайте суперкомпьютер и украдите все данные о Сарнаи.
+```
+
+
+ZH
+
+```text
+你好舰长，我需要你的帮助。 <br> <br> 我的好友巴特雅 萨尔奈曾在联合矿业工作，现已下落不明，据推测已经死亡。没有人愿意告诉我或她的家人到底发生了什么事。我需要你的帮助来揭开真相。 <br> <br> 我找到了她以前的工作团队，并把你安排进了他们的工作名单。我需要你伪装成 ORE 矿工，入侵他们的主机，窃取 Sarnai 上的所有数据。
+```
+
+
+
+
+### MessageID: 1039147 · Source Modified
+
+EN
+
+```diff
+  <b>- Claim it, defend it.</b>
+  
+- There is
+- no CONCORD presence and no automatic law enforcement. 
++ There is no CONCORD presence and no automatic law enforcement. 
+  
+  Capsuleer alliances may claim sovereignty over much of this space, building their own infrastructure. It is up to capsuleers to protect their own space. Unrestricted combat and large-scale wars are a part of daily life.
+```
+
+
+DE
+
+```diff
+- <b>– Beanspruchen, verteidigen.</b> Es gibt
+- keine CONCORD-Präsenz und keine automatische Rechtsdurchsetzung. Kapselpiloten-Allianzen können die Souveränität über einen Großteil dieses Weltraums beanspruchen und ihre eigene Infrastruktur aufbauen. Es liegt an den Kapselpiloten, ihren eigenen Weltraum zu schützen. Unbeschränkter Kampf und groß angelegte Kriege sind Teil des täglichen Lebens.
++ <b>– Beanspruchen, verteidigen.</b> Es gibt keine CONCORD-Präsenz und keine automatische Rechtsdurchsetzung. Kapselpiloten-Allianzen können die Souveränität über einen Großteil dieses Weltraums beanspruchen und ihre eigene Infrastruktur aufbauen. Es liegt an den Kapselpiloten, ihren eigenen Weltraum zu schützen. Unbeschränkter Kampf und groß angelegte Kriege sind Teil des täglichen Lebens.
+```
+
+
+ES
+
+```text
+<b>— Reclámalo, defiéndelo.</b>
+
+No hay presencia de CONCORD ni aplicación automática de la ley. 
+
+Las alianzas de capsulistas pueden reclamar la soberanía sobre gran parte de este espacio y construir su propia infraestructura. Depende de los capsulistas proteger su propio territorio. El combate sin restricciones y las guerras a gran escala forman parte del día a día.
+```
+
+
+FR
+
+```diff
+- <b>- Prenez-le, défendez-le.</b> Aucune
+- présence de CONCORD ni intervention automatique des forces de l'ordre. Les alliances de capsuliers peuvent revendiquer la souveraineté sur une grande partie de cet espace, en construisant leurs propres infrastructures. Les capsuliers doivent assurer la protection de leur secteur de l'espace. Les combats sans restriction et les guerres à grande échelle font partie de la vie quotidienne.
++ <b>- Prenez-le, défendez-le.</b> Aucune présence de CONCORD ni intervention automatique des forces de l'ordre. Les alliances de capsuliers peuvent revendiquer la souveraineté sur une grande partie de cet espace, en construisant leurs propres infrastructures. Les capsuliers doivent assurer la protection de leur secteur de l'espace. Les combats sans restriction et les guerres à grande échelle font partie de la vie quotidienne.
+```
+
+
+JA
+
+```text
+<b>-領有を主張し、防衛せよ。</b>
+
+CONCORDの駐留はなく、自動的な法執行も行われていません。 
+
+カプセラのアライアンスが、この宙域の大部分に対して主権を主張し、独自のインフラを構築する場合があります。自分の宙域の防衛は、カプセラ自身に委ねられています。制限のない戦闘と大規模な戦争は、日々の生活の一部となっています。
+```
+
+
+KO
+
+```text
+<b>- 차지하고 방어하세요.</b>
+
+이곳에서 CONCORD는 적극적인 법 집행 활동을 하지 않습니다. 
+
+캡슐리어 얼라이언스는 이 지역에서 소버린티를 확보해 영역을 지배해 우주를 개발할 수 있습니다. 영역을 수호하는 활동은 캡슐리어 여러분에게 달려 있습니다. 제한 없는 전투와 대규모 전쟁이 일상적인 곳입니다.
+```
+
+
+RU
+
+```diff
+- <b>– Отбивай и властвуй.</b> Здесь нет
+- сил КОНКОРДа и автоматизированных средств безопасности. Почти всё это пространство может быть захвачено капсулёрскими альянсами и занято их инфраструктурой. За оборону суверенных территорий отвечают сами пилоты. В таких системах на постоянной основе происходят как отдельные сражения, так и полномасштабные войны.
++ <b>– Отбивай и властвуй.</b> Здесь нет сил КОНКОРДа и автоматизированных средств безопасности. Почти всё это пространство может быть захвачено капсулёрскими альянсами и занято их инфраструктурой. За оборону суверенных территорий отвечают сами пилоты. В таких системах на постоянной основе происходят как отдельные сражения, так и полномасштабные войны.
+```
+
+
+ZH
+
+```text
+<b>- 占领它，保卫它。</b>没有统合部驻军，也没有自动执法。克隆飞行员联盟可以宣称拥有这片太空大部分区域的主权，建造自己的基础设施。保护自己的太空区域是克隆飞行员的责任。无限制的战斗和大规模战争是日常生活的一部分。
+```
+
+
+
+
+### MessageID: 1048802 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048803 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048804 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048805 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+---
+
 # Build 3435006
 
 ## Summary
