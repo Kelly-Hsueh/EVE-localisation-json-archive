@@ -1,3 +1,30056 @@
+# Build 3433459
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 201 | 305 | 2 |
+| en | 201 | 102 | 2 |
+| es | 201 | 304 | 2 |
+| fr | 201 | 305 | 2 |
+| ja | 201 | 305 | 2 |
+| ko | 201 | 305 | 2 |
+| ru | 201 | 305 | 2 |
+| zh | 201 | 305 | 2 |
+
+## Details
+
+### MessageID: 67192 · Source Modified
+
+EN
+
+```diff
+  <center>
+  <h2>EVE Online</h2>
+  <br>
+- <p>Version: 24.01</p>
+- <p>EVE is a product of Fenris Creations hf.</p>
++ <p>Version: {version}.{[numeric]build} </p>
++ <p>EVE is a product of Fenris Creations ehf.</p>
+  <p>Copyright © Fenris Creations 1997-2026. All rights reserved.</p>
+  <p>Please visit our homepage http://www.fenris.com/ for more information.</p>
+[…]
+     <h3>This product includes the following software:</h3>
+  <hr>
+- <h3>Uses software that is based in part on the work of the Independent JPEG Group.</h3>
+- <hr>
+- <h3>Uses software that is based in part of the work of the PNG Development Group.</h3>
+- <hr>
+- <h3>Uses Zlib, general purpose data compression library, written by Jean-loup Gailly and Mark Adler.</h3>
+- <hr>
+- <h3>Uses ChartDirector by Advanced Software Engineering.</h3>
+- <hr>
+- <p>Uses Wwise. Copyright © 2006-2009 Audiokinetic Inc. All rights reserved.</p>
+- <p>Uses Granny Animation. Copyright © 1999-2008 by RAD Game Tools, Inc.</p>
+- <p>Uses Simplygon® Copyright © 2009 Donya® Labs AB.</p>
+- <h3>Portions of this software are copyright © 2001-2008 Python Software Foundation, all rights reserved.</h3>
+- <hr>
+- <h3>Portions of this software are copyright © 2008 The FreeType Project, all rights reserved.</h3>
+- <hr>
+- <h3>This product includes software that is based in part of the work of the Xiph.Org Foundation. © 2005, Xiph.Org Foundation</h3>
+- <hr>
+- <h3>MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.</h3>
+- <hr>
+- <h3>This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.</h3>
+- <hr>
++ <p>
++     Uses software that is based in part on the work of the Independent JPEG Group.<br>
++     Uses software that is based in part of the work of the PNG Development Group.<br>
++     Uses Zlib, general purpose data compression library, written by Jean-loup Gailly and Mark Adler.<br>
++     Uses ChartDirector by Advanced Software Engineering.<br>
++     Uses Wwise. Copyright © 2006-2009 Audiokinetic Inc. All rights reserved.<br>
++     Uses Granny Animation. Copyright © 1999-2008 by RAD Game Tools, Inc.<br>
++     Uses Simplygon® Copyright © 2009 Donya® Labs AB.<br>
++     Portions of this software are copyright © 2001-2008 Python Software Foundation, all rights reserved.<br>
++     Portions of this software are copyright © 2008 The FreeType Project, all rights reserved.<br>
++     This product includes software that is based in part of the work of the Xiph.Org Foundation. © 2005, Xiph.Org Foundation<br>
++     MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.<br>
++     This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.<br>
++ </p>
+```
+
+
+DE
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
+(truncated, 2,172 chars total)
+```
+
+
+ES
+
+```text
+<center>
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    Versión: {version}.{[numeric]build}<br><br>
+    <h4>EVE is a product of CCP hf.</h4>
+    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
+    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
+    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
+</center>
+<br><br>
+<h2>Credits</h2>
+<p>
+    Sp
+(truncated, 2,224 chars total)
+```
+
+
+FR
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
+(truncated, 2,154 chars total)
+```
+
+
+JA
+
+```text
+<center>
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    バージョン：{version}.{[numeric]build}<br><br>
+    <h4>EVEはCCP hfの製品です。</h4>
+    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
+    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
+    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
+</center>
+<br><br>
+<h2>クレジット</h2>
+<p>
+    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
+    感謝いたします。
+(truncated, 1,847 chars total)
+```
+
+
+KO
+
+```text
+<center>
+    <h1>{title}</h1>
+    <h2>{subtitle}</h2>
+    버전: {version}.{[numeric]build}<br><br>
+    <h4>EVE는 CCP hf의 제품입니다.</h4>
+    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
+    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
+    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
+</center>
+<br><br>
+<h2>크레딧</h2>
+<p>
+    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
+     그 가족 여러분께 특히 감
+(truncated, 1,844 chars total)
+```
+
+
+RU
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
+(truncated, 2,107 chars total)
+```
+
+
+ZH
+
+```text
+<center> <h1>{title}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]currentYear}。保留所有权利。<br> 如需了解更多信息，请访问我们的主页<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>。<br> 如需获取帮助，请联系<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>鸣谢</h2><p>十分感谢所有参与EVE制作的人员，尤其要感谢CCP的员工和家庭的支持。<p>{EVECredits} <br> <br> {VanguardCredits} <br> <br> {CCPCredits}<p><p><br> 本产品包含下列软件程序：<br> <br> 采用了部分
+(truncated, 1,411 chars total)
+```
+
+
+
+
+### MessageID: 83351 · Translation Modified
+
+EN
+
+```text
+The Vexor is a strong combat ship that is also geared to operate in a variety of other roles. The Vexor is especially useful for surveying in potentially hostile sectors as it can stay on duty for a very long time before having to return to base. Furthermore, it is well capable of defending itself against even concentrated attacks.
+
+The markings on this ship reveal no obvious connection to the Federation.
+```
+
+
+DE
+
+```diff
+- […] starkes Kampfschiff, das auch für eine Anzahl anderer Einsätze ausgerüstet ist. Sie eignet sich besonders für Überwachungsaufgaben in möglicherweise feindlichen Raumsektoren, da sie lange Zeit ohne Rückkehr zur Basis operieren kann. Darüberhinaus ist sie durchaus in der Lage, sich auch gegen konzentrierte Angriffe zur Wehr zu setzen. Die Markierungen an diesem Schiff lassen auf keinerlei Verbindung zur Föderation schließen.
++ […] starkes Kampfschiff, das auch für eine Reihe anderer Einsätze gerüstet ist. Sie eignet sich besonders für Überwachungsaufgaben in möglicherweise feindlichen Raumsektoren, da sie lange Zeit ohne Rückkehr zur Basis operieren kann. Darüber hinaus ist sie durchaus in der Lage, sich auch gegen konzentrierte Angriffe zur Wehr zu setzen. Die Markierungen auf diesem Schiff offenbaren keine offensichtliche Verbindung zur Föderation.
+```
+
+
+FR
+
+```diff
+- Le Vexor est un puissant vaisseau de combat qui sert également pour de nombreuses autres missions. Le Vexor est utilisé pour inspecter des secteurs potentiellement hostiles car il peut effectuer des missions très longues sans devoir retourner à la base. De plus, il peut se défendre contre des attaques simultanées de plusieurs vaisseaux.
+- 
+- Les marques présentes sur ce vaisseau n'indiquent aucune relation avec la Fédération.
++ Le Vexor est un puissant vaisseau de combat qui sert également pour de nombreuses autres missions. Le Vexor est particulièrement utilisé pour contrôler des secteurs potentiellement hostiles car il peut effectuer des missions très longues sans devoir retourner à la base. De plus, il peut se défendre contre des attaques simultanées de plusieurs vaisseaux. Les insignes apposés sur ce vaisseau ne laissent entrevoir aucun lien évident avec la Fédération.
+```
+
+
+JA
+
+```diff
+- ベクサーは優れた戦闘船だが、他にも様々な役割をこなす器用さも備えている。特に危険が予測される宙域での偵察で重宝されるが、それは基地に帰還することなく非常に長時間にわたって活動できるからだ。また、集中攻撃にも耐える優れた防衛能力を誇る。
++ ベクサーは強力な戦闘艦だが、それ以外の様々な役割にも対応できる汎用性を備えている。基地に帰還することなく長期間にわたって任務を継続できるため、敵対勢力の存在が懸念される宙域の調査において特に真価を発揮する。さらに、たとえ集中攻撃を受けたとしても、十分に自衛可能な戦闘能力を有している。
+  
+- その外観から連邦との明らかなつながりを見出すことはできない。
++ この艦船に施されたマーキングからは、連邦との明らかなつながりを見出すことはできない。
+```
+
+
+KO
+
+```diff
+- 벡서는 다양한 전술적인 역할을 맡을 수 있는 강력한 함선입니다. 장기간 임무 수행 능력을 바탕으로 적대적 지역에 대한 탐사를 진행할 수 있으며 집중 포격에도 맞설 수 있는 방어 체계를 갖추고 있습니다. <br><br>함선에는 갈란테 연방 소속임을 나타내는 어떠한 표식도 새겨져 있지 않습니다.
++ 벡서는 다양한 전술적인 역할을 맡을 수 있는 강력한 함선입니다. 장기간 임무 수행 능력을 바탕으로 적대적 지역에 대한 탐사를 진행할 수 있으며 집중 포격에도 맞설 수 있는 방어 체계를 갖추고 있습니다.
++ 
++ 함선에는 갈란테 연방 소속임을 나타내는 어떠한 표식도 새겨져 있지 않습니다.
+```
+
+
+RU
+
+```diff
+- Vexor — мощный боевой корабль, используемый так же и для многих других целей. Vexor хорошо приспособлен к разведке потенциально враждебных территорий, так как он может нести службу в глубоком космосе в течение долгого времени до возвращения на базу. Более того, он в состоянии защищаться даже от массированных атак.
+- 
+- Cудя по опознавательным знакам этого корабля, он не имеет непосредственного отношения к Федерации.
++ Vexor — мощный боевой корабль, пригодный и для выполнения других задач. Особенно хорошо Vexor подходит для наблюдения за потенциально опасными районами, так как он может долгое время оставаться на посту без необходимости возвращаться на базу. Более того, на нём можно эффективно обороняться даже от сосредоточенных атак. Маркировка этого судна не позволяет уверенно установить его принадлежность к флоту Федерации.
+```
+
+
+ZH
+
+```diff
+- “狂怒者”是一艘强大的战舰，也适合扮演其他多种角色。“狂怒者”在侦查可能潜伏着敌人的空域时尤其有效，因为它可以长时间工作而不必返回基地去补给。此外，它有极佳的自卫能力，足以抵挡敌人的集中攻击。船上的标识表明其同联邦并[…]
++ 狂怒者级是一艘强大的战舰，也能胜任多种任务角色。狂怒者级特别适合在潜在敌对空域执行侦查任务，因其具备极长的持续部署能力，无需频繁返回基地进行补给。此外，它有极佳的自卫能力，足以抵挡敌人的集中攻击。船上的标识表明其同联邦并[…]
+```
+
+
+
+
+### MessageID: 87029 · Source Modified
+
+EN
+
+```diff
+- […] low orbit for collection by starships.  These containers will burn up within a f[…]
++ […] low orbit for collection by starships. These containers will burn up within a f[…]
+```
+
+
+DE
+
+```text
+Dieser Container wurde von der Planetenoberfläche aus in den nahen Orbit geschossen, um dort von Raumschiffen eingesammelt zu werden. Container dieser Art zerfallen nach wenigen Tagen, wenn sie nicht eingesammelt werden.
+```
+
+
+ES
+
+```text
+Este contenedor se ha lanzado desde la superficie del planeta a una órbita baja para que lo recojan las naves estelares. Estos contenedores se quemarán en unos pocos días si no se recogen.
+```
+
+
+FR
+
+```text
+Ces conteneurs ont été lancés en orbite basse depuis la surface de la planète, afin d'être récupérés par les vaisseaux spatiaux.  Ils exploseront dans quelques jours s'ils n'ont pas été récupérés d'ici là.
+```
+
+
+JA
+
+```text
+惑星の表面から低い軌道に発射されたコンテナ。艦船で回収する。回収されなければ、数日以内に焼失する。
+```
+
+
+KO
+
+```text
+함선들이 수거해 가도록 행성에서 저궤도로 사출한 컨테이너입니다. 수거되지 않는다면 며칠 내로 자동 폐기됩니다.
+```
+
+
+RU
+
+```text
+Этот контейнер был запущен с поверхности планеты на низкую орбиту для погрузки на борт космического корабля. Контейнеры этого типа могут существовать в условиях космоса всего несколько дней.
+```
+
+
+ZH: *empty*
+
+
+
+
+### MessageID: 93930 · Source Modified
+
+EN
+
+```diff
+  The Chimera's design is based upon the Kairiola, a vessel holding tremendous historical significance for the Caldari. Initially a water freighter, the Kairiola was refitted in the days of the Gallente-Caldari war to act as a fighter carrier during the orbital bombardment of Caldari Prime. 
+  
+- It was most famously flown by the legendary Admiral Yakia Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
++ It was most famously flown by the legendary Admiral Yakiya Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
+  
+  The Chimera is capable of generating a <a href=showinfo:83094>Jump Conduit Portal</a> which allows it to instantaneously transport itself and nearby fleet members to a target cynosural beacon. Ship classes that can be moved via conduit: Frigates, Destroyers, Cruisers, Battlecruisers, and Battleships.
+```
+
+
+DE
+
+```text
+Das Design der Chimera basiert auf dem der Kairiola. Dieses Schiff hat eine enorme historische Bedeutung für die Caldari. Anfangs ein Wasserfrachter, wurde die Kairiola während des Krieges zwischen Gallente und Caldari zum Fighter-Träger umgebaut, um in den Kampf während des orbitalen Bombardements von Caldari Prime einzugreifen. Sie wurde vom legendären Admiral Yakia Tovil-Toba direkt in die Atmosphäre von Gallente Prime geflogen, wo sie auseinanderbrach und mehrere Schlüsselpositionen auf dem 
+(truncated, 1,136 chars total)
+```
+
+
+ES
+
+```text
+El diseño de la Chimera está basado en la Kairiola, una nave de gran relevancia histórica para los caldaris. La Kairiola, que en un principio servía como carguero de agua, se reutilizó como portanaves en el bombardeo orbital de Caldari Prime durante la guerra Gallente-Caldari. 
+
+Es más conocida por haber sido la nave del legendario almirante Yakia Tovil-Toba, que la hizo entrar directamente en la atmósfera de Gallente Prime, donde estalló e impactó contra varias ubicaciones clave del planeta. 
+(truncated, 1,107 chars total)
+```
+
+
+FR
+
+```text
+Le Chimera est basé sur le Kairiola, un vaisseau dont l'importance historique est considérable pour le peuple caldari. Initialement un vaisseau-citerne d'eau, le Kairiola a été transformé durant la guerre Gallente-Caldari pour faire office de porte-chasseurs lors du bombardement orbital de Caldari Prime. Il a été rendu célèbre par le légendaire amiral Yakia Tovil-Toba qui l'a fait s'écraser directement dans l'atmosphère de Gallente Prime, où il s'est fragmenté et a touché plusieurs sites clés de
+(truncated, 1,126 chars total)
+```
+
+
+JA
+
+```text
+キメラは、カルダリにとって歴史的意義の極めて高いカイリオラを基礎に設計されている。元々は超大型水輸送艦だったカイリオラは、ガレンテ-カルダリ戦争中にカルダリプライムが軌道爆撃を受けていた頃、艦載戦闘機母艦に改装された。 
+
+ヤキア・トヴィル‐トバ提督はカイリオラでガレンテプライムの大気圏内に突入し、惑星上の複数の主要地域を粉砕した。これにより提督は命を落としたが、ガレンテは1週間に渡って混乱状態に陥り、その間にカルダリは包囲された故郷の星から人民を退避させることに成功した。キメラある所、カルダリの心あり。
+
+キメラは<a href=showinfo:83094>コンジットジャンプポータル</a>を生み出し、自身と周囲のフリートメンバーを標的のサイノシュラルビーコンまで瞬時に移動させることができる。コンジットジャンプで移動可能な艦種は次の通り：フリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦
+```
+
+
+KO
+
+```text
+칼다리 연합에게 잊지 못할 역사적 의미를 담고 있는 카이리올라를 본떠 건조한 키메라입니다. 초기 개발에는 프레이터로 사용되었지만 갈란테-칼다리 전쟁에서 칼다리 프라임이 궤도 폭격에 노출되었을 때 큰 활약을 한 파이터 캐리어로 개조됐습니다.<BR><BR>희대의 영웅, 야키아 토빌-토바 제독이 갈란테 프라임 진영으로 단숨에 진격해 주요 지역을 폭격한 것으로 유명한 배틀쉽입니다. 야키아 제독은 끝내 전사하였지만 적의 시선을 충분히 끌고 방해하여 사방으로 포위된 칼다리인들이 빠져나갈 시간을 벌어주었습니다. 키메라가 울부짖을 때마다 칼다리 연합은 잊지 않고 기억할 것입니다.<br><br>키메라는 <a href=showinfo:83094>점프 포탈</a>을 생성하여 본함과 함께 함대원을 사이노슈럴 비컨으로 이동시킬 수 있습니다. 이동 가능한 함급: 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽
+```
+
+
+RU
+
+```text
+Инженеры, проектировавшие Chimera, взяли за основу Kairiola — корабль, сыгравший важную роль в калдарской истории. Во времена галлентско-калдарской войны конструкция водного фрейтера Kairiola претерпела значительные изменения. Именно эти суда использовали для транспортировки истребителей во время планетарной бомбардировки. Легендарный адмирал Якия Товил-Тоба влетел на Kairiola прямо в атмосферу Галленте Прайм, где корабль разлетелся на куски, а его обломки поразили несколько важных стратегически
+(truncated, 982 chars total)
+```
+
+
+ZH
+
+```text
+奇美拉级航空母舰的设计基于凯利欧拉号战舰，后者对于加达里而言具有非凡的历史意义。凯利欧拉号最初是一艘负责运送净水的货舰，由于盖伦特-加达里战争的爆发，被改造为一艘铁骑舰载机航母，在加达里首星遭受轨道轰炸期间投入实战。加达里传奇人物雅卡•托维托巴海军上将，驾驶这艘战舰直接冲入盖伦特首星大气层，利用飞船解体碎裂后的残片对行星上几处关键地点发动了致命性的打击。上将的牺牲成功扰乱了联邦的计划，为加达里人民赢得了足够的时间，使他们得以从被围困的星球上撤离。奇美拉级承载着加达里人民对上将的追思，看到它，就会想起那些为民族自由抛洒热血的不屈英魂。奇美拉级能够生成一个<a href=showinfo:83094>跳跃导管星门</a>，并立即将自身和附近的舰队成员传送到指定的诱导信标。可以通过导管移动的舰船级别包括：护卫舰、驱逐舰、巡洋舰、战列巡洋舰和战列舰。
+```
+
+
+
+
+### MessageID: 144429 · Source Modified
+
+EN
+
+```diff
+- Our engineering scientists, working at our highly secure, clandestine R&D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
++ Our engineering scientists, working at our highly secure, clandestine R&amp;D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
+  Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
+  To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
+  So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
+```
+
+
+DE
+
+```text
+Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen neuen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarkes Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern
+(truncated, 2,124 chars total)
+```
+
+
+ES
+
+```text
+Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
+(truncated, 1,955 chars total)
+```
+
+
+FR
+
+```text
+Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
+(truncated, 2,121 chars total)
+```
+
+
+JA
+
+```text
+極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動艦は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は最強クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
+競合相手の一つがプロトタイプ遮蔽装置を盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽装置を、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
+この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい。このモデルは泥
+(truncated, 840 chars total)
+```
+
+
+KO
+
+```text
+근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
+(truncated, 940 chars total)
+```
+
+
+RU
+
+```text
+ Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
+(truncated, 1,696 chars total)
+```
+
+
+ZH
+
+```text
+我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
+我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
+基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
+(truncated, 552 chars total)
+```
+
+
+
+
+### MessageID: 144431 · Source Modified
+
+EN
+
+```diff
+- Our engineering scientists, working at our highly secure, clandestine R&D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
++ Our engineering scientists, working at our highly secure, clandestine R&amp;D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
+  Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
+  To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
+  So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
+```
+
+
+DE
+
+```text
+Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarke Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern kann, 
+(truncated, 2,116 chars total)
+```
+
+
+ES
+
+```text
+Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
+(truncated, 1,955 chars total)
+```
+
+
+FR
+
+```text
+Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
+(truncated, 2,121 chars total)
+```
+
+
+JA
+
+```text
+ 極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動用艦船は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は超強力クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
+競合相手の一つがプロトタイプ遮蔽デバイスを盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽デバイスを、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
+この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい
+(truncated, 849 chars total)
+```
+
+
+KO
+
+```text
+근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
+(truncated, 940 chars total)
+```
+
+
+RU
+
+```text
+ Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
+(truncated, 1,696 chars total)
+```
+
+
+ZH
+
+```text
+我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
+我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
+基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
+(truncated, 552 chars total)
+```
+
+
+
+
+### MessageID: 263203 · Source Modified
+
+EN
+
+```diff
+  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
+  
+- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
++ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
+  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
+  
+[…]
+```
+
+
+DE
+
+```text
+Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
+(truncated, 1,726 chars total)
+```
+
+
+ES
+
+```text
+Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
+
+
+
+Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
+(truncated, 1,717 chars total)
+```
+
+
+FR
+
+```text
+Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
+(truncated, 1,715 chars total)
+```
+
+
+JA
+
+```text
+攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
+
+
+
+これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
+
+さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
+
+
+
+注：
+
+‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
+
+‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
+
+‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
+
+- 攻
+(truncated, 625 chars total)
+```
+
+
+KO
+
+```text
+드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
+(truncated, 626 chars total)
+```
+
+
+RU
+
+```text
+Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость к воздейст
+(truncated, 1,460 chars total)
+```
+
+
+ZH
+
+```text
+一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
+
+
+
+这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
+
+另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
+
+
+
+注意： 
+
+- 会战装备需要锶包合物提供能量才能有效运行。 
+
+- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
+
+- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
+
+- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
+```
+
+
+
+
+### MessageID: 264044 · Source Modified
+
+EN
+
+```diff
+- One of our R&D facilities has been working hard to pr[…]
++ One of our R&amp;D facilities has been working hard to pr[…]
+```
+
+
+DE
+
+```text
+Eine unserer Forschungsanlagen arbeitet an der Entwicklung eines neuen Tarngeräts für bei verdeckten Operationen eingesetzte Schiffe, die es diesen Schiffen ermöglichen würde, ungetarnt zu bleiben, während sie durch Sternentore springen. Allerdings haben wir vor Kurzem erfahren, dass ein Spionageagent eines Konkurrenzunternehmens es aus offensichtlichen Gründen auf diese neue Technologie abgesehen hat. Um ihn aufspüren und verhaften zu können, müssen wir ihn auf frischer Tat erwischen. Daher bit
+(truncated, 845 chars total)
+```
+
+
+ES
+
+```text
+Una de nuestras instalaciones de I+D ha estado trabajando para producir un nuevo tipo de dispositivo de camuflaje para las naves de operaciones encubiertas que permitirá que permanezcan camufladas mientras atraviesan portales estelares. Sin embargo, hace poco nos hemos dado cuenta de que un agente de espionaje industrial enviado por una empresa rival tiene esta nueva tecnología en el punto de mira, por razones obvias. Sin embargo, para acabar con él y arrestarlo, tenemos que pillarlo con las man
+(truncated, 786 chars total)
+```
+
+
+FR
+
+```text
+Une de nos installations de R&D a travaillé d'arrache-pied pour mettre au point un nouveau type de dispositif de camouflage pour les vaisseaux des opérations secrètes qui leur permettra de rester invisibles pendant qu'ils franchissent les portails stellaires. Toutefois, nous avons appris récemment qu'un agent d'espionnage corporatif, envoyé par une société rivale, s'intéresse de très près à cette nouvelle technologie, pour des raisons évidentes. Si nous voulons pouvoir le débusquer et l'arrêter,
+(truncated, 914 chars total)
+```
+
+
+JA
+
+```text
+我々の R&D 施設の一つが、隠密行動艦船用に新しいタイプの遮蔽装置を作ろうと熱心に取り組んでいる。このデバイスにより、船は遮蔽されたままスターゲート間をジャンプできるようになる。ところがだ、最近寄せられた情報によると、ライバル会社によって送り込まれたコーポレーションスパイエージェントが、この新しいテクノロジーを狙っているらしい。理由は明白だ。そのスパイを暴き出し逮捕するには、現行犯で捕まえる必要がある。そこで、君には、おとりのプロトタイプ遮蔽装置を、このステーションから指定のステーションまで輸送して欲しい。これだけ興味をそそるターゲットだ。スパイは盗んでみようという気持ちを抑えられないというのはどこかにあるだろう。このデバイスは秘密裡にそのステーションに輸送する必要がある。
+```
+
+
+KO
+
+```text
+우리 연구개발 시설 중 한 곳에서 코버트 옵스 함선을 위한 새로운 유형의 클로킹 장치를 개발하기 위해 최선을 다하고 있답니다. 이 장치를 쓰면 스타게이트 간 이동 중에도 함선 클로킹이 가능하거든요. 하지만 최근에 경쟁사가 이 신기술을 노리고 코퍼레이션 스파이를 보냈지 뭡니까. 목적이야 뭐 뻔하죠. 녀석을 잡아서 쫓아내야 하는데 반드시 현장에서 놈을 체포해야만 합니다. 그러니 당신이 미끼용 프로토타입 클로킹 장치를 이 정거장에서 우리가 부탁한 목적지까지 갖다 줬으면 해요. 그렇게 탐스러운 먹잇감을 눈앞에 두면 녀석은 그걸 어떻게 해서든 훔치려고 움직일 테죠. 절대 기밀이 누설되는 일이 없도록 그 정거장까지 이 장치를 갖다 주셔야 합니다.
+```
+
+
+RU
+
+```text
+В одном из наших научно-производственных комплексов ведутся разработки новой системы маскировки для спецкораблей, которая позволит им оставаться замаскированными во время прыжка через звездные врата. Но нам недавно стало известно, что конкурирующая корпорация заслала к нам шпиона с целью украсть новую технологию. Чтобы обнаружить его и арестовать, надо поймать его с поличным. Поэтому мы просим вас перевезти фальшивый прототип системы маскировки с этой станции на другую, которую мы вам укажем. Мы
+(truncated, 719 chars total)
+```
+
+
+ZH
+
+```text
+我们的一个研发中心研制出了一种新型的隐形装置，可以使特勤舰船在穿越星门时一直保持隐形状态。但是，最近我们注意到，我们某个竞争对手派出的一个商业间谍盯上了这项新技术，他的意图不言而喻。我们要当场抓住他作案才可以逮捕他。所以，作为诱饵，我们要你将一套隐形装置从这里送往指定地点。那间谍一定会抵挡不住如此大的引诱而试图拿走它的。我们需要你将装置送往那个空间站并保持高度机密。
+```
+
+
+
+
+### MessageID: 545150 · Source Modified
+
+EN
+
+```diff
+- Payment for use of {itemTraderTypeID}.
++ Payment for use of {[item]arg1.name}.
+```
+
+
+DE
+
+```diff
+- Zahlung für die Verwendung von {itemTraderTypeID}.
++ Zahlung für die Verwendung von {[item]arg1.name}.
+```
+
+
+ES
+
+```diff
+- Pago por el uso de {itemTraderTypeID}.
++ Pago por el uso de {[item]arg1.name}.
+```
+
+
+FR
+
+```diff
+- Paiement pour l'utilisation de {itemTraderTypeID}.
++ Paiement pour l'utilisation de {[item]arg1.name}.
+```
+
+
+JA
+
+```diff
+- {itemTraderTypeID}の利用費
++ {[item]arg1.name}の利用費
+```
+
+
+KO
+
+```diff
+- {itemTraderTypeID} 사용 요금입니다.
++ {[item]arg1.name} 사용 요금입니다.
+```
+
+
+RU
+
+```diff
+- Плата за использование {itemTraderTypeID}.
++ Плата за использование {[item]arg1.name}.
+```
+
+
+ZH
+
+```diff
+- 使用{itemTraderTypeID}而支付的款项。
++ 使用{[item]arg1.name}而支付的款项。
+```
+
+
+
+
+### MessageID: 553391 · Source Modified
+
+EN
+
+```diff
+- HyperNet offer created.
++ HyperNet offer created
+```
+
+
+DE
+
+```text
+HyperNet-Angebot erstellt.
+```
+
+
+ES
+
+```text
+Oferta de HyperNet creada
+```
+
+
+FR
+
+```text
+Offre Hypernet créée.
+```
+
+
+JA
+
+```text
+ハイパーネットオファーが作成されました
+```
+
+
+KO
+
+```text
+하이퍼넷 오퍼 생성
+```
+
+
+RU
+
+```text
+Создано предложение гиперсети.
+```
+
+
+ZH
+
+```text
+超网订单已创建。
+```
+
+
+
+
+### MessageID: 569975 · Source Modified
+
+EN
+
+```diff
+  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
+  
+- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
++ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
+  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
+  
+[…]
+```
+
+
+DE
+
+```text
+Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
+(truncated, 1,719 chars total)
+```
+
+
+ES
+
+```text
+Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
+
+
+
+Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
+(truncated, 1,717 chars total)
+```
+
+
+FR
+
+```text
+Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
+(truncated, 1,713 chars total)
+```
+
+
+JA
+
+```text
+攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
+
+
+
+これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
+
+さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
+
+
+
+注：
+
+‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
+
+‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
+
+‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
+
+- 攻
+(truncated, 625 chars total)
+```
+
+
+KO
+
+```text
+드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
+(truncated, 626 chars total)
+```
+
+
+RU
+
+```text
+Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
+(truncated, 1,503 chars total)
+```
+
+
+ZH
+
+```text
+一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
+
+
+
+这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
+
+另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
+
+
+
+注意： 
+
+- 会战装备需要锶包合物提供能量才能有效运行。 
+
+- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
+
+- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
+
+- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
+```
+
+
+
+
+### MessageID: 570550 · Source Modified
+
+EN
+
+```diff
+- Payment for use of {itemTraderTypeID}.
++ Payment for use of {[item]arg1.name}.
+```
+
+
+DE
+
+```diff
+- Zahlung für die Verwendung von {itemTraderTypeID}.
++ Zahlung für die Verwendung von {[item]arg1.name}.
+```
+
+
+ES
+
+```diff
+- Pago por el uso de {itemTraderTypeID}.
++ Pago por el uso de {[item]arg1.name}.
+```
+
+
+FR
+
+```diff
+- Paiement pour l'utilisation de {itemTraderTypeID}.
++ Paiement pour l'utilisation de {[item]arg1.name}.
+```
+
+
+JA
+
+```diff
+- {itemTraderTypeID}の利用費
++ {[item]arg1.name}の利用費
+```
+
+
+KO
+
+```diff
+- {itemTraderTypeID} 사용 요금입니다.
++ {[item]arg1.name} 사용 요금입니다.
+```
+
+
+RU
+
+```diff
+- Плата за использование {itemTraderTypeID}.
++ Плата за использование {[item]arg1.name}.
+```
+
+
+ZH
+
+```diff
+- 使用{itemTraderTypeID}而支付的款项。
++ 使用{[item]arg1.name}而支付的款项。
+```
+
+
+
+
+### MessageID: 589175 · Translation Modified
+
+EN
+
+```text
+A prototype medium combat drone designed by Mordu’s Legion.
+```
+
+
+DE
+
+```diff
+- <i>„‚Hunde dürfen von der Armee als Wachposten, zur Aufklärung, zum Jagen und zur Überwachung der Tierherden, die der Versorgung der Armee dienen, eingesetzt werden. Der Einsatz von Hunden im offenen Kampf ist, unabhängig von der Art und Weise, in der der Feind diese Tiere einsetzt, verboten.‘ Ich schätze, Rouvenor hatte ein Herz für Hunde, vielleicht konnte er sie aber auch einfach nicht ausstehen. Um ehrlich zu sein, bin ich selbst ein wenig zwiegespalten, wenn es darum geht, im Krieg etwas anderes als Menschen einzusetzen. Tieren oder Robotern die Verantwortung für einen Teil einer Operation zu übertragen, egal wie klein dieser sein mag, stellt für mich ein zu großes Risiko dar. Das Risiko, dass Menschen außer Kontrolle geraten, ist mir schon groß genug. Bei einer Lenkwaffe ist es wenigstens beabsichtigt, dass sie auch explodiert. Dass Drohnen und dergleichen durchaus sinnvoll eingesetzt werden können, lasse ich Ihnen.“</i> – Muryia Mordu zu den Kriegspositionen von dos Rouvenor
++ Der Prototyp einer mittelgroßen Kampfdrohne, entworfen von Mordus Legion.
+```
+
+
+ES
+
+```diff
+- <i>«"Los ejércitos a veces usan perros como centinelas, para explorar y cazar o para controlar sus rebaños de reses para comida. Sin embargo, su despliegue en combate abierto está prohibido, independientemente de los usos que los enemigos puedan hacer de estas bestias". 
+- 
+- 
+- 
+- Supongo que a Rouvenor le gustaban los perros, o quizá no. Sinceramente, no estoy del todo de acuerdo con usar nada que no sean humanos para la guerra. Poner parte de una operación, por pequeña que sea, en manos de un animal o un robot incrementa el riesgo más de lo que me gustaría. La mera posibilidad de que los propios humanos se rebelen ya me parece suficiente riesgo. Al fin y al cabo, con un misil todo explota, misil incluido. Aun así, debo admitir que los drones también tienen sus ventajas».</i>
+- 
+- 
+- 
+- — Muryia Mordu, citando los Comentarios de guerra de dos Rouvenor.
++ Un prototipo de dron de combate mediano diseñado por la Legión de Mordu.
+```
+
+
+FR
+
+```diff
+- <i>« "Il se peut que l'armée utilise des chiens comme sentinelles, pour servir d'éclaireurs, pour chasser et pour contrôler les troupeaux d'animaux de l'armée destinés à être mangés. L'utilisation de chiens en conflit ouvert est interdite, quelle que soit la raison pour laquelle ces animaux peuvent être utilisés." J'imagine que Rouvenor aimait les chiens, ou alors il ne les aimait pas du tout. Pour être honnête, je suis moi-même un peu partagé quant à l'utilisation d'autre chose que des êtres humains dans une guerre. Laisser la responsabilité d'une partie d'une opération, importante ou pas, à un animal ou à un robot me semble trop risqué. Le risque que des humains se rebellent est déjà bien assez élevé, si vous voulez mon avis. Au moins avec un missile, nous sommes sûrs qu'il explose aussi. Mais je dois reconnaître que les drones ont leur utilité. »</i> – Muryia Mordu, citation tirée des Commentaires de Guerre de dos Rouvenor
++ Un prototype de drone de combat intermédiaire conçu par la Légion Mordu.
+```
+
+
+JA
+
+```diff
+- <i>「軍隊では、犬を歩哨として、偵察、狩猟、食用動物の管理などに利用することができる。敵がそのような獣を利用する可能性があるかどうかにかかわらず、公開戦闘における犬の利用は禁止されている。」 
+- 
+- 
+- 
+- 「思うに、ルーヴェノーは犬が好きだったのだろう。あるいは酷く嫌っていたのかもしれない。正直なところ、私自身、人間以外のものを戦争に使うことには少し抵抗がある。どんなに小さな作業でも、部分的に動物やロボットに制御を任せることで、リスクの範囲が思った以上に広がるからだ。私に言わせれば、人間が暴れるだけでも十分にリスクがある。少なくともミサイルを持っていれば自爆する。とはいえ、ドローンのようなものにも使い道があることは認めよう。」</i>
+- 
+- 
+- 
+- - ムルイア・モードゥによる、ド・ルーヴェノーの戦争回顧録の引用
++ モードゥ部隊が設計した中型戦闘ドローンのプロトタイプ。
+```
+
+
+KO
+
+```diff
+- <i>"'군견은 보초, 정찰, 사냥, 그리고 가축을 통제하는 등 다양한 작업에 활용할 수 있다. 하지만 군견을 전장에 투입하는 것은 허용할 수 없다. 이 규칙은 적이 전장에 군견을 투입해도 변하지 않는다.'<br><br>"루베너는 개를 참 좋아했거나, 싫어했거나 둘 중 하나일 것 같네요. 물론 저도 인간이 아닌 존재를 전투에 투입하는 건 반대해요. 작전을 진행할 때, 크기와는 상관없이 동물이나 로봇을 투입하면 그만큼 위험 부담이 커지거든요. 솔직히 사람들을 통제하는 것만으로도 벅차요. 미사일은 터지기만 하면 제 역할이라도 하죠... 뭐 그래도 드론은 확실히 쓸모가 있는 것 같긴 해요."</i><br><br>- 무리야 모르두, 도스 루베너 전술서에서 인용문 발췌
++ 모르두 군단이 설계한 중형 전투 드론 프로토타입입니다.
+```
+
+
+RU
+
+```diff
+- <i>«„В армии собак используют в качестве часовых, для разведки, для охоты и для присмотра за армейскими стадами. Участие собак в открытом бою запрещено, независимо от того, как враг использует этих зверей‟. Я полагаю, Рувенор любил собак. Хотя вполне может быть, что он их сильно ненавидел. Честно говоря, у меня нет сложившегося мнения о том, можно ли использовать для ведения войны каких-либо живых существ помимо людей. Передавать даже малую часть ответственности за операцию животному или машине слишком рискованно. Как по мне, отбившиеся от рук люди — это уже достаточный риск. Выпущенный снаряд, по крайней мере, уничтожает сам себя. Но, конечно же, такие штуки, как дроны, могут быть весьма полезны».</i> — Мурия Морду, комментарий к цитате из «Заметок о войне» дос Рувенора
++ Прототип боевого дрона среднего размера, разработанный Легионом Морду.
+```
+
+
+ZH
+
+```diff
+- <i>“哨兵可以使用军犬来侦察、打猎、或者控制敌军的肉用牲畜数量。禁止在战争中使用犬类，即使敌军可能使用也不行” 
+- 
+- 
+- 
+- “我猜洛维诺国王喜欢狗，但也可能非常痛恨它们。实话实说，我对在战争中使用除人类以外的生物持模棱两可的态度。即使在很小的行动中使用动物或机器人也会带来我不愿承受的风险。要问我原因的话，我只能说人类就够不受控制的了。使用导弹就没关系，它总会爆炸的。当然，无人机这类东西还是有用的。”</i>
+- 
+- 
+- 
+- – 穆瑞亚·莫德，援引洛维诺国王的战争评论
++ 由莫德团设计的一款中型战斗无人机原型。
+```
+
+
+
+
+### MessageID: 710092 · Source Modified
+
+EN
+
+```diff
+[…]
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Game Design Director :</b></td>
++         <td width=325 align=right><b>Game Design Director:</b></td>
+          <td>Adam Board</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Game Designer :</b></td>
+-         <td>Anthony Massey</td>
++         <td width=325 align=right><b>Creative Lead:</b></td>
++         <td>Jamie Stanton</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Technical Designer :</b></td>
++         <td width=325 align=right><b>Lead Gameplay Designer:</b></td>
++         <td>Peter Griffin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Game Designer:</b></td>
++         <td>Christiaan Jones</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Technical Designer:</b></td>
+          <td>Bryan Malloroy</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Level Designer :</b></td>
+-         <td>Jesse Holcroft</td>
++         <td width=325 align=right><b>Systems Designer:</b></td>
++         <td>Richard Driscoll</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Level Designer :</b></td>
++         <td width=325 align=right><b>Lead Level Designer:</b></td>
++         <td>Jarek Szymanski</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Level Designer:</b></td>
+          <td>Tyler Lamon</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead UI/UX Designer :</b></td>
++         <td width=325 align=right><b>Lead UI/UX Designer:</b></td>
+          <td>Ryan Last-Harris</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior UI/UX Designers :</b></td>
+-         <td>Jacob Jensen, Sierra Lorenzini</td>
++         <td width=325 align=right><b>Senior UI/UX Designers:</b></td>
++         <td>Sierra Lorenzini</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Systems Designer :</b></td>
+-         <td>Richard Driscoll</td>
++         <td width=325 align=right><b>Senior UI/UX Technical Designer:</b></td>
++         <td>Jacob Jensen</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>UI Artist :</b></td>
++         <td width=325 align=right><b>Senior UI Artist:</b></td>
+          <td>Mathieu Bijuk</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Narrative Experience Designer :</b></td>
+-         <td>Jamie Stanton</td>
++         <td width=325 align=right><b>Narrative Design:</b></td>
++         <td>Alastair Lavery, Madeleine Jay</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Engineering</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Technical Director :</b></td>
++         <td width=325 align=right><b>Technical Director:</b></td>
+          <td>Tom Woodhead</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Backend Engineer :</b></td>
++         <td width=325 align=right><b>Lead Backend Engineer:</b></td>
+          <td>Alex Rudd</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Backend Engineers :</b></td>
+-         <td>Hannah Dawson, Kurtis Lamb</td>
++         <td width=325 align=right><b>Principal Backend Engineer:</b></td>
++         <td>Kurtis Lamb</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate Backend Engineer :</b></td>
++         <td width=325 align=right><b>Senior Backend Engineer:</b></td>
++         <td>Hannah Dawson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate Backend Engineer:</b></td>
+          <td>Irina Fratila</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>Lead Gameplay Engineer:</b></td>
+          <td>Alick Goldenberg</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>Principal Gameplay Engineer:</b></td>
+          <td>Victor Macho</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Gameplay Engineers :</b></td>
++         <td width=325 align=right><b>Senior Gameplay Engineers:</b></td>
+          <td>Jury Verrigni, Raul Gernaert</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>Senior Animation Gameplay Engineer:</b></td>
++         <td>Miquel Cunill</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Gameplay Engineer:</b></td>
+          <td>Ortwin Van der Stappen</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead UI Engineer :</b></td>
++         <td width=325 align=right><b>Lead UI Engineer:</b></td>
+          <td>Dominic Curry</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior UI Engineer :</b></td>
++         <td width=325 align=right><b>Senior UI Engineer:</b></td>
+          <td>Charlie Marshall</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>UI Engineer :</b></td>
++         <td width=325 align=right><b>UI Engineer:</b></td>
+          <td>Rhys Theckston</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Core Tech Engineer :</b></td>
++         <td width=325 align=right><b>UI Engineering Intern:</b></td>
++         <td>Franklin Mathurin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Core Tech Engineer:</b></td>
+          <td>Alistair Forbes</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Rendering Engineer :</b></td>
++         <td width=325 align=right><b>Lead Rendering Engineer:</b></td>
+          <td>Jared Belkus</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Rendering Engineer :</b></td>
++         <td width=325 align=right><b>Rendering Engineer:</b></td>
+          <td>Sam Smith</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Audio Programmer :</b></td>
++         <td width=325 align=right><b>Principal Audio Programmer:</b></td>
+          <td>David Pituk</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead AI Engineer :</b></td>
++         <td width=325 align=right><b>Lead AI Engineer:</b></td>
+          <td>Nick Davies</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>AI Gameplay Engineer :</b></td>
++         <td width=325 align=right><b>AI Gameplay Engineer:</b></td>
+          <td>Aria Jonsdottir</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Build Engineer:</b></td>
++         <td>Ayran Olckers</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Art</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Art Director :</b></td>
+-         <td>Ben Cottage</td>
++         <td width=325 align=right><b>Lead Artist:</b></td>
++         <td>David Sibbe</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Concept Artist :</b></td>
++         <td width=325 align=right><b>Senior Environment Artists:</b></td>
++         <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Environment Artist:</b></td>
++         <td>Daria Odnorogova</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Weapons Artist:</b></td>
++         <td>Vladyslav Tkachuk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Concept Artist:</b></td>
+          <td>Jon Dunham</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Concept Artist :</b></td>
++         <td width=325 align=right><b>Senior Character Concept Artist:</b></td>
++         <td>Tom McDowell</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Concept Artist:</b></td>
+          <td>Chloe Harrison</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior VFX Artist :</b></td>
++         <td width=325 align=right><b>Senior VFX Artist:</b></td>
+          <td>Davide Fortunato</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lighting Artist :</b></td>
++         <td width=325 align=right><b>Lighting Artist:</b></td>
+          <td>Zach Hewett</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Environment Artists :</b></td>
+-         <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td>
+-     </tr>
+-     <tr VALIGN="top">
+-         <td width=325 align=right><b>Environment Artist :</b></td>
+-         <td>Daria Odnorogova</td>
+-     </tr>
+-     <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Technical Artist :</b></td>
++         <td width=325 align=right><b>Lead Technical Artist:</b></td>
+          <td>Hrafnhildur Anna Bjornsdottir</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Technical Artists :</b></td>
++         <td width=325 align=right><b>Senior Technical Artist:</b></td>
+          <td>Lukas Boonen, Árni Berúlfur Jónsson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Technical Artists :</b></td>
++         <td width=325 align=right><b>Technical Artist:</b></td>
+          <td>Peter Skager, Amritha Immaneni</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate Technical Artist :</b></td>
++         <td width=325 align=right><b>Associate Technical Artist:</b></td>
+          <td>Daniela Flores</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Animator :</b></td>
++         <td width=325 align=right><b>Lead Character Artist:</b></td>
++         <td>Louie Ishii</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Character Artist:</b></td>
++         <td>Jakob Falkenberg</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Animator:</b></td>
+          <td>Maurizio Ramanzin</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Principal Character Artist :</b></td>
+-         <td>Seth Nash</td>
++         <td width=325 align=right><b>Senior Animator:</b></td>
++         <td>Óðinn Árnason</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Sound</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Lead Sound Designer :</b></td>
++         <td width=325 align=right><b>Lead Sound Designer:</b></td>
+          <td>Alexis Mavropoulos</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>VO Artists :</b></td>
+-         <td>Hrafnhildur Anna Bjornsdottir, Alastair Lavery, Bryan Malloroy, Alexis Mavropoulos</td>
++         <td width=325 align=right><b>VO Artists:</b></td>
++         <td>Bryan Malloroy, Alexis Mavropoulos</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Production</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Executive Producer :</b></td>
++         <td width=325 align=right><b>Executive Producer:</b></td>
+          <td>Snorri Árnason</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Head of Production :</b></td>
++         <td width=325 align=right><b>Head of Production:</b></td>
+          <td>David Ecker</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Creative Director :</b></td>
++         <td width=325 align=right><b>Creative Director:</b></td>
+          <td>Bergur Finnbogason</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Game Director :</b></td>
++         <td width=325 align=right><b>Game Director:</b></td>
+          <td>Scott Davis</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Development Director :</b></td>
++         <td width=325 align=right><b>Development Director:</b></td>
+          <td>David Thompson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Strategist :</b></td>
++         <td width=325 align=right><b>Senior Strategist:</b></td>
+          <td>Sahil Gupta</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Producer :</b></td>
++         <td width=325 align=right><b>Senior Producer:</b></td>
+          <td>Stijn Vervaet</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Producer :</b></td>
+-         <td>Isabel Foley</td>
+-     </tr>
+-     <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate Producer :</b></td>
+-         <td>Aleksandra Anna Stawirej</td>
++         <td width=325 align=right><b>Producer:</b></td>
++         <td>Isabel Foley, Alisa Krois</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Quality Assurance &amp; Player Experience</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>QA Lead :</b></td>
++         <td width=325 align=right><b>QA Lead:</b></td>
+          <td>Edward Haines</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>QA Analyst :</b></td>
++         <td width=325 align=right><b>QA Analyst:</b></td>
+          <td>Alastair Lavery</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Associate QA Analyst :</b></td>
++         <td width=325 align=right><b>Associate QA Analyst:</b></td>
+          <td>Madeleine Jay</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Project Manager :</b></td>
++         <td width=325 align=right><b>FQA Project Manager:</b></td>
+          <td>Mayur Sindhwani</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Leads :</b></td>
+-         <td>Dawid Kołaczuch, Daniel Osman, Wiktoria Brania, Marta Chmielewska</td>
++         <td width=325 align=right><b>FQA Lead:</b></td>
++         <td>Marta Chmielewska</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Associate Lead :</b></td>
+-         <td>Aleksander Macioł</td>
++         <td width=325 align=right><b>FQA Associate Lead:</b></td>
++         <td>Aleksander Macioł, Paweł Łaskowski</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>FQA Testers :</b></td>
+-         <td>Igor Dobrowolski, Mateusz Dutka, Weronika Durczok, Daria Kurpanik, Patryk Pałęga, Patrycja Szustak,
+-             Kamil Mróz, Mateusz Kurlandt, Wojciech Romańczyk, Magdalena Pałandziuch, Magdalena Łatka, Michał Szustak,
+-             Bartosz Czapla, Stanisław Stanek, Anna Zganiacz, Dariusz Tutak, Jakub Matyaszczyk, Szymon Kochanowski</td>
++         <td width=325 align=right><b>FQA Testers:</b></td>
++         <td>Igor Dobrowolski, Anna Zganiacz, Antoni Sowiński, Michał Derda, Patryk Ciupka, Tomasz Janczak, Marcin Karbowniczek</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Project Managers of Player Experience :</b></td>
++         <td width=325 align=right><b>Project Managers of Player Experience:</b></td>
+          <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Player Support Specialists :</b></td>
++         <td width=325 align=right><b>Player Support Specialists:</b></td>
+          <td>Sharon Fiedler, Diedrich Ohlandt</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Managers :</b></td>
+-         <td>Guðmundur Freyr Matthíasson, Paulo Rockenbach</td>
++         <td width=325 align=right><b>5CA Managers:</b></td>
++         <td>Guðmundur Freyr Matthíasson</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Team Leads :</b></td>
++         <td width=325 align=right><b>5CA Team Leads:</b></td>
+          <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Support Game Masters :</b></td>
+-         <td>Abd ElRahman Shehabeldin, Abhista Pratama, Adrian Vazquez, Ammar Yasser, Amrane Larbi, Brayhan
+-             Rodriquez, Edward Turrall, Ferney Edilson Ramos Rojas, Garth Holmes, Hiba Wahhabi, Jaques Durand,
+-             Jorge Sikorsky, Jose Bernal, Juan Angelo Pasquin, Juan Jose Rojas Franco, Mihail Munteanu, Nada Shaaban,
+-             Nikola Trnavcevic, Norvin Manalang, Oksana Rudenko, Rajiv Pinera, Sergei Pavlov, Shaun Joyce, Vu Ngo</td>
++         <td width=325 align=right><b>5CA Support Game Masters:</b></td>
++         <td>Amrane Larbi, Sergei Pavlov, Leandro Serrano, Edward Turrall</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>5CA Outreach Game Masters :</b></td>
+-         <td>Edgar Morales, Eduardo Reyes, Endrio Lima, Rodrigo Oliveira</td>
++         <td width=325 align=right><b>5CA Outreach Game Masters:</b></td>
++         <td>Endrio Lima</td>
+      </tr>
+  </table>
+  
+- <br>
+  <h3>Data &amp; Analytics</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Senior Data Scientist :</b></td>
++         <td width=325 align=right><b>Senior Data Scientist:</b></td>
+          <td>Julia Elisabeth Haidn</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Data Scientist :</b></td>
++         <td width=325 align=right><b>Data Scientist:</b></td>
+          <td>Kajetan Sygula</td>
+      </tr>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>Data Engineer :</b></td>
++         <td width=325 align=right><b>Data Engineer:</b></td>
+          <td>Daníel Fannar Guðmundsson</td>
+      </tr>
+  </table>
+  
+- <br>
+- <h3>With Thanks</h3>
++ <h3>IT Operations</h3>
+  <hr>
+  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+      <tr VALIGN="top">
+-         <td width=325 align=right><b>With Thanks :</b></td>
+-         <td>Abi Hunt, Alan Hinchcliffe, Alec McSweeney, Aleksei Borovkov, Andreas Thomas, Carlos Ulloa, Cyrill
+-             Vitkovskiy, Dennis Lukat, Dominic Wright, Elena Diana Sfecla, Guilherme Carvalho, Jacopo Ascioni,
+-             James Cook, Jordan Blake, Liam Phillips, Luke Timms, Martin Baadsgaard, Matt James, Nicole Munro,
+-             Ovidiu Vasilescu, Phil Rowe, Pod O'Donnell, Robin Fencott, Sam Bromley, Suneil Aujla, Thomas Johnson,
+-             Tom Marcham, Tyler Sharpe, Viktor Demishev, Wojciech Szon, Adam Pugh, Denimira Deneva, Hector Mateo Pino,
+-             Krzysztof Luzny, Leonid Dudakov, Robert Hayes, Tom Jackson, Tom Savage, Tom Gandale, Vanessa Boelke,
+-             Gregory Allen Edwards, Gerard Lehiany, Nicholas Antonucci, Cristian Soriano, Tomasz Snopek, Neil Kaminski,
+-             Craig Harrison, Stuart Dodman, Sofia Galanopoulou, Marcus Michael, Jolin (Ya En) Lee, Gavin Skinner,
+-             Paris Moschovitis, Elliot Prior, Leonardo Calamati, Peter Hedge, Sherif Amer</td>
++         <td width=325 align=right><b>IT and Security Manager:</b></td>
++         <td>Ólafur Guðmundsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Solutions Architect:</b></td>
++         <td>Andy Perkins</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior System Administrator:</b></td>
++         <td>Andrew McCormack</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>System Administrators:</b></td>
++         <td>Adam Murphy, Róbert Steinar Tómasson, Ísold Aðalheiður Hoffmann</td>
+      </tr>
+  </table>
++ 
++ <h3>Publishing</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Director of Growth:</b></td>
++         <td>Anna Kozko</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Community Developer:</b></td>
++         <td>Neil Gorton</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Content Creator:</b></td>
++         <td>Muhammad Hadi</td>
++     </tr>
++ </table>
+```
+
+
+DE
+
+```diff
+- <h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Level Designer :</b></td> <td>Jesse Holcroft</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Level Designer :</b></td> <td>Tyler Lamon</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead UI/UX Designer :</b></td> <td>Ryan Last-Harris</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior UI/UX Designers :</b></td> <td>Jacob Jensen, Sierra Lorenzini</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Systems Designer :</b></td> <td>Richard Driscoll</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>UI Artist :</b></td> <td>Mathieu Bijuk</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Narrative Experience Designer :</b></td> <td>Jamie Stanton</td> </tr> </table> <br> <h3>Engineering</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Technical Director :</b></td> <td>Tom Woodhead</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Backend Engineer :</b></td> <td>Alex Rudd</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Backend Engineers :</b></td> <td>Hannah Dawson, Kurtis Lamb</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Backend Engineer :</b></td> <td>Irina Fratila</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Gameplay Engineer :</b></td> <td>Alick Goldenberg</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Gameplay Engineer :</b></td> <td>Victor Macho</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Gameplay Engineers :</b></td> <td>Jury Verrigni, Raul Gernaert</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Gameplay Engineer :</b></td> <td>Ortwin Van der Stappen</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead UI Engineer :</b></td> <td>Dominic Curry</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior UI Engineer :</b></td> <td>Charlie Marshall</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>UI Engineer :</b></td> <td>Rhys Theckston</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Core Tech Engineer :</b></td> <td>Alistair Forbes</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Rendering Engineer :</b></td> <td>Jared Belkus</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Rendering Engineer :</b></td> <td>Sam Smith</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Audio Programmer :</b></td> <td>David Pituk</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead AI Engineer :</b></td> <td>Nick Davies</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>AI Gameplay Engineer :</b></td> <td>Aria Jonsdottir</td> </tr> </table> <br> <h3>Art</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Art Director :</b></td> <td>Ben Cottage</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Concept Artist :</b></td> <td>Jon Dunham</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Concept Artist :</b></td> <td>Chloe Harrison</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior VFX Artist :</b></td> <td>Davide Fortunato</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lighting Artist :</b></td> <td>Zach Hewett</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Environment Artists :</b></td> <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Environment Artist :</b></td> <td>Daria Odnorogova</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Technical Artist :</b></td> <td>Hrafnhildur Anna Bjornsdottir</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Artists :</b></td> <td>Lukas Boonen, Árni Berúlfur Jónsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Artists :</b></td> <td>Peter Skager, Amritha Immaneni</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Technical Artist :</b></td> <td>Daniela Flores</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Animator :</b></td> <td>Maurizio Ramanzin</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Character Artist :</b></td> <td>Seth Nash</td> </tr> </table> <br> <h3>Sound</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Lead Sound Designer :</b></td> <td>Alexis Mavropoulos</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>VO Artists :</b></td> <td>Hrafnhildur Anna Bjornsdottir, Alastair Lavery, Bryan Malloroy, Alexis Mavropoulos</td> </tr> </table> <br> <h3>Production</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Executive Producer :</b></td> <td>Snorri Árnason</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Head of Production :</b></td> <td>David Ecker</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Creative Director :</b></td> <td>Bergur Finnbogason</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Game Director :</b></td> <td>Scott Davis</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Development Director :</b></td> <td>David Thompson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Strategist :</b></td> <td>Sahil Gupta</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Producer :</b></td> <td>Stijn Vervaet</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Producer :</b></td> <td>Isabel Foley</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Producer :</b></td> <td>Aleksandra Anna Stawirej</td> </tr> </table> <br> <h3>Quality Assurance &amp; Player Experience</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>QA Lead :</b></td> <td>Edward Haines</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>QA Analyst :</b></td> <td>Alastair Lavery</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate QA Analyst :</b></td> <td>Madeleine Jay</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Project Manager :</b></td> <td>Mayur Sindhwani</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Leads :</b></td> <td>Dawid Kołaczuch, Daniel Osman, Wiktoria Brania, Marta Chmielewska</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Associate Lead :</b></td> <td>Aleksander Macioł</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Testers :</b></td> <td>Igor Dobrowolski, Mateusz Dutka, Weronika Durczok, Daria Kurpanik, Patryk Pałęga, Patrycja Szustak, Kamil Mróz, Mateusz Kurlandt, Wojciech Romańczyk, Magdalena Pałandziuch, Magdalena Łatka, Michał Szustak, Bartosz Czapla, Stanisław Stanek, Anna Zganiacz, Dariusz Tutak, Jakub Matyaszczyk, Szymon Kochanowski</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Project Managers of Player Experience :</b></td> <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Player Support Specialists :</b></td> <td>Sharon Fiedler, Diedrich Ohlandt</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Managers :</b></td> <td>Guðmundur Freyr Matthíasson, Paulo Rockenbach</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Team Leads :</b></td> <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Support Game Masters :</b></td> <td>Abd ElRahman Shehabeldin, Abhista Pratama, Adrian Vazquez, Ammar Yasser, Amrane Larbi, Brayhan Rodriquez, Edward Turrall, Ferney Edilson Ramos Rojas, Garth Holmes, Hiba Wahhabi, Jaques Durand, Jorge Sikorsky, Jose Bernal, Juan Angelo Pasquin, Juan Jose Rojas Franco, Mihail Munteanu, Nada Shaaban, Nikola Trnavcevic, Norvin Manalang, Oksana Rudenko, Rajiv Pinera, Sergei Pavlov, Shaun Joyce, Vu Ngo</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Outreach Game Masters :</b></td> <td>Edgar Morales, Eduardo Reyes, Endrio Lima, Rodrigo Oliveira</td> </tr> </table> <br> <h3>Data &amp; Analytics</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Data Scientist :</b></td> <td>Julia Elisabeth Haidn</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Data Scientist :</b></td> <td>Kajetan Sygula</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Data Engineer :</b></td> <td>Daníel Fannar Guðmundsson</td> </tr> </table> <br> <h3>Dank an</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Dank an :</b></td> <td>Abi Hunt, Alan Hinchcliffe, Alec McSweeney, Aleksei Borovkov, Andreas Thomas, Carlos Ulloa, Cyrill Vitkovskiy, Dennis Lukat, Dominic Wright, Elena Diana Sfecla, Guilherme Carvalho, Jacopo Ascioni, James Cook, Jordan Blake, Liam Phillips, Luke Timms, Martin Baadsgaard, Matt James, Nicole Munro, Ovidiu Vasilescu, Phil Rowe, Pod O'Donnell, Robin Fencott, Sam Bromley, Suneil Aujla, Thomas Johnson, Tom Marcham, Tyler Sharpe, Viktor Demishev, Wojciech Szon, Adam Pugh, Denimira Deneva, Hector Mateo Pino, Krzysztof Luzny, Leonid Dudakov, Robert Hayes, Tom Jackson, Tom Savage, Tom Gandale, Vanessa Boelke, Gregory Allen Edwards, Gerard Lehiany, Nicholas Antonucci, Cristian Soriano, Tomasz Snopek, Neil Kaminski, Craig Harrison, Stuart Dodman, Sofia Galanopoulou, Marcus Michael, Jolin (Ya En) Lee, Gavin Skinner, Paris Moschovitis, Elliot Prior, Leonardo Calamati, Peter Hedge, Sherif Amer</td> </tr> </table>
++ <h2>EVE Vanguard Development Team</h2>
++ <br>
++ <h3>Game Design</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Game Design Director:</b></td>
++         <td>Adam Board</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Creative Lead:</b></td>
++         <td>Jamie Stanton</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Gameplay Designer:</b></td>
++         <td>Peter Griffin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Game Designer:</b></td>
++         <td>Christiaan Jones</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Technical Designer:</b></td>
++         <td>Bryan Malloroy</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Systems Designer:</b></td>
++         <td>Richard Driscoll</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Level Designer:</b></td>
++         <td>Jarek Szymanski</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Level Designer:</b></td>
++         <td>Tyler Lamon</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead UI/UX Designer:</b></td>
++         <td>Ryan Last-Harris</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI/UX Designers:</b></td>
++         <td>Sierra Lorenzini</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI/UX Technical Designer:</b></td>
++         <td>Jacob Jensen</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI Artist:</b></td>
++         <td>Mathieu Bijuk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Narrative Design:</b></td>
++         <td>Alastair Lavery, Madeleine Jay</td>
++     </tr>
++ </table>
++ 
++ <h3>Engineering</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Technical Director:</b></td>
++         <td>Tom Woodhead</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Backend Engineer:</b></td>
++         <td>Alex Rudd</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Backend Engineer:</b></td>
++         <td>Kurtis Lamb</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Backend Engineer:</b></td>
++         <td>Hannah Dawson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate Backend Engineer:</b></td>
++         <td>Irina Fratila</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Gameplay Engineer:</b></td>
++         <td>Alick Goldenberg</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Gameplay Engineer:</b></td>
++         <td>Victor Macho</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Gameplay Engineers:</b></td>
++         <td>Jury Verrigni, Raul Gernaert</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Animation Gameplay Engineer:</b></td>
++         <td>Miquel Cunill</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Gameplay Engineer:</b></td>
++         <td>Ortwin Van der Stappen</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead UI Engineer:</b></td>
++         <td>Dominic Curry</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior UI Engineer:</b></td>
++         <td>Charlie Marshall</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>UI Engineer:</b></td>
++         <td>Rhys Theckston</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>UI Engineering Intern:</b></td>
++         <td>Franklin Mathurin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Core Tech Engineer:</b></td>
++         <td>Alistair Forbes</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Rendering Engineer:</b></td>
++         <td>Jared Belkus</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Rendering Engineer:</b></td>
++         <td>Sam Smith</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Audio Programmer:</b></td>
++         <td>David Pituk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead AI Engineer:</b></td>
++         <td>Nick Davies</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>AI Gameplay Engineer:</b></td>
++         <td>Aria Jonsdottir</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Build Engineer:</b></td>
++         <td>Ayran Olckers</td>
++     </tr>
++ </table>
++ 
++ <h3>Art</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Artist:</b></td>
++         <td>David Sibbe</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Environment Artists:</b></td>
++         <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Environment Artist:</b></td>
++         <td>Daria Odnorogova</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Weapons Artist:</b></td>
++         <td>Vladyslav Tkachuk</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Concept Artist:</b></td>
++         <td>Jon Dunham</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Character Concept Artist:</b></td>
++         <td>Tom McDowell</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Concept Artist:</b></td>
++         <td>Chloe Harrison</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior VFX Artist:</b></td>
++         <td>Davide Fortunato</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lighting Artist:</b></td>
++         <td>Zach Hewett</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Technical Artist:</b></td>
++         <td>Hrafnhildur Anna Bjornsdottir</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Technical Artist:</b></td>
++         <td>Lukas Boonen, Árni Berúlfur Jónsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Technical Artist:</b></td>
++         <td>Peter Skager, Amritha Immaneni</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate Technical Artist:</b></td>
++         <td>Daniela Flores</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Character Artist:</b></td>
++         <td>Louie Ishii</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Character Artist:</b></td>
++         <td>Jakob Falkenberg</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Principal Animator:</b></td>
++         <td>Maurizio Ramanzin</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Animator:</b></td>
++         <td>Óðinn Árnason</td>
++     </tr>
++ </table>
++ 
++ <h3>Sound</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Lead Sound Designer:</b></td>
++         <td>Alexis Mavropoulos</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>VO Artists:</b></td>
++         <td>Bryan Malloroy, Alexis Mavropoulos</td>
++     </tr>
++ </table>
++ 
++ <h3>Production</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Executive Producer:</b></td>
++         <td>Snorri Árnason</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Head of Production:</b></td>
++         <td>David Ecker</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Creative Director:</b></td>
++         <td>Bergur Finnbogason</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Game Director:</b></td>
++         <td>Scott Davis</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Development Director:</b></td>
++         <td>David Thompson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Strategist:</b></td>
++         <td>Sahil Gupta</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Producer:</b></td>
++         <td>Stijn Vervaet</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Producer:</b></td>
++         <td>Isabel Foley, Alisa Krois</td>
++     </tr>
++ </table>
++ 
++ <h3>Quality Assurance &amp; Player Experience</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>QA Lead:</b></td>
++         <td>Edward Haines</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>QA Analyst:</b></td>
++         <td>Alastair Lavery</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Associate QA Analyst:</b></td>
++         <td>Madeleine Jay</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Project Manager:</b></td>
++         <td>Mayur Sindhwani</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Lead:</b></td>
++         <td>Marta Chmielewska</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Associate Lead:</b></td>
++         <td>Aleksander Macioł, Paweł Łaskowski</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>FQA Testers:</b></td>
++         <td>Igor Dobrowolski, Anna Zganiacz, Antoni Sowiński, Michał Derda, Patryk Ciupka, Tomasz Janczak, Marcin Karbowniczek</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Project Managers of Player Experience:</b></td>
++         <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Player Support Specialists:</b></td>
++         <td>Sharon Fiedler, Diedrich Ohlandt</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Managers:</b></td>
++         <td>Guðmundur Freyr Matthíasson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Team Leads:</b></td>
++         <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Support Game Masters:</b></td>
++         <td>Amrane Larbi, Sergei Pavlov, Leandro Serrano, Edward Turrall</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>5CA Outreach Game Masters:</b></td>
++         <td>Endrio Lima</td>
++     </tr>
++ </table>
++ 
++ <h3>Data &amp; Analytics</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Data Scientist:</b></td>
++         <td>Julia Elisabeth Haidn</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Data Scientist:</b></td>
++         <td>Kajetan Sygula</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Data Engineer:</b></td>
++         <td>Daníel Fannar Guðmundsson</td>
++     </tr>
++ </table>
++ 
++ <h3>IT Operations</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>IT and Security Manager:</b></td>
++         <td>Ólafur Guðmundsson</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Solutions Architect:</b></td>
++         <td>Andy Perkins</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior System Administrator:</b></td>
++         <td>Andrew McCormack</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>System Administrators:</b></td>
++         <td>Adam Murphy, Róbert Steinar Tómasson, Ísold Aðalheiður Hoffmann</td>
++     </tr>
++ </table>
++ 
++ <h3>Publishing</h3>
++ <hr>
++ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Director of Growth:</b></td>
++         <td>Anna Kozko</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Senior Community Developer:</b></td>
++         <td>Neil Gorton</td>
++     </tr>
++     <tr VALIGN="top">
++         <td width=325 align=right><b>Content Creator:</b></td>
++         <td>Muhammad Hadi</td>
++     </tr>
++ </table>
+```
+
+
+ES
+
+```text
+<h2>EVE Vanguard Development Team</h2>
+<br>
+<h3>Game Design</h3>
+<hr>
+<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Game Design Director:</b></td>
+        <td>Adam Board</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Game Designer:</b></td>
+        <td>Anthony Massey</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Technical Designer:</b></t
+(truncated, 12,260 chars total)
+```
+
+
+FR
+
+```text
+<h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=
+(truncated, 10,201 chars total)
+```
+
+
+JA
+
+```text
+<h2>EVE Vanguard開発チーム</h2>
+<br>
+<h3>ゲームデザイン</h3>
+<hr>
+<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
+        <td>Adam Board</td> 
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>シニアゲームデザイナー</b></td>
+        <td>Anthony Massey</td> 
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>シニアテクニカルデザイナー：</b></td>
+        <td>Bryan Malloroy</td> 
+    <
+(truncated, 11,727 chars total)
+```
+
+
+KO
+
+```text
+<h2>EVE Vanguard Development Team</h2>
+<br>
+<h3>Game Design</h3>
+<hr>
+<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Game Design Director :</b></td>
+        <td>Adam Board</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Game Designer :</b></td>
+        <td>Anthony Massey</td>
+    </tr>
+    <tr VALIGN="top">
+        <td width=325 align=right><b>Senior Technical Designer :</b>
+(truncated, 12,328 chars total)
+```
+
+
+RU
+
+```text
+<h2>Команда разработчиков EVE Vanguard</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший разработчик:</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший технический дизайнер:</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=
+(truncated, 10,640 chars total)
+```
+
+
+ZH
+
+```text
+<h2>EVE Vanguard开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Adam Board</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Anthony Massey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级技术设计师：</b></td><td>Bryan Malloroy</td></tr><tr VALIGN="top"><td width=325 align=right><b>首席关卡设计师：</b></td><td>Jesse Holcroft</td></tr><tr VALIGN="top"><td width=325
+(truncated, 8,814 chars total)
+```
+
+
+
+
+### MessageID: 1009122 · Source Modified
+
+EN
+
+```diff
++ The crate contains an insured T1 fitted Destroyer from your starter Empire.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易
+```
+
+
+
+
+### MessageID: 1009124 · Source Modified
+
+EN
+
+```diff
++ The crate contains an exploration frigate for your starting Empire; it is fitted and insured.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易
+```
+
+
+
+
+### MessageID: 1009128 · Source Modified
+
+EN
+
+```diff
++ The crate contains an insured T1 fitted Cruiser from your starting Empire.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易
+```
+
+
+
+
+### MessageID: 1011918 · Source Modified
+
+EN
+
+```diff
+  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
+  
+- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
++ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
+  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
+  
+[…]
+```
+
+
+DE
+
+```text
+Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
+(truncated, 1,719 chars total)
+```
+
+
+ES
+
+```text
+Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
+
+
+
+Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
+(truncated, 1,717 chars total)
+```
+
+
+FR
+
+```text
+Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
+(truncated, 1,713 chars total)
+```
+
+
+JA
+
+```text
+攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
+
+
+
+これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
+
+さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
+
+
+
+注：
+
+‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
+
+‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
+
+‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
+
+- 攻
+(truncated, 625 chars total)
+```
+
+
+KO
+
+```text
+드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
+(truncated, 626 chars total)
+```
+
+
+RU
+
+```text
+Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
+(truncated, 1,503 chars total)
+```
+
+
+ZH
+
+```text
+一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
+
+
+
+这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
+
+另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
+
+
+
+注意： 
+
+- 会战装备需要锶包合物提供能量才能有效运行。 
+
+- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
+
+- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
+
+- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
+```
+
+
+
+
+### MessageID: 1018527 · Source Modified
+
+EN
+
+```diff
+- Active Convoys: {[numeric]amount}
++ Avalon Investigations: {[numeric]amount}
+```
+
+
+DE
+
+```diff
+- Aktive Konvois: {[numeric]amount}
++ Avalon-Untersuchungen: {[numeric]amount}
+```
+
+
+ES
+
+```diff
+- Convoyes activos: {[numeric]amount}
++ Investigaciones de Avalon: {[numeric]amount}
+```
+
+
+FR
+
+```diff
+- Convois actifs : {[numeric]amount}
++ Enquêtes d'Avalon : {[numeric]amount}
+```
+
+
+JA
+
+```diff
+- アクティブな輸送船団：{[numeric]amount}
++ Avalon調査：{[numeric]amount}
+```
+
+
+KO
+
+```diff
+- 운행 중 수송대: {[numeric]amount}
++ 아발론 조사: {[numeric]amount}
+```
+
+
+RU
+
+```diff
+- Активных конвоев: {[numeric]amount}
++ Исследования Avalon: {[numeric]amount}
+```
+
+
+ZH
+
+```diff
+- 现役护航队：{[numeric]amount}
++ 阿瓦隆调查：{[numeric]amount}
+```
+
+
+
+
+### MessageID: 1018597 · Source Modified
+
+EN
+
+```diff
+- All Capsuleers help progress this challenge. It will progress whenever a player completes an Assignment while playing Vanguard. Once completed it will spawn Unlisted Squall convoys somewhere in the Universe. Convoys will be shown on the Universe Map and can be seen on the D-Scanner or with Combat Probes.
++ As Vanguard finish Expeditions, they will progress this track, revealing additional Avalon Investigations each time it completes. 
++ 
++ Location Avalon Investigations using the Universe Map. Track AEGIS Sqaulls in Investigation systems with your Directional Scanner or Combat Probes to uncover hidden sites.
+```
+
+
+DE
+
+```diff
+- Alle Kapselpiloten tragen zum Fortschritt dieser Herausforderung bei. Jedes Mal, wenn ein Spieler beim Spielen von Vanguard einen Auftrag abschließt, werden Fortschritte erzielt. Nach dem Abschluss erscheinen irgendwo im Universum nicht gelistete Squall-Konvois. Diese werden auf der Karte des Universums angezeigt und können über den Richtungsscanner oder mit Kampfsonden geortet werden.
++ Vanguard erzielen Fortschritte auf diesem Pfad, indem sie Expeditionen abschließen. Jedes Mal, wenn er abgeschlossen wird, werden zusätzliche Avalon-Untersuchungen enthüllt. Sie können Avalon-Untersuchungen auf der Universumskarte finden. Spüren Sie AEGIS-Squalls in Untersuchungssystemen mit Ihrem Richtungsscanner oder Ihren Kampfsonden auf, um versteckte Gebiete zu entdecken.
+```
+
+
+ES
+
+```diff
+- Todos los capsulistas contribuyen al progreso de este desafío. Avanzará cada vez que un jugador complete una tarea mientras juega a Vanguard. Una vez completado, aparecerán convoyes de Squall no registrados en algún lugar del universo. Los convoyes se mostrarán en el mapa del universo y podrán detectarse con el escáner direccional o mediante sondas de combate.
++ A medida que los miembros de la Vanguardia completen expediciones, harán progresar esta barra y revelarán nuevas investigaciones de Avalon cada vez que se complete.
++ 
++ Localiza las investigaciones de Avalon usando el mapa del universo. Rastrea las Squall de AEGIS en los sistemas de investigación con el escáner direccional o las sondas de combate para descubrir zonas ocultas.
+```
+
+
+FR
+
+```diff
+- Tous les capsuliers contribuent à faire progresser ce défi, à chaque fois qu'un joueur accomplit une mission en jouant à Vanguard. Une fois celui-ci achevé, cela fera apparaître des convois de Squall non répertoriés quelque part dans l'univers. Ces convois seront indiqués sur la carte de l'univers et pourront être détectés grâce au scanner directionnel ou avec des sondes de combat.
++ Lorsque les Vanguard terminent des expéditions, ils feront progresser ce parcours, révélant des enquêtes supplémentaires d'Avalon à chaque succès. Localisez les enquêtes d'Avalon à l'aide de la carte de l'univers. Suivez les Squalls AEGIS dans les systèmes d'enquête avec votre scanner directionnel ou vos sondes de combat pour découvrir des sites cachés.
+```
+
+
+JA
+
+```diff
+- このチャレンジは、すべてのカプセラの行動で進行します。Vanguardをプレイ中に任務を完了するたびに進行度が上がり、チャレンジをクリアすると、宇宙のどこかにスコールで構成された非公式輸送船団が出現します。指向性スキャナーか戦闘用プローブを使えば、宇宙マップ上で輸送船団を発見できるでしょう。
++ Vanguardが探索を完了するたびにこのトラックが進行し、完了するごとに新たなAvalon調査が明らかになります。
++ 
++ 宇宙マップを使ってAvalon調査の場所を特定しましょう。調査対象の星系内で、指向性スキャナーまたは戦闘用プローブを使ってAEGISスコールを追跡し、隠されたサイトを暴き出してください。
+```
+
+
+KO
+
+```diff
+- 캡슐리어의 활동이 도전 과제 완수에 도움이 됩니다. 캡슐리어가 Vanguard 임무를 완수하면 도전 과제가 진행됩니다. 도전 과제를 완수하면 미등록 스퀄 수송대가 우주에 생성됩니다. 수송대는 우주 지도에 표시되며 전방위 스캐너 및 정찰 프로브로 찾아낼 수 있습니다.
++ Vanguard 대원이 탐사를 완료하면 트랙이 진행됩니다. 탐사를 완료하면 새로운 아발론 조사를 진행할 수 있습니다.
++ 
++ 우주 지도에서 아발론 조사의 위치를 찾을 수 있습니다. 조사 성계에서 전방위 스캐너 또는 정찰 프로브를 사용해 숨겨진 사이트를 찾아 AEGIS 스퀄을 추적하십시오.
+```
+
+
+RU
+
+```diff
+- Выполняя поручения, игроки Vanguard вносят свой вклад в прогресс этого испытания. Когда шкала прогресса заполнится, где-то во вселенной появятся незарегистрированные конвои Squall. Эти конвои будут отображаться на карте. Кроме того, их можно будет обнаружить с помощью пеленгатора и боевых разведзондов.
++ Завершение экспедиций Vanguard заполняет шкалу прогресса, что, в свою очередь, позволяет открывать дополнительные исследования Avalon. Исследования Avalon отображаются на карте мира. Пеленгатор и боевые разведзонды позволяют выслеживать суда AEGIS Squall в системе исследований и раскрывать местоположение скрытых районов.
+```
+
+
+ZH
+
+```diff
+- 所有克隆飞行员将共同推进挑战进度。玩家以先锋身份游玩时，每完成一项委托都将推动整体进度。委托完成后，宇宙中将生成未入征的狂风级护航队。这些护航队将在宇宙星图上显示，可通过定向扫描仪或战斗探针查看。
++ 随着先锋完成远征，该进度将不断推进。每完成一次进度，都会解锁更多阿瓦隆调查。使用宇宙星图定位阿瓦隆调查。使用定向扫描器或作战探针，在调查系统中追踪统合部紧急干预和安全局狂风舰，以发现隐藏地点。
+```
+
+
+
+
+### MessageID: 1018631 · Source Modified
+
+EN
+
+```diff
+- Vanguard Event
++ Operation Avalon
+```
+
+
+DE
+
+```diff
+- Vanguard-Event
++ Operation Avalon
+```
+
+
+ES
+
+```diff
+- Evento de Vanguard
++ Operación Avalon
+```
+
+
+FR
+
+```diff
+- Événement Vanguard
++ Opération Avalon
+```
+
+
+JA
+
+```diff
+- ヴァンガードイベント
++ Operation Avalon 
+```
+
+
+KO
+
+```diff
+- Vanguard 이벤트
++ 아발론 작전
+```
+
+
+RU
+
+```diff
+- Событие Vanguard
++ Operation Avalon
+```
+
+
+ZH
+
+```diff
+- 先锋活动
++ 阿瓦隆行动
+```
+
+
+
+
+### MessageID: 1018632 · Source Modified
+
+EN
+
+```diff
+- Convoys revealed through the actions of the deployed Vanguard clones
++ Avalon Investigations, they can be revealed when the Vanguard have completed sufficient Expeditions.
+```
+
+
+DE
+
+```diff
+- Durch die Aktionen der eingesetzten Vanguard-Klone enthüllte Konvois
++ Avalon-Untersuchungen. Sie werden enthüllt, wenn die Vanguard genügend Expeditionen abgeschlossen haben.
+```
+
+
+ES
+
+```diff
+- Convoyes revelados gracias a las acciones de los clones Vanguard
++ Investigaciones de Avalon: pueden revelarse cuando la Vanguardia haya completado suficientes expediciones.
+```
+
+
+FR
+
+```diff
+- Les convois ont été révélés par les actions des clones Vanguard déployés
++ Enquêtes d'Avalon, peuvent être révélées lorsque les Vanguard ont mené un nombre suffisant d'expéditions.
+```
+
+
+JA
+
+```diff
+- 派遣されたヴァンガードのクローン兵の活躍により、輸送船団の存在が明らかになった
++ Vanguardが十分な数の探索を完了すると、Avalon調査が明らかになります。
+```
+
+
+KO
+
+```diff
+- Vanguard 클론의 활동에 따라 수송대의 위치가 드러납니다.
++ 아발론 조사는 Vanguard 대원이 탐사를 충분히 완료하면 찾을 수 있습니다.
+```
+
+
+RU
+
+```diff
+- Конвои, обнаруженные благодаря действиям клонов из авангарда
++ Исследования Avalon можно открыть, когда Vanguard завершит необходимое количество экспедиций.
+```
+
+
+ZH
+
+```diff
+- 由部署的先锋克隆体发起的行动可揭露护航队的行踪
++ 当先锋完成足够数量的远征后，将解锁阿瓦隆调查。
+```
+
+
+
+
+### MessageID: 1018775 · Source Modified
+
+EN
+
+```diff
+- {[numeric]amount} {[numeric]amount -> "Convoy", "Convoys"} in system
++ {[numeric]amount} {[numeric]amount -> "Avalon Investigation", "Avalon Investigations"} in system
+```
+
+
+DE
+
+```diff
+- {[numeric]amount} {[numeric]amount -> "Konvoi", "Konvois"} im System
++ {[numeric]amount} {[numeric]amount -> "Avalon-Untersuchung", "Avalon-Untersuchungen"} im System
+```
+
+
+ES
+
+```diff
+- {[numeric]amount} {[numeric]amount -> "convoy", "convoyes"} en el sistema
++ {[numeric]amount} {[numeric]amount -> "investigación de Avalon", "investigaciones de Avalon"} en el sistema
+```
+
+
+FR
+
+```diff
+- {[numeric]amount} {[numeric]amount -> "convoi", "convois"} dans le système
++ {[numeric]amount} {[numeric]amount -> "enquête Avalon", "enquêtes Avalon"} dans le système
+```
+
+
+JA
+
+```diff
+- […]ム内に{[numeric]amount} {[numeric]amount ->グループの輸送船団}
++ […]ム内に{[numeric]amount} {[numeric]amount ->個のAvalon調査}が存在します
+```
+
+
+KO
+
+```diff
+- 항성계 내 {[numeric]amount} 개의 함대가 있음
++ 항성계 내 {[numeric]amount} 개의 아발론 조사 존재
+```
+
+
+RU
+
+```diff
+- Конвоев в системе: {[numeric]amount}
++ В системе проводится {[numeric]amount} {[numeric]amount -> "исследование Avalon", "исследования Avalon", "исследований Avalon"}
+```
+
+
+ZH
+
+```diff
+- 星系中共有{[numeric]amount}支{[numeric]amount -> "护航队", "护航队"}
++ 当前星系内有{[numeric]amount}{[numeric]amount -> 项“阿瓦隆调查”}
+```
+
+
+
+
+### MessageID: 1031290 · Source Modified
+
+EN
+
+```diff
+- Batch Compressed Crokite IV-Grade
++ Batch Compressed Crokite II-Grade
+```
+
+
+DE
+
+```text
+Batch Compressed Crokite IV-Grade
+```
+
+
+ES
+
+```text
+Crokitio comprimido en lote de grado IV
+```
+
+
+FR
+
+```text
+Crokite compressée en lot de catégorie IV
+```
+
+
+JA
+
+```text
+バッチ式圧縮クロカイト（グレードIV）
+```
+
+
+KO
+
+```text
+4급 압축된 크로카이트 (구형)
+```
+
+
+RU
+
+```text
+Batch Compressed Crokite IV-Grade
+```
+
+
+ZH
+
+```text
+聚合高密度克洛基石（4级）
+```
+
+
+
+
+### MessageID: 1038389 · Source Modified
+
+EN
+
+```diff
+- Contested Sanctified FRF ELT-10
++ Contested Sanctified FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter gesegneter FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 santificado en disputa
+```
+
+
+FR
+
+```text
+Sanctified FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のサンクティファイドFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 신성 야전 연구시설 엘리트-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ ЭЛТ-10 Sanctified Vidette
+```
+
+
+ZH
+
+```text
+争夺中的圣域野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1038391 · Source Modified
+
+EN
+
+```diff
+- Contested Sanctified FRF ELT-10
++ Contested Sanctified FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter gesegneter FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 santificado en disputa
+```
+
+
+FR
+
+```text
+Sanctified FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のサンクティファイドFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 신성 야전 연구시설 엘리트-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ ЭЛТ-10 Sanctified Vidette
+```
+
+
+ZH
+
+```text
+争夺中的圣域野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1039158 · Removed
+
+EN
+
+```text
+Amarr Sanctified Field Research Facility
+```
+
+
+DE
+
+```text
+Gesegnete Feldforschungseinrichtung der Amarr
+```
+
+
+ES
+
+```text
+Centro de investigación de campo santificado amarriano
+```
+
+
+FR
+
+```text
+Unité de recherche sur le terrain amarr de Sanctified
+```
+
+
+JA
+
+```text
+アマーサンクティファイドフィールド研究施設
+```
+
+
+KO
+
+```text
+아마르 신성 야전 연구시설
+```
+
+
+RU
+
+```text
+Амаррская научная база в Sanctified Vidette
+```
+
+
+ZH
+
+```text
+艾玛圣域野战研究设施
+```
+
+
+
+
+### MessageID: 1039170 · Source Modified
+
+EN
+
+```diff
+- FW Complex - Contested FRF ELT-10 - Attacker Spawner (DO NOT TRANSLATE)
++ FW Complex - Contested FRF ELT-5 - Attacker Spawner (DO NOT TRANSLATE)
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1039262 · Source Modified
+
+EN
+
+```diff
+- Caldari Eyrie Field Research Facility
++ Caldari Eyrie Drifter Field Research Facility
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1039263 · Source Modified
+
+EN
+
+```diff
+- Contested Eyrie FRF ELT-10
++ Contested Eyrie FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter Horst-FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 Eyrie en disputa
+```
+
+
+FR
+
+```text
+Eyrie FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のエイリーFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 아이리 야전 연구시설 엘리트-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ ЭЛТ-10 Conflux Eyrie
+```
+
+
+ZH
+
+```text
+争夺中的鹰巢野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1039264 · Source Modified
+
+EN
+
+```diff
+- Contested Eyrie FRF ELT-10
++ Contested Eyrie FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter Horst-FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 Eyrie en disputa
+```
+
+
+FR
+
+```text
+Eyrie FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のエイリーFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 아이리 야전 연구시설 엘리트-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ ЭЛТ-10 Conflux Eyrie
+```
+
+
+ZH
+
+```text
+争夺中的鹰巢野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1039265 · Source Modified
+
+EN
+
+```diff
+- Contested Rogue FRF ELT-10
++ Contested Rogue FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter Raub-FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 rebelde en disputa
+```
+
+
+FR
+
+```text
+Rogue FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のローグFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 로그 드론 야전 연구시설 엘리트-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ изучения дронов ЭЛТ-10
+```
+
+
+ZH
+
+```text
+争夺中的游侠野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1039266 · Translation Modified
+
+EN
+
+```text
+Gallente Rogue Drone Field Research Facility
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1039267 · Source Modified
+
+EN
+
+```diff
+- Contested Rogue FRF ELT-10
++ Contested Rogue FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter Raub-FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 rebelde en disputa
+```
+
+
+FR
+
+```text
+Rogue FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のローグFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 로그 드론 야전 연구시설 엘리트-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ изучения дронов ЭЛТ-10
+```
+
+
+ZH
+
+```text
+争夺中的游侠野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1039268 · Source Modified
+
+EN
+
+```diff
+- Minmatar Liberated Field Research Facility
++ Minmatar Liberated Drifter Field Research Facility
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1039269 · Source Modified
+
+EN
+
+```diff
+- Contested Liberated FRF ELT-10
++ Contested Liberated FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter befreiter FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 liberado en disputa
+```
+
+
+FR
+
+```text
+Liberated FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のリベレイテッドFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 해방된 바르비칸 야전 연구시설-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ ЭЛТ-10 Liberated Barbican
+```
+
+
+ZH
+
+```text
+争夺中的解放野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1039270 · Source Modified
+
+EN
+
+```diff
+- Contested Liberated FRF ELT-10
++ Contested Liberated FRF ELT-5
+```
+
+
+DE
+
+```text
+Umkämpfter befreiter FRF ELT-10
+```
+
+
+ES
+
+```text
+CIC ELT-10 liberado en disputa
+```
+
+
+FR
+
+```text
+Liberated FRF ELT-10 contesté
+```
+
+
+JA
+
+```text
+紛争中のリベレイテッドFRF ELT-10
+```
+
+
+KO
+
+```text
+분쟁 해방된 바르비칸 야전 연구시설-10
+```
+
+
+RU
+
+```text
+Оспариваемая ПНБ ЭЛТ-10 Liberated Barbican
+```
+
+
+ZH
+
+```text
+争夺中的解放野战研究设施ELT-10
+```
+
+
+
+
+### MessageID: 1040092 · Removed
+
+EN
+
+```text
+All Objectives
+```
+
+
+DE
+
+```text
+Alle Ziele
+```
+
+
+ES
+
+```text
+Todos los objetivos
+```
+
+
+FR
+
+```text
+Tous les objectifs
+```
+
+
+JA
+
+```text
+すべての目標
+```
+
+
+KO
+
+```text
+모든 목표
+```
+
+
+RU
+
+```text
+Все задания
+```
+
+
+ZH
+
+```text
+所有目标
+```
+
+
+
+
+### MessageID: 1042586 · Source Modified
+
+EN
+
+```diff
+- FW Complex - Contested FRF ELT-10 - Occupier Spawner (DO NOT TRANSLATE)
++ FW Complex - Contested FRF ELT-5 - Occupier Spawner (DO NOT TRANSLATE)
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1042814 · Source Modified
+
+EN
+
+```diff
+- Active
++ My objectives
+```
+
+
+DE
+
+```text
+Aktiv
+```
+
+
+ES
+
+```text
+Activas
+```
+
+
+FR
+
+```text
+Actif
+```
+
+
+JA
+
+```text
+進行中
+```
+
+
+KO
+
+```text
+활성화
+```
+
+
+RU
+
+```text
+Действует
+```
+
+
+ZH
+
+```text
+进行中
+```
+
+
+
+
+### MessageID: 1045807 · Source Modified
+
+EN
+
+```diff
+- This sealed containment crate holds a Calm Abyssal Filament of a random weather ty[…]
++ This sealed containment crate holds a Tranquil Abyssal Filament of a random weather ty[…]
+```
+
+
+DE
+
+```text
+Diese versiegelte Sicherheitskiste enthält ein ruhiges Abgrundfilament eines zufälligen Wettertyps, das Sie in eine Raumverwerfung des Abgrunds transportieren kann.
+```
+
+
+ES
+
+```text
+Esta caja de contención sellada contiene un filamento abisal calmado de un tipo atmosférico aleatorio que puede transportarte a una burbuja del espacio muerto abisal.
+```
+
+
+FR
+
+```text
+Cette caisse de confinement scellée contient un filament abyssal paisible de type aléatoire, qui peut vous transporter dans une poche d'abîme Deadspace.
+```
+
+
+JA
+
+```text
+この密閉された箱には1個のカーム・アビサルフィラメントが入っている。フィラメントはランダムな天候を起こし、それを使ってアビサルデッドスペースポケットに行くことができる。
+```
+
+
+KO
+
+```text
+어비설 데드스페이스 포켓으로 이동시켜주는 고요한 어비설 필라멘트(무작위 기상 속성)가 담겨 있는 격납용기입니다.
+```
+
+
+RU
+
+```text
+Внутри этого герметичного контейнера находится нить бездны, ведущая в участок Мёртвой бездны со спокойной средой и случайными климатическими условиями..
+```
+
+
+ZH
+
+```text
+这个密封的箱子里面有一个随机类型的镇静深渊纤维，可以将你传送到一个深渊空间层中。
+```
+
+
+
+
+### MessageID: 1045814 · Source Modified
+
+EN
+
+```diff
+- […]te contains an insured T1 fitted Cruisers from your starting Empire.
++ […]te contains an insured T1 fitted Cruiser from your starting Empire.
+```
+
+
+DE
+
+```text
+Die Kiste enthält einen versicherten T1-Kreuzer mit Schiffsausrüstung aus Ihrem Startimperium.
+```
+
+
+ES
+
+```text
+La caja incluye cruceros T1 equipados y asegurados de tu imperio inicial.
+```
+
+
+FR
+
+```text
+La caisse contient un croiseur T1 pour votre empire de départ, déjà équipé et assuré.
+```
+
+
+JA
+
+```text
+この箱には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれてる。
+```
+
+
+KO
+
+```text
+소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 크루저를 제공합니다.
+```
+
+
+RU
+
+```text
+Этот контейнер содержит оснащённый и застрахованный крейсер 1-го техноуровня, выпущенный вашей изначальной державой.
+```
+
+
+ZH
+
+```text
+打开箱子后你可以获得一艘来自你起始帝国、已装配并投保的T1巡洋舰。
+```
+
+
+
+
+### MessageID: 1045832 · Source Modified
+
+EN
+
+```diff
++ The crate contains a fitted Pioneer mining destroyer with insurance.
+  This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```text
+Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
+```
+
+
+ES
+
+```text
+Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```text
+Cet objet ne peut pas être échangé ni vendu sur le marché.
+```
+
+
+JA
+
+```text
+このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```text
+거래소에서 거래할 수 없는 아이템입니다.
+```
+
+
+RU
+
+```text
+Этот товар не подлежит обмену или продаже в торговой системе.
+```
+
+
+ZH
+
+```text
+此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1046758 · Added
+
+EN
+
+```text
+POI: Nemesis Test Center
+```
+
+
+DE
+
+```text
+Interessanter Ort: Nemesis Test Center
+```
+
+
+ES
+
+```text
+Punto de interés: centro de pruebas Nemesis
+```
+
+
+FR
+
+```text
+Point d'intérêt : Centre de test Nemesis
+```
+
+
+JA
+
+```text
+POI：ネメシス・テストセンター
+```
+
+
+KO
+
+```text
+중요 지점: 네메시스 시험 센터
+```
+
+
+RU
+
+```text
+Объект интереса: испытательный центр Nemesis
+```
+
+
+ZH
+
+```text
+目标点：纳美西斯级测试中心
+```
+
+
+
+
+### MessageID: 1046796 · Translation Modified
+
+EN
+
+```text
+AEGIS Squall
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Squall
+```
+
+
+ES
+
+```diff
+- 
++ Squall de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Squall AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGISスコール
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 스퀄
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Squall
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局狂风舰
+```
+
+
+
+
+### MessageID: 1046797 · Translation Modified
+
+EN
+
+```text
+The Squall is not registered, but information gathered by members of the Vanguard implies that it is working with AEGIS command as a part of some secret project. 
+
+Find out where it is going, and you might just discover more.
+```
+
+
+DE
+
+```diff
+- 
++ Die Squall ist nicht registriert, aber von Vanguard-Mitgliedern gesammelte Informationen deuten darauf hin, dass sie als Teil eines Geheimprojekts dem Kommando von AEGIS untersteht. Finden Sie heraus, wohin sie unterwegs ist, und Sie könnten vielleicht mehr entdecken.
+```
+
+
+ES
+
+```diff
++ La Squall no figura en ningún registro, pero la información recopilada por miembros de la Vanguardia indica que está colaborando con el mando de AEGIS como parte de algún proyecto secreto.
++ 
++ Averigua adónde se dirige y quizá descubras algo más.
+```
+
+
+FR
+
+```diff
+- 
++ Ce Squall n'est pas enregistré, mais les informations recueillies par les membres des Vanguard laissent entendre qu'il collabore avec le commandement d'AEGIS dans le cadre d'un projet secret. Découvrez où il se dirige, et vous pourriez en apprendre davantage.
+```
+
+
+JA
+
+```diff
++ このスコールは未登録だが、Vanguardのメンバーが収集した情報によると、ある極秘プロジェクトの一環としてAEGIS司令部と協力して動いているようだ。
++ 
++ その目的地を突き止めれば、さらなる事実が判明するかもしれない。
+```
+
+
+KO
+
+```diff
++ 등록된 스퀄이 아닙니다. 그러나 Vanguard 대원이 수집한 정보에 따르면 AEGIS 기밀 프로젝트를 수행하기 위해 AEGIS의 명령에 따른 것 같습니다.
++ 
++ 함선의 본래 목적지를 찾으면 새로운 사실을 알아낼 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Squall не зарегистрирован, однако информация, собранная членами Vanguard, подразумевает, что он работает с командованием AEGIS в рамках некоего секретного проекта. Выясните, куда он направляется, и, возможно, вам удастся узнать больше.
+```
+
+
+ZH
+
+```diff
+- 
++ 狂风舰尚未登记注册，但先锋成员收集到的情报表明，此舰种正配合统合部紧急干预和安全局执行某项秘密计划。查明去向，也许就能发现更多线索。
+```
+
+
+
+
+### MessageID: 1046798 · Translation Modified
+
+EN
+
+```text
+Investigation Progress
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchungsfortschritt
+```
+
+
+ES
+
+```diff
+- 
++ Progreso de la investigación
+```
+
+
+FR
+
+```diff
+- 
++ Progression de l'enquête
+```
+
+
+JA
+
+```diff
+- 
++ 調査進捗状況
+```
+
+
+KO
+
+```diff
+- 
++ 조사 진척도
+```
+
+
+RU
+
+```diff
+- 
++ Прогресс исследования
+```
+
+
+ZH
+
+```diff
+- 
++ 调查进度
+```
+
+
+
+
+### MessageID: 1046799 · Translation Modified
+
+EN
+
+```text
+Complete sites to uncover the heart of local AEGIS operations. Follow AEGIS Squalls to uncover hidden sites.
+```
+
+
+DE
+
+```diff
+- 
++ Schließen Sie Gebiete ab, um das Herz der lokalen AEGIS-Operationen aufzudecken. Folgen Sie AEGIS-Squalls, um versteckte Gebiete zu entdecken.
+```
+
+
+ES
+
+```diff
+- 
++ Completa zonas para descubrir el núcleo de las operaciones locales de AEGIS. Sigue a las Squall de AEGIS para descubrir zonas ocultas.
+```
+
+
+FR
+
+```diff
+- 
++ Terminez des sites pour découvrir le cœur des opérations locales d'AEGIS. Suivez les Squalls d'AEGIS pour découvrir des sites cachés.
+```
+
+
+JA
+
+```diff
+- 
++ 各サイトをクリアして、その宙域におけるAEGIS作戦の中枢を暴き出せ。AEGISスコールを追跡すれば、隠されたサイトを発見できる。
+```
+
+
+KO
+
+```diff
+- 
++ 사이트를 완료해 주변에서 AEGIS가 진행한 작전의 전모를 알아내세요. AEGIS 스퀄의 항로를 따라 숨겨진 사이트를 찾으세요.
+```
+
+
+RU
+
+```diff
+- 
++ Проходите районы, чтобы выяснить местоположение местного оперативного центра AEGIS. Следуйте за принадлежащими AEGIS Squalls и обнаруживайте скрытые районы.
+```
+
+
+ZH
+
+```diff
+- 
++ 完成地点目标，揭开当地统合部紧急干预和安全局行动的核心。跟踪统合部紧急干预和安全局狂风舰，借此发现隐藏地点。
+```
+
+
+
+
+### MessageID: 1046800 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1046801 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1046813 · Translation Modified
+
+EN
+
+```text
+Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+ES
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE) 
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+RU
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+ZH
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
+```
+
+
+
+
+### MessageID: 1046814 · Translation Modified
+
+EN
+
+```text
+Vanguard Operation Avalon Roamer
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer
+```
+
+
+ES
+
+```diff
+- 
++ Incursora de la Operación Avalon de la Vanguardia
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Operation Avalon Roamer
+```
+
+
+JA
+
+```diff
+- 
++ Vanguardオペレーション：Avalonローマー
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론 작전 순찰대
+```
+
+
+RU
+
+```diff
+- 
++ Патруль Vanguard: Operation Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋行动阿瓦隆游牧者
+```
+
+
+
+
+### MessageID: 1046840 · Translation Modified
+
+EN
+
+```text
+Destroyed Test Sentry
+```
+
+
+DE
+
+```diff
+- 
++ Destroyed Test Sentry
+```
+
+
+ES
+
+```diff
+- 
++ Centinela de prueba destruida
+```
+
+
+FR
+
+```diff
+- 
++ Sentinelle de test détruite
+```
+
+
+JA
+
+```diff
+- 
++ 破壊されたテスト用セントリー
+```
+
+
+KO
+
+```diff
+- 
++ 파괴된 시험용 센트리
+```
+
+
+RU
+
+```diff
+- 
++ Destroyed Test Sentry
+```
+
+
+ZH
+
+```diff
+- 
++ 已摧毁的测试岗哨
+```
+
+
+
+
+### MessageID: 1046872 · Translation Modified
+
+EN
+
+```text
+POI: Nemesis Research Outpost
+```
+
+
+DE
+
+```diff
+- 
++ Interessanter Ort: Nemesis Research Outpost
+```
+
+
+ES
+
+```diff
+- 
++ Punto de interés: puesto avanzado de investigación de Nemesis
+```
+
+
+FR
+
+```diff
+- 
++ Point d'intérêt : Avant-poste de recherche Nemesis
+```
+
+
+JA
+
+```diff
+- 
++ POI：ネメシス研究アウトポスト
+```
+
+
+KO
+
+```diff
+- 
++ 중요 지점: 네메시스 연구기지
+```
+
+
+RU
+
+```diff
+- 
++ Объект интереса: исследовательский форпост Nemesis
+```
+
+
+ZH
+
+```diff
+- 
++ 目标点：纳美西斯级科研哨站
+```
+
+
+
+
+### MessageID: 1046874 · Translation Modified
+
+EN
+
+```text
+Research Vault
+```
+
+
+DE
+
+```diff
+- 
++ Research Vault
+```
+
+
+ES
+
+```diff
+- 
++ Cámara de investigación
+```
+
+
+FR
+
+```diff
+- 
++ Coffre-fort de recherche
+```
+
+
+JA
+
+```diff
+- 
++ 研究保管庫
+```
+
+
+KO
+
+```diff
+- 
++ 비밀 연구소
+```
+
+
+RU
+
+```diff
+- 
++ Research Vault
+```
+
+
+ZH
+
+```diff
+- 
++ 研究保险库
+```
+
+
+
+
+### MessageID: 1046899 · Translation Modified
+
+EN
+
+```text
+AEGIS Security Platform
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Security Platform
+```
+
+
+ES
+
+```diff
+- 
++ Plataforma de seguridad de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Plateforme de sécurité AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGISセキュリティプラットフォーム
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 보안 플랫폼
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Security Platform
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局安保平台
+```
+
+
+
+
+### MessageID: 1046942 · Translation Modified
+
+EN
+
+```text
+Hack the Research Vault before it self-destructs.
+```
+
+
+DE
+
+```diff
+- 
++ Hacken Sie das Research Vault, bevor es sich selbst zerstört.
+```
+
+
+ES
+
+```diff
+- 
++ Hackea la cámara de investigación antes de que se autodestruya.
+```
+
+
+FR
+
+```diff
+- 
++ Piratez le coffre-fort de recherche avant qu'il ne s'autodétruise.
+```
+
+
+JA
+
+```diff
+- 
++ 研究保管庫が自爆する前にハッキングを完了せよ。
+```
+
+
+KO
+
+```diff
+- 
++ 비밀 연구소가 자폭하기 전에 해킹하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Взломайте исследовательское хранилище до того, как оно самоуничтожится.
+```
+
+
+ZH
+
+```diff
+- 
++ 在研究保险库自毁前完成破译。
+```
+
+
+
+
+### MessageID: 1046991 · Source Modified
+
+EN
+
+```diff
+- AEGIS Security Platform
++ POI: AEGIS Security Platform
+```
+
+
+DE
+
+```diff
+- 
++ Interessanter Ort: AEGIS Security Platform
+```
+
+
+ES
+
+```diff
+- 
++ Punto de interés: plataforma de seguridad de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Point d'intérêt : Plateforme de sécurité AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ POI：AEGISセキュリティプラットフォーム
+```
+
+
+KO
+
+```diff
+- 
++ 중요 지점: AEGIS 보안 플랫폼
+```
+
+
+RU
+
+```diff
+- 
++ Объект интереса: платформа безопасности AEGIS
+```
+
+
+ZH
+
+```diff
+- 
++ 目标点：统合部紧急干预和安全局安保平台
+```
+
+
+
+
+### MessageID: 1047040 · Translation Modified
+
+EN
+
+```text
+Flotilla Observation Outpost
+```
+
+
+DE
+
+```diff
+- 
++ Flotilla Observation Outpost
+```
+
+
+ES
+
+```diff
+- 
++ Puesto avanzado de observación de flotillas
+```
+
+
+FR
+
+```diff
+- 
++ Avant-poste d'observation de la flottille
+```
+
+
+JA
+
+```diff
+- 
++ 艦隊観測アウトポスト
+```
+
+
+KO
+
+```diff
+- 
++ 소함대 관측소 전초기지
+```
+
+
+RU
+
+```diff
+- 
++ Наблюдательный форпост флотилии
+```
+
+
+ZH
+
+```diff
+- 
++ 分舰队观测哨站
+```
+
+
+
+
+### MessageID: 1047054 · Translation Modified
+
+EN
+
+```text
+Nemesis Test Center
+```
+
+
+DE
+
+```diff
+- 
++ Nemesis Test Center
+```
+
+
+ES
+
+```diff
+- 
++ Centro de pruebas Nemesis
+```
+
+
+FR
+
+```diff
+- 
++ Centre de test Nemesis
+```
+
+
+JA
+
+```diff
+- 
++ ネメシス・テストセンター
+```
+
+
+KO
+
+```diff
+- 
++ 네메시스 시험 센터
+```
+
+
+RU
+
+```diff
+- 
++ Nemesis Test Center
+```
+
+
+ZH
+
+```diff
+- 
++ 纳美西斯级测试中心
+```
+
+
+
+
+### MessageID: 1047058 · Translation Modified
+
+EN
+
+```text
+Nemesis Research Outpost
+```
+
+
+DE
+
+```diff
+- 
++ Nemesis Research Outpost
+```
+
+
+ES
+
+```diff
+- 
++ Puesto avanzado de investigación Nemesis
+```
+
+
+FR
+
+```diff
+- 
++ Avant-poste de recherche Nemesis
+```
+
+
+JA
+
+```diff
+- 
++ ネメシス研究アウトポスト
+```
+
+
+KO
+
+```diff
+- 
++ 네메시스 연구기지
+```
+
+
+RU
+
+```diff
+- 
++ Nemesis Research Outpost
+```
+
+
+ZH
+
+```diff
+- 
++ 纳美西斯级科研哨站
+```
+
+
+
+
+### MessageID: 1047082 · Translation Modified
+
+EN
+
+```text
+Surveillance Vault
+```
+
+
+DE
+
+```diff
+- 
++ Surveillance Vault
+```
+
+
+ES
+
+```diff
+- 
++ Cámara de vigilancia
+```
+
+
+FR
+
+```diff
+- 
++ Coffre-fort de surveillance
+```
+
+
+JA
+
+```diff
+- 
++ 監視データ保管庫
+```
+
+
+KO
+
+```diff
+- 
++ 첩보 금고
+```
+
+
+RU
+
+```diff
+- 
++ Surveillance Vault
+```
+
+
+ZH
+
+```diff
+- 
++ 监测保险库
+```
+
+
+
+
+### MessageID: 1047100 · Translation Modified
+
+EN
+
+```text
+Target Wreck
+```
+
+
+DE
+
+```diff
+- 
++ Target Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de objetivo
+```
+
+
+FR
+
+```diff
+- 
++ Épave de cible
+```
+
+
+JA
+
+```diff
+- 
++ ターゲットの残骸
+```
+
+
+KO
+
+```diff
+- 
++ 목표 잔해
+```
+
+
+RU
+
+```diff
+- 
++ Target Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 目标残骸
+```
+
+
+
+
+### MessageID: 1047101 · Translation Modified
+
+EN
+
+```text
+The wreck contains traces of organic material, suggesting the weapons test was simulating attacking an armored human target.
+
+With the proper equipment, something of value could be salvaged.
+```
+
+
+DE
+
+```diff
+- 
++ Das Wrack enthält Spuren von organischem Material, was darauf hindeutet, dass für den Waffentest der Angriff auf ein gepanzertes menschliches Ziel simuliert wurde. Mit der richtigen Ausrüstung könnte sich etwas Wertvolles bergen lassen.
+```
+
+
+ES
+
+```diff
++ Los restos contienen rastros de material orgánico, lo que sugiere que la prueba de armamento simulaba un ataque contra un objetivo humano protegido con blindaje.
++ 
++ Con el equipo adecuado, se podría recuperar algo de valor.
+```
+
+
+FR
+
+```diff
+- 
++ L'épave contient des traces de matière organique, suggérant que le test d'armement simulait une attaque contre une cible humaine blindée. Avec l'équipement approprié, il devrait être possible de récupérer quelque chose de valeur.
+```
+
+
+JA
+
+```diff
++ 残骸からは有機物の痕跡が検出されており、この兵器テストがアーマーを装着した人間のターゲットへの攻撃をシミュレートしていたことが示唆される。
++ 
++ 適切な装備があれば、価値あるものをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
++ 잔해에서 유기물의 흔적이 발견되었습니다. 특정 무기로 무장한 인간을 공격하는 시뮬레이션을 진행한 것으로 보입니다.
++ 
++ 적절한 장비를 활용하면 샐비지할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ В обломках обнаружены следы органического материала. Это позволяет предположить, что в ходе испытаний оружия имитировалась атака на бронированную человеческую цель. При наличии подходящего оборудования отсюда можно извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 残骸中发现了有机物痕迹，表明此次武器测试模拟的是对装甲人类目标的攻击。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047135 · Source Modified
+
+EN
+
+```diff
+- Avalon Hacking Can
++ Surveillance Vault
+```
+
+
+DE
+
+```diff
+- 
++ Surveillance Vault
+```
+
+
+ES
+
+```diff
+- 
++ Cámara de vigilancia
+```
+
+
+FR
+
+```diff
+- 
++ Coffre-fort de surveillance
+```
+
+
+JA
+
+```diff
+- 
++ 監視データ保管庫
+```
+
+
+KO
+
+```diff
+- 
++ 첩보 금고
+```
+
+
+RU
+
+```diff
+- 
++ Surveillance Vault
+```
+
+
+ZH
+
+```diff
+- 
++ 监测保险库
+```
+
+
+
+
+### MessageID: 1047138 · Added
+
+EN
+
+```text
+Amarr Gate State Large
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047139 · Added
+
+EN
+
+```text
+Caldari Gate State Large
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047140 · Added
+
+EN
+
+```text
+Gallente Gate State Large
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047141 · Added
+
+EN
+
+```text
+Minmatar Gate State Large
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047142 · Source Modified
+
+EN
+
+```diff
+- Pyroxeres  0-Grade
++ Pyroxeres 0-Grade
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047144 · Added
+
+EN
+
+```text
+Adaz - Gate to Steadfast
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047145 · Added
+
+EN
+
+```text
+Steadfast - Gate to Adaz
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047163 · Translation Modified
+
+EN
+
+```text
+Salvage Wrecks
+```
+
+
+DE
+
+```diff
+- 
++ Wracks bergen
+```
+
+
+ES
+
+```diff
+- 
++ Recupera restos
+```
+
+
+FR
+
+```diff
+- 
++ Récupérez des épaves
+```
+
+
+JA
+
+```diff
+- 
++ 残骸をサルベージする
+```
+
+
+KO
+
+```diff
+- 
++ 잔해물 샐비지
+```
+
+
+RU
+
+```diff
+- 
++ Демонтаж обломков
+```
+
+
+ZH
+
+```diff
+- 
++ 目标残骸
+```
+
+
+
+
+### MessageID: 1047174 · Source Modified
+
+EN
+
+```diff
+- Defiant Ochre
++ Defiant Latten
+```
+
+
+DE
+
+```diff
+- 
++ Defiant Latten
+```
+
+
+ES
+
+```diff
+- 
++ Latón desafiante
+```
+
+
+FR
+
+```diff
+- 
++ Laiton défiant
+```
+
+
+JA
+
+```diff
+- 
++ デファイアント・ラッテン
+```
+
+
+KO
+
+```diff
+- 
++ 저항의 래튼
+```
+
+
+RU
+
+```diff
+- 
++ Defiant Latten
+```
+
+
+ZH
+
+```diff
+- 
++ 挑战者黄铜
+```
+
+
+
+
+### MessageID: 1047175 · Source Modified
+
+EN
+
+```diff
+- Defiant Ochre Metallic - Limited
++ Defiant Latten Metallic - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Defiant Latten Metallic - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Latón desafiante metálico (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Laiton défiant métallique - Limité
+```
+
+
+JA
+
+```diff
+- 
++ デファイアント・ラッテン・メタリック - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 저항의 래튼 금속성 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Defiant Latten Metallic (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 金属级挑战者黄铜 - 限量
+```
+
+
+
+
+### MessageID: 1047176 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer metallischen Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento metálico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement métallique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるメタリックナノコーティングのライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 금속성 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на металлическое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的金属纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047177 · Source Modified
+
+EN
+
+```diff
+- Defiant Ochre Metallic - Unlimited
++ Defiant Latten Metallic - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Defiant Latten Metallic - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Latón desafiante metálico (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Laiton défiant métallique - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ デファイアント・ラッテン・メタリック - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 저항의 래튼 금속성 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Defiant Latten Metallic (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 金属级挑战者黄铜 - 无限
+```
+
+
+
+
+### MessageID: 1047178 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this metallic nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this metallic you must provide <a href=showinfo:81349>Fermionic Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer metallischen Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser metallischen Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser metallischen Nanobeschichtung sequenzieren, einen <a href=showinfo:81349>Fermionischen Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento metálico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento metálico no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento metálico, deberás proporcionar un <a href=showinfo:81349>secuenciador fermiónico</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement métallique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement métallique n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque fois que vous séquencez un design avec ce revêtement métallique, vous devez fournir un <a href=showinfo:81349>séquenceur fermionique</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるメタリックナノコーティングのライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このメタリックナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このメタリックナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81349>フェルミオン・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 금속성 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 금속성 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 금속성 나노코팅을 사용하려면 <a href=showinfo:81349>페르미온 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на металлическое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81349>фермионного секвенсора</a> (Fermionic Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的金属纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该金属纳米涂层的数字序列尚未绑定，可无限次使用。每次使用该金属纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81349>费米子序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047179 · Source Modified
+
+EN
+
+```diff
+- Radiant Aureate Satin
++ Radiant Aureate
+```
+
+
+DE
+
+```diff
+- 
++ Strahlendes Gold
+```
+
+
+ES
+
+```diff
+- 
++ Áureo radiante
+```
+
+
+FR
+
+```diff
+- 
++ Doré radieux
+```
+
+
+JA
+
+```diff
+- 
++ レディアント・オーリイト
+```
+
+
+KO
+
+```diff
+- 
++ 광휘 금장
+```
+
+
+RU
+
+```diff
+- 
++ Radiant Aureate
+```
+
+
+ZH
+
+```diff
+- 
++ 辉耀鎏金
+```
+
+
+
+
+### MessageID: 1047180 · Translation Modified
+
+EN
+
+```text
+Radiant Aureate Metallic - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Radiant Aureate Metallic - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Áureo radiante metálico (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Doré radieux métallique - Limité
+```
+
+
+JA
+
+```diff
+- 
++ レディアント・オーリイト・メタリック - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 프리즘 금장 금속성 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Radiant Aureate Metallic (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 缎光级辉耀鎏金 - 限量
+```
+
+
+
+
+### MessageID: 1047181 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer metallischen Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento metálico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement métallique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるメタリックナノコーティングのライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 금속성 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на металлическое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的金属纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047182 · Translation Modified
+
+EN
+
+```text
+Radiant Aureate Metallic - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Radiant Aureate Metallic - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Áureo radiante metálico (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Doré radieux métallique - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ レディアント・オーリイト・メタリック - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 프리즘 금장 금속성 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Radiant Aureate Metallic (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 金属级辉耀鎏金 - 无限
+```
+
+
+
+
+### MessageID: 1047183 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this metallic nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this metallic you must provide <a href=showinfo:81349>Fermionic Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer metallischen Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser metallischen Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser metallischen Nanobeschichtung sequenzieren, einen <a href=showinfo:81349>Fermionischen Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento metálico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento metálico no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento metálico, deberás proporcionar un <a href=showinfo:81349>secuenciador fermiónico</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement métallique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement métallique n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque fois que vous séquencez un design avec ce revêtement métallique, vous devez fournir un <a href=showinfo:81349>séquenceur fermionique</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるメタリックナノコーティングのライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このメタリックナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このメタリックナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81349>フェルミオン・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 금속성 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 금속성 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 금속성 나노코팅을 사용하려면 <a href=showinfo:81349>페르미온 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на металлическое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81349>фермионного секвенсора</a> (Fermionic Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的金属纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该金属纳米涂层的数字序列尚未绑定，可无限次使用。每次使用该金属纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81349>费米子序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047184 · Source Modified
+
+EN
+
+```diff
+- Defiant Ochre Matte
++ Defiant Latten Matte
+```
+
+
+DE
+
+```diff
+- 
++ Defiant Latten, matt
+```
+
+
+ES
+
+```diff
+- 
++ Latón desafiante mate
+```
+
+
+FR
+
+```diff
+- 
++ Laiton défiant mat
+```
+
+
+JA
+
+```diff
+- 
++ デファイアント・ラッテン・マット
+```
+
+
+KO
+
+```diff
+- 
++ 저항의 래튼 무광
+```
+
+
+RU
+
+```diff
+- 
++ Defiant Latten Matte
+```
+
+
+ZH
+
+```diff
+- 
++ 哑光级挑战者黄铜
+```
+
+
+
+
+### MessageID: 1047185 · Source Modified
+
+EN
+
+```diff
+- Defiant Ochre Matte - Limited
++ Defiant Latten Matte - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Defiant Latten Matte - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Latón desafiante mate (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Laiton défiant mat - Limité
+```
+
+
+JA
+
+```diff
+- 
++ デファイアント・ラッテン・マット - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 저항의 래튼 무광 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Defiant Latten Matte (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 哑光级挑战者黄铜 - 限量
+```
+
+
+
+
+### MessageID: 1047186 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на базовое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047187 · Source Modified
+
+EN
+
+```diff
+- Defiant Ochre Matte - Unlimited
++ Defiant Latten Matte - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Defiant Latten Matte - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Latón desafiante mate (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Laiton défiant mat - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ デファイアント・ラッテン・マット - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 저항의 래튼 무광 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Defiant Latten Matte (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 哑光级挑战者黄铜 - 无限
+```
+
+
+
+
+### MessageID: 1047188 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser Nanobeschichtung sequenzieren, einen <a href=showinfo:81350>Kerr-Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento, deberás proporcionar un <a href=showinfo:81350>secuenciador de Kerr</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque séquençage d'un design utilisant ce nanorevêtement, vous devez fournir un <a href=showinfo:81350>séquenceur Kerr</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81350>カー・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 나노코팅을 사용하려면 <a href=showinfo:81350>커 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на базовое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81350>магнитооптического секвенсора</a> (Kerr Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列尚未绑定，可无限次使用。每次使用纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81350>克尔序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047189 · Source Modified
+
+EN
+
+```diff
+- Resolve Stratos Gloss
++ Avalon Aqua Gloss
+```
+
+
+DE
+
+```diff
+- 
++ Avalon Aqua, glänzend
+```
+
+
+ES
+
+```diff
+- 
++ Aguamarina de Avalon brillante
+```
+
+
+FR
+
+```diff
+- 
++ Aqua d'Avalon brillant
+```
+
+
+JA
+
+```diff
+- 
++ アヴァロン・アクア・グロス
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 아쿠아 유광
+```
+
+
+RU
+
+```diff
+- 
++ Avalon Aqua Gloss
+```
+
+
+ZH
+
+```diff
+- 
++ 流光级阿瓦隆碧水
+```
+
+
+
+
+### MessageID: 1047190 · Source Modified
+
+EN
+
+```diff
+- Resolve Stratos Gloss - Limited
++ Avalon Aqua Gloss - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Avalon Aqua Gloss - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Aguamarina de Avalon brillante (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Aqua d'Avalon brillant - Limité
+```
+
+
+JA
+
+```diff
+- 
++ アヴァロン・アクア・グロス - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 아쿠아 유광 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Avalon Aqua Gloss (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 流光级阿瓦隆碧水 - 限量
+```
+
+
+
+
+### MessageID: 1047191 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на базовое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047192 · Source Modified
+
+EN
+
+```diff
+- Resolve Stratos Gloss - Unlimited
++ Avalon Aqua Gloss - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Avalon Aqua Gloss - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Aguamarina de Avalon brillante (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Aqua d'Avalon brillant - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ アヴァロン・アクア・グロス - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 아쿠아 유광 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Avalon Aqua Gloss (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 流光级阿瓦隆碧水 - 无限
+```
+
+
+
+
+### MessageID: 1047193 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser Nanobeschichtung sequenzieren, einen <a href=showinfo:81350>Kerr-Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento, deberás proporcionar un <a href=showinfo:81350>secuenciador de Kerr</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque séquençage d'un design utilisant ce nanorevêtement, vous devez fournir un <a href=showinfo:81350>séquenceur Kerr</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81350>カー・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 나노코팅을 사용하려면 <a href=showinfo:81350>커 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на базовое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81350>магнитооптического секвенсора</a> (Kerr Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列尚未绑定，可无限次使用。每次使用纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81350>克尔序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047194 · Source Modified
+
+EN
+
+```diff
+- Violent Surge
++ Harmonic Alloy
+```
+
+
+DE
+
+```diff
+- 
++ Harmonic Alloy
+```
+
+
+ES
+
+```diff
+- 
++ Aleación armónica
+```
+
+
+FR
+
+```diff
+- 
++ Alliage harmonique
+```
+
+
+JA
+
+```diff
+- 
++ ハーモニック・アロイ
+```
+
+
+KO
+
+```diff
+- 
++ 조율의 합금
+```
+
+
+RU
+
+```diff
+- 
++ Harmonic Alloy
+```
+
+
+ZH
+
+```diff
+- 
++ 谐波合金
+```
+
+
+
+
+### MessageID: 1047195 · Source Modified
+
+EN
+
+```diff
+- Violent Surge Metallic - Limited
++ Harmonic Alloy Metallic - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Harmonic Alloy Metallic - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Aleación armónica metálica (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Alliage harmonique métallique - Limité
+```
+
+
+JA
+
+```diff
+- 
++ ハーモニック・アロイ・メタリック - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 조율의 합금 금속성 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Harmonic Alloy Metallic (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 金属级谐波合金 - 限量
+```
+
+
+
+
+### MessageID: 1047196 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer metallischen Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento metálico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement métallique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるメタリックナノコーティングのライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 금속성 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на металлическое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的金属纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047197 · Source Modified
+
+EN
+
+```diff
+- Violent Surge Metallic - Unlimited
++ Harmonic Alloy Metallic - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Harmonic Alloy Metallic - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Aleación armónica metálica (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Alliage harmonique métallique - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ ハーモニック・アロイ・メタリック - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 조율의 합금 금속성 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Harmonic Alloy Metallic (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 金属级谐波合金 - 无限
+```
+
+
+
+
+### MessageID: 1047198 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this metallic nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this metallic you must provide <a href=showinfo:81349>Fermionic Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer metallischen Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser metallischen Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser metallischen Nanobeschichtung sequenzieren, einen <a href=showinfo:81349>Fermionischen Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento metálico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento metálico no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento metálico, deberás proporcionar un <a href=showinfo:81349>secuenciador fermiónico</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement métallique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement métallique n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque fois que vous séquencez un design avec ce revêtement métallique, vous devez fournir un <a href=showinfo:81349>séquenceur fermionique</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるメタリックナノコーティングのライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このメタリックナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このメタリックナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81349>フェルミオン・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 금속성 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 금속성 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 금속성 나노코팅을 사용하려면 <a href=showinfo:81349>페르미온 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на металлическое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81349>фермионного секвенсора</a> (Fermionic Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的金属纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该金属纳米涂层的数字序列尚未绑定，可无限次使用。每次使用该金属纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81349>费米子序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047199 · Source Modified
+
+EN
+
+```diff
+- Resolve Stratos Matte
++ Avalon Aqua Matte
+```
+
+
+DE
+
+```diff
+- 
++ Avalon Aqua, matt
+```
+
+
+ES
+
+```diff
+- 
++ Aguamarina de Avalon mate
+```
+
+
+FR
+
+```diff
+- 
++ Aqua d'Avalon mat
+```
+
+
+JA
+
+```diff
+- 
++ アヴァロン・アクア・マット
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 아쿠아 무광
+```
+
+
+RU
+
+```diff
+- 
++ Avalon Aqua Matte
+```
+
+
+ZH
+
+```diff
+- 
++ 哑光级阿瓦隆碧水
+```
+
+
+
+
+### MessageID: 1047209 · Source Modified
+
+EN
+
+```diff
+- Resolve Stratos Matte - Limited
++ Avalon Aqua Matte - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Avalon Aqua Matte - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Aguamarina de Avalon mate (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Aqua d'Avalon mat - Limité
+```
+
+
+JA
+
+```diff
+- 
++ アヴァロン・アクア・マット - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 아쿠아 무광 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Avalon Aqua Matte (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 哑光级阿瓦隆碧水 - 限量
+```
+
+
+
+
+### MessageID: 1047210 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на базовое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047211 · Source Modified
+
+EN
+
+```diff
+- Resolve Stratos Matte - Unlimited
++ Avalon Aqua Matte - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Avalon Aqua Matte - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Aguamarina de Avalon mate (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Aqua d'Avalon mat - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ アヴァロン・アクア・マット - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 아쿠아 무광 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Avalon Aqua Matte (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 哑光级阿瓦隆碧水 - 无限
+```
+
+
+
+
+### MessageID: 1047212 · Source Modified
+
+EN
+
+```diff
+  A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+  
+  The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser Nanobeschichtung sequenzieren, einen <a href=showinfo:81350>Kerr-Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento, deberás proporcionar un <a href=showinfo:81350>secuenciador de Kerr</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque séquençage d'un design utilisant ce nanorevêtement, vous devez fournir un <a href=showinfo:81350>séquenceur Kerr</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81350>カー・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 나노코팅을 사용하려면 <a href=showinfo:81350>커 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на базовое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81350>магнитооптического секвенсора</a> (Kerr Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列尚未绑定，可无限次使用。每次使用纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81350>克尔序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047213 · Source Modified
+
+EN
+
+```diff
+- Reclaimed Dawn Satin
++ Arkombine Dawn Satin
+```
+
+
+DE
+
+```diff
+- 
++ Arkombine Dawn, Satin
+```
+
+
+ES
+
+```diff
+- 
++ Amanecer arcombino satinado
+```
+
+
+FR
+
+```diff
+- 
++ Aube d'Arkombine satiné
+```
+
+
+JA
+
+```diff
+- 
++ アーコンバイン・ドーン・サテン
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 여명 새틴
+```
+
+
+RU
+
+```diff
+- 
++ Arkombine Dawn Satin
+```
+
+
+ZH
+
+```diff
+- 
++ 缎光级方舟联合体黎明
+```
+
+
+
+
+### MessageID: 1047214 · Source Modified
+
+EN
+
+```diff
+- Reclaimed Dawn Satin - Limited
++ Arkombine Dawn Satin - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Arkombine Dawn Satin - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Amanecer arcombino satinado (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Aube d'Arkombine satiné - Limité
+```
+
+
+JA
+
+```diff
+- 
++ アーコンバイン・ドーン・サテン - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 여명 새틴 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Arkombine Dawn Satin (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 缎光级方舟联合体黎明 - 限量
+```
+
+
+
+
+### MessageID: 1047215 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на базовое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047216 · Source Modified
+
+EN
+
+```diff
+- Reclaimed Dawn Satin - Unlimited
++ Arkombine Dawn Satin - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Arkombine Dawn Satin - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Amanecer arcombino satinado (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Aube d'Arkombine satiné - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ アーコンバイン・ドーン・サテン - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 여명 새틴 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Arkombine Dawn Satin (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 缎光级方舟联合体黎明 - 无限
+```
+
+
+
+
+### MessageID: 1047217 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser Nanobeschichtung sequenzieren, einen <a href=showinfo:81350>Kerr-Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento, deberás proporcionar un <a href=showinfo:81350>secuenciador de Kerr</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque séquençage d'un design utilisant ce nanorevêtement, vous devez fournir un <a href=showinfo:81350>séquenceur Kerr</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81350>カー・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 나노코팅을 사용하려면 <a href=showinfo:81350>커 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на базовое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81350>магнитооптического секвенсора</a> (Kerr Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列尚未绑定，可无限次使用。每次使用纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81350>克尔序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047218 · Source Modified
+
+EN
+
+```diff
+- Ascendant Zenith Gloss
++ Resonant Turf Gloss
+```
+
+
+DE
+
+```diff
+- 
++ Resonant Turf, glänzend
+```
+
+
+ES
+
+```diff
+- 
++ Césped resonante brillante
+```
+
+
+FR
+
+```diff
+- 
++ Territoire résonant brillant
+```
+
+
+JA
+
+```diff
+- 
++ レゾナント・ターフ・グロス
+```
+
+
+KO
+
+```diff
+- 
++ 공명의 잔디 유광
+```
+
+
+RU
+
+```diff
+- 
++ Resonant Turf Gloss
+```
+
+
+ZH
+
+```diff
+- 
++ 流光级共鸣绿野
+```
+
+
+
+
+### MessageID: 1047219 · Source Modified
+
+EN
+
+```diff
+- Ascendant Zenith Gloss - Limited
++ Resonant Turf Gloss - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Resonant Turf Gloss - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Césped resonante brillante (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Territoire résonant brillant - Limité
+```
+
+
+JA
+
+```diff
+- 
++ レゾナント・ターフ・グロス - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 공명의 잔디 유광 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Resonant Turf Gloss (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 流光级共鸣绿野 - 限量
+```
+
+
+
+
+### MessageID: 1047220 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Nanobeschichtung wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на базовое нанопокрытие для создания окраски. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Оно обладает связанной цифровой последовательностью и может быть использовано только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047221 · Source Modified
+
+EN
+
+```diff
+- Ascendant Zenith Gloss - Unlimited
++ Resonant Turf Gloss - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Resonant Turf Gloss - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Césped resonante brillante (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Territoire résonant brillant - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ レゾナント・ターフ・グロス - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 공명의 잔디 유광 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Resonant Turf Gloss (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 流光级共鸣绿野 - 无限
+```
+
+
+
+
+### MessageID: 1047222 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser Nanobeschichtung sequenzieren, einen <a href=showinfo:81350>Kerr-Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento básico en la secuenciación de SKIN.
++ 
++ La secuencia digital de este nanorrevestimiento no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento, deberás proporcionar un <a href=showinfo:81350>secuenciador de Kerr</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un nanorevêtement basique dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de ce nanorevêtement n'est pas fixée, permettant son utilisation illimitée. Toutefois, à chaque séquençage d'un design utilisant ce nanorevêtement, vous devez fournir un <a href=showinfo:81350>séquenceur Kerr</a> pour fixer les licences de SKIN uniques que vous générez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81350>カー・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 기본 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 나노코팅을 사용하려면 <a href=showinfo:81350>커 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на базовое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81350>магнитооптического секвенсора</a> (Kerr Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该纳米涂层的数字序列尚未绑定，可无限次使用。每次使用纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81350>克尔序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047223 · Source Modified
+
+EN
+
+```diff
+- Enduring Core
++ Harmonius Bridge
+```
+
+
+DE
+
+```diff
+- 
++ Harmonius Bridge
+```
+
+
+ES
+
+```diff
+- 
++ Puente armonioso
+```
+
+
+FR
+
+```diff
+- 
++ Pont d'Harmonius
+```
+
+
+JA
+
+```diff
+- 
++ ハーモニアス・ブリッジ
+```
+
+
+KO
+
+```diff
+- 
++ 하모니우스 브릿지
+```
+
+
+RU
+
+```diff
+- 
++ Harmonius Bridge
+```
+
+
+ZH
+
+```diff
+- 
++ 和谐之桥
+```
+
+
+
+
+### MessageID: 1047225 · Source Modified
+
+EN
+
+```diff
+- Enduring Core - Limited
++ Harmonius Bridge - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Harmonius Bridge - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Puente armonioso (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Pont d'Harmonius - Limité
+```
+
+
+JA
+
+```diff
+- 
++ ハーモニアス・ブリッジ - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 하모니우스 브릿지 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Harmonius Bridge (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 和谐之桥 - 限量
+```
+
+
+
+
+### MessageID: 1047226 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung eines Musters in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Muster-Lizenz wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un patrón en la secuenciación de SKIN.
++ 
++ La secuencia digital de esta licencia de patrón se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un motif dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de cette licence de motif a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるパターンライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このパターンライセンスのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 패턴을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 패턴이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на узор для создания окраски. Узор необходимо предварительно активировать и добавить в коллекцию окрасок-С. Обладает связанной цифровой последовательностью и может быть использован только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性图案许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该图案许可证的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047228 · Source Modified
+
+EN
+
+```diff
+- Enduring Core - Unlimited
++ Harmonius Bridge - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Harmonius Bridge - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Puente armonioso (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Pont d'Harmonius - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ ハーモニアス・ブリッジ - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 하모니우스 브릿지 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Harmonius Bridge (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 和谐之桥 - 无限
+```
+
+
+
+
+### MessageID: 1047229 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung eines Musters in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Muster-Lizenz wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieses Musters sequenzieren, einen <a href=showinfo:81348>Ausrichtungssequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un patrón en la secuenciación de SKIN.
++ 
++ La secuencia digital de esta licencia de patrón no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este patrón, deberás proporcionar un <a href=showinfo:81348>secuenciador de alineación</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un motif dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de cette licence de motif n'est pas fixée, permettant son utilisation illimitée. Toutefois, chaque fois que vous séquencez un design avec ce motif, vous devez fournir un <a href=showinfo:81348>séquenceur d'alignement</a> pour fixer les licences de SKIN uniques que vous créez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるパターンライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このパターンライセンスのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このパターンを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81348>アラインメント・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 패턴을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 패턴이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 패턴을 사용하려면 <a href=showinfo:81348>패턴 배열 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на узор для создания окрасок. Узор необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый проект по производству окраски с этим узором требует применения <a href=showinfo:81348>выравнивающего секвенсора</a> (Alignment Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的图案许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该图案许可证的数字序列尚未绑定，可无限次使用。每次使用该图案对设计进行排序时，你都必须借助<a href=showinfo:81348>校准序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047230 · Translation Modified
+
+EN
+
+```text
+Breach Control
+```
+
+
+DE
+
+```diff
+- 
++ Breach Control
+```
+
+
+ES
+
+```diff
+- 
++ Control de brecha
+```
+
+
+FR
+
+```diff
+- 
++ Contrôle des brèches
+```
+
+
+JA
+
+```diff
+- 
++ ブリーチコントロール
+```
+
+
+KO
+
+```diff
+- 
++ 침투 통제
+```
+
+
+RU
+
+```diff
+- 
++ Breach Control
+```
+
+
+ZH
+
+```diff
+- 
++ 突破控制
+```
+
+
+
+
+### MessageID: 1047231 · Translation Modified
+
+EN
+
+```text
+When inactive, the Breach control module uses field emitters in the same manner as a regular damage control unit. Once activated, it supercharges those field emitters to create waves of charge that ripple throughout the vessel, disrupting the efforts of any breacher teams before ultimately burning out the module.
+
+Grants a bonus to resistance for shield, armor, and hull.
+
+May be activated to grant a significant resistance to Breacher Pod damage for a limited period of time. However, it will 
+(truncated, 589 chars total)
+```
+
+
+DE
+
+```diff
+- 
++ Wenn inaktiv, verwendet das Breach Control-Modul Feldemitter auf dieselbe Weise wie ein regulärer Schadensregulierer. Einmal aktiviert, überlädt es diese Feldemitter, um Ladungswellen zu erzeugen, die das gesamte Schiff durchdringen und die Bemühungen jedes Brecher-Teams zu stoppen, bevor das Modul schließlich ausbrennt. Gewährt einen Resistenzbonus für Schilde, Panzerung und Rumpf. Kann aktiviert werden, um für eine begrenzte Zeit eine erhebliche Resistenz gegen Kapselbrecher-Schaden zu gewähren. Allerdings wird es nach einmaliger Verwendung ausbrennen. Hinweis: Es kann immer nur ein Schadensregulierer gleichzeitig ausgerüstet werden.
+```
+
+
+ES
+
+```diff
++ Cuando está inactivo, el módulo de control de brecha utiliza emisores de campo del mismo modo que una unidad de control de daños convencional. Una vez activado, sobrecarga esos emisores para generar ondas de energía que se propagan por toda la nave, dificultando las operaciones de cualquier equipo de abordaje antes de que el módulo termine por quemarse.
++ 
++ Otorga una bonificación de resistencia de escudo, blindaje y casco.
++ 
++ Puede activarse para conceder una resistencia considerable al daño de las cápsulas de ataque durante un tiempo limitado. Sin embargo, se quemará tras un solo uso.
++ 
++ Nota: Solo se puede equipar un control de daños a la vez.
+```
+
+
+FR
+
+```diff
+- 
++ Lorsqu'il est inactif, le module de Contrôle des brèches utilise des émetteurs de champ de la même manière qu'une unité de contrôle des dégâts standard. Une fois activé, il surcharge ces émetteurs de champ pour créer des ondes de charge qui se propagent à travers le vaisseau, perturbant les efforts de toute équipe de Brèche avant de finalement brûler le module. Confère un bonus de résistance au bouclier, au blindage et à la coque. Peut être activé pour accorder une résistance significative aux dégâts des capsules de brèche pendant une durée limitée. Cependant, il brûlera après une seule utilisation. Remarque : un seul contrôle des dégâts peut être installé à la fois.
+```
+
+
+JA
+
+```diff
++ 非起動時、ブリーチコントロールモジュールは通常のダメージコントロールユニットと同様の方法でフィールドエミッターを使用する。ひとたび起動すると、それらのフィールドエミッターをスーパーチャージして艦船全体にチャージの波を波及させ、侵入チームの活動を妨害したのち、最終的にモジュールを焼き切る。
++ 
++ シールド、アーマー、および船体のレジスタンスにボーナスを付与する。
++ 
++ 起動すると、限られた時間、ブリーチャーポッドによるダメージに対して強力なレジスタンスが付与される。ただし、1回使用するとモジュールは焼き切れる。
++ 
++ 注意：複数のダメージ制御を同時に装備することはできない。
+```
+
+
+KO
+
+```diff
++ 비활성화되면 침투 통제 모듈은 일반 데미지 컨트롤 유닛과 동일한 방식으로 필드 생성기를 활동합니다. 활성화되면 필드 생성기를 과충전하며 필드 생성기에서 전력 파동을 생성해 함선 표면에 흘려보냅니다. 모듈이 과부하되기 전까지 전력 파동으로 침투하려는 적을 방해합니다.
++ 
++ 실드, 장갑, 선체의 저항력이 증가합니다.
++ 
++ 활성화하면 일정 시간 동안 침투 포드 피해에 매우 높은 저항력을 제공합니다. 단, 1회 사용 후 모듈이 손상됩니다.
++ 
++ 주의: 데미지 컨트롤 모듈은 하나만 장착할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ В пассивном режиме антиабордажный модуль использует излучатели поля так же, как и обычный модуль боевой живучести. При активации он перегружает эти излучатели, создавая энергетические волны, которые расходятся по всему кораблю и сводят на нет усилия любых абордажных команд, после чего модуль окончательно перегорает. Улучшает сопротивляемость щитов, брони и корпуса. Можно использовать для резкого повышения сопротивляемости внедряющимся капсулам на короткое время. После однократного применения модуль перегорает. Примечание: на корабле можно установить лишь один модуль боевой живучести.
+```
+
+
+ZH
+
+```diff
+- 
++ 未激活时，突破控制模块的力场发射器工作方式与常规损伤控制单元无异。一旦激活，它将超载这些力场发射器，产生电荷波涤荡整艘舰船，干扰任何登舰破坏小队的行动，并最终导致模块烧毁。为护盾、装甲和结构提供抗性加成。可主动激活，在有限时间内大幅提升对分裂者级太空舱伤害的抗性。但使用一次后即烧毁。注：只能同时装配一个损伤控制。
+```
+
+
+
+
+### MessageID: 1047232 · Source Modified
+
+EN
+
+```diff
+- Rebel Crest
++ Rebel Cross
+```
+
+
+DE
+
+```diff
+- 
++ Rebel Cross
+```
+
+
+ES
+
+```diff
+- 
++ Cruz rebelde
+```
+
+
+FR
+
+```diff
+- 
++ Croix rebelle
+```
+
+
+JA
+
+```diff
+- 
++ レベル・クロス
+```
+
+
+KO
+
+```diff
+- 
++ 반군의 십자가
+```
+
+
+RU
+
+```diff
+- 
++ Rebel Cross
+```
+
+
+ZH
+
+```diff
+- 
++ 叛逆十字
+```
+
+
+
+
+### MessageID: 1047233 · Source Modified
+
+EN
+
+```diff
+- Rebel Crest - Limited
++ Rebel Cross - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Rebel Cross - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Cresta rebelde (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Croix rebelle - Limité
+```
+
+
+JA
+
+```diff
+- 
++ レベル・クロス - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 반군의 십자가 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Rebel Cross (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 叛逆十字 - 限量
+```
+
+
+
+
+### MessageID: 1047234 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung eines Musters in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Muster-Lizenz wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un patrón en la secuenciación de SKIN.
++ 
++ La secuencia digital de esta licencia de patrón se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un motif dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de cette licence de motif a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるパターンライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このパターンライセンスのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 패턴을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 패턴이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на узор для создания окраски. Узор необходимо предварительно активировать и добавить в коллекцию окрасок-С. Обладает связанной цифровой последовательностью и может быть использован только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性图案许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该图案许可证的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047235 · Source Modified
+
+EN
+
+```diff
+- Rebel Crest - Unlimited
++ Rebel Cross - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Rebel Cross - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Cresta rebelde (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Croix rebelle - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ レベル・クロス - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 반군의 십자가 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Rebel Cross (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 叛逆十字 - 无限
+```
+
+
+
+
+### MessageID: 1047236 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung eines Musters in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Muster-Lizenz wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieses Musters sequenzieren, einen <a href=showinfo:81348>Ausrichtungssequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un patrón en la secuenciación de SKIN.
++ 
++ La secuencia digital de esta licencia de patrón no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este patrón, deberás proporcionar un <a href=showinfo:81348>secuenciador de alineación</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un motif dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de cette licence de motif n'est pas fixée, permettant son utilisation illimitée. Toutefois, chaque fois que vous séquencez un design avec ce motif, vous devez fournir un <a href=showinfo:81348>séquenceur d'alignement</a> pour fixer les licences de SKIN uniques que vous créez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるパターンライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このパターンライセンスのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このパターンを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81348>アラインメント・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 패턴을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 패턴이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 패턴을 사용하려면 <a href=showinfo:81348>패턴 배열 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на узор для создания окрасок. Узор необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый проект по производству окраски с этим узором требует применения <a href=showinfo:81348>выравнивающего секвенсора</a> (Alignment Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的图案许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该图案许可证的数字序列尚未绑定，可无限次使用。每次使用该图案对设计进行排序时，你都必须借助<a href=showinfo:81348>校准序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047237 · Source Modified
+
+EN
+
+```diff
+- Remnant Dominion
++ Remnant Honor
+```
+
+
+DE
+
+```diff
+- 
++ Remnant Honor
+```
+
+
+ES
+
+```diff
+- 
++ Honor remanente
+```
+
+
+FR
+
+```diff
+- 
++ Vestige d'honneur
+```
+
+
+JA
+
+```diff
+- 
++ レムナント・オナー
+```
+
+
+KO
+
+```diff
+- 
++ 잔재의 명예
+```
+
+
+RU
+
+```diff
+- 
++ Remnant Honor
+```
+
+
+ZH
+
+```diff
+- 
++ 遗族荣耀
+```
+
+
+
+
+### MessageID: 1047238 · Source Modified
+
+EN
+
+```diff
+- Remnant Dominion - Limited
++ Remnant Honor - Limited
+```
+
+
+DE
+
+```diff
+- 
++ Remnant Honor - Limited
+```
+
+
+ES
+
+```diff
+- 
++ Honor remanente (limitado)
+```
+
+
+FR
+
+```diff
+- 
++ Vestige d'honneur - Limité
+```
+
+
+JA
+
+```diff
+- 
++ レムナント・オナー - 限定
+```
+
+
+KO
+
+```diff
+- 
++ 잔재의 명예 - 한정
+```
+
+
+RU
+
+```diff
+- 
++ Remnant Honor (однораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 遗族荣耀 - 限量
+```
+
+
+
+
+### MessageID: 1047239 · Translation Modified
+
+EN
+
+```text
+A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die einmalige Verwendung eines Musters in der SKIN-Sequenzierung, sobald sie aktiviert und in Ihrer SKINR-Sammlung ist. Die digitale Sequenz dieser Muster-Lizenz wurde gebunden und obwohl sie nur einmal verwendet werden kann, sind keine Sequenz-Binder erforderlich, wenn sie bei der Sequenzierung einer SKIN-Lizenz verbraucht wird.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite un único uso de un patrón en la secuenciación de SKIN.
++ 
++ La secuencia digital de esta licencia de patrón se ha vinculado y, aunque solo se puede usar una vez, no se requieren carpetas de secuencias cuando se consume en la secuenciación de una licencia de SKIN.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation unique d'un motif dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de cette licence de motif a été fixée et, bien qu'elle ne puisse être utilisée qu'une seule fois, aucun fixateur de séquence n'est nécessaire lorsqu'elle est consommée dans le séquençage d'une licence de SKIN.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで一度だけ使用できるパターンライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このパターンライセンスのデジタルシーケンスには制限がかかっており、一度しか使えないものの、SKINライセンスのシーケンシングで消費する際にシーケンスバインダーを必要としない。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 패턴을 1회 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 패턴이 각인된 상태이기 때문에 SKIN 각인 라이선스 절차 시 각인기가 없어도 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Однократная лицензия на узор для создания окраски. Узор необходимо предварительно активировать и добавить в коллекцию окрасок-С. Обладает связанной цифровой последовательностью и может быть использован только один раз, но при производстве окраски не требуются фиксаторы.
+```
+
+
+ZH
+
+```diff
+- 
++ 一次性图案许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该图案许可证的数字序列已被绑定。它只能单次使用，但在对涂装许可证进行排序时，无需使用额外的序列绑定器。
+```
+
+
+
+
+### MessageID: 1047240 · Source Modified
+
+EN
+
+```diff
+- Remnant Dominion - Unlimited
++ Remnant Honor - Unlimited
+```
+
+
+DE
+
+```diff
+- 
++ Remnant Honor - Unlimited
+```
+
+
+ES
+
+```diff
+- 
++ Honor remanente (ilimitado)
+```
+
+
+FR
+
+```diff
+- 
++ Vestige d'honneur - Illimité
+```
+
+
+JA
+
+```diff
+- 
++ レムナント・オナー - 無制限
+```
+
+
+KO
+
+```diff
+- 
++ 잔재의 명예 - 무제한
+```
+
+
+RU
+
+```diff
+- 
++ Remnant Honor (многораз.)
+```
+
+
+ZH
+
+```diff
+- 
++ 遗族荣耀 - 无限
+```
+
+
+
+
+### MessageID: 1047241 · Translation Modified
+
+EN
+
+```text
+A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Lizenz für die unbegrenzte Verwendung eines Musters in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Muster-Lizenz wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieses Musters sequenzieren, einen <a href=showinfo:81348>Ausrichtungssequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden.
+```
+
+
+ES
+
+```diff
++ Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un patrón en la secuenciación de SKIN.
++ 
++ La secuencia digital de esta licencia de patrón no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este patrón, deberás proporcionar un <a href=showinfo:81348>secuenciador de alineación</a> para vincular las licencias de SKIN únicas que estés produciendo.
+```
+
+
+FR
+
+```diff
+- 
++ Une licence pour l'utilisation illimitée d'un motif dans le séquençage de SKIN, une fois activé et intégré à votre collection SKINR. La séquence numérique de cette licence de motif n'est pas fixée, permettant son utilisation illimitée. Toutefois, chaque fois que vous séquencez un design avec ce motif, vous devez fournir un <a href=showinfo:81348>séquenceur d'alignement</a> pour fixer les licences de SKIN uniques que vous créez.
+```
+
+
+JA
+
+```diff
++ SKINシーケンシングで無制限に使用できるパターンライセンス。有効化するとSKINRコレクションに追加される。
++ 
++ このパターンライセンスのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このパターンを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81348>アラインメント・シーケンサー</a>を用意する必要がある。
+```
+
+
+KO
+
+```diff
++ SKIN 각인 생성 중 패턴을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.
++ 
++ 패턴이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 패턴을 사용하려면 <a href=showinfo:81348>패턴 배열 각인기</a>가 필요합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Многократная лицензия на узор для создания окрасок. Узор необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый проект по производству окраски с этим узором требует применения <a href=showinfo:81348>выравнивающего секвенсора</a> (Alignment Sequencer) для генерации уникальных лицензий.
+```
+
+
+ZH
+
+```diff
+- 
++ 可无限次使用的图案许可证，用于涂装排序。激活后将直接添加至玩家的SKINR收藏列表。该图案许可证的数字序列尚未绑定，可无限次使用。每次使用该图案对设计进行排序时，你都必须借助<a href=showinfo:81348>校准序列器</a>来绑定你所创建的专属涂装许可证。
+```
+
+
+
+
+### MessageID: 1047242 · Translation Modified
+
+EN
+
+```text
+Breacher Pod Damage Resistance
+```
+
+
+DE
+
+```diff
+- 
++ Resistenz gegen Kapselbrecherschaden
+```
+
+
+ES
+
+```diff
+- 
++ Resistencia al daño de la cápsula de ataque
+```
+
+
+FR
+
+```diff
+- 
++ Résistance aux dégâts des capsules de brèche
+```
+
+
+JA
+
+```diff
+- 
++ ブリーチャーポッドダメージレジスタンス
+```
+
+
+KO
+
+```diff
+- 
++ 침투 포드 피해 저항력
+```
+
+
+RU
+
+```diff
+- 
++ Сопротивляемость урону внедряющейся капсулы
+```
+
+
+ZH
+
+```diff
+- 
++ 分裂者级太空舱伤害抗性
+```
+
+
+
+
+### MessageID: 1047243 · Translation Modified
+
+EN
+
+```text
+Activated Breacher Pod Damage Received
+```
+
+
+DE
+
+```diff
+- 
++ Aktiviert – Erhaltener Kapselbrecherschaden
+```
+
+
+ES
+
+```diff
+- 
++ Daño recibido de la cápsula de ataque activada
+```
+
+
+FR
+
+```diff
+- 
++ Activation : réduction des dégâts infligés par les capsules de brèche
+```
+
+
+JA
+
+```diff
+- 
++ 起動中ブリーチャーポッド被ダメージ量
+```
+
+
+KO
+
+```diff
+- 
++ 받은 활성화 침투 포드 피해
+```
+
+
+RU
+
+```diff
+- 
++ Активный урон от внедряющейся капсулы
+```
+
+
+ZH
+
+```diff
+- 
++ 已激活的分裂者级太空舱伤害承受量
+```
+
+
+
+
+### MessageID: 1047249 · Translation Modified
+
+EN
+
+```text
+Breacher Pod Damage Received
+```
+
+
+DE
+
+```diff
+- 
++ Erhaltener Kapselbrecherschaden
+```
+
+
+ES
+
+```diff
+- 
++ Daño recibido de la cápsula de ataque
+```
+
+
+FR
+
+```diff
+- 
++ Dégâts infligés par les capsules de brèche
+```
+
+
+JA
+
+```diff
+- 
++ ブリーチャーポッド被ダメージ量
+```
+
+
+KO
+
+```diff
+- 
++ 받은 침투 포드 피해
+```
+
+
+RU
+
+```diff
+- 
++ Полученный урон от внедряющейся капсулы
+```
+
+
+ZH
+
+```diff
+- 
++ 分裂者级太空舱伤害承受量
+```
+
+
+
+
+### MessageID: 1047254 · Translation Modified
+
+EN
+
+```text
+Breacher Pod Damage Control
+```
+
+
+DE
+
+```diff
+- 
++ Schadensregulierer für Kapselbrecher
+```
+
+
+ES
+
+```diff
+- 
++ Control de daños de la cápsula de ataque
+```
+
+
+FR
+
+```diff
+- 
++ Contrôle des dégâts des capsules de brèche
+```
+
+
+JA
+
+```diff
+- 
++ ブリーチャーポッドダメージ制御
+```
+
+
+KO
+
+```diff
+- 
++ 침투 포드 데미지 컨트롤
+```
+
+
+RU
+
+```diff
+- 
++ Боевая живучесть внедряющейся капсулы
+```
+
+
+ZH
+
+```diff
+- 
++ 分裂者级太空舱损伤控制
+```
+
+
+
+
+### MessageID: 1047273 · Added
+
+EN
+
+```text
+Kita-Aino - Gate to Celerity
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047274 · Added
+
+EN
+
+```text
+Celerity - Gate to Kita-Aino
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047283 · Added
+
+EN
+
+```text
+Tiberis - Gate to Fortitude
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047284 · Added
+
+EN
+
+```text
+Fortitude - Gate to Tiberis
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047285 · Added
+
+EN
+
+```text
+Vatna - Gate to Rigor
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047286 · Added
+
+EN
+
+```text
+Rigor - Gate to Vatna
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047305 · Translation Modified
+
+EN
+
+```text
+Sentry Rifter
+```
+
+
+DE
+
+```diff
+- 
++ Sentry Rifter
+```
+
+
+ES
+
+```diff
+- 
++ Rifter centinela
+```
+
+
+FR
+
+```diff
+- 
++ Rifter sentinelle
+```
+
+
+JA
+
+```diff
+- 
++ セントリー・リフター
+```
+
+
+KO
+
+```diff
+- 
++ 센트리 리프터
+```
+
+
+RU
+
+```diff
+- 
++ Sentry Rifter
+```
+
+
+ZH
+
+```diff
+- 
++ 裂谷级哨兵
+```
+
+
+
+
+### MessageID: 1047306 · Translation Modified
+
+EN
+
+```text
+A Rifter class frigate with dedicated destructive capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Fregatte der Rifter-Klasse, spezialisiert auf Zerstörung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Una fragata de clase Rifter con capacidades destructivas especializadas.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Une frégate de classe Rifter dotée de capacités destructrices dédiées. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ 特化型破壊兵器を搭載したリフター級フリゲート。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 파괴력을 극대화한 리프터 프리깃입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Фрегат класса Rifter с особыми разрушительными способностями. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘裂谷级护卫舰，具备专门的破坏能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047307 · Translation Modified
+
+EN
+
+```text
+Inspector Slasher
+```
+
+
+DE
+
+```diff
+- 
++ Inspector Slasher
+```
+
+
+ES
+
+```diff
+- 
++ Slasher de inspector
+```
+
+
+FR
+
+```diff
+- 
++ Slasher d'inspection
+```
+
+
+JA
+
+```diff
+- 
++ インスペクター・スラッシャー
+```
+
+
+KO
+
+```diff
+- 
++ 조사관 슬래셔
+```
+
+
+RU
+
+```diff
+- 
++ Inspector Slasher
+```
+
+
+ZH
+
+```diff
+- 
++ 伐木者级检察员
+```
+
+
+
+
+### MessageID: 1047308 · Translation Modified
+
+EN
+
+```text
+A Slasher class frigate fitted with target painting capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Fregatte der Slasher-Klasse mit Zielmarkierungsfähigkeiten. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Una fragata de clase Slasher equipada con sistemas de revelación de objetivos.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Une frégate de classe Slasher équipée de capacités de marquage de cible. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ターゲットペインター機能を備えたスラッシャー級フリゲート。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 타겟 페인터를 탑재한 슬래셔 프리깃입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Фрегат класса Slasher, оснащённый модулем подсветки целей. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘伐木者级护卫舰，具备目标标记能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047309 · Translation Modified
+
+EN
+
+```text
+Inspector Firetail
+```
+
+
+DE
+
+```diff
+- 
++ Inspector Firetail
+```
+
+
+ES
+
+```diff
+- 
++ Firetail de inspector
+```
+
+
+FR
+
+```diff
+- 
++ Firetail d'inspection
+```
+
+
+JA
+
+```diff
+- 
++ インスペクター・ファイアテイル
+```
+
+
+KO
+
+```diff
+- 
++ 조사관 파이어테일
+```
+
+
+RU
+
+```diff
+- 
++ Inspector Firetail
+```
+
+
+ZH
+
+```diff
+- 
++ 火尾鸡级检察员
+```
+
+
+
+
+### MessageID: 1047310 · Translation Modified
+
+EN
+
+```text
+A Republic Fleet Firetail class frigate fitted with target painting capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Fregatte der Firetail-Klasse der Republic Fleet mit Zielmarkierungsfähigkeiten. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Una fragata de clase Firetail de la Flota de la República equipada con sistemas de revelación de objetivos.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Une frégate de classe Firetail de la Flotte de la République dotée de capacités de marquage de cible. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ターゲットペインター機能を備えた共和国海軍仕様ファイアテイル級フリゲート。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 타겟 페인터를 탑재한 공화국 함대 파이어테일 프리깃입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Фрегат класса Republic Fleet Firetail, оснащённый модулем подсветки целей. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘火尾鸡级共和国舰队护卫舰，具备目标标记能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047311 · Translation Modified
+
+EN
+
+```text
+Sentry Corax
+```
+
+
+DE
+
+```diff
+- 
++ Sentry Corax
+```
+
+
+ES
+
+```diff
+- 
++ Corax centinela
+```
+
+
+FR
+
+```diff
+- 
++ Corax sentinelle
+```
+
+
+JA
+
+```diff
+- 
++ セントリー・コラックス
+```
+
+
+KO
+
+```diff
+- 
++ 센트리 코락스
+```
+
+
+RU
+
+```diff
+- 
++ Sentry Corax
+```
+
+
+ZH
+
+```diff
+- 
++ 渡鸦级哨兵
+```
+
+
+
+
+### MessageID: 1047312 · Translation Modified
+
+EN
+
+```text
+A Corax class destroyer with dedicated destructive capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Zerstörer der Corax-Klasse, spezialisiert auf Zerstörung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un destructor de clase Corax con capacidades destructivas especializadas.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un destroyer de classe Corax doté de capacités destructrices dédiées. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ 特化型破壊兵器を搭載したコラックス級駆逐艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 파괴력을 극대화한 코락스 디스트로이어입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Эсминец класса Corax с особыми разрушительными способностями. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘渡鸦级驱逐舰，具备专门的破坏能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047313 · Translation Modified
+
+EN
+
+```text
+Clandestine Corax
+```
+
+
+DE
+
+```diff
+- 
++ Clandestine Corax
+```
+
+
+ES
+
+```diff
+- 
++ Corax clandestina
+```
+
+
+FR
+
+```diff
+- 
++ Corax clandestin
+```
+
+
+JA
+
+```diff
+- 
++ クランデスティン・コラックス
+```
+
+
+KO
+
+```diff
+- 
++ 기밀 코락스
+```
+
+
+RU
+
+```diff
+- 
++ Clandestine Corax
+```
+
+
+ZH
+
+```diff
+- 
++ 渡鸦级隐秘者
+```
+
+
+
+
+### MessageID: 1047314 · Translation Modified
+
+EN
+
+```text
+A Corax class destroyer fitted with ECM capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Zerstörer der Corax-Klasse mit ECM-Ausrüstung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un destructor de clase Corax equipado con contramedidas electrónicas.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un destroyer de classe Corax doté de capacités de CME. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ECM機能を備えたコラックス級駆逐艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ ECM 기능을 강화한 코락스 디스트로이어입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Эсминец класса Corax, оснащённый модулем для применения МЭП. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘渡鸦级驱逐舰，具备ECM能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047315 · Translation Modified
+
+EN
+
+```text
+Clandestine Cormorant Navy Issue
+```
+
+
+DE
+
+```diff
+- 
++ Clandestine Cormorant Navy Issue
+```
+
+
+ES
+
+```diff
+- 
++ Cormorant modelo de la Armada clandestina
+```
+
+
+FR
+
+```diff
+- 
++ Cormorant Navy Issue clandestin
+```
+
+
+JA
+
+```diff
+- 
++ クランデスティン・コーモラント海軍仕様
+```
+
+
+KO
+
+```diff
+- 
++ 기밀 코모란트 해군 에디션
+```
+
+
+RU
+
+```diff
+- 
++ Clandestine Cormorant Navy Issue
+```
+
+
+ZH
+
+```diff
+- 
++ 海燕级海军型隐秘行动
+```
+
+
+
+
+### MessageID: 1047316 · Translation Modified
+
+EN
+
+```text
+A Cormorant Navy Issue class destroyer fitted with ECM capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Zerstörer der Cormorant Navy Issue-Klasse mit ECM-Ausrüstung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un destructor de clase Cormorant modelo de la Armada equipado con contramedidas electrónicas.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un destroyer de classe Cormorant Navy Issue doté de capacités de CME. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ECM機能を備えた海軍仕様コーモラント級駆逐艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ ECM 기능을 강화한 코모란트 해군 에디션 디스트로이어입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Эсминец класса Cormorant Navy Issue, оснащённый модулем для применения МЭП. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘海燕级海军型驱逐舰，具备ECM能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047317 · Translation Modified
+
+EN
+
+```text
+Sentry Thorax
+```
+
+
+DE
+
+```diff
+- 
++ Sentry Thorax
+```
+
+
+ES
+
+```diff
+- 
++ Thorax centinela
+```
+
+
+FR
+
+```diff
+- 
++ Thorax sentinelle
+```
+
+
+JA
+
+```diff
+- 
++ セントリー・ソーラックス
+```
+
+
+KO
+
+```diff
+- 
++ 센트리 쏘락스
+```
+
+
+RU
+
+```diff
+- 
++ Sentry Thorax
+```
+
+
+ZH
+
+```diff
+- 
++ 托勒克斯级哨兵
+```
+
+
+
+
+### MessageID: 1047318 · Translation Modified
+
+EN
+
+```text
+A Thorax class cruiser with dedicated destructive capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Kreuzer der Thorax-Klasse, spezialisiert auf Zerstörung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un crucero de clase Thorax con capacidades destructivas especializadas.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un croiseur de classe Thorax doté de capacités destructrices dédiées. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ 特化型破壊兵器を搭載したソーラックス級巡洋艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 파괴력을 극대화한 쏘락스 크루저입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Крейсер класса Thorax с особыми разрушительными способностями. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘托勒克斯级巡洋舰，具备专门的破坏能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047319 · Translation Modified
+
+EN
+
+```text
+Sheriff Celestis
+```
+
+
+DE
+
+```diff
+- 
++ Sheriff Celestis
+```
+
+
+ES
+
+```diff
+- 
++ Celestis del sheriff
+```
+
+
+FR
+
+```diff
+- 
++ Celestis shérif
+```
+
+
+JA
+
+```diff
+- 
++ シェリフ・セレスティス
+```
+
+
+KO
+
+```diff
+- 
++ 보안관 셀레스티스
+```
+
+
+RU
+
+```diff
+- 
++ Sheriff Celestis
+```
+
+
+ZH
+
+```diff
+- 
++ 星空级警长
+```
+
+
+
+
+### MessageID: 1047320 · Translation Modified
+
+EN
+
+```text
+A Celestis class cruiser fitted with a webifier.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Kreuzer der Celestis-Klasse, ausgestattet mit einem Stasisnetz. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un crucero de clase Celestis equipado con una red ralentizadora.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un croiseur de classe Celestis équipé d'un générateur de stase. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ウェビファイヤーを備えたセレスティス級巡洋艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 스테이시스 웹을 탑재한 셀레스티스 크루저입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Крейсер класса Celestis, оснащённый стазис-индуктором. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘星空级巡洋舰，装备网状干扰器。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047321 · Translation Modified
+
+EN
+
+```text
+Sheriff Vexor Navy Issue
+```
+
+
+DE
+
+```diff
+- 
++ Sheriff Vexor Navy Issue
+```
+
+
+ES
+
+```diff
+- 
++ Vexor modelo de la Armada del sheriff
+```
+
+
+FR
+
+```diff
+- 
++ Vexor Navy Issue shérif
+```
+
+
+JA
+
+```diff
+- 
++ シェリフ・ヴェクサー海軍仕様
+```
+
+
+KO
+
+```diff
+- 
++ 보안관 벡서 해군 에디션
+```
+
+
+RU
+
+```diff
+- 
++ Sheriff Vexor Navy Issue
+```
+
+
+ZH
+
+```diff
+- 
++ 狂怒者级海军型警长
+```
+
+
+
+
+### MessageID: 1047322 · Translation Modified
+
+EN
+
+```text
+A Vexor Navy Issue class cruiser fitted with a webifier.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Kreuzer der Vexor Navy Issue-Klasse, ausgestattet mit einem Stasisnetz. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un crucero de clase Vexor modelo de la Armada equipado con una red ralentizadora.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un croiseur de classe Vexor Navy Issue équipé d'un générateur de stase. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ウェビファイヤーを備えたベクサー海軍仕様級巡洋艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 스테이시스 웹을 탑재한 벡서 해군 에디션 크루저입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Крейсер класса Vexor Navy Issue, оснащённый стазис-индуктором. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘狂怒者级海军型巡洋舰，装备网状干扰器。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047323 · Translation Modified
+
+EN
+
+```text
+Sentry Oracle
+```
+
+
+DE
+
+```diff
+- 
++ Sentry Oracle
+```
+
+
+ES
+
+```diff
+- 
++ Oracle centinela
+```
+
+
+FR
+
+```diff
+- 
++ Oracle sentinelle
+```
+
+
+JA
+
+```diff
+- 
++ セントリー・オラクル
+```
+
+
+KO
+
+```diff
+- 
++ 센트리 오라클
+```
+
+
+RU
+
+```diff
+- 
++ Sentry Oracle
+```
+
+
+ZH
+
+```diff
+- 
++ 预言级哨兵
+```
+
+
+
+
+### MessageID: 1047324 · Translation Modified
+
+EN
+
+```text
+An Oracle class battlecruiser with dedicated destructive capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Schlachtkreuzer der Oracle-Klasse, spezialisiert auf Zerstörung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un crucero de combate de clase Oracle con capacidades destructivas especializadas.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un croiseur cuirassé de classe Oracle doté de capacités destructrices dédiées. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ 特化型破壊兵器を搭載したオラクル級巡洋戦艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 파괴력을 극대화한 오라클 배틀크루저입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Линейный крейсер класса Oracle с особыми разрушительными способностями. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘预言级战列巡洋舰，具备专门的破坏能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047325 · Translation Modified
+
+EN
+
+```text
+Regulator Prophecy
+```
+
+
+DE
+
+```diff
+- 
++ Regulator Prophecy
+```
+
+
+ES
+
+```diff
+- 
++ Prophecy reguladora
+```
+
+
+FR
+
+```diff
+- 
++ Prophecy régulateur
+```
+
+
+JA
+
+```diff
+- 
++ レギュレーター・プロフェシー
+```
+
+
+KO
+
+```diff
+- 
++ 조정자 프로퍼시
+```
+
+
+RU
+
+```diff
+- 
++ Regulator Prophecy
+```
+
+
+ZH
+
+```diff
+- 
++ 先知级监管员
+```
+
+
+
+
+### MessageID: 1047326 · Translation Modified
+
+EN
+
+```text
+A Prophecy class battlecruiser fitted with neutralizing capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Schlachtkreuzer der Prophecy-Klasse mit Neutralisierungsausrüstung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un crucero de combate de clase Prophecy equipado con sistemas de neutralización.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un croiseur cuirassé de classe Prophecy doté de capacités de neutralisation. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ニュートラライザーを備えたプロフェシー級巡洋戦艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 뉴트럴라이저를 탑재한 프로퍼시 배틀크루저입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Линейный крейсер класса Prophecy, оснащённый модулем нейтрализации энергии. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘预言级战列巡洋舰，装备能量中和能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047327 · Translation Modified
+
+EN
+
+```text
+Regulator Harbinger Navy Issue
+```
+
+
+DE
+
+```diff
+- 
++ Regulator Harbinger Navy Issue
+```
+
+
+ES
+
+```diff
+- 
++ Harbinger modelo de la Armada reguladora
+```
+
+
+FR
+
+```diff
+- 
++ Harbinger Navy Issue régulateur
+```
+
+
+JA
+
+```diff
+- 
++ レギュレーター・ハービンジャー海軍仕様
+```
+
+
+KO
+
+```diff
+- 
++ 조정자 하빈저 해군 에디션
+```
+
+
+RU
+
+```diff
+- 
++ Regulator Harbinger Navy Issue
+```
+
+
+ZH
+
+```diff
+- 
++ 先驱者级海军型监管员
+```
+
+
+
+
+### MessageID: 1047328 · Translation Modified
+
+EN
+
+```text
+A Harbinger Navy Issue class battlecruiser fitted with neutralizing capabilities.
+
+This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Schlachtkreuzer der Harbinger Navy Issue-Klasse mit Neutralisierungsausrüstung. Dieses Schiff wurde einem Sicherheitsteam zugewiesen, das mit dem Schutz geheimer Projekte von AEGIS beauftragt ist.
+```
+
+
+ES
+
+```diff
++ Un crucero de combate de clase Harbinger modelo de la Armada equipado con sistemas de neutralización.
++ 
++ Esta nave ha sido asignada a un equipo de seguridad encargado de proteger los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un croiseur cuirassé de classe Harbinger Navy Issue doté de capacités de neutralisation. Ce vaisseau a été assigné à une équipe de sécurité chargée de protéger les projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
++ ニュートラライザーを備えた海軍仕様ハービンジャー級巡洋戦艦。
++ 
++ この艦船は、AEGISの秘密プロジェクトを保護する任務を帯びた警備チームに配備されている。
+```
+
+
+KO
+
+```diff
++ 뉴트럴라이저를 탑재한 하빈저 해군 에디션 배틀크루저입니다.
++ 
++ AEGIS의 기밀 프로젝트를 보호하는 보안팀에 배치되었습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Линейный крейсер класса Harbinger Navy Issue, оснащённый модулем нейтрализации энергии. Этот корабль приписан к команде охраны, отвечающей за защиту секретных проектов AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘先驱者海军型战列巡洋舰，装备能量中和能力。该舰已编入一个安全小组，协助该小组保护统合部紧急干预和安全局的秘密项目。
+```
+
+
+
+
+### MessageID: 1047329 · Translation Modified
+
+EN
+
+```text
+Deputy Director Maelstrom
+```
+
+
+DE
+
+```diff
+- 
++ Deputy Director Maelstrom
+```
+
+
+ES
+
+```diff
+- 
++ Maelstrom del subdirector
+```
+
+
+FR
+
+```diff
+- 
++ Maelstrom de directeur adjoint
+```
+
+
+JA
+
+```diff
+- 
++ 副ディレクター・メイルストローム
+```
+
+
+KO
+
+```diff
+- 
++ 부사령관 마엘스트롬
+```
+
+
+RU
+
+```diff
+- 
++ Deputy Director Maelstrom
+```
+
+
+ZH
+
+```diff
+- 
++ 死亡漩涡级副局长
+```
+
+
+
+
+### MessageID: 1047330 · Translation Modified
+
+EN
+
+```text
+A Maelstrom under the command of a high-ranking officer within AEGIS’ secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Maelstrom unter dem Kommando eines hochrangigen Offiziers, der geheimen Projekten von AEGIS zugeteilt ist.
+```
+
+
+ES
+
+```diff
+- 
++ Una Maelstrom bajo el mando de un oficial superior de los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un Maelstrom sous le commandement d'un officier de haut rang au sein des projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
+- 
++ AEGISの秘密プロジェクト内における、高官の指揮下にあるメイルストローム。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 기밀 프로젝트를 지휘하는 고위급 장교가 운용하는 마엘스트롬입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Maelstrom под командованием высокопоставленного военного чина, задействованного в секретных проектах AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘死亡漩涡级舰船，由统合部紧急干预和安全局秘密项目的高级官员指挥。
+```
+
+
+
+
+### MessageID: 1047331 · Translation Modified
+
+EN
+
+```text
+Deputy Director Rokh
+```
+
+
+DE
+
+```diff
+- 
++ Deputy Director Rokh
+```
+
+
+ES
+
+```diff
+- 
++ Rokh del subdirector
+```
+
+
+FR
+
+```diff
+- 
++ Rokh de directeur adjoint
+```
+
+
+JA
+
+```diff
+- 
++ 副ディレクター・ローク
+```
+
+
+KO
+
+```diff
+- 
++ 부사령관 로크
+```
+
+
+RU
+
+```diff
+- 
++ Deputy Director Rokh
+```
+
+
+ZH
+
+```diff
+- 
++ 鹏鲲级副局长
+```
+
+
+
+
+### MessageID: 1047332 · Translation Modified
+
+EN
+
+```text
+A Rokh under the command of a high-ranking officer within AEGIS’ secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Rokh unter dem Kommando eines hochrangigen Offiziers, der geheimen Projekten von AEGIS zugeteilt ist.
+```
+
+
+ES
+
+```diff
+- 
++ Un Rokh bajo el mando de un oficial superior de los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un Rokh sous le commandement d'un officier de haut rang au sein des projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
+- 
++ AEGISの秘密プロジェクト内における、高官の指揮下にあるローク。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 기밀 프로젝트를 지휘하는 고위급 장교가 운용하는 로크입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Rokh под командованием высокопоставленного военного чина, задействованного в секретных проектах AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘鹏鲲级战舰船，由统合部紧急干预和安全局秘密项目的高级官员指挥。
+```
+
+
+
+
+### MessageID: 1047333 · Translation Modified
+
+EN
+
+```text
+Deputy Director Hyperion
+```
+
+
+DE
+
+```diff
+- 
++ Deputy Director Hyperion
+```
+
+
+ES
+
+```diff
+- 
++ Hyperion del subdirector
+```
+
+
+FR
+
+```diff
+- 
++ Hyperion de directeur adjoint
+```
+
+
+JA
+
+```diff
+- 
++ 副ディレクター・ハイペリオン
+```
+
+
+KO
+
+```diff
+- 
++ 부사령관 히페리온
+```
+
+
+RU
+
+```diff
+- 
++ Deputy Director Hyperion
+```
+
+
+ZH
+
+```diff
+- 
++ 亥伯龙神级副局长
+```
+
+
+
+
+### MessageID: 1047334 · Translation Modified
+
+EN
+
+```text
+A Hyperion under the command of a high-ranking officer within AEGIS’ secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Hyperion unter dem Kommando eines hochrangigen Offiziers, der geheimen Projekten von AEGIS zugeteilt ist.
+```
+
+
+ES
+
+```diff
+- 
++ Una Hyperion bajo el mando de un oficial superior de los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un Hyperion sous le commandement d'un officier de haut rang au sein des projets secrets d'AEGIS.
+```
+
+
+JA
+
+```diff
+- 
++ AEGISの秘密プロジェクト内における、高官の指揮下にあるハイペリオン。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 기밀 프로젝트를 지휘하는 고위급 장교가 운용하는 히페리온입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Hyperion под командованием высокопоставленного военного чина, задействованного в секретных проектах AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一架亥伯龙神级舰船，由统合部紧急干预和安全局秘密项目的高级官员指挥。
+```
+
+
+
+
+### MessageID: 1047335 · Translation Modified
+
+EN
+
+```text
+AEGIS Joint Operation Center
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Joint Operation Center
+```
+
+
+ES
+
+```diff
+- 
++ Centro de operaciones conjuntas de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Centre d'opérations conjointes d'AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS合同作戦センター
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 연합 작전본부
+```
+
+
+RU
+
+```diff
+- 
++ Совместный оперативный штаб AEGIS
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局联合行动中心
+```
+
+
+
+
+### MessageID: 1047336 · Source Modified
+
+EN
+
+```diff
+- Vanguard: Avalon
++ Operation Avalon
+```
+
+
+DE
+
+```diff
+- 
++ Operation Avalon
+```
+
+
+ES
+
+```diff
+- 
++ Operación Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Opération Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Operation Avalon 
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 작전
+```
+
+
+RU
+
+```diff
+- 
++ Operation Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆行动
+```
+
+
+
+
+### MessageID: 1047338 · Source Modified
+
+EN
+
+```diff
+- 
++ AEGIS activities are being revealed throughout space. Track down AEGIS Squalls and locate sites to aid in Avalon Investigations, gaining rewards and a chance to earn the flotilla’s trust on behalf of your local empire.
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS-Aktivitäten werden im gesamten Weltraum enthüllt. Spüren Sie AEGIS-Squalls auf und finden Sie Gebiete, um Avalon-Untersuchungen zu unterstützen, Belohnungen zu erhalten und darauf hinzuarbeiten, das Vertrauen der Flottille im Namen Ihres Imperiums zu gewinnen.
+```
+
+
+ES
+
+```diff
+- 
++ Las actividades de AEGIS están saliendo a la luz por todo el espacio. Rastrea las Squall de AEGIS y localiza zonas para colaborar en las investigaciones de Avalon, obtener retribuciones y ganarte la confianza de la flotilla en nombre de tu imperio local.
+```
+
+
+FR
+
+```diff
+- 
++ Des activités d'AEGIS sont révélées dans tout l'espace. Traquez les Squalls d'AEGIS pour aider les enquêtes d'Avalon, afin d'obtenir des récompenses et une chance de gagner la confiance de la flottille au nom de votre empire.
+```
+
+
+JA
+
+```diff
+- 
++ 宇宙各地でAEGISの活動が明らかになりつつある。AEGISスコールを追跡してサイトの場所を突き止め、Avalon調査に協力しよう。報酬を獲得し、自国を代表してAvalon艦隊の信頼を勝ち取るチャンスだ。
+```
+
+
+KO
+
+```diff
+- 
++ 우주 전역에서 AEGIS의 활동이 감지되었습니다. AEGIS 스퀄을 추적해 사이트의 위치를 밝혀 아발론 조사를 지원하세요. 보상을 받고 소함대의 신뢰를 얻어 당신의 4대 국가를 지원할 수 있게 하세요.
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS ведёт активность по всему космосу. Выслеживайте корабли AEGIS Squall и следуйте за ними в особые районы, чтобы помочь в исследованиях Avalon, получить награды — и шанс заслужить доверие флотилии от имени вашей державы.
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局的活动正在全宇宙范围内逐步暴露。追踪狂风级庇护者并定位任务地点，协助完成“阿瓦隆调查”，获取奖励，并有机会代表本地帝国赢得舰队信任。
+```
+
+
+
+
+### MessageID: 1047385 · Source Modified
+
+EN
+
+```diff
+- Shapash Corporation Emblem
++ Defiant Latten Matte - Limited
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047394 · Translation Modified
+
+EN
+
+```text
+AEGIS Joint Operation Center
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Joint Operation Center
+```
+
+
+ES
+
+```diff
+- 
++ Centro de operaciones conjuntas de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Centre d'opérations conjointes d'AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS合同作戦センター
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 연합 작전본부
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Joint Operation Center
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局联合行动中心
+```
+
+
+
+
+### MessageID: 1047395 · Translation Modified
+
+EN
+
+```text
+On the surface, AEGIS uses this military office to coordinate joint operations between EDENCOM and local military forces. However, it is also coordinating nearby sites conducting secret research projects that are somehow related to the Vanguard.
+```
+
+
+DE
+
+```diff
+- 
++ An der Oberfläche nutzt AEGIS dieses Militärzentrum, um gemeinsame Operationen von EDENCOM und örtlichen Militärstreitkräften zu koordinieren. Darüber hinaus koordiniert es jedoch auch nahegelegene Gebiete, die geheime Forschungsprojekte durchführen und irgendwie mit den Vanguard in Verbindung stehen.
+```
+
+
+ES
+
+```diff
+- 
++ En apariencia, AEGIS utiliza esta oficina militar para coordinar operaciones conjuntas entre EDENCOM y las fuerzas militares locales. Sin embargo, también coordina zonas cercanas que llevan a cabo proyectos de investigación secretos relacionados de algún modo con la Vanguardia.
+```
+
+
+FR
+
+```diff
+- 
++ En surface, AEGIS utilise ce bureau militaire pour coordonner les opérations conjointes entre EDENCOM et les forces militaires locales. Cependant, il coordonne aussi les sites à proximité qui mènent des projets de recherche secrets liés aux Vanguard.
+```
+
+
+JA
+
+```diff
+- 
++ 表向きは、AEGISがEDENCOMと現地の軍事力との合同作戦を調整するためにこの軍事オフィスを使用している。しかし、その裏ではVanguardと何らかの関連性を持つ秘密研究プロジェクトを行う周辺サイトの統括も行っている。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS가 지상에서 EDENCOM 및 지역 군사 세력과 연합 작전을 조율하던 군사 시설입니다. 또한 이 시설에서 Vanguard와 관련된 기밀 연구 프로젝트를 진행하던 사이트도 조정한 것 같습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Официально AEGIS использует этот военный штаб для координации совместных операций между ЭДЕНКОМ и местными вооруженными силами. Однако отсюда также ведётся координация близлежащих районов, где ведутся секретные исследовательские проекты, так или иначе связанные с Vanguard.
+```
+
+
+ZH
+
+```diff
+- 
++ 表面上，该军事办公室用于统合部紧急干预和安全局协调伊甸联合防御阵线与地方军事力量之间的联合行动。但实际上，它也在协调附近与先锋相关的秘密研究项目。
+```
+
+
+
+
+### MessageID: 1047396 · Translation Modified
+
+EN
+
+```text
+Edencom Front Operation
+```
+
+
+DE
+
+```diff
+- 
++ Edencom Front Operation
+```
+
+
+ES
+
+```diff
+- 
++ Operación encubierta de EDENCOM
+```
+
+
+FR
+
+```diff
+- 
++ Opération de front EDENCOM
+```
+
+
+JA
+
+```diff
+- 
++ EDENCOM偽装作戦基地
+```
+
+
+KO
+
+```diff
+- 
++ EDENCOM 전방 작전
+```
+
+
+RU
+
+```diff
+- 
++ Edencom Front Operation
+```
+
+
+ZH
+
+```diff
+- 
++ 伊甸联合防御阵线前线行动
+```
+
+
+
+
+### MessageID: 1047397 · Translation Modified
+
+EN
+
+```text
+A Caldari industrial station used as a front by Edencom.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Caldari-Industriestation, die von EDENCOM als Front verwendet wird.
+```
+
+
+ES
+
+```diff
+- 
++ Una estación industrial caldari utilizada por EDENCOM como tapadera.
+```
+
+
+FR
+
+```diff
+- 
++ Une station industrielle caldari utilisée comme façade par EDENCOM.
+```
+
+
+JA
+
+```diff
+- 
++ EDENCOMが隠れみのとして使用しているカルダリの工業ステーション。
+```
+
+
+KO
+
+```diff
+- 
++ EDENCOM이 위장 거점으로 사용한 칼다리 산업 정거장입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Калдарская производственная станция, используемая ЭДЕНКОМ в качестве прикрытия.
+```
+
+
+ZH
+
+```diff
+- 
++ 被伊甸联合防御阵线当作掩体的加达里工业空间站。
+```
+
+
+
+
+### MessageID: 1047398 · Translation Modified
+
+EN
+
+```text
+Edencom Front Operation
+```
+
+
+DE
+
+```diff
+- 
++ Edencom Front Operation
+```
+
+
+ES
+
+```diff
+- 
++ Operación encubierta de EDENCOM
+```
+
+
+FR
+
+```diff
+- 
++ Opération de front EDENCOM
+```
+
+
+JA
+
+```diff
+- 
++ EDENCOM偽装作戦基地
+```
+
+
+KO
+
+```diff
+- 
++ EDENCOM 전방 작전
+```
+
+
+RU
+
+```diff
+- 
++ Edencom Front Operation
+```
+
+
+ZH
+
+```diff
+- 
++ 伊甸联合防御阵线前线行动
+```
+
+
+
+
+### MessageID: 1047399 · Translation Modified
+
+EN
+
+```text
+A Gallente industrial station used as a front by Edencom.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Gallente-Industriestation, die von EDENCOM als Front verwendet wird.
+```
+
+
+ES
+
+```diff
+- 
++ Una estación industrial gallente utilizada por EDENCOM como tapadera.
+```
+
+
+FR
+
+```diff
+- 
++ Une station industrielle gallente utilisée comme façade par EDENCOM.
+```
+
+
+JA
+
+```diff
+- 
++ EDENCOMが隠れみのとして使用しているガレンテの工業ステーション。
+```
+
+
+KO
+
+```diff
+- 
++ EDENCOM이 위장 거점으로 사용한 갈란테 산업 정거장입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Галлентская производственная станция, используемая ЭДЕНКОМ в качестве прикрытия.
+```
+
+
+ZH
+
+```diff
+- 
++ 被伊甸联合防御阵线当作掩体的盖伦特工业空间站。
+```
+
+
+
+
+### MessageID: 1047400 · Translation Modified
+
+EN
+
+```text
+Edencom Front Operation
+```
+
+
+DE
+
+```diff
+- 
++ Edencom Front Operation
+```
+
+
+ES
+
+```diff
+- 
++ Operación encubierta de EDENCOM
+```
+
+
+FR
+
+```diff
+- 
++ Opération de front EDENCOM
+```
+
+
+JA
+
+```diff
+- 
++ EDENCOM偽装作戦基地
+```
+
+
+KO
+
+```diff
+- 
++ EDENCOM 전방 작전
+```
+
+
+RU
+
+```diff
+- 
++ Edencom Front Operation
+```
+
+
+ZH
+
+```diff
+- 
++ 伊甸联合防御阵线前线行动
+```
+
+
+
+
+### MessageID: 1047401 · Translation Modified
+
+EN
+
+```text
+A Minmatar industrial station used as a front by Edencom.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Minmatar-Industriestation, die von EDENCOM als Front verwendet wird.
+```
+
+
+ES
+
+```diff
+- 
++ Una estación industrial minmatariana utilizada por EDENCOM como tapadera.
+```
+
+
+FR
+
+```diff
+- 
++ Une station industrielle minmatar utilisée comme façade par EDENCOM.
+```
+
+
+JA
+
+```diff
+- 
++ EDENCOMが隠れみのとして使用しているミンマターの工業ステーション。
+```
+
+
+KO
+
+```diff
+- 
++ EDENCOM이 위장 거점으로 사용한 민마타 산업 정거장입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Минматарская производственная станция, используемая ЭДЕНКОМ в качестве прикрытия.
+```
+
+
+ZH
+
+```diff
+- 
++ 被伊甸联合防御阵线当作掩体的米玛塔尔工业空间站。
+```
+
+
+
+
+### MessageID: 1047410 · Translation Modified
+
+EN
+
+```text
+Gallente Pilot
+```
+
+
+DE
+
+```diff
+- 
++ Gallente Pilot
+```
+
+
+ES
+
+```diff
+- 
++ Piloto gallente
+```
+
+
+FR
+
+```diff
+- 
++ Pilote gallente
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテパイロット
+```
+
+
+KO
+
+```diff
+- 
++ 갈란테 파일럿
+```
+
+
+RU
+
+```diff
+- 
++ Gallente Pilot
+```
+
+
+ZH
+
+```diff
+- 
++ 盖伦特飞行员
+```
+
+
+
+
+### MessageID: 1047411 · Translation Modified
+
+EN
+
+```text
+<font size="14"><b>Gallente Pilot Expert System</b></font>
+
+This Expert System makes available skills enabling a capsuleer to fly Gallente Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
+
+<b>The temporary skills provided by this Expert System last for seven days.</b>
+
+An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
+(truncated, 1,394 chars total)
+```
+
+
+DE
+
+```diff
+- 
++ <font size="14"><b>Expertensystem für Gallente-Piloten</b></font> Dieses Expertensystem ermöglicht es Kapselpiloten, durch Bereitstellung entsprechender Skills, verschiedene Gallente Tech 1, sowie Navy-Fregatten, Zerstörer, Kreuzer, Schlachtkreuzer und Schlachtschiffe zu fliegen. Dazu gibt es Unterstützungsskills mit dem Fokus auf Gallente. <b>Die durch dieses Expertensystem bereitgestellten temporären Skills sind sieben Tage lang gültig.</b> Ein Expertensystem ist eine entfernte, eingeschränkte künstliche Intelligenz, die Ihnen während der aktiven Mietdauer Zugang zu bestimmten Skills bietet. Da es unabhängig von Ihrem Klon und Ihrer Kapsel ist, geht ein aktives Expertensystem nicht bei Kapseltod oder Klonsprung verloren. <font size="14"><b>Aktivierung eines Expertensystems</b></font> Die Aktivierung eines Expertensystems erfolgt automatisch bei Einlösung des Gegenstands durch den spezifischen Kapselpiloten, der den Dienst nutzen möchte. <i>Expertensysteme sind ein Produkt, das vom PKN Interstellar Consortium entwickelt und über das HyperNet Überlichtgeschwindigkeitskommunikationsnetzwerk bereitgestellt wird. Sie werden von den Mitgliedscorporations von PKN Interstellar vermarktet. Ein Expertensystem ist eine eingeschränkte KI, die auf künstlicher Gelhirn-Technologie basiert. Da das Expertensystem neuronale Pfade nutzt, die durch Skilltraining oder Skill-Injektion erstellt wurden, ist es mit Kapsel-Schiff-Interfaces und Kontrollsystemen kompatibel. Die Echtzeit-Kommando- und Kontrollkommunikation erfolgt über dedizierte Überlichtkanäle im HyperNet von PKN Interstellar.</i>
+```
+
+
+ES
+
+```diff
++ <font size="14"><b>Sistema experto para piloto gallente</b></font>
++ 
++ Este sistema experto pone a disposición de los capsulistas habilidades que les permiten pilotar fragatas, destructores, cruceros, cruceros de combate y acorazados gallentes T1 y de la Armada, además de naves de apoyo gallentes.
++ 
++ <b>Las habilidades temporales proporcionadas por este sistema experto duran siete días.</b>
++ 
++ Un sistema experto es una inteligencia artificial remota y restringida que proporciona acceso a ciertas habilidades durante el periodo activo. No depende ni de tu clon ni de tu cápsula, por lo que no lo perderás si esta se destruye o si se lleva a cabo un salto de clon.
++ 
++ <font size="14"><b>Activación de un sistema experto</b></font>
++ 
++ Un sistema experto se activa automáticamente cuando el capsulista que va a usar el servicio canjea el objeto.
++ 
++ <i>Los sistemas expertos son productos desarrollados por el consorcio PKN Interstellar, quien los pone a disposición de los usuarios a través de la red de comunicaciones supralumínica HyperNet y los comercializa a través de las corporaciones que forman parte de PKN Interstellar. Un sistema experto es una IA restringida que funciona con tecnología de cerebro-gel artificial. Como utiliza vías neuronales basadas en las que se crean al desarrollar o inyectar habilidades, es compatible con los sistemas de control y la interfaz cápsula-nave. Así pues, se establece una comunicación entre mando y control en tiempo real con canales supralumínicos exclusivos dentro de la red HyperNet de PKN Interstellar.</i>
+```
+
+
+FR
+
+```diff
+- 
++ <font size="14"><b>Système expert de pilote gallente</b></font> Ce système expert confère au capsulier les compétences lui permettant de piloter des vaisseaux gallente de Tech I et Navy de type frégate, destroyer, croiseur, croiseur cuirassé et cuirassé ainsi que des compétences de soutien spécifiques aux Gallente. <b>Les compétences temporaires octroyées par ce système expert durent sept jours.</b> Un système expert est une intelligence artificielle restreinte à distance qui vous fait bénéficier de certaines compétences pendant la période de location active. Étant indépendant de votre clone et de votre capsule, un système expert actif ne sera donc pas perdu en cas de décapsulage ou saut de clone. <font size="14"><b>Activation d'un système expert</b></font> L'activation d'un système expert est automatique lors de l'utilisation de l'objet par le capsulier qui souhaite utiliser le service. <i>Les systèmes experts sont un produit développé par le consortium PKN Interstellar, disponible via le réseau de communications PRL HyperNet et commercialisé par les corporations membres de PKN Interstellar. Un système expert est une IA restreinte basée sur la technologie du neurogel. Comme le système expert utilise des voies neuronales basées sur celles créées par l'apprentissage de compétences ou l'injection de compétences, il est compatible avec l'interface et les systèmes de contrôle vaisseau-capsule. Les communications de contrôle et de commandement en temps réel transitent via des canaux PRL dédiés sur l'HyperNet de PKN Interstellar.</i>
+```
+
+
+JA
+
+```diff
++ <font size="14"><b>ガレンテパイロット・エキスパートシステム</b></font>
++ 
++ このエキスパートシステムを使用すると、カプセラがガレンテのT1および連邦海軍仕様のフリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦を操縦するために必要なスキルと、ガレンテ艦に特化したサポートスキルを利用できるようになる。
++ 
++ <b>このエキスパートシステムで提供される一時スキルの有効期間は7日間。</b>
++ 
++ エキスパートシステムは、有効なレンタル期間中に特定のスキルへのアクセスを提供する、リモートで制限された人工知能である。クローンやカプセルからは独立しているため、ポッドの喪失やクローンジャンプによって失われることがない。
++ 
++ <font size="14"><b>エキスパートシステムの起動</b></font>
++ 
++ エキスパートシステムは、サービスを利用しようとする特定のカプセラがアイテムを交換することで自動的に起動する。
++ 
++ <i>エキスパートシステムは、PKNインターステラー・コンソーシアムが開発した製品で、ハイパーネットFTL通信網を流通し、PKNインターステラーの関連企業が販売している。人工ゲルブレイン技術をベースにした制限付きAIで、スキルトレーニングやスキルインジェクションによって生成された神経経路を利用しているため、カプセルシップのインターフェースや制御システムとも互換性がある。PKNインターステラーのハイパーネット上の専用FTLチャンネルを使用して、リアルタイムコマンドと制御通信を実現している。</i>
+```
+
+
+KO
+
+```diff
++ <font size="14"><b>갈란테 파일럿 전문가 시스템</b></font>
++ 
++ 이 전문가 시스템은 갈란테에 특화된 지원 스킬과 더불어, 캡슐리어가 갈란테 테크 I 및 해군 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽을 운용하는 데 필요한 스킬을 제공합니다.
++ 
++ <b>해당 전문가 시스템은 7일간 지속됩니다.</b>
++ 
++ 전문가 시스템은 제한형 AI로 일정 기간 캡슐리어의 스킬 사용을 활성화합니다. 사용자의 신체 및 캡슐과 독립되어 있기 때문에 캡슐이 파괴되거나 클론을 변경해도 시스템이 제거되지 않습니다.
++ 
++ <font size="14"><b>전문가 시스템 활성화</b></font>
++ 
++ 전문가 시스템을 수령하면 즉시 적용됩니다.
++ 
++ <i>전문가 시스템은 PKN 인터스텔라에 의해 개발 및 판매되는 제품으로 FTL 통신 네트워크인 하이퍼넷을 통해 배포됩니다. 인공 젤브레인을 바탕으로 설계된 제한형 AI이며, 스킬 주입 및 훈련을 통해 생성된 신경망을 활용하기에 함선 인터페이스를 비롯한 제어 시스템과 연동됩니다. FTL 네트워크인 하이퍼넷을 통해 실시간 제어 및 통신이 이루어집니다.</i>
+```
+
+
+RU
+
+```diff
+- 
++ <font size="14"><b>Экспертная система «Галлентский пилот»</b></font> Эта экспертная система даёт доступ к навыкам, позволяющим пилоту летать на галлентских судах 1 техноуровня, на галлентских флотских судах, эсминцах, крейсерах, линейных крейсерах и линкорах, а также разблокирует соответствующие навыки поддержки. <b>Полученные временные навыки действуют в течение семи дней.</b> Экспертная система — это дистанционный искусственный интеллект ограниченного действия, предоставляющий определённые навыки на время его использования. Такие системы не теряются при уничтожении капсулы или смене клона, поскольку не зависят от них. <font size="14"><b>Активация экспертной системы</b></font> Активация происходит автоматически, когда капсулёр использует соответствующий предмет. <i>Экспертные системы — это продукты консорциума «ПКН Интерстеллар», предоставляемые корпорациями, входящими в состав «ПКН Интерстеллар», и доступные посредством системы сверхсветовых коммуникаций через гиперсеть. По своей сути они являются ИИ ограниченного действия, созданными на основе технологии гелеобразного мозга. Экспертные системы используют нейронные каналы, образующиеся при освоении или инъекции навыков, поэтому они совместимы с интерфейсом корабля и капсулы, а также с их системами управления. Управление и коммуникация осуществляются в реальном времени по выделенным сверхсветовым каналам гиперсети консорциума «ПКН Интерстеллар».</i>
+```
+
+
+ZH
+
+```diff
+- 
++ <font size="14"><b>盖伦特飞行员专家系统</b></font>该专家系统可为克隆飞行员提供驾驶盖伦特一级科技与海军护卫舰、驱逐舰、巡洋舰、战列巡洋舰及战列舰所需的技能，以及配套的盖伦特舰船辅助技能。<b>此专家系统提供的临时技能有效期为七天。</b>专家系统是一种远程受限人工智能，可在租赁有效期内为你提供特定技能的使用权限。专家系统不依托于克隆体和太空舱，因此已启用的专家系统在太空舱损毁或进行远距克隆时也能继续使用。<font size="14"><b>启用专家系统</b></font>克隆飞行员兑换此物品后就会自动启用专家系统。<i>专家系统由PKN星际财团研发，通过超光速网络通信提供服务，并由PKN星际集团成员企业负责推广与销售。专家系统是一种基于虚拟大脑技术的受限人工智能。专家系统使用了通过技能训练或技能注入产生的神经通路，可与太空舱界面和控制系统兼容。通过PKN星际集团超网上的专用超光速频道可以实现实时指令和控制通信。</i>
+```
+
+
+
+
+### MessageID: 1047440 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047441 · Added
+
+EN
+
+```text
+Operation Avalon Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047442 · Source Modified
+
+EN
+
+```diff
+- Operation Avalon Boss Dungeon
++ Nemesis Command Outpost
+```
+
+
+DE
+
+```diff
+- 
++ Nemesis Command Outpost
+```
+
+
+ES
+
+```diff
+- 
++ Puesto de comandancia Nemesis
+```
+
+
+FR
+
+```diff
+- 
++ Avant-poste de commandement Nemesis
+```
+
+
+JA
+
+```diff
+- 
++ ネメシス指揮アウトポスト
+```
+
+
+KO
+
+```diff
+- 
++ 네메시스 지휘소
+```
+
+
+RU
+
+```diff
+- 
++ Командный форпост Nemesis
+```
+
+
+ZH
+
+```diff
+- 
++ 纳美西斯级指挥哨站
+```
+
+
+
+
+### MessageID: 1047444 · Translation Modified
+
+EN
+
+```text
+Federation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Federación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ 「連邦の日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 연방의 날 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 联邦国庆日庆典箱
+```
+
+
+
+
+### MessageID: 1047445 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald Metallic - Limited, Liberty's Wings - Limited, Background, Festival Launcher and a Four Freedoms Firework.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Villore Viridescent Matte – Limited, Intaki Emerald Metallic – Limited, Libertys Wings – Limited, Hintergrund, festlicher Raketenwerfer und ein „Vier Freiheiten“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Este contenedor incluye 10 PLEX, Villore viridiscente mate (limitado), Intaki esmeralda metálico (limitado), Alas de libertad (limitado), un fondo, un lanzador festivalero y fuegos artificiales de las Cuatro Libertades.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Viridescence de Villore mat - Limité, Émeraude d'Intaki métallique - Limité, Ailes de la Liberté - Limité, Arrière-plan, Lanceur de Festival et un feu d'artifice Quatre Libertés.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、ビロア・ヴィリデセント・マット（限定）、インタキ・エメラルド・メタリック（限定）、リバティ・ウィング（限定）、背景、フェスティバルランチャー、そして「四大自由の花火」が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 청록색 빌로어 무광 - 한정, 인타키 에메랄드 금속성 - 한정, 자유의 날개 - 한정, 배경, 축제용 런처 및 4대 자유 폭죽 1개가 담겨 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Villore Viridescent Matte (однораз.), Intaki Emerald Metallic (однораз.), Liberty's Wings (однораз.), фон, модуль для праздничного запуска и фейерверк «Четыре свободы».
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、哑光级维洛勒浅绿（限量版）、金属级印塔基翠绿（限量版）、自由之翼（限量版）、背景、节日发射器和一枚四大自由烟火。
+```
+
+
+
+
+### MessageID: 1047446 · Translation Modified
+
+EN
+
+```text
+Federation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Federación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ 「連邦の日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 연방의 날 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 联邦国庆日庆典箱
+```
+
+
+
+
+### MessageID: 1047447 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald Metallic - Limited, Liberty's Wings - Limited, Background, Festival Launcher and a Four Freedoms Firework
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Villore Viridescent Matte – Limited, Intaki Emerald Metallic – Limited, Libertys Wings – Limited, Hintergrund, festlicher Raketenwerfer und ein „Vier Freiheiten“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Este contenedor incluye 10 PLEX, Villore viridiscente mate (limitado), Intaki esmeralda metálico (limitado), Alas de libertad (limitado), un fondo, un lanzador festivalero y fuegos artificiales de las Cuatro Libertades.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Viridescence de Villore mat - Limité, Émeraude d'Intaki métallique - Limité, Ailes de la Liberté - Limité, Arrière-plan, Lanceur de Festival et un feu d'artifice Quatre Libertés.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、ビロア・ヴィリデセント・マット（限定）、インタキ・エメラルド・メタリック（限定）、リバティ・ウィング（限定）、背景、フェスティバルランチャー、そして「四大自由の花火」が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 청록색 빌로어 무광 - 한정, 인타키 에메랄드 금속성 - 한정, 자유의 날개 - 한정, 배경, 축제용 런처 및 4대 자유 폭죽 1개가 담겨 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Villore Viridescent Matte (однораз.), Intaki Emerald Metallic (однораз.), Liberty's Wings (однораз.), фон, модуль для праздничного запуска и фейерверк «Четыре свободы»
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、哑光级维洛勒浅绿（限量版）、金属级印塔基翠绿（限量版）、自由之翼（限量版）、背景、节日发射器和一枚四大自由烟火
+```
+
+
+
+
+### MessageID: 1047448 · Added
+
+EN
+
+```text
+Air Small Structure 01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047449 · Added
+
+EN
+
+```text
+Air Small Structure 02a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047450 · Added
+
+EN
+
+```text
+Air Medium Structure 01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047451 · Added
+
+EN
+
+```text
+Air Medium Structure 02a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047452 · Added
+
+EN
+
+```text
+Air Medium Structure 03a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047453 · Added
+
+EN
+
+```text
+Air Connection 01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047454 · Added
+
+EN
+
+```text
+Air Connection 01b
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047455 · Added
+
+EN
+
+```text
+Air Connection 02a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047456 · Added
+
+EN
+
+```text
+Air Connection 02b
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047457 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047458 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047459 · Translation Modified
+
+EN
+
+```text
+Talos Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Talos Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Talos
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Talos, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ タロス「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 탈로스 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Talos Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 塔洛斯级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047460 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047461 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047462 · Translation Modified
+
+EN
+
+```text
+Hyperion Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Hyperion Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Hyperion
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Hyperion, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ ハイペリオン「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 히페리온 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Hyperion Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 亥伯龙神级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047463 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047464 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047465 · Translation Modified
+
+EN
+
+```text
+Moros Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Moros Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Moros
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Moros, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ モロス「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 모로스 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Moros Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 莫洛级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047466 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047467 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047468 · Translation Modified
+
+EN
+
+```text
+Ninazu Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Ninazu Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Ninazu
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Ninazu, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ ニナズ「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 니나주 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Ninazu Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 尼纳苏级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047469 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047470 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047471 · Translation Modified
+
+EN
+
+```text
+Keres Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Keres Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Keres
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Keres, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ ケレス「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 케레스 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Keres Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 克勒斯级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047472 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047473 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047474 · Translation Modified
+
+EN
+
+```text
+Arazu Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Arazu Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Arazu
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Arazu, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ アラズ「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 아라주 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Arazu Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 埃拉兹级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047475 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047476 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047477 · Translation Modified
+
+EN
+
+```text
+Kronos Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Kronos Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Kronos
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Kronos, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ クロノス「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 크로노스 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Kronos Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 克洛诺斯级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047478 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047479 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047480 · Translation Modified
+
+EN
+
+```text
+Hecate Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Hecate Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Hecate
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Hecate, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ ヘカテ「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 헤카테 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Hecate Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 赫卡特级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047481 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047482 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047483 · Translation Modified
+
+EN
+
+```text
+Imicus Navy Issue Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Imicus Navy Issue Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Imicus modelo de la Armada
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Imicus Navy Issue, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ イミュカス海軍仕様「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 이미커스 해군 에디션 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Imicus Navy Issue Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 伊米卡斯级海军型联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047484 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047485 · Translation Modified
+
+EN
+
+```text
+A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
+```
+
+
+DE
+
+```diff
+- 
++ Diese SKINs wurden in gemeinsamer Anstrengung von Gallente-Schiffsherstellern und anderen kommerziellen Entitäten entwickelt, um die längst überfälligen Gallente-Wahlen von YC128 zu feiern. Marken aus der gesamten Föderation sind zusammengekommen, um die Teilnahme am demokratischen Prozess zu fördern, unabhängig davon, welchen Kandidaten die Bürger unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Fruto de un esfuerzo conjunto de fabricantes de naves de los gallentes y otras entidades comerciales, estas SKIN se crearon para celebrar las tan esperadas elecciones gallente de 128 CY. Marcas de toda la Federación se han unido para fomentar la participación en el proceso democrático, independientemente del candidato al que apoyen los ciudadanos.
+```
+
+
+FR
+
+```diff
+- 
++ Afin de célébrer les élections gallente, tenues en 128 après CY, et attendues depuis bien trop longtemps, ces SKINS sont le fruit d'une collaboration entre des fabricants de vaisseaux gallente et d'autres entités commerciales. Des marques de toute la Fédération se sont réunies pour encourager les citoyens à participer au processus démocratique, quel que soit le candidat qu'ils soutiennent.
+```
+
+
+JA
+
+```diff
+- 
++ ガレンテの艦船製造業者とその他の商業団体が協力して手掛けたこれらのSKINは、長きに渡って延期されてきた選挙がYC128にようやく開催されることを祝って作られたものだ。連邦全土のブランドが集結し、市民がどの候補者を支持するかに関わらず、この民主的な過程への参加を呼びかけている。
+```
+
+
+KO
+
+```diff
+- 
++ YC 128년 갈란테 대통령 선거를 기념해 갈란테 함선 제조사와 다양한 산업체가 협업해 제작한 SKIN입니다. 갈란테 연방 전역의 각종 브랜드가 오랜만에 치러지는 선거에 참여하기를 독려하고자 제작했습니다. 지지하는 후보와 상관없이 민주주의 실현에 동참하세요.
+```
+
+
+RU
+
+```diff
+- 
++ Эти окраски, вдохновлённые долгожданными выборами 128 года от ю. с., — результат совместной работы галлентских кораблестроительных и иных коммерческих компаний. Бренды со всей Галлентской Федерации объединились, чтобы мотивировать граждан поддержать своих кандидатов в этой демократической процедуре.
+```
+
+
+ZH
+
+```diff
+- 
++ 这些涂装由盖伦特舰船制造商与其他商业实体联合推出，旨在庆祝姗姗来迟的YC128年盖伦特选举。来自联邦各地的品牌齐聚一堂，共同鼓励民众参与民主进程，无论公民们支持哪位候选人。
+```
+
+
+
+
+### MessageID: 1047486 · Translation Modified
+
+EN
+
+```text
+Maulus Pride of the Federation SKIN
+```
+
+
+DE
+
+```diff
+- 
++ Maulus Pride of the Federation SKIN
+```
+
+
+ES
+
+```diff
+- 
++ SKIN de Orgullo de la Federación para la Maulus
+```
+
+
+FR
+
+```diff
+- 
++ SKIN Maulus, édition Fierté de la Fédération
+```
+
+
+JA
+
+```diff
+- 
++ マウルス「連邦の誇り」SKIN
+```
+
+
+KO
+
+```diff
+- 
++ 마울러스 '연방의 자부심' SKIN
+```
+
+
+RU
+
+```diff
+- 
++ Maulus Pride of the Federation SKIN
+```
+
+
+ZH
+
+```diff
+- 
++ 毛鲁斯级联邦荣光涂装
+```
+
+
+
+
+### MessageID: 1047489 · Translation Modified
+
+EN
+
+```text
+AEGIS Security Platform
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Security Platform
+```
+
+
+ES
+
+```diff
+- 
++ Plataforma de seguridad de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Plateforme de sécurité AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGISセキュリティプラットフォーム
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 보안 플랫폼
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Security Platform
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局安保平台
+```
+
+
+
+
+### MessageID: 1047502 · Translation Modified
+
+EN
+
+```text
+Vanguard Avalon: Assignments
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Avalon: Aufträge
+```
+
+
+ES
+
+```diff
+- 
++ Vanguardia Avalon: misiones
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Avalon : Missions
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Avalon：任務
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론: 임무
+```
+
+
+RU
+
+```diff
+- 
++ Задания Vanguard Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋阿瓦隆：任务列表
+```
+
+
+
+
+### MessageID: 1047503 · Source Modified
+
+EN
+
+```diff
+- Assignment Completed
++ Vanguard Expeditions Completed
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard-Expeditionen abgeschlossen
+```
+
+
+ES
+
+```diff
+- 
++ Expediciones de la Vanguardia completadas
+```
+
+
+FR
+
+```diff
+- 
++ Expéditions Vanguard terminées
+```
+
+
+JA
+
+```diff
+- 
++ 完了したVanguard探索
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 탐사 완료
+```
+
+
+RU
+
+```diff
+- 
++ Экспедиции Vanguard завершены
+```
+
+
+ZH
+
+```diff
+- 
++ 已完成先锋远征
+```
+
+
+
+
+### MessageID: 1047504 · Source Modified
+
+EN
+
+```diff
+- As a Vanguard, complete 5 assignments.
++ <i>Complete 6 Vanguard expeditions.</i>
+```
+
+
+DE
+
+```diff
+- 
++ <i>Schließen Sie 6 Vanguard-Expeditionen ab.</i>
+```
+
+
+ES
+
+```diff
+- 
++ <i>Completa 6 expediciones de la Vanguardia.</i>
+```
+
+
+FR
+
+```diff
+- 
++ <i>Terminez 6 expéditions Vanguard.</i>
+```
+
+
+JA
+
+```diff
+- 
++ <i>Vanguard探索を6回完了する。</i>
+```
+
+
+KO
+
+```diff
+- 
++ <i>Vanguard 탐사를 6회 완료하세요.</i>
+```
+
+
+RU
+
+```diff
+- 
++ <i>Завершите 6 экспедиций Vanguard.</i>
+```
+
+
+ZH
+
+```diff
+- 
++ <i>完成6次先锋远征。</i>
+```
+
+
+
+
+### MessageID: 1047505 · Source Modified
+
+EN
+
+```diff
+- Vanguard Avalon: Item Trader
++ Vanguard Avalon: POI Main Challenge
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Avalon: Hauptherausforderung für interessante Orte
+```
+
+
+ES
+
+```diff
+- 
++ Vanguardia Avalon: desafío principal de puntos de interés
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Avalon : défi principal de point d'intérêt
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Avalon：POIメインチャレンジ
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론: 중요 지점 주 도전과제
+```
+
+
+RU
+
+```diff
+- 
++ Vanguard Avalon: основная задача по объектам интереса
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋阿瓦隆：目标点主线挑战
+```
+
+
+
+
+### MessageID: 1047506 · Source Modified
+
+EN
+
+```diff
+- Items Traded
++ POIs destroyed
+```
+
+
+DE
+
+```diff
+- 
++ Interessante Orte zerstört
+```
+
+
+ES
+
+```diff
+- 
++ Puntos de interés destruidos
+```
+
+
+FR
+
+```diff
+- 
++ Points d'intérêt détruits
+```
+
+
+JA
+
+```diff
+- 
++ 破壊したPOI
+```
+
+
+KO
+
+```diff
+- 
++ 중요 지점 파괴됨
+```
+
+
+RU
+
+```diff
+- 
++ Объекты интереса уничтожены
+```
+
+
+ZH
+
+```diff
+- 
++ 已摧毁目标点数量
+```
+
+
+
+
+### MessageID: 1047507 · Source Modified
+
+EN
+
+```diff
+- Receive 5 items from an Item Trader.
++ <i>Destroy 10 Nemesis Research Outposts, Nemesis Test Centers, or AEGIS Security Platforms found at POIs in Avalon Investigations systems.<br><br>POIs are invisible to all scanning methods and cannot be discovered directly. They are, however, destinations on AEGIS Squall routes.</i>
+```
+
+
+DE
+
+```diff
+- 
++ <i>Zerstören Sie 10 Nemesis Research Outposts, Nemesis Test Centers oder AEGIS Security Platforms, die an interessanten Orten in Systemen mit Avalon-Untersuchungen zu finden sind.<br><br>Interessante Orte sind für alle Scan-Methoden unsichtbar und können nicht direkt entdeckt werden. Sie sind jedoch Ziele auf Routen von AEGIS-Squalls.</i>
+```
+
+
+ES
+
+```diff
+- 
++ <i>Destruye 10 puestos avanzados de investigación Nemesis, centros de pruebas Nemesis o plataformas de seguridad de AEGIS situados en puntos de interés de sistemas con investigaciones de Avalon.<br><br>Los puntos de interés son invisibles para todos los métodos de escaneo y no pueden descubrirse directamente. Sin embargo, son destinos de las rutas de las Squall de AEGIS.</i>
+```
+
+
+FR
+
+```diff
+- 
++ <i>Détruisez 10 Avant-postes de recherche Nemesis, Centres de test Nemesis ou Plateformes de sécurité AEGIS trouvables aux points d'intérêt dans les systèmes des enquêtes d'Avalon.<br><br>Les points d'intérêt sont invisibles à toutes les méthodes de balayage et ne peuvent pas être découverts directement. Cependant, ils constituent des destinations sur les routes des Squall AEGIS.</i>
+```
+
+
+JA
+
+```diff
+- 
++ <i>Avalon調査システム内のPOIで発見されるネメシス研究アウトポスト、ネメシス・テストセンター、またはAEGISセキュリティプラットフォームを10か所破壊する。<br><br>POIはすべてのスキャン方法で検知できず、直接発見することはできない。ただし、これらはAEGISスコールの巡回ルートの目的地となっている。</i>
+```
+
+
+KO
+
+```diff
+- 
++ <i>아발론 조사 성계에서 네메시스 연구기지, 네메시스 시험 센터, AEGIS 보안 플랫폼을 찾아 10개 파괴하십시오.<br><br>중요 지점은 모든 스캔 방식으로 탐색하거나 직접 찾을 수 없습니다. AEGIS 스퀄의 이동 목표를 확인해 찾을 수 있습니다.</i>
+```
+
+
+RU
+
+```diff
+- 
++ <i>Уничтожьте 10 исследовательских форпостов Nemesis, испытательных центров Nemesis или платформ безопасности AEGIS, расположенных в объектах интереса систем с исследованиями Avalon.<br><br>Объекты интереса нельзя обнаружить напрямую или с помощью методик сканирования, однако они являются конечными пунктами маршрутов кораблей AEGIS Squall.</i>
+```
+
+
+ZH
+
+```diff
+- 
++ <i>摧毁10个在阿瓦隆调查星系的目标点中发现的纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台。<br><br>目标点无法通过任何扫描手段直接发现。但它们会作为狂风级庇护者航线的目的地出现。</i>
+```
+
+
+
+
+### MessageID: 1047508 · Source Modified
+
+EN
+
+```diff
+- Vanguard Avalon: Mining
++ Vanguard Avalon: Roamer Main Challenge
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Avalon: Roamer-Hauptherausforderung
+```
+
+
+ES
+
+```diff
+- 
++ Vanguardia Avalon: desafío principal de incursoras
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Avalon : défi principal mobile
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Avalon：ローマーメインチャレンジ
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론: 순찰대 주 도전과제
+```
+
+
+RU
+
+```diff
+- 
++ Vanguard Avalon: основная задача по патрулям
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋阿瓦隆：游牧者主线挑战
+```
+
+
+
+
+### MessageID: 1047509 · Source Modified
+
+EN
+
+```diff
+- Ore Mined (m3)
++ AEGIS Squalls destroyed
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS-Squalls zerstört
+```
+
+
+ES
+
+```diff
+- 
++ Squalls de AEGIS destruidas
+```
+
+
+FR
+
+```diff
+- 
++ Squalls AEGIS détruits
+```
+
+
+JA
+
+```diff
+- 
++ 撃破したAEGISスコール
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 스퀄 파괴됨
+```
+
+
+RU
+
+```diff
+- 
++ Корабли AEGIS Squall уничтожены
+```
+
+
+ZH
+
+```diff
+- 
++ 已摧毁狂风级庇护者
+```
+
+
+
+
+### MessageID: 1047510 · Source Modified
+
+EN
+
+```diff
+- Mine 50,000 m3 of ore.
++ <i>Scan down and destroy 15 AEGIS Squall ships in Avalon Investigations systems.</i>
+```
+
+
+DE
+
+```diff
+- 
++ <i>Scannen und zerstören Sie 15 AEGIS-Squall-Schiffe in Systemen mit Avalon-Untersuchungen.</i>
+```
+
+
+ES
+
+```diff
+- 
++ <i>Escanea y destruye 15 naves Squall de AEGIS en sistemas con investigaciones de Avalon.</i>
+```
+
+
+FR
+
+```diff
+- 
++ <i>Scannez et détruisez 15 vaisseaux Squall AEGIS dans les systèmes d'enquêtes d'Avalon.</i>
+```
+
+
+JA
+
+```diff
+- 
++ <i>Avalon調査システム内で、AEGISスコールをスキャンで特定して15隻破壊する。</i>
+```
+
+
+KO
+
+```diff
+- 
++ <i>아발론 조사 성계에서 AEGIS 스퀄 15대를 스캔하고 파괴하세요.</i>
+```
+
+
+RU
+
+```diff
+- 
++ <i>Найдите и уничтожьте 15 кораблей AEGIS Squall в системах с исследованиями Avalon.</i>
+```
+
+
+ZH
+
+```diff
+- 
++ <i>扫描并摧毁15艘阿瓦隆调查星系中的统合部紧急干预和安全局狂风舰。
+```
+
+
+
+
+### MessageID: 1047511 · Source Modified
+
+EN
+
+```diff
+- Vanguard Avalon: Site
++ Vanguard Avalon: Mini Bosses Repeatable Challenge
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Avalon: Miniboss-Wiederholungsherausforderung
+```
+
+
+ES
+
+```diff
+- 
++ Vanguardia Avalon: desafío repetible de minijefes
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Avalon : défi de mini boss répétable
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Avalon：ミニボス（繰り返し可能チャレンジ）
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론: 하급 지휘관 반복 도전과제
+```
+
+
+RU
+
+```diff
+- 
++ Vanguard Avalon: повторяемая задача по мини-боссам
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋阿瓦隆：迷你Boss可重复挑战
+```
+
+
+
+
+### MessageID: 1047512 · Source Modified
+
+EN
+
+```diff
+- Sites Completes
++ Deputy Directors destroyed
+```
+
+
+DE
+
+```diff
+- 
++ Deputy Directors zerstört
+```
+
+
+ES
+
+```diff
+- 
++ Naves de subdirectores destruidas
+```
+
+
+FR
+
+```diff
+- 
++ Directeurs adjoints détruits
+```
+
+
+JA
+
+```diff
+- 
++ 撃破した副ディレクター
+```
+
+
+KO
+
+```diff
+- 
++ 처치한 부사령관
+```
+
+
+RU
+
+```diff
+- 
++ Замдиректоры уничтожены
+```
+
+
+ZH
+
+```diff
+- 
++ 已摧毁副局长舰船
+```
+
+
+
+
+### MessageID: 1047513 · Source Modified
+
+EN
+
+```diff
+- Complete 5 Combat sites.
++ <i>Destroy six Deputy Directors in AEGIS Joint Operation Center, POI: AEGIS Security Platform, or Nemesis Command Outpost sites.</i>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047515 · Source Modified
+
+EN
+
+```diff
+- Vanguard Avalon: Salvage
++ Vanguard Avalon: Mini Bosses Main Challenge
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Avalon: Miniboss-Hauptherausforderung
+```
+
+
+ES
+
+```diff
+- 
++ Vanguardia Avalon: desafío principal de minijefes
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Avalon : défi principal de mini-boss
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Avalon：ミニボス（メインチャレンジ）
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론: 하급 지휘관 주 도전과제
+```
+
+
+RU
+
+```diff
+- 
++ Vanguard Avalon: основная задача по мини-боссам
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋阿瓦隆：迷你Boss主线挑战
+```
+
+
+
+
+### MessageID: 1047516 · Source Modified
+
+EN
+
+```diff
+- Wrecks Salvaged
++ Deputy Directors destroyed
+```
+
+
+DE
+
+```diff
+- 
++ Deputy Directors zerstört
+```
+
+
+ES
+
+```diff
+- 
++ Naves de subdirectores destruidas
+```
+
+
+FR
+
+```diff
+- 
++ Directeurs adjoints détruits
+```
+
+
+JA
+
+```diff
+- 
++ 撃破した副ディレクター
+```
+
+
+KO
+
+```diff
+- 
++ 처치한 부사령관
+```
+
+
+RU
+
+```diff
+- 
++ Замдиректоры уничтожены
+```
+
+
+ZH
+
+```diff
+- 
++ 已摧毁副局长舰船
+```
+
+
+
+
+### MessageID: 1047517 · Source Modified
+
+EN
+
+```diff
+- Salvage 5 wrecks.
++ <i>Destroy 15 Deputy Directors in AEGIS Joint Operation Center, POI: AEGIS Security Platform, or Nemesis Command Outpost sites.</i>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047518 · Source Modified
+
+EN
+
+```diff
+- Vanguard Avalon: Hacking
++ Vanguard Avalon: Roamer Repeatable
+```
+
+
+DE
+
+```diff
+- 
++ Vanguard Avalon: Roamer-Wiederholungsherausforderung
+```
+
+
+ES
+
+```diff
+- 
++ Vanguardia Avalon: desafío repetible de incursoras
+```
+
+
+FR
+
+```diff
+- 
++ Vanguard Avalon : mobile répétable
+```
+
+
+JA
+
+```diff
+- 
++ Vanguard Avalon：ローマー（繰り返し可能）
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard 아발론: 순찰대 반복 도전과제
+```
+
+
+RU
+
+```diff
+- 
++ Vanguard Avalon: повторяемая задача по патрулям
+```
+
+
+ZH
+
+```diff
+- 
++ 先锋阿瓦隆：游牧者可重复挑战
+```
+
+
+
+
+### MessageID: 1047519 · Source Modified
+
+EN
+
+```diff
+- Items Hacked
++ AEGIS Squalls destroyed
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS-Squalls zerstört
+```
+
+
+ES
+
+```diff
+- 
++ Squalls de AEGIS destruidas
+```
+
+
+FR
+
+```diff
+- 
++ Squalls AEGIS détruits
+```
+
+
+JA
+
+```diff
+- 
++ 撃破したAEGISスコール
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 스퀄 파괴됨
+```
+
+
+RU
+
+```diff
+- 
++ Корабли AEGIS Squall уничтожены
+```
+
+
+ZH
+
+```diff
+- 
++ 已摧毁狂风级庇护者
+```
+
+
+
+
+### MessageID: 1047520 · Source Modified
+
+EN
+
+```diff
+- Hack 10 containers.
++ <i>Scan down and destroy six AEGIS Squall ships in Avalon Investigations systems.</i>
+```
+
+
+DE
+
+```diff
+- 
++ <i>Scannen und zerstören Sie 6 AEGIS-Squall-Schiffe in Systemen mit Avalon-Untersuchungen.</i>
+```
+
+
+ES
+
+```diff
+- 
++ <i>Escanea y destruye seis naves Squall de AEGIS en sistemas con investigaciones de Avalon.</i>
+```
+
+
+FR
+
+```diff
+- 
++ <i>Scannez et détruisez six vaisseaux Squall AEGIS dans les systèmes d'enquêtes Avalon.</i>
+```
+
+
+JA
+
+```diff
+- 
++ <i>Avalon調査システム内で、AEGISスコールをスキャンで特定して6隻破壊する。</i>
+```
+
+
+KO
+
+```diff
+- 
++ <i>아발론 조사 성계에서 AEGIS 스퀄 6대를 스캔하고 파괴하세요.</i>
+```
+
+
+RU
+
+```diff
+- 
++ <i>Найдите и уничтожьте 6 кораблей AEGIS Squall в системах с исследованиями Avalon.</i>
+```
+
+
+ZH
+
+```diff
+- 
++ <i>扫描并摧毁阿瓦隆调查系统中的6艘狂风级庇护者舰船。</i>
+```
+
+
+
+
+### MessageID: 1047539 · Translation Modified
+
+EN
+
+```text
+Deputy Director Apocalypse
+```
+
+
+DE
+
+```diff
+- 
++ Deputy Director Apocalypse
+```
+
+
+ES
+
+```diff
+- 
++ Apocalypse del subdirector
+```
+
+
+FR
+
+```diff
+- 
++ Apocalypse de directeur adjoint
+```
+
+
+JA
+
+```diff
+- 
++ 副ディレクター・アポカリプス
+```
+
+
+KO
+
+```diff
+- 
++ 부사령관 아포칼립스
+```
+
+
+RU
+
+```diff
+- 
++ Deputy Director Apocalypse
+```
+
+
+ZH
+
+```diff
+- 
++ 灾难级副局长
+```
+
+
+
+
+### MessageID: 1047540 · Translation Modified
+
+EN
+
+```text
+An Apocalypse under the command of a high-ranking officer within AEGIS’ secret projects.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Hyperion unter dem Kommando eines hochrangigen Offiziers, der geheimen Projekten von AEGIS zugeteilt ist.
+```
+
+
+ES
+
+```diff
+- 
++ Una Apocalypse bajo el mando de un oficial superior de los proyectos secretos de AEGIS.
+```
+
+
+FR
+
+```diff
+- 
++ Un Apocalypse sous le commandement d'un officier de haut rang au sein des projets secrets AEGIS.
+```
+
+
+JA
+
+```diff
+- 
++ AEGISの秘密プロジェクト内における、高官の指揮下にあるアポカリプス。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 기밀 프로젝트를 지휘하는 고위급 장교가 운용하는 아포칼립스입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Apocalypse под командованием высокопоставленного военного чина, задействованного в секретных проектах AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘灾难级舰船，由统合部紧急干预和安全局秘密项目的高级官员指挥。
+```
+
+
+
+
+### MessageID: 1047574 · Added
+
+EN
+
+```text
+Paragon Medium Structure 01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047575 · Added
+
+EN
+
+```text
+Paragon Small Structure 01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047576 · Added
+
+EN
+
+```text
+Paragon Station Harbor s01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047577 · Added
+
+EN
+
+```text
+Paragon Station Harbor m01a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047578 · Added
+
+EN
+
+```text
+Paragon Center Hub
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047579 · Added
+
+EN
+
+```text
+Paragon Small Structure 03a
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047580 · Added
+
+EN
+
+```text
+Manifest - Paragon Fulfilment Center
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047581 · Translation Modified
+
+EN
+
+```text
+Soaring Federation Background
+```
+
+
+DE
+
+```diff
+- 
++ Soaring Federation Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Federación en vuelo
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Fédération surplombante
+```
+
+
+JA
+
+```diff
+- 
++ 背景「繁栄する連邦」
+```
+
+
+KO
+
+```diff
+- 
++ 비상하는 연방 배경
+```
+
+
+RU
+
+```diff
+- 
++ Soaring Federation Background
+```
+
+
+ZH
+
+```diff
+- 
++ 翱翔联邦背景
+```
+
+
+
+
+### MessageID: 1047582 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1047587 · Translation Modified
+
+EN
+
+```text
+Director Thunderchild
+```
+
+
+DE
+
+```diff
+- 
++ Director Thunderchild
+```
+
+
+ES
+
+```diff
+- 
++ Thunderchild del director
+```
+
+
+FR
+
+```diff
+- 
++ Thunderchild de directeur
+```
+
+
+JA
+
+```diff
+- 
++ ディレクター・サンダーチャイルド
+```
+
+
+KO
+
+```diff
+- 
++ 사령관 썬더차일드
+```
+
+
+RU
+
+```diff
+- 
++ Director Thunderchild
+```
+
+
+ZH
+
+```diff
+- 
++ 雷裔级局长
+```
+
+
+
+
+### MessageID: 1047588 · Translation Modified
+
+EN
+
+```text
+A Thunderchild under the command of a director, one of the military commanders overseeing AEGIS’ secret projects. 
+
+Destroying the Director will conclude the local Avalon Investigation.
+```
+
+
+DE
+
+```diff
+- 
++ Eine Thunderchild unter dem Kommando eines Directors – einem der Militärkommandanten, die die geheimen Projekte von AEGIS überwachen. Zerstören Sie den Director, um die lokale Avalon-Untersuchung abzuschließen.
+```
+
+
+ES
+
+```diff
++ Una Thunderchild bajo el mando de un director, uno de los comandantes militares que supervisan los proyectos secretos de AEGIS.
++ 
++ Destruir al director pondrá fin a la investigación de Avalon local.
+```
+
+
+FR
+
+```diff
+- 
++ Un Thunderchild sous le commandement d'un directeur, l'un des commandants militaires supervisant les projets secrets d'AEGIS. Détruire le directeur mettra fin à l'enquête locale d'Avalon.
+```
+
+
+JA
+
+```diff
++ AEGISの秘密プロジェクトを監督する軍事指揮官の一人、ディレクターの指揮下にあるサンダーチャイルド。
++ 
++ このディレクターを撃破すると、その地域におけるAvalon調査は終了する。
+```
+
+
+KO
+
+```diff
++ AEGIS의 기밀 프로젝트를 관리하는 군사 지휘관인 사령관이 운용하는 썬더차일드입니다.
++ 
++ 사령관을 처치하면 해당 지역의 아발론 조사가 종료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ Thunderchild под командованием директора — одного из военачальников, курирующих секретные проекты AEGIS. Уничтожение директора завершит исследование Avalon в этом районе.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘雷裔级舰船，由一名局长级指挥官操控，该局长是监管统合部紧急干预和安全局秘密项目的军事指挥官之一。摧毁该舰船将结束本地的阿瓦隆调查。
+```
+
+
+
+
+### MessageID: 1047591 · Translation Modified
+
+EN
+
+```text
+From inside this center, AEGIS researchers administer tests to aid in the development of their mysterious project, “Nemesis”.
+```
+
+
+DE
+
+```diff
+- 
++ In diesem Zentrum führen AEGIS-Forscher Tests durch, um die Entwicklung ihres mysteriösen Projekts „Nemesis“ zu unterstützen.
+```
+
+
+ES
+
+```diff
+- 
++ Desde el interior de este centro, los investigadores de AEGIS administran pruebas para contribuir al desarrollo de su misterioso proyecto, «Nemesis».
+```
+
+
+FR
+
+```diff
+- 
++ Depuis l'intérieur de ce centre, les chercheurs d'AEGIS effectuent des tests pour contribuer au développement de leur mystérieux projet, « Nemesis ».
+```
+
+
+JA
+
+```diff
+- 
++ このセンターの内部で、AEGISの研究者たちは謎のプロジェクト「ネメシス」の開発を支援するための実験を行っている。
+```
+
+
+KO
+
+```diff
+- 
++ 센터에서 AEGIS 연구자들이 '네메시스'라고 불리는 정체가 밝혀지지 않은 프로젝트를 완성하기 위해 시험을 진행합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Из этого центра исследователи AEGIS проводят испытания, способствующие разработке их таинственного проекта под названием Nemesis.
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局的研究人员在这个中心内部进行测试，以帮助他们开发神秘项目“纳美西斯”。
+```
+
+
+
+
+### MessageID: 1047592 · Translation Modified
+
+EN
+
+```text
+The wreck of a sentry gun that was used in an active fire test. Burn residue across the surface indicates that whatever was being tested destroyed this sentry gun with incredible speed and inhuman precision.
+```
+
+
+DE
+
+```diff
+- 
++ Das Wrack einer Wächterkanone, die bei einem aktiven Feuertest verwendet wurde. Brandrückstände auf der Oberfläche deuten darauf hin, dass das, was getestet wurde, diese Wächterkanone mit unglaublicher Geschwindigkeit und übermenschlicher Präzision zerstört hat.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una torreta centinela que se utilizó en una prueba de fuego real. Los residuos de quemaduras en su superficie indican que aquello que se estaba probando destruyó esta torreta centinela con una velocidad increíble y una precisión inhumana.
+```
+
+
+FR
+
+```diff
+- 
++ L'épave d'un canon sentinelle ayant été utilisé lors d'un test de tir actif. Des résidus calcinés sur la surface indiquent que ce qui a été testé a détruit ce canon sentinelle avec une vitesse incroyable et une précision surhumaine.
+```
+
+
+JA
+
+```diff
+- 
++ 実射テストに使用されたセントリーガンの残骸。表面全体の焼け焦げた痕跡は、テスト対象が信じがたい速度と人間離れした精度でこのセントリーガンを破壊したことを物語っている。
+```
+
+
+KO
+
+```diff
+- 
++ 사격 테스트에 사용된 센트리 포탑의 잔해입니다. 표면에 묻은 물질로 보아 센트리 포탑을 파괴한 존재는 인간이라고 할 수 없을 만큼 빠르고 정확하게 사격한 것 같습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки стационарного орудия, использовавшегося в ходе огневых испытаний. Следы нагара на поверхности указывают на то, что объект испытаний уничтожил это орудие с невероятной скоростью и нечеловеческой точностью.
+```
+
+
+ZH
+
+```diff
+- 
++ 这是一具曾用于实弹射击测试的岗哨炮的残骸。表面烧蚀痕迹表明，这个岗哨炮被摧毁的速度异常之快，该打击精确度也超乎人类想象。
+```
+
+
+
+
+### MessageID: 1047593 · Translation Modified
+
+EN
+
+```text
+From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
+```
+
+
+DE
+
+```diff
+- 
++ Von dieser Plattform aus ist das AEGIS-Kommando in der Lage, lokale Sicherheitsaktivitäten direkt zu koordinieren. Die Aktivitäten, die unter seiner Aufsicht stattfinden, sind so geheim, dass selbst ein überwiegender Teil von EDENCOM nicht über die notwendige Sicherheitsfreigabe verfügt, um eine Aufsicht zu gewährleisten. Eine spezialisierte Sondereinheit unter direkter Kontrolle von AEGIS wurde mit der Verantwortung für Kampfoperationen betraut.
+```
+
+
+ES
+
+```diff
+- 
++ Desde esta plataforma, el mando de AEGIS puede coordinar directamente las actividades de seguridad locales. Las operaciones que se desarrollan bajo su supervisión son tan secretas que ni siquiera el conjunto de la organización EDENCOM dispone del nivel de autorización necesario para ejercer control sobre ellas, por lo que una fuerza operativa especializada bajo el control directo de AEGIS ha asumido la responsabilidad de las operaciones de combate.
+```
+
+
+FR
+
+```diff
+- 
++ Depuis cette plateforme, le commandement d'AEGIS peut coordonner directement les activités de sécurité locales. Les activités menées sous sa supervision sont si secrètes que même le reste de l'organisation EDENCOM ne dispose pas du niveau de sécurité requis pour en assurer la supervision, et une unité d'intervention spécialisée placée directement sous le contrôle d'AEGIS a reçu la responsabilité des opérations de combat.
+```
+
+
+JA
+
+```diff
+- 
++ このプラットフォームから、AEGIS司令部は現地の警備活動を直接調整することができる。その管轄下で行われている活動は極めて機密性が高く、より広範な組織であるEDENCOMでさえも監視に必要なセキュリティクリアランスを満たしていない。そのため、AEGIS直属の専門部隊に戦闘作戦の全責任が委ねられている。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 지휘관이 주변 지역의 보안 활동을 진행하는 플랫폼입니다. 플랫폼 주관으로 진행되는 활동은 철저하게 기밀이 유지되기 때문에 EDENCOM도 감독할 수 있는 보안 접근 권한이 없습니다. 따라서 AEGIS 직권으로 운영하는 특수 임무 부대가 전투 작전을 수행할 책임을 맡습니다.
+```
+
+
+RU
+
+```diff
+- 
++ С этой платформы командование AEGIS может напрямую координировать локальные операции по обеспечению безопасности. Деятельность, находящаяся в его ведении, настолько засекречена, что даже у организации ЭДЕНКОМ в целом нет необходимого уровня допуска для осуществления надзора, а ответственность за боевые операции возложена на специальную оперативную группу, находящуюся в прямом подчинении AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 统合部紧急干预和安全局指挥部能够通过这个平台直接协调本地安保行动。其指挥的活动极度机密，甚至连更广泛的伊甸联合防御阵线组织也无权提供安全监督，因此由统合部紧急干预和安全局直属的特种部队负责战斗行动。
+```
+
+
+
+
+### MessageID: 1047596 · Added
+
+EN
+
+```text
+All known objectives, including available, completed, and upcoming objectives.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047597 · Added
+
+EN
+
+```text
+Objectives you are currently participating in.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047598 · Added
+
+EN
+
+```text
+Objectives that have been completed by the community and are no longer available for contribution.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047599 · Added
+
+EN
+
+```text
+Objectives scheduled to become available in the near future.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047600 · Added
+
+EN
+
+```text
+Objectives that are currently active and open for contribution.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047644 · Added
+
+EN
+
+```text
+Concord Station - CS1
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047645 · Added
+
+EN
+
+```text
+Concord Station - CS3
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047646 · Added
+
+EN
+
+```text
+Concord Station - GS5
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047647 · Added
+
+EN
+
+```text
+Concord Station - GS6
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047706 · Translation Modified
+
+EN
+
+```text
+A covert research outpost working on a project known only to the leading members of AEGIS command, codenamed “Nemesis”.
+```
+
+
+DE
+
+```diff
+- 
++ Ein geheimer Forschungsaußenposten, der an einem Projekt mit dem Codenamen „Nemesis“ arbeitet, in das nur die führenden Mitglieder des AEGIS-Kommandos eingeweiht sind.
+```
+
+
+ES
+
+```diff
+- 
++ Un puesto avanzado de investigación encubierto que trabaja en un proyecto conocido únicamente por los principales responsables del mando de AEGIS, cuyo nombre en clave es «Nemesis».
+```
+
+
+FR
+
+```diff
+- 
++ Un avant-poste de recherche secret travaillant sur un projet connu uniquement des principaux membres du commandement d'AEGIS, dont le nom de code est « Nemesis ».
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS司令部の幹部のみに知られている、コードネーム「ネメシス」と呼ばれるプロジェクトが進行中の秘密研究アウトポスト。
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 지휘부의 최고위층만 정확한 정체를 알고 있는 코드네임 '네메시스' 프로젝트를 연구하는 기밀 연구기지입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Секретный исследовательский форпост, работающий над проектом под кодовым названием Nemesis, о котором известно лишь руководящему составу командования AEGIS.
+```
+
+
+ZH
+
+```diff
+- 
++ 一个从事秘密研究的隐蔽哨站，项目仅对统合部紧急干预和安全局指挥部最高层成员开放，代号“纳美西斯”。
+```
+
+
+
+
+### MessageID: 1047707 · Translation Modified
+
+EN
+
+```text
+A vault containing resources used by the Nemesis research team in their clandestine experiments.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Tresor, der Ressourcen enthält, die das Nemesis-Forschungsteam in seinen geheimen Experimenten verwendet.
+```
+
+
+ES
+
+```diff
+- 
++ Una cámara que contiene recursos utilizados por el equipo de investigación Nemesis en sus experimentos clandestinos.
+```
+
+
+FR
+
+```diff
+- 
++ Un coffre-fort contenant des ressources utilisées par l'équipe de recherche Nemesis dans ses expériences clandestines.
+```
+
+
+JA
+
+```diff
+- 
++ ネメシス研究チームが秘密裏に行う実験で使用する資源が保管されている保管庫。
+```
+
+
+KO
+
+```diff
+- 
++ 금고 안에 네메시스 연구팀이 기밀 실험에 사용한 자원이 들어 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Хранилище ресурсов, используемых исследовательской группой Nemesis для проведения тайных экспериментов.
+```
+
+
+ZH
+
+```diff
+- 
++ 一个保险库，用于存放纳美西斯研究团队用于秘密实验的资源。
+```
+
+
+
+
+### MessageID: 1047708 · Translation Modified
+
+EN
+
+```text
+A vault containing resources needed for the maintenance of this site's surveillance equipment, along with the data that surveillance equipment has gathered.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Tresor mit Ressourcen, die für die Wartung der Überwachungsausrüstung dieses Gebiets benötigt werden, zusammen mit den Daten, die die Überwachungsausrüstung gesammelt hat.
+```
+
+
+ES
+
+```diff
+- 
++ Una cámara que contiene los recursos necesarios para el mantenimiento del equipo de vigilancia de esta zona, junto con los datos recopilados por dicho equipo.
+```
+
+
+FR
+
+```diff
+- 
++ Un coffre-fort contenant les ressources nécessaires à la maintenance de l'équipement de surveillance de ce site, ainsi que les données collectées par celui-ci.
+```
+
+
+JA
+
+```diff
+- 
++ このサイトの監視機器のメンテナンスに必要な資源と、その監視機器が収集したデータが収められている保管庫。
+```
+
+
+KO
+
+```diff
+- 
++ 사이트의 감시 장비를 보수하기 위해 필요한 자원을 적재한 금고로 내부에 감시 장비가 수집한 정보도 함께 들어 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Хранилище ресурсов, необходимых для обслуживания систем наблюдения этого района, а также данных, собранных этой аппаратурой.
+```
+
+
+ZH
+
+```diff
+- 
++ 一个用于维护该站点监控设备的资源保险库，同时包含监控设备收集的数据。
+```
+
+
+
+
+### MessageID: 1047723 · Source Modified
+
+EN
+
+```diff
+- Avalon Normal Salvaging Dungeon
++ Upwell Wreckage
+```
+
+
+DE
+
+```diff
+- 
++ Upwell Wreckage
+```
+
+
+ES
+
+```diff
+- 
++ Restos de Upwell
+```
+
+
+FR
+
+```diff
+- 
++ Débris Upwell
+```
+
+
+JA
+
+```diff
+- 
++ アップウェルの残骸
+```
+
+
+KO
+
+```diff
+- 
++ 업웰 잔해
+```
+
+
+RU
+
+```diff
+- 
++ Обломки консорциума «Апвелл»
+```
+
+
+ZH
+
+```diff
+- 
++ 昇威残骸
+```
+
+
+
+
+### MessageID: 1047735 · Added
+
+EN
+
+```text
+Forever Creative
+```
+
+
+DE
+
+```text
+Für immer kreativ
+```
+
+
+ES
+
+```text
+Creatividad Eterna
+```
+
+
+FR
+
+```text
+Créativité éternelle
+```
+
+
+JA
+
+```text
+フォーエバー・クリエイティブ
+```
+
+
+KO
+
+```text
+끝없는 창의성
+```
+
+
+RU
+
+```text
+Forever Creative
+```
+
+
+ZH
+
+```text
+永恒创意
+```
+
+
+
+
+### MessageID: 1047736 · Added
+
+EN
+
+```text
+Forever Creative
+```
+
+
+DE
+
+```text
+Für immer kreativ
+```
+
+
+ES
+
+```text
+Creatividad Eterna
+```
+
+
+FR
+
+```text
+Créativité éternelle
+```
+
+
+JA
+
+```text
+フォーエバー・クリエイティブ
+```
+
+
+KO
+
+```text
+끝없는 창의성
+```
+
+
+RU
+
+```text
+Forever Creative
+```
+
+
+ZH
+
+```text
+永恒创意
+```
+
+
+
+
+### MessageID: 1047737 · Added
+
+EN
+
+```text
+Forever Creative
+```
+
+
+DE
+
+```text
+Für immer kreativ
+```
+
+
+ES
+
+```text
+Creatividad Eterna
+```
+
+
+FR
+
+```text
+Créativité éternelle
+```
+
+
+JA
+
+```text
+フォーエバー・クリエイティブ
+```
+
+
+KO
+
+```text
+끝없는 창의성
+```
+
+
+RU
+
+```text
+Forever Creative
+```
+
+
+ZH
+
+```text
+永恒创意
+```
+
+
+
+
+### MessageID: 1047738 · Added
+
+EN
+
+```text
+Forever Creative
+```
+
+
+DE
+
+```text
+Für immer kreativ
+```
+
+
+ES
+
+```text
+Creatividad Eterna
+```
+
+
+FR
+
+```text
+Créativité éternelle
+```
+
+
+JA
+
+```text
+フォーエバー・クリエイティブ
+```
+
+
+KO
+
+```text
+끝없는 창의성
+```
+
+
+RU
+
+```text
+Forever Creative
+```
+
+
+ZH
+
+```text
+永恒创意
+```
+
+
+
+
+### MessageID: 1047739 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047740 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047741 · Added
+
+EN
+
+```text
+Dragoon Navy Issue Forever Creative SKIN
+```
+
+
+DE
+
+```text
+Dragoon Navy Issue Forever Creative SKIN
+```
+
+
+ES
+
+```text
+SKIN de Creatividad Eterna para la Dragoon modelo de la Armada
+```
+
+
+FR
+
+```text
+SKIN Dragoon Navy Issue, édition Créativité éternelle
+```
+
+
+JA
+
+```text
+ドラグーン海軍仕様フォーエバー・クリエイティブSKIN
+```
+
+
+KO
+
+```text
+드라군 해군 에디션 '끝없는 창의성' SKIN
+```
+
+
+RU
+
+```text
+Dragoon Navy Issue Forever Creative SKIN
+```
+
+
+ZH
+
+```text
+龙骑兵级海军型永恒创意涂装
+```
+
+
+
+
+### MessageID: 1047742 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047743 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047744 · Added
+
+EN
+
+```text
+Corax Navy Issue Forever Creative SKIN
+```
+
+
+DE
+
+```text
+Corax Navy Issue Forever Creative SKIN
+```
+
+
+ES
+
+```text
+SKIN de Creatividad Eterna para la Corax modelo de la Armada
+```
+
+
+FR
+
+```text
+SKIN Corax Navy Issue, édition Créativité éternelle
+```
+
+
+JA
+
+```text
+コラックス海軍仕様フォーエバー・クリエイティブSKIN
+```
+
+
+KO
+
+```text
+코락스 해군 에디션 '끝없는 창의성' SKIN
+```
+
+
+RU
+
+```text
+Corax Navy Issue Forever Creative SKIN
+```
+
+
+ZH
+
+```text
+渡鸦级海军型永恒创意涂装
+```
+
+
+
+
+### MessageID: 1047745 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047746 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047747 · Added
+
+EN
+
+```text
+Talwar Fleet Issue Forever Creative SKIN
+```
+
+
+DE
+
+```text
+Talwar Fleet Issue Forever Creative SKIN
+```
+
+
+ES
+
+```text
+SKIN de Creatividad Eterna para la Talwar modelo de la Flota
+```
+
+
+FR
+
+```text
+SKIN Talwar Fleet Issue, édition Créativité éternelle
+```
+
+
+JA
+
+```text
+タルワー海軍仕様フォーエバー・クリエイティブSKIN
+```
+
+
+KO
+
+```text
+탈와르 함대 에디션 '끝없는 창의성' SKIN
+```
+
+
+RU
+
+```text
+Talwar Fleet Issue Forever Creative SKIN
+```
+
+
+ZH
+
+```text
+弯刀级舰队型永恒创意涂装
+```
+
+
+
+
+### MessageID: 1047748 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047749 · Added
+
+EN
+
+```text
+In the face of an unknowable future, the only defense is unending creativity.
+- Evermore, President, Alexander Ducasse
+```
+
+
+DE
+
+```text
+Angesichts einer Zukunft, die wir nicht kennen, ist die einzige Verteidigung unendliche Kreativität. – Evermore, Präsident, Alexander Ducasse
+```
+
+
+ES
+
+```text
+Ante un futuro incognoscible, la única defensa es la creatividad inagotable.
+— Presidente de EverMore, Alexander Ducasse
+```
+
+
+FR
+
+```text
+Face à un avenir imprévisible, la seule défense est une créativité sans fin. - Alexander Ducasse, président d'EverMore
+```
+
+
+JA
+
+```text
+未知なる未来に直面する時、唯一の防衛策は尽きることのない創造力。
+- エバーモア 代表取締役社長　アレクサンダー・デュカス
+```
+
+
+KO
+
+```text
+알 수 없는 미래를 대비할 수 있는 덕목은 오로지 끝없는 창의성뿐이다.
+- 알렉산더 듀카세, 에버모어 대표이사
+```
+
+
+RU
+
+```text
+«Свободное творчество — наша единственная защита перед лицом непредсказуемого будущего». (Президент «ЭверМор» Александр Дюкасс)
+```
+
+
+ZH
+
+```text
+面对不可预知的未来，永无止境的创造力才是唯一的出路。——永恒集团总裁亚历山大·杜卡斯
+```
+
+
+
+
+### MessageID: 1047750 · Added
+
+EN
+
+```text
+Algos Navy Issue Forever Creative SKIN
+```
+
+
+DE
+
+```text
+Algos Navy Issue Forever Creative SKIN
+```
+
+
+ES
+
+```text
+SKIN de Creatividad Eterna para la Algos modelo de la Armada
+```
+
+
+FR
+
+```text
+SKIN Algos Navy Issue, édition Créativité éternelle
+```
+
+
+JA
+
+```text
+アルゴス海軍仕様フォーエバー・クリエイティブSKIN
+```
+
+
+KO
+
+```text
+알고스 해군 에디션 '끝없는 창의성' SKIN
+```
+
+
+RU
+
+```text
+Algos Navy Issue Forever Creative SKIN
+```
+
+
+ZH
+
+```text
+阿尔格斯级海军型永恒创意涂装
+```
+
+
+
+
+### MessageID: 1047751 · Translation Modified
+
+EN
+
+```text
+Poteque 'Prospector' Salvaging SV-906
+```
+
+
+DE
+
+```diff
+- 
++ Poteque 'Prospector' Salvaging SV-906
+```
+
+
+ES
+
+```diff
+- 
++ Recuperación SV-906 Prospector de Poteque
+```
+
+
+FR
+
+```diff
+- 
++ Poteque 'Prospector' de récupération SV-906
+```
+
+
+JA
+
+```diff
+- 
++ ポーテック「探鉱者」サルベージSV-906
+```
+
+
+KO
+
+```diff
+- 
++ 포텍 '프로스펙터' 샐비지 SV-906
+```
+
+
+RU
+
+```diff
+- 
++ Poteque 'Prospector' Salvaging SV-906
+```
+
+
+ZH
+
+```diff
+- 
++ 打捞SV-906的波特克“掘金者”
+```
+
+
+
+
+### MessageID: 1047752 · Translation Modified
+
+EN
+
+```text
+A neural Interface upgrade that boosts the pilot's exploration skills.
+
+6% increase to chance of salvage retrieval.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Neuralinterface-Upgrade, das die Erkundungsskills des Piloten verbessert. +6 % Chance auf Bergungsgut.
+```
+
+
+ES
+
+```diff
++ Mejora de interfaz neuronal que potencia la habilidad en exploración del piloto.
++ 
++ Probabilidad de recuperación de materiales aumentada un 6 %.
+```
+
+
+FR
+
+```diff
+- 
++ Amélioration de l'interface neurale qui renforce les compétences d'exploration du pilote. Augmente de 6 % les chances de récupération.
+```
+
+
+JA
+
+```diff
++ パイロットの探索スキルを向上させる神経系インターフェイスのアップグレード。
++ 
++ サルベージ成功確率が6%向上する。
+```
+
+
+KO
+
+```diff
++ 탐사 스킬을 향상하는 신경 인터페이스 업그레이드입니다.
++ 
++ 샐비지 성공률 6% 증가
+```
+
+
+RU
+
+```diff
+- 
++ Улучшение для нейроинтерфейса, повышающее исследовательские навыки пилота. Увеличивает вероятность успешного демонтажа обломков на 6%.
+```
+
+
+ZH
+
+```diff
+- 
++ 一种神经接口升级大脑植入体，可提升飞行员的探索技能。 打捞成功率提高6%。
+```
+
+
+
+
+### MessageID: 1047755 · Translation Modified
+
+EN
+
+```text
+Poteque 'Prospector' Salvaging SV-906 Blueprint
+```
+
+
+DE
+
+```diff
+- 
++ Poteque 'Prospector' Salvaging SV-906 Blueprint
+```
+
+
+ES
+
+```diff
+- 
++ Plano de recuperación SV-906 Prospector de Poteque
+```
+
+
+FR
+
+```diff
+- 
++ Plan de construction Poteque 'Prospector' de récupération SV-906
+```
+
+
+JA
+
+```diff
+- 
++ ポーテック「探鉱者」サルベージSV-906設計図
+```
+
+
+KO
+
+```diff
+- 
++ 포텍 '프로스펙터' 샐비지 SV-906 블루프린트
+```
+
+
+RU
+
+```diff
+- 
++ Poteque 'Prospector' Salvaging SV-906 Blueprint
+```
+
+
+ZH
+
+```diff
+- 
++ 打捞SV-906蓝图的波特克“掘金者”
+```
+
+
+
+
+### MessageID: 1047756 · Added
+
+EN
+
+```text
+VDB_Cloud_Infinite_02a_Fluffy
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047767 · Translation Modified
+
+EN
+
+```text
+A military office coordinating joint operations. It is suspected of involvement in secret research into the Vanguard.
+```
+
+
+DE
+
+```diff
+- 
++ Ein Militärzentrum, das gemeinsame Operationen koordiniert. Es wird vermutet, dass es in geheime Forschungen zu den Vanguard verwickelt ist.
+```
+
+
+ES
+
+```diff
+- 
++ Una oficina militar que coordina operaciones conjuntas. Se sospecha que está implicada en investigaciones secretas sobre la Vanguardia.
+```
+
+
+FR
+
+```diff
+- 
++ Un bureau militaire coordonnant les opérations conjointes. Il est soupçonné d'être impliqué dans des recherches secrètes sur les Vanguard.
+```
+
+
+JA
+
+```diff
+- 
++ 合同作戦を調整する軍事オフィス。Vanguardに関する秘密研究への関与が疑われている。
+```
+
+
+KO
+
+```diff
+- 
++ 연합 작전을 조율하는 군사 시설입니다. Vanguard와 관련된 기밀 연구를 수행한 것으로 추정됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ Военный штаб, координирующий совместные операции. Подозревается в причастности к секретным исследованиям возможностей Vanguard.
+```
+
+
+ZH
+
+```diff
+- 
++ 一个协调联合行动的军事办公室。人们怀疑其参与了关于先锋的秘密研究。
+```
+
+
+
+
+### MessageID: 1047768 · Translation Modified
+
+EN
+
+```text
+On the surface, AEGIS uses this military office to coordinate joint operations between EDENCOM and local military forces. However, it is also involved in secret research projects relating to the Vanguard.<br><br><br><b>Time to complete:</b> Approximately 15 minutes.<br><b>Hostiles:</b> EDENCOM.<br><b>Size:</b> 1+ pilots.<br><b>Roles:</b> Enforcer.<br><b>Ship Restrictions:</b> Cruisers and smaller.
+```
+
+
+DE
+
+```diff
+- 
++ An der Oberfläche nutzt AEGIS dieses Militärzentrum, um gemeinsame Operationen von EDENCOM und örtlichen Militärstreitkräften zu koordinieren. Darüber hinaus ist es auch in geheime Forschungsprojekte zu den Vanguard verwickelt.<br><br><br><b>Zeitlimit:</b> Etwa 15 Minuten.<br><b>Feinde:</b> EDENCOM.<br><b>Größe:</b> 1+ Piloten.<br><b>Funktionen:</b> Enforcer.<br><b>Schiffsbeschränkungen:</b> Kreuzer und kleiner.
+```
+
+
+ES
+
+```diff
+- 
++ En apariencia, AEGIS utiliza esta oficina militar para coordinar operaciones conjuntas entre EDENCOM y las fuerzas militares locales. Sin embargo, también participa en proyectos de investigación secretos relacionados con la Vanguardia.<br><br><br><b>Tiempo para completarlo:</b> aproximadamente 15 minutos.<br><b>Enemigos:</b> EDENCOM.<br><b>Tamaño:</b> 1+ pilotos.<br><b>Funciones:</b> ejecutores.<br><b>Restricciones de la nave:</b> cruceros y naves más pequeñas.
+```
+
+
+FR
+
+```diff
+- 
++ En surface, AEGIS utilise ce bureau militaire pour coordonner les opérations conjointes entre EDENCOM et les forces militaires locales. Cependant, il coordonne aussi les sites à proximité qui mènent des projets de recherche secrets liés aux Vanguard.<br><br><br><b>Limite de temps :</b> environ 15 minutes.<br><b>Ennemis :</b> EDENCOM.<br><b>Effectif :</b> 1 pilote ou plus.<br><b>Rôles :</b> Exécuteur.<br><b>Restrictions de vaisseaux :</b> Croiseurs et plus petits.
+```
+
+
+JA
+
+```diff
+- 
++ 表向きは、AEGISがEDENCOMと現地の軍事力との合同作戦を調整するためにこの軍事オフィスを使用している。しかし、裏ではVanguardに関連する秘密研究プロジェクトにも関与している。<br><br><br><b>任務時間：</b>約15分<br><b>敵勢力：</b>EDENCOM<br><b>規模：</b>パイロット1名以上<br><b>役割：</b>エンフォーサー<br><b>艦船の制限：</b>巡洋艦以下
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS가 지상에서 EDENCOM 및 지역 군사 세력과 연합 작전을 조율하던 군사 시설입니다. 또한 이 시설에서 Vanguard와 관련된 기밀 연구 프로젝트를 진행하던 사이트도 조정한 것 같습니다.<br><br><br><b>임무 시간:</b> 약 15분<br><b>적 세력:</b> EDENCOM<br><b>규모:</b> 파일럿 1명 이상<br><b>필요 역할:</b> 집행관<br><b>함선 제한:</b> 크루저 이하 함급
+```
+
+
+RU
+
+```diff
+- 
++ Официально AEGIS использует этот военный штаб для координации совместных операций между ЭДЕНКОМ и местными вооруженными силами. Однако отсюда также ведётся координация близлежащих районов, где ведутся секретные исследовательские проекты, так или иначе связанные с Vanguard.<br><br><br><b>Время на выполнение:</b> около 15 минут.<br><b>Противник:</b> ЭДЕНКОМ.<br><b>Кол-во пилотов: </b>1 или более.<br><b>Роли:</b> боец.<br><b>Ограничения:</b> крейсеры и более мелкие суда.
+```
+
+
+ZH
+
+```diff
+- 
++ 表面上，这个统合部紧急干预和安全局的军事办公室是用于协调伊甸联合防御阵线与地方军事力量之间的联合行动。实际上，它还参与了与“先锋”有关的秘密研究项目。<br><br><br><b>完成时间：</b>约15分钟。<br><b>敌方：</b>伊甸联合防御阵线<br><b>规模：</b>超过1名飞行员<br><b>职位：</b>执法者。<br><b>舰船限制：</b>巡洋舰及更小的舰船。
+```
+
+
+
+
+### MessageID: 1047775 · Translation Modified
+
+EN
+
+```text
+Cavalry Clash Booster
+```
+
+
+DE
+
+```diff
+- 
++ Cavalry Clash Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador Clash modelo Cavalry
+```
+
+
+FR
+
+```diff
+- 
++ Booster de choc de cavalerie
+```
+
+
+JA
+
+```diff
+- 
++ カヴァルリー・クラッシュブースター
+```
+
+
+KO
+
+```diff
+- 
++ 카발리 크래시 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Cavalry Clash Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 骑兵冲突增效剂
+```
+
+
+
+
+### MessageID: 1047776 · Translation Modified
+
+EN
+
+```text
+<b>+20% Warp Speed, -12% Ship Inertia, Base duration: 10 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128.</b>
+```
+
+
+DE
+
+```diff
+- 
++ <b>+20 % Warpgeschwindigkeit, -12 % Schiffsträgheit, Grunddauer: 10 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128.</b>
+```
+
+
+ES
+
+```diff
++ <b>+20 % a la velocidad de warp, -12 % a la inercia de la nave. Duración base: 10 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+20 % à la vitesse de warp, -12 % à l'inertie du vaisseau, Durée de base : 10 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>ワープ速度+20%、艦船の慣性-12%、基本持続時間：10分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日に有効期限が切れる。</b>
+```
+
+
+KO
+
+```diff
++ <b>워프 속도 20% 증가, 함선 관성 계수 12% 감소, 기본 지속 시간: 10분</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+20% к скорости хода в варп-режиме, -12% от инертности корабля. Базовая длительность: 10 минут.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>跃迁速度+20%，舰船惯性-12%，基础持续时间：10分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047780 · Translation Modified
+
+EN
+
+```text
+Astrograph Clash Booster
+```
+
+
+DE
+
+```diff
+- 
++ Astrograph Clash Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador Clash modelo Astrograph
+```
+
+
+FR
+
+```diff
+- 
++ Booster de choc astrographique
+```
+
+
+JA
+
+```diff
+- 
++ アストログラフ・クラッシュブースター
+```
+
+
+KO
+
+```diff
+- 
++ 아스트로그래프 크래시 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Astrograph Clash Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 星象冲突增效剂
+```
+
+
+
+
+### MessageID: 1047781 · Translation Modified
+
+EN
+
+```text
+<b>+20% Scan Probe Strength, +20% Scan Resolution. Base duration: 10 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+20 % Stärke von Scansonden, +20 % Scanauflösung. Grunddauer: 10 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+20 % a la intensidad de las sondas de escaneo, +20 % a la resolución de escaneo. Duración base: 10 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+20 % à la puissance de balayage de sonde, +20 % à la résolution du balayage. Durée de base : 10 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>スキャンプローブ強度+20%、スキャン分解能+20%、基本持続時間：10分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>스캔 프로브 스캔 강도 20% 증가, 스캔 정밀도 20% 증가, 기본 지속 시간: 10분</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+20% к чувствительности зондов и разрешающей способности сенсоров. Базовая длительность: 10 минут.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>扫描探针强度+20%，扫描分辨率+20%。基础持续时间：10分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047786 · Source Modified
+
+EN
+
+```diff
+- SITREP Fleeting Booster
++ SITREP Clash Booster
+```
+
+
+DE
+
+```diff
+- 
++ SITREP Clash Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador Clash modelo SITREP
+```
+
+
+FR
+
+```diff
+- 
++ Booster d'affrontement SITREP
+```
+
+
+JA
+
+```diff
+- 
++ SITREPクラッシュブースター
+```
+
+
+KO
+
+```diff
+- 
++ 시트렙 크래시 부스터
+```
+
+
+RU
+
+```diff
+- 
++ SITREP Clash Booster
+```
+
+
+ZH
+
+```diff
+- 
++ SITREP撞击增效剂
+```
+
+
+
+
+### MessageID: 1047787 · Translation Modified
+
+EN
+
+```text
+<b>+20% D-Scan Range. Base duration: 10 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+20 % Richtungsscan-Reichweite. Grunddauer: 10 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+20 % al alcance de escaneo D. Duración base: 10 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+20 % à la portée du scan directionnel. Durée de base : 10 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>指向性スキャン範囲+20%、基本持続時間：10分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>전방위 스캐너 범위 20% 증가, 기본 지속 시간: 10분</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+20% к дальности действия пеленгаторов. Базовая длительность: 10 минут.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>D扫描范围+20%。基础持续时间：10分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047788 · Source Modified
+
+EN
+
+```diff
+- Generic Salvage Wreck
++ Upwell Wreck
+```
+
+
+DE
+
+```diff
+- 
++ Upwell Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de Upwell
+```
+
+
+FR
+
+```diff
+- 
++ Épave Upwell
+```
+
+
+JA
+
+```diff
+- 
++ アップウェルの残骸
+```
+
+
+KO
+
+```diff
+- 
++ 업웰 잔해
+```
+
+
+RU
+
+```diff
+- 
++ Upwell Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 昇威残骸
+```
+
+
+
+
+### MessageID: 1047789 · Source Modified
+
+EN
+
+```diff
+- The wreck contains traces of organic material, suggesting the weapons test was simulating attacking an armored human target.
+- 
+- With the proper equipment, something of value could be salvaged. ( copy )
++ There may still be something worth salvaging from the wreck of this Upwell vessel.
+```
+
+
+DE
+
+```diff
+- 
++ Das Wrack dieses Upwell-Schiffs könnte noch wertvolles Bergungsgut enthalten.
+```
+
+
+ES
+
+```diff
+- 
++ Puede que aún quede algo de valor que recuperar de los restos de esta nave de Upwell.
+```
+
+
+FR
+
+```diff
+- 
++ Il y a peut-être encore quelque chose qui vaille la peine d'être récupéré de l'épave de ce vaisseau Upwell.
+```
+
+
+JA
+
+```diff
+- 
++ このアップウェル製艦船の残骸からは、まだサルベージする価値のあるものが残っている可能性がある。
+```
+
+
+KO
+
+```diff
+- 
++ 업웰 함선에 아직 샐비지할 만한 물건이 있을지도 모릅니다.
+```
+
+
+RU
+
+```diff
+- 
++ Возможно, из обломков этого корабля «Апвелл» ещё удастся извлечь что-то ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 这艘昇威舰船的残骸中或许仍有值得打捞的东西。
+```
+
+
+
+
+### MessageID: 1047790 · Source Modified
+
+EN
+
+```diff
+- Wrecked Avalanche (Salvage)
++ Upwell Avalanche Wreck
+```
+
+
+DE
+
+```diff
+- 
++ Upwell Avalanche Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de Avalanche de Upwell
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'Avalanche Upwell
+```
+
+
+JA
+
+```diff
+- 
++ アップウェル・アヴァランチの残骸
+```
+
+
+KO
+
+```diff
+- 
++ 업웰 아발란치 잔해
+```
+
+
+RU
+
+```diff
+- 
++ Upwell Avalanche Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 雪崩级昇威残骸
+```
+
+
+
+
+### MessageID: 1047791 · Source Modified
+
+EN
+
+```diff
+- The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
++ There may still be something worth salvaging from the wreck of this Avalanche.
+```
+
+
+DE
+
+```diff
+- 
++ Das Wrack dieser Avalanche könnte noch wertvolles Bergungsgut enthalten.
+```
+
+
+ES
+
+```diff
+- 
++ Puede que aún quede algo de valor que recuperar de los restos de esta Avalanche.
+```
+
+
+FR
+
+```diff
+- 
++ Il y a peut-être encore quelque chose qui vaille la peine d'être récupéré de l'épave de cet Avalanche.
+```
+
+
+JA
+
+```diff
+- 
++ このアヴァランチの残骸からは、まだサルベージする価値のあるものが残っている可能性がある。
+```
+
+
+KO
+
+```diff
+- 
++ 아발란치에 아직 샐비지할 만한 물건이 있을지도 모릅니다.
+```
+
+
+RU
+
+```diff
+- 
++ Возможно, из обломков этого Avalanche ещё удастся извлечь что-то ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 这艘雪崩级舰船的残骸中或许仍有值得打捞的东西。
+```
+
+
+
+
+### MessageID: 1047792 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047793 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047794 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047795 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047796 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047797 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047798 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047799 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047800 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047801 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047802 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047803 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047804 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047805 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047806 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047807 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047808 · Translation Modified
+
+EN
+
+```text
+Avalon Investigations
+```
+
+
+DE
+
+```diff
+- 
++ Avalon-Untersuchungen
+```
+
+
+ES
+
+```diff
+- 
++ Investigaciones de Avalon
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtes d'Avalon
+```
+
+
+JA
+
+```diff
+- 
++ Avalon調査
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 조사
+```
+
+
+RU
+
+```diff
+- 
++ Исследования Avalon
+```
+
+
+ZH
+
+```diff
+- 
++ 阿瓦隆调查
+```
+
+
+
+
+### MessageID: 1047809 · Translation Modified
+
+EN
+
+```text
+Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.
+```
+
+
+DE
+
+```diff
+- 
++ Untersuchen Sie AEGIS-Aktivitäten im Namen der Avalon Flotilla der Vanguard. Verdienen Sie Belohnungen und Mittel, um die Flottille eines Tages zu überzeugen, ihre Reise im Gebiet Ihres gewählten Imperiums zu beginnen.<br><br>Einige AEGIS-Gebiete sind der Öffentlichkeit verborgen. Nutzen Sie Kampfsonden, um AEGIS-Squalls zu scannen und ihnen zu diesen wertvollen Orten zu folgen.
+```
+
+
+ES
+
+```diff
+- 
++ Investiga las actividades de AEGIS en nombre de la flotilla Avalon de la Vanguardia. Consigue retribuciones y los medios para convencer a la flotilla de que algún día inicie su viaje desde el espacio del imperio que hayas elegido.<br><br>Algunas zonas de AEGIS están ocultas al público. Usa sondas de combate para localizar las Squall de AEGIS y síguelas hasta estas ubicaciones de gran valor.
+```
+
+
+FR
+
+```diff
+- 
++ Enquêtez sur les activités d'AEGIS pour la flottille Avalon des Vanguard. Gagnez des récompenses et les moyens de convaincre la flottille de s'aventurer un jour dans l'espace de l'empire de votre choix.<br><br>Certains sites AEGIS sont cachés au public. Utilisez des sondes de combat pour localiser les Squalls d'AEGIS et les suivre jusqu'à ces emplacements de grande valeur.
+```
+
+
+JA
+
+```diff
+- 
++ VanguardのAvalon艦隊に代わってAEGISの活動を調査せよ。報酬を獲得し、いつの日か艦隊が自分が選んだ国家の宙域へと旅を始めるよう、彼らを説得する手段を手に入れるのだ。<br><br>一部のAEGISサイトは一般公開されていない。戦闘用プローブを使ってAEGISスコールをスキャンで特定し、これら高価値のロケーションへと追跡せよ。
+```
+
+
+KO
+
+```diff
+- 
++ Vanguard의 아발론 소함대의 임무를 완수하기 위해 AEGIS의 활동을 조사하십시오. 보상을 획득하고 아발론 소함대가 당신이 선택한 4대 국가의 영역으로 향하는 여정을 시작할 수 있게 설득해야 합니다.<br><br>일부 AEGIS 사이트는 숨겨져 있습니다. 정찰 프로브로 AEGIS 스퀄을 스캔하고 추적해 높은 가치를 지닌 장소를 찾아내야 합니다.
+```
+
+
+RU
+
+```diff
+- 
++ Расследуйте деятельность AEGIS в интересах флотилии Avalon Vanguard. Получайте награды и нарабатывайте репутацию, что однажды позволит вам убедить флотилию направиться в пространство избранной вами державы.<br><br>Некоторые районы AEGIS скрыты от посторонних. Чтобы попасть туда, следуйте за кораблями AEGIS Squall, которые можно выследить с помощью боевых разведзондов.
+```
+
+
+ZH
+
+```diff
+- 
++ 代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
+```
+
+
+
+
+### MessageID: 1047810 · Translation Modified
+
+EN
+
+```text
+Coherence Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Coherence Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Coherence
+```
+
+
+FR
+
+```diff
+- 
++ Booster volatil de résistance
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「コヒーレンス」
+```
+
+
+KO
+
+```diff
+- 
++ 결합도 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Coherence Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 同步率不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047811 · Translation Modified
+
+EN
+
+```text
+<b>+20 Analyzer Coherence, +20 Analyzer Strength. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+20 Analysegerät-Kohärenz, +20 Analysegerät-Stärke. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+20 de coherencia del analizador, +20 de intensidad del analizador. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+20 à la résistance de l'analyseur, +20 à la puissance de l'analyseur. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>アナライザーコヒーレンス+20、アナライザー強度+20、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>분석기 결합도 20 증가, 분석기 강도 20 증가, 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+20 к целостности анализатора, +20 к мощности анализатора. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>分析器同步率+20，分析器强度+20。基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047814 · Translation Modified
+
+EN
+
+```text
+Upcycle Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Upcycle Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Upcycle
+```
+
+
+FR
+
+```diff
+- 
++ Booster de recyclage volatil
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「アップサイクル」
+```
+
+
+KO
+
+```diff
+- 
++ 재활용 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Upcycle Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 升级循环不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047815 · Translation Modified
+
+EN
+
+```text
+<b>-20% Salvage Duration. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>-20 % Bergungsdauer. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>-20 % de reducción de recuperación. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>-20 % à la durée de récupération. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>サルベージ所要時間-20%、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>샐비지 지속 시간 20% 감소, 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>-20% от длительности действия демонтажных модулей. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>打捞持续时间减少20%。基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047820 · Translation Modified
+
+EN
+
+```text
+Requisition Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Requisition Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Requisition
+```
+
+
+FR
+
+```diff
+- 
++ Booster volatil de réquisition
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「レクイジション」
+```
+
+
+KO
+
+```diff
+- 
++ 징발 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Requisition Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 征用不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047821 · Translation Modified
+
+EN
+
+```text
+<b>+20% Warp Disruptor and Scrambler Range. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+20 % Reichweite für Warpstörer und Warpunterbrecher. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+20 % al alcance de los distorsionadores y disruptores de warp. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+20 % à la portée du perturbateur de warp et de l'inhibiteur de warp. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>ワープ妨害器およびスクランブラーの射程距離+20%、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>워프 디스럽터 및 워프 스크램블러 사거리 20% 증가, 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+20% к дальности варп-глушителей и варп-подавителей. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>跃迁扰断器和跃迁扰频器范围+16%基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047822 · Translation Modified
+
+EN
+
+```text
+Zero-In Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Zero-In Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Zero-In
+```
+
+
+FR
+
+```diff
+- 
++ Booster volatil de focalisation
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「ゼロイン」
+```
+
+
+KO
+
+```diff
+- 
++ 정조준 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Zero-In Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 校准不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047823 · Translation Modified
+
+EN
+
+```text
+<b>+16% Turret Tracking Speed. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+16 % Nachführungsgeschwindigkeit von Geschütztürmen. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde mit flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+16 % de velocidad de rastreo de la torreta. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+16 % à la vitesse de poursuite des tourelles. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>タレットの追跡速度+16%、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>터렛 트래킹 속도 16% 증가, 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+16% к скорости наведения турелей. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>炮台跟踪速度+16%。基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047824 · Translation Modified
+
+EN
+
+```text
+Soaring Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Soaring Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Soaring
+```
+
+
+FR
+
+```diff
+- 
++ Booster volatil de vol
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「ソアリング」
+```
+
+
+KO
+
+```diff
+- 
++ 비상 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Soaring Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 腾跃不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047825 · Translation Modified
+
+EN
+
+```text
+<b>+16% Missile Flight Time. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>. 
+```
+
+
+DE
+
+```diff
+- 
++ <b>+16 % Lenkwaffenflugdauer. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde mit flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>. 
+```
+
+
+ES
+
+```diff
++ <b>+16 % al tiempo de vuelo de misiles. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+16 % au temps de vol des missiles. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>. 
+```
+
+
+JA
+
+```diff
++ <b>ミサイル飛行時間+16%、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>미사일 비행시간 16% 증가, 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다. 
+```
+
+
+RU
+
+```diff
+- 
++ <b>+16% ко времени полёта ракет. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b> 
+```
+
+
+ZH
+
+```diff
+- 
++ <b>导弹飞行时间延长16%。基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。 
+```
+
+
+
+
+### MessageID: 1047826 · Translation Modified
+
+EN
+
+```text
+Hallowed Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Hallowed Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Hallowed
+```
+
+
+FR
+
+```diff
+- 
++ Booster volatil saint
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「ハロウ」
+```
+
+
+KO
+
+```diff
+- 
++ 신성 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Hallowed Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 神圣不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047827 · Translation Modified
+
+EN
+
+```text
+<b>+16% Shield Boost. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+16 % Schildboost. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+16 % a la potencia de escudo. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+16 % au booster de bouclier. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>シールドブースト量+16%、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>실드 충전 효과 16% 증가. 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+16% к эффективности модуля накачки щитов. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>护盾回充量+16%。基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047828 · Translation Modified
+
+EN
+
+```text
+Tenacious Volatile Booster
+```
+
+
+DE
+
+```diff
+- 
++ Tenacious Volatile Booster
+```
+
+
+ES
+
+```diff
+- 
++ Potenciador volátil modelo Tenacious
+```
+
+
+FR
+
+```diff
+- 
++ Booster volatil tenace
+```
+
+
+JA
+
+```diff
+- 
++ 揮発性ブースター「テナシャス」
+```
+
+
+KO
+
+```diff
+- 
++ 체급 일회용 부스터
+```
+
+
+RU
+
+```diff
+- 
++ Tenacious Volatile Booster
+```
+
+
+ZH
+
+```diff
+- 
++ 坚韧不稳定增效剂
+```
+
+
+
+
+### MessageID: 1047829 · Translation Modified
+
+EN
+
+```text
+<b>+16% Armor Repair. Base duration: 3.5 minutes.</b>
+
+This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
+```
+
+
+DE
+
+```diff
+- 
++ <b>+16 % Panzerungsreparatur. Grunddauer: 3,5 Minuten.</b> Dieser Booster wurde unter Verwendung von flüchtigen Verbindungen hergestellt und verfällt am <b>27. Juli YC128</b>.
+```
+
+
+ES
+
+```diff
++ <b>+16 % a la reparación del blindaje. Duración base: 3,5 minutos.</b>
++ 
++ Este potenciador se ha fabricado con compuestos volátiles y caducará el <b>27 de julio de 128 CY.</b>
+```
+
+
+FR
+
+```diff
+- 
++ <b>+16 % à la réparation du blindage. Durée de base : 3,5 minutes.</b> Ce booster a été produit avec des mélanges volatils et expirera le <b>27 juillet 128 après CY</b>.
+```
+
+
+JA
+
+```diff
++ <b>アーマーリペア量+16%、基本持続時間：3.5分</b>
++ 
++ このブースターは揮発性の合成物質で製造されており、<b>YC128年7月27日</b>に有効期限が切れる。
+```
+
+
+KO
+
+```diff
++ <b>장갑 수리 효과 16% 증가. 기본 지속 시간: 3분 30초</b>
++ 
++ 불안정한 혼합물로 구성되어 <b>YC 128년 7월 27일</b>에 사용이 만료됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ <b>+16% к ремонту брони. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>
+```
+
+
+ZH
+
+```diff
+- 
++ <b>装甲维修量+16%。基础持续时间：3.5分钟。</b>这款增效剂在制造时使用了不稳定的化合物，将于<b>YC128年7月27日</b>过期。
+```
+
+
+
+
+### MessageID: 1047848 · Translation Modified
+
+EN
+
+```text
+AEGIS Battlecruiser Wreck
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Battlecruiser Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de crucero de combate de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Épave de croiseur cuirassé AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS巡洋戦艦の残骸
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 배틀크루저 잔해
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Battlecruiser Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 庇护者战列巡洋舰残骸
+```
+
+
+
+
+### MessageID: 1047849 · Translation Modified
+
+EN
+
+```text
+The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
+```
+
+
+DE
+
+```diff
+- 
++ Die Überreste eines zerstörten Schiffs. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas Wertvolles daraus bergen.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una nave destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'un vaisseau détruit. Avec le matériel approprié, il devrait être possible d'en tirer quelque chose.
+```
+
+
+JA
+
+```diff
+- 
++ 撃破された艦船の残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
+- 
++ 함선 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки уничтоженного корабля. Возможно, имея подходящее оборудование, из него получится извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047850 · Translation Modified
+
+EN
+
+```text
+AEGIS Battleship Wreck
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Battleship Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de acorazado de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Épave de cuirassé AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS戦艦の残骸
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 배틀쉽 잔해
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Battleship Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 庇护者战列舰残骸
+```
+
+
+
+
+### MessageID: 1047851 · Translation Modified
+
+EN
+
+```text
+The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
+```
+
+
+DE
+
+```diff
+- 
++ Die Überreste eines zerstörten Schiffs. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas Wertvolles daraus bergen.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una nave destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'un vaisseau détruit. Avec le matériel approprié, il devrait être possible d'en tirer quelque chose.
+```
+
+
+JA
+
+```diff
+- 
++ 撃破された艦船の残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
+- 
++ 함선 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки уничтоженного корабля. Возможно, имея подходящее оборудование, из него получится извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047852 · Translation Modified
+
+EN
+
+```text
+AEGIS Frigate Wreck
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Frigate Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de fragata de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Épave de frégate AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGISフリゲートの残骸
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 프리깃 잔해
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Frigate Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 庇护者护卫舰残骸
+```
+
+
+
+
+### MessageID: 1047853 · Translation Modified
+
+EN
+
+```text
+The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
+```
+
+
+DE
+
+```diff
+- 
++ Die Überreste eines zerstörten Schiffs. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas Wertvolles daraus bergen.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una nave destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'un vaisseau détruit. Avec le matériel approprié, il devrait être possible d'en tirer quelque chose.
+```
+
+
+JA
+
+```diff
+- 
++ 撃破された艦船の残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
+- 
++ 함선 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки уничтоженного корабля. Возможно, имея подходящее оборудование, из него получится извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047854 · Translation Modified
+
+EN
+
+```text
+AEGIS Cruiser Wreck
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Cruiser Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de crucero de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Épave de croiseur AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS巡洋艦の残骸
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 크루저 잔해
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Cruiser Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 庇护者巡洋舰残骸
+```
+
+
+
+
+### MessageID: 1047855 · Translation Modified
+
+EN
+
+```text
+The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
+```
+
+
+DE
+
+```diff
+- 
++ Die Überreste eines zerstörten Schiffs. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas Wertvolles daraus bergen.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una nave destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'un vaisseau détruit. Avec le matériel approprié, il devrait être possible d'en tirer quelque chose.
+```
+
+
+JA
+
+```diff
+- 
++ 撃破された艦船の残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
+- 
++ 함선 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки уничтоженного корабля. Возможно, имея подходящее оборудование, из него получится извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047866 · Source Modified
+
+EN
+
+```diff
+- Wrecked Roamer
++ Flotilla Aeon Wreckage
+```
+
+
+DE
+
+```diff
+- 
++ Flotilla Aeon Wreckage
+```
+
+
+ES
+
+```diff
+- 
++ Restos de Aeon de flotilla
+```
+
+
+FR
+
+```diff
+- 
++ Débris de la flottille Aeon
+```
+
+
+JA
+
+```diff
+- 
++ 艦隊仕様イーオンの残骸
+```
+
+
+KO
+
+```diff
+- 
++ 소함대 에이온 잔해
+```
+
+
+RU
+
+```diff
+- 
++ Flotilla Aeon Wreckage
+```
+
+
+ZH
+
+```diff
+- 
++ 万古级分舰队残骸
+```
+
+
+
+
+### MessageID: 1047867 · Source Modified
+
+EN
+
+```diff
+- 
++ There may still be something worth salvaging from the wreck of this Aeon that was once part of the Avalon flotilla.
+```
+
+
+DE
+
+```diff
+- 
++ Das Wrack dieser Aeon, die einst Teil der Avalon Flotilla war, könnte noch wertvolles Bergungsgut enthalten.
+```
+
+
+ES
+
+```diff
+- 
++ Puede que aún quede algo de valor que recuperar de los restos de este Aeon, que en su día formó parte de la flotilla Avalon.
+```
+
+
+FR
+
+```diff
+- 
++ Il pourrait encore y avoir quelque chose qui vaille la peine d'être récupéré de l'épave de cet Aeon qui faisait partie de la flottille Avalon.
+```
+
+
+JA
+
+```diff
+- 
++ かつてAvalon艦隊の一部であったこのイーオンの残骸からは、まだサルベージする価値のあるものが残っている可能性がある。
+```
+
+
+KO
+
+```diff
+- 
++ 아발론 소함대에 소속된 에이온에 아직 샐비지할 만한 물건이 있을지도 모릅니다.
+```
+
+
+RU
+
+```diff
+- 
++ Возможно, из обломков этого Aeon, некогда входившего в состав флотилии Avalon, ещё удастся извлечь что-то ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 这艘万古级舰船曾隶属于阿瓦隆分舰队，其残骸中或许仍有一些值得打捞的东西。
+```
+
+
+
+
+### MessageID: 1047870 · Translation Modified
+
+EN
+
+```text
+AEGIS Destroyer Wreck
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Destroyer Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de destructor de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Épave de destroyer AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGIS駆逐艦の残骸
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 디스트로이어 잔해
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Destroyer Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 庇护者驱逐舰残骸
+```
+
+
+
+
+### MessageID: 1047871 · Translation Modified
+
+EN
+
+```text
+The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
+```
+
+
+DE
+
+```diff
+- 
++ Die Überreste eines zerstörten Schiffs. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas Wertvolles daraus bergen.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una nave destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'un vaisseau détruit. Avec le matériel approprié, il devrait être possible d'en tirer quelque chose.
+```
+
+
+JA
+
+```diff
+- 
++ 撃破された艦船の残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
+- 
++ 함선 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки уничтоженного корабля. Возможно, имея подходящее оборудование, из него получится извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047874 · Translation Modified
+
+EN
+
+```text
+Lorharyth’s Modified Inertial Stabilizer
+```
+
+
+DE
+
+```diff
+- 
++ Lorharyth’s Modified Inertial Stabilizer
+```
+
+
+ES
+
+```diff
+- 
++ Estabilizador inercial modificado de Lorharyth
+```
+
+
+FR
+
+```diff
+- 
++ Stabilisateur d'inertie modifié de Lorharyth
+```
+
+
+JA
+
+```diff
+- 
++ ロハリスの改良型慣性制御機
+```
+
+
+KO
+
+```diff
+- 
++ 로르하리스의 개조된 관성 안정기
+```
+
+
+RU
+
+```diff
+- 
++ Lorharyth’s Modified Inertial Stabilizer
+```
+
+
+ZH
+
+```diff
+- 
++ 洛哈里斯改进型惯性稳定器
+```
+
+
+
+
+### MessageID: 1047875 · Translation Modified
+
+EN
+
+```text
+Improves ship handling and maneuverability. 
+
+Penalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.
+```
+
+
+DE
+
+```diff
+- 
++ Verbessert die Steuerung und Manövrierbarkeit des Schiffes. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.
+```
+
+
+ES
+
+```diff
++ Mejora el manejo y la maniobrabilidad de la nave.
++ 
++ Penalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.
+```
+
+
+FR
+
+```diff
+- 
++ Améliore la maniabilité du vaisseau. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité.
+```
+
+
+JA
+
+```diff
++ 艦船の操舵性と機動性を向上させる。
++ 
++ ペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。
+```
+
+
+KO
+
+```diff
++ 함선 조종성과 기동성이 향상됩니다.
++ 
++ 페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.
+```
+
+
+RU
+
+```diff
+- 
++ Улучшает управляемость и манёвренность корабля. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.
+```
+
+
+ZH
+
+```diff
+- 
++ 增强舰船控制和机动性能。惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。
+```
+
+
+
+
+### MessageID: 1047884 · Translation Modified
+
+EN
+
+```text
+This crate contains an unknown SKIN from the Arkombine Arisen SKIN line.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält einen unbekannten SKIN aus der SKIN-Reihe Arkombine Arisen.
+```
+
+
+ES
+
+```diff
+- 
++ Esta caja incluye una SKIN de la gama Ascenso de los Arcombinos desconocida.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient un SKIN inconnu de la ligne de SKINS Ascension d'Arkombine.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、アーコンバイン・アリズンSKINシリーズの不明なSKINがランダムで1つ入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 비상 SKIN 한 종이 들어 있는 상자입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит неизвестную окраску из линейки окрасок Arkombine Arisen.
+```
+
+
+ZH
+
+```diff
+- 
++ 这个箱子包含一款来自方舟联合体崛起涂装线的未知涂装。
+```
+
+
+
+
+### MessageID: 1047885 · Translation Modified
+
+EN
+
+```text
+Arkombine Arisen SKIN Crate
+```
+
+
+DE
+
+```diff
+- 
++ Arkombine Arisen SKIN Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de SKIN de Ascenso de los Arcombinos
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de SKINS Ascension d'Arkombine
+```
+
+
+JA
+
+```diff
+- 
++ アーコンバイン・アリズンSKIN箱
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 비상 SKIN 상자
+```
+
+
+RU
+
+```diff
+- 
++ Arkombine Arisen SKIN Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 方舟联合体崛起涂装箱
+```
+
+
+
+
+### MessageID: 1047886 · Translation Modified
+
+EN
+
+```text
+Arkombine Arisen SKIN Crate
+```
+
+
+DE
+
+```diff
+- 
++ Arkombine Arisen SKIN Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de SKIN de Ascenso de los Arcombinos
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de SKINS Ascension d'Arkombine
+```
+
+
+JA
+
+```diff
+- 
++ アーコンバイン・アリズンSKIN箱
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 비상 SKIN 상자
+```
+
+
+RU
+
+```diff
+- 
++ Arkombine Arisen SKIN Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 方舟联合体崛起涂装箱
+```
+
+
+
+
+### MessageID: 1047887 · Translation Modified
+
+EN
+
+```text
+This crate contains an unknown SKIN from the Arkombine Arisen SKIN line.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält einen unbekannten SKIN aus der SKIN-Reihe Arkombine Arisen.
+```
+
+
+ES
+
+```diff
+- 
++ Esta caja incluye una SKIN de la gama Ascenso de los Arcombinos desconocida.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient un SKIN inconnu de la ligne de SKINS Ascension d'Arkombine.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、アーコンバイン・アリズンSKINシリーズの不明なSKINがランダムで1つ入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 아르크컴바인의 비상 SKIN 한 종이 들어 있는 상자입니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит неизвестную окраску из линейки окрасок Arkombine Arisen.
+```
+
+
+ZH
+
+```diff
+- 
++ 这个箱子包含一款来自方舟联合体崛起涂装线的未知涂装。
+```
+
+
+
+
+### MessageID: 1047956 · Translation Modified
+
+EN
+
+```text
+Destroy the Director at local Nemesis Command and conclude this Avalon Investigation.
+```
+
+
+DE
+
+```diff
+- 
++ Zerstören Sie den Director beim lokalen Nemesis Command und schließen Sie diese Avalon-Untersuchung ab.
+```
+
+
+ES
+
+```diff
+- 
++ Destruye al director del puesto de mando Nemesis local y da por concluida esta investigación de Avalon.
+```
+
+
+FR
+
+```diff
+- 
++ Détruisez le directeur du centre de commandement local de Nemesis et concluez cette enquête Avalon.
+```
+
+
+JA
+
+```diff
+- 
++ 現地のネメシス指揮アウトポストにいるディレクターを撃破し、このAvalon調査を完了させよ。
+```
+
+
+KO
+
+```diff
+- 
++ 지역 네메시스 지휘부의 사령관을 처치해 아발론 조사를 완료하십시오.
+```
+
+
+RU
+
+```diff
+- 
++ Уничтожьте директора местного командования проекта Nemesis и завершите исследование Avalon.
+```
+
+
+ZH
+
+```diff
+- 
++ 消灭当地纳美西斯级指挥部的指挥官，结束阿瓦隆调查。
+```
+
+
+
+
+### MessageID: 1047957 · Translation Modified
+
+EN
+
+```text
+Nemesis Command Uncovered
+```
+
+
+DE
+
+```diff
+- 
++ Nemesis Command entdeckt
+```
+
+
+ES
+
+```diff
+- 
++ Comandancia Nemesis descubierta
+```
+
+
+FR
+
+```diff
+- 
++ Commandement Nemesis découvert
+```
+
+
+JA
+
+```diff
+- 
++ 暴かれたネメシス指揮アウトポスト
+```
+
+
+KO
+
+```diff
+- 
++ 추적한 네메시스 지휘소
+```
+
+
+RU
+
+```diff
+- 
++ Командование проекта Nemesis обнаружено
+```
+
+
+ZH
+
+```diff
+- 
++ 发现纳美西斯级指挥中心
+```
+
+
+
+
+### MessageID: 1047960 · Added
+
+EN
+
+```text
+Additional base <b>Shield</b>, <b>Armor</b> and <b>Structure</b> hitpoints for <b>Tactical Destroyers</b>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047961 · Added
+
+EN
+
+```text
+FW ELT-5 Dungeon Tactical Destroyer Proximity Effect (DO NOT TRANSLATE)
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1047966 · Translation Modified
+
+EN
+
+```text
+AEGIS Squall Wreck
+```
+
+
+DE
+
+```diff
+- 
++ AEGIS Squall Wreck
+```
+
+
+ES
+
+```diff
+- 
++ Restos de Squall de AEGIS
+```
+
+
+FR
+
+```diff
+- 
++ Épave de Squall AEGIS
+```
+
+
+JA
+
+```diff
+- 
++ AEGISスコールの残骸
+```
+
+
+KO
+
+```diff
+- 
++ AEGIS 스퀄 잔해
+```
+
+
+RU
+
+```diff
+- 
++ AEGIS Squall Wreck
+```
+
+
+ZH
+
+```diff
+- 
++ 狂风级庇护者残骸
+```
+
+
+
+
+### MessageID: 1047967 · Translation Modified
+
+EN
+
+```text
+The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
+```
+
+
+DE
+
+```diff
+- 
++ Die Überreste eines zerstörten Schiffs. Mit der richtigen Ausrüstung könnte man vielleicht noch etwas Wertvolles daraus bergen.
+```
+
+
+ES
+
+```diff
+- 
++ Los restos de una nave destruida. Quizá se pueda recuperar algo de valor con el equipo adecuado.
+```
+
+
+FR
+
+```diff
+- 
++ Épave d'un vaisseau détruit. Avec le matériel approprié, il devrait être possible d'en tirer quelque chose.
+```
+
+
+JA
+
+```diff
+- 
++ 撃破された艦船の残骸。適切な装備を使えば、価値のあるパーツをサルベージできるかもしれない。
+```
+
+
+KO
+
+```diff
+- 
++ 함선 잔해입니다. 적합한 장비를 사용할 경우 각종 부품 및 자원을 획득할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Обломки уничтоженного корабля. Возможно, имея подходящее оборудование, из него получится извлечь что-нибудь ценное.
+```
+
+
+ZH
+
+```diff
+- 
++ 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
+```
+
+
+
+
+### MessageID: 1047968 · Added
+
+EN
+
+```text
+A command center coordinating all work on the mysterious project Nemesis. Expect serious opposition to any attacks.<br><br><br><b>Time to complete:</b> Approximately 20 minutes.<br><b>Hostiles:</b> EDENCOM.<br><b>Size:</b> 1+ pilots.<br><b>Roles:</b> Enforcer.<br><b>Ship Restrictions:</b> Cruisers and smaller.
+```
+
+
+DE
+
+```text
+Eine Kommandozentrale, die alle Arbeiten am mysteriösen Projekt Nemesis koordiniert. Stellen Sie sich auf ernsthaften Widerstand gegen jegliche Angriffe ein.<br><br><br><b>Zeitlimit:</b> Etwa 20 Minuten.<br><b>Feinde:</b> EDENCOM.<br><b>Größe:</b> 1+ Piloten.<br><b>Funktionen:</b> Enforcer.<br><b>Schiffsbeschränkungen:</b> Kreuzer und kleiner.
+```
+
+
+ES
+
+```text
+Un centro de mando que coordina todo el trabajo del misterioso proyecto Nemesis. Cabe esperar una fuerte oposición ante cualquier ataque.<br><br><br><b>Tiempo para completarlo:</b> aproximadamente 20 minutos.<br><b>Enemigos:</b> EDENCOM.<br><b>Tamaño:</b> 1+ pilotos.<br><b>Funciones:</b> ejecutores.<br><b>Restricciones de la nave:</b> cruceros y naves más pequeñas.
+```
+
+
+FR
+
+```text
+Un centre de commandement coordonnant tous les travaux sur le mystérieux projet Nemesis. Attendez-vous à une opposition sérieuse à toute attaque.<br><br><br><b>Limite de temps :</b> environ 20 minutes.<br><b>Ennemis :</b> EDENCOM.<br><b>Effectif :</b> 1 pilote ou plus.<br><b>Rôles :</b> Exécuteur.<br><b>Restrictions de vaisseaux :</b> Croiseurs et plus petits.
+```
+
+
+JA
+
+```text
+謎のプロジェクト「ネメシス」に関するすべての作業を統括するコマンドセンター。攻撃の際は激しい抵抗が予想される。<br><br><br><b>任務時間：</b>約20分<br><b>敵勢力：</b>EDENCOM<br><b>規模：</b>パイロット1名以上<br><b>役割：</b>エンフォーサー<br><b>艦船の制限：</b>巡洋艦以下
+```
+
+
+KO
+
+```text
+네메시스 프로젝트의 업무 전반을 통괄하는 지휘 센터입니다. 적이 공격하면 격렬하게 저항합니다.<br><br><br><b>임무 시간:</b> 약 20분<br><b>적 세력:</b> EDENCOM<br><b>규모:</b> 파일럿 1명 이상<br><b>필요 역할:</b> 집행관<br><b>함선 제한:</b> 크루저 이하 함급
+```
+
+
+RU
+
+```text
+Командный центр, координирующий все работы над таинственным проектом Nemesis. Любая попытка нападения встретит жёсткое сопротивление.<br><br><br><b>Время на выполнение:</b> около 20 минут.<br><b>Противник:</b> ЭДЕНКОМ.<br><b>Кол-во пилотов: </b>1 или более.<br><b>Роли:</b> боец.<br><b>Ограничения:</b> крейсеры и более мелкие суда.
+```
+
+
+ZH
+
+```text
+一个负责协调神秘的“纳美西斯”计划全部工作的指挥中心。预计任何攻击都会遭遇顽强抵抗。<br><br><br><b>完成时间：</b>约20分钟。<br><b>敌方：</b>伊甸联合防御阵线。<br><b>规模：</b>超过1名飞行员<br><b>职位：</b>执法者。<br><b>舰船限制：</b>巡洋舰及更小的舰船。
+```
+
+
+
+
+### MessageID: 1047980 · Added
+
+EN
+
+```text
+Vanguard Avalon: POI Repeateble Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Wiederholungsherausforderung für interessante Orte
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío repetible de puntos de interés
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi de point d'intérêt répétable
+```
+
+
+JA
+
+```text
+Vanguard Avalon：：POI（繰り返し可能チャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 중요 지점 반복 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: повторяемая задача по объектам интереса
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：POI可重复挑战
+```
+
+
+
+
+### MessageID: 1047981 · Added
+
+EN
+
+```text
+POIs Destroyed
+```
+
+
+DE
+
+```text
+Interessante Orte zerstört
+```
+
+
+ES
+
+```text
+Puntos de interés destruidos
+```
+
+
+FR
+
+```text
+Points d'intérêt détruits
+```
+
+
+JA
+
+```text
+破壊したPOI
+```
+
+
+KO
+
+```text
+중요 지점 파괴됨
+```
+
+
+RU
+
+```text
+Объекты интереса уничтожены
+```
+
+
+ZH
+
+```text
+已摧毁POI数量
+```
+
+
+
+
+### MessageID: 1047982 · Added
+
+EN
+
+```text
+<i>Destroy four Nemesis Research Outposts, Nemesis Test Centers, or AEGIS Security Platforms found at POIs in Avalon Investigations systems.<br><br>POIs are invisible to all scanning methods and cannot be discovered directly. They are, however, destinations on AEGIS Squall routes.</i>
+```
+
+
+DE
+
+```text
+<i>Zerstören Sie 4 Nemesis Research Outposts, Nemesis Test Centers oder AEGIS Security Platforms, die an interessanten Orten in Systemen mit Avalon-Untersuchungen zu finden sind.<br><br>Interessante Orte sind für alle Scan-Methoden unsichtbar und können nicht direkt entdeckt werden. Sie sind jedoch Ziele auf Routen von AEGIS-Squalls.</i>
+```
+
+
+ES
+
+```text
+<i>Destruye cuatro puestos avanzados de investigación Nemesis, centros de pruebas Nemesis o plataformas de seguridad de AEGIS situados en puntos de interés de sistemas con investigaciones de Avalon.<br><br>Los puntos de interés son invisibles para todos los métodos de escaneo y no pueden descubrirse directamente. Sin embargo, son destinos de las rutas de las Squall de AEGIS.</i>
+```
+
+
+FR
+
+```text
+<i>Détruisez quatre Avant-postes de recherche Nemesis, Centres de test Nemesis ou Plateformes de sécurité AEGIS trouvables aux points d'intérêt dans les systèmes des enquêtes d'Avalon.<br><br>Les points d'intérêt sont invisibles à toutes les méthodes de balayage et ne peuvent pas être découverts directement. Cependant, ils constituent des destinations sur les routes des Squall AEGIS.</i>
+```
+
+
+JA
+
+```text
+<i>Avalon調査システム内のPOIで発見されるネメシス研究アウトポスト、ネメシス・テストセンター、またはAEGISセキュリティプラットフォームを4か所破壊する。<br><br>POIはすべてのスキャン方法で検知できず、直接発見することはできない。ただし、これらはAEGISスコールの巡回ルートの目的地となっている。</i>
+```
+
+
+KO
+
+```text
+<i>아발론 조사 성계에서 네메시스 연구기지, 네메시스 시험 센터, AEGIS 보안 플랫폼을 찾아 4개 파괴하십시오.<br><br>중요 지점은 모든 스캔 방식으로 탐색하거나 직접 찾을 수 없습니다. AEGIS 스퀄의 이동 목표를 확인해 찾을 수 있습니다.</i>
+```
+
+
+RU
+
+```text
+<i>Уничтожьте 4 исследовательских форпоста Nemesis, испытательных центра Nemesis или платформы безопасности AEGIS, расположенных в объектах интереса систем с исследованиями Avalon.<br><br>Объекты интереса нельзя обнаружить напрямую или с помощью методик сканирования, однако они являются конечными пунктами маршрутов кораблей AEGIS Squall.</i>
+```
+
+
+ZH
+
+```text
+<i>摧毁4个纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台（位于阿瓦隆调查星系中的POI）。<br><br>POI无法通过任何扫描手段直接发现。但它们会作为狂风级庇护者航线的目的地出现。</i>
+```
+
+
+
+
+### MessageID: 1047983 · Added
+
+EN
+
+```text
+Vanguard Avalon: Hacking Main Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Hacking-Hauptherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío principal de hackeo
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi de piratage principal
+```
+
+
+JA
+
+```text
+Vanguard Avalon：ハッキング（メインチャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 해킹 주 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: основная задача по взлому
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：破译主线挑战
+```
+
+
+
+
+### MessageID: 1047984 · Added
+
+EN
+
+```text
+Vaults hacked
+```
+
+
+DE
+
+```text
+Tresore gehackt
+```
+
+
+ES
+
+```text
+Cámaras hackeadas
+```
+
+
+FR
+
+```text
+Coffres-forts piratés
+```
+
+
+JA
+
+```text
+ハッキングした保管庫
+```
+
+
+KO
+
+```text
+해킹한 금고
+```
+
+
+RU
+
+```text
+Хранилища взломаны
+```
+
+
+ZH
+
+```text
+已破译保险库
+```
+
+
+
+
+### MessageID: 1047985 · Added
+
+EN
+
+```text
+<i>Hack 30 Surveillance Vaults or Research Vaults found in Flotilla Observation Outpost or POI: Nemesis Research Outpost sites.</i>
+```
+
+
+DE
+
+```text
+<i>Hacken Sie 30 Surveillance Vaults oder Research Vaults in den Gebieten Flotilla Observation Outposts oder Interessanter Ort: Nemesis Research Outpost.</i>
+```
+
+
+ES
+
+```text
+<i>Hackea 30 cámaras de vigilancia o cámaras de investigación situadas en puestos avanzados de observación de la flotilla o en puntos de interés: puestos avanzados de investigación Nemesis.</i>
+```
+
+
+FR
+
+```text
+<i>Piratez 30 coffres-forts de surveillance ou coffres-forts de recherche trouvés dans l'avant-poste d'observation de la flottille ou sur un site Point d'intérêt : Avant-poste de recherche Nemesis.</i>
+```
+
+
+JA
+
+```text
+<i>艦隊観測アウトポストまたはPOI（ネメシス研究アウトポスト）サイト内にある監視データ保管庫または研究データ保管庫を30か所ハッキングする。</i>
+```
+
+
+KO
+
+```text
+<i>소함대 관측소 전초기지 또는 중요 지점: 네메시스 연구기지 사이트에서 첩보 금고 또는 비밀 연구소를 30회 해킹하세요.</i>
+```
+
+
+RU
+
+```text
+<i>Взломайте 30 наблюдательных или исследовательских хранилищ, расположенных на наблюдательном форпосте флотилии или объекте интереса: исследовательский форпост Nemesis.</i>
+```
+
+
+ZH
+
+```text
+<i>破译位于分舰队观察站或POI中的30个监视保险库或研究保险库：纳美西斯级研究哨站点。</i>
+```
+
+
+
+
+### MessageID: 1047986 · Added
+
+EN
+
+```text
+Vanguard Avalon: Hacking Repeatable Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Hacking-Wiederholungsherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío repetible de hackeo
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi de piratage répétable
+```
+
+
+JA
+
+```text
+Vanguard Avalon：ハッキング（繰り返し可能チャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 해킹 반복 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: повторяемая задача по взлому
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：破译可重复挑战
+```
+
+
+
+
+### MessageID: 1047987 · Added
+
+EN
+
+```text
+Vaults hacked
+```
+
+
+DE
+
+```text
+Tresore gehackt
+```
+
+
+ES
+
+```text
+Cámaras hackeadas
+```
+
+
+FR
+
+```text
+Coffres-forts piratés
+```
+
+
+JA
+
+```text
+ハッキングした保管庫
+```
+
+
+KO
+
+```text
+해킹한 금고
+```
+
+
+RU
+
+```text
+Хранилища взломаны
+```
+
+
+ZH
+
+```text
+已破译保险库
+```
+
+
+
+
+### MessageID: 1047988 · Added
+
+EN
+
+```text
+<i>Hack 12 Surveillance Vaults or Research Vaults found in Flotilla Observation Outpost or POI: Nemesis Research Outpost sites.</i>
+```
+
+
+DE
+
+```text
+<i>Hacken Sie 12 Surveillance Vaults oder Research Vaults in den Gebieten Flotilla Observation Outposts oder Interessanter Ort: Nemesis Research Outpost.</i>
+```
+
+
+ES
+
+```text
+<i>Hackea 12 cámaras de vigilancia o cámaras de investigación situadas en puestos avanzados de observación de la flotilla o en puntos de interés: puestos avanzados de investigación Nemesis.</i>
+```
+
+
+FR
+
+```text
+<i>Piratez 12 coffres-forts de surveillance ou coffres-forts de recherche trouvés dans les avant-postes d'observation de la flottille ou sur un site Point d'intérêt : Avant-poste de recherche Nemesis.</i>
+```
+
+
+JA
+
+```text
+<i>艦隊観測アウトポストまたはPOI（ネメシス研究アウトポスト）サイト内にある監視データ保管庫または研究データ保管庫を12か所ハッキングする。</i>
+```
+
+
+KO
+
+```text
+<i>소함대 관측소 전초기지 또는 중요 지점: 네메시스 연구기지 사이트에서 첩보 금고 또는 비밀 연구소를 12회 해킹하세요.</i>
+```
+
+
+RU
+
+```text
+<i>Взломайте 12 наблюдательных или исследовательских хранилищ, расположенных на наблюдательном форпосте флотилии или объекте интереса: исследовательский форпост Nemesis.</i>
+```
+
+
+ZH
+
+```text
+<i>破译位于分舰队观察站或POI中的12个监视保险库或研究保险库：纳美西斯级研究哨站点。</i>
+```
+
+
+
+
+### MessageID: 1047989 · Added
+
+EN
+
+```text
+Vanguard Avalon: Salvaging Main Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Bergungs-Hauptherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío principal de recuperación
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi principal de récupération
+```
+
+
+JA
+
+```text
+Vanguard Avalon：サルベージ（メインチャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 샐비징 주 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: основная задача по демонтажу
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：打捞主线挑战
+```
+
+
+
+
+### MessageID: 1047990 · Added
+
+EN
+
+```text
+Wrecks salvaged
+```
+
+
+DE
+
+```text
+Geborgene Wracks
+```
+
+
+ES
+
+```text
+Restos recuperados
+```
+
+
+FR
+
+```text
+Épaves récupérées
+```
+
+
+JA
+
+```text
+サルベージした残骸
+```
+
+
+KO
+
+```text
+샐비지한 잔해
+```
+
+
+RU
+
+```text
+Демонтировано обломков
+```
+
+
+ZH
+
+```text
+已打捞残骸
+```
+
+
+
+
+### MessageID: 1047991 · Added
+
+EN
+
+```text
+<i>Salvage 150 Upwell Wrecks, Upwell Avalanche Wrecks, Flotilla Aeon Wreckages or Target Wrecks found in Upwell Wreckage or POI: Nemesis Test Center sites.</i>
+```
+
+
+DE
+
+```text
+<i>Bergen Sie 150 Upwell Wrecks, Upwell Avalanche Wrecks, Flotilla Aeon Wreckages oder Target Wrecks in den Gebieten Upwell Wreckage oder Interessanter Ort: Nemesis Test Center.</i>
+```
+
+
+ES
+
+```text
+<i>Recupera materiales de 150 restos de Upwell, restos de Avalanche de Upwell, restos de Aeon de la flotilla o restos de objetivos situados en zonas de restos de Upwell o en punto de interés: centros de pruebas Nemesis.</i>
+```
+
+
+FR
+
+```text
+<i>Récupérez 150 épaves Upwell, épaves d'Avalanche Upwell, Débris de la flottille Aeon ou épaves de cibles trouvées dans les Débris Upwell ou sur les sites Point d'intérêt : Centre de test de Nemesis.</i>
+```
+
+
+JA
+
+```text
+<i>アップウェルの残骸またはPOI（ネメシス・テストセンター）サイト内にあるアップウェル製艦船の残骸、アヴァランチの残骸、艦隊仕様イーオンの残骸、標的の残骸を計150個サルベージする。</i>
+```
+
+
+KO
+
+```text
+<i>업웰 잔해 또는 중요 지점: 네메시스 시험 센터 사이트에서 업웰 잔해, 업웰 아발란치 잔해, 소함대 에이온 잔해, 목표 잔해를 150회 샐비지하세요.</i>
+```
+
+
+RU
+
+```text
+<i>Демонтируйте 150 обломков консорциума «Апвелл», флотилии Aeon или целевых обломков, найденных в обломках консорциума «Апвелл» или на объекте интереса: испытательный центр Nemesis.</i>
+```
+
+
+ZH
+
+```text
+<i>打捞在昇威残骸或POI中发现的150艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯级测试中心站点。</i>
+```
+
+
+
+
+### MessageID: 1047992 · Added
+
+EN
+
+```text
+Vanguard Avalon: Salvaging Repeatable Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Bergungs-Wiederholungsherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío repetible de recuperación
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi répétable de récupération
+```
+
+
+JA
+
+```text
+Vanguard Avalon：サルベージ（繰り返し可能チャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 샐비징 반복 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: повторяемая задача по демонтажу
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：打捞可重复挑战
+```
+
+
+
+
+### MessageID: 1047993 · Added
+
+EN
+
+```text
+Wrecks salvaged
+```
+
+
+DE
+
+```text
+Geborgene Wracks
+```
+
+
+ES
+
+```text
+Restos recuperados
+```
+
+
+FR
+
+```text
+Épaves récupérées
+```
+
+
+JA
+
+```text
+サルベージした残骸
+```
+
+
+KO
+
+```text
+샐비지한 잔해
+```
+
+
+RU
+
+```text
+Демонтировано обломков
+```
+
+
+ZH
+
+```text
+已打捞残骸
+```
+
+
+
+
+### MessageID: 1047994 · Added
+
+EN
+
+```text
+<i>Salvage 60 Upwell Wrecks, Upwell Avalanche Wrecks, Flotilla Aeon Wreckages or Target Wrecks found in Upwell Wreckage or POI: Nemesis Test Center sites.</i>
+```
+
+
+DE
+
+```text
+<i>Bergen Sie 60 Upwell Wrecks, Upwell Avalanche Wrecks, Flotilla Aeon Wreckages oder Target Wrecks in den Gebieten Upwell Wreckage oder Interessanter Ort: Nemesis Test Center.</i>
+```
+
+
+ES
+
+```text
+<i>Recupera materiales de 60 restos de Upwell, restos de Avalanche de Upwell, restos de Aeon de la flotilla o restos de objetivos situados en zonas de restos de Upwell o en punto de interés: centros de pruebas Nemesis.</i>
+```
+
+
+FR
+
+```text
+<i>Récupérez 60 épaves Upwell, épaves d'Avalanche Upwell, Débris de la flottille Aeon ou épaves de cibles trouvées dans les Débris Upwell ou sur les sites Point d'intérêt : Centre de test de Nemesis.</i>
+```
+
+
+JA
+
+```text
+<i>アップウェルの残骸またはPOI（ネメシス・テストセンター）サイト内にあるアップウェル製艦船の残骸、アヴァランチの残骸、艦隊仕様イーオンの残骸、標的の残骸を計60個サルベージする。</i>
+```
+
+
+KO
+
+```text
+<i>업웰 잔해 또는 중요 지점: 네메시스 시험 센터 사이트에서 업웰 잔해, 업웰 아발란치 잔해, 소함대 에이온 잔해, 목표 잔해를 60회 샐비지하세요.</i>
+```
+
+
+RU
+
+```text
+<i>Демонтируйте 60 обломков консорциума «Апвелл», флотилии Aeon или целевых обломков, найденных в обломках консорциума «Апвелл» или на объекте интереса: испытательный центр Nemesis.</i>
+```
+
+
+ZH
+
+```text
+<i>打捞在昇威残骸或POI中发现的60艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯级测试中心站点。</i>
+```
+
+
+
+
+### MessageID: 1047995 · Added
+
+EN
+
+```text
+Vanguard Avalon: Big Boss Main Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Big-Boss-Hauptherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío principal de jefes grandes
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi principal de grand boss
+```
+
+
+JA
+
+```text
+Vanguard Avalon：ビッグボス（メインチャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 상급 지휘관 주 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: основная задача по директорам
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：大Boss主线挑战
+```
+
+
+
+
+### MessageID: 1047996 · Added
+
+EN
+
+```text
+Directors destroyed
+```
+
+
+DE
+
+```text
+Directors zerstört
+```
+
+
+ES
+
+```text
+Naves de directores destruidas
+```
+
+
+FR
+
+```text
+Directeurs détruits
+```
+
+
+JA
+
+```text
+撃破されたディレクター
+```
+
+
+KO
+
+```text
+처치한 사령관
+```
+
+
+RU
+
+```text
+Директора уничтожены
+```
+
+
+ZH
+
+```text
+已摧毁局长舰船
+```
+
+
+
+
+### MessageID: 1047997 · Added
+
+EN
+
+```text
+<i>Destroy five Director Thunderchild ships.<br><br>These Aegis military commanders can be found in Nemesis Command Outpost sites, which only appear once Avalon Investigations influence reaches 100%.</i>
+```
+
+
+DE
+
+```text
+<i>Zerstören Sie 5 Director Thunderchild-Schiffe.<br><br>Diese AEGIS-Militärkommandanten können in Nemesis Command Outpost-Gebieten gefunden werden, die erst erscheinen, wenn der Einfluss der Avalon-Untersuchungen 100 % erreicht.</i>
+```
+
+
+ES
+
+```text
+<i>Destruye cinco naves Thunderchild de directores.<br><br>Estos comandantes militares de AEGIS pueden encontrarse en zonas de puesto avanzado de mando Nemesis, que solo aparecen cuando la influencia de las investigaciones de Avalon alcanza el 100 %.</i>
+```
+
+
+FR
+
+```text
+<i>Détruisez cinq vaisseaux Thunderchild de directeurs.<br><br>Ces commandants militaires d'AEGIS peuvent être trouvés dans les sites Avant-poste de commandement Nemesis, qui n'apparaissent qu'une fois que l'influence des enquêtes Avalon atteint 100 %.</i>
+```
+
+
+JA
+
+```text
+<i>ディレクター・サンダーチャイルドを5隻撃破する。<br><br>これらAEGISの軍事指揮官はネメシス指揮アウトポストサイトに出現する。このサイトはAvalon調査の影響度が100%に達した時にのみ発生する。</i>
+```
+
+
+KO
+
+```text
+<i>사령관 썬더차일드 함선을 5회 처치하세요.<br><br>AEGIS 사령관은 네메시스 지휘소 사이트에서 발견할 수 있습니다. 아발론 조사 영향력이 100%에 도달하면 사이트가 포착됩니다.</i>
+```
+
+
+RU
+
+```text
+<i>Уничтожьте пять директорских кораблей Thunderchild.<br><br>Этих военачальников AEGIS можно выследить на командных форпостах Nemesis, появляющихся только после того, как влияние исследований Avalon достигает 100%.</i>
+```
+
+
+ZH
+
+```text
+<i>摧毁5艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯级指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
+```
+
+
+
+
+### MessageID: 1047998 · Added
+
+EN
+
+```text
+Vanguard Avalon: Big Boss Repeating Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Big-Boss-Wiederholungsherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío repetible de jefes grandes
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi répétable de grand boss
+```
+
+
+JA
+
+```text
+Vanguard Avalon：ビッグボス（繰り返し可能チャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 상급 지휘관 반복 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: повторяющаяся задача по директорам
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：大Boss重复挑战
+```
+
+
+
+
+### MessageID: 1047999 · Added
+
+EN
+
+```text
+Directors destroyed
+```
+
+
+DE
+
+```text
+Directors zerstört
+```
+
+
+ES
+
+```text
+Naves de directores destruidas
+```
+
+
+FR
+
+```text
+Directeurs détruits
+```
+
+
+JA
+
+```text
+撃破されたディレクター
+```
+
+
+KO
+
+```text
+처치한 사령관
+```
+
+
+RU
+
+```text
+Директора уничтожены
+```
+
+
+ZH
+
+```text
+已摧毁局长舰船
+```
+
+
+
+
+### MessageID: 1048000 · Added
+
+EN
+
+```text
+<i>Destroy two Director Thunderchild ships.<br><br>These Aegis military commanders can be found in Nemesis Command Outpost sites, which only appear once Avalon Investigations influence reaches 100%.</i>
+```
+
+
+DE
+
+```text
+<i>Zerstören Sie 2 Director Thunderchild-Schiffe.<br><br>Diese AEGIS-Militärkommandanten können in Nemesis Command Outpost-Gebieten gefunden werden, die erst erscheinen, wenn der Einfluss der Avalon-Untersuchungen 100 % erreicht.</i>
+```
+
+
+ES
+
+```text
+<i>Destruye dos naves Thunderchild de directores.<br><br>Estos comandantes militares de AEGIS pueden encontrarse en zonas de puesto avanzado de mando Nemesis, que solo aparecen cuando la influencia de las investigaciones de Avalon alcanza el 100 %.</i>
+```
+
+
+FR
+
+```text
+<i>Détruisez deux vaisseaux Thunderchild de directeurs.<br><br>Ces commandants militaires d'AEGIS peuvent être trouvés dans les sites Avant-poste de commandement Nemesis, qui n'apparaissent qu'une fois que l'influence des enquêtes Avalon atteint 100 %.</i>
+```
+
+
+JA
+
+```text
+<i>ディレクター・サンダーチャイルドを2隻撃破する。<br><br>これらAEGISの軍事指揮官はネメシス指揮アウトポストサイトに出現する。このサイトはAvalon調査の影響度が100%に達した時にのみ発生する。</i>
+```
+
+
+KO
+
+```text
+<i>사령관 썬더차일드 함선을 2회 처치하세요.<br><br>AEGIS 사령관은 네메시스 지휘소 사이트에서 발견할 수 있습니다. 아발론 조사 영향력이 100%에 도달하면 사이트가 포착됩니다.</i>
+```
+
+
+RU
+
+```text
+<i>Уничтожьте два директорских корабля Thunderchild.<br><br>Этих военачальников AEGIS можно выследить на командных форпостах Nemesis, появляющихся только после того, как влияние исследований Avalon достигает 100%.</i>
+```
+
+
+ZH
+
+```text
+<i>摧毁2艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯级指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
+```
+
+
+
+
+### MessageID: 1048001 · Added
+
+EN
+
+```text
+Vanguard Avalon: Item Trader Main Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Gegenstandshändler-Hauptherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío principal de comerciante de objetos
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi principal de marchand d'objets
+```
+
+
+JA
+
+```text
+Vanguard Avalon：アイテムトレーダー（メインチャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 아이템 거래 주 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: главная задача торговца предметами
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：物品贸易官主线挑战
+```
+
+
+
+
+### MessageID: 1048002 · Added
+
+EN
+
+```text
+Items traded
+```
+
+
+DE
+
+```text
+Gegenstände gehandelt
+```
+
+
+ES
+
+```text
+Objetos comerciados
+```
+
+
+FR
+
+```text
+Objets échangés
+```
+
+
+JA
+
+```text
+トレードしたアイテム
+```
+
+
+KO
+
+```text
+거래한 아이템
+```
+
+
+RU
+
+```text
+Предметы обменяны
+```
+
+
+ZH
+
+```text
+已交易物品
+```
+
+
+
+
+### MessageID: 1048003 · Added
+
+EN
+
+```text
+<i>Receive 30 items from Avalon Flotilla Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Avalon Flotilla Trader locations:</b><br>Amarr: Amarr, Sifilar<br>Caldari: New Caldari, Kinakka, Poitot<br>Gallente: Dodixie, Ostingele<br>Minmatar: Rens, Hadozeko, SL-YBS</i>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048004 · Added
+
+EN
+
+```text
+Vanguard Avalon: Item Trader Repeatable Challenge
+```
+
+
+DE
+
+```text
+Vanguard Avalon: Gegenstandshändler-Wiederholungsherausforderung
+```
+
+
+ES
+
+```text
+Vanguardia Avalon: desafío repetible de comerciantes de objetos
+```
+
+
+FR
+
+```text
+Vanguard Avalon : défi répétable de marchand d'objets
+```
+
+
+JA
+
+```text
+Vanguard Avalon：アイテムトレーダー（繰り返し可能チャレンジ）
+```
+
+
+KO
+
+```text
+Vanguard 아발론: 아이템 거래 반복 도전과제
+```
+
+
+RU
+
+```text
+Vanguard Avalon: повторяемая задача торговца предметами
+```
+
+
+ZH
+
+```text
+先锋阿瓦隆：物品贸易官可重复挑战
+```
+
+
+
+
+### MessageID: 1048005 · Added
+
+EN
+
+```text
+Items traded
+```
+
+
+DE
+
+```text
+Gegenstände gehandelt
+```
+
+
+ES
+
+```text
+Objetos comerciados
+```
+
+
+FR
+
+```text
+Objets échangés
+```
+
+
+JA
+
+```text
+トレードしたアイテム
+```
+
+
+KO
+
+```text
+거래한 아이템
+```
+
+
+RU
+
+```text
+Предметы обменяны
+```
+
+
+ZH
+
+```text
+已交易物品
+```
+
+
+
+
+### MessageID: 1048006 · Added
+
+EN
+
+```text
+<i>Receive 12 items from Avalon Flotilla Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Avalon Flotilla Trader locations:</b><br>Amarr: Amarr, Sifilar<br>Caldari: New Caldari, Kinakka, Poitot<br>Gallente: Dodixie, Ostingele<br>Minmatar: Rens, Hadozeko, SL-YBS</i>
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048007 · Added
+
+EN
+
+```text
+Operation Avalon
+```
+
+
+DE
+
+```text
+Operation Avalon
+```
+
+
+ES
+
+```text
+Operación Avalon
+```
+
+
+FR
+
+```text
+Opération Avalon
+```
+
+
+JA
+
+```text
+Operation Avalon 
+```
+
+
+KO
+
+```text
+아발론 작전
+```
+
+
+RU
+
+```text
+Operation Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆行动
+```
+
+
+
+
+### MessageID: 1048008 · Added
+
+EN
+
+```text
+Sites associated with Operation Avalon
+```
+
+
+DE
+
+```text
+Gebiete, die mit Operation Avalon verbunden sind
+```
+
+
+ES
+
+```text
+Zonas asociadas a la Operación Avalon
+```
+
+
+FR
+
+```text
+Sites associés à l'opération Avalon
+```
+
+
+JA
+
+```text
+Operation Avalon関連サイト
+```
+
+
+KO
+
+```text
+아발론 작전 관련 사이트
+```
+
+
+RU
+
+```text
+Районы, связанные с Operation Avalon
+```
+
+
+ZH
+
+```text
+与阿瓦隆行动相关的地点
+```
+
+
+
+
+### MessageID: 1048012 · Added
+
+EN
+
+```text
+Include Restricted Objectives
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048031 · Added
+
+EN
+
+```text
+Minmatar Pilot
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048032 · Added
+
+EN
+
+```text
+<font size="14"><b>Minmatar Pilot Expert System</b></font>
+
+This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
+
+<b>The temporary skills provided by this Expert System last for seven days.</b>
+
+An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
+(truncated, 1,394 chars total)
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048038 · Added
+
+EN
+
+```text
+The remains of an Upwell convoy, it may contain valuable salvage.
+```
+
+
+DE
+
+```text
+Die Überreste eines Upwell-Konvois. Sie könnten wertvolle Bergungsgüter enthalten.
+```
+
+
+ES
+
+```text
+Los restos de un convoy de Upwell. Puede que contengan materiales valiosos que recuperar.
+```
+
+
+FR
+
+```text
+Les restes d'un convoi Upwell, ils peuvent contenir des objets de valeur à récupérer.
+```
+
+
+JA
+
+```text
+アップウェル製輸送船団の残骸。貴重なサルベージ品が含まれている可能性がある。
+```
+
+
+KO
+
+```text
+업웰 수송대 잔해입니다. 값진 물건을 샐비지할 수 있을지 모릅니다.
+```
+
+
+RU
+
+```text
+Обломки конвоя «Апвелл». Возможно, из них удастся извлечь нечто ценное.
+```
+
+
+ZH
+
+```text
+这是昇威护航队的残骸，可能含有有价值的打捞品。
+```
+
+
+
+
+### MessageID: 1048089 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Торговец флотилии Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048093 · Added
+
+EN
+
+```text
+Locations of Avalon Investigations
+```
+
+
+DE
+
+```text
+Orte von Avalon-Untersuchungen
+```
+
+
+ES
+
+```text
+Ubicaciones de las investigaciones de Avalon
+```
+
+
+FR
+
+```text
+Emplacements des enquêtes d'Avalon
+```
+
+
+JA
+
+```text
+Avalon調査のロケーション
+```
+
+
+KO
+
+```text
+아발론 조사 위치
+```
+
+
+RU
+
+```text
+Координаты исследований Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆调查位置
+```
+
+
+
+
+### MessageID: 1048094 · Added
+
+EN
+
+```text
+A cypher used to encrypt or decrypt a strand of a Vanguard’s resonant consciousness. These cyphers are only shared with those who have earned the Vanguard’s trust. The theft or recreation of a Resonant Cypher is a sign of malicious intent against the Vanguard and is considered a heinous crime by the Avalon Flotilla.
+
+Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
+```
+
+
+DE
+
+```text
+Eine Chiffre, die verwendet wird, um einen Strang des resonanten Bewusstseins eines Vanguard zu verschlüsseln oder zu entschlüsseln. Diese Chiffren werden nur mit denen geteilt, die sich das Vertrauen der Vanguard verdient haben. Der Diebstahl oder die Nachbildung einer Resonant Cypher ist ein Zeichen böswilliger Absicht gegen die Vanguard und wird von der Avalon Flotilla als abscheuliches Verbrechen eingestuft. Avalon Flotilla Trader akzeptieren alle Vanguard Resonant Cyphers, die entweder verd
+(truncated, 544 chars total)
+```
+
+
+ES
+
+```text
+Un código usado para encriptar o desencriptar una hebra de la conciencia resonante de un miembro de la Vanguardia. Estos códigos solo se comparten con quienes se han ganado la confianza de la Vanguardia. El robo o la recreación de un código resonante es señal de intenciones maliciosas contra la Vanguardia y la flotilla Avalon lo considera un crimen atroz.
+
+Los comerciantes de la flotilla Avalon aceptarán encantados cualquier código resonante de la Vanguardia que se haya ganado o recuperado de 
+(truncated, 513 chars total)
+```
+
+
+FR
+
+```text
+Un système utilisé pour chiffrer ou déchiffrer un brin de la conscience résonante d'un Vanguard. Ces systèmes ne sont partagés qu'avec ceux qui ont gagné la confiance des Vanguard. Le vol ou la recréation d'un chiffrage de résonance est un signe d'intention malveillante envers les Vanguard et est considéré comme un crime odieux par la flottille d'Avalon. Les marchands de la flottille d'Avalon échangeront volontiers tout chiffrage de résonance Vanguard ayant été obtenu ou récupéré auprès de leurs
+(truncated, 509 chars total)
+```
+
+
+JA
+
+```text
+Vanguardの共鳴する意識の断片を暗号化または復号するために使用されるサイファー。このサイファーは、Vanguardの信頼を得た者にのみ共有される。レゾナントサイファーの窃盗や複製は、Vanguardに対する悪意の表れとみなされ、Avalon艦隊によって大罪と規定されている。
+
+Avalon艦隊トレーダーは、獲得または敵から回収されたVanguardレゾナントサイファーとアイテムのトレードを歓迎している。
+```
+
+
+KO
+
+```text
+Vanguard의 동조형 의식 신호에 암호를 설정하거나 해제하는 장치입니다. Vanguard의 신뢰를 얻은 대상에게만 주어집니다. 동조 해독기의 절도 또는 재설계 행위는 Vanguard에 대한 적대 행위로 간주되며 아발론 소함대에 의해 중대 범죄 행위로 취급됩니다.
+
+아발론 소함대 거래소는 Vanguard 동조 해독기의 출처를 따지지 않고 적극적으로 구매합니다.
+```
+
+
+RU
+
+```text
+Шифр, используемый для шифрования или расшифровки нити резонансного сознания Vanguard. Такие шифры получают лишь те, кто заслужил доверие Vanguard. Кража или воссоздание резонансного шифра свидетельствует о злом умысле по отношению к Vanguard и рассматривается флотилией Avalon как тягчайшее преступление. Торговцы флотилии Avalon с радостью приобретут любые резонансные шифры Vanguard вне зависимости от того, были ли они получены за соответствующие заслуги или отбиты у врагов.
+```
+
+
+ZH
+
+```text
+用于加密或解密先锋共振意识片段的密码卡。只有赢得先锋信任的人，才会获准持有这种密码卡。窃取或仿制共振密码卡均被视为对先锋怀有恶意，并被阿瓦隆分舰队认定为重罪。无论是由先锋队自行赚取，还是从敌人手中收缴的共振密码卡，阿瓦隆舰队贸易官均十分乐意进行交易。
+```
+
+
+
+
+### MessageID: 1048095 · Added
+
+EN
+
+```text
+Vanguard Resonant Cypher
+```
+
+
+DE
+
+```text
+Vanguard Resonant Cypher
+```
+
+
+ES
+
+```text
+Código resonante de la Vanguardia
+```
+
+
+FR
+
+```text
+Chiffrage de résonnance Vanguard
+```
+
+
+JA
+
+```text
+Vanguardレゾナントサイファー
+```
+
+
+KO
+
+```text
+Vanguard 동조 해독기
+```
+
+
+RU
+
+```text
+Vanguard Resonant Cypher
+```
+
+
+ZH
+
+```text
+先锋共振密码卡
+```
+
+
+
+
+### MessageID: 1048096 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048097 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist. Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction. Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман. Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048098 · Added
+
+EN
+
+```text
+The remains of an Upwell convoy, left behind following a battle with ships from the Avalon Flotilla.<br><br><br><b>Time to complete:</b> Approximately 10 minutes.<br> <b>Size:</b> 1+ pilots.<br><b>Roles:</b> Salvager.<br><b>Modules:</b> Salvager.
+```
+
+
+DE
+
+```text
+Die Überreste eines Upwell-Konvois, der nach einem Kampf mit Schiffen der Avalon Flotilla zurückgelassen wurde.<br><br><br><b>Zeitlimit:</b> Etwa 10 Minuten.<br> <b>Größe:</b> 1+ Piloten.<br><b>Funktionen:</b> Bergungsspezialist.<br><b>Module:</b> Bergungsmodul.
+```
+
+
+ES
+
+```text
+Los restos de un convoy de Upwell, abandonados tras una batalla contra naves de la flotilla Avalon.<br><br><br><b>Tiempo para completarlo:</b> aproximadamente 10 minutos.<br> <b>Tamaño:</b> 1+ pilotos.<br><b>Funciones:</b> recuperador.<br><b>Módulos:</b> recuperador.
+```
+
+
+FR
+
+```text
+Les restes d'un convoi Upwell, abandonné après une bataille avec des vaisseaux de la flottille Avalon.<br><br><br><b>Limite de temps :</b> environ 10 minutes.<br> <b>Effectif :</b> 1 pilote ou plus.<br><b>Rôles :</b> Récupérateur.<br><b>Modules :</b> Récupérateur.
+```
+
+
+JA
+
+```text
+Avalon艦隊との戦闘後に残された、アップウェル製輸送船団の残骸。<br><br><br><b>任務時間：</b>約10分<br> <b>規模：</b>パイロット1人以上<br><b>役割：</b>サルベージャー<br><b>モジュール：</b>サルベージモジュール
+```
+
+
+KO
+
+```text
+업웰 수송대의 잔해로 아발론 소함대와 전투 후 버려졌습니다.<br><br><br><b>임무 시간:</b> 약 10분<br> <b>규모:</b> 파일럿 1인 이상<br><b>필요 역할:</b> 샐비저<br><b>필요 모듈:</b> 샐비저
+```
+
+
+RU
+
+```text
+Обломки конвоя «Апвелл», оставшиеся после битвы с кораблями флотилии Avalon.<br><br><br><b>Время на выполнение:</b> около 10 минут.<br> <b>Кол-во пилотов: </b>1 или более.<br><b>Роли:</b> демонтажник.<br><b>Необходимая оснастка:</b> демонтажный модуль.
+```
+
+
+ZH
+
+```text
+这是昇威联护航队与阿瓦隆分舰队交战后遗留下来的残骸。<br><br><br><b>完成时间：</b>约10分钟。<br> <b>规模：</b>超过1名飞行员。<br><b>职位：</b>打捞者。<br><b>装备：</b>打捞者。
+```
+
+
+
+
+### MessageID: 1048099 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048100 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist. Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction. Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман. Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048101 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader ( copy )
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader ( copy )
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon (copia)
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー（コピー）
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소 (복제)
+```
+
+
+RU
+
+```text
+Avalon Flotilla Trader ( copy )
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官（副本）
+```
+
+
+
+
+### MessageID: 1048103 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048104 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist. Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction. Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман. Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048105 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048106 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist. Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction. Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман. Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048107 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Торговец флотилии Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048108 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Торговец флотилии Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048109 · Added
+
+EN
+
+```text
+Avalon Flotilla Trader
+```
+
+
+DE
+
+```text
+Avalon Flotilla Trader
+```
+
+
+ES
+
+```text
+Comerciante de la flotilla Avalon
+```
+
+
+FR
+
+```text
+Marchand de la flottille Avalon
+```
+
+
+JA
+
+```text
+Avalon艦隊トレーダー
+```
+
+
+KO
+
+```text
+아발론 소함대 거래소
+```
+
+
+RU
+
+```text
+Торговец флотилии Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆分舰队贸易官
+```
+
+
+
+
+### MessageID: 1048110 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist.<br> Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.<br>
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction.<br> Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。<br>
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.<br>
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман.<br> Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。<br> 凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048111 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist.<br> Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.<br>
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction.<br> Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。<br>
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.<br>
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман.<br> Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。<br> 凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048112 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist.<br> Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.<br>
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction.<br> Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。<br>
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.<br>
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман.<br> Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。<br> 凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048113 · Added
+
+EN
+
+```text
+This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
+
+It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
+```
+
+
+DE
+
+```text
+Dieses Schiff der Aeon-Klasse fungiert als Repräsentant für die Avalon Flotilla, die verborgen bleibt, während ihr Flaggschiff im Bau ist.<br> Es wird alle belohnen, die Vanguard Resonant Cyphers zum Handeln haben.
+```
+
+
+ES
+
+```text
+Esta nave de clase Aeon actúa como representante de la flotilla Avalon, que permanece oculta mientras se construye su nave insignia.<br>
+
+Estará encantada de ofrecer retribuciones a quienes tengan códigos resonantes de la Vanguardia para intercambiar.
+```
+
+
+FR
+
+```text
+Ce vaisseau de classe Aeon agit comme représentant de la flottille Avalon, qui demeure cachée pendant que son vaisseau amiral est en construction.<br> Il offrira volontiers des récompenses à ceux qui possèdent des chiffrages de résonance Vanguard à échanger.
+```
+
+
+JA
+
+```text
+このイーオン級艦船は、旗艦が建造されている間姿を隠しているAvalon主力艦隊の代理として機能している。<br>
+
+Vanguardレゾナントサイファーをトレードに持ち込んだ者に対し、喜んで報酬を提供する。
+```
+
+
+KO
+
+```text
+대규모 아발론 소함대의 대표로 활동하는 에이온 함선으로 기함의 제작이 끝나지 않아 숨겨져 있습니다.<br>
+
+Vanguard 동조 해독기를 제공하면 상당한 보상을 받을 수 있습니다.
+```
+
+
+RU
+
+```text
+Это судно модели Aeon представляет обширную флотилию Avalon, которая держится в тени, пока строится её флагман.<br> Здесь тех, кто готов расстаться с резонансными шифрами Vanguard, ждёт щедрая награда.
+```
+
+
+ZH
+
+```text
+这艘万古级舰船作为阿瓦隆分舰队的代表执行任务。在旗舰建造完成之前，整支分舰队仍将保持隐蔽。<br> 凡持有先锋共振密码卡前来交易者，它都会慷慨给予相应奖励。
+```
+
+
+
+
+### MessageID: 1048116 · Added
+
+EN
+
+```text
+A vault containing resources needed for the maintenance of this site's surveillance equipment, along with the data that surveillance equipment has gathered.
+```
+
+
+DE
+
+```text
+Ein Tresor mit Ressourcen, die für die Wartung der Überwachungsausrüstung dieses Gebiets benötigt werden, zusammen mit den Daten, die die Überwachungsausrüstung gesammelt hat.
+```
+
+
+ES
+
+```text
+Una cámara que contiene los recursos necesarios para el mantenimiento del equipo de vigilancia de esta zona, junto con los datos recopilados por dicho equipo.
+```
+
+
+FR
+
+```text
+Un coffre-fort contenant les ressources nécessaires à la maintenance de l'équipement de surveillance de ce site, ainsi que les données collectées par celui-ci.
+```
+
+
+JA
+
+```text
+このサイトの監視機器のメンテナンスに必要な資源と、その監視機器が収集したデータが収められている保管庫。
+```
+
+
+KO
+
+```text
+사이트의 감시 장비를 보수하기 위해 필요한 자원을 적재한 금고로 내부에 감시 장비가 수집한 정보도 함께 들어 있습니다.
+```
+
+
+RU
+
+```text
+Хранилище ресурсов, необходимых для обслуживания систем наблюдения этого района, а также данных, собранных этой аппаратурой.
+```
+
+
+ZH
+
+```text
+一个用于维护该站点监控设备的资源保险库，同时包含监控设备收集的数据。
+```
+
+
+
+
+### MessageID: 1048149 · Added
+
+EN
+
+```text
+This crate contains a randomly selected Operation Avalon event booster.
+```
+
+
+DE
+
+```text
+Diese Kiste enthält einen zufällig ausgewählten Event-Booster von Operation Avalon.
+```
+
+
+ES
+
+```text
+Esta caja contiene un potenciador del evento Operación Avalon seleccionado al azar.
+```
+
+
+FR
+
+```text
+Cette caisse contient un booster de l'événement Opération Avalon sélectionné aléatoirement.
+```
+
+
+JA
+
+```text
+この箱にはランダムに選ばれた1個の「Operation Avalon」イベント限定ブースターが入っている。
+```
+
+
+KO
+
+```text
+무작위 아발론 작전 이벤트 부스터가 1종 들어 있습니다.
+```
+
+
+RU
+
+```text
+В этом контейнере находится случайный стимулятор события Operation Avalon.
+```
+
+
+ZH
+
+```text
+此箱子包含随机选择的阿瓦隆行动活动道具。
+```
+
+
+
+
+### MessageID: 1048150 · Added
+
+EN
+
+```text
+Operation Avalon Booster Crate
+```
+
+
+DE
+
+```text
+Operation Avalon Booster Crate
+```
+
+
+ES
+
+```text
+Caja de potenciadores de Operación Avalon
+```
+
+
+FR
+
+```text
+Caisse de booster de l'opération Avalon
+```
+
+
+JA
+
+```text
+「Operation Avalon」ブースター箱
+```
+
+
+KO
+
+```text
+아발론 작전 부스터 상자
+```
+
+
+RU
+
+```text
+Operation Avalon Booster Crate
+```
+
+
+ZH
+
+```text
+阿瓦隆行动增效剂箱
+```
+
+
+
+
+### MessageID: 1048151 · Added
+
+EN
+
+```text
+Operation Avalon Assets
+```
+
+
+DE
+
+```text
+Besitz von Operation Avalon
+```
+
+
+ES
+
+```text
+Bienes de Operación Avalon
+```
+
+
+FR
+
+```text
+Ressources de l'opération Avalon
+```
+
+
+JA
+
+```text
+「Operation Avalon」資産
+```
+
+
+KO
+
+```text
+아발론 작전 자산
+```
+
+
+RU
+
+```text
+Активы Operation Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆行动资产
+```
+
+
+
+
+### MessageID: 1048152 · Added
+
+EN
+
+```text
+Operation Avalon Booster Crate
+```
+
+
+DE
+
+```text
+Operation Avalon Booster Crate
+```
+
+
+ES
+
+```text
+Caja de potenciadores de Operación Avalon
+```
+
+
+FR
+
+```text
+Caisse de booster de l'opération Avalon
+```
+
+
+JA
+
+```text
+「Operation Avalon」ブースター箱
+```
+
+
+KO
+
+```text
+아발론 작전 부스터 상자
+```
+
+
+RU
+
+```text
+Operation Avalon Booster Crate
+```
+
+
+ZH
+
+```text
+阿瓦隆行动增效剂箱
+```
+
+
+
+
+### MessageID: 1048153 · Added
+
+EN
+
+```text
+This crate contains a randomly selected Operation Avalon event booster.
+```
+
+
+DE
+
+```text
+Diese Kiste enthält einen zufällig ausgewählten Event-Booster von Operation Avalon.
+```
+
+
+ES
+
+```text
+Esta caja contiene un potenciador del evento Operación Avalon seleccionado al azar.
+```
+
+
+FR
+
+```text
+Cette caisse contient un booster de l'événement Opération Avalon sélectionné aléatoirement.
+```
+
+
+JA
+
+```text
+この箱にはランダムに選ばれた1個の「Operation Avalon」イベント限定ブースターが入っている。
+```
+
+
+KO
+
+```text
+무작위 아발론 작전 이벤트 부스터가 1종 들어 있습니다.
+```
+
+
+RU
+
+```text
+В этом контейнере находится случайный стимулятор события Operation Avalon.
+```
+
+
+ZH
+
+```text
+此箱子包含随机选择的阿瓦隆行动活动增效剂。
+```
+
+
+
+
+### MessageID: 1048155 · Added
+
+EN
+
+```text
+Flotilla Harmonic Shielding
+```
+
+
+DE
+
+```text
+Harmonische Flottillen-Schilde
+```
+
+
+ES
+
+```text
+Blindaje armónico de flotilla
+```
+
+
+FR
+
+```text
+Bouclier harmonique de la flottille
+```
+
+
+JA
+
+```text
+艦隊仕様ハーモニックシールド
+```
+
+
+KO
+
+```text
+소함대 동조 실드
+```
+
+
+RU
+
+```text
+Пульсационные щиты флотилии
+```
+
+
+ZH
+
+```text
+分舰队谐波盾防系统
+```
+
+
+
+
+### MessageID: 1048156 · Added
+
+EN
+
+```text
+From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
+```
+
+
+DE
+
+```text
+Von dieser Plattform aus ist das AEGIS-Kommando in der Lage, lokale Sicherheitsaktivitäten direkt zu koordinieren. Die Aktivitäten, die unter seiner Aufsicht stattfinden, sind so geheim, dass selbst ein überwiegender Teil von EDENCOM nicht über die notwendige Sicherheitsfreigabe verfügt, um eine Aufsicht zu gewährleisten. Eine spezialisierte Sondereinheit unter direkter Kontrolle von AEGIS wurde mit der Verantwortung für Kampfoperationen betraut.
+```
+
+
+ES
+
+```text
+Desde esta plataforma, el mando de AEGIS puede coordinar directamente las actividades de seguridad locales. Las operaciones que se desarrollan bajo su supervisión son tan secretas que ni siquiera el conjunto de la organización EDENCOM dispone del nivel de autorización necesario para ejercer control sobre ellas, por lo que una fuerza operativa especializada bajo el control directo de AEGIS ha asumido la responsabilidad de las operaciones de combate.
+```
+
+
+FR
+
+```text
+Depuis cette plateforme, le commandement d'AEGIS peut coordonner directement les activités de sécurité locales. Les activités menées sous sa supervision sont si secrètes que même le reste de l'organisation EDENCOM ne dispose pas du niveau de sécurité requis pour en assurer la supervision, et une unité d'intervention spécialisée placée directement sous le contrôle d'AEGIS a reçu la responsabilité des opérations de combat.
+```
+
+
+JA
+
+```text
+このプラットフォームから、AEGIS司令部は現地の警備活動を直接調整することができる。その管轄下で行われている活動は極めて機密性が高く、より広範な組織であるEDENCOMでさえも監視に必要なセキュリティクリアランスを満たしていない。そのため、AEGIS直属の専門部隊に戦闘作戦の全責任が委ねられている。
+```
+
+
+KO
+
+```text
+AEGIS 지휘관이 주변 지역의 보안 활동을 진행하는 플랫폼입니다. 플랫폼 주관으로 진행되는 활동은 철저하게 기밀이 유지되기 때문에 EDENCOM도 감독할 수 있는 보안 접근 권한이 없습니다. 따라서 AEGIS 직권으로 운영하는 특수 임무 부대가 전투 작전을 수행할 책임을 맡습니다.
+```
+
+
+RU
+
+```text
+С этой платформы командование AEGIS может напрямую координировать локальные операции по обеспечению безопасности. Деятельность, находящаяся в его ведении, настолько засекречена, что даже у организации ЭДЕНКОМ в целом нет необходимого уровня допуска для осуществления надзора, а ответственность за боевые операции возложена на специальную оперативную группу, находящуюся в прямом подчинении AEGIS.
+```
+
+
+ZH
+
+```text
+统合部紧急干预和安全局指挥部能够通过这个平台直接协调本地安保行动。其指挥的活动极度机密，甚至连更广泛的伊甸联合防御阵线组织也无权提供安全监督，因此由统合部紧急干预和安全局直属的特种部队负责战斗行动。
+```
+
+
+
+
+### MessageID: 1048157 · Added
+
+EN
+
+```text
+A command outpost overseeing all work on project Nemesis.
+```
+
+
+DE
+
+```text
+Ein Kommando-Außenposten, der alle Arbeiten am Projekt Nemesis überwacht.
+```
+
+
+ES
+
+```text
+Un puesto avanzado de mando que supervisa todo el trabajo relacionado con el proyecto Nemesis.
+```
+
+
+FR
+
+```text
+Un avant-poste de commandement supervisant tous les travaux du projet Nemesis.
+```
+
+
+JA
+
+```text
+プロジェクト「ネメシス」に関するすべての作業を統括する司令アウトポスト。
+```
+
+
+KO
+
+```text
+네메시스 프로젝트를 총괄하는 지휘소입니다.
+```
+
+
+RU
+
+```text
+Командный форпост, контролирующий всю работу по проекту Nemesis.
+```
+
+
+ZH
+
+```text
+负责监督“纳美西斯”计划全部工作的指挥哨站。
+```
+
+
+
+
+### MessageID: 1048167 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048168 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048169 · Added
+
+EN
+
+```text
+Cenotaph Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Cenotaph Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Cenotaph
+```
+
+
+FR
+
+```text
+SKIN Cenotaph, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+セノターフ用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+세노타프 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Cenotaph Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+渡鸦级方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048170 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048171 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048172 · Added
+
+EN
+
+```text
+Probe Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Probe Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Probe
+```
+
+
+FR
+
+```text
+SKIN Probe, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+プローブ用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+프로브 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Probe Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+探针级方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048173 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048174 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048175 · Added
+
+EN
+
+```text
+Talwar Fleet Issue Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Talwar Fleet Issue Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Talwar modelo de la Flota
+```
+
+
+FR
+
+```text
+SKIN Talwar Fleet Issue, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+タルワー海軍仕様用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+탈와르 함대 에디션 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Talwar Fleet Issue Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+弯刀级舰队型方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048176 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048177 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048178 · Added
+
+EN
+
+```text
+Corax Navy Issue Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Corax Navy Issue Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Corax modelo de la Armada
+```
+
+
+FR
+
+```text
+SKIN Corax Navy Issue, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+コラックス海軍仕様用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+코락스 해군 에디션 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Corax Navy Issue Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+渡鸦级海军型方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048179 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048180 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048181 · Added
+
+EN
+
+```text
+Caracal Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Caracal Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Caracal
+```
+
+
+FR
+
+```text
+SKIN Caracal, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+カラカル用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+카라칼 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Caracal Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+狞獾级方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048182 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048183 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048184 · Added
+
+EN
+
+```text
+Dragoon Navy Issue Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Dragoon Navy Issue Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Dragoon modelo de la Armada
+```
+
+
+FR
+
+```text
+SKIN Dragoon Navy Issue, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+ドラグーン海軍仕様用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+드라군 해군 에디션 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Dragoon Navy Issue Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+龙骑兵级海军型方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048185 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048186 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048187 · Added
+
+EN
+
+```text
+Aeon Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Aeon Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Aeon
+```
+
+
+FR
+
+```text
+SKIN Aeon, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+イーオン用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+에이온 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Aeon Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+万古级方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048188 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048189 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048190 · Added
+
+EN
+
+```text
+Salvation Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Salvation Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Salvation
+```
+
+
+FR
+
+```text
+SKIN Salvation, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+サルベーション用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+셀베이션 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Salvation Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+拯救级方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048191 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 857 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 950 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 951 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 967 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 823 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。
+```
+
+
+
+
+### MessageID: 1048192 · Added
+
+EN
+
+```text
+The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
+
+With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
+(truncated, 989 chars total)
+```
+
+
+DE
+
+```text
+Die Arkombine ist eine Splittergruppe von enttäuschten Klonsoldaten. Verraten von den Nationen, denen sie dienten, streben sie nun nach Unabhängigkeit und nach Mitteln, um das, was ihnen angetan wurde, rückgängig zu machen. Ihre Reihen setzen sich aus Klonsoldaten aller vier großen Imperien zusammen. Mit dem Aufstieg der Deathless Circle und der neuen Klontechnik, die die Hoffnung auf Heilung der tiefsten psychischen Narben der alten Kriegsklone bietet und sie zu neuen Höhen führt, hat die Arkom
+(truncated, 1,077 chars total)
+```
+
+
+ES
+
+```text
+Los Arcombinos son un grupo de soldados clon desencantados disidentes. Traicionados por las naciones a las que juraron servir, ahora buscan la independencia y los medios para deshacer lo que se les ha hecho. Sus filas se componen de soldados clon de los cuatro imperios principales.
+
+Con el surgimiento del Círculo Inmortal y la nueva tecnología de clonación que ofrece la esperanza de curar las cicatrices psicológicas más profundas de los antiguos clones de guerra y catapultarlos a nuevas altura
+(truncated, 1,061 chars total)
+```
+
+
+FR
+
+```text
+L'Arkombine est un groupe dissident de soldats clones désillusionnés. Trahis par les nations qu'ils avaient juré de servir, ils cherchent désormais l'indépendance et les moyens de défaire ce qui leur a été fait. Leurs rangs sont composés de soldats clones issus des quatre grands empires. Avec l'émergence du Cercle Immortel et de la nouvelle technologie de clonage offrant l'espoir de guérir les plaies psychologiques les plus profondes des anciens clones de guerre, et de les propulser vers de nouv
+(truncated, 1,110 chars total)
+```
+
+
+JA
+
+```text
+アーコンバインは失望を抱えたクローン兵士の集団のひとつで、忠誠をささげた国々に裏切られたことで独立を志し、自分たちの心身に施された処置を元に戻す方法を探している。また構成員には、各四大主要国家のクローン兵士が含まれている。
+
+デスレス・サークルと、旧式の戦闘用クローンが抱える重篤な心的外傷の治療方法とその飛躍的発展の可能性に繋がる新たなクローン技術の出現を受け、アーコンバインは第一、第二世代の多くの旧世代兵士たちを招集した。ニューエデンの主要大国と各勢力に存在する帝国主義者の野望や軍国主義者の闇雲さにより迫害と戦いの歴史を歩まされてきた戦闘用クローンたちは今、その先にある生や繁栄、再起を目指しており、ナノコーティング「アーコンバイン・アリズン」はそんな全てのクローンたちの決意を、誇りを込めて劇的に表現している。
+
+このSKINは、引き換えると操作キャラクターのSKINコレクションに直接反映され、インベントリには入りません。
+```
+
+
+KO
+
+```text
+아르크컴바인은 4대 국가의 거짓된 이상을 깨달은 클론 병사들이 형성한 분파입니다. 이들은 충성을 맹세했던 국가에게 배신을 당했고 결국 국가를 부정하며 지배에서 벗어나 자신들의 운명을 바로잡기 위해 독립을 쟁취하려 합니다.
+
+뉴에덴에 데스리스 서클이 나타난 이후 클론 기술이 급속도로 발전했습니다. 클론 병사에게 자주 발병하던 극심한 심리적 트라우마를 동반하는 증상은 기존에 손 쓸 방도가 없었습니다. 그러나 클론 기술의 발전으로 마침내 치료할 희망이 생겨났습니다. 아르크컴바인은 한계를 극복하고 세력을 크게 확장할 가능성을 타진하고 1세대와 2세대 용병 클론들을 모아 합류시켰습니다. '아르크컴바인의 비상' 나노코팅은 자신들을 짓밟은 뉴에덴 거대 국가들의 제국주의와 군국주의로 점철된 야욕을 분쇄하고 살아남아 번성하여 끝없는 우주로 비상하겠다는 전투용 클론들의 결의를 단호하게 외치는 선언입니다.
+
+수령 시 SKIN 목록에 자동으로 등록됩니다. 인벤토리에 아이템 형태로 수령되는 것이 아
+(truncated, 515 chars total)
+```
+
+
+RU
+
+```text
+«Воины ковчега» — это отколовшаяся группа разочарованных солдат-клонов. Народы, которым они поклялись служить, предали их, и теперь эти бойцы стремятся обрести независимость и исправить то, что с ними сотворили. В их ряды входят солдаты-клоны из четырёх великих держав. После появления «Бессмертного круга» и новой технологии клонирования к «Воинам ковчега» присоединилось множество старых солдат из первого и второго поколений клонов-наёмников. Они надеялись, что наконец-то смогут залечить давние д
+(truncated, 954 chars total)
+```
+
+
+ZH
+
+```text
+方舟联合体由一小撮幻想破灭的克隆战士组成。他们被自己曾效力的势力背叛，现在为自由而战，试图夺回自己失去的东西。这个军团的成员是来自四大帝国的克隆士兵。随着“不死循环”的崛起，新的克隆技术有望治愈旧版克隆战士心灵最深处的创伤，并大幅强化他们。方舟联合体已经召集了许多属于第一代和第二代雇佣克隆战士的老兵加入他们的行列。这款方舟联合体崛起纳米涂层是所有克隆战士宏大而骄傲的宣言，阐明了他们的毅然决心，即便面对新伊甸各个帝国与势力的帝国主义野心和军国主义冒险主义所带来的迫害和冲突，他们依然能够顽强生存、繁荣和崛起。涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
+```
+
+
+
+
+### MessageID: 1048193 · Added
+
+EN
+
+```text
+Algos Navy Issue Arkombine Arisen SKIN
+```
+
+
+DE
+
+```text
+Algos Navy Issue Arkombine Arisen SKIN
+```
+
+
+ES
+
+```text
+SKIN de Ascenso de los Arcombinos para la Algos modelo de la Armada
+```
+
+
+FR
+
+```text
+SKIN Algos Navy Issue, édition Ascension d'Arkombine
+```
+
+
+JA
+
+```text
+アルゴス海軍仕様用アーコンバイン・アリズンSKIN
+```
+
+
+KO
+
+```text
+알고스 해군 에디션 '아르크컴바인의 비상' SKIN
+```
+
+
+RU
+
+```text
+Algos Navy Issue Arkombine Arisen SKIN
+```
+
+
+ZH
+
+```text
+阿尔格斯级海军型方舟联合体崛起涂装
+```
+
+
+
+
+### MessageID: 1048203 · Added
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048204 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048212 · Added
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048213 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048216 · Added
+
+EN
+
+```text
+Aralez
+```
+
+
+DE
+
+```text
+Aralez
+```
+
+
+ES
+
+```text
+Aralez
+```
+
+
+FR
+
+```text
+Aralez
+```
+
+
+JA
+
+```text
+アラレズ
+```
+
+
+KO
+
+```text
+아랄레즈
+```
+
+
+RU
+
+```text
+Aralez
+```
+
+
+ZH
+
+```text
+翼灵级
+```
+
+
+
+
+### MessageID: 1048217 · Added
+
+EN
+
+```text
+A prototype medium combat drone designed by Mordu’s Legion.
+```
+
+
+DE
+
+```text
+Der Prototyp einer mittelgroßen Kampfdrohne, entworfen von Mordus Legion.
+```
+
+
+ES
+
+```text
+Un prototipo de dron de combate mediano diseñado por la Legión de Mordu.
+```
+
+
+FR
+
+```text
+Un prototype de drone de combat intermédiaire conçu par la Légion Mordu.
+```
+
+
+JA
+
+```text
+モードゥ部隊が設計した中型戦闘ドローンのプロトタイプ。
+```
+
+
+KO
+
+```text
+모르두 군단이 설계한 중형 전투 드론 프로토타입입니다.
+```
+
+
+RU
+
+```text
+Прототип боевого дрона среднего размера, разработанный Легионом Морду.
+```
+
+
+ZH
+
+```text
+由莫德团设计的一款中型战斗无人机原型。
+```
+
+
+
+
+### MessageID: 1048262 · Added
+
+EN
+
+```text
+From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
+```
+
+
+DE
+
+```text
+Von dieser Plattform aus ist das AEGIS-Kommando in der Lage, lokale Sicherheitsaktivitäten direkt zu koordinieren. Die Aktivitäten, die unter seiner Aufsicht stattfinden, sind so geheim, dass selbst ein überwiegender Teil von EDENCOM nicht über die notwendige Sicherheitsfreigabe verfügt, um eine Aufsicht zu gewährleisten. Eine spezialisierte Sondereinheit unter direkter Kontrolle von AEGIS wurde mit der Verantwortung für Kampfoperationen betraut.
+```
+
+
+ES
+
+```text
+Desde esta plataforma, el mando de AEGIS puede coordinar directamente las actividades de seguridad locales. Las operaciones que se desarrollan bajo su supervisión son tan secretas que ni siquiera el conjunto de la organización EDENCOM dispone del nivel de autorización necesario para ejercer control sobre ellas, por lo que una fuerza operativa especializada bajo el control directo de AEGIS ha asumido la responsabilidad de las operaciones de combate.
+```
+
+
+FR
+
+```text
+Depuis cette plateforme, le commandement d'AEGIS peut coordonner directement les activités de sécurité locales. Les activités menées sous sa supervision sont si secrètes que même le reste de l'organisation EDENCOM ne dispose pas du niveau de sécurité requis pour en assurer la supervision, et une unité d'intervention spécialisée placée directement sous le contrôle d'AEGIS a reçu la responsabilité des opérations de combat.
+```
+
+
+JA
+
+```text
+このプラットフォームから、AEGIS司令部は現地の警備活動を直接調整することができる。その管轄下で行われている活動は極めて機密性が高く、より広範な組織であるEDENCOMでさえも監視に必要なセキュリティクリアランスを満たしていない。そのため、AEGIS直属の専門部隊に戦闘作戦の全責任が委ねられている。
+```
+
+
+KO
+
+```text
+AEGIS 지휘관이 주변 지역의 보안 활동을 진행하는 플랫폼입니다. 플랫폼 주관으로 진행되는 활동은 철저하게 기밀이 유지되기 때문에 EDENCOM도 감독할 수 있는 보안 접근 권한이 없습니다. 따라서 AEGIS 직권으로 운영하는 특수 임무 부대가 전투 작전을 수행할 책임을 맡습니다.
+```
+
+
+RU
+
+```text
+С этой платформы командование AEGIS может напрямую координировать локальные операции по обеспечению безопасности. Деятельность, находящаяся в его ведении, настолько засекречена, что даже у организации ЭДЕНКОМ в целом нет необходимого уровня допуска для осуществления надзора, а ответственность за боевые операции возложена на специальную оперативную группу, находящуюся в прямом подчинении AEGIS.
+```
+
+
+ZH
+
+```text
+统合部紧急干预和安全局指挥部能够通过这个平台直接协调本地安保行动。在其管辖下开展的活动高度机密，甚至连更高级别的伊甸联合防御阵线组织也不具备足够的安全权限进行监督，因此由统合部紧急干预和安全局直属的特种部队负责战斗行动。
+```
+
+
+
+
+### MessageID: 1048291 · Added
+
+EN
+
+```text
+Liberated Matar Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048292 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048294 · Added
+
+EN
+
+```text
+Foundation Wisdom Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048295 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048296 · Added
+
+EN
+
+```text
+Union Contemplation Background
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048297 · Added
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048335 · Added
+
+EN
+
+```text
+Operation Avalon
+```
+
+
+DE
+
+```text
+Operation Avalon
+```
+
+
+ES
+
+```text
+Operación Avalon
+```
+
+
+FR
+
+```text
+Opération Avalon
+```
+
+
+JA
+
+```text
+Operation Avalon 
+```
+
+
+KO
+
+```text
+아발론 작전
+```
+
+
+RU
+
+```text
+Operation Avalon
+```
+
+
+ZH
+
+```text
+阿瓦隆行动
+```
+
+
+
+
+### MessageID: 1048403 · Added
+
+EN
+
+```text
+A more valuable cypher used to encrypt or decrypt a strand of a ranking member of the Vanguard’s resonant consciousness. 
+
+These cyphers are only shared with those who have earned the Vanguard’s trust. The theft or recreation of a Resonant Cypher is a sign of malicious intent against the Vanguard and is considered a heinous crime by the Avalon Flotilla.
+
+Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
+```
+
+
+DE
+
+```text
+Eine wertvollere Chiffre, die verwendet wird, um einen Strang eines ranghohen Mitglied des resonanten Bewusstseins eines Vanguard zu verschlüsseln oder zu entschlüsseln. Diese Chiffren werden nur mit denen geteilt, die sich das Vertrauen der Vanguard verdient haben. Der Diebstahl oder die Nachbildung einer Resonant Cypher ist ein Zeichen böswilliger Absicht gegen die Vanguard und wird von der Avalon Flotilla als abscheuliches Verbrechen eingestuft. Avalon Flotilla Trader akzeptieren alle Vanguar
+(truncated, 581 chars total)
+```
+
+
+ES
+
+```text
+Un código de gran valor usado para encriptar o desencriptar una hebra de la conciencia resonante de un miembro destacado de la Vanguardia.
+
+Estos códigos solo se comparten con quienes se han ganado la confianza de la Vanguardia. El robo o la recreación de un código resonante es señal de intenciones maliciosas contra la Vanguardia y la flotilla Avalon lo considera un crimen atroz.
+
+Los comerciantes de la flotilla Avalon aceptarán encantados cualquier código resonante de la Vanguardia que se h
+(truncated, 540 chars total)
+```
+
+
+FR
+
+```text
+Un système plus précieux utilisé pour chiffrer ou déchiffrer un brin de la conscience résonante d'un membre haut placé des Vanguard. Ces systèmes ne sont partagés qu'avec ceux qui ont gagné la confiance des Vanguard. Le vol ou la recréation d'un chiffrage de résonance est un signe d'intention malveillante envers les Vanguard et est considéré comme un crime odieux par la flottille d'Avalon. Les marchands de la flottille d'Avalon échangeront volontiers tout chiffrage de résonance Vanguard ayant ét
+(truncated, 545 chars total)
+```
+
+
+JA
+
+```text
+Vanguardの上級メンバーの共鳴する意識の断片を暗号化または復号するために使用される、より価値の高いサイファー。
+
+このサイファーは、Vanguardの信頼を得た者にのみ共有される。レゾナントサイファーの窃盗や複製は、Vanguardに対する悪意の表れとみなされ、Avalon艦隊によって大罪と規定されている。
+
+Avalon艦隊トレーダーは、獲得または敵から回収されたVanguardレゾナントサイファーとアイテムのトレードを歓迎している。
+```
+
+
+KO
+
+```text
+Vanguard 고위 인사의 동조형 의식 신호에 암호를 설정하거나 해제하는 더 가치가 큰 장치입니다. 
+
+Vanguard의 신뢰를 얻은 대상에게만 주어집니다. 동조 해독기의 절도 또는 재설계 행위는 Vanguard에 대한 적대 행위로 간주되며 아발론 소함대에 의해 중대 범죄 행위로 취급됩니다.
+
+아발론 소함대 거래소는 Vanguard 동조 해독기의 출처를 따지지 않고 적극적으로 구매합니다.
+```
+
+
+RU
+
+```text
+Более ценный шифр, используемый для шифрования или расшифровки нити резонансного сознания высокопоставленного представителя Vanguard. Такие шифры получают лишь те, кто заслужил доверие Vanguard. Кража или воссоздание резонансного шифра свидетельствует о злом умысле по отношению к Vanguard и рассматривается флотилией Avalon как тягчайшее преступление. Торговцы флотилии Avalon с радостью приобретут любые резонансные шифры Vanguard вне зависимости от того, были ли они получены за соответствующие за
+(truncated, 526 chars total)
+```
+
+
+ZH
+
+```text
+一种更有价值的密码卡，用于加密或解密先锋高级成员的共振意识片段。只有赢得先锋信任的人，才会获准持有这种密码卡。窃取或仿制共振密码卡均被视为对先锋怀有恶意，并被阿瓦隆分舰队认定为重罪。无论是由先锋队自行赚取，还是从敌人手中收缴的共振密码卡，阿瓦隆舰队贸易官均十分乐意进行交易。
+```
+
+
+
+
+### MessageID: 1048404 · Added
+
+EN
+
+```text
+Ranking Vanguard Resonant Cypher
+```
+
+
+DE
+
+```text
+Ranking Vanguard Resonant Cypher
+```
+
+
+ES
+
+```text
+Código resonante de mando de la Vanguardia
+```
+
+
+FR
+
+```text
+Chiffrage de résonnance de gradé Vanguard
+```
+
+
+JA
+
+```text
+上級Vanguardレゾナントサイファー
+```
+
+
+KO
+
+```text
+고위 Vanguard 동조 해독기
+```
+
+
+RU
+
+```text
+Ranking Vanguard Resonant Cypher
+```
+
+
+ZH
+
+```text
+先锋共振密码卡排名
+```
+
+
+
+
+### MessageID: 1048427 · Added
+
+EN
+
+```text
+Operation Avalon is Here!
+```
+
+
+DE
+
+```text
+Operation Avalon ist hier!
+```
+
+
+ES
+
+```text
+¡Operación Avalon ya está aquí!
+```
+
+
+FR
+
+```text
+L'opération Avalon est là !
+```
+
+
+JA
+
+```text
+「Operation Avalon」始動！
+```
+
+
+KO
+
+```text
+아발론 작전이 시작되었습니다!
+```
+
+
+RU
+
+```text
+Встречайте: Operation Avalon!
+```
+
+
+ZH
+
+```text
+阿瓦隆行动开始了！
+```
+
+
+
+
+### MessageID: 1048428 · Added
+
+EN
+
+```text
+Fight, hack and salvage in support of planetside warclones.
+```
+
+
+DE
+
+```text
+Kämpfe, hacke und berge, um Kriegsklone auf dem Planeten zu unterstützen.
+```
+
+
+ES
+
+```text
+Combate, hackea y recupera materiales en apoyo de los clones de guerra en la superficie planetaria.
+```
+
+
+FR
+
+```text
+Combattez, piratez et récupérez pour soutenir les clones de combat à la surface.
+```
+
+
+JA
+
+```text
+戦闘、ハッキング、サルベージを駆使し、地上の戦闘用クローンたちを支援せよ。
+```
+
+
+KO
+
+```text
+전투, 해킹, 구조를 통해 행성 지표면의 전쟁 클론을 지원하세요.
+```
+
+
+RU
+
+```text
+Сражайтесь, взламывайте объекты и демонтируйте обломки, чтобы поддержать пехоту боевых клонов.
+```
+
+
+ZH
+
+```text
+在行星地表支援战斗克隆体，投入战斗、入侵系统并搜刮资源。
+```
+
+
+
+
+### MessageID: 1048429 · Added
+
+EN
+
+```text
+Destroy roaming convoys for immediate rewards—or follow them to discover hidden opportunities…
+```
+
+
+DE
+
+```text
+Zerstöre Karawanenkonvois und erhalte sofort Beute – oder folge ihnen, um Chancen zu entdecken …
+```
+
+
+ES
+
+```text
+Destruye convoyes y consigue retribuciones o síguelos para descubrir oportunidades ocultas...
+```
+
+
+FR
+
+```text
+Détruisez les convois pour des récompenses immédiates, ou suivez-les pour révéler des opportunités…
+```
+
+
+JA
+
+```text
+巡回する輸送船団を破壊して即座に報酬を手に入れるか、あるいは彼らを追跡して隠されたチャンスを見つけ出そう...
+```
+
+
+KO
+
+```text
+이동 중인 수송대를 파괴해 즉시 보상을 얻거나, 그들의 뒤를 쫓아 숨겨진 기회를 찾아내세요…
+```
+
+
+RU
+
+```text
+Уничтожайте кочующие конвои ради мгновенной награды — или следуйте за ними к неизвестным богатствам…
+```
+
+
+ZH
+
+```text
+是当场击毁游荡护航队，立刻获取奖励；还是一路尾随追踪，探索更多隐藏机会，一切由你决定……
+```
+
+
+
+
+### MessageID: 1048430 · Added
+
+EN
+
+```text
+Exchange Vanguard Tokens within your empire’s space to influence Avalon’s initial destination
+```
+
+
+DE
+
+```text
+Tausche Vanguard-Token innerhalb des Weltraums deines Imperiums und beeinflusse Avalons Schicksal
+```
+
+
+ES
+
+```text
+Canjea fichas de Vanguardia en el espacio de tu imperio e influye en el destino inicial de Avalon.
+```
+
+
+FR
+
+```text
+Échangez des jetons Vanguard dans l'espace impérial pour influencer la destination initiale d'Avalon
+```
+
+
+JA
+
+```text
+所属国家の宙域内で「Vanguardトークン」を交換し、Avalonの初期目的地に影響を与えよう。
+```
+
+
+KO
+
+```text
+소속된 국가의 우주에서 뱅가드 토큰을 교환해 아발론의 초기 목적에 영향을 주세요
+```
+
+
+RU
+
+```text
+Обменивайте жетоны Vanguard в пространстве вашей державы и влияйте на то, куда направится Avalon.
+```
+
+
+ZH
+
+```text
+在你的帝国疆域内兑换先锋凭证，左右阿瓦隆的开局部署
+```
+
+
+
+
+### MessageID: 1048431 · Added
+
+EN
+
+```text
+Unlock powerful boosters, modules and components, character backgrounds and more!
+```
+
+
+DE
+
+```text
+Schalte mächtige Booster, Module und Komponenten, Charakterhintergründe und mehr!
+```
+
+
+ES
+
+```text
+¡Desbloquea potentes potenciadores, módulos y componentes, fondos de personaje y mucho más!
+```
+
+
+FR
+
+```text
+Déverrouillez de puissants boosters, modules et composants, des arrière-plans de personnage et plus !
+```
+
+
+JA
+
+```text
+強力なブースター、モジュール、コンポーネント、キャラクター背景などをアンロックしよう！
+```
+
+
+KO
+
+```text
+강력한 부스터, 모듈 및 부품, 캐릭터 배경 등 다양한 보상을 잠금 해제하세요!
+```
+
+
+RU
+
+```text
+Открывайте мощные стимуляторы, модули и элементы, а также предыстории персонажей и многое другое!
+```
+
+
+ZH
+
+```text
+解锁强大的增效剂、模块和组件、人物背景等丰富内容！
+```
+
+
+
+
+### MessageID: 1048433 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048434 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048435 · Added
+
+EN
+
+```text
+Loki Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048436 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048437 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048438 · Added
+
+EN
+
+```text
+Bifrost Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048439 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048440 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048441 · Added
+
+EN
+
+```text
+Stiletto Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048442 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048443 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048444 · Added
+
+EN
+
+```text
+Prowler Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048445 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048446 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048447 · Added
+
+EN
+
+```text
+Claymore Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048448 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048449 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048450 · Added
+
+EN
+
+```text
+Tempest Fleet Issue Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048451 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048452 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048453 · Added
+
+EN
+
+```text
+Ymir Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048454 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048455 · Added
+
+EN
+
+```text
+It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
+
+- Caravanmaster Malaya Hrada
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048456 · Added
+
+EN
+
+```text
+Nomad Hrada-Oki Offender SKIN
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048457 · Added
+
+EN
+
+```text
+Advanced Carriers
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048458 · Added
+
+EN
+
+```text
+Command Carriers
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048459 · Added
+
+EN
+
+```text
+Command Carriers
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048460 · Added
+
+EN
+
+```text
+Minmatar
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048461 · Added
+
+EN
+
+```text
+Minmatar
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+### MessageID: 1048581 · Added
+
+EN
+
+```text
+Invalid or spoofed link
+```
+
+
+DE, ES, FR, JA, KO, RU, and ZH: *empty*
+
+
+
+
+---
+
 # Build 3411701
 
 ## Summary
