@@ -153,19 +153,44 @@ def smart_diff_block(lang_key: str, old: str, new: str) -> str:
 
 
 def compute_diff(old: dict, new: dict, lang: str) -> dict:
+    """
+    Diff *lang*'s own archive file.
+
+    Each per-language JSON entry carries both the "en" field and the
+    language's own field, so a plain old-vs-new comparison would flag an
+    entry as changed for a language even when only the English source text
+    moved and that language's own translation stayed identical -- since
+    every changed language's file is diffed independently, this used to
+    make a single English source edit show up as an Added/Modified entry
+    for every language in the build, not just "en".
+
+    To avoid that, additions/removals/modifications are only reported for
+    *lang* when *lang*'s own field ("en" for the English row itself,
+    otherwise the language code) actually differs between old and new.
+    """
+    field = "en" if lang == "en" else lang
     added, removed, src_mod, tr_mod = {}, {}, {}, {}
     for msg_id in set(old) | set(new):
         if msg_id not in old:
-            added[msg_id] = new[msg_id]
+            n = new[msg_id]
+            if n.get(field, ""):
+                added[msg_id] = n
         elif msg_id not in new:
-            removed[msg_id] = old[msg_id]
+            o = old[msg_id]
+            if o.get(field, ""):
+                removed[msg_id] = o
         else:
             o, n = old[msg_id], new[msg_id]
-            en_changed = o.get("en", "") != n.get("en", "")
-            tr_changed = lang != "en" and o.get(lang, "") != n.get(lang, "")
-            if en_changed:
+            if o.get(field, "") == n.get(field, ""):
+                continue  # lang's own text is unchanged - nothing to report
+
+            if lang == "en":
                 src_mod[msg_id] = {"old": o, "new": n}
-            elif tr_changed:
+            elif o.get("en", "") != n.get("en", ""):
+                # Translation changed alongside the source - still worth
+                # grouping under "Source Modified" for this language.
+                src_mod[msg_id] = {"old": o, "new": n}
+            else:
                 tr_mod[msg_id] = {"old": o, "new": n}
     return {
         "added": added,
