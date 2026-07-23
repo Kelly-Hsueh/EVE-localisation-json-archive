@@ -66478,7 +66478,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- CreoDron Ogre
++ 
+```
+
+
+ES
+
+```diff
+- Ogre de CreoDron
++ 
+```
+
+
+FR
+
+```diff
+- Ogre CreoDron
++ 
+```
+
+
+JA
+
+```diff
+- クレオドロン・オーガ
++ 
+```
+
+
+KO
+
+```diff
+- 크레오드론 오우거
++ 
+```
+
+
+RU
+
+```diff
+- CreoDron Ogre
++ 
+```
+
+
+ZH
+
+```diff
+- 西顿工业蛮妖
++ 
+```
 
 
 
@@ -66648,7 +66701,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Men's Select Freedom Combat Suit
++ 
+```
+
+
+ES
+
+```diff
+- Traje de combate Libertad Selecta para hombre
++ 
+```
+
+
+FR
+
+```diff
+- Combinaison de combat pour homme Le choix de la liberté
++ 
+```
+
+
+JA
+
+```diff
+- メンズ「選択の自由」戦闘スーツ
++ 
+```
+
+
+KO
+
+```diff
+- 남성용 자유의 선거 전투 슈트
++ 
+```
+
+
+RU
+
+```diff
+- Men's Select Freedom Combat Suit
++ 
+```
+
+
+ZH
+
+```diff
+- 男士自由之选战斗套装
++ 
+```
 
 
 
@@ -67830,7 +67936,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Die algorithmische Ausgabe der Raubdrohnenintelligenz ermöglicht es ihnen, komplexe Berechnungen mit Geschwindigkeiten durchzuführen, die weit über die Grenzen der aktuellen Erweiterungstechnologie hinausgehen. Sie wurden dabei beobachtet, wie sie Flotten umschwärmen, lebenswichtige Komponenten aus Schiffen entfernen und sie mitten im Flug neu konfigurieren. Während das Phänomen an eine Metallschlange erinnert, die ihre Haut abstreift, ist das Potenzial für wissenschaftliche Anwendungen enorm. – Auszüge aus Alix Moreaus Forschung
++ 
+```
+
+
+ES
+
+```diff
+- El resultado algorítmico de la inteligencia de los drones rebeldes les permite realizar cálculos complejos a un ritmo que supera con creces las limitaciones de la tecnología de aumentos actual. Se las ha observado atacando en enjambre a flotas, despojando a las naves de componentes vitales y reconfigurándolas en pleno vuelo. Aunque el fenómeno evoca a una serpiente de metal mudando la piel, su potencial para aplicaciones científicas es sobrecogedor. 
+- 
+- — Extractos de la investigación de Alix Moreau
+```
+
+
+FR
+
+```diff
+- La puissance algorithmique de l'intelligence des drones renégats les rend capables de réaliser des calculs complexes à des vitesses amplement supérieures aux limites des technologies d'augmentation actuelles. On les a déjà observé en train de submerger des flottes tels des essaims, de dépouiller des vaisseaux de composants essentiels et de les reconfigurer en plein vol. Ce phénomène, qui évoque la mue d'un serpent métallique, présente un potentiel impressionnant pour des applications scientifiques. - Extraits de la recherche d'Alix Moreau
++ 
+```
+
+
+JA
+
+```diff
+- ローグドローンの知能によるアルゴリズム出力は、現在のアグメンテーション技術の限界を遥かに超える速度での複雑な計算を可能にしている。ローグドローンはフリートに群がり、重要な部品を取り外し、航行中にそれらを再構成する様子が観測されている。この現象は金属製のヘビの脱皮を想起させるが、科学的応用の可能性は計り知れない。 
+- 
+- - アリックス・モローの研究より抜粋
+```
+
+
+KO
+
+```diff
+- 로그 드론 지성 알고리즘의 연산 결과로 인해 로그 드론은 현존 강화 기술의 한계를 뛰어 넘는 속도로 복잡한 계산을 수행할 능력을 가졌습니다. 무리를 지어 함대를 습격해 핵심 부품을 강탈하고 그 부품을 비행 도중에 재구성하는 모습이 관측되기도 했습니다. 마치 강철로 만든 뱀이 허물을 벗는 모습이 떠오르는 광경이었어요. 하지만 이러한 기술을 과학적으로 무궁무진하게 활용할 수 있을 것입니다.
+- 
+- - 알릭스 모라우의 연구서 발췌
+```
+
+
+RU
+
+```diff
+- «Восставшие дроны обладают удивительной способностью к алгоритмическому анализу и производят сложные вычисления со скоростью, значительно превышающей возможности современных модификаций. Зафиксированы случаи, когда эти дроны окружали флоты, снимали с кораблей ключевые компоненты и перенастраивали их прямо на месте. Хотя данный феномен навевает сравнение с металлической змеёй, сбрасывающей кожу, потенциал его научного применения воистину огромен». (Отрывок из исследования Эликс Моро.)
++ 
+```
+
+
+ZH
+
+```diff
+- 自由无人机集群智能的算法输出，使其能够以远超当前增强体技术极限的速度进行复杂计算。据观测，它们会蜂拥至舰队周围，剥离舰船的关键组件，并并在飞行途中对其进行重组改造。尽管这一现象让人联想到金属蛇蜕皮，但其潜在的科研应用价值却令人震惊。——摘自阿利克斯·莫罗的研究笔记
++ 
+```
 
 
 
@@ -67848,7 +68010,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -68016,7 +68234,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -68034,7 +68308,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -68052,7 +68382,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -68070,7 +68456,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -68088,7 +68530,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -68106,7 +68604,63 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Dieser Fertiger ist am Ende. Öffnen Sie ihn, um alles zu bergen, was produziert wurde. Es ist keine Schande, zu überleben ... vielleicht können Sie das nächste Mal bis zum Ende durchhalten.
++ 
+```
+
+
+ES
+
+```diff
+- Ese fabricador está fuera de combate. Ábrelo para recuperar lo que haya producido. 
+- 
+- No hay nada de malo en sobrevivir, quizá la próxima vez consigas llegar hasta el final.
+```
+
+
+FR
+
+```diff
+- Ce Fabricateur est hors d'état. Ouvrez-le pour récupérer ce qu'il a pu produire. Il n'y a aucune honte à survivre, peut-être que la prochaine fois, vous tiendrez jusqu'au bout.
++ 
+```
+
+
+JA
+
+```diff
+- あのファブリケーターは完全に機能を停止した。こじ開けて、アレが生産したものを根こそぎ回収しろ。 
+- 
+- 生き延びたことを恥じる必要はない。次は最後まで耐えきれるかもしれん。
+```
+
+
+KO
+
+```diff
+- 제작기의 작동이 중단됐습니다. 생산된 자원을 회수할 수 있습니다.
+- 
+- 살아남았다면 부끄러울 일은 없습니다. 다음에는 더 나아갈 수 있을 것입니다.
+```
+
+
+RU
+
+```diff
+- Этот сборщик вышел из строя. Откройте его и заберите всю продукцию. Не вините себя за то, что хотели выжить. Может, в следующий раз вы продержитесь до конца.
++ 
+```
+
+
+ZH
+
+```diff
+- 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
++ 
+```
 
 
 
@@ -69918,7 +70472,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Capsuleer Day Caldari SKINR Crate
++ 
+```
+
+
+ES
+
+```diff
+- Caja de SKINR caldari del Día de los Capsulistas
++ 
+```
+
+
+FR
+
+```diff
+- Caisse SKINR caldari du Jour des Capsuliers
++ 
+```
+
+
+JA
+
+```diff
+- カプセラデイ カルダリ シャツSKINR箱
++ 
+```
+
+
+KO
+
+```diff
+- 캡슐리어의 날 칼다리 SKINR 상자
++ 
+```
+
+
+RU
+
+```diff
+- Capsuleer Day Caldari SKINR Crate
++ 
+```
+
+
+ZH
+
+```diff
+- 克隆飞行员之日加达里SKINR箱
++ 
+```
 
 
 
@@ -72252,7 +72859,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Complex Alpha
++ 
+```
+
+
+ES
+
+```diff
+- Complejo Alfa
++ 
+```
+
+
+FR
+
+```diff
+- Complexe Alpha
++ 
+```
+
+
+JA
+
+```diff
+- 複合施設アルファ
++ 
+```
+
+
+KO
+
+```diff
+- 컴플렉스 알파
++ 
+```
+
+
+RU
+
+```diff
+- Комплекс «Альфа»
++ 
+```
+
+
+ZH
+
+```diff
+- 复合体阿尔法
++ 
+```
 
 
 
@@ -72267,7 +72927,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Contemplative Punisher
++ 
+```
+
+
+ES
+
+```diff
+- Punisher contemplativa
++ 
+```
+
+
+FR
+
+```diff
+- Punisher contemplatif
++ 
+```
+
+
+JA
+
+```diff
+- 瞑想的なパニッシャー
++ 
+```
+
+
+KO
+
+```diff
+- 명상의 퍼니셔
++ 
+```
+
+
+RU
+
+```diff
+- Contemplative Punisher
++ 
+```
+
+
+ZH
+
+```diff
+- 沉思惩罚者级
++ 
+```
 
 
 
@@ -72282,7 +72995,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Ein Kreuzer der Föderation der Gallente.
++ 
+```
+
+
+ES
+
+```diff
+- Crucero de la Federación Gallente.
++ 
+```
+
+
+FR
+
+```diff
+- Un croiseur de la Fédération gallente.
++ 
+```
+
+
+JA
+
+```diff
+- ガレンテ連邦の巡洋艦。
++ 
+```
+
+
+KO
+
+```diff
+- 갈란테 연방의 크루저입니다.
++ 
+```
+
+
+RU
+
+```diff
+- Крейсер Галлентской Федерации.
++ 
+```
+
+
+ZH
+
+```diff
+- 盖伦特联邦的一艘巡洋舰。
++ 
+```
 
 
 
@@ -72528,7 +73294,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Talman’s Ashimmu
++ 
+```
+
+
+ES
+
+```diff
+- Ashimmu de Talman
++ 
+```
+
+
+FR
+
+```diff
+- Ashimmu de Talman
++ 
+```
+
+
+JA
+
+```diff
+- タイマンのアシッムー
++ 
+```
+
+
+KO
+
+```diff
+- 탈만의 아시무
++ 
+```
+
+
+RU
+
+```diff
+- Talman’s Ashimmu
++ 
+```
+
+
+ZH
+
+```diff
+- 塔尔曼的阿什姆级舰船
++ 
+```
 
 
 
@@ -72543,7 +73362,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Probe Fleet Issue Capsuleer Day XXIII SKIN
++ 
+```
+
+
+ES
+
+```diff
+- SKIN del XXIII Día de los Capsulistas para la Probe modelo de la Flota
++ 
+```
+
+
+FR
+
+```diff
+- SKIN Probe Fleet Issue, édition Jour des Capsuliers XXIII
++ 
+```
+
+
+JA
+
+```diff
+- プローブフリート海軍仕様カプセラデーXXIIISKIN
++ 
+```
+
+
+KO
+
+```diff
+- 프로브 함대 에디션 '캡슐리어의 날 XXIII' SKIN
++ 
+```
+
+
+RU
+
+```diff
+- Probe Fleet Issue Capsuleer Day XXIII SKIN
++ 
+```
+
+
+ZH
+
+```diff
+- 探针级舰队型克隆飞行员之日XXIII涂装
++ 
+```
 
 
 
@@ -72558,7 +73430,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
+
+
+ES
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
+
+
+FR
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
+
+
+JA
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
+
+
+KO
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
+
+
+RU
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
+
+
+ZH
+
+```diff
+- Sneaky Site - Caldari Guards (Do not Translate)
++ 
+```
 
 
 
@@ -85406,15 +86331,15 @@ A battlecruiser of the Minmatar Republic
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 2 | 309 | 0 |
+| de | 1 | 296 | 0 |
 | en | 2 | 270 | 0 |
-| es | 2 | 313 | 0 |
-| fr | 2 | 323 | 0 |
-| it | 509 | 402 | 99 |
-| ja | 2 | 283 | 0 |
-| ko | 2 | 276 | 0 |
-| ru | 2 | 314 | 0 |
-| zh | 2 | 3464 | 0 |
+| es | 1 | 301 | 0 |
+| fr | 1 | 309 | 0 |
+| it | 0 | 5 | 0 |
+| ja | 1 | 270 | 0 |
+| ko | 1 | 262 | 0 |
+| ru | 1 | 301 | 0 |
+| zh | 1 | 3454 | 0 |
 
 ## Details
 
@@ -86491,15 +87416,20 @@ EN
 ```
 
 
+IT
+
+```diff
+- {[numeric]units} {[numeric]units-> "anno", "anni"}
++ 
+```
+
+
 ZH
 
 ```diff
 - {[numeric]units}{[numeric]units-> "year", "years"}
 + {[numeric]units}年
 ```
-
-
-IT: *empty*
 
 
 
@@ -86513,15 +87443,20 @@ EN
 ```
 
 
+IT
+
+```diff
+- {[numeric]units} {[numeric]units-> "giorno", "giorni"}
++ 
+```
+
+
 ZH
 
 ```diff
 - {[numeric]units} {[numeric]units-> "day", "days"}
 + {[numeric]units}日
 ```
-
-
-IT: *empty*
 
 
 
@@ -86535,15 +87470,20 @@ EN
 ```
 
 
+IT
+
+```diff
+- {[numeric]units} {[numeric]units-> "ora", "ore"}
++ 
+```
+
+
 ZH
 
 ```diff
 - {[numeric]units}{[numeric]units-> "hour", "hours"}
 + {[numeric]units}{[numeric]units-> "小时", "小时"}
 ```
-
-
-IT: *empty*
 
 
 
@@ -86557,94 +87497,20 @@ EN
 ```
 
 
+IT
+
+```diff
+- {[numeric]units} {[numeric]units-> "minuto", "minuti"}
++ 
+```
+
+
 ZH
 
 ```diff
 - {[numeric]units}{[numeric]units-> "minute", "minutes"}
 + {[numeric]units}{[numeric]units-> "分钟", "分钟"}
 ```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 61000 · Source Modified
-
-EN
-
-```diff
-- […]lanet, a new state had to be built from the scratch in very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living on this past achievement ever since. Though not very active any more in the wheeling and dealing of power politics it still holds some very valuable cards on its hand.
-+ […]lanet, a new state had to be built from scratch in a very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living off this past achievement ever since. Though no longer very active in the wheeling and dealing of power politics, it still holds some very valuable cards in its hand.
-```
-
-
-IT
-
-```text
-Dopo il grande esodo durante il Caldari Breakout, quando i Caldari lasciarono il loro pianeta d'origine, un nuovo stato doveva essere costruito dal nulla in tempi molto brevi. Caldari Constructions è stata una delle aziende che hanno partecipato a questo grande impegno e da allora ha vissuto sulle basi di questo risultato. Anche se non molto più attivo negli intrallazzi della politica di palazzo, detiene ancora alcune carte molto preziose.
-```
-
-
-
-
-### MessageID: 62430 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
-+ […]material into the much valued boosters. Be warned that the Angels will not respo[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 62433 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
-+ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 62434 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
-+ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 62436 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
-+ […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -86773,442 +87639,12 @@ EN
 ```
 
 
-DE
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
-(truncated, 2,172 chars total)
-```
-
-
-ES
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    Versión: {version}.{[numeric]build}<br><br>
-    <h4>EVE is a product of CCP hf.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
-    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
-    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>Credits</h2>
-<p>
-    Sp
-(truncated, 2,224 chars total)
-```
-
-
-FR
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
-(truncated, 2,154 chars total)
-```
-
-
-JA
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    バージョン：{version}.{[numeric]build}<br><br>
-    <h4>EVEはCCP hfの製品です。</h4>
-    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
-    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
-    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
-</center>
-<br><br>
-<h2>クレジット</h2>
-<p>
-    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
-    感謝いたします。
-(truncated, 1,847 chars total)
-```
-
-
-KO
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    버전: {version}.{[numeric]build}<br><br>
-    <h4>EVE는 CCP hf의 제품입니다.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
-    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
-    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>크레딧</h2>
-<p>
-    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
-     그 가족 여러분께 특히 감
-(truncated, 1,844 chars total)
-```
-
-
-RU
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
-(truncated, 2,107 chars total)
-```
-
-
 ZH
 
 ```diff
 - […]le}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]current[…]
 + […]le}</h1> <h2>{subtitle}</h2>版本：{version}.{[numeric]build}<br><br> <h4>EVE是CCP hf.的产品。</h4>版权所有©CCP 1997-{[numeric]current[…]
 ```
-
-
-
-
-### MessageID: 67200 · Source Modified
-
-EN
-
-```diff
-- <h2>EVE Online Development Team</h2>
-+ <h3>EVE Online Development Team</h3>
-  <br>
-  <h3>Game Design</h3>
-[…]
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Game Design Director :</b></td>
-+         <td width=325 align=right><b>Game Design Director:</b></td>
-          <td>Greg Hennessey</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Game Designers :</b></td>
-+         <td width=325 align=right><b>Senior Game Designers:</b></td>
-          <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Systems Designer :</b></td>
-+         <td width=325 align=right><b>Senior Systems Designer:</b></td>
-          <td>Gabriela Queiroz</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Game Designers :</b></td>
-+         <td width=325 align=right><b>Game Designers:</b></td>
-          <td>Christopher Coughlan, Matthew Dance, Sigurður Sindri Helgason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Narrative Designer :</b></td>
-+         <td width=325 align=right><b>Junior Game Designer:</b></td>
-+         <td>Sunna Sól Sigurðardóttir</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Lead Narrative Designer:</b></td>
-          <td>Winter Laurel Mullenix</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Narrative Designer :</b></td>
-+         <td width=325 align=right><b>Narrative Designer:</b></td>
-          <td>Tormod MacLean</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Technical Narrative Designer :</b></td>
--         <td>Brent Stéphane Hall</td>
-+         <td width=325 align=right><b>Technical Narrative Designer:</b></td>
-+         <td>Brent Stéphane Hall,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>UI/UX Director :</b></td>
-+         <td width=325 align=right><b>UI/UX Director:</b></td>
-          <td>Jónas Valtýsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead UI Designer :</b></td>
-+         <td width=325 align=right><b>Lead UI Designer:</b></td>
-          <td>Haukur Pálsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior UX Designer :</b></td>
-+         <td width=325 align=right><b>Senior UX Designer:</b></td>
-          <td>Ndriana Rajaonah</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior UI/UX Designers :</b></td>
-+         <td width=325 align=right><b>Senior UI/UX Designer:</b></td>
-          <td>Fabiana Mascolo, Sigurður Baldursson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior UI/UX Technical Designer :</b></td>
-+         <td width=325 align=right><b>Senior UI/UX Technical Designer</b></td>
-          <td>Elwin Lee</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>UI/UX Designers :</b></td>
--         <td>Dominika Vicanová, Guðmundur Valur Viðarsson</td>
-+         <td width=325 align=right><b>UI/UX Designers:</b></td>
-+         <td>Dominika Vicanová, Guðmundur Valur Viðarsson, Tryggvi Ólason</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Engineering</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Technical Director :</b></td>
-+         <td width=325 align=right><b>Technical Director:</b></td>
-          <td>Nicholas Dean Herring</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Technical Managers :</b></td>
-+         <td width=325 align=right><b>Technical Managers:</b></td>
-          <td>Gregory Zarski</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Software Engineers :</b></td>
-+         <td width=325 align=right><b>Lead Software Engineers:</b></td>
-          <td>Julia Boira, Ingvi Rafn Hafþórsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Infrastructure Engineer :</b></td>
-+         <td width=325 align=right><b>Lead Infrastructure Engineer:</b></td>
-          <td>Mei Walker</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Distributed Systems Engineer :</b></td>
-+         <td width=325 align=right><b>Lead Distributed Systems Engineer:</b></td>
-          <td>Mateusz Krasucki</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Distributed Systems Engineers :</b></td>
-+         <td width=325 align=right><b>Senior Distributed Systems Engineer:</b></td>
-          <td>Kristín Fjóla Tómasdóttir, Rósa Munda Sævarsdóttir, Sandor Bela Nagy, Jordan Wood</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Graphics Programmer :</b></td>
-+         <td width=325 align=right><b>Senior Graphics Programmer:</b></td>
-          <td>Leó Stefánsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Software Engineers :</b></td>
--         <td>Arnar Birgir Jónsson, Baldvin Þorsteinsson, Bára Gunnarsdóttir, Bjarki Þór Elíasen, Bjarmi Árdal
--             Bergsteinsson, Brian Sterling, Charles Palmer, Guðni Páll Sæland, Hjalti Kolbeinsson, Hjalti Leifsson,
--             Ingi Steinn Guðmundsson, Jamie Bannister, Jón Atli Ólafsson, Norbert Barichard, Patric Stout, Steven
--             Noorbergen, Unnar Steinn Sigtryggsson, Vilhelm Páll Sævarsson</td>
-+         <td width=325 align=right><b>Senior Software Engineers:</b></td>
-+         <td>Arnar Birgir Jónsson, Baldvin Þorsteinsson, Bára Gunnarsdóttir, Bjarki Þór Elíasen, Bjarmi Árdal Bergsteinsson, Brian Sterling, Charles Palmer, Guðni Páll Sæland, Hjalti Kolbeinsson, Hjalti Leifsson, Ingi Steinn Guðmundsson, Jamie Bannister, Jón Atli Ólafsson, Norbert Barichard, Patric Stout, Steven Noorbergen, Unnar Steinn Sigtryggsson, Vilhelm Páll Sævarsson,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Software Engineers :</b></td>
--         <td>Bjarki Hreinn Viðarsson, Elina Spielmann, Harry Andrews, Sofia Basílio Valente da Silva,
--             Sigurgrímur Unnar Ólafsson, Sunneva Þorsteinsdóttir, Þorsteinn Frímann Rafnsson</td>
-+         <td width=325 align=right><b>Software Engineers:</b></td>
-+         <td>Bjarki Hreinn Viðarsson, Elina Spielmann, Harry Andrews, Sofia Basílio Valente da Silva, Sigurgrímur Unnar Ólafsson, Sunneva Þorsteinsdóttir, Þorsteinn Frímann Rafnsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Software Engineer Intern :</b></td>
-+         <td width=325 align=right><b>Junior Software Engineer:</b></td>
-          <td>Glódís Ylja Hilmarsdóttir Kjærnested</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>UI Engineer :</b></td>
-+         <td width=325 align=right><b>UI Engineer:</b></td>
-          <td>Andreas Engström-Jones</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Graphics Programmer :</b></td>
--         <td>Henrý Þór Jónsson</td>
-+         <td width=325 align=right><b>Graphics Programmer:</b></td>
-+         <td>Henrý Þór Jónsson,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Distributed Systems Engineer :</b></td>
--         <td>Jónas Freyr Bjarnason</td>
-+         <td width=325 align=right><b>Distributed Systems Engineer:</b></td>
-+         <td>Jónas Freyr Bjarnason,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Junior Distributed Systems Engineer :</b></td>
-+         <td width=325 align=right><b>Associate Distributed Systems Engineer</b></td>
-          <td>Benedikt Aron Þjóðbjargarson</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Art</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Art Director :</b></td>
-+         <td width=325 align=right><b>Art Director:</b></td>
-          <td>Georg Hilmarsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead VFX Artist :</b></td>
-+         <td width=325 align=right><b>Lead VFX Artist:</b></td>
-          <td>André Berg Bragason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior VFX Artist :</b></td>
-+         <td width=325 align=right><b>Senior VFX Artist:</b></td>
-          <td>Chris Tinsley</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior 3D Artists :</b></td>
--         <td>Björn Jónsson, Guðjón Örn Lárusson, Kasper Ørtenblad Hansen, Skúli Theodórs Ólafsson, Ýmir Jónsson</td>
-+         <td width=325 align=right><b>Senior 3D Artists:</b></td>
-+         <td>Björn Jónsson, Guðjón Örn Lárusson, Kasper Örtenblad Hansen, Skúli Theodórs Ólafsson, Ýmir Jónsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Concept Artists :</b></td>
-+         <td width=325 align=right><b>Senior Concept Artists:</b></td>
-          <td>Daníel Brynjólfsson, Lúðvík Kalmar Víðisson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>SKIN Artist, contractor :</b></td>
-+         <td width=325 align=right><b>SKIN Artist, contractor:</b></td>
-          <td>Paul Oosterman</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Sound</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Audio Director :</b></td>
-+         <td width=325 align=right><b>Audio Director:</b></td>
-          <td>Baldur Jóhann Baldursson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Audio Designer, Composer :</b></td>
-+         <td width=325 align=right><b>Senior Audio Designer, Composer:</b></td>
-          <td>Kristian Sønderlund Ross Kristensen</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Musical Composition (Legacy) :</b></td>
-+         <td width=325 align=right><b>Musical Composition (Legacy):</b></td>
-          <td>Jón H. Haraldsson</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Production</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Executive Producer :</b></td>
-+         <td width=325 align=right><b>Executive Producer:</b></td>
-          <td>Snorri Árnason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Head of Production :</b></td>
-+         <td width=325 align=right><b>Head of Production:</b></td>
-          <td>David Ecker</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Creative Director :</b></td>
-+         <td width=325 align=right><b>Creative Director:</b></td>
-          <td>Bergur Finnbogason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Development Director :</b></td>
--         <td>Svavar Melberg</td>
-+         <td width=325 align=right><b>Senior Producers:</b></td>
-+         <td>Mark Robert Liebold, Tanja Berglind Hallvarðsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Producers :</b></td>
--         <td>Haukur Steinn Logason, Mark Robert Liebold, Tanja Berglind Hallvarðsdóttir</td>
-+         <td width=325 align=right><b>Producers:</b></td>
-+         <td>Aline Grippi, Anna Guðbjörg Cowden, Ed Smith, Joanna Obstawska, Paulina Antillon, Rohana Razak, Haley Blackall</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Producers :</b></td>
--         <td>Aline Grippi, Anna Guðbjörg Cowden, Ed Smith, Joanna Obstawska, Paulina Antillon, Rohana Razak</td>
--     </tr>
--     <tr VALIGN="top">
--         <td width=325 align=right><b>Production Operation Specialist :</b></td>
-+         <td width=325 align=right><b>Production Operation Specialist:</b></td>
-          <td>Ingibjörg Lilja Guðmundsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Technical Producer :</b></td>
-+         <td width=325 align=right><b>Lead Technical Producer:</b></td>
-          <td>Sverrir Rolf Sander</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of Growth :</b></td>
-+         <td width=325 align=right><b>Technical Producer:</b></td>
-+         <td>Dj Wooten</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Director of Growth:</b></td>
-          <td>Anna Kozko</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Product Manager :</b></td>
-+         <td width=325 align=right><b>Senior Product Manager:</b></td>
-          <td>Ivan Goncharov</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Quality Assurance</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>QA Lead :</b></td>
-+         <td width=325 align=right><b>QA Lead:</b></td>
-          <td>Edward Haines</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior QA Engineer :</b></td>
-+         <td width=325 align=right><b>Senior QA Engineer:</b></td>
-          <td>Roman Pechenkin</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior QA Analysts :</b></td>
-+         <td width=325 align=right><b>Senior QA Analysts:</b></td>
-          <td>Carolina Lindblom, Deanna Justine Sowa, Jess Rhodes, Lia Miri Beck, Naum Negru</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>QA Engineer :</b></td>
-+         <td width=325 align=right><b>QA Engineer:</b></td>
-          <td>Haukur Óskar Þorgeirsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>QA Analysts :</b></td>
--         <td>Bjarni Óskarsson, Sean Coyne</td>
-+         <td width=325 align=right><b>QA Analysts:</b></td>
-+         <td>Bjarni Óskarsson, Sean Coyne, Halldór Már Kristmundsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>FQA Project Managers :</b></td>
-+         <td width=325 align=right><b>FQA Project Manager:</b></td>
-          <td>Marcin Jankowski, Mayur Sindhwani</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>FQA Leads :</b></td>
-+         <td width=325 align=right><b>FQA Lead:</b></td>
-          <td>Dawid Kolaczuch, Wojciech Ludzik, Mariusz Szulc, Gracjan Skoneczny</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>FQA Testers :</b></td>
--         <td>Damian Bal, Alan Brych, Piotr Czech, Kaja Galecka, Adam Jarza, Sebastian Jazwa, Kamil Jedrzejczyk,
--             Piotr Kolaczyk, Natalia Kusal, Zuzanna Lis, Kamil Markiel, Slawomir Mazurek, Patryk Nawrocki, Michal Niton,
--             Szymon Nogec, Pawel Pietrzak, Tomasz Skrzypaczek, Daniel Sroda, Wirginia Woznica</td>
-+         <td width=325 align=right><b>FQA Testers:</b></td>
-+         <td>Damian Bal, Alan Brych, Piotr Czech, Kaja Galecka, Adam Jarza, Sebastian Jazwa, Kamil Jedrzejczyk, Piotr Kolaczyk, Natalia Kusal, Zuzanna Lis, Kamil Markiel, Slawomir Mazurek, Patryk Nawrocki, Michal Niton, Szymon Nogec, Pawel Pietrzak, Tomasz Skrzypaczek, Daniel Sroda, Wirginia Woznica</td>
-      </tr>
-  </table>
-```
-
-
-IT: *empty*
 
 
 
@@ -94699,36 +95135,6 @@ ZH
 
 
 
-### MessageID: 70885 · Source Modified
-
-EN
-
-```diff
-- Charit Rish's Baalgorn
-+ Charit Rish's Bhaalgorn
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 70886 · Source Modified
-
-EN
-
-```diff
-- Neyan Khahsel's Baalgorn
-+ Neyan Khahsel's Bhaalgorn
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 71447 · Translation Modified
 
 EN
@@ -101436,949 +101842,6 @@ ZH
 
 
 
-### MessageID: 77908 · Source Modified
-
-EN
-
-```diff
-  <h2>Platform, Publishing, Company and Support</h2>
-  <br>
-- <h3>Platform – CARBON Engine</h3>
-+ <h3>Platform - CARBON Engine</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Development Director :</b></td>
-+         <td width=325 align=right><b>Senior Development Director:</b></td>
-          <td>Benjamin Hunter</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Director of Live Operations :</b></td>
-+         <td width=325 align=right><b>Senior Director of Live Operations:</b></td>
-          <td>Erlendur S Þorsteinsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Technical Producer :</b></td>
-+         <td width=325 align=right><b>Technical Producer:</b></td>
-          <td>Adrian Gurney</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Product Operations Specialist :</b></td>
-+         <td width=325 align=right><b>Senior Product Operations Specialist:</b></td>
-          <td>Haseeb Naveed</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Database Administrator :</b></td>
-+         <td width=325 align=right><b>Senior Database Administrator:</b></td>
-          <td>Jeff Kelly</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Principal Rendering Engineer :</b></td>
-+         <td width=325 align=right><b>Principal Rendering Engineer:</b></td>
-          <td>Filipp Pavlov</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Principal Programmer :</b></td>
-+         <td width=325 align=right><b>Principal Programmer:</b></td>
-          <td>Thomas Dähling</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Tools Programmer :</b></td>
-+         <td width=325 align=right><b>Lead Tools Programmer:</b></td>
-          <td>Jonathan Michael Pierce</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Build Engineer :</b></td>
-+         <td width=325 align=right><b>Senior Build Engineer:</b></td>
-          <td>Cian Estella</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Audio Programmer :</b></td>
-+         <td width=325 align=right><b>Senior Audio Programmer:</b></td>
-          <td>Eric Nielsen</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Rendering Engineer :</b></td>
-+         <td width=325 align=right><b>Senior Rendering Engineer:</b></td>
-          <td>Daniel Isheden</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Software Engineers :</b></td>
-+         <td width=325 align=right><b>Senior Software Engineers:</b></td>
-          <td>Hrafn Jökull Geirsson, Þorsteinn Már Þorsteinsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Tools Programmers :</b></td>
-+         <td width=325 align=right><b>Senior Tools Programmer:</b></td>
-          <td>Auðunn Andri Ólafsson, Marcus Wittander, Mark Wilkins</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Graphics Programmer :</b></td>
-+         <td width=325 align=right><b>Senior Graphics Programmer:</b></td>
-          <td>Ólafur Þór Gunnarsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Graphics Programmers :</b></td>
--         <td>Christoph Vlad, John Kenneth Green</td>
-+         <td width=325 align=right><b>Graphics Programmers:</b></td>
-+         <td>Christoph Vlad, John Kenneth Green,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Engine Programmer :</b></td>
-+         <td width=325 align=right><b>Senior Engine Programmer:</b></td>
-          <td>James Robert Hawk</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Engine Programmers :</b></td>
--         <td>Alexander Björnsson, Joseph Frangoudes</td>
-+         <td width=325 align=right><b>Engine Programmers:</b></td>
-+         <td>Alexander Björnsson, Joseph Frangoudes,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Audio Programmer :</b></td>
-+         <td width=325 align=right><b>Audio Programmer:</b></td>
-          <td>Phevos Rinis</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Tools Programmers :</b></td>
-+         <td width=325 align=right><b>Tools Programmers:</b></td>
-          <td>Fannar Traustason, Grétar Karl Guðmundsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Infrastructure Engineers :</b></td>
-+         <td width=325 align=right><b>Senior Infrastructure Engineers:</b></td>
-          <td>Zoey Alexis Wyandt</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Infrastructure Engineers :</b></td>
-+         <td width=325 align=right><b>Infrastructure Engineers:</b></td>
-          <td>Charlotte Brolan</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior QA Analysts :</b></td>
--         <td>Daniel Preineder, Musse Dolk</td>
-+         <td width=325 align=right><b>Senior QA Analyst:</b></td>
-+         <td>Daniel Preineder, Maelys Jennifer Soitout</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>QA Analyst :</b></td>
-+         <td width=325 align=right><b>QA Analyst:</b></td>
-          <td>Iuliia Denisova</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Tools Programmer :</b></td>
-+         <td width=325 align=right><b>Associate Tools Programmer:</b></td>
-          <td>Árni Þór Sörensen</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Data &amp; Analytics</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of Data, Analytics &amp; AI :</b></td>
-+         <td width=325 align=right><b>Director of Data, Analytics &amp; AI:</b></td>
-          <td>Stefán Freyr Guðmundsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Data Engineering Manager :</b></td>
-+         <td width=325 align=right><b>Engineering Manager:</b></td>
-          <td>Eiríkur Björn Einarsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Data Engineer :</b></td>
-+         <td width=325 align=right><b>Lead Data Engineer:</b></td>
-          <td>Ólafur Konráðsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead AI Engineer :</b></td>
-+         <td width=325 align=right><b>Lead AI Engineer:</b></td>
-          <td>Eysteinn Gunnlaugsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Data Engineer :</b></td>
-+         <td width=325 align=right><b>Senior AI Engineer:</b></td>
-+         <td>Gunni Singh</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Senior Data Engineer:</b></td>
-          <td>Björn Kristmannsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Software Engineer :</b></td>
--         <td>Alexander O'Donovan-Jones</td>
-+         <td width=325 align=right><b>Senior Software Engineer:</b></td>
-+         <td>Alexander O&#x27;Donovan-Jones</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Data Engineers :</b></td>
-+         <td width=325 align=right><b>Data Engineers:</b></td>
-          <td>Heiðrún Dís Magnúsdóttir, Ívar Helgi Rúnarsson, Jolin Qiao</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Data Scientists :</b></td>
--         <td>Brenton Hooper, Julia Haidn, Kajetan Sygula</td>
-+         <td width=325 align=right><b>Senior Data Scientists:</b></td>
-+         <td>Brenton Hooper, Julia Haidn, Kajetan Sygula, Sigga Svala Jónasdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Data Scientist :</b></td>
-+         <td width=325 align=right><b>Data Scientist:</b></td>
-          <td>Kolbrún Júlía Newman</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Analytics Manager :</b></td>
-+         <td width=325 align=right><b>Analytics Manager:</b></td>
-          <td>Guðmundur Helgason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Data Analyst :</b></td>
-+         <td width=325 align=right><b>Senior Product Analyst:</b></td>
-+         <td>Alessandro Luchetti</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Senior Data Analyst:</b></td>
-          <td>Kjartan Þór Halldórsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Data Analysts :</b></td>
-+         <td width=325 align=right><b>Associate Data Analyst:</b></td>
-          <td>Árný Eik Dagsdóttir, Vilhjálmur Kaldal Sigurðsson</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>IT Operations</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of IT &amp; Security :</b></td>
-+         <td width=325 align=right><b>Director of IT &amp; Security:</b></td>
-          <td>Ólafur Guðmundsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>IT Helpdesk Lead :</b></td>
-+         <td width=325 align=right><b>IT Helpdesk Lead:</b></td>
-          <td>Róbert Steinar Tómasson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>IT Systems Lead :</b></td>
-+         <td width=325 align=right><b>IT Systems Lead:</b></td>
-          <td>Arnar D. Jónsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Principal System Administrator :</b></td>
-+         <td width=325 align=right><b>Principal Systems Administrator:</b></td>
-          <td>Andrew McCormack</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior System Administrators :</b></td>
-+         <td width=325 align=right><b>Senior Systems Administrators:</b></td>
-          <td>Árni Björn Ólafsson, Ísold Aðalheiður Hoffmann</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>System Administrators :</b></td>
-+         <td width=325 align=right><b>Systems Administrators:</b></td>
-          <td>Adam Murphy, Einar Vilhelm Lúðvíksson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Automation Engineer :</b></td>
-+         <td width=325 align=right><b>Automation Engineer:</b></td>
-          <td>Rasmus Petersen</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Publishing</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Brand Directors :</b></td>
--         <td>Grant Tasker, Spencer Colvin</td>
-+         <td width=325 align=right><b>Brand Directors:</b></td>
-+         <td>John Wilks, Spencer Colvin</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Brand Managers :</b></td>
--         <td>Emily Akland, Eldar Ástþórsson, Ingibjörg Lilja Diðriksdóttir</td>
-+         <td width=325 align=right><b>Senior Brand Managers:</b></td>
-+         <td>Ingibjörg Lilja Diðriksdóttir,</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Brand Manager :</b></td>
-+         <td width=325 align=right><b>Brand Manager:</b></td>
-          <td>Maziar Shahsafdari</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Junior Brand Manager :</b></td>
-+         <td width=325 align=right><b>Associate Brand Manager:</b></td>
-          <td>Noé Glibert</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Head of Business Development :</b></td>
-+         <td width=325 align=right><b>Head of Business Development:</b></td>
-          <td>Anna Katrin Olafsdottir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Monetization Designer :</b></td>
-+         <td width=325 align=right><b>Monetization Designer:</b></td>
-          <td>Mikhail Margulev</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Marketing Growth Director :</b></td>
-+         <td width=325 align=right><b>Marketing Growth Director:</b></td>
-          <td>Alexandra Diljá Bjargardóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>User Acquisition Lead :</b></td>
--         <td>Svetlana Labazkina</td>
-+         <td width=325 align=right><b>User Acquisition Lead:</b></td>
-+         <td>Carl Yan, Svetlana Labazkina</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of Content &amp; Social Media :</b></td>
-+         <td width=325 align=right><b>User Acquisition Specialist:</b></td>
-+         <td>Jóhann Pálsson</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Director of Content &amp; Social Media:</b></td>
-          <td>Kristján Einar Kristjánsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Digital Product Manager :</b></td>
--         <td>Caden Levett</td>
--     </tr>
--     <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Marketing Analyst :</b></td>
-+         <td width=325 align=right><b>Senior Marketing Analyst:</b></td>
-          <td>Olga Venger</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Growth Marketing Specialists :</b></td>
-+         <td width=325 align=right><b>Growth Marketing Specialists:</b></td>
-          <td>Aníta Ösp Ingólfsdóttir, Friðrik Árni Tryggvason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Player Research &amp; Localization Producer :</b></td>
--         <td>Camille Faivre D'Arcier</td>
-+         <td width=325 align=right><b>Player Research &amp; Localization Producer:</b></td>
-+         <td>Camille Faivre D&#x27;Arcier</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Marketing Creative Director :</b></td>
-+         <td width=325 align=right><b>Marketing Creative Director:</b></td>
-          <td>Jóhann Heiðar Jónsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Strategic Publishing Advisor :</b></td>
-+         <td width=325 align=right><b>Strategic Publishing Advisor:</b></td>
-          <td>Michael Hooper</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Marketing Specialist :</b></td>
-+         <td width=325 align=right><b>Associate Marketing Specialist:</b></td>
-          <td>Hilmar Smári Finsen</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Marketing Research Intern :</b></td>
-+         <td width=325 align=right><b>Marketing Research Intern:</b></td>
-          <td>Guðrún Kristín Kristinsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Cinematic Director :</b></td>
-+         <td width=325 align=right><b>Cinematic Director (Product Management):</b></td>
-          <td>Ólafur Ágúst Haraldsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Capture Artist :</b></td>
-+         <td width=325 align=right><b>Senior Capture Artist:</b></td>
-          <td>Birgir Páll Bjarnason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Graphic Designers :</b></td>
-+         <td width=325 align=right><b>Senior Graphic Designers:</b></td>
-          <td>Sölvi Hrafn Ingimundarson, Þormóður Kristján Aðalbjörnsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Web Designer :</b></td>
-+         <td width=325 align=right><b>Senior Web Designer:</b></td>
-          <td>Björn Salvador Kristinsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Cinematic Leads :</b></td>
-+         <td width=325 align=right><b>Cinematic Leads:</b></td>
-          <td>Greg Kruk, Robin Whitehead</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Cinematic Artist :</b></td>
-+         <td width=325 align=right><b>Senior Cinematic Artist:</b></td>
-          <td>Arnar Jónsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Copywriter/Editor :</b></td>
-+         <td width=325 align=right><b>Copywriter/Editor:</b></td>
-          <td>Eyvindur Karlsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Project Manager :</b></td>
-+         <td width=325 align=right><b>Senior Project Manager:</b></td>
-          <td>Guðný Lára Thorarensen</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Player Experience and Community</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of Player Experience and Community :</b></td>
-+         <td width=325 align=right><b>Director of Player Experience and Community:</b></td>
-          <td>Rafn Herlufsen</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Player Experience Manager :</b></td>
-+         <td width=325 align=right><b>Player Experience Manager:</b></td>
-          <td>Reynir Ari Guðráðsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Community Manager :</b></td>
-+         <td width=325 align=right><b>Lead Community Manager:</b></td>
-          <td>Peter Farrell</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Project Manager of Player Experience :</b></td>
-+         <td width=325 align=right><b>Senior Project Manager of Player Experience:</b></td>
-          <td>Davíð Einarsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Project Managers of Player Experience :</b></td>
-+         <td width=325 align=right><b>Project Managers of Player Experience:</b></td>
-          <td>Ágúst Ingi Óskarsson, Ingiberg Steinar Bjarnason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Security Analyst :</b></td>
-+         <td width=325 align=right><b>Senior Security Analyst:</b></td>
-          <td>Michael Fitzsimmons</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Community Developers :</b></td>
--         <td>Dan Crone, Neil Gorton</td>
-+         <td width=325 align=right><b>Lead Community Developer:</b></td>
-+         <td>Dan Crone</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Community Developers :</b></td>
-+         <td width=325 align=right><b>Senior Community Developers:</b></td>
-+         <td>Neil Gorton</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Community Developers:</b></td>
-          <td>Aiden Harvey, Ben Sisson, Björn Andri Benediktsson, David Rootwelt-Norberg, Lisa Abeling</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Player Support Representative :</b></td>
-+         <td width=325 align=right><b>Player Support Representative:</b></td>
-          <td>Paul Dierdorp</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Player Support Specialists :</b></td>
--         <td>Bjarni Veigar Hauksson, Diedrich Ohlandt, Hlynur Þorsteinsson</td>
-+         <td width=325 align=right><b>Player Support Specialist:</b></td>
-+         <td>Hlynur Þorsteinsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Security Analysts :</b></td>
-+         <td width=325 align=right><b>Player Support Specialists:</b></td>
-+         <td>Bjarni Veigar Hauksson, Diedrich Ohland</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Security Analysts:</b></td>
-          <td>Einar Sigurður Hreiðarsson, Maksym Gryshchenko</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Software Engineer :</b></td>
-+         <td width=325 align=right><b>Senior Software Engineer:</b></td>
-          <td>John Aldis</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Tools Programmers :</b></td>
--         <td>Kristján Sigurðsson, Magnús Torfi Magnússon</td>
-+         <td width=325 align=right><b>Tools Programmers:</b></td>
-+         <td>Brian Burnstein, Kristján Sigurðsson, Magnús Torfi Magnússon</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Tools Programmers :</b></td>
--         <td>Brian Burnstein</td>
--     </tr>
--     <tr VALIGN="top">
--         <td width=325 align=right><b>5CA Managers :</b></td>
-+         <td width=325 align=right><b>5CA Managers:</b></td>
-          <td>Gerardo Bono, Guðmundur Freyr Matthíasson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>5CA Team Leads :</b></td>
-+         <td width=325 align=right><b>5CA Team Leads:</b></td>
-          <td>Luis Hernandez, Martin Bovis, Sebastian Veit</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>5CA Support Game Masters :</b></td>
--         <td>Adrian Vazquez, Amrane Larbi, Eduardo Reyes, Edward Turrall, Garth Holmes, Jaques Durand, John Jay
--             Catipon, Jorge Sikorsky, Juan Angelo Pasquin, Leandro Serrano, Mihail Munteanu, Oksana Talalina,
--             Paulo de Vargas, Rajiv Pinera, Razzel Delcarmen, Ross Ireland, Sergio Garcia, Sergei Pavlov, Shaun
--             Joyce, Tien-Thinh Le, Vu Ngo</td>
-+         <td width=325 align=right><b>5CA Support Game Masters:</b></td>
-+         <td>Adrian Vazquez, Amrane Larbi, Eduardo Reyes, Edward Turrall, Garth Holmes, Jaques Durand, John Jay Catipon, Jorge Sikorsky, Juan Angelo Pasquin, Leandro Serrano, Mihail Munteanu, Oksana Talalina, Paulo de Vargas, Rajiv Pinera, Razzel Delcarmen, Ross Ireland, Sergio Garcia, Sergei Pavlov, Shaun Joyce, Tien-Thinh Le, Vu Ngo</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>5CA Outreach Game Masters :</b></td>
--         <td>Caylan Pillay, Carlos Mendez, Edgar Morales, Endrio Lima, Ivan Ramirez, Jo El Ho, Luka Slovic,
--             Nikola Trnavcevic, Rodrigo Oliveira, Rodrigo Parra</td>
-+         <td width=325 align=right><b>5CA Outreach Game Masters:</b></td>
-+         <td>Caylan Pillay, Carlos Mendez, Edgar Morales, Endrio Lima, Ivan Ramirez, Jo El Ho, Luka Slovic, Nikola Trnavcevic, Rodrigo Oliveira, Rodrigo Parra</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Extraordinary Contributors to EVE Online :</b></td>
-+         <td width=325 align=right><b>Extraordinary Contributors to EVE Online:</b></td>
-          <td>ISD Dorrim Barstorlode</td>
-      </tr>
-  </table>
-  
-- <br>
-- <h3>CCP</h3>
-+ <h3>Fenris Creations</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Chief Executive Officer :</b></td>
-+         <td width=325 align=right><b>CEO:</b></td>
-          <td>Hilmar Veigar Pétursson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Chief Operating Officer :</b></td>
-+         <td width=325 align=right><b>COO:</b></td>
-          <td>Adrian Blunt</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Chief Financial Officer :</b></td>
-+         <td width=325 align=right><b>CFO:</b></td>
-          <td>Þorbjörg Sæmundsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>VP of Product :</b></td>
-+         <td width=325 align=right><b>VP of Product:</b></td>
-          <td>Sveinbjörn Magnússon</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>VP of Publishing :</b></td>
-+         <td width=325 align=right><b>VP of Publishing:</b></td>
-          <td>Eyrún Jónsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Communications Director :</b></td>
-+         <td width=325 align=right><b>Genaral Manager (Shanghai):</b></td>
-+         <td>Chen Hong</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Communications Director:</b></td>
-          <td>George Kelion</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Communications Manager :</b></td>
-+         <td width=325 align=right><b>Senior Communications Manager:</b></td>
-          <td>Alex Holt-Kulapalan</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of FP&amp;A :</b></td>
-+         <td width=325 align=right><b>Director of FP&amp;A:</b></td>
-          <td>Ívar Grétarsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of Markets :</b></td>
-+         <td width=325 align=right><b>Director of Markets:</b></td>
-          <td>Vífill Gústafsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Global Controller :</b></td>
-+         <td width=325 align=right><b>Global Controller:</b></td>
-          <td>Erik Ingvar Bjarnason</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Financial Analyst :</b></td>
--         <td>Andrea Dögg Sigurðardóttir</td>
-+         <td width=325 align=right><b>Senior Financial Analyst:</b></td>
-+         <td>Andrea Dögg Sigurðardóttir, Kolbeinn Elí Pétursson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Financial Analyst :</b></td>
--         <td>Kolbeinn Elí Pétursson</td>
--     </tr>
--     <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Financial Analyst :</b></td>
-+         <td width=325 align=right><b>Associate Financial Analyst:</b></td>
-          <td>Linda María Karlsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Accounting Manager :</b></td>
-+         <td width=325 align=right><b>Senior Accounting Manager:</b></td>
-          <td>Yongjoo Lee</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Accountant :</b></td>
-+         <td width=325 align=right><b>Senior Accountant:</b></td>
-          <td>Brynja Björk Hinriksdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Accountants :</b></td>
--         <td>Edda Margrét Halldórsdóttir, Vala Sigurðardóttir</td>
-+         <td width=325 align=right><b>Treasury Accountant:</b></td>
-+         <td>Lára Sigmundsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Accounting Specialists :</b></td>
--         <td>Lára Sigmundsdóttir, Zitong Li</td>
-+         <td width=325 align=right><b>Accountants:</b></td>
-+         <td>Edda Margrét Halldórsdóttir, Zitong Li</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Associate Accountant :</b></td>
-+         <td width=325 align=right><b>Accounting Specialist:</b></td>
-+         <td>Vala Sigurðardóttir, Zitong Li</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Associate Accountant:</b></td>
-          <td>Ashley Yvonne Wheat</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior HR Manager :</b></td>
-+         <td width=325 align=right><b>Talent Management Director:</b></td>
-+         <td>Gunnar Haugen</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Senior HR Manager:</b></td>
-          <td>Ása M. Ólafsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Talent Manager Director :</b></td>
--         <td>Gunnar Haugen</td>
--     </tr>
--     <tr VALIGN="top">
--         <td width=325 align=right><b>Talent Acquisition Specialist :</b></td>
-+         <td width=325 align=right><b>Talent Acquisition Specialist:</b></td>
-          <td>Arna Kristín Sigurðardóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior HR Business Partners :</b></td>
--         <td>Kate Lindsay, Sif Hákonardóttir</td>
-+         <td width=325 align=right><b>Senior HR Business Partner:</b></td>
-+         <td>Kate Lindsay, Sandy Shao, Sif Hákonardóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>HR Business Partner :</b></td>
-+         <td width=325 align=right><b>HR Business Partner:</b></td>
-          <td>Sonja Davíðsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Director of Compensation and Benefits :</b></td>
-+         <td width=325 align=right><b>Director of Compensation and Benefits:</b></td>
-          <td>Unnur Linda Konráðsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Legal Counsel :</b></td>
-+         <td width=325 align=right><b>Senior Legal Counsel:</b></td>
-          <td>Nick Kempton, Steinlaug Högnadóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Director Legal :</b></td>
-+         <td width=325 align=right><b>Senior Director Legal:</b></td>
-          <td>Jochen Kattoll</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Senior Office Manager :</b></td>
-+         <td width=325 align=right><b>Senior Office Manager:</b></td>
-          <td>Sigfríður Sigurðardóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Office Managers :</b></td>
--         <td>Michelle Lacey, Inga Björk Sveinbjörnsdóttir</td>
-+         <td width=325 align=right><b>Office Manager:</b></td>
-+         <td>Michelle Lacey, Inga Björk Sveinbjörnsdóttir, Lillian Yang</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Housing Facility Manager :</b></td>
-+         <td width=325 align=right><b>Office Administrator:</b></td>
-+         <td>Luke Thomas Roberts</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Housing Facility Manager:</b></td>
-          <td>Jón Bjarki Jónsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Business Admin Apprentice :</b></td>
-+         <td width=325 align=right><b>Business Admin Apprentice:</b></td>
-          <td>Effie Smith</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lead Travel Agent :</b></td>
--         <td>Signý Heiða Guðmundsdóttir</td>
-+         <td width=325 align=right><b>Lead Travel Agent:</b></td>
-+         <td>Signý Heiða Guðnadóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Travel &amp; Admin Specialists :</b></td>
--         <td>Arnheiður Rós Ásgeirsdóttir, Karolina Zebel</td>
-+         <td width=325 align=right><b>Admin Specialist:</b></td>
-+         <td>Arnheiður Rós Ásgeirsdóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Chef :</b></td>
-+         <td width=325 align=right><b>Travel &amp; Admin Specialist:</b></td>
-+         <td>Karolina Zebel</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Chef:</b></td>
-          <td>Vagn Leví Sigurðsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Sous Chefs :</b></td>
-+         <td width=325 align=right><b>Sous Chefs:</b></td>
-          <td>Monika Kinga Chruslicka, Svavar Berg Gunnarsson</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Assistant Sous Chef :</b></td>
-+         <td width=325 align=right><b>Assistant Sous Chef:</b></td>
-          <td>Hjördís Hólm Harðardóttir</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Assistant Cooks :</b></td>
--         <td>Natalia Popowska, Raj Jadhav</td>
-+         <td width=325 align=right><b>Assistant Cook:</b></td>
-+         <td>Andreea Cotorceanu, Natalia Popowska, Raj Jadhav</td>
-      </tr>
-  </table>
-  
-- <br>
-  <h3>Localization</h3>
-+ <hr>
-+ <h3>Altagram Group:</h3>
-  <hr>
-  <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Team Lead Localization Project Managers :</b></td>
-+         <td width=325 align=right><b>Team Lead Localization Project Managers:</b></td>
-          <td>Jonathan Aplin, Yasmin Babb</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Localization Project Managers :</b></td>
--         <td>Andreia Ruiz de la Sierra, Gabriella de Stefano, Marc McGowan, Marina Ramos Menéndez,
--             Mathilde Gribaudi, Sinan Özeltırtıl, Sofía Brenner Fernández</td>
-+         <td width=325 align=right><b>Localization Project Managers:</b></td>
-+         <td>Andreia Ruiz de la Sierra, Gabriella de Stefano, Marc McGowan, Marina Ramos Menéndez, Mathilde Gribaudi, Sinan Özeltırtıl, Sofía Brenner Fernández</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Localization Engineers :</b></td>
-+         <td width=325 align=right><b>Localization Engineers:</b></td>
-          <td>Antonio Manuel Beleño Rodríguez, Wolfgang Hoffmann-Schoenborn</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – French Editor :</b></td>
-+         <td width=325 align=right><b>French Editor:</b></td>
-          <td>Claire Lebossé</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – French Translators :</b></td>
--         <td>Adrien Ferrucci, Amaury Doaré, Amandine Obry, Baptiste Sorin, Catherine Gallo, Célia Lafage,
--             Claire Caro, Coraline Cerizay, Ellenita Gomez Ales, Emma Miiva Ducharne, Emma Prévost, Fabrice Maurel,
--             Karine Goldstein, Laly Dufossé, Léa Heyng, Manon Fauries, Margaux Lanfranchi, Nolwenn Gaudin,
--             Océane Gougeon, Ophélie Vielles, Romain Portelli, Sky Verhaaf, Thomas Partensky</td>
-+         <td width=325 align=right><b>French Translators:</b></td>
-+         <td>Adrien Ferrucci, Amaury Doaré, Amandine Obry, Baptiste Sorin, Catherine Gallo, Célia Lafage, Claire Caro, Coraline Cerizay, Ellenita Gomez Ales, Emma Miiva Ducharne, Emma Prévost, Fabrice Maurel, Karine Goldstein, Laly Dufossé, Léa Heyng, Manon Fauries, Margaux Lanfranchi, Nolwenn Gaudin, Océane Gougeon, Ophélie Vielles, Romain Portelli, Sky Verhaaf, Thomas Partensky</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Senior German Editor :</b></td>
-+         <td width=325 align=right><b>Senior German Editor:</b></td>
-          <td>Florian Descher</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Senior German Linguistic Editor :</b></td>
-+         <td width=325 align=right><b>Senior German Linguistic Editor:</b></td>
-          <td>Sandra Kohl</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – German Editors :</b></td>
-+         <td width=325 align=right><b>German Editors:</b></td>
-          <td>Sarah Ballhorn, Stephan Grabowski</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – German Translators :</b></td>
--         <td>Alexia Trensch, Andreas Gefken, Christopher Sinclair, Christian Hoffmann, Erik Eisenhauer,
--             Franziska Mahlert, Heiko Illi, Henrike Kupsch, Illka Wegner, Iris Schäfer, Jakob Semmer, Jenny Willett,
--             Juliane Lein, Julia Meter, Katharina Speelmans, Linda Geschwandtner, Lukas Katzmann, Martin Junge,
--             Marvin Ögüdücü, Meike Braun, Nele Katzwinkel, Nicole Adler, Nicole Thomer, Stefanie Seidel, Simon Dehne,
--             Tanja Ta Lam-Huong, Vanessa Tockner</td>
-+         <td width=325 align=right><b>German Translators:</b></td>
-+         <td>Alexia Trensch, Andreas Gefken, Christopher Sinclair, Christian Hoffmann, Erik Eisenhauer, Franziska Mahlert, Heiko Illi, Henrike Kupsch, Illka Wegner, Iris Schäfer, Jakob Semmer, Jenny Willett, Juliane Lein, Julia Meter, Katharina Speelmans, Linda Geschwandtner, Lukas Katzmann, Martin Junge, Marvin Ögüdücü, Meike Braun, Nele Katzwinkel, Nicole Adler, Nicole Thomer, Stefanie Seidel, Simon Dehne, Tanja Ta Lam-Huong, Vanessa Tockner</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Russian Localization Project Manager :</b></td>
-+         <td width=325 align=right><b>Russian Localization Project Manager:</b></td>
-          <td>Mike Kolbasnikov</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Russian Editors :</b></td>
-+         <td width=325 align=right><b>Russian Editors:</b></td>
-          <td>Anna Noskova, Anton Sherstnev, Oleg Utkin, Anastasiya Vasilyeva</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Russian Proofreader :</b></td>
-+         <td width=325 align=right><b>Russian Proofreader:</b></td>
-          <td>Yuliya Soboleva</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Altagram Group – Russian Translators :</b></td>
--         <td>Alexandr Cosarnii, Alexandra Frolova, Alexandra Kanevski, Anna Tuntiya, Georgy Kopylov,
--             Karina Avenesova, Mikhail Kondrashev, Svetlana Gribeauval, Vadim Bogomolov, Yan Bogomolov</td>
-+         <td width=325 align=right><b>Russian Translators:</b></td>
-+         <td>Alexandr Cosarnii, Alexandra Frolova, Alexandra Kanevski, Anna Tuntiya, Georgy Kopylov, Karina Avenesova, Mikhail Kondrashev, Svetlana Gribeauval, Vadim Bogomolov, Yan Bogomolov</td>
-      </tr>
-+ </table>
-  
-+ <h3>Keywords Studios:</h3>
-+ <hr>
-+ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Localization Service Line Director :</b></td>
-+         <td width=325 align=right><b>Localization Service Line Director:</b></td>
-          <td>Romina Franceschina</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Text Localization Head of Division :</b></td>
-+         <td width=325 align=right><b>Text Localization Head of Division:</b></td>
-          <td>Montse García</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Global Service Line Manager :</b></td>
-+         <td width=325 align=right><b>Global Service Line Manager:</b></td>
-          <td>Anthony Tamburro</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Localization Managers :</b></td>
-+         <td width=325 align=right><b>Senior Project Manager:</b></td>
-+         <td>Amy Durkan</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Localization Manager:</b></td>
-          <td>Andrés Pujazón, Cristina Pérez Martín, Greg Messmer</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Localization Project Managers :</b></td>
-+         <td width=325 align=right><b>Localization Project Managers:</b></td>
-          <td>Gea Palau Roig, Mehmet Ozgur Caylak, Natalia García Guerrero, Paul Rudd</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Spanish Translators :</b></td>
--         <td>Amaia López Arrazola, Ana Ibáñez, Florencia Romero Gonzalo, Inés Cendón Rodríguez,
--             Ismael Fernández, Judith Rodríguez Vallverdú, Maria Rosich Andreu, Melanie Martí Marí, Paula Salguero Soto,
--             Pedro Hurtado Ruiz, Robert Falcó, Sergio Valeriano Vindel, Sonia Alonso Santos, Teresa Jarrín Rodríguez,
--             Virginia Sagarra García</td>
-+         <td width=325 align=right><b>Spanish Translators:</b></td>
-+         <td>Amaia López Arrazola, Ana Ibáñez, Florencia Romero Gonzalo, Inés Cendón Rodríguez, Ismael Fernández, Judith Rodríguez Vallverdú, Maria Rosich Andreu, Melanie Martí Marí, Paula Salguero Soto, Pedro Hurtado Ruiz, Robert Falcó, Sergio Valeriano Vindel, Sonia Alonso Santos, Teresa Jarrín Rodríguez, Virginia Sagarra García</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Spanish Reviewers :</b></td>
--         <td>Cristina Pérez Cerezo, Daniel Antón Martínez, Jesús Álvarez Sánchez, José Prieto,
--             Luismi García Ramírez, Paula Osorio Pomares, Rafa Ferrer, Rebeca Reinosa, Sara Jiménez García,
--             Sebastián Sorroche Jurado, Silvia Ferrero</td>
-+         <td width=325 align=right><b>Spanish Reviewers:</b></td>
-+         <td>Cristina Pérez Cerezo, Daniel Antón Martínez, Jesús Álvarez Sánchez, José Prieto, Luismi García Ramírez, Paula Osorio Pomares, Rafa Ferrer, Rebeca Reinosa, Sara Jiménez García, Sebastián Sorroche Jurado, Silvia Ferrero</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Japanese Project Manager :</b></td>
-+         <td width=325 align=right><b>Japanese Project Manager:</b></td>
-          <td>Izumi Hiramoto</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Japanese Translators :</b></td>
-+         <td width=325 align=right><b>Japanese Translators:</b></td>
-          <td>Hiroshi Moroi, Kento Yagi, Ko Uchiyama, Ryosuke Okuyama, Ryunosuke Morohara</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Keywords Studios – Japanese Reviewers :</b></td>
-+         <td width=325 align=right><b>Japanese Reviewers:</b></td>
-          <td>Asumi Terasawa, Satsuki Ando, Yasushi Kohama, Yoshiko Enderlin</td>
-      </tr>
-+ </table>
-  
-+ <h3>Player Research - A Keywords Studio:</h3>
-+ <hr>
-+ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>2bytes – Team Leads :</b></td>
-+         <td width=325 align=right><b>Director:</b></td>
-+         <td>Sebastian Long</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>People Manager:</b></td>
-+         <td>Nicola Godfrey</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Head of Research Craft:</b></td>
-+         <td>Rui Craveirinha</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Market Research Project Director:</b></td>
-+         <td>Amy Durkan</td>
-+     </tr>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Games User Researcher:</b></td>
-+         <td>Chloe Jian, Elly Cockcroft, Jonathan Venne, Megane Lacroix</td>
-+     </tr>
-+ </table>
-+ 
-+ <h3>2bytes:</h3>
-+ <hr>
-+ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-+     <tr VALIGN="top">
-+         <td width=325 align=right><b>Team Lead:</b></td>
-          <td>John Kim, Michael Choi</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>2bytes – Translators :</b></td>
-+         <td width=325 align=right><b>Translators:</b></td>
-          <td>Harrison Won, Hyun-min Kim</td>
-      </tr>
-+ </table>
-  
-+ <h3>Lionbridge</h3>
-+ <hr>
-+ <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lionbridge – Localization Project Managers :</b></td>
--         <td>Enrique García Treviño, Iina Sainio, Kailin Chen, Pablo Torregrosa Parra, Thomas Buck,
--             Víctor Agenjo Sánchez</td>
-+         <td width=325 align=right><b>Localization Project Managers:</b></td>
-+         <td>Enrique García Treviño, Iina Sainio, Kailin Chen, Pablo Torregrosa Parra, Thomas Buck, Víctor Agenjo Sánchez</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lionbridge – Translators :</b></td>
--         <td>Danny Hu, Li Run'er, Yu Hanbo, Ying Ye</td>
-+         <td width=325 align=right><b>Translators:</b></td>
-+         <td>Danny Hu, Li Run&#x27;er, Yu Hanbo, Ying Ye</td>
-      </tr>
-      <tr VALIGN="top">
--         <td width=325 align=right><b>Lionbridge – Reviewers :</b></td>
-+         <td width=325 align=right><b>Reviewers:</b></td>
-          <td>Chen Jueyu, Liu Lin, Zhou Yuchun</td>
-      </tr>
-  </table>
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 78289 · Translation Modified
 
 EN
@@ -102394,36 +101857,6 @@ JA
 - バージョン:{version}。{[numeric]build}
 + バージョン:{version}.{[numeric]build}
 ```
-
-
-
-
-### MessageID: 82056 · Source Modified
-
-EN
-
-```diff
-- A Baalgorn piloted by an agent.
-+ A Bhaalgorn piloted by an agent.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 82057 · Source Modified
-
-EN
-
-```diff
-- A Baalgorn piloted by an agent.
-+ A Bhaalgorn piloted by an agent.
-```
-
-
-IT: *empty*
 
 
 
@@ -102462,141 +101895,6 @@ ZH
 - 莱维石是一种相对稀有的矿石，在某些方面与克尔尼特矿石非常相似。拉尔乏水硼砂是一种相对较[…]
 + 拉尔乏水硼砂是一种相对稀有的矿石，在某些方面与克尔尼特矿石非常相似。拉尔乏水硼砂是一种相对较[…]
 ```
-
-
-
-
-### MessageID: 86887 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86888 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86889 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86890 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86891 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86892 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86893 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 86894 · Source Modified
-
-EN
-
-```diff
-- […]w areas, such as interstellar gas clouds within high security space.
-+ […]w areas, such as interstellar gas clouds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 87029 · Source Modified
-
-EN
-
-```diff
-- […] low orbit for collection by starships.  These containers will burn up within a f[…]
-+ […] low orbit for collection by starships. These containers will burn up within a f[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -102654,28 +101952,6 @@ ZH
 - 研究更高效生产方法的技能。每升一级，蓝图时间效率研究的速度提升5%。
 + 擅长研究更高效的生产方法。蓝图制造时间研究减少5%。
 ```
-
-
-
-
-### MessageID: 87925 · Source Modified
-
-EN
-
-```diff
-- Skill and knowledge of Hydromagnetic Physics and its use in the development of advanced technology . 
-+ Skill and knowledge of Hydromagnetic Physics and its use in the development of advanced technology. 
-  
-- Used primarily in the research of shield system.
-+ Used primarily in the research of shield systems.
-  
-  Allows Hydromagnetic Physics research to be performed with the help of a research agent. 
-  
-  Needed for all research and manufacturing operations on related blueprints. 1% reduction in manufacturing time for all items requiring Hydromagnetic Physics per level.
-```
-
-
-IT: *empty*
 
 
 
@@ -105320,25 +104596,6 @@ ZH
 
 
 
-### MessageID: 93930 · Source Modified
-
-EN
-
-```diff
-  The Chimera's design is based upon the Kairiola, a vessel holding tremendous historical significance for the Caldari. Initially a water freighter, the Kairiola was refitted in the days of the Gallente-Caldari war to act as a fighter carrier during the orbital bombardment of Caldari Prime. 
-  
-- It was most famously flown by the legendary Admiral Yakia Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
-+ It was most famously flown by the legendary Admiral Yakiya Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
-  
-  The Chimera is capable of generating a <a href=showinfo:83094>Jump Conduit Portal</a> which allows it to instantaneously transport itself and nearby fleet members to a target cynosural beacon. Ship classes that can be moved via conduit: Frigates, Destroyers, Cruisers, Battlecruisers, and Battleships.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 94903 · Translation Modified
 
 EN
@@ -105371,75 +104628,6 @@ EN
 ```
 
 
-DE
-
-```text
-<font color=E3170D size = 13>Willkommen in Khodesa, dem Hauptausbildungslager für Weltraummilitär in Chanoun. Alle Besucher haben den Sicherheitsaußenposten in diesem Komplex <b>fernzubleiben</b>. Nichtbeachtung dieser einfachen Vorschrift hat die sofortige Zerstörung Ihres Raumschiffs zur Folge. Schönen Tag noch.</font>
-```
-
-
-ES
-
-```text
-<font color=E3170D size = 13>Te damos la bienvenida a Khodesa, el principal campo de entrenamiento espacial y militar de Chanoun. Todos los visitantes deben mantenerse <b>alejados</b> de los puestos avanzados de seguridad dentro de este complejo. El incumplimiento de esta regla provocará la destrucción inmediata de tu nave espacial. Que tengas un buen día.</font>
-```
-
-
-FR
-
-```text
-<font color=E3170D size = 13>Bienvenue à Khodesa, le camp d'entraînement militaire spatial principal de Chanoun. Aucun visiteur n'est autorisé à <b>s'approcher</b> des avant-postes de sécurité situés à l'intérieur du complexe. Tout contrevenant sera immédiatement abattu. Passez une bonne journée.</font>
-```
-
-
-JA
-
-```text
-<font color=E3170D size = 13>コーデサへようこそ。ここは、シャヌーン最大の宇宙軍事訓練所だ。全ての訪問者は、施設内のセキュリティアウトポストに<b>近づかない</b>ように。この単純なルールが守れない者の宇宙船は、即座に破壊されてしまうからな。では、よい一日を。</font>
-```
-
-
-KO
-
-```text
-<font color=E3170D size = 13>차눈의 최고 군사훈련지인 코데사에 온 것을 환영합니다. 모든 방문객은 시설 내의 보안기지로의 접근이 금지되어 있음을 알립니다. 단순한 규칙이지만 이를 어길시 즉각적인 발포가 있을 것입니다. 좋은 하루 되시길 바랍니다.
-```
-
-
-RU
-
-```text
-<font color=E3170D size = 13>Добро пожаловать в Ходесу — главный военно-космический учебный лагерь Чануна. Всем посетителям <b>запрещено приближаться</b> к защитным форпостам на территории комплекса. Нарушение этого простого правила ведет к немедленному уничтожению вашего космического судна. Хорошего дня!</font>
-```
-
-
-ZH
-
-```text
-<font color=E3170D size = 13>欢迎来到查浓的初级空间军事训练营——格德萨。所有访客都<b>必须远离</b>这个复合体内的安全哨站。如果违反这条简单的规定，你的飞船被立即摧毁。祝你愉快。</font>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 95672 · Source Modified
-
-EN
-
-```diff
-- <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P>
-+ <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P><br>
-  <P>Recently, Lord Methros hired the Blood Raider Covenant to gain the upper hand in combating Lord Arachnan for supremacy in the region. As could be expected, he lost control of the pirates before long, and now they run their own operations from this old Amarrian bastion.</P>
-  
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 95817 · Source Modified
@@ -105450,58 +104638,6 @@ EN
 - […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
 + […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
 ```
-
-
-DE
-
-```text
-Forschungsreisende haben angemerkt, dass eines der Tore einen Zugangsschlüssel erfordert. Ersatzweise kann man mit dem Sicherheitssystem der Kapelle hantieren, um das Tor zu passieren. Der Aufseher bewacht die Kampfstation energisch.
-```
-
-
-ES
-
-```text
-Anteriores exploradores comentaron que uno de los portales requiere una clave de acceso. Si se quiere evitar este paso, se puede desbloquear interfiriendo en los controles del sistema de seguridad dentro de la capilla. El vigilante sabe proteger su estación de combate.
-```
-
-
-FR
-
-```text
-Les explorateurs précédents ont dit qu'il fallait une carte d'accès pour ouvrir un des portails.  Il est également possible de le contourner en bricolant les commandes du système de sécurité de la chapelle. Le surveillant monte une garde stricte sur la station de combat.
-```
-
-
-JA
-
-```text
-前回調査団からの申し送りによると、ゲートの一つはマスターキーを必要とする。またマスターキーの代わりに礼拝堂内のセキュリティシステムをいじれば開くとも聞いている。ただし、監督者がバトルステーションを固く守っている。
-```
-
-
-KO
-
-```text
-잠겨있는 게이트를 활성화하려면 출입키가 필요합니다. 출입키를 구하는 대신 예배당의 보안 시스템을 해킹하여 구역을 개방할 수 있습니다. 오버시어는 현재 전투정거장을 중점적으로 방어하고 있습니다.
-```
-
-
-RU
-
-```text
-Предыдущие исследователи отмечали, что для того, чтобы открыть одни из врат, нужен специальный ключ. Как вариант, можно вмешаться в управление системой безопасности в Часовне. Смотритель тщательно охраняет боевую станцию.
-```
-
-
-ZH
-
-```text
-先前的探险者说过，其中一座轨道需要通行钥匙。不过还有另一种方法，我们可以破坏礼拜堂内的安全系统从而绕过通行检测。监察官积极守卫着战役空间站。
-```
-
-
-IT: *empty*
 
 
 
@@ -105516,58 +104652,6 @@ EN
 ```
 
 
-DE
-
-```text
-Entdeckungsreisende haben angemerkt, dass eines der Tore einen Zugangsschlüssel erfordert. Ersatzweise kann man an dem Sicherheitsturm herumpfuschen, um das Tor zu passieren.
-```
-
-
-ES
-
-```text
-Anteriores exploradores comentaron que uno de los portales requiere una clave de acceso. Si se quiere evitar este paso, se puede desbloquear interfiriendo en la torre de seguridad.
-```
-
-
-FR
-
-```text
-Les explorateurs précédents ont dit qu'il fallait une carte d'accès pour ouvrir un des portails.  Il est également possible de le contourner en bricolant la tour de sécurité.
-```
-
-
-JA
-
-```text
-前回調査団からの申し送りによると、ゲートの一つはマスターキーを必要とする。セキュリティタワーに干渉することでも突破できるようだが。
-```
-
-
-KO
-
-```text
-잠겨있는 게이트를 활성화하려면 출입키가 필요합니다. 출입키를 구하는 대신 경비타워를 해킹하여 구역을 개방할 수 있습니다.
-```
-
-
-RU
-
-```text
-Предыдущие исследователи отмечали, что для того, чтобы открыть одни из врат, нужен специальный ключ. Как вариант, можно проникнуть в Башню Безопасности.
-```
-
-
-ZH
-
-```text
-先前的探险者说过，其中一座轨道需要通行钥匙。另一种方法是，我们可以破坏安全塔以绕过通行检测。
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 95860 · Source Modified
@@ -105580,58 +104664,6 @@ EN
 ```
 
 
-DE
-
-```text
-Entdeckungsreisende haben angemerkt, dass eines der Tore einen Zugangsschlüssel erfordert. Ersatzweise kann man im Sicherheitssystem in der Blood Raider-Kapelle herumpfuschen, um das Tor zu passieren. Der Aufseher bewacht die Kampfstation energisch.
-```
-
-
-ES
-
-```text
-Anteriores exploradores comentaron que uno de los portales requiere una clave de acceso. Si se quiere evitar este paso, se puede desbloquear interfiriendo en los controles del sistema de seguridad dentro de la capilla de los Sanguinarios. El vigilante sabe proteger su estación de combate.
-```
-
-
-FR
-
-```text
-Les explorateurs précédents ont dit qu'il fallait une carte d'accès pour ouvrir un des portails.  Il est également possible de le contourner en bricolant le système de sécurité de la chapelle blood raider. Le surveillant monte une garde stricte sur la station de combat.
-```
-
-
-JA
-
-```text
-前回調査団からの申し送りによると、ゲートの一つはマスターキーを必要とする。またマスターキーの代わりにブラッドレイダー礼拝堂内のセキュリティシステムをいじれば開くとも聞いている。ただし、監督者がバトルステーションを固く守っている。
-```
-
-
-KO
-
-```text
-잠겨있는 게이트를 활성화하려면 출입키가 필요합니다. 출입키를 구하는 대신 블러드 레이더 예배당의 보안 시스템을 해킹하여 구역을 개방할 수 있습니다. 오버시어는 전투정거장을 중점적으로 방어합니다.
-```
-
-
-RU
-
-```text
-Предыдущие исследователи отмечали, что для того, чтобы открыть одни из врат, нужен специальный ключ. Другой вариант - взломать систему безопасности в часовне Blood Raider. Смотритель ревностно охраняет боевую станцию.
-```
-
-
-ZH
-
-```text
-先前的探险者说过，其中一座轨道需要通行钥匙。不过还有另一种方法，我们可以破坏血袭者礼拜堂内的安全系统从而绕过通行检测。监察官积极守卫着战役空间站。
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 95863 · Source Modified
@@ -105642,195 +104674,6 @@ EN
 - […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
 + […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
 ```
-
-
-DE
-
-```text
-Entdeckungsreisende haben angemerkt, dass eines der Tore einen Zugangsschlüssel erfordert. Ersatzweise kann man auch am Sicherheitsturm herumpfuschen, um das Tor zu passieren.
-```
-
-
-ES
-
-```text
-Anteriores exploradores comentaron que uno de los portales requiere una clave de acceso. Si se quiere evitar este paso, se puede desbloquear interfiriendo en la torre de seguridad.
-```
-
-
-FR
-
-```text
-Les explorateurs précédents ont dit qu'il fallait une carte d'accès pour ouvrir un des portails.  Il est également possible de le contourner en bricolant la tour de sécurité. 
-```
-
-
-JA
-
-```text
- 前回調査団からの申し送りによると、ゲートの一つはマスターキーを必要とする。セキュリティタワーに干渉することでも突破できるようだが。
-```
-
-
-KO
-
-```text
-잠겨있는 게이트를 활성화하려면 출입키가 필요합니다. 출입키를 구하는 대신 경비타워를 해킹하여 구역을 개방할 수 있습니다. 
-```
-
-
-RU
-
-```text
- Предыдущие исследователи отмечали, что для того, чтобы открыть одни из врат, нужен специальный ключ. Как вариант, можно проникнуть в Башню Безопасности.
-```
-
-
-ZH
-
-```text
-先前的探险者说过，其中一座轨道需要通行钥匙。另一种方法是，我们可以破坏安全塔以绕过通行检测。
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96031 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
-+ […]material into the much valued boosters. Be warned that the Angels will not respo[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96032 · Source Modified
-
-EN
-
-```diff
-- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
-+ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96033 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
-+ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96034 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Sansha will not respo[…]
-+ […]material into the much valued boosters. Be warned that the Sansha will not respo[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96035 · Source Modified
-
-EN
-
-```diff
-- […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
-+ […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96036 · Source Modified
-
-EN
-
-```diff
-- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
-+ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96037 · Source Modified
-
-EN
-
-```diff
-- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
-+ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96038 · Source Modified
-
-EN
-
-```diff
-- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
-+ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 96434 · Source Modified
-
-EN
-
-```diff
-  Astrophysicists studying Sleeper sites have noted that some Sleeper structures are still operational – and by design, no less. Outposts run basic life support systems, engineering stations buzz with running motors, and stations glimmer with light, energy, and mundane activity. No known reason exists for this persistent operation, but a few clues emerge.
-- <br><br>
-+ <br>
-  This cluster of thermoelectric converters is common around large solar bodies, supposedly for collecting radiation and storing energy for use throughout Sleeper colonies: a persistent generator for a dead race. Even to this day, this structure is operational, although how it distributes its energy and for what purpose is still unknown.
-```
-
-
-IT: *empty*
 
 
 
@@ -106382,24 +105225,6 @@ ZH
 - 民用扩充货柜舱蓝图
 + 联合矿业扩充货柜舱蓝图
 ```
-
-
-
-
-### MessageID: 99473 · Source Modified
-
-EN
-
-```diff
-- Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P>
-- <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P>
-+ Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P><br>
-+ <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P><br>
-  Surveillance mission 3498D-2K: Amazingly, just after the final blow-out of the station we caught some emergency transmissions from within it. Warp sequence was already initated so we could not investigate further, but we advise sending another recon as soon as possible.
-```
-
-
-IT: *empty*
 
 
 
@@ -107008,51 +105833,6 @@ ZH
 - 旗舰级辅助纳米聚合器蓝图 I
 + 超级辅助纳米聚合器 I
 ```
-
-
-
-
-### MessageID: 100341 · Source Modified
-
-EN
-
-```diff
-- Hardwiring - Zainou 'Sharpshooter' ZMX100
-+ Zainou 'Snapshot' XL Torpedoes XT-603
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 100342 · Source Modified
-
-EN
-
-```diff
-- Hardwiring - Zainou 'Sharpshooter' ZMX1000
-+ Zainou 'Snapshot' XL Torpedoes XT-605
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 100343 · Source Modified
-
-EN
-
-```diff
-- Hardwiring - Zainou 'Sharpshooter' ZMX10
-+ Zainou 'Snapshot' XL Torpedoes XT-601
-```
-
-
-IT: *empty*
 
 
 
@@ -125392,51 +124172,6 @@ ZH
 
 
 
-### MessageID: 104794 · Source Modified
-
-EN
-
-```diff
-- Hardwiring - Zainou 'Sharpshooter' ZMX11
-+ Zainou 'Snapshot' XL Torpedoes XT-602
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 104795 · Source Modified
-
-EN
-
-```diff
-- Hardwiring - Zainou 'Sharpshooter' ZMX110
-+ Zainou 'Snapshot' XL Torpedoes XT-604
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 104796 · Source Modified
-
-EN
-
-```diff
-- Hardwiring - Zainou 'Sharpshooter' ZMX1100
-+ Zainou 'Snapshot' XL Torpedoes XT-606
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 104899 · Translation Modified
 
 EN
@@ -125646,21 +124381,6 @@ ZH
 
 
 
-### MessageID: 115123 · Source Modified
-
-EN
-
-```diff
-- […]roy the Outer Keep and steal the ancestreal armor of House Arachnan. Return with […]
-+ […]roy the Outer Keep and steal the ancestral armor of House Arachnan. Return with […]
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 115551 · Source Modified
 
 EN
@@ -125669,73 +124389,6 @@ EN
 - Find the transportship and destroy it, capture the workers[…]
 + Find the transport ship and destroy it, capture the workers[…]
 ```
-
-
-DE
-
-```text
-Finden und zerstören Sie den Transporter und nehmen Sie die Arbeiter gefangen
-```
-
-
-ES
-
-```text
-Encuentra la nave de transporte, destrúyela y captura a los trabajadores.
-```
-
-
-FR
-
-```text
-Trouvez le vaisseau de transport, détruisez-le et capturez les ouvriers.
-```
-
-
-JA
-
-```text
-トランスポートシップを見つけて破壊し、作業者を捕獲しろ。
-```
-
-
-KO
-
-```text
-수송선을 파괴하고 일꾼들을 생포하십시오.
-```
-
-
-RU
-
-```text
-Обнаружьте транспортное судно и уничтожьте его; захватите рабочих.
-```
-
-
-ZH
-
-```text
-找到运输船并摧毁它，捕获所有工人。
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 124485 · Source Modified
-
-EN
-
-```diff
-- Good work — you´re done. Report back to me. 
-+ Good work — you're done. Report back to me. 
-```
-
-
-IT: *empty*
 
 
 
@@ -125887,65 +124540,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieses Mal habe ich für Sie einen Auftrag, den ich nicht jedem Beliebigen anvertraut hätte. Ich weiß, dass ich Ihnen vertrauen kann, das haben Ihre treuen Dienste mir gegenüber in der Vergangenheit bewiesen. Um es kurz zu machen: Ich will, dass ein Schiff zerstört wird. Aber es gibt da ein "kleines" Problem, das ich Ihnen nicht vorenthalten möchte. Wissen Sie, dieses Schiff ist nicht einfach irgendein altes Piratenschiff. Es befördert einen hochrangigen Beamten von {[npcOrganization]agentCorpID.
-(truncated, 2,036 chars total)
-```
-
-
-ES
-
-```text
-Tengo entre manos un trabajo para ti que no podría asignar a cualquiera. Sé que puedo confiar en ti, dado el fiel servicio que me has prestado en el pasado. Resumiendo, necesito destruir una nave. Pero hay un «pequeño» problema, que ahora te explicaré. Verás, no se trata de una vieja nave pirata, sino de una que cuenta con un oficial de alto rango en el seno de {[npcOrganization]agentCorpID.name}, que resulta que también es miembro del Gobierno de {[npcOrganization]agentFactionID.name}. No es un
-(truncated, 1,754 chars total)
-```
-
-
-FR
-
-```text
-Cette fois, j'ai un travail pour vous que je n'aurais pas donné à n'importe qui.  Je sais que je peux vous faire confiance, vos loyaux services par le passé m'en ont donné la preuve.  Maintenant pour faire court, je veux que vous détruisiez un vaisseau.  Mais il y a un léger problème, que je vais vous expliquer.  Il ne s'agit pas de n'importe quel vieux vaisseau pirate. Celui-là transporte un officiel de haut rang {[npcOrganization]agentCorpID.genitiveName}, qui se trouve également être membre d
-(truncated, 1,957 chars total)
-```
-
-
-JA
-
-```text
-君に仕事がある。誰にでも任せられる代物ではないぞ。だが、君なら信用できる。今までの実績を見れば間違いない。手短に言うと、ある船を撃墜して欲しいのだ。ところが「ほんの少し」厄介な問題がある。話しておこう。そう、この船はそこらのオンボロ海賊船とはわけが違う。乗っているのは{[npcOrganization]agentCorpID.name}の高官、しかも{[npcOrganization]agentFactionID.name}政府の閣僚ときた。これは救出ミッションではない。撃墜ミッションだ。だが心配するな。このミッションは完全に極秘だ。興味があるなら詳しく説明しよう。だがやる気がないなら、この話は聞かなかったことにしてくれ。ターゲットはかなり手強いと思ってくれ。自由にできる強力な戦艦がないようなら、やめておいた方がいい。戦艦を持つ友達に頼れるようなら、それもよい。<br><br>撃墜してほしい船は、ガリスタスの使者の戦艦だ。始末せねばならん人物が、ガリスタスの連絡員との秘密の合流場所として使用している船だ。やつの所有する船も近くにあるはずだ。会談中は、もぬけの殻かもしれないがな。この船も
-(truncated, 724 chars total)
-```
-
-
-KO
-
-```text
-이번에는 당신에게만 부탁드릴 일이 하나 있습니다. 절대로 아무에게나 부탁하지 않을 일이에요. 그동안 당신이 보여준 의리를 생각하면 당신은 믿을 수 있거든요. 본론부터 짧게 이야기하자면 어떤 함선을 하나 박살 내야 해요. 그런데 '아주 작은' 문제가 하나 있는데, 그걸 지금 설명 드릴게요. 이 함선이라는 게 그저 그런 오래된 해적 함선이 아니라, {[npcOrganization]agentCorpID.name}의 고위 장교이자 {[npcOrganization]agentFactionID.name} 정부 공무원이기도 한 사람이 타 있는 함선이라서요. 다시 말씀드리지만, 이 미션은 구조 미션이 아니라 파괴 미션입니다. 하지만 걱정 마세요, 철저히 비밀에 부쳐질 테니까요. 관심 있으시다면 자세한 정보를 드리도록 하죠. 그게 아니라면 이 대화는 없던 일로 합시다. 일단 명심할 점은 이번 미션의 표적이 아주 강력하다는 거예요. 그러니 충분히 자유롭게 부릴 수 있는 강력한 전투함이나 든든한 친구가 
-(truncated, 982 chars total)
-```
-
-
-RU
-
-```text
-На этот раз у меня есть работа для вас, которую я не поручил бы никому другому. Я знаю, что могу доверять вам, ваша верная служба в прошлом доказала это. В двух словах — мне нужно уничтожить корабль. Но есть «небольшая» проблема, о которой я сейчас расскажу.  Это не просто старый пиратский корабль; на его борту находится руководитель высокого ранга {[npcOrganization]agentCorpID.name}, который также является членом правительства {[npcOrganization]agentFactionID.name}. Это не спасательная миссия, 
-(truncated, 1,616 chars total)
-```
-
-
-ZH
-
-```text
-我这次的任务不能随随便便给任何人，我打算把它给你。我知道可以信任你，你过去的忠心效力已经证明了这一点。现在长话短说，我要你摧毁一艘飞船。但我还得说一个“小”问题。这艘飞船不是以前任务中的海盗船，它里面载着位{[npcOrganization]agentCorpID.name}的高层官员，而且他恰好也是{[npcOrganization]agentFactionID.name}政府的成员。这不是项营救任务，而是次索命行动。不过别担心，这次行动是完全机密的。如果你有兴趣，我会告诉你更多细节，否则就当这次谈话从没发生过。你要注意，目标非常强大，除非你有一艘威力惊人的战舰或者有朋友的帮助，否则不要轻举妄动。<br><br>你要摧毁的飞船实际上是艘古斯塔斯使船，这艘飞船是目标及其古斯塔斯联络人的秘密会面场所。你可能会在附近发现他自己的飞船，上面有没有人不能肯定。你必须也把这艘飞船摧毁，目标是否在里面并不重要，关键是要使他看起来像是遭海盗伏击而亡。把附近的所有人都解决掉，一个漏网之鱼也不能留。我希望自己都说清楚了。<br><br>哦，请注意，你可以保留在飞船残骸里找到的任何东西，那些对我们不重要。
-(truncated, 553 chars total)
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 130104 · Source Modified
@@ -125956,65 +124550,6 @@ EN
 - […] And take care of anyone else nearby, noone may escape.  I hope I have made mysel[…]
 + […] And take care of anyone else nearby, none may escape.  I hope I have made mysel[…]
 ```
-
-
-DE
-
-```text
-Dieses Mal habe ich für Sie einen Auftrag, den ich nicht jedem Beliebigen anvertraut hätte. Ich weiß, dass ich Ihnen vertrauen kann, das haben Ihre treuen Dienste mir gegenüber in der Vergangenheit bewiesen. Um es kurz zu machen: Ich will, dass ein Schiff zerstört wird. Aber es gibt da ein "kleines" Problem, das ich Ihnen nicht vorenthalten möchte. Wissen Sie, dieses Schiff ist nicht einfach irgendein altes Piratenschiff. Es befördert einen hochrangigen Beamten von {[npcOrganization]agentCorpID.
-(truncated, 2,036 chars total)
-```
-
-
-ES
-
-```text
-Tengo entre manos un trabajo para ti que no podría asignar a cualquiera. Sé que puedo confiar en ti, dado el fiel servicio que me has prestado en el pasado. Resumiendo, necesito destruir una nave. Pero hay un «pequeño» problema, que ahora te explicaré. Verás, no se trata de una vieja nave pirata, sino de una que cuenta con un oficial de alto rango en el seno de {[npcOrganization]agentCorpID.name}, que resulta que también es miembro del Gobierno de {[npcOrganization]agentFactionID.name}. No es un
-(truncated, 1,754 chars total)
-```
-
-
-FR
-
-```text
-Cette fois, j'ai un travail pour vous que je n'aurais pas donné à n'importe qui.  Je sais que je peux vous faire confiance, vos loyaux services par le passé m'en ont donné la preuve.  Maintenant pour faire court, je veux que vous détruisiez un vaisseau.  Mais il y a un léger problème, que je vais vous expliquer.  Il ne s'agit pas de n'importe quel vieux vaisseau pirate. Celui-là transporte un officiel de haut rang {[npcOrganization]agentCorpID.genitiveName}, qui se trouve également être membre d
-(truncated, 1,957 chars total)
-```
-
-
-JA
-
-```text
-君に仕事がある。誰にでも任せられる代物ではないぞ。だが、君なら信用できる。今までの実績を見れば間違いない。手短に言うと、ある船を撃墜して欲しいのだ。ところが「ほんの少し」厄介な問題がある。話しておこう。そう、この船はそこらのオンボロ海賊船とはわけが違う。乗っているのは{[npcOrganization]agentCorpID.name}の高官、しかも{[npcOrganization]agentFactionID.name}政府の閣僚ときた。これは救出ミッションではない。撃墜ミッションだ。だが心配するな。このミッションは完全に極秘だ。興味があるなら詳しく説明しよう。だがやる気がないなら、この話は聞かなかったことにしてくれ。ターゲットはかなり手強いと思ってくれ。自由にできる強力な戦艦がないようなら、やめておいた方がいい。戦艦を持つ友達に頼れるようなら、それもよい。<br><br>撃墜してほしい船は、ガリスタスの使者の戦艦だ。始末せねばならん人物が、ガリスタスの連絡員との秘密の合流場所として使用している船だ。やつの所有する船も近くにあるはずだ。会談中は、もぬけの殻かもしれないがな。この船も
-(truncated, 724 chars total)
-```
-
-
-KO
-
-```text
-이번에는 당신에게만 부탁드릴 일이 하나 있습니다. 절대로 아무에게나 부탁하지 않을 일이에요. 그동안 당신이 보여준 의리를 생각하면 당신은 믿을 수 있거든요. 본론부터 짧게 이야기하자면 어떤 함선을 하나 박살 내야 해요. 그런데 '아주 작은' 문제가 하나 있는데, 그걸 지금 설명 드릴게요. 이 함선이라는 게 그저 그런 오래된 해적 함선이 아니라, {[npcOrganization]agentCorpID.name}의 고위 장교이자 {[npcOrganization]agentFactionID.name} 정부 공무원이기도 한 사람이 타 있는 함선이라서요. 다시 말씀드리지만, 이 미션은 구조 미션이 아니라 파괴 미션입니다. 하지만 걱정 마세요, 철저히 비밀에 부쳐질 테니까요. 관심 있으시다면 자세한 정보를 드리도록 하죠. 그게 아니라면 이 대화는 없던 일로 합시다. 일단 명심할 점은 이번 미션의 표적이 아주 강력하다는 거예요. 그러니 충분히 자유롭게 부릴 수 있는 강력한 전투함이나 든든한 친구가 
-(truncated, 982 chars total)
-```
-
-
-RU
-
-```text
-На этот раз у меня есть работа для вас, которую я не поручил бы никому другому. Я знаю, что могу доверять вам, ваша верная служба в прошлом доказала это. В двух словах — мне нужно уничтожить корабль. Но есть «небольшая» проблема, о которой я сейчас расскажу.  Это не просто старый пиратский корабль; на его борту находится руководитель высокого ранга {[npcOrganization]agentCorpID.name}, который также является членом правительства {[npcOrganization]agentFactionID.name}. Это не спасательная миссия, 
-(truncated, 1,615 chars total)
-```
-
-
-ZH
-
-```text
-我这次的任务不能随随便便给任何人，我打算把它给你。我知道可以信任你，你过去的忠心效力已经证明了这一点。现在长话短说，我要你摧毁一艘飞船。但我还得说一个“小”问题。这艘飞船不是以前任务中的海盗船，它里面载着位{[npcOrganization]agentCorpID.name}的高层官员，而且他恰好也是{[npcOrganization]agentFactionID.name}政府的成员。这不是项营救任务，而是次索命行动。不过别担心，这次行动是完全机密的。如果你有兴趣，我会告诉你更多细节，否则就当这次谈话从没发生过。你要注意，目标非常强大，除非你有一艘威力惊人的战舰或者有朋友的帮助，否则不要轻举妄动。<br><br>你要摧毁的飞船实际上是艘古斯塔斯使船，这艘飞船是目标及其古斯塔斯联络人的秘密会面场所。你可能会在附近发现他自己的飞船，上面有没有人不能肯定。你必须也把这艘飞船摧毁，目标是否在里面并不重要，关键是要使他看起来像是遭海盗伏击而亡。把附近的所有人都解决掉，一个漏网之鱼也不能留。我希望自己都说清楚了。<br><br>哦，请注意，你可以保留在飞船残骸里找到的任何东西，那些对我们不重要。
-(truncated, 553 chars total)
-```
-
-
-IT: *empty*
 
 
 
@@ -126375,23 +124910,6 @@ ZH
 
 
 
-### MessageID: 136448 · Source Modified
-
-EN
-
-```diff
-- It easy to think of the Amarr Empire as a cold, cruel, hegemonic state endorsing terrible repression and subjugation. Anyone making such an argument would have a strong case. But of course life is never so simple: For every Amarrian "true believer" in the Empire, there is another who doubts not only his or her faith, but also the government that reifies religious doctrine. <br><br>
-+ It is easy to think of the Amarr Empire as a cold, cruel, hegemonic state endorsing terrible repression and subjugation. Anyone making such an argument would have a strong case. But of course life is never so simple: For every Amarrian "true believer" in the Empire, there is another who doubts not only his or her faith, but also the government that reifies religious doctrine. <br><br>
-  That isn't to say that half of the Amarrians in the Empire are traitors and rebels — far from it. But to assume that every free Amarrian citizen condones slavery and colonization is to make a grievous error. There are many sympathizers to the Minmatar cause in Amarr. <br><br> 
-  One such group is the coalition of the "Secret Starway" (called by some the "Secret Stairway"), a loose network of liberal idealists who work actively, but always covertly, to assist escaped slaves slip out of the Empire's sovereignty. One of the chief ironies of this group is that most of its members are fervent believers in the State religion; they simply have alternate, "heretical" views of those passages from the Scriptures that tend to be used in support of slavery. 
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 136823 · Translation Modified
 
 EN
@@ -126489,58 +125007,6 @@ EN
 - […]ent at the conflict. Your primary object is to discover the identity of their co[…]
 + […]ent at the conflict. Your primary objective is to discover the identity of their co[…]
 ```
-
-
-DE
-
-```text
-Eine Flotte von Sansha's Nation hat einen Sklavenkonvoi angegriffen, der Touraj Miyan gehört. Ihr Kommandant könnte vor Ort anwesend sein. Ihr Hauptziel ist es, die Identität ihres Kommandanten herauszufinden und ihn zu töten.
-```
-
-
-ES
-
-```text
-La flota de la Nación Sansha ha atacado un convoy de esclavos que pertenece a Touraj Miyan. Puede que su comandante esté allí. Tu objeto principal es descubrir la identidad de su comandante y matarlo.
-```
-
-
-FR
-
-```text
-Une flotte de la Sansha's Nation a attaqué un convoi d'esclaves appartenant à Touraj Miyan. Leur commandant prendra probablement part au conflit. Votre objectif principal est de découvrir l'identité de leur commandant et de l'abattre. 
-```
-
-
-JA
-
-```text
- サンシャ国のフリートがトゥーラジミヤンに所属する奴隷輸送船団を攻撃した。彼らの司令官はそこにいるかもしれない。君の優先事項は、司令官を特定し殺害することだ。
-```
-
-
-KO
-
-```text
-산샤 네이션의 함대 하나가 투라지 미얀의 노예 수송대를 공격했습니다. 놈들의 사령관이 전장에 있을 거예요. 당신의 첫 번째 목표는 그 사령관이 누구인지 확인하고 놈을 없애는 겁니다. 
-```
-
-
-RU
-
-```text
- Флот, принадлежащий Нации Sansha, нападает на конвой, владельцем которого является Touraj Miyan. В месте стычки может находится их командующий. Ваша первоочередная задача – выяснить, кто является их командующим, и уничтожить его. 
-```
-
-
-ZH
-
-```text
-一支萨沙的舰队攻击了托拉杰·米雅安的劳工运输队。他们的指挥官可能也在场。你的首要任务就是找出那指挥官把他干掉。
-```
-
-
-IT: *empty*
 
 
 
@@ -126728,126 +125194,6 @@ ZH
 
 
 
-### MessageID: 144429 · Source Modified
-
-EN
-
-```diff
-- Our engineering scientists, working at our highly secure, clandestine R&D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
-+ Our engineering scientists, working at our highly secure, clandestine R&amp;D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
-  Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
-  To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
-  So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 144431 · Source Modified
-
-EN
-
-```diff
-- Our engineering scientists, working at our highly secure, clandestine R&D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
-+ Our engineering scientists, working at our highly secure, clandestine R&amp;D facility on a nearby planet have produced a new type of cloaking device that, when fitted to Covert Ops ships, could theoretically enable them to jump through stargates without uncloaking! And yes, I can see by the look on your face that you must think I've had far too many Extra Strength Quafe sodas today. However, I can assure you that, while it may be many years before this technology is perfected and suitable for even experimental use, the science behind it is quite real, and this is where this story takes a very important twist. <br><br>
-  Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
-  To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
-  So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 144480 · Source Modified
-
-EN
-
-```diff
-  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
-- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is Parriaval's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
-+ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is Parriaval's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
-  Congratulations, you've recaptured Parriaval Mastes! Now return to {[character]agentID.name} for your reward. 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 144482 · Source Modified
-
-EN
-
-```diff
-  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
-- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the spy's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold.
-+ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the spy's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 144483 · Source Modified
-
-EN
-
-```diff
-  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
-- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Varshan's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
-+ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Varshan's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
-  Congratulations, you've recaptured Telos Varshan! Now return to {[character]agentID.name} for your reward. 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 144484 · Source Modified
-
-EN
-
-```diff
-  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
-- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Terhellen's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
-+ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Terhellen's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
-  Congratulations, you've recaptured Milare Terhellen! Now return to {[character]agentID.name} for your reward. 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 144566 · Source Modified
-
-EN
-
-```diff
-  It's time to act fast, {[character]player.name}.  We've just received reports that the Caldari Navy has established a forward outpost in the Otitoh system, in preparation for a strike at our complex in the area.  According to our information they have a sizable force there already, and are preparing to move in more people.  We're happy to tell you, however, that the EMP charge you placed at the Lai Dai station had its desired effect, severely damaging a substantial number of support vessels and equipment the Navy had meant for use in Otitoh.  Now is therefore the time to strike, while they are weakened and working to compensate for the loss of backup assets.
-  <br><br>
-- We need you to go in there and take out the Navy's Command and Control center in the area.  Any losses you can inflict on them while doing so will be most appreciated, but the primary target is the C&C center.  If that is taken down, the Navy will have to retreat from the area, and our plans for this constellation will be that much closer to fruition. Once the building is destroyed, report back to me and I will see to it that you are rewarded handsomely for your efforts.  The Guristas will not forget this one, {[character]player.name}.  Good luck.
-+ We need you to go in there and take out the Navy's Command and Control center in the area.  Any losses you can inflict on them while doing so will be most appreciated, but the primary target is the Command and Control center.  If that is taken down, the Navy will have to retreat from the area, and our plans for this constellation will be that much closer to fruition. Once the building is destroyed, report back to me and I will see to it that you are rewarded handsomely for your efforts.  The Guristas will not forget this one, {[character]player.name}.  Good luck.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 234087 · Translation Modified
 
 EN
@@ -126914,15 +125260,20 @@ EN
 ```
 
 
+IT
+
+```diff
+- {[numeric]units} {[numeric]units-> "millisecondo", "millisecondi"}
++ 
+```
+
+
 ZH
 
 ```diff
 - {[numeric]units}{[numeric]units-> "millisecond", "milliseconds"}
 + {[numeric]units}{[numeric]units-> "毫秒", "毫秒"}
 ```
-
-
-IT: *empty*
 
 
 
@@ -126942,21 +125293,6 @@ ZH
 - 势力战争海关办公室框架蓝图 1R
 + 势力战争海关办公室框架蓝图1R
 ```
-
-
-
-
-### MessageID: 235487 · Source Modified
-
-EN
-
-```diff
-- […]ion objectives have not been completed.  Please check the mission's details via O[…]
-+ […]ion objectives have not been completed. Please check the mission's details via O[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -126989,29 +125325,6 @@ ES
 ```
 
 
-FR
-
-```text
-Malgré les nombreuses lois des empires allant dans le sens du durcissement des dispositions sur la sécurité depuis la vague d'incursions <a href=showinfo:30//500019>sansha</a> en 113 après CY, les colonies minières présentent un environnement fragile et particulièrement propice aux factions pirates...<br>Les flottes d'assaut sansha se débarrassent des colons et mettent leurs propres esclaves aux manettes du matériel d'extraction minière jusqu'à ce qu'il tombe en panne ; elles quittent alors la c
-(truncated, 748 chars total)
-```
-
-
-JA
-
-```text
-YC 113への<a href=showinfo:30//500019>サンシャ</a>の軍事侵入後に帝国中の警備規制を強化するため、数々の法律があるにも関わらず、採掘コロニーは海賊にとって脆弱で、豊かな環境を提供している。<br>サンシャはフリートに載り、入植者達を排除すると、自らの奴隷に装備をさせて採掘し、コロニーが空の残骸になると去っていく。<a href=showinfo:2847>トゥルーサンシャフォアマン</a>を排除することが、全計画を中止させるのに最もいい方法だ。<br><br>
-<a href=showinfo:2//1000137>DED</a>脅威の評価: （4/10）
-```
-
-
-KO
-
-```text
-YC 113, <a href=showinfo:30//500019>산샤</a> 인커젼 이후로 제국의 수많은 법이 제정되었지만 채광 콜로니들은 여전히 약하고 해적들에게 손쉬운 목표가 되고 있습니다....<br>산샤 습격 함대는 콜로니 거주민들을 제거하고 채굴 장비가 고장날 때까지 노예를 이용하고 콜로니를 비워둡니다. 산샤 채광 작전 전체를 중단시키려면 <a href=showinfo:2847>트루 산샤 포어맨</a>을 제거하는 것이 제일 현실적인 방법입니다.<br><br> <a href=showinfo:2//1000137>DED</a> 위협분석보고서: 위협 (4/10)
-```
-
-
 RU
 
 ```diff
@@ -127026,9 +125339,6 @@ ZH
   在YC113年<a href=showinfo:30//500019>萨沙</a>入侵爆发之后，帝国中关于安全的法规条例可谓不胜枚举，尽管如此，采矿殖民地仍然是海盗势力生存的理想环境……<br>萨沙突袭舰队杀光了殖民者，用自己的劳工来操作那些采矿设备，当萨沙人撤走后，整个殖民地就变得空空如也。关闭这整个流程最可靠的办法就是将<a href=showinfo:2847>萨沙爱国者 先锋</a>干掉。<br><br>
   <a href=showinfo:2//1000137>DED</a>威胁评估：4/10
 ```
-
-
-IT: *empty*
 
 
 
@@ -127466,26 +125776,6 @@ ZH
 - 小型牵引光束器蓝图 II
 + 小型牵引光束器II蓝图
 ```
-
-
-
-
-### MessageID: 263203 · Source Modified
-
-EN
-
-```diff
-  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
-  
-- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
-+ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
-  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
-  
-[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -127947,21 +126237,6 @@ ZH
 
 
 
-### MessageID: 264044 · Source Modified
-
-EN
-
-```diff
-- One of our R&D facilities has been working hard to pr[…]
-+ One of our R&amp;D facilities has been working hard to pr[…]
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 276934 · Translation Modified
 
 EN
@@ -128300,38 +126575,6 @@ ZH
 - 未来人类级蓝图
 + 溢血级蓝图
 ```
-
-
-
-
-### MessageID: 286919 · Source Modified
-
-EN
-
-```diff
-- The Federation has long encouraged its citizens to stand up against oppression, plight, and wrongdoing. For those capsuleers who, at promise of no gain to themselves, stand brave against tyranny, the Gold Medallion of Liberty is a small acknowledgment of the Federation's gratitude.<br><br> 
-+ The Federation has long encouraged its citizens to stand up against oppression, plight, and wrongdoing. For those capsuleers who, at promise of no gain to themselves, stand brave against tyranny, the Gold Medallion of Liberty is a small acknowledgment of the Federation's gratitude.<br> 
-  “It is our duty to spread justice. We cannot allow anyone to oppose that.” - President Arlette Villers
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 286921 · Source Modified
-
-EN
-
-```diff
-- Freedom is the highest ideal of the Gallente Federation and the Platinum Medallion of Freedom is bestowed only on those selected by the President himself. To be awarded this prestigious honor requires the potential for extreme personal harm in order to advance the Federation's values throughout New Eden.<br><br> 
-+ Freedom is the highest ideal of the Gallente Federation and the Platinum Medallion of Freedom is bestowed only on those selected by the President himself. To be awarded this prestigious honor requires the potential for extreme personal harm in order to advance the Federation's values throughout New Eden.<br> 
-  “If we do not stand up for peace, how can anyone else?” - President Aidonis Elabon
-```
-
-
-IT: *empty*
 
 
 
@@ -129733,46 +127976,11 @@ EN
 ```
 
 
-DE
-
-```text
-Bonus auf die Nachführung von <a href=showinfo:3308>großen Projektilwaffentürmen</a>
-```
-
-
-ES
-
-```text
-de bonificación al rastreo de la <a href=showinfo:3308>torreta de proyectiles grande</a>.
-```
-
-
-FR
-
-```text
-de bonus à la poursuite des <a href=showinfo:3308>grandes tourelles à projectiles</a>
-```
-
-
 JA
 
 ```diff
 - […]howinfo:3308>大型プロジェクタイルタレット</a>のトラッキング能力にボーナス
 + […]howinfo:3308>大型プロジェクタイルタレット</a>のトラッキング能力が上昇
-```
-
-
-KO
-
-```text
-<a href=showinfo:3308>대형 발사체 터렛</a> 트래킹 속도 증가
-```
-
-
-RU
-
-```text
-бонус к скорости наведения <a href=showinfo:3308>баллистических орудий большого калибра</a>
 ```
 
 
@@ -129782,9 +127990,6 @@ ZH
 - <a href=showinfo:3308>大型射弹炮台</a>跟踪速度加成
 + <a href=showinfo:41040>重型停滞捕捉光束</a>失准范围加成
 ```
-
-
-IT: *empty*
 
 
 
@@ -129827,622 +128032,6 @@ ZH
 
 
 
-### MessageID: 505113 · Removed
-
-EN
-
-```text
-test
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505119 · Removed
-
-EN
-
-```text
-Get Into Position
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505120 · Removed
-
-EN
-
-```text
-Take Out The Threat
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505121 · Removed
-
-EN
-
-```text
-Time to Mine
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505122 · Removed
-
-EN
-
-```text
-Faster Than Light
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505123 · Removed
-
-EN
-
-```text
-Base of Operations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505124 · Removed
-
-EN
-
-```text
-To The Stars
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505125 · Removed
-
-EN
-
-```text
-As a capsuleer, your mind is directly connected to your ship. Your thoughts are its commands. Its damage is your pain. Your piloting skills will be vital in your future career. <br><br>Currently there are hostile ships in your area that are part of a rogue cloning gang. We should get you into position to take them out and remove their threat from the system.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505126 · Removed
-
-EN
-
-```text
-The nearby hostiles are a threat to your empire's capsuleer training program. This is a secure system and their presence is unwanted and poses a risk to civilians. <br><br>By removing this threat you will help your empire and gain some useful combat experience. Removing the hostiles will be beneficial to your ISK balance as you will collect a bounty as well.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505127 · Removed
-
-EN
-
-```text
-Asteroid ore is the lifeblood of New Eden's industrial machine. The ore can be refined into essential materials for building or be sold directly for profit. It can provide a relatively safe, reliable source of income.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505128 · Removed
-
-EN
-
-```text
-Your ship can carry you across a star system in seconds.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505129 · Removed
-
-EN
-
-```text
-Stations are an extremely important part of New Eden. They provide capsuleers with many important services and are also one of the safest places to store ships and items.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505130 · Removed
-
-EN
-
-```text
-A vast stargate network makes it possible to travel between the thousands of systems in New Eden.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505131 · Removed
-
-EN
-
-```text
-Completed:<br>Get Into Position
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505158 · Removed
-
-EN
-
-```text
-Completed:<br>Take Out The Threat
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505159 · Removed
-
-EN
-
-```text
-Completed:<br>Time to Mine
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505160 · Removed
-
-EN
-
-```text
-Completed:<br>Faster Than Light
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505161 · Removed
-
-EN
-
-```text
-Completed:<br>Base of Operations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505162 · Removed
-
-EN
-
-```text
-Completed:<br>To The Stars
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505163 · Removed
-
-EN
-
-```text
-Greetings, pilot. You have advanced to the elite status of capsuleer in the New Eden cluster. I am Aura, your AI assistant. I'm going to show you just a few of the many opportunities New Eden has to offer you as a capsuleer.<br><br>We'll take it slow at first, and when you're ready we will neutralize some hostiles posing a threat to this star system. Then we'll move on to how you can start building your wealth and power in New Eden.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505164 · Removed
-
-EN
-
-```text
-Let's begin
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505166 · Removed
-
-EN
-
-```text
-Well done. Would you like me to suggest another opportunity?
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505167 · Removed
-
-EN
-
-```text
-Introducing Aura
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505168 · Removed
-
-EN
-
-```text
-Excellent!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505169 · Removed
-
-EN
-
-```text
-Yes, I'm ready
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505171 · Removed
-
-EN
-
-```text
-Incomplete
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505172 · Removed
-
-EN
-
-```text
-Partial
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505173 · Removed
-
-EN
-
-```text
-Active opportunity
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505174 · Removed
-
-EN
-
-```text
-No active opportunity
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505175 · Removed
-
-EN
-
-```text
-Show all opportunities
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505176 · Removed
-
-EN
-
-```text
-Complete
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505177 · Removed
-
-EN
-
-```text
-Opportunities Map
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505208 · Removed
-
-EN
-
-```text
-New Opportunity
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505209 · Removed
-
-EN
-
-```text
-Accept
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505210 · Removed
-
-EN
-
-```text
-Dismiss
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505211 · Removed
-
-EN
-
-```text
-Done already!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505212 · Removed
-
-EN
-
-```text
-Would you like me to suggest another opportunity?
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505213 · Removed
-
-EN
-
-```text
-That's about it!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505214 · Removed
-
-EN
-
-```text
-I have nothing more to offer but would you like to contact a career agent?
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505215 · Removed
-
-EN
-
-```text
-Well hello again!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505216 · Removed
-
-EN
-
-```text
-I'm Aura, your capsule’s AI assistant, are you ready to learn about opportunities available in New Eden?
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505319 · Removed
-
-EN
-
-```text
-You Can Get Better!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505320 · Removed
-
-EN
-
-```text
-Completed:<br>You Can Get Better!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505321 · Removed
-
-EN
-
-```text
-You should always be training. Skills influence how effective you are at almost any activity and learning new skills will give you access to new ships, modules and activities.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 505445 · Translation Modified
 
 EN
@@ -130458,258 +128047,6 @@ ZH
 - <b>使用空间站内的工业服务，配置蓝图，开始一个制造项目。</b> 你可能需要收集些材料放在空间站机库内。<br><br>收集材料的途径包括：击毁敌船然后拾取残骸物品，从市场上购买材料，或者直接去采集资源。
 + <b>使用空间站内的工业服务，配置蓝图，开始一个制造项目。你可能需要收集些材料放在空间站机库内。<br><br>收集材料的途径包括：击杀敌船然后拾取残骸物品，从市场上购买材料，或者直接去采集资源。
 ```
-
-
-
-
-### MessageID: 505504 · Removed
-
-EN
-
-```text
-Take a Look Around
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505505 · Removed
-
-EN
-
-```text
-Market Forces
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505506 · Removed
-
-EN
-
-```text
-Upgrade Your Ship
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505507 · Removed
-
-EN
-
-```text
-We Are Not Alone
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505508 · Removed
-
-EN
-
-```text
-Navigating New Eden
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505509 · Removed
-
-EN
-
-```text
-Death of a Ship
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505510 · Removed
-
-EN
-
-```text
-In space, situational awareness is the key to your survival. Let me show you how to become aware and alert.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505511 · Removed
-
-EN
-
-```text
-The Market can be your road to great wealth and your portal to what you need. In the market you can get better ships, more powerful modules, blueprints for production or ore for processing. <br><br>You can also sell stuff you have just mined, bought, looted or traded. Eventually, you may be making many millions through the market. Let's liquidate some unneeded assets for hard cash.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505512 · Removed
-
-EN
-
-```text
-By fitting your ship with the correct weapons and modules, you can optimize it for whatever task or adventure you want to undertake. The right combination of equipment can make even a simple ship tremendously powerful, giving you an edge over your rivals.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505513 · Removed
-
-EN
-
-```text
-Knowing how to move throughout the enormous network of star systems in New Eden is crucial.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505514 · Removed
-
-EN
-
-```text
-It’s a harsh world out there and chances are it won’t be long before someone will have it out for you. It will serve you well to find other like-minded capsuleers to ally with.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505515 · Removed
-
-EN
-
-```text
-Your ship has been destroyed and your capsule ejected. Don't worry, this happens to every capsuleer sooner or later.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505541 · Removed
-
-EN
-
-```text
-Completed:<br>Take a Look Around
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505542 · Removed
-
-EN
-
-```text
-Completed:<br>Market Forces
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505543 · Removed
-
-EN
-
-```text
-Completed:<br>Upgrade Your Ship
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505544 · Removed
-
-EN
-
-```text
-Completed:<br>We Are Not Alone
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505546 · Removed
-
-EN
-
-```text
-Completed:<br>Navigating New Eden
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505547 · Removed
-
-EN
-
-```text
-Completed:<br>Death of a Ship
-```
-
-
-IT: *empty*
 
 
 
@@ -130748,300 +128085,6 @@ ZH
 - 完成：<br>配置蓝图
 + 已完成！<br>配置蓝图
 ```
-
-
-
-
-### MessageID: 505632 · Removed
-
-EN
-
-```text
-Engines of Creation
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505633 · Removed
-
-EN
-
-```text
-To Boldly Go
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505634 · Removed
-
-EN
-
-```text
-Confidential Agent
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505635 · Removed
-
-EN
-
-```text
-Corporate Identity
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505636 · Removed
-
-EN
-
-```text
-Completed:<br>Engines of Creation
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505637 · Removed
-
-EN
-
-```text
-Completed:<br>To Boldly Go
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505638 · Removed
-
-EN
-
-```text
-Completed:<br>Confidential Agent
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505639 · Removed
-
-EN
-
-```text
-Completed:<br>Corporate Identity
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505640 · Removed
-
-EN
-
-```text
-New Eden's capsuleer industries turn out everything from ammunition to Titans. Try your hand at it and you might find yourself on the way to forging an industrial empire.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505641 · Removed
-
-EN
-
-```text
-New Eden has many strange anomalies and sites to be explored by the adventurous capsuleer. The rewards can be as large as the dangers are numerous.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505642 · Removed
-
-EN
-
-```text
-Your empire has established a network of agents throughout New Eden that offer exciting missions. These agents can help you build a strong career. As a first step, you should contact one of your Career Agents.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505643 · Removed
-
-EN
-
-```text
-Many capsuleers join together in independent corporations in order to further their goals. There are many different kinds of capsuleer corporations and there are sure to be some that suit your needs.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505652 · Removed
-
-EN
-
-```text
-You've jumped into a wormhole and have emerged in unknown space, also called 'W-space' by capsuleers. You should be cautious.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505653 · Removed
-
-EN
-
-```text
-Through the Wormhole
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505654 · Removed
-
-EN
-
-```text
-Completed:<br>Through the Wormhole
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505683 · Removed
-
-EN
-
-```text
-Wrecks and Salvage
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505684 · Removed
-
-EN
-
-```text
-Completed:<br>Wrecks and Salvage
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505685 · Removed
-
-EN
-
-```text
-Salvaging the wrecks of destroyed ships can be an important source of income as salvage materials can be sold on the market for use in the ship rig industry.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505690 · Removed
-
-EN
-
-```text
-The Vicious Cycle
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505691 · Removed
-
-EN
-
-```text
-Your capsule has been destroyed and your clone has died. Don't worry, this also happens to every capsuleer sooner or later.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 505693 · Removed
-
-EN
-
-```text
-Completed:<br>Capsule Destroyed
-```
-
-
-IT: *empty*
 
 
 
@@ -131118,20 +128161,6 @@ ZH
 - 导弹制导计算机蓝图 II
 + 导弹引导计算机II蓝图
 ```
-
-
-
-
-### MessageID: 507629 · Removed
-
-EN
-
-```text
-Your empire has established a network of agents throughout New Eden. These agents can be of great help to you. As a first step, you should contact one of your Career Agents.
-```
-
-
-IT: *empty*
 
 
 
@@ -137398,188 +134427,6 @@ ZH
 
 
 
-### MessageID: 517669 · Removed
-
-EN
-
-```text
-Loot The Spoils
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517670 · Removed
-
-EN
-
-```text
-Completed:<br>Loot The Spoils
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517671 · Removed
-
-EN
-
-```text
-The wrecks of the hostiles you just destroyed contain valuable items. Investigate the wrecks and see what you can retrieve. Once you have the loot, you can advance to exploring a bigger part of the world.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517672 · Removed
-
-EN
-
-```text
-Welcome to New Eden
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517673 · Removed
-
-EN
-
-```text
-As a capsuleer, you gain new abilities by training skills. You will eventually unleash the full capabilities of your mind. <br><br>As you train skills, pathways in your brain become more advanced, giving you access to new ships, modules and activities. Starting a skill training now would be a great first step in your new life.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517674 · Removed
-
-EN
-
-```text
-Completed:<br>Welcome to New Eden
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517675 · Removed
-
-EN
-
-```text
-Career Agent missions are a good start for an aspiring capsuleer making their way in New Eden. Career agents provide useful guidance and rewards for a job well done. <br><br>There are many agents out there, and many other ways to build up your skills and assets as a pilot. 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517677 · Removed
-
-EN
-
-```text
-Your First Mission
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517678 · Removed
-
-EN
-
-```text
-Completed:<br>Career Agents
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517679 · Removed
-
-EN
-
-```text
-Completed:<br>Your First Mission
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517710 · Removed
-
-EN
-
-```text
-Next
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517711 · Removed
-
-EN
-
-```text
-Are you sure?
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 517712 · Removed
-
-EN
-
-```text
-If you're sure you want to dismiss Aura at this time, remember that you can access the Opportunities she offers by opening them from the Neocom.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 519243 · Translation Modified
 
 EN
@@ -140664,82 +137511,6 @@ ZH
 - 这些带有护甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的大衮级蓝图数据。
 + 这个带有装甲且被电磁强化过的数据缓存通常整合在血袭者同盟的船坞里，在建造大衮级战力辅助舰时提供高强度的安全和保护措施。这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的大衮级蓝图数据。
 ```
-
-
-
-
-### MessageID: 527247 · Source Modified
-
-EN
-
-```diff
-  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
-  
-- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-+ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-  
-  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 527250 · Source Modified
-
-EN
-
-```diff
-  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
-  
-- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-+ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-  
-  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 527253 · Source Modified
-
-EN
-
-```diff
-  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
-  
-- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-+ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-  
-  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 527256 · Source Modified
-
-EN
-
-```diff
-  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
-  
-- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-+ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
-  
-  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
-```
-
-
-IT: *empty*
 
 
 
@@ -144380,21 +141151,6 @@ ZH
 
 
 
-### MessageID: 545150 · Source Modified
-
-EN
-
-```diff
-- Payment for use of {itemTraderTypeID}.
-+ Payment for use of {[item]arg1.name}.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 548888 · Translation Modified
 
 EN
@@ -144588,21 +141344,6 @@ ZH
 - 有了这张蓝图，加上一些所需的矿物，就可以建造一艘巡洋舰。矿物可以通过提炼在小行星带采到的矿石来获得，也可以在市场上购买。
 + 这个箱子中有一张蓝图拷贝，用来建造你所属势力的一艘战斗型巡洋舰。巡洋舰比护卫舰和驱逐舰都更大，也更强，是多种战斗场合的上佳选择。有了这张蓝图，加上一些所需的矿物，就可以建造一艘巡洋舰。矿物可以通过提炼在小行星带采到的矿石来获得，也可以在市场上购买。
 ```
-
-
-
-
-### MessageID: 553391 · Source Modified
-
-EN
-
-```diff
-- HyperNet offer created.
-+ HyperNet offer created
-```
-
-
-IT: *empty*
 
 
 
@@ -145207,47 +141948,11 @@ EN
 ```
 
 
-DE
-
-```text
-Die Struktur hat seit langer Zeit keinen Treibstoff verbraucht und ist deshalb anfälliger für Angriffe. Im Falle der Zerstörung einer Struktur wird keine Besitzsicherheit gewährleistet. <color=red>Jeglicher Besitz in der Struktur wird direkt ins Weltall gestoßen.</color>
-```
-
-
 ES
 
 ```diff
   La estructura no ha consumido combustible en bastante tiempo, por lo que es más vulnerable a los ataques.
   En caso de destrucción de la estructura, no se ofrece ninguna seguridad. <color=red>Todos sus bienes serán expulsados directamente al espacio.</color>
-```
-
-
-FR
-
-```text
-Comme elle n'a pas consommé de carburant pendant une période prolongée, la structure est davantage vulnérable aux attaques. Si la structure est détruite, aucune protection des biens ne s'appliquera. <color=red>Tous les biens entreposés dans cette structure seront directement largués dans l'espace.</color>
-```
-
-
-JA
-
-```text
-燃料を消費しない時間が続いた場合、ストラクチャは攻撃に対してより脆弱になります。
-ストラクチャが破壊された際、資産の安全は一切保証されません。<color=red>ストラクチャ内の資産は全てそのまま宇宙空間に放出されます。</color>
-```
-
-
-KO
-
-```text
-구조물에 연료가 공급되지 않아 공격에 취약해졌습니다.<br><br>구조물 파괴 시 자산 보호 시스템이 비활성화되어 <color=red>구조물의 모든 자산이 우주로 사출됩니다.</color>
-```
-
-
-RU
-
-```text
-Сооружение в течение долгого времени не потребляло топливо и стало более уязвимым перед вражескими атаками. В случае уничтожения сооружения безопасность находящихся в нём активов не обеспечивается. <color=red>Все расположенные в сооружении активы будут выброшены в космос.</color>
 ```
 
 
@@ -145258,9 +141963,6 @@ ZH
   
   如果建筑被摧毁，则资产安全系统不会生效。<color=red>建筑中的所有物品将被直接弹射到太空中。</color>
 ```
-
-
-IT: *empty*
 
 
 
@@ -145280,149 +141982,6 @@ ZH
 - 打捞无人机蓝图 II
 + 打捞无人机II蓝图
 ```
-
-
-
-
-### MessageID: 569365 · Source Modified
-
-EN
-
-```diff
-- This Abyssal Filament will pull a <b>Tech I or Tech II Cruiser</b> into a pocket of Abyssal Deadspace experiencing <b>cataclysmic local environmental destabilization</b>and clouded by a field of dark matter that will <b>reduce weapon ranges</b> but <b>enhance ship velocity</b>.
-+ This Abyssal Filament will pull a <b>Tech I or Tech II Cruiser</b> into a pocket of Abyssal Deadspace experiencing <b>cataclysmic local environmental destabilization</b> and clouded by a field of dark matter that will <b>reduce weapon ranges</b> but <b>enhance ship velocity</b>.
-  
-  <b><color=yellow>Restrictions:</color></b>  Cannot be activated in 1.0 or 0.9 systems. Capsuleer will be flagged as suspect if activated in 0.8, 0.7 or 0.6 systems. 
-[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 569975 · Source Modified
-
-EN
-
-```diff
-  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
-  
-- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
-+ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
-  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
-  
-[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 570550 · Source Modified
-
-EN
-
-```diff
-- Payment for use of {itemTraderTypeID}.
-+ Payment for use of {[item]arg1.name}.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 571417 · Source Modified
-
-EN
-
-```diff
-- […]nds rather than destroy a useful asset.  This station has been turned into a faci[…]
-+ […]nds rather than destroy a useful asset. This station has been turned into a faci[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 571418 · Source Modified
-
-EN
-
-```diff
-- […]nds rather than destroy a useful asset.  The clade that seized this station saw f[…]
-+ […]nds rather than destroy a useful asset. The clade that seized this station saw f[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 571419 · Source Modified
-
-EN
-
-```diff
-- […]nds rather than destroy a useful asset.  This station has been transformed into a[…]
-+ […]nds rather than destroy a useful asset. This station has been transformed into a[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 571420 · Source Modified
-
-EN
-
-```diff
-- […]nds rather than destroy a useful asset.  The controlling clade has turned this st[…]
-+ […]nds rather than destroy a useful asset. The controlling clade has turned this st[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 571421 · Source Modified
-
-EN
-
-```diff
-- […]nds rather than destroy a useful asset.  This station has been significantly tran[…]
-+ […]nds rather than destroy a useful asset. This station has been significantly tran[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 571422 · Source Modified
-
-EN
-
-```diff
-- […]nds rather than destroy a useful asset.  Security within this station is extremel[…]
-+ […]nds rather than destroy a useful asset. Security within this station is extremel[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -147688,25 +144247,6 @@ ZH
 
 
 
-### MessageID: 589175 · Source Modified
-
-EN
-
-```diff
-- <i>"'Dogs may be used by the army as sentries, for scouting, for hunting, and to control the army's herds of food animals. The use of dogs in open battle is forbidden regardless of the uses an enemy may put such beasts to.' 
-- 
-- "I guess Rouvenor liked dogs, or maybe he really didn't like them. I'll be honest, I'm a bit ambivalent about using anything other than humans in war myself. Putting part of an operation, however small, under the control of an animal or a robot, expands the envelope of risk more than I'd like. Humans going rogue are risk enough, if you ask me. At least with a missile the point is that it blows up too. Still, I'll grant you things like drones do have their uses."</i>
-- 
-- – Muryia Mordu, quoting the War Commentaries of dos Rouvenor
-+ A prototype medium combat drone designed by Mordu’s Legion.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 589178 · Translation Modified
 
 EN
@@ -148106,142 +144646,6 @@ ZH
 
 
 
-### MessageID: 594611 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. 
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594617 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594619 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594621 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594623 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594625 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594627 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 594629 · Source Modified
-
-EN
-
-```diff
-- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
-+ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
-  
-  This material is compressed and a much more compact form of the original material.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 595074 · Translation Modified
 
 EN
@@ -148542,21 +144946,6 @@ ZH
 - 工业舰跳跃通道发生器蓝图 I
 + 工业舰跳跃通道发生器I蓝图
 ```
-
-
-
-
-### MessageID: 597630 · Source Modified
-
-EN
-
-```diff
-- Standup Flak Round Blueprint
-+ Standup Flak Round I Blueprint
-```
-
-
-IT: *empty*
 
 
 
@@ -149283,9 +145672,6 @@ ZH
 ```text
 涂装在兑换后会直接添加到人物的可用涂装列表中，而非放置在仓库中。
 ```
-
-
-IT: *empty*
 
 
 
@@ -150326,98 +146712,6 @@ DE
 -     </tr>
 - </table>
 + <h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Level Designer :</b></td> <td>Jesse Holcroft</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Level Designer :</b></td> <td>Tyler Lamon</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead UI/UX Designer :</b></td> <td>Ryan Last-Harris</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior UI/UX Designers :</b></td> <td>Jacob Jensen, Sierra Lorenzini</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Systems Designer :</b></td> <td>Richard Driscoll</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>UI Artist :</b></td> <td>Mathieu Bijuk</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Narrative Experience Designer :</b></td> <td>Jamie Stanton</td> </tr> </table> <br> <h3>Engineering</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Technical Director :</b></td> <td>Tom Woodhead</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Backend Engineer :</b></td> <td>Alex Rudd</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Backend Engineers :</b></td> <td>Hannah Dawson, Kurtis Lamb</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Backend Engineer :</b></td> <td>Irina Fratila</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Gameplay Engineer :</b></td> <td>Alick Goldenberg</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Gameplay Engineer :</b></td> <td>Victor Macho</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Gameplay Engineers :</b></td> <td>Jury Verrigni, Raul Gernaert</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Gameplay Engineer :</b></td> <td>Ortwin Van der Stappen</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead UI Engineer :</b></td> <td>Dominic Curry</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior UI Engineer :</b></td> <td>Charlie Marshall</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>UI Engineer :</b></td> <td>Rhys Theckston</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Core Tech Engineer :</b></td> <td>Alistair Forbes</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Rendering Engineer :</b></td> <td>Jared Belkus</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Rendering Engineer :</b></td> <td>Sam Smith</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Audio Programmer :</b></td> <td>David Pituk</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead AI Engineer :</b></td> <td>Nick Davies</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>AI Gameplay Engineer :</b></td> <td>Aria Jonsdottir</td> </tr> </table> <br> <h3>Art</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Art Director :</b></td> <td>Ben Cottage</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Concept Artist :</b></td> <td>Jon Dunham</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Concept Artist :</b></td> <td>Chloe Harrison</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior VFX Artist :</b></td> <td>Davide Fortunato</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lighting Artist :</b></td> <td>Zach Hewett</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Environment Artists :</b></td> <td>Matthew Macer, Matthew Southall, Stephen Pietrusiak, Olivia Butler-Stroud</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Environment Artist :</b></td> <td>Daria Odnorogova</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Lead Technical Artist :</b></td> <td>Hrafnhildur Anna Bjornsdottir</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Artists :</b></td> <td>Lukas Boonen, Árni Berúlfur Jónsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Artists :</b></td> <td>Peter Skager, Amritha Immaneni</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Technical Artist :</b></td> <td>Daniela Flores</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Animator :</b></td> <td>Maurizio Ramanzin</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Principal Character Artist :</b></td> <td>Seth Nash</td> </tr> </table> <br> <h3>Sound</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Lead Sound Designer :</b></td> <td>Alexis Mavropoulos</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>VO Artists :</b></td> <td>Hrafnhildur Anna Bjornsdottir, Alastair Lavery, Bryan Malloroy, Alexis Mavropoulos</td> </tr> </table> <br> <h3>Production</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Executive Producer :</b></td> <td>Snorri Árnason</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Head of Production :</b></td> <td>David Ecker</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Creative Director :</b></td> <td>Bergur Finnbogason</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Game Director :</b></td> <td>Scott Davis</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Development Director :</b></td> <td>David Thompson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Strategist :</b></td> <td>Sahil Gupta</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Producer :</b></td> <td>Stijn Vervaet</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Producer :</b></td> <td>Isabel Foley</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate Producer :</b></td> <td>Aleksandra Anna Stawirej</td> </tr> </table> <br> <h3>Quality Assurance &amp; Player Experience</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>QA Lead :</b></td> <td>Edward Haines</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>QA Analyst :</b></td> <td>Alastair Lavery</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Associate QA Analyst :</b></td> <td>Madeleine Jay</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Project Manager :</b></td> <td>Mayur Sindhwani</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Leads :</b></td> <td>Dawid Kołaczuch, Daniel Osman, Wiktoria Brania, Marta Chmielewska</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Associate Lead :</b></td> <td>Aleksander Macioł</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>FQA Testers :</b></td> <td>Igor Dobrowolski, Mateusz Dutka, Weronika Durczok, Daria Kurpanik, Patryk Pałęga, Patrycja Szustak, Kamil Mróz, Mateusz Kurlandt, Wojciech Romańczyk, Magdalena Pałandziuch, Magdalena Łatka, Michał Szustak, Bartosz Czapla, Stanisław Stanek, Anna Zganiacz, Dariusz Tutak, Jakub Matyaszczyk, Szymon Kochanowski</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Project Managers of Player Experience :</b></td> <td>Ingiberg Steinar Bjarnason, Ágúst Ingi Óskarsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Player Support Specialists :</b></td> <td>Sharon Fiedler, Diedrich Ohlandt</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Managers :</b></td> <td>Guðmundur Freyr Matthíasson, Paulo Rockenbach</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Team Leads :</b></td> <td>Martin Bovis, Luis Hernandez, Sebastian Veit</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Support Game Masters :</b></td> <td>Abd ElRahman Shehabeldin, Abhista Pratama, Adrian Vazquez, Ammar Yasser, Amrane Larbi, Brayhan Rodriquez, Edward Turrall, Ferney Edilson Ramos Rojas, Garth Holmes, Hiba Wahhabi, Jaques Durand, Jorge Sikorsky, Jose Bernal, Juan Angelo Pasquin, Juan Jose Rojas Franco, Mihail Munteanu, Nada Shaaban, Nikola Trnavcevic, Norvin Manalang, Oksana Rudenko, Rajiv Pinera, Sergei Pavlov, Shaun Joyce, Vu Ngo</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>5CA Outreach Game Masters :</b></td> <td>Edgar Morales, Eduardo Reyes, Endrio Lima, Rodrigo Oliveira</td> </tr> </table> <br> <h3>Data &amp; Analytics</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Data Scientist :</b></td> <td>Julia Elisabeth Haidn</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Data Scientist :</b></td> <td>Kajetan Sygula</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Data Engineer :</b></td> <td>Daníel Fannar Guðmundsson</td> </tr> </table> <br> <h3>Dank an</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Dank an :</b></td> <td>Abi Hunt, Alan Hinchcliffe, Alec McSweeney, Aleksei Borovkov, Andreas Thomas, Carlos Ulloa, Cyrill Vitkovskiy, Dennis Lukat, Dominic Wright, Elena Diana Sfecla, Guilherme Carvalho, Jacopo Ascioni, James Cook, Jordan Blake, Liam Phillips, Luke Timms, Martin Baadsgaard, Matt James, Nicole Munro, Ovidiu Vasilescu, Phil Rowe, Pod O'Donnell, Robin Fencott, Sam Bromley, Suneil Aujla, Thomas Johnson, Tom Marcham, Tyler Sharpe, Viktor Demishev, Wojciech Szon, Adam Pugh, Denimira Deneva, Hector Mateo Pino, Krzysztof Luzny, Leonid Dudakov, Robert Hayes, Tom Jackson, Tom Savage, Tom Gandale, Vanessa Boelke, Gregory Allen Edwards, Gerard Lehiany, Nicholas Antonucci, Cristian Soriano, Tomasz Snopek, Neil Kaminski, Craig Harrison, Stuart Dodman, Sofia Galanopoulou, Marcus Michael, Jolin (Ya En) Lee, Gavin Skinner, Paris Moschovitis, Elliot Prior, Leonardo Calamati, Peter Hedge, Sherif Amer</td> </tr> </table>
-```
-
-
-ES
-
-```text
-<h2>EVE Vanguard Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director:</b></td>
-        <td>Adam Board</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designer:</b></td>
-        <td>Anthony Massey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Technical Designer:</b></t
-(truncated, 12,260 chars total)
-```
-
-
-FR
-
-```text
-<h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=
-(truncated, 10,201 chars total)
-```
-
-
-JA
-
-```text
-<h2>EVE Vanguard開発チーム</h2>
-<br>
-<h3>ゲームデザイン</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
-        <td>Adam Board</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアゲームデザイナー</b></td>
-        <td>Anthony Massey</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアテクニカルデザイナー：</b></td>
-        <td>Bryan Malloroy</td> 
-    <
-(truncated, 11,727 chars total)
-```
-
-
-KO
-
-```text
-<h2>EVE Vanguard Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director :</b></td>
-        <td>Adam Board</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designer :</b></td>
-        <td>Anthony Massey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Technical Designer :</b>
-(truncated, 12,328 chars total)
-```
-
-
-RU
-
-```text
-<h2>Команда разработчиков EVE Vanguard</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший разработчик:</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший технический дизайнер:</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=
-(truncated, 10,640 chars total)
-```
-
-
-ZH
-
-```text
-<h2>EVE Vanguard开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Adam Board</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Anthony Massey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级技术设计师：</b></td><td>Bryan Malloroy</td></tr><tr VALIGN="top"><td width=325 align=right><b>首席关卡设计师：</b></td><td>Jesse Holcroft</td></tr><tr VALIGN="top"><td width=325
-(truncated, 8,814 chars total)
 ```
 
 
@@ -153577,51 +149871,6 @@ ZH
 
 
 
-### MessageID: 1009122 · Source Modified
-
-EN
-
-```diff
-+ The crate contains an insured T1 fitted Destroyer from your starter Empire.
-  This item cannot be traded or sold on the market.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1009124 · Source Modified
-
-EN
-
-```diff
-+ The crate contains an exploration frigate for your starting Empire; it is fitted and insured.
-  This item cannot be traded or sold on the market.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1009128 · Source Modified
-
-EN
-
-```diff
-+ The crate contains an insured T1 fitted Cruiser from your starting Empire.
-  This item cannot be traded or sold on the market.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 1010828 · Translation Modified
 
 EN
@@ -153637,26 +149886,6 @@ ZH
 - 巴巴罗加号蓝图
 + 巴巴罗加级蓝图
 ```
-
-
-
-
-### MessageID: 1011918 · Source Modified
-
-EN
-
-```diff
-  An electronic interface designed to augment and enhance a dreadnought's siege warfare abilities. Through a series of electromagnetic polarity field shifts, the siege module diverts energy from the ship's propulsion and warp systems to lend additional power to its offensive and defensive capabilities.
-  
-- This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of  electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
-+ This results in a tremendous increase in damage, as well as a greatly increased rate of defensive self-sustenance. Defensive benefits include improved self-repair and shield boosting effectiveness, as well as increased resistance to most forms of electronic warfare. As a side effect of the ionic field created by the siege module, beneficial remote repair and capacitor transfer effects are ineffective against the fitted ship while the module is active.
-  In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
-  
-[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -153783,24 +150012,6 @@ ZH
 
 
 
-### MessageID: 1016288 · Source Modified
-
-EN
-
-```diff
-[…]
-  <br>
-  <br>
-- I’ve tracked down her old work crew and got you on their work roster. I need you to go uncover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
-+ I’ve tracked down her old work crew and got you on their work roster. I need you to go under cover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 1017922 · Translation Modified
 
 EN
@@ -153915,29 +150126,14 @@ ZH
 
 
 
-### MessageID: 1018527 · Source Modified
+### MessageID: 1018597 · Translation Modified
 
 EN
 
-```diff
-- Active Convoys: {[numeric]amount}
-+ Avalon Investigations: {[numeric]amount}
-```
+```text
+As Vanguard finish Expeditions, they will progress this track, revealing additional Avalon Investigations each time it completes. 
 
-
-IT: *empty*
-
-
-
-
-### MessageID: 1018597 · Source Modified
-
-EN
-
-```diff
-  As Vanguard finish Expeditions, they will progress this track, revealing additional Avalon Investigations each time it completes. 
-  
-  Location Avalon Investigations using the Universe Map. Track AEGIS Sqaulls in Investigation systems with your Directional Scanner or Combat Probes to uncover hidden sites.
+Location Avalon Investigations using the Universe Map. Track AEGIS Sqaulls in Investigation systems with your Directional Scanner or Combat Probes to uncover hidden sites.
 ```
 
 
@@ -153949,48 +150145,14 @@ ZH
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1018631 · Source Modified
+### MessageID: 1018775 · Translation Modified
 
 EN
 
-```diff
-- Vanguard Event
-+ Operation Avalon
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1018632 · Source Modified
-
-EN
-
-```diff
-- Convoys revealed through the actions of the deployed Vanguard clones
-+ Avalon Investigations, they can be revealed when the Vanguard have completed sufficient Expeditions.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1018775 · Source Modified
-
-EN
-
-```diff
-- […]ion", "Avalon Investigations"} in system
-+ […]ion", "Avalon Investigations"} in system
+```text
+{[numeric]amount} {[numeric]amount -> "Avalon Investigation", "Avalon Investigations"} in system
 ```
 
 
@@ -154000,9 +150162,6 @@ ZH
 - […]系内有{[numeric]amount}{[numeric]amount -> 项“阿瓦隆调查”}
 + […]系内有{[numeric]amount}{[numeric]amount -> \"项阿瓦隆调查\", \"项阿瓦隆调查\"}
 ```
-
-
-IT: *empty*
 
 
 
@@ -154330,21 +150489,6 @@ ZH
 
 
 
-### MessageID: 1031290 · Source Modified
-
-EN
-
-```diff
-- Batch Compressed Crokite IV-Grade
-+ Batch Compressed Crokite II-Grade
-```
-
-
-IT: *empty*
-
-
-
-
 ### MessageID: 1034347 · Source Modified
 
 EN
@@ -154409,9 +150553,6 @@ ZH
 - 龙骑兵级海军型军团徽章 
 + 灵感级友谊联盟涂装
 ```
-
-
-IT: *empty*
 
 
 
@@ -154482,9 +150623,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1034847 · Source Modified
@@ -154551,9 +150689,6 @@ ZH
 - 合众国防御增效剂II
 + 灵感级友谊联盟涂装
 ```
-
-
-IT: *empty*
 
 
 
@@ -154624,9 +150759,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1034884 · Source Modified
@@ -154693,9 +150825,6 @@ ZH
 - 联邦机动性增效剂III
 + PL_MV_Particle_Gas_White_01a_Intermittent_01a_Fast
 ```
-
-
-IT: *empty*
 
 
 
@@ -154766,9 +150895,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036031 · Translation Modified
@@ -154780,7 +150906,52 @@ Unstable Wormhole
 ```
 
 
-DE, ES, FR, JA, KO, and RU: *empty*
+DE
+
+```diff
+- Instabiles Wurmloch
++ 
+```
+
+
+ES
+
+```diff
+- Agujero de gusano inestable
++ 
+```
+
+
+FR
+
+```diff
+- Trou de ver instable
++ 
+```
+
+
+JA
+
+```diff
+- 不安定なワームホール
++ 
+```
+
+
+KO
+
+```diff
+- 불안정한 웜홀
++ 
+```
+
+
+RU
+
+```diff
+- Неустойчивая червоточина
++ 
+```
 
 
 
@@ -154861,9 +151032,6 @@ ZH
 - 这种低纯度的凡晶石矿带，其产出比新伊甸其他地区的普通矿带要低50%。这种矿带最常见于始源星域。凡晶石是已知空间的核心星域中最为常见的矿石。它富含人们大量使用的三钛合金，因此需求仍然十分稳定。
 + 凡晶石是已知空间的核心星域中最为常见的矿石。它富含人们大量使用的<a href=showinfo:34>三钛合金</a>，因此需求仍然十分稳定。主要分布于高安全等级星系。 
 ```
-
-
-IT: *empty*
 
 
 
@@ -154969,9 +151137,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036179 · Translation Modified
@@ -155069,9 +151234,6 @@ ZH
 - 这种低纯度的灼烧岩矿带，其产出比新伊甸其他地区的普通矿带要低50%。这种矿带最常见于始源星域。灼烧岩是已知空间的核心星域中最为常见的矿石。它可以提炼出三钛合金和类晶体胶矿，因此对刚开启采矿生涯的玩家来说是个不错的选择。
 + 灼烧岩是已知空间的核心星域中最为常见的矿石。它含有数量可观的 <a href=showinfo:34>三钛合金</a>和<a href=showinfo:35>类晶体胶矿</a>。对刚开始采矿生涯的人来说，它是一个不错的选择。主要分布于高安全等级星系。
 ```
-
-
-IT: *empty*
 
 
 
@@ -155177,9 +151339,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036301 · Source Modified
@@ -155246,9 +151405,6 @@ ZH
 - 天使信息虹吸装置
 + 天使信息数据片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -155319,9 +151475,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036408 · Source Modified
@@ -155388,9 +151541,6 @@ ZH
 - 天使残骸
 + 天使残片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -155461,9 +151611,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036437 · Source Modified
@@ -155530,9 +151677,6 @@ ZH
 - 血袭者信息虹吸装置
 + 血袭者信息数据片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -155603,9 +151747,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036443 · Source Modified
@@ -155672,9 +151813,6 @@ ZH
 - 古斯塔斯信息虹吸装置
 + 古斯塔斯信息数据片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -155745,9 +151883,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036451 · Source Modified
@@ -155814,9 +151949,6 @@ ZH
 - 萨沙信息虹吸装置
 + 萨沙信息数据片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -155887,9 +152019,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036453 · Source Modified
@@ -155956,9 +152085,6 @@ ZH
 - 天蛇信息虹吸装置
 + 天蛇信息数据片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -156029,9 +152155,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036459 · Source Modified
@@ -156098,9 +152221,6 @@ ZH
 - 血袭者残骸
 + 血袭者残片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -156171,9 +152291,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036465 · Source Modified
@@ -156240,9 +152357,6 @@ ZH
 - 古斯塔斯残骸
 + 古斯塔斯残片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -156313,9 +152427,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036467 · Source Modified
@@ -156382,9 +152493,6 @@ ZH
 - 萨沙残骸
 + 萨沙残片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -156455,9 +152563,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1036469 · Source Modified
@@ -156524,9 +152629,6 @@ ZH
 - 天蛇残骸
 + 天蛇残片S
 ```
-
-
-IT: *empty*
 
 
 
@@ -156597,9 +152699,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1037135 · Source Modified
@@ -156612,14 +152711,6 @@ EN
   
 - Requires either standard or advanced exotic plasma charge ammo types: Baryon, Meson, Tetryon, Mystic, and Occult.
 + Requires exotic plasma charge ammo types: Baryon, Meson, and Tetryon.
-```
-
-
-DE
-
-```text
-Dieser extragroße entropische Desintegrator wird ausschließlich auf Triglavia-Capital-Schiffen eingesetzt. Diese massiven Schiffe sind in der Lage, die beträchtlichen Strahlungs- und enormen Gravitationsgezeitenkräfte, die die Waffe erzeugt, zu bewältigen. Auf den Energieniveaus dieses ultraschweren Waffensystems sind die Gezeitenkräfte so mächtig, dass selbst die speziellen Systeme, die in Schlachtschiffen eingebaut sind, unzureichend sind und nur Capital-Schiffe mit den beteiligten Kräften umg
-(truncated, 1,346 chars total)
 ```
 
 
@@ -156682,9 +152773,6 @@ ZH
 - […]目标的不断发射而逐渐提高，直到达到上限。需要使用的异种等离子弹药类型：重子、介子、四重子、奥秘和神秘。
 + […]目标的不断发射而逐渐提高，直到达到上限。需要使用的异种等离子弹药类型：重子、介子和四重子。
 ```
-
-
-IT: *empty*
 
 
 
@@ -156755,9 +152843,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1037543 · Source Modified
@@ -156824,9 +152909,6 @@ ZH
 - 小行星带
 + 小行星带I
 ```
-
-
-IT: *empty*
 
 
 
@@ -156916,9 +152998,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1037852 · Source Modified
@@ -156985,9 +153064,6 @@ ZH
 - 基础型一级科技侦察军事信标
 + Minmatar FW Mission Dungeon NPC Spawner - Battlecruiser 10 Points (DO NOT TRANSLATE)
 ```
-
-
-IT: *empty*
 
 
 
@@ -157058,9 +153134,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1038084 · Source Modified
@@ -157127,9 +153200,6 @@ ZH
 - 先知级海军型战争后备处中尉涂装
 + Stellate TD-300-I
 ```
-
-
-IT: *empty*
 
 
 
@@ -157208,9 +153278,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1038127 · Source Modified
@@ -157277,9 +153344,6 @@ ZH
 - 刺刀级舰队型舰队军械处之矛涂装
 + Gallente FW Mission Dungeon NPC Spawner - Battleship 5 Point (DO NOT TRANSLATE)
 ```
-
-
-IT: *empty*
 
 
 
@@ -157369,9 +153433,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1038331 · Source Modified
@@ -157438,9 +153499,6 @@ ZH
 - 小行星带
 + 小行星带II
 ```
-
-
-IT: *empty*
 
 
 
@@ -157511,39 +153569,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
-
-
-### MessageID: 1038389 · Source Modified
-
-EN
-
-```diff
-- Contested Sanctified FRF ELT-10
-+ Contested Sanctified FRF ELT-5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1038391 · Source Modified
-
-EN
-
-```diff
-- Contested Sanctified FRF ELT-10
-+ Contested Sanctified FRF ELT-5
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 1038501 · Source Modified
@@ -157610,9 +153635,6 @@ ZH
 - 该物体可探测30公里范围内的舰船。
 + 盖伦特联邦的一艘运载舰。
 ```
-
-
-IT: *empty*
 
 
 
@@ -157851,9 +153873,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1038882 · Translation Modified
@@ -157941,9 +153960,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1038893 · Source Modified
@@ -158010,9 +154026,6 @@ ZH
 - 合众号令 - 限量
 + 响尾蛇级秘鳞换骨涂装
 ```
-
-
-IT: *empty*
 
 
 
@@ -158083,9 +154096,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1038993 · Source Modified
@@ -158152,9 +154162,6 @@ ZH
 - ChaosDungeon13 - 后缀辅助远距维修效果
 + 响尾蛇级秘鳞换骨涂装
 ```
-
-
-IT: *empty*
 
 
 
@@ -158227,178 +154234,6 @@ ZH
 - 
 + 自由无人机集群智能的算法输出，使其能够以远超当前增强体技术极限的速度进行复杂计算。据观测，它们会蜂拥至舰队周围，剥离舰船的关键组件，并并在飞行途中对其进行重组改造。尽管这一现象让人联想到金属蛇蜕皮，但其潜在的科研应用价值却令人震惊。——摘自阿利克斯·莫罗的研究笔记
 ```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039147 · Source Modified
-
-EN
-
-```diff
-  <b>- Claim it, defend it.</b>
-  
-- There is
-- no CONCORD presence and no automatic law enforcement. 
-+ There is no CONCORD presence and no automatic law enforcement. 
-  
-  Capsuleer alliances may claim sovereignty over much of this space, building their own infrastructure. It is up to capsuleers to protect their own space. Unrestricted combat and large-scale wars are a part of daily life.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039158 · Removed
-
-EN
-
-```text
-Amarr Sanctified Field Research Facility
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039170 · Source Modified
-
-EN
-
-```diff
-- FW Complex - Contested FRF ELT-10 - Attacker Spawner (DO NOT TRANSLATE)
-+ FW Complex - Contested FRF ELT-5 - Attacker Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039262 · Source Modified
-
-EN
-
-```diff
-- Caldari Eyrie Field Research Facility
-+ Caldari Eyrie Drifter Field Research Facility
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039263 · Source Modified
-
-EN
-
-```diff
-- Contested Eyrie FRF ELT-10
-+ Contested Eyrie FRF ELT-5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039264 · Source Modified
-
-EN
-
-```diff
-- Contested Eyrie FRF ELT-10
-+ Contested Eyrie FRF ELT-5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039265 · Source Modified
-
-EN
-
-```diff
-- Contested Rogue FRF ELT-10
-+ Contested Rogue FRF ELT-5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039267 · Source Modified
-
-EN
-
-```diff
-- Contested Rogue FRF ELT-10
-+ Contested Rogue FRF ELT-5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039268 · Source Modified
-
-EN
-
-```diff
-- Minmatar Liberated Field Research Facility
-+ Minmatar Liberated Drifter Field Research Facility
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039269 · Source Modified
-
-EN
-
-```diff
-- Contested Liberated FRF ELT-10
-+ Contested Liberated FRF ELT-5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039270 · Source Modified
-
-EN
-
-```diff
-- Contested Liberated FRF ELT-10
-+ Contested Liberated FRF ELT-5
-```
-
-
-IT: *empty*
 
 
 
@@ -158475,9 +154310,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039459 · Source Modified
@@ -158544,9 +154376,6 @@ ZH
 - “冥王”原型采矿无人机蓝图
 + 共和国投射增效剂III
 ```
-
-
-IT: *empty*
 
 
 
@@ -158629,9 +154458,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039469 · Source Modified
@@ -158708,9 +154534,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039478 · Source Modified
@@ -158783,9 +154606,6 @@ ZH
 - 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -158862,9 +154682,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039484 · Source Modified
@@ -158937,9 +154754,6 @@ ZH
 - 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -159016,9 +154830,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039488 · Source Modified
@@ -159091,27 +154902,6 @@ ZH
 - 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1039504 · Source Modified
-
-EN
-
-```diff
-- <font size="14"><b>Secrets Operations Expert System</b></font>
-+ <font size="14"><b>Subcapital Operations Expert System</b></font>
-  
-  This Expert System has been loaded with advanced ship operation skills, to mimic the experience of an Omega capsuleer.
-[…]
-```
-
-
-IT: *empty*
 
 
 
@@ -159194,9 +154984,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039647 · Source Modified
@@ -159265,9 +155052,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039659 · Source Modified
@@ -159334,9 +155118,6 @@ ZH
 - 共和安全局短剑级
 + 共和国投射增效剂III
 ```
-
-
-IT: *empty*
 
 
 
@@ -159419,9 +155200,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039673 · Source Modified
@@ -159500,9 +155278,6 @@ ZH
 - 加达里合众国的国土面积虽然不大，却拥有最为领先的工业和创新技术。起初盖伦特发现它时，还只是早期工业社会。据考古学家研究，人类早在15,000多年前就通过EVE之门第一次来到了这里。星门坍塌后，他们的文明也随之没落。之后数千年里，加达里以责任、忠诚和荣誉为信条，建立了新的文明。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -159585,9 +155360,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039684 · Source Modified
@@ -159600,7 +155372,60 @@ EN
 ```
 
 
-DE, ES, FR, IT, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Bulwark Data NPC Spawner 2 (Do not translate)
++ 
+```
+
+
+ES
+
+```diff
+- Bulwark Data NPC Spawner 2 (Do not translate)
++ 
+```
+
+
+FR
+
+```diff
+- Bulwark Data NPC Spawner 2 (Do not translate)
++ 
+```
+
+
+JA
+
+```diff
+- Bulwark Data NPC Spawner 2（Do not translate）
++ 
+```
+
+
+KO
+
+```diff
+- Bulwark Data NPC Spawner 2 (Do not translate)
++ 
+```
+
+
+RU
+
+```diff
+- Bulwark Data NPC Spawner 2 (Do not translate)
++ 
+```
+
+
+ZH
+
+```diff
+- Bulwark Data NPC Spawner 2 (Do not translate)
++ 
+```
 
 
 
@@ -159669,9 +155494,6 @@ ZH
 - 共和安全局数据截取器
 + 响尾蛇级秘鳞换骨涂装
 ```
-
-
-IT: *empty*
 
 
 
@@ -159754,9 +155576,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039765 · Source Modified
@@ -159837,9 +155656,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039766 · Source Modified
@@ -159914,9 +155730,6 @@ ZH
 - 本次模拟流程已完成。请前往下一个代理人处，继续我们全息重演的训练进程。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -159999,9 +155812,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039768 · Source Modified
@@ -160080,9 +155890,6 @@ ZH
 - 请稍等，舰长。你的舰船缺少本模拟推荐装配的装备。建议你装配武器、远程护盾回充增量器以及ECM。你可以在补给箱中找到其中部分装备：加达里首星突围战。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -160165,9 +155972,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039771 · Source Modified
@@ -160246,9 +156050,6 @@ ZH
 - 加达里首星，位于泛光之源星系。我们的家园。因其试图摆脱盖伦特联邦控制的罪行，它遭受了毁灭性的轰炸。现在我们唯一的生存希望就是逃离。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -160331,9 +156132,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039773 · Source Modified
@@ -160414,9 +156212,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039775 · Source Modified
@@ -160491,9 +156286,6 @@ ZH
 - 印塔基首星就在眼前。占领军包围了整个星球，但当解放的曙光即将到来之际，他们还没准备好与盖伦特对抗。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -160576,9 +156368,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039778 · Source Modified
@@ -160657,9 +156446,6 @@ ZH
 - 舰长，能听到吗？舰队已就位，隐藏在帕多尔九号的阴影中。破译那些炮台，我们就能跃迁进去。 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -160742,9 +156528,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1039896 · Translation Modified
@@ -160756,6 +156539,14 @@ Damaged Stargate (Caldari System)
 ```
 
 
+DE
+
+```diff
+- Damaged Stargate (Caldari System)
++ 
+```
+
+
 FR
 
 ```diff
@@ -160764,7 +156555,12 @@ FR
 ```
 
 
-DE and RU: *empty*
+RU
+
+```diff
+- Damaged Stargate (Caldari System)
++ 
+```
 
 
 
@@ -160778,6 +156574,14 @@ Damaged Stargate (Caldari Region)
 ```
 
 
+DE
+
+```diff
+- Damaged Stargate (Caldari Region)
++ 
+```
+
+
 FR
 
 ```diff
@@ -160786,7 +156590,12 @@ FR
 ```
 
 
-DE and RU: *empty*
+RU
+
+```diff
+- Damaged Stargate (Caldari Region)
++ 
+```
 
 
 
@@ -160800,6 +156609,14 @@ Damaged Stargate (Caldari Constellation)
 ```
 
 
+DE
+
+```diff
+- Damaged Stargate (Caldari Constellation)
++ 
+```
+
+
 FR
 
 ```diff
@@ -160808,21 +156625,12 @@ FR
 ```
 
 
-DE and RU: *empty*
+RU
 
-
-
-
-### MessageID: 1040092 · Removed
-
-EN
-
-```text
-All Objectives
+```diff
+- Damaged Stargate (Caldari Constellation)
++ 
 ```
-
-
-IT: *empty*
 
 
 
@@ -160891,9 +156699,6 @@ ZH
 - 
 + 克隆飞行员之日加达里SKINR箱
 ```
-
-
-IT: *empty*
 
 
 
@@ -160976,9 +156781,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1040343 · Source Modified
@@ -161059,324 +156861,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
-
-
-### MessageID: 1040460 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040467 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Gallente bulwark systems t[…]
-+ Successfully hack containers in Gallente bulwark systems t[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040482 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040498 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040547 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Caldari bulwark systems to[…]
-+ Successfully hack containers in Caldari bulwark systems to[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040552 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040554 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040567 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040574 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040584 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Caldari bulwark systems to[…]
-+ Successfully hack containers in Caldari bulwark systems to[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040586 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040638 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Amarr bulwark systems to s[…]
-+ Successfully hack containers in Amarr bulwark systems to s[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040639 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040648 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Amarr bulwark systems to s[…]
-+ Successfully hack containers in Amarr bulwark systems to s[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040658 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040669 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040724 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040727 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Minmatar bulwark systems t[…]
-+ Successfully hack containers in Minmatar bulwark systems t[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040740 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040756 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1040766 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 1041178 · Source Modified
@@ -161443,9 +156927,6 @@ ZH
 - 合众号令 - 无限
 + PL_PointLight_Green_01a
 ```
-
-
-IT: *empty*
 
 
 
@@ -161516,9 +156997,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041778 · Source Modified
@@ -161587,9 +157065,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041784 · Source Modified
@@ -161656,9 +157131,6 @@ ZH
 - 共和舰队军械处补给包
 + 罗鲁克的守夜者级舰船
 ```
-
-
-IT: *empty*
 
 
 
@@ -161741,9 +157213,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041854 · Source Modified
@@ -161820,9 +157289,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041855 · Source Modified
@@ -161897,9 +157363,6 @@ ZH
 - 我们可能来自不同的世界，但我们同属一个盖伦特，我们将带来自由。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -161982,9 +157445,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041878 · Source Modified
@@ -162051,9 +157511,6 @@ ZH
 - 补给：帕多尔之战
 + 塔尔曼的阿什姆级舰船
 ```
-
-
-IT: *empty*
 
 
 
@@ -162132,9 +157589,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041889 · Source Modified
@@ -162209,9 +157663,6 @@ ZH
 - 所有运输船进入跃迁。干得漂亮。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -162294,9 +157745,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041891 · Source Modified
@@ -162371,9 +157819,6 @@ ZH
 - 好好利用我为你争取的时间。互相掩护，摧毁每一个联邦走狗，为我们未来开辟道路。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -162472,9 +157917,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041893 · Source Modified
@@ -162553,9 +157995,6 @@ ZH
 - 是时候给这些不信者带来正义的火焰了！消灭所有胆敢阻挡我们的敌人，让他们见识一下主的力量！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -162638,9 +158077,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041899 · Source Modified
@@ -162719,9 +158155,6 @@ ZH
 - 我必须准备最后的突袭。我需要你先进场，摧毁他们的舰船，削弱他们的护盾。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -162812,9 +158245,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1041901 · Source Modified
@@ -162893,9 +158323,6 @@ ZH
 - 我们的俄洛巴斯级泰坦正在途中。对这些加农炮实施感应抑阻，以保障其顺利接近。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -163023,39 +158450,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
-
-
-### MessageID: 1042586 · Source Modified
-
-EN
-
-```diff
-- FW Complex - Contested FRF ELT-10 - Occupier Spawner (DO NOT TRANSLATE)
-+ FW Complex - Contested FRF ELT-5 - Occupier Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1042814 · Source Modified
-
-EN
-
-```diff
-- Active
-+ My objectives
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 1042950 · Source Modified
@@ -163122,9 +158516,6 @@ ZH
 - 共和舰队导弹制导增强器
 + 沉思惩罚者级
 ```
-
-
-IT: *empty*
 
 
 
@@ -163195,9 +158586,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1043059 · Source Modified
@@ -163266,9 +158654,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1043093 · Source Modified
@@ -163335,9 +158720,6 @@ ZH
 - “阿厄吉亚”地精灵SW-300
 + Sneaky Site - Caldari Guards (Do not Translate)
 ```
-
-
-IT: *empty*
 
 
 
@@ -163427,9 +158809,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1043527 · Source Modified
@@ -163496,9 +158875,6 @@ ZH
 - 盖伦特占领的星门
 + 军官电容通量线圈蓝图箱
 ```
-
-
-IT: *empty*
 
 
 
@@ -163569,9 +158945,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1043550 · Source Modified
@@ -163640,9 +159013,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1043701 · Source Modified
@@ -163709,9 +159079,6 @@ ZH
 - 
 + 盖伦特联邦的一艘巡洋舰。
 ```
-
-
-IT: *empty*
 
 
 
@@ -163877,9 +159244,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1043950 · Source Modified
@@ -163946,9 +159310,6 @@ ZH
 - 数字8 - 限量
 + 沉思惩罚者级
 ```
-
-
-IT: *empty*
 
 
 
@@ -164019,9 +159380,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1044259 · Source Modified
@@ -164090,9 +159448,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1044293 · Source Modified
@@ -164159,9 +159514,6 @@ ZH
 - 
 + Sneaky Site - Caldari Guards (Do not Translate)
 ```
-
-
-IT: *empty*
 
 
 
@@ -164244,9 +159596,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045656 · Source Modified
@@ -164325,9 +159674,6 @@ ZH
 - 欢迎来到避难所星座，这里是神圣的艾玛帝国在始源星域进行传教工作的地方。在你前往我所在之处时，请尽情沐浴在帝国神圣的荣光之中。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -164410,9 +159756,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045658 · Source Modified
@@ -164491,9 +159834,6 @@ ZH
 - 欢迎来到试炼场，这里是加达里在始源星域的使馆星座。我深信，我们超级集团在此建立的荣誉和纪律一定会给你留下深刻的印象。 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -164576,9 +159916,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045660 · Source Modified
@@ -164657,9 +159994,6 @@ ZH
 - 欢迎来到联邦自由区，这里是我们在始源星域的小型民主绿洲。准备好后就来吧，简报室已经准备好了。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -164742,9 +160076,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045662 · Source Modified
@@ -164823,9 +160154,6 @@ ZH
 - 这里是斯托卡，米玛塔尔各氏族在始源星域内的避难所。我们很乐意在你访问期间提供部落的热情款待，只要你给予共和国应有的尊重。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -164908,9 +160236,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045666 · Source Modified
@@ -164989,9 +160314,6 @@ ZH
 - 收到你的传输，上将。运输船在前往主舰队的途中遭遇跃迁故障。维修正在进行中。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -165074,9 +160396,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045668 · Source Modified
@@ -165151,9 +160470,6 @@ ZH
 - 尽可能多地保护运输船；每保护一艘运输船，就意味着数千无辜者得救。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -165232,9 +160548,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045670 · Source Modified
@@ -165309,9 +160622,6 @@ ZH
 - 剩余的运输船正在进入跃迁。他们向你致以最深切的感谢。 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -165390,9 +160700,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045672 · Source Modified
@@ -165469,9 +160776,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045673 · Source Modified
@@ -165546,9 +160850,6 @@ ZH
 - 准备好后返回主舰队。我们最后的出发时刻即将到来。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -165631,9 +160932,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045675 · Source Modified
@@ -165708,9 +161006,6 @@ ZH
 - 休息一下，欣赏下风景。这可能是你最后的机会了。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -165789,9 +161084,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045677 · Source Modified
@@ -165866,9 +161158,6 @@ ZH
 - 在所有统治过盖伦特的令人鄙夷的权力掮客中，卢克·杜瓦利埃是最卑鄙的一个。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -165951,9 +161240,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045679 · Source Modified
@@ -166028,9 +161314,6 @@ ZH
 - 感谢像托维托巴上将这样的英雄，无论我们围绕哪颗行星运转，无论我们把哪颗行星称为家园，我们始终是加达里人。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -166113,9 +161396,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045681 · Source Modified
@@ -166190,9 +161470,6 @@ ZH
 - 你已为合众国英勇战斗。与我们并肩作战，你只会变得更强。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -166275,9 +161552,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045683 · Source Modified
@@ -166352,9 +161626,6 @@ ZH
 - 没有人……没有人回应。他们都迷失了吗？
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -166437,9 +161708,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045685 · Source Modified
@@ -166514,9 +161782,6 @@ ZH
 - 我不知道你是怎么做到的，但我们的运输船系统运转良好。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -166599,9 +161864,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045687 · Source Modified
@@ -166682,9 +161944,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045688 · Source Modified
@@ -166759,9 +162018,6 @@ ZH
 - 舰队强度正在下降！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -166840,9 +162096,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045690 · Source Modified
@@ -166917,9 +162170,6 @@ ZH
 - 联邦会为此付出代价。 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -166998,9 +162248,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045692 · Source Modified
@@ -167075,9 +162322,6 @@ ZH
 - 只要我们今天能活下来，新加达里的梦想将会无限辉煌。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -167160,9 +162404,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045694 · Source Modified
@@ -167237,9 +162478,6 @@ ZH
 - 当一切似乎都已失去希望时，亚基雅·托维托巴上将准备为所有加达里人做出最终的牺牲。 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -167318,9 +162556,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045696 · Source Modified
@@ -167395,9 +162630,6 @@ ZH
 - 当托维托巴上将进入跃迁时，入侵舰队的大部分人都去追赶他了。随着大部分盖伦特人离开，我们的部队迎来了最后一次胜利的机会。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -167478,9 +162710,6 @@ ZH
 - 盖伦特首星就在眼前。全员弃船，这是命令。我将独自完成这最后的飞行。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -167571,9 +162800,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045699 · Source Modified
@@ -167652,9 +162878,6 @@ ZH
 - 我们成功了，基本算是。谢谢你，上将。现在没时间哀悼，正在进入跃迁。我们另一边见。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -167737,9 +162960,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045701 · Source Modified
@@ -167818,9 +163038,6 @@ ZH
 - 哇！你迅速解决了那些联邦混蛋。上将会为你感到骄傲。正在进入跃迁。我们另一边见。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -167903,9 +163120,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045703 · Source Modified
@@ -167984,9 +163198,6 @@ ZH
 - 你已经证明了自己，并感受到了与玛塔利并肩作战的意义。加入我们对抗艾玛的战斗，延续建立我们共和国的反抗精神。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -168069,9 +163280,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045705 · Source Modified
@@ -168146,9 +163354,6 @@ ZH
 - 你亲眼见证了信徒们所面临的考验。与我们并肩作战，你将看到如何凭借信仰超越这些考验。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -168231,9 +163436,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045707 · Source Modified
@@ -168308,9 +163510,6 @@ ZH
 - 上帝显然赐予了你卓越的才能。在主的旗帜下飞行，这技能将为你赢得被选中者的荣耀。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -168389,9 +163588,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045709 · Source Modified
@@ -168468,9 +163664,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045710 · Source Modified
@@ -168545,9 +163738,6 @@ ZH
 - 联邦将非常荣幸能有像你这样的飞行员与我们一起飞行。把你的技能用在唯一真正重要的战斗上——为自由而战。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -168630,9 +163820,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045713 · Source Modified
@@ -168711,9 +163898,6 @@ ZH
 - 这样也行了。不管准备好了与否，现在就是出击的最佳时机！跟我来，舰长，我们正进入这叛逆野兽的腹地。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -168796,9 +163980,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045716 · Source Modified
@@ -168879,9 +164060,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045724 · Source Modified
@@ -168956,9 +164134,6 @@ ZH
 - 当然不是！全完了！我该怎么跟我的集团主管交代！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -169037,9 +164212,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045726 · Source Modified
@@ -169114,9 +164286,6 @@ ZH
 - 无法接受！简直少得可怜。CEO可不会高兴。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -169195,9 +164364,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045728 · Source Modified
@@ -169272,9 +164438,6 @@ ZH
 - 你告诉他们，联邦说了，下次我们就会来找他们算账！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -169353,9 +164516,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045731 · Source Modified
@@ -169430,9 +164590,6 @@ ZH
 - 泰坦已经着陆，多亏了你，它几乎毫发无损！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -169511,9 +164668,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045733 · Source Modified
@@ -169588,9 +164742,6 @@ ZH
 - 泰坦已经着陆，虽然有些磨损，但依然可以战斗！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -169669,9 +164820,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045735 · Source Modified
@@ -169748,9 +164896,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045736 · Source Modified
@@ -169825,9 +164970,6 @@ ZH
 - 哇，你这么快就解决了那些加达里护卫犬。准备好，解放第二阶段即将开始。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -169918,9 +165060,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045738 · Source Modified
@@ -170007,9 +165146,6 @@ ZH
 - 你已无力回天，现在与我一起面对主的审判吧！自毁程序已启动。<i>用你的双臂拥抱敌人，信仰是你的火焰，有了它，可以烧净他的邪恶</i>
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -170100,9 +165236,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045773 · Source Modified
@@ -170177,9 +165310,6 @@ ZH
 - 玛塔尔，位于帕多尔星系。数个世纪以来，这些艾玛人的火炮一直对准下方的民众。他们狂妄自大，从未料到我们会自己砸碎枷锁，建立起属于自己的舰队。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -170262,9 +165392,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045775 · Source Modified
@@ -170339,9 +165466,6 @@ ZH
 - 动作要快；三座炮台必须同时瘫痪，否则它们会不断重新启动。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -170424,9 +165548,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045777 · Source Modified
@@ -170503,9 +165624,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045778 · Source Modified
@@ -170580,9 +165698,6 @@ ZH
 - 来得正是时候，行动窗口即将关闭。正在进入跃迁。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -170665,9 +165780,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1045780 · Source Modified
@@ -170744,54 +165856,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
-
-
-### MessageID: 1045807 · Source Modified
-
-EN
-
-```diff
-- This sealed containment crate holds a Calm Abyssal Filament of a random weather ty[…]
-+ This sealed containment crate holds a Tranquil Abyssal Filament of a random weather ty[…]
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1045814 · Source Modified
-
-EN
-
-```diff
-- […]te contains an insured T1 fitted Cruisers from your starting Empire.
-+ […]te contains an insured T1 fitted Cruiser from your starting Empire.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1045832 · Source Modified
-
-EN
-
-```diff
-+ The crate contains a fitted Pioneer mining destroyer with insurance.
-  This item cannot be traded or sold on the market.
-```
-
-
-IT: *empty*
-
-
 
 
 ### MessageID: 1045835 · Source Modified
@@ -170858,9 +165922,6 @@ ZH
 - 开拓者级舰船装配
 + 冲锋者级舰船装配
 ```
-
-
-IT: *empty*
 
 
 
@@ -170950,9 +166011,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046001 · Source Modified
@@ -171019,9 +166077,6 @@ ZH
 - 一艘舰船被摧毁后的残骸。使用适当的设备或许还能够从这些残渣中打捞一些有价值的物品。
 + 盖伦特联邦的一艘巡洋舰。
 ```
-
-
-IT: *empty*
 
 
 
@@ -171098,9 +166153,6 @@ ZH
 - 地面小队，你们可以行动了。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -171183,9 +166235,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046150 · Source Modified
@@ -171260,9 +166309,6 @@ ZH
 - 快速反应舰队正在赶来，由总督的超级航母带头冲锋。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -171345,9 +166391,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046152 · Source Modified
@@ -171424,9 +166467,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046153 · Source Modified
@@ -171501,9 +166541,6 @@ ZH
 - 游击部队已成功突围至米奥阿兰群岛，我们终于开始取得进展。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -171586,9 +166623,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046155 · Source Modified
@@ -171667,9 +166701,6 @@ ZH
 - 铁骑舰载机已击落，干得不错，舰长。战列舰，是时候干掉总督的超级航母，结束这场占领了。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -171752,9 +166783,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046157 · Source Modified
@@ -171833,9 +166861,6 @@ ZH
 - 我们倾尽全力，但最终，总督和他的超级航母还是被击败了。残余舰队正在溃逃。胜利属于我们！玛塔尔属于我们！ 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -171918,9 +166943,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046159 · Source Modified
@@ -172001,9 +167023,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046160 · Source Modified
@@ -172078,9 +167097,6 @@ ZH
 - 在伊勒提平原上进展迅速。一半的帝国军还没意识到我们到来就早已灰飞烟灭了！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -172159,9 +167175,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046162 · Source Modified
@@ -172236,9 +167249,6 @@ ZH
 - 主啊，求你赐予我们力量，击倒这些狂妄之徒！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -172317,9 +167327,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046164 · Source Modified
@@ -172396,9 +167403,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046165 · Source Modified
@@ -172473,9 +167477,6 @@ ZH
 - 主啊，我们的装甲就快失效！你难道听不到我们的祈祷吗！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -172558,9 +167559,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046167 · Source Modified
@@ -172637,9 +167635,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046168 · Source Modified
@@ -172714,9 +167709,6 @@ ZH
 - 啊——好黑……他们告诉我会有光……他们告诉我 [临终喘息]
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -172799,9 +167791,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046170 · Source Modified
@@ -172880,9 +167869,6 @@ ZH
 - 诸位圣徒在上，敌方部队正在赶来！尽力控制住这些叛乱分子，但不要停止维修。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -172977,9 +167963,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046172 · Source Modified
@@ -173064,9 +168047,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046173 · Source Modified
@@ -173141,9 +168121,6 @@ ZH
 - 我们收到了来自皇帝的信息，赞美他！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -173226,9 +168203,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046175 · Source Modified
@@ -173305,9 +168279,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046177 · Source Modified
@@ -173382,9 +168353,6 @@ ZH
 - 在信仰中寻找力量，并知晓，为吾主之名所作的任何牺牲，都是吾主所能赐予的最高荣耀。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -173487,9 +168455,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046179 · Source Modified
@@ -173570,9 +168535,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046180 · Source Modified
@@ -173651,9 +168613,6 @@ ZH
 - 这是何等可怕的毁灭？亲爱的主啊，我们的枪炮根本无法摧毁这个敌人。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -173738,9 +168697,6 @@ ZH
 - 别无他法了。正如经文教导我们的，<i>我们是他化身于世的复仇，他的复仇天使。</i>
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -173835,9 +168791,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046183 · Source Modified
@@ -173916,9 +168869,6 @@ ZH
 - 再接再厉，舰长。夺回本应属于全能之主的权力。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -174001,9 +168951,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046185 · Source Modified
@@ -174078,9 +169025,6 @@ ZH
 - 盖伦特的旗帜再次飘扬在印塔基上空！印塔基的人民重新夺回了星球。谢谢你，舰长。 
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -174159,9 +169103,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046187 · Source Modified
@@ -174236,9 +169177,6 @@ ZH
 - 作为联邦最古老的成员之一，印塔基长期遭受加达里合众国的压迫统治。今天，你们将帮助这些勇敢的自由斗士结束这场占领。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -174321,9 +169259,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046189 · Source Modified
@@ -174398,9 +169333,6 @@ ZH
 - 它们不是什么资产，该死，他们是活生生的人！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -174479,9 +169411,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046191 · Source Modified
@@ -174558,9 +169487,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046192 · Source Modified
@@ -174635,9 +169561,6 @@ ZH
 - 安保舰队已失败。准备执行防御加农炮！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -174736,9 +169659,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046194 · Source Modified
@@ -174825,9 +169745,6 @@ ZH
 - 印塔基的人民……联邦！加达里……被压制住了……住手……超级集团……
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -174918,9 +169835,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046196 · Source Modified
@@ -175001,9 +169915,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046197 · Source Modified
@@ -175080,9 +169991,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046198 · Source Modified
@@ -175157,9 +170065,6 @@ ZH
 - 加达里在干扰他们的信号！别让那些加农炮命中，我们的泰坦会解决那个问题。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -175250,9 +170155,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046200 · Source Modified
@@ -175327,9 +170229,6 @@ ZH
 - 第二艘击毁！现在，集中火力打掉最后一艘运载舰！
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -175412,9 +170311,6 @@ ZH
 ```
 
 
-IT: *empty*
-
-
 
 
 ### MessageID: 1046202 · Source Modified
@@ -175489,9 +170385,6 @@ ZH
 - 随着那些防御被摧毁，我们终于可以清除印塔基消息中的干扰了。
 + 那个巢穴已经被彻底击垮了。打开它，回收已经产出的所有资源。能活下来不丢人，也许下次你就能撑到最后了。
 ```
-
-
-IT: *empty*
 
 
 
@@ -175570,12 +170463,9 @@ ZH
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1046758 · Added
+### MessageID: 1046758 · Translation Modified
 
 EN
 
@@ -175586,17 +170476,15 @@ POI: Nemesis Test Center
 
 ZH
 
-```text
-目标点：纳美西斯测试中心
+```diff
+- 目标点：纳美西斯级测试中心
++ 目标点：纳美西斯测试中心
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1046796 · Added
+### MessageID: 1046796 · Translation Modified
 
 EN
 
@@ -175607,47 +170495,15 @@ AEGIS Squall
 
 ZH
 
-```text
-统合部紧急干预和安全局狂风级
+```diff
+- 统合部紧急干预和安全局狂风舰
++ 统合部紧急干预和安全局狂风级
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1046797 · Added
-
-EN
-
-```text
-The Squall is not registered, but information gathered by members of the Vanguard implies that it is working with AEGIS command as a part of some secret project. 
-
-Find out where it is going, and you might just discover more.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046798 · Added
-
-EN
-
-```text
-Investigation Progress
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046799 · Added
+### MessageID: 1046799 · Translation Modified
 
 EN
 
@@ -175658,31 +170514,15 @@ Complete sites to uncover the heart of local AEGIS operations. Follow AEGIS Squa
 
 ZH
 
-```text
-完成地点目标，揭开当地统合部紧急干预和安全局行动的核心。跟踪统合部紧急干预和安全局狂风级，借此发现隐藏地点。
+```diff
+- […]点目标，揭开当地统合部紧急干预和安全局行动的核心。跟踪统合部紧急干预和安全局狂风舰，借此发现隐藏地点。
++ […]点目标，揭开当地统合部紧急干预和安全局行动的核心。跟踪统合部紧急干预和安全局狂风级，借此发现隐藏地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1046800 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046801 · Added
+### MessageID: 1046801 · Translation Modified
 
 EN
 
@@ -175693,59 +170533,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1046813 · Added
-
-EN
-
-```text
-Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046814 · Added
-
-EN
-
-```text
-Vanguard Operation Avalon Roamer
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046840 · Added
-
-EN
-
-```text
-Destroyed Test Sentry
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046872 · Added
+### MessageID: 1046872 · Translation Modified
 
 EN
 
@@ -175756,101 +170552,15 @@ POI: Nemesis Research Outpost
 
 ZH
 
-```text
-目标点：纳美西斯科研哨站
+```diff
+- 目标点：纳美西斯级科研哨站
++ 目标点：纳美西斯科研哨站
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1046874 · Added
-
-EN
-
-```text
-Research Vault
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046899 · Added
-
-EN
-
-```text
-AEGIS Security Platform
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046926 · Added
-
-EN
-
-```text
-Operation Avalon POI Enemy Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046942 · Added
-
-EN
-
-```text
-Hack the Research Vault before it self-destructs.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1046991 · Added
-
-EN
-
-```text
-POI: AEGIS Security Platform
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047040 · Added
-
-EN
-
-```text
-Flotilla Observation Outpost
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047054 · Added
+### MessageID: 1047054 · Translation Modified
 
 EN
 
@@ -175861,17 +170571,15 @@ Nemesis Test Center
 
 ZH
 
-```text
-纳美西斯测试中心
+```diff
+- 纳美西斯级测试中心
++ 纳美西斯测试中心
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047058 · Added
+### MessageID: 1047058 · Translation Modified
 
 EN
 
@@ -175882,1699 +170590,15 @@ Nemesis Research Outpost
 
 ZH
 
-```text
-纳美西斯科研哨站
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047082 · Added
-
-EN
-
-```text
-Surveillance Vault
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047100 · Added
-
-EN
-
-```text
-Target Wreck
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047101 · Added
-
-EN
-
-```text
-The wreck contains traces of organic material, suggesting the weapons test was simulating attacking an armored human target.
-
-With the proper equipment, something of value could be salvaged.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047126 · Added
-
-EN
-
-```text
-Failed to load Achievements
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047127 · Added
-
-EN
-
-```text
-Please try again later
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047128 · Added
-
-EN
-
-```text
-Refresh
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047135 · Added
-
-EN
-
-```text
-Surveillance Vault
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047138 · Added
-
-EN
-
-```text
-Amarr Gate State Large
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047139 · Added
-
-EN
-
-```text
-Caldari Gate State Large
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047140 · Added
-
-EN
-
-```text
-Gallente Gate State Large
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047141 · Added
-
-EN
-
-```text
-Minmatar Gate State Large
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047142 · Source Modified
-
-EN
-
 ```diff
-- Pyroxeres  0-Grade
-+ Pyroxeres 0-Grade
+- 纳美西斯级科研哨站
++ 纳美西斯科研哨站
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047144 · Added
-
-EN
-
-```text
-Adaz - Gate to Steadfast
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047145 · Added
-
-EN
-
-```text
-Steadfast - Gate to Adaz
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047163 · Added
-
-EN
-
-```text
-Salvage Wrecks
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047174 · Added
-
-EN
-
-```text
-Defiant Latten
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047175 · Added
-
-EN
-
-```text
-Defiant Latten Metallic - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047176 · Added
-
-EN
-
-```text
-A license for the single use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047177 · Added
-
-EN
-
-```text
-Defiant Latten Metallic - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047178 · Added
-
-EN
-
-```text
-A license for the unlimited use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this metallic nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this metallic you must provide <a href=showinfo:81349>Fermionic Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047179 · Added
-
-EN
-
-```text
-Radiant Aureate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047180 · Added
-
-EN
-
-```text
-Radiant Aureate Metallic - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047181 · Added
-
-EN
-
-```text
-A license for the single use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047182 · Added
-
-EN
-
-```text
-Radiant Aureate Metallic - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047183 · Added
-
-EN
-
-```text
-A license for the unlimited use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this metallic nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this metallic you must provide <a href=showinfo:81349>Fermionic Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047184 · Added
-
-EN
-
-```text
-Defiant Latten Matte
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047185 · Added
-
-EN
-
-```text
-Defiant Latten Matte - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047186 · Added
-
-EN
-
-```text
-A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047187 · Added
-
-EN
-
-```text
-Defiant Latten Matte - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047188 · Added
-
-EN
-
-```text
-A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047189 · Added
-
-EN
-
-```text
-Avalon Aqua Gloss
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047190 · Added
-
-EN
-
-```text
-Avalon Aqua Gloss - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047191 · Added
-
-EN
-
-```text
-A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047192 · Added
-
-EN
-
-```text
-Avalon Aqua Gloss - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047193 · Added
-
-EN
-
-```text
-A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047194 · Added
-
-EN
-
-```text
-Harmonic Alloy
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047195 · Added
-
-EN
-
-```text
-Harmonic Alloy Metallic - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047196 · Added
-
-EN
-
-```text
-A license for the single use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047197 · Added
-
-EN
-
-```text
-Harmonic Alloy Metallic - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047198 · Added
-
-EN
-
-```text
-A license for the unlimited use of a metallic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this metallic nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this metallic you must provide <a href=showinfo:81349>Fermionic Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047199 · Added
-
-EN
-
-```text
-Avalon Aqua Matte
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047209 · Added
-
-EN
-
-```text
-Avalon Aqua Matte - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047210 · Added
-
-EN
-
-```text
-A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047211 · Added
-
-EN
-
-```text
-Avalon Aqua Matte - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047212 · Added
-
-EN
-
-```text
-A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047213 · Added
-
-EN
-
-```text
-Arkombine Dawn Satin
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047214 · Added
-
-EN
-
-```text
-Arkombine Dawn Satin - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047215 · Added
-
-EN
-
-```text
-A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047216 · Added
-
-EN
-
-```text
-Arkombine Dawn Satin - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047217 · Added
-
-EN
-
-```text
-A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047218 · Added
-
-EN
-
-```text
-Resonant Turf Gloss
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047219 · Added
-
-EN
-
-```text
-Resonant Turf Gloss - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047220 · Added
-
-EN
-
-```text
-A license for the single use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047221 · Added
-
-EN
-
-```text
-Resonant Turf Gloss - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047222 · Added
-
-EN
-
-```text
-A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047223 · Added
-
-EN
-
-```text
-Harmonius Bridge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047225 · Added
-
-EN
-
-```text
-Harmonius Bridge - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047226 · Added
-
-EN
-
-```text
-A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047228 · Added
-
-EN
-
-```text
-Harmonius Bridge - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047229 · Added
-
-EN
-
-```text
-A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047230 · Added
-
-EN
-
-```text
-Breach Control
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047231 · Added
-
-EN
-
-```text
-When inactive, the Breach control module uses field emitters in the same manner as a regular damage control unit. Once activated, it supercharges those field emitters to create waves of charge that ripple throughout the vessel, disrupting the efforts of any breacher teams before ultimately burning out the module.
-
-Grants a bonus to resistance for shield, armor, and hull.
-
-May be activated to grant a significant resistance to Breacher Pod damage for a limited period of time. However, it will 
-(truncated, 589 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047232 · Added
-
-EN
-
-```text
-Rebel Cross
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047233 · Added
-
-EN
-
-```text
-Rebel Cross - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047234 · Added
-
-EN
-
-```text
-A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047235 · Added
-
-EN
-
-```text
-Rebel Cross - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047236 · Added
-
-EN
-
-```text
-A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047237 · Added
-
-EN
-
-```text
-Remnant Honor
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047238 · Added
-
-EN
-
-```text
-Remnant Honor - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047239 · Added
-
-EN
-
-```text
-A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047240 · Added
-
-EN
-
-```text
-Remnant Honor - Unlimited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047241 · Added
-
-EN
-
-```text
-A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
-
-The digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047242 · Added
-
-EN
-
-```text
-Breacher Pod Damage Resistance
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047243 · Added
-
-EN
-
-```text
-Activated Breacher Pod Damage Received
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047249 · Added
-
-EN
-
-```text
-Breacher Pod Damage Received
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047254 · Added
-
-EN
-
-```text
-Breacher Pod Damage Control
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047273 · Added
-
-EN
-
-```text
-Kita-Aino - Gate to Celerity
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047274 · Added
-
-EN
-
-```text
-Celerity - Gate to Kita-Aino
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047283 · Added
-
-EN
-
-```text
-Tiberis - Gate to Fortitude
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047284 · Added
-
-EN
-
-```text
-Fortitude - Gate to Tiberis
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047285 · Added
-
-EN
-
-```text
-Vatna - Gate to Rigor
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047286 · Added
-
-EN
-
-```text
-Rigor - Gate to Vatna
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047305 · Added
-
-EN
-
-```text
-Sentry Rifter
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047306 · Added
-
-EN
-
-```text
-A Rifter class frigate with dedicated destructive capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047307 · Added
-
-EN
-
-```text
-Inspector Slasher
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047308 · Added
-
-EN
-
-```text
-A Slasher class frigate fitted with target painting capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047309 · Added
-
-EN
-
-```text
-Inspector Firetail
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047310 · Added
-
-EN
-
-```text
-A Republic Fleet Firetail class frigate fitted with target painting capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047311 · Added
-
-EN
-
-```text
-Sentry Corax
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047312 · Added
-
-EN
-
-```text
-A Corax class destroyer with dedicated destructive capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047313 · Added
-
-EN
-
-```text
-Clandestine Corax
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047314 · Added
-
-EN
-
-```text
-A Corax class destroyer fitted with ECM capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047315 · Added
-
-EN
-
-```text
-Clandestine Cormorant Navy Issue
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047316 · Added
-
-EN
-
-```text
-A Cormorant Navy Issue class destroyer fitted with ECM capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047317 · Added
-
-EN
-
-```text
-Sentry Thorax
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047318 · Added
-
-EN
-
-```text
-A Thorax class cruiser with dedicated destructive capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047319 · Added
-
-EN
-
-```text
-Sheriff Celestis
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047320 · Added
-
-EN
-
-```text
-A Celestis class cruiser fitted with a webifier.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047321 · Added
-
-EN
-
-```text
-Sheriff Vexor Navy Issue
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047322 · Added
-
-EN
-
-```text
-A Vexor Navy Issue class cruiser fitted with a webifier.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047323 · Added
-
-EN
-
-```text
-Sentry Oracle
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047324 · Added
-
-EN
-
-```text
-An Oracle class battlecruiser with dedicated destructive capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047325 · Added
-
-EN
-
-```text
-Regulator Prophecy
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047326 · Added
-
-EN
-
-```text
-A Prophecy class battlecruiser fitted with neutralizing capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047327 · Added
-
-EN
-
-```text
-Regulator Harbinger Navy Issue
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047328 · Added
-
-EN
-
-```text
-A Harbinger Navy Issue class battlecruiser fitted with neutralizing capabilities.
-
-This vessel has been assigned to a security team tasked with protecting AEGIS' secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047329 · Added
-
-EN
-
-```text
-Deputy Director Maelstrom
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047330 · Added
-
-EN
-
-```text
-A Maelstrom under the command of a high-ranking officer within AEGIS’ secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047331 · Added
-
-EN
-
-```text
-Deputy Director Rokh
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047332 · Added
-
-EN
-
-```text
-A Rokh under the command of a high-ranking officer within AEGIS’ secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047333 · Added
-
-EN
-
-```text
-Deputy Director Hyperion
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047334 · Added
-
-EN
-
-```text
-A Hyperion under the command of a high-ranking officer within AEGIS’ secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047335 · Added
-
-EN
-
-```text
-AEGIS Joint Operation Center
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047336 · Added
-
-EN
-
-```text
-Operation Avalon
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047337 · Added
-
-EN: *empty*
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047338 · Added
+### MessageID: 1047338 · Translation Modified
 
 EN
 
@@ -177585,536 +170609,10 @@ AEGIS activities are being revealed throughout space. Track down AEGIS Squalls a
 
 ZH
 
-```text
-统合部紧急干预和安全局的活动正在全宇宙范围内逐步暴露。追踪狂风庇护者并定位任务地点，协助完成“阿瓦隆调查”，获取奖励，并有机会代表本地帝国赢得舰队信任。
+```diff
+- 统合部紧急干预和安全局的活动正在全宇宙范围内逐步暴露。追踪狂风级庇护者并定位任务地点，协助完成“阿瓦隆调查”，获取奖励，并有机会代表本地帝国赢得[…]
++ 统合部紧急干预和安全局的活动正在全宇宙范围内逐步暴露。追踪狂风庇护者并定位任务地点，协助完成“阿瓦隆调查”，获取奖励，并有机会代表本地帝国赢得[…]
 ```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047383 · Added
-
-EN
-
-```text
-Shapash Alliance Emblem
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047384 · Added
-
-EN
-
-```text
-Emblems by Paragon bring new light to your ship personalization.
-
-By accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.
-
-Visit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.
-
-Paragon; be more.
-
-WARNING: Emblems are auto-injected on purchases and cann
-(truncated, 622 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047385 · Added
-
-EN
-
-```text
-Defiant Latten Matte - Limited
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047386 · Added
-
-EN
-
-```text
-Emblems by Paragon bring new light to your ship personalization.
-
-By accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.
-
-Visit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.
-
-Paragon; be more.
-
-WARNING: Emblems are auto-injected on purchases and cann
-(truncated, 622 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047389 · Added
-
-EN
-
-```text
-Cybele Alliance Emblem
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047390 · Added
-
-EN
-
-```text
-Emblems by Paragon bring new light to your ship personalization.
-
-By accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.
-
-Visit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.
-
-Paragon; be more.
-
-WARNING: Emblems are auto-injected on purchases and cann
-(truncated, 622 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047394 · Added
-
-EN
-
-```text
-AEGIS Joint Operation Center
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047395 · Added
-
-EN
-
-```text
-On the surface, AEGIS uses this military office to coordinate joint operations between EDENCOM and local military forces. However, it is also coordinating nearby sites conducting secret research projects that are somehow related to the Vanguard.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047396 · Added
-
-EN
-
-```text
-Edencom Front Operation
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047397 · Added
-
-EN
-
-```text
-A Caldari industrial station used as a front by Edencom.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047398 · Added
-
-EN
-
-```text
-Edencom Front Operation
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047399 · Added
-
-EN
-
-```text
-A Gallente industrial station used as a front by Edencom.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047400 · Added
-
-EN
-
-```text
-Edencom Front Operation
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047401 · Added
-
-EN
-
-```text
-A Minmatar industrial station used as a front by Edencom.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047410 · Added
-
-EN
-
-```text
-Gallente Pilot
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047411 · Added
-
-EN
-
-```text
-<font size="14"><b>Gallente Pilot Expert System</b></font>
-
-This Expert System makes available skills enabling a capsuleer to fly Gallente Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
-
-<b>The temporary skills provided by this Expert System last for seven days.</b>
-
-An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
-(truncated, 1,394 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047412 · Added
-
-EN
-
-```text
-Operation Avalon Combat Site Enemy Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047440 · Added
-
-EN
-
-```text
-This can be consumed when updating your portrait if it is in an accessible inventory location.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047441 · Added
-
-EN
-
-```text
-Operation Avalon Background
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047442 · Added
-
-EN
-
-```text
-Nemesis Command Outpost
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047444 · Added
-
-EN
-
-```text
-Federation Day Celebration Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047445 · Added
-
-EN
-
-```text
-This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald Metallic - Limited, Liberty's Wings - Limited, Background, Festival Launcher and a Four Freedoms Firework.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047446 · Added
-
-EN
-
-```text
-Federation Day Celebration Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047447 · Added
-
-EN
-
-```text
-This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald Metallic - Limited, Liberty's Wings - Limited, Background, Festival Launcher and a Four Freedoms Firework
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047448 · Added
-
-EN
-
-```text
-Air Small Structure 01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047449 · Added
-
-EN
-
-```text
-Air Small Structure 02a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047450 · Added
-
-EN
-
-```text
-Air Medium Structure 01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047451 · Added
-
-EN
-
-```text
-Air Medium Structure 02a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047452 · Added
-
-EN
-
-```text
-Air Medium Structure 03a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047453 · Added
-
-EN
-
-```text
-Air Connection 01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047454 · Added
-
-EN
-
-```text
-Air Connection 01b
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047455 · Added
-
-EN
-
-```text
-Air Connection 02a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047456 · Added
-
-EN
-
-```text
-Air Connection 02b
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047457 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047458 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
 
 
 
@@ -178185,511 +170683,9 @@ ZH
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047460 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047461 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047462 · Added
-
-EN
-
-```text
-Hyperion Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047463 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047464 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047465 · Added
-
-EN
-
-```text
-Moros Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047466 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047467 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047468 · Added
-
-EN
-
-```text
-Ninazu Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047469 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047470 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047471 · Added
-
-EN
-
-```text
-Keres Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047472 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047473 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047474 · Added
-
-EN
-
-```text
-Arazu Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047475 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047476 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047477 · Added
-
-EN
-
-```text
-Kronos Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047478 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047479 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047480 · Added
-
-EN
-
-```text
-Hecate Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047481 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047482 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047483 · Added
-
-EN
-
-```text
-Imicus Navy Issue Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047484 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047485 · Added
-
-EN
-
-```text
-A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047486 · Added
-
-EN
-
-```text
-Maulus Pride of the Federation SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047489 · Added
-
-EN
-
-```text
-AEGIS Security Platform
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047496 · Added
-
-EN
-
-```text
-Cybele Corporation Emblem
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047497 · Added
-
-EN
-
-```text
-Emblems by Paragon bring new light to your ship personalization.
-
-By accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.
-
-Visit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.
-
-Paragon; be more.
-
-WARNING: Emblems are auto-injected on purchases and cann
-(truncated, 622 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047502 · Added
-
-EN
-
-```text
-Vanguard Avalon: Assignments
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047503 · Added
-
-EN
-
-```text
-Vanguard Expeditions Completed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047504 · Added
-
-EN
-
-```text
-<i>Complete 6 Vanguard expeditions.</i>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047505 · Added
-
-EN
-
-```text
-Vanguard Avalon: POI Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047506 · Added
-
-EN
-
-```text
-POIs destroyed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047507 · Added
+### MessageID: 1047507 · Translation Modified
 
 EN
 
@@ -178700,31 +170696,15 @@ EN
 
 ZH
 
-```text
-<i>摧毁10个在阿瓦隆调查星系的目标点中发现的纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台。<br><br>目标点无法通过任何扫描手段直接发现。但它们会作为狂风庇护者航线的目的地出现。</i>
+```diff
+- […]局安保平台。<br><br>目标点无法通过任何扫描手段直接发现。但它们会作为狂风级庇护者航线的目的地出现。</i>
++ […]局安保平台。<br><br>目标点无法通过任何扫描手段直接发现。但它们会作为狂风庇护者航线的目的地出现。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047508 · Added
-
-EN
-
-```text
-Vanguard Avalon: Roamer Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047509 · Added
+### MessageID: 1047509 · Translation Modified
 
 EN
 
@@ -178735,17 +170715,15 @@ AEGIS Squalls destroyed
 
 ZH
 
-```text
-已摧毁狂风庇护者
+```diff
+- 已摧毁狂风级庇护者
++ 已摧毁狂风庇护者
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047510 · Added
+### MessageID: 1047510 · Translation Modified
 
 EN
 
@@ -178756,115 +170734,15 @@ EN
 
 ZH
 
-```text
-<i>扫描并摧毁15艘阿瓦隆调查星系中的统合部紧急干预和安全局狂风级。
+```diff
+- <i>扫描并摧毁15艘阿瓦隆调查星系中的统合部紧急干预和安全局狂风舰。
++ <i>扫描并摧毁15艘阿瓦隆调查星系中的统合部紧急干预和安全局狂风级。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047511 · Added
-
-EN
-
-```text
-Vanguard Avalon: Mini Bosses Repeatable Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047512 · Added
-
-EN
-
-```text
-Deputy Directors destroyed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047513 · Added
-
-EN
-
-```text
-<i>Destroy six Deputy Directors in AEGIS Joint Operation Center, POI: AEGIS Security Platform, or Nemesis Command Outpost sites.</i>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047515 · Added
-
-EN
-
-```text
-Vanguard Avalon: Mini Bosses Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047516 · Added
-
-EN
-
-```text
-Deputy Directors destroyed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047517 · Added
-
-EN
-
-```text
-<i>Destroy 15 Deputy Directors in AEGIS Joint Operation Center, POI: AEGIS Security Platform, or Nemesis Command Outpost sites.</i>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047518 · Added
-
-EN
-
-```text
-Vanguard Avalon: Roamer Repeatable
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047519 · Added
+### MessageID: 1047519 · Translation Modified
 
 EN
 
@@ -178875,17 +170753,15 @@ AEGIS Squalls destroyed
 
 ZH
 
-```text
-已摧毁狂风庇护者
+```diff
+- 已摧毁狂风级庇护者
++ 已摧毁狂风庇护者
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047520 · Added
+### MessageID: 1047520 · Translation Modified
 
 EN
 
@@ -178896,769 +170772,15 @@ EN
 
 ZH
 
-```text
-<i>扫描并摧毁阿瓦隆调查系统中的6艘狂风庇护者舰船。</i>
+```diff
+- <i>扫描并摧毁阿瓦隆调查系统中的6艘狂风级庇护者舰船。</i>
++ <i>扫描并摧毁阿瓦隆调查系统中的6艘狂风庇护者舰船。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047536 · Added
-
-EN
-
-```text
-The first-ever fighter carrier constructed by the Caldari State, under the command of the legendary Admiral Tovil-Toba. Originally constructed as a water freighter, the Kairiola was refitted in response to the Gallente's bombardment of Caldari Prime.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047539 · Added
-
-EN
-
-```text
-Deputy Director Apocalypse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047540 · Added
-
-EN
-
-```text
-An Apocalypse under the command of a high-ranking officer within AEGIS’ secret projects.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047570 · Added
-
-EN
-
-```text
-Imperial Defense Platforms
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047572 · Added
-
-EN
-
-```text
-Operation Avalon Combat Site Boss Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047574 · Added
-
-EN
-
-```text
-Paragon Medium Structure 01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047575 · Added
-
-EN
-
-```text
-Paragon Small Structure 01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047576 · Added
-
-EN
-
-```text
-Paragon Station Harbor s01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047577 · Added
-
-EN
-
-```text
-Paragon Station Harbor m01a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047578 · Added
-
-EN
-
-```text
-Paragon Center Hub
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047579 · Added
-
-EN
-
-```text
-Paragon Small Structure 03a
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047580 · Added
-
-EN
-
-```text
-Manifest - Paragon Fulfilment Center
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047581 · Added
-
-EN
-
-```text
-Soaring Federation Background
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047582 · Added
-
-EN
-
-```text
-This can be consumed when updating your portrait if it is in an accessible inventory location.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047587 · Added
-
-EN
-
-```text
-Director Thunderchild
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047588 · Added
-
-EN
-
-```text
-A Thunderchild under the command of a director, one of the military commanders overseeing AEGIS’ secret projects. 
-
-Destroying the Director will conclude the local Avalon Investigation.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047591 · Added
-
-EN
-
-```text
-From inside this center, AEGIS researchers administer tests to aid in the development of their mysterious project, “Nemesis”.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047592 · Added
-
-EN
-
-```text
-The wreck of a sentry gun that was used in an active fire test. Burn residue across the surface indicates that whatever was being tested destroyed this sentry gun with incredible speed and inhuman precision.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047593 · Added
-
-EN
-
-```text
-From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047596 · Added
-
-EN
-
-```text
-All known objectives, including available, completed, and upcoming objectives.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047597 · Added
-
-EN
-
-```text
-Objectives you are currently participating in.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047598 · Added
-
-EN
-
-```text
-Objectives that have been completed by the community and are no longer available for contribution.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047599 · Added
-
-EN
-
-```text
-Objectives scheduled to become available in the near future.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047600 · Added
-
-EN
-
-```text
-Objectives that are currently active and open for contribution.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047637 · Added
-
-EN
-
-```text
-Operation Avalon Hidden Combat POI Boss Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047644 · Added
-
-EN
-
-```text
-Concord Station - CS1
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047645 · Added
-
-EN
-
-```text
-Concord Station - CS3
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047646 · Added
-
-EN
-
-```text
-Concord Station - GS5
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047647 · Added
-
-EN
-
-```text
-Concord Station - GS6
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047706 · Added
-
-EN
-
-```text
-A covert research outpost working on a project known only to the leading members of AEGIS command, codenamed “Nemesis”.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047707 · Added
-
-EN
-
-```text
-A vault containing resources used by the Nemesis research team in their clandestine experiments.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047708 · Added
-
-EN
-
-```text
-A vault containing resources needed for the maintenance of this site's surveillance equipment, along with the data that surveillance equipment has gathered.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047720 · Added
-
-EN
-
-```text
-Decoractions
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047721 · Added
-
-EN
-
-```text
-Titles
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047722 · Added
-
-EN
-
-```text
-Operation Avalon Big Boss Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047723 · Added
-
-EN
-
-```text
-Upwell Wreckage
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047724 · Added
-
-EN
-
-```text
-Operation Avalon Combat Site Large Enemy Spawner (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047735 · Added
-
-EN
-
-```text
-Forever Creative
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047736 · Added
-
-EN
-
-```text
-Forever Creative
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047737 · Added
-
-EN
-
-```text
-Forever Creative
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047738 · Added
-
-EN
-
-```text
-Forever Creative
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047739 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047740 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047741 · Added
-
-EN
-
-```text
-Dragoon Navy Issue Forever Creative SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047742 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047743 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047744 · Added
-
-EN
-
-```text
-Corax Navy Issue Forever Creative SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047745 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047746 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047747 · Added
-
-EN
-
-```text
-Talwar Fleet Issue Forever Creative SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047748 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047749 · Added
-
-EN
-
-```text
-In the face of an unknowable future, the only defense is unending creativity.
-- Evermore, President, Alexander Ducasse
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047750 · Added
-
-EN
-
-```text
-Algos Navy Issue Forever Creative SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047751 · Added
+### MessageID: 1047751 · Translation Modified
 
 EN
 
@@ -179669,33 +170791,15 @@ Poteque 'Prospector' Salvaging SV-906
 
 ZH
 
-```text
-波特克 掘金者 打捞 SV-906
+```diff
+- 打捞SV-906的波特克“掘金者”
++ 波特克 掘金者 打捞 SV-906
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047752 · Added
-
-EN
-
-```text
-A neural Interface upgrade that boosts the pilot's exploration skills.
-
-6% increase to chance of salvage retrieval.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047755 · Added
+### MessageID: 1047755 · Translation Modified
 
 EN
 
@@ -179706,219 +170810,15 @@ Poteque 'Prospector' Salvaging SV-906 Blueprint
 
 ZH
 
-```text
-波特克 掘金者 打捞 SV-906蓝图
+```diff
+- 打捞SV-906蓝图的波特克“掘金者”
++ 波特克 掘金者 打捞 SV-906蓝图
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047756 · Added
-
-EN
-
-```text
-VDB_Cloud_Infinite_02a_Fluffy
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047767 · Added
-
-EN
-
-```text
-A military office coordinating joint operations. It is suspected of involvement in secret research into the Vanguard.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047768 · Added
-
-EN
-
-```text
-On the surface, AEGIS uses this military office to coordinate joint operations between EDENCOM and local military forces. However, it is also involved in secret research projects relating to the Vanguard.<br><br><br><b>Time to complete:</b> Approximately 15 minutes.<br><b>Hostiles:</b> EDENCOM.<br><b>Size:</b> 1+ pilots.<br><b>Roles:</b> Enforcer.<br><b>Ship Restrictions:</b> Cruisers and smaller.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047775 · Added
-
-EN
-
-```text
-Cavalry Clash Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047776 · Added
-
-EN
-
-```text
-<b>+20% Warp Speed, -12% Ship Inertia, Base duration: 10 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128.</b>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047780 · Added
-
-EN
-
-```text
-Astrograph Clash Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047781 · Added
-
-EN
-
-```text
-<b>+20% Scan Probe Strength, +20% Scan Resolution. Base duration: 10 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047786 · Added
-
-EN
-
-```text
-SITREP Clash Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047787 · Added
-
-EN
-
-```text
-<b>+20% D-Scan Range. Base duration: 10 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047788 · Added
-
-EN
-
-```text
-Upwell Wreck
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047789 · Added
-
-EN
-
-```text
-There may still be something worth salvaging from the wreck of this Upwell vessel.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047790 · Added
-
-EN
-
-```text
-Upwell Avalanche Wreck
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047791 · Added
-
-EN
-
-```text
-There may still be something worth salvaging from the wreck of this Avalanche.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047792 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047793 · Added
+### MessageID: 1047793 · Translation Modified
 
 EN
 
@@ -179929,31 +170829,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047794 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047795 · Added
+### MessageID: 1047795 · Translation Modified
 
 EN
 
@@ -179964,31 +170848,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047796 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047797 · Added
+### MessageID: 1047797 · Translation Modified
 
 EN
 
@@ -179999,31 +170867,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047798 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047799 · Added
+### MessageID: 1047799 · Translation Modified
 
 EN
 
@@ -180034,31 +170886,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047800 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047801 · Added
+### MessageID: 1047801 · Translation Modified
 
 EN
 
@@ -180069,31 +170905,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047802 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047803 · Added
+### MessageID: 1047803 · Translation Modified
 
 EN
 
@@ -180104,31 +170924,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047804 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047805 · Added
+### MessageID: 1047805 · Translation Modified
 
 EN
 
@@ -180139,31 +170943,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047806 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047807 · Added
+### MessageID: 1047807 · Translation Modified
 
 EN
 
@@ -180174,31 +170962,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047808 · Added
-
-EN
-
-```text
-Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047809 · Added
+### MessageID: 1047809 · Translation Modified
 
 EN
 
@@ -180209,227 +170981,15 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 
 ZH
 
-```text
-代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
+```diff
+- […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。
++ […]合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047810 · Added
-
-EN
-
-```text
-Coherence Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047811 · Added
-
-EN
-
-```text
-<b>+20 Analyzer Coherence, +20 Analyzer Strength. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047814 · Added
-
-EN
-
-```text
-Upcycle Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047815 · Added
-
-EN
-
-```text
-<b>-20% Salvage Duration. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047820 · Added
-
-EN
-
-```text
-Requisition Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047821 · Added
-
-EN
-
-```text
-<b>+20% Warp Disruptor and Scrambler Range. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047822 · Added
-
-EN
-
-```text
-Zero-In Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047823 · Added
-
-EN
-
-```text
-<b>+16% Turret Tracking Speed. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047824 · Added
-
-EN
-
-```text
-Soaring Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047825 · Added
-
-EN
-
-```text
-<b>+16% Missile Flight Time. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>. 
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047826 · Added
-
-EN
-
-```text
-Hallowed Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047827 · Added
-
-EN
-
-```text
-<b>+16% Shield Boost. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047828 · Added
-
-EN
-
-```text
-Tenacious Volatile Booster
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047829 · Added
-
-EN
-
-```text
-<b>+16% Armor Repair. Base duration: 3.5 minutes.</b>
-
-This booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047848 · Added
+### MessageID: 1047848 · Translation Modified
 
 EN
 
@@ -180440,31 +171000,15 @@ AEGIS Battlecruiser Wreck
 
 ZH
 
-```text
-统合部紧急干预和安全局战列巡洋舰残骸
+```diff
+- 庇护者战列巡洋舰残骸
++ 统合部紧急干预和安全局战列巡洋舰残骸
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047849 · Added
-
-EN
-
-```text
-The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047850 · Added
+### MessageID: 1047850 · Translation Modified
 
 EN
 
@@ -180475,31 +171019,15 @@ AEGIS Battleship Wreck
 
 ZH
 
-```text
-统合部紧急干预和安全局战列舰残骸
+```diff
+- 庇护者战列舰残骸
++ 统合部紧急干预和安全局战列舰残骸
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047851 · Added
-
-EN
-
-```text
-The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047852 · Added
+### MessageID: 1047852 · Translation Modified
 
 EN
 
@@ -180510,31 +171038,15 @@ AEGIS Frigate Wreck
 
 ZH
 
-```text
-统合部紧急干预和安全局护卫舰残骸
+```diff
+- 庇护者护卫舰残骸
++ 统合部紧急干预和安全局护卫舰残骸
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047853 · Added
-
-EN
-
-```text
-The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047854 · Added
+### MessageID: 1047854 · Translation Modified
 
 EN
 
@@ -180545,59 +171057,15 @@ AEGIS Cruiser Wreck
 
 ZH
 
-```text
-统合部紧急干预和安全局巡洋舰残骸
+```diff
+- 庇护者巡洋舰残骸
++ 统合部紧急干预和安全局巡洋舰残骸
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047855 · Added
-
-EN
-
-```text
-The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047866 · Added
-
-EN
-
-```text
-Flotilla Aeon Wreckage
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047867 · Added
-
-EN
-
-```text
-There may still be something worth salvaging from the wreck of this Aeon that was once part of the Avalon flotilla.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047870 · Added
+### MessageID: 1047870 · Translation Modified
 
 EN
 
@@ -180608,117 +171076,15 @@ AEGIS Destroyer Wreck
 
 ZH
 
-```text
-统合部紧急干预和安全局驱逐舰残骸
+```diff
+- 庇护者驱逐舰残骸
++ 统合部紧急干预和安全局驱逐舰残骸
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047871 · Added
-
-EN
-
-```text
-The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047874 · Added
-
-EN
-
-```text
-Lorharyth’s Modified Inertial Stabilizer
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047875 · Added
-
-EN
-
-```text
-Improves ship handling and maneuverability. 
-
-Penalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047884 · Added
-
-EN
-
-```text
-This crate contains an unknown SKIN from the Arkombine Arisen SKIN line.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047885 · Added
-
-EN
-
-```text
-Arkombine Arisen SKIN Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047886 · Added
-
-EN
-
-```text
-Arkombine Arisen SKIN Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047887 · Added
-
-EN
-
-```text
-This crate contains an unknown SKIN from the Arkombine Arisen SKIN line.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047956 · Added
+### MessageID: 1047956 · Translation Modified
 
 EN
 
@@ -180729,17 +171095,15 @@ Destroy the Director at local Nemesis Command and conclude this Avalon Investiga
 
 ZH
 
-```text
-消灭当地纳美西斯指挥部的指挥官，结束阿瓦隆调查。
+```diff
+- 消灭当地纳美西斯级指挥部的指挥官，结束阿瓦隆调查。
++ 消灭当地纳美西斯指挥部的指挥官，结束阿瓦隆调查。
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047957 · Added
+### MessageID: 1047957 · Translation Modified
 
 EN
 
@@ -180750,45 +171114,15 @@ Nemesis Command Uncovered
 
 ZH
 
-```text
-发现纳美西斯指挥中心
+```diff
+- 发现纳美西斯级指挥中心
++ 发现纳美西斯指挥中心
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047960 · Added
-
-EN
-
-```text
-Additional base <b>Shield</b>, <b>Armor</b> and <b>Structure</b> hitpoints for <b>Tactical Destroyers</b>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047961 · Added
-
-EN
-
-```text
-FW ELT-5 Dungeon Tactical Destroyer Proximity Effect (DO NOT TRANSLATE)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047966 · Added
+### MessageID: 1047966 · Translation Modified
 
 EN
 
@@ -180799,73 +171133,15 @@ AEGIS Squall Wreck
 
 ZH
 
-```text
-狂风庇护者残骸
+```diff
+- 狂风级庇护者残骸
++ 狂风庇护者残骸
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047967 · Added
-
-EN
-
-```text
-The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047968 · Added
-
-EN
-
-```text
-A command center coordinating all work on the mysterious project Nemesis. Expect serious opposition to any attacks.<br><br><br><b>Time to complete:</b> Approximately 20 minutes.<br><b>Hostiles:</b> EDENCOM.<br><b>Size:</b> 1+ pilots.<br><b>Roles:</b> Enforcer.<br><b>Ship Restrictions:</b> Cruisers and smaller.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047980 · Added
-
-EN
-
-```text
-Vanguard Avalon: POI Repeateble Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047981 · Added
-
-EN
-
-```text
-POIs Destroyed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047982 · Added
+### MessageID: 1047982 · Translation Modified
 
 EN
 
@@ -180876,45 +171152,15 @@ EN
 
 ZH
 
-```text
-<i>摧毁4个纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台（位于阿瓦隆调查星系中的POI）。<br><br>POI无法通过任何扫描手段直接发现。但它们会作为狂风庇护者航线的目的地出现。</i>
+```diff
+- […]的POI）。<br><br>POI无法通过任何扫描手段直接发现。但它们会作为狂风级庇护者航线的目的地出现。</i>
++ […]的POI）。<br><br>POI无法通过任何扫描手段直接发现。但它们会作为狂风庇护者航线的目的地出现。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047983 · Added
-
-EN
-
-```text
-Vanguard Avalon: Hacking Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047984 · Added
-
-EN
-
-```text
-Vaults hacked
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047985 · Added
+### MessageID: 1047985 · Translation Modified
 
 EN
 
@@ -180925,45 +171171,15 @@ EN
 
 ZH
 
-```text
-<i>破译位于分舰队观察站或POI中的30个监视保险库或研究保险库：纳美西斯研究哨站点。</i>
+```diff
+- <i>破译位于分舰队观察站或POI中的30个监视保险库或研究保险库：纳美西斯级研究哨站点。</i>
++ <i>破译位于分舰队观察站或POI中的30个监视保险库或研究保险库：纳美西斯研究哨站点。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047986 · Added
-
-EN
-
-```text
-Vanguard Avalon: Hacking Repeatable Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047987 · Added
-
-EN
-
-```text
-Vaults hacked
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047988 · Added
+### MessageID: 1047988 · Translation Modified
 
 EN
 
@@ -180974,87 +171190,15 @@ EN
 
 ZH
 
-```text
-<i>破译位于分舰队观察站或POI中的12个监视保险库或研究保险库：纳美西斯研究哨站点。</i>
+```diff
+- <i>破译位于分舰队观察站或POI中的12个监视保险库或研究保险库：纳美西斯级研究哨站点。</i>
++ <i>破译位于分舰队观察站或POI中的12个监视保险库或研究保险库：纳美西斯研究哨站点。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047989 · Added
-
-EN
-
-```text
-Vanguard Avalon: Salvaging Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047990 · Added
-
-EN
-
-```text
-Wrecks salvaged
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047991 · Added
-
-EN
-
-```text
-<i>Salvage 150 Upwell Wrecks, Upwell Avalanche Wrecks, Flotilla Aeon Wreckages or Target Wrecks found in Upwell Wreckage or POI: Nemesis Test Center sites.</i>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047992 · Added
-
-EN
-
-```text
-Vanguard Avalon: Salvaging Repeatable Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047993 · Added
-
-EN
-
-```text
-Wrecks salvaged
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047994 · Added
+### MessageID: 1047994 · Translation Modified
 
 EN
 
@@ -181065,45 +171209,15 @@ EN
 
 ZH
 
-```text
-<i>打捞在昇威残骸或POI中发现的60艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯测试中心站点。</i>
+```diff
+- […]OI中发现的60艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯级测试中心站点。</i>
++ […]OI中发现的60艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯测试中心站点。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047995 · Added
-
-EN
-
-```text
-Vanguard Avalon: Big Boss Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047996 · Added
-
-EN
-
-```text
-Directors destroyed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047997 · Added
+### MessageID: 1047997 · Translation Modified
 
 EN
 
@@ -181114,45 +171228,15 @@ EN
 
 ZH
 
-```text
-<i>摧毁5艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
+```diff
+- <i>摧毁5艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯级指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
++ <i>摧毁5艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1047998 · Added
-
-EN
-
-```text
-Vanguard Avalon: Big Boss Repeating Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1047999 · Added
-
-EN
-
-```text
-Directors destroyed
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048000 · Added
+### MessageID: 1048000 · Translation Modified
 
 EN
 
@@ -181163,1118 +171247,15 @@ EN
 
 ZH
 
-```text
-<i>摧毁2艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
+```diff
+- <i>摧毁2艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯级指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
++ <i>摧毁2艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>
 ```
 
 
-IT: *empty*
 
 
-
-
-### MessageID: 1048001 · Added
-
-EN
-
-```text
-Vanguard Avalon: Item Trader Main Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048002 · Added
-
-EN
-
-```text
-Items traded
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048003 · Added
-
-EN
-
-```text
-<i>Receive 30 items from Avalon Flotilla Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Avalon Flotilla Trader locations:</b><br>Amarr: Amarr, Sifilar<br>Caldari: New Caldari, Kinakka, Poitot<br>Gallente: Dodixie, Ostingele<br>Minmatar: Rens, Hadozeko, SL-YBS</i>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048004 · Added
-
-EN
-
-```text
-Vanguard Avalon: Item Trader Repeatable Challenge
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048005 · Added
-
-EN
-
-```text
-Items traded
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048006 · Added
-
-EN
-
-```text
-<i>Receive 12 items from Avalon Flotilla Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Avalon Flotilla Trader locations:</b><br>Amarr: Amarr, Sifilar<br>Caldari: New Caldari, Kinakka, Poitot<br>Gallente: Dodixie, Ostingele<br>Minmatar: Rens, Hadozeko, SL-YBS</i>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048007 · Added
-
-EN
-
-```text
-Operation Avalon
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048008 · Added
-
-EN
-
-```text
-Sites associated with Operation Avalon
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048012 · Added
-
-EN
-
-```text
-Include Restricted Objectives
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048031 · Added
-
-EN
-
-```text
-Minmatar Pilot
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048032 · Added
-
-EN
-
-```text
-<font size="14"><b>Minmatar Pilot Expert System</b></font>
-
-This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Minmatar-focused supporting skills.
-
-<b>The temporary skills provided by this Expert System last for seven days.</b>
-
-An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
-(truncated, 1,394 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048038 · Added
-
-EN
-
-```text
-The remains of an Upwell convoy, it may contain valuable salvage.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048089 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048093 · Added
-
-EN
-
-```text
-Locations of Avalon Investigations
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048094 · Added
-
-EN
-
-```text
-A cypher used to encrypt or decrypt a strand of a Vanguard’s resonant consciousness. These cyphers are only shared with those who have earned the Vanguard’s trust. The theft or recreation of a Resonant Cypher is a sign of malicious intent against the Vanguard and is considered a heinous crime by the Avalon Flotilla.
-
-Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048095 · Added
-
-EN
-
-```text
-Vanguard Resonant Cypher
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048096 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048097 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048098 · Added
-
-EN
-
-```text
-The remains of an Upwell convoy, left behind following a battle with ships from the Avalon Flotilla.<br><br><br><b>Time to complete:</b> Approximately 10 minutes.<br> <b>Size:</b> 1+ pilots.<br><b>Roles:</b> Salvager.<br><b>Modules:</b> Salvager.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048099 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048100 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048101 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader ( copy )
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048103 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048104 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048105 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048106 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048107 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048108 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048109 · Added
-
-EN
-
-```text
-Avalon Flotilla Trader
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048110 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048111 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048112 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048113 · Added
-
-EN
-
-```text
-This Aeon-class vessel is acting as a representative for the larger Avalon Flotilla, which remains hidden while its flagship is under construction.<br>
-
-It will gladly offer rewards to those who have Vanguard Resonant Cyphers to trade.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048116 · Added
-
-EN
-
-```text
-A vault containing resources needed for the maintenance of this site's surveillance equipment, along with the data that surveillance equipment has gathered.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048149 · Added
-
-EN
-
-```text
-This crate contains a randomly selected Operation Avalon event booster.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048150 · Added
-
-EN
-
-```text
-Operation Avalon Booster Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048151 · Added
-
-EN
-
-```text
-Operation Avalon Assets
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048152 · Added
-
-EN
-
-```text
-Operation Avalon Booster Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048153 · Added
-
-EN
-
-```text
-This crate contains a randomly selected Operation Avalon event booster.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048155 · Added
-
-EN
-
-```text
-Flotilla Harmonic Shielding
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048156 · Added
-
-EN
-
-```text
-From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048157 · Added
-
-EN
-
-```text
-A command outpost overseeing all work on project Nemesis.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048167 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048168 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048169 · Added
-
-EN
-
-```text
-Cenotaph Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048170 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048171 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048172 · Added
-
-EN
-
-```text
-Probe Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048173 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048174 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048175 · Added
-
-EN
-
-```text
-Talwar Fleet Issue Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048176 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048177 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048178 · Added
-
-EN
-
-```text
-Corax Navy Issue Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048179 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048180 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048181 · Added
-
-EN
-
-```text
-Caracal Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048182 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048183 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048184 · Added
-
-EN
-
-```text
-Dragoon Navy Issue Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048185 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048186 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048187 · Added
-
-EN
-
-```text
-Aeon Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048188 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048189 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048190 · Added
-
-EN
-
-```text
-Salvation Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048191 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 857 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048192 · Added
-
-EN
-
-```text
-The Arkombine is a splinter group of disillusioned clone soldiers. Betrayed by the nations they swore to serve they now seek independence and the means to undo what has been done to them. Their ranks are comprised of clone soldiers from all four of the major empires.
-
-With the rise of the Deathless Circle and new cloning technology holding out the hope of healing the deepest psychological scars of the old warclones, and catapulting them to new heights, the Arkombine have gathered many old sold
-(truncated, 989 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048193 · Added
-
-EN
-
-```text
-Algos Navy Issue Arkombine Arisen SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048203 · Added
-
-EN
-
-```text
-Liberation Day Celebration Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048204 · Added
-
-EN
-
-```text
-This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048212 · Added
-
-EN
-
-```text
-Liberation Day Celebration Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048213 · Added
-
-EN
-
-```text
-This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048216 · Added
+### MessageID: 1048216 · Translation Modified
 
 EN
 
@@ -182285,1007 +171266,10 @@ Aralez
 
 ZH
 
-```text
-翼灵
+```diff
+- 翼灵级
++ 翼灵
 ```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048217 · Added
-
-EN
-
-```text
-A prototype medium combat drone designed by Mordu’s Legion.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048262 · Added
-
-EN
-
-```text
-From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048291 · Added
-
-EN
-
-```text
-Liberated Matar Background
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048292 · Added
-
-EN
-
-```text
-This can be consumed when updating your portrait if it is in an accessible inventory location.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048294 · Added
-
-EN
-
-```text
-Foundation Wisdom Background
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048295 · Added
-
-EN
-
-```text
-This can be consumed when updating your portrait if it is in an accessible inventory location.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048296 · Added
-
-EN
-
-```text
-Union Contemplation Background
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048297 · Added
-
-EN
-
-```text
-This can be consumed when updating your portrait if it is in an accessible inventory location.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048335 · Added
-
-EN
-
-```text
-Operation Avalon
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048403 · Added
-
-EN
-
-```text
-A more valuable cypher used to encrypt or decrypt a strand of a ranking member of the Vanguard’s resonant consciousness. 
-
-These cyphers are only shared with those who have earned the Vanguard’s trust. The theft or recreation of a Resonant Cypher is a sign of malicious intent against the Vanguard and is considered a heinous crime by the Avalon Flotilla.
-
-Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048404 · Added
-
-EN
-
-```text
-Ranking Vanguard Resonant Cypher
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048427 · Added
-
-EN
-
-```text
-Operation Avalon is Here!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048428 · Added
-
-EN
-
-```text
-Fight, hack and salvage in support of planetside warclones.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048429 · Added
-
-EN
-
-```text
-Destroy roaming convoys for immediate rewards—or follow them to discover hidden opportunities…
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048430 · Added
-
-EN
-
-```text
-Exchange Vanguard Tokens within your empire’s space to influence Avalon’s initial destination
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048431 · Added
-
-EN
-
-```text
-Unlock powerful boosters, modules and components, character backgrounds and more!
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048433 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048434 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048435 · Added
-
-EN
-
-```text
-Loki Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048436 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048437 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048438 · Added
-
-EN
-
-```text
-Bifrost Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048439 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048440 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048441 · Added
-
-EN
-
-```text
-Stiletto Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048442 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048443 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048444 · Added
-
-EN
-
-```text
-Prowler Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048445 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048446 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048447 · Added
-
-EN
-
-```text
-Claymore Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048448 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048449 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048450 · Added
-
-EN
-
-```text
-Tempest Fleet Issue Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048451 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048452 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048453 · Added
-
-EN
-
-```text
-Ymir Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048454 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048455 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048456 · Added
-
-EN
-
-```text
-Nomad Hrada-Oki Offender SKIN
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048457 · Added
-
-EN
-
-```text
-Advanced Carriers
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048458 · Added
-
-EN
-
-```text
-Command Carriers
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048459 · Added
-
-EN
-
-```text
-Command Carriers
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048460 · Added
-
-EN
-
-```text
-Minmatar
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048461 · Added
-
-EN
-
-```text
-Minmatar
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048565 · Added
-
-EN
-
-```text
-Amarr Pilot
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048566 · Added
-
-EN
-
-```text
-<font size="14"><b>Amarr Pilot Expert System</b></font>
-
-This Expert System makes available skills enabling a capsuleer to fly Amarr Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Amarr-focused supporting skills.
-
-<b>The temporary skills provided by this Expert System last for seven days.</b>
-
-An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active ren
-(truncated, 1,385 chars total)
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048571 · Added
-
-EN
-
-```text
-Foundation Day Celebration Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048572 · Added
-
-EN
-
-```text
-This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048577 · Added
-
-EN
-
-```text
-Foundation Day Celebration Crate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048578 · Added
-
-EN
-
-```text
-This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048581 · Added
-
-EN
-
-```text
-Invalid or spoofed link
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048592 · Added
-
-EN
-
-```text
-Rogue Edge Construction Site
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048593 · Added
-
-EN
-
-```text
-Under Construction Stargate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048594 · Added
-
-EN
-
-```text
-A product of the Operation Rogue Edge campaign, the construction of this Stargate depends on the progress being made by capsuleers to support the Federation’s bold research initiative.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048595 · Added
-
-EN
-
-```text
-Federation Construction Stargate Deployment Blocker
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048596 · Added
-
-EN
-
-```text
-Rogue Edge Survey Site
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048601 · Added
-
-EN
-
-```text
-State Corridor Construction Site
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048602 · Added
-
-EN
-
-```text
-Under Construction Stargate
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048603 · Added
-
-EN
-
-```text
-A product of the State Corridor Initiative campaign, the construction of this Stargate depends on the progress being made by capsuleers in securing Syndicate for the Caldari.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048604 · Added
-
-EN
-
-```text
-State Construction Stargate Deployment Blocker
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048605 · Added
-
-EN
-
-```text
-State Corridor Construction Site
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048609 · Added
-
-EN
-
-```text
-The State prohibits Upwell Structure deployment within 100,000km of the State Corridor Construction Site.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048610 · Added
-
-EN
-
-```text
-The Federation prohibits Upwell Structure deployment within 100,000km of Rogue Edge sites.
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048802 · Added
-
-EN
-
-```text
-Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048803 · Added
-
-EN
-
-```text
-Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048804 · Added
-
-EN
-
-```text
-Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
-```
-
-
-IT: *empty*
-
-
-
-
-### MessageID: 1048805 · Added
-
-EN
-
-```text
-Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
-```
-
-
-IT: *empty*
 
 
 
@@ -183299,9 +171283,6 @@ VDB_Cloud_Vortex_05a_DarkStorm_01a_Rotateable
 ```
 
 
-DE, ES, FR, IT, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ---
@@ -183312,14 +171293,14 @@ DE, ES, FR, IT, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 4 | 69 | 0 |
+| de | 0 | 6 | 0 |
 | en | 4 | 69 | 0 |
-| es | 4 | 69 | 0 |
-| fr | 4 | 69 | 0 |
-| ja | 4 | 69 | 0 |
-| ko | 4 | 69 | 0 |
-| ru | 4 | 69 | 0 |
-| zh | 4 | 69 | 0 |
+| es | 0 | 18 | 0 |
+| fr | 0 | 8 | 0 |
+| ja | 0 | 14 | 0 |
+| ko | 0 | 3 | 0 |
+| ru | 0 | 12 | 0 |
+| zh | 0 | 14 | 0 |
 
 ## Details
 
@@ -183330,55 +171311,6 @@ EN
 ```diff
 - […]lanet, a new state had to be built from the scratch in very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living on this past achievement ever since. Though not very active any more in the wheeling and dealing of power politics it still holds some very valuable cards on its hand.
 + […]lanet, a new state had to be built from scratch in a very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living off this past achievement ever since. Though no longer very active in the wheeling and dealing of power politics, it still holds some very valuable cards in its hand.
-```
-
-
-DE
-
-```text
-Nach dem großen Exodus zur Zeit des Caldari Ausbruchs, als die Caldari ihren Heimatplaneten verließen, musste in kürzester Zeit ein neuer Staat aus dem Nichts errichtet werden. Caldari Constructions war eine der Firmen, die sich an diesem Vorhaben beteiligten, und lebt seit jeher von dieser Errungenschaft. Obwohl die Firma nicht mehr allzu sehr an den politischen Machenschaften beteiligt ist, hat sie noch das eine oder andere Ass im Ärmel.
-```
-
-
-ES
-
-```text
-Después del gran éxodo de la Evasión Caldari, cuando estos abandonaron su planeta natal, hubo de construirse un nuevo estado desde cero en muy poco tiempo. Caldari Constructions fue una de las empresas que participó en ese gran esfuerzo y, desde entonces, vive de esta proeza del pasado. Aunque ya no maneja activamente la política del poder, todavía tiene algunas cartas muy valiosas en la manga.
-```
-
-
-FR
-
-```text
-Après le grand exode au cours duquel les Caldari se virent contraints de quitter leur planète d'origine, ils durent fonder un nouvel État dans les plus brefs délais. Ayant participé à cette vaste campagne de reconstruction, la société Caldari Constructions récolte toujours les fruits de cet exploit historique. Bien qu'elle ne soit plus très active sur l'échiquier politique, il lui reste un certain nombre d'atouts dans sa manche.
-```
-
-
-JA
-
-```text
-「カルダリ脱出事件」で母星を追われ、故郷を失ったカルダリ人は、早急に新しい国を一から建設する必要に迫られた。カルダリ建設はその大事業に加わった企業の一つで、今なお過去の栄光に頼って生き延びている。さすがに政治的駆け引きへ手を出す意欲はあまりないようだが、まだいくつかの非常に強力な切り札を温存している。
-```
-
-
-KO
-
-```text
-칼다리가 고향 행성을 떠났던 칼다리 대이동 당시, 칼다리는 이 대이동이 완료되고 나서 아주 단기간 안에 새 국가를 급히 설립해야 했습니다. 칼다리 건설은 이 막대한 노력에 기여했던 여러 코퍼레이션 중 하나로서 현재까지도 이 당시의 업적을 발판 삼아 생업을 이어가고 있습니다. 이 코퍼레이션은 정치적인 권력 싸움에 더 이상 적극적으로 임하지 않지만 여전히 몇 가지 중요한 패를 손에 쥐고 있습니다.
-```
-
-
-RU
-
-```text
-После великого исхода, когда Caldari покинули свою родную планету в ходе борьбы за независимость, появилась необходимость создать новое государство практически с нуля за очень короткий промежуток времени. Caldari Constructions — одна из компаний, участвовавших в этом великом предприятии, и этот подвиг гарантировал ее успешное развитие в дальнейшем. Несмотря на то, что компания не принимает активного участия в политической жизни страны, она обладает несколькими очень ценными рычагами влияния.
-```
-
-
-ZH
-
-```text
-在加达里大迁徙中，大量加达里人逃离了自己家园，急需重建一个崭新的国度。加达里建筑集团就是重建工作中的重要一员，并迅速扩展壮大。虽然其不再滥用强权政治，但手中仍握有王牌。
 ```
 
 
@@ -183394,55 +171326,6 @@ EN
 ```
 
 
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Angel in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Angel werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Ángeles han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Ángeles no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Angel ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Angel risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、エンジェルは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、エンジェルは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-엔젤 카르텔은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Angels построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Angels не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，天使在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天使对任何入侵者都不会报以好脸色，一定要小心谨慎。
-```
-
-
 
 
 ### MessageID: 62433 · Source Modified
@@ -183452,55 +171335,6 @@ EN
 ```diff
 - […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
 + […]material into the much valued boosters. Be warned that the Guristas will not res[…]
-```
-
-
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Booster umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Guristas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Guristas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Guristas ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Guristas risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、ガリスタスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、ガリスタスは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-구리스타스는 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Sansha построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Sansha не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，古斯塔斯在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，古斯塔斯对任何入侵者都不会报以好脸色，一定要小心谨慎。
 ```
 
 
@@ -183516,55 +171350,6 @@ EN
 ```
 
 
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Booster umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Guristas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Guristas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Guristas ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Guristas risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、ガリスタスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、ガリスタスは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-구리스타스는 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Sansha построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Sansha не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，古斯塔斯在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，古斯塔斯对任何入侵者都不会报以好脸色，一定要小心谨慎。
-```
-
-
 
 
 ### MessageID: 62436 · Source Modified
@@ -183574,55 +171359,6 @@ EN
 ```diff
 - […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
 + […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
-```
-
-
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Serpentis in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Serpentis werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Serpentis han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Serpentis no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Serpentis ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Serpentis risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、サーペンティスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、サーペンティスは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-서펜티스 코퍼레이션은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Serpentis построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры.  Примите к сведению, что Serpentis не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，天蛇在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天蛇对任何入侵者都不会报以好脸色，一定要小心谨慎。
 ```
 
 
@@ -183638,55 +171374,6 @@ EN
 ```
 
 
-DE
-
-```text
-Charit Rish's Baalgorn
-```
-
-
-ES
-
-```text
-Bhaalgorn de Charit Rish
-```
-
-
-FR
-
-```text
-Baalgorn de Charit Rish
-```
-
-
-JA
-
-```text
-チャーリットリッシュのバールゴーン
-```
-
-
-KO
-
-```text
-채릿 리시의 바알고른
-```
-
-
-RU
-
-```text
-Charit Rish's Baalgorn
-```
-
-
-ZH
-
-```text
-查利特·利须的巴戈龙级飞船
-```
-
-
 
 
 ### MessageID: 70886 · Source Modified
@@ -183696,55 +171383,6 @@ EN
 ```diff
 - Neyan Khahsel's Baalgorn
 + Neyan Khahsel's Bhaalgorn
-```
-
-
-DE
-
-```text
-Neyan Khahsel's Baalgorn
-```
-
-
-ES
-
-```text
-Bhaalgorn de Neyan Khahsel
-```
-
-
-FR
-
-```text
-Baalgorn de Neyan Khahsel
-```
-
-
-JA
-
-```text
-ネヤンカーセルのバールゴーン
-```
-
-
-KO
-
-```text
-네얀 카흐셀의 바알고른
-```
-
-
-RU
-
-```text
-Neyan Khahsel's Baalgorn
-```
-
-
-ZH
-
-```text
-奈杨·卡萨尔的巴戈龙级飞船
 ```
 
 
@@ -183760,55 +171398,6 @@ EN
 ```
 
 
-DE
-
-```text
-Eine Baalgorn, die von einem Agenten geflogen wird.
-```
-
-
-ES
-
-```text
-Bhaalgorn pilotada por un agente.
-```
-
-
-FR
-
-```text
-Un Baalgorn piloté par un agent.
-```
-
-
-JA
-
-```text
-エージェントを乗せたバールゴーン。
-```
-
-
-KO
-
-```text
-에이전트가 조종하는 바알고른입니다.
-```
-
-
-RU
-
-```text
-Корабль класса Bhaalgorn, управляемый агентом.
-```
-
-
-ZH
-
-```text
-由代理人驾驶的巴戈龙级飞船。
-```
-
-
 
 
 ### MessageID: 82057 · Source Modified
@@ -183818,55 +171407,6 @@ EN
 ```diff
 - A Baalgorn piloted by an agent.
 + A Bhaalgorn piloted by an agent.
-```
-
-
-DE
-
-```text
-Eine Baalgorn, die von einem Agenten geflogen wird.
-```
-
-
-ES
-
-```text
-Bhaalgorn pilotada por un agente.
-```
-
-
-FR
-
-```text
-Un Baalgorn piloté par un agent.
-```
-
-
-JA
-
-```text
-エージェントを乗せたバールゴーン。
-```
-
-
-KO
-
-```text
-에이전트가 조종하는 바알고른입니다.
-```
-
-
-RU
-
-```text
-Корабль класса Bhaalgorn, управляемый агентом.
-```
-
-
-ZH
-
-```text
-由代理人驾驶的巴戈龙级飞船。
 ```
 
 
@@ -183882,55 +171422,6 @@ EN
 ```
 
 
-DE
-
-```text
-Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
-```
-
-
 
 
 ### MessageID: 86888 · Source Modified
@@ -183940,55 +171431,6 @@ EN
 ```diff
 - […]w areas, such as interstellar gas clouds within high security space.
 + […]w areas, such as interstellar gas clouds.
-```
-
-
-DE
-
-```text
-Blauer Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-蓝色晶体，在大型小行星或卫星内部深处的高压环境中形成。用于电子和武器制造业。仅在少数地区储量丰富。
 ```
 
 
@@ -184004,55 +171446,6 @@ EN
 ```
 
 
-DE
-
-```text
-Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
-```
-
-
 
 
 ### MessageID: 86890 · Source Modified
@@ -184062,55 +171455,6 @@ EN
 ```diff
 - […]w areas, such as interstellar gas clouds within high security space.
 + […]w areas, such as interstellar gas clouds.
-```
-
-
-DE
-
-```text
-Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
 ```
 
 
@@ -184126,55 +171470,6 @@ EN
 ```
 
 
-DE
-
-```text
-Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-黄绿色晶体，在大型小行星或卫星内部深处的高压环境中形成。用于电子和武器制造业。仅在少数地区储量丰富。
-```
-
-
 
 
 ### MessageID: 86892 · Source Modified
@@ -184184,55 +171479,6 @@ EN
 ```diff
 - […]w areas, such as interstellar gas clouds within high security space.
 + […]w areas, such as interstellar gas clouds.
-```
-
-
-DE
-
-```text
-Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
 ```
 
 
@@ -184248,55 +171494,6 @@ EN
 ```
 
 
-DE
-
-```text
-Roter Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-红色晶体，在大型小行星或卫星内部深处的高压环境中形成。用于电子和武器制造业。仅在少数地区储量丰富。
-```
-
-
 
 
 ### MessageID: 86894 · Source Modified
@@ -184306,55 +171503,6 @@ EN
 ```diff
 - […]w areas, such as interstellar gas clouds within high security space.
 + […]w areas, such as interstellar gas clouds.
-```
-
-
-DE
-
-```text
-Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren von großen Asteroiden und Monden. Wird bei der Produktion von Elektronik und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten finden.
-```
-
-
-ES
-
-```text
-La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée par les lunes et les grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters légalisés de synthèse. La mykosérocine ne se trouve en abondance que dans quelques zones, telles que les nuages de gaz interstellaires en espace de haute sécurité.
-```
-
-
-JA
-
-```text
-ミコセロシンは大きなアステロイドや衛星の奥深くの高圧部で形成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、高セキュリティスペースにある惑星間ガス雲などの限られたエリアでしか産出されない。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.
-```
-
-
-RU
-
-```text
-Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности.
-```
-
-
-ZH
-
-```text
-在大型小行星和行星卫星内部高压环境中形成的淡蓝色晶体，常用于电子和军火制造业。只在几个区域有丰富储量。
 ```
 
 
@@ -184377,87 +171525,6 @@ EN
 ```
 
 
-DE
-
-```text
-Fähigkeit und Kenntnisse von hydromagnetischer Physik und deren Verwendung in der Entwicklung fortschrittlicher Technologie. Wird in erster Linie zur Forschung am Schildsystem verwendet. Ermöglicht die Forschung von hydromagnetischer Physik mit Hilfe eines Forschungsagenten. Voraussetzung für alle Forschungs- und Fertigungsaufträge mit entsprechenden Blaupausen. 1% Reduktion der Fertigungszeit je Skillstufe für alle Gegenstände, die den Skill "Hydromagnetic Physics" erfordern.
-```
-
-
-ES
-
-```text
-Habilidad y conocimientos de física hidromagnética y su uso en el desarrollo de tecnología avanzada.
-
-Se usa principalmente en la investigación de los sistemas de escudo.
-
-Permite la investigación de la física hidromagnética con la ayuda de un agente de investigación.
-
-Se necesita para todas las operaciones de investigación y fabricación en planos relacionados. Reduce un 1 % el tiempo de fabricación de todos los objetos que requieran física hidromagnética por nivel.
-```
-
-
-FR
-
-```text
-Compétence et connaissances liées à la physique hydromagnétique et à son utilisation pour le développement de technologies avancées. Cette compétence sert principalement à la recherche sur les systèmes de bouclier. Elle permet de lancer des recherches sur la physique hydromagnétique avec l'aide d'un agent de recherche. Nécessaire pour toutes les opérations de recherche et de fabrication sur les plans de construction connexes. réduit de 1 % le temps de production par niveau pour tous les éléments
-(truncated, 540 chars total)
-```
-
-
-JA
-
-```text
-磁気流体物理学と、それを先端技術の開発に利用するスキルおよび知識。
-
-主にシールドシステムの研究に利用される。
-
-リサーチエージェントの助けを借りて磁気流体物理学の研究を行うことができる。関連するブループリントを用いる全ての研究および製造作業に必要。
-
-レベル上昇ごとに磁気流体物理学を必要とするすべてのアイテムの製造時間が1%削減。
-```
-
-
-KO
-
-```text
-첨단 과학기술 분야인 자기 유체 역학 스킬입니다. <br><br>실드 시스템 연구에 주로 사용됩니다. <br><br>연구 에이전트의 도움을 받아 자기 유체 역학 연구를 시행할 수 있습니다. 관련된 블루프린트가 사용되는 모든 연구 및 제조 과정에 필요한 스킬입니다. <br><br>매 레벨마다 자기 유체 역학 스킬을 요구하는 모든 항목의 제조 시간 1% 감소
-```
-
-
-RU
-
-```text
-Знания в области гидромагнитной физики и навыки их использования для создания передовых технологий. 
-
-
-
-Этот навык преимущественно используется для разработки силовых полей.
-
-
-
-Позволяет проводить научно-исследовательские работы в области гидромагнитной физики с помощью агента научно-исследовательского отдела. 
-
-
-
-Используется для исследовательских и производственных операций по соответствующим чертежам. Приводит к экономии времени на прогон производства всех предметов, для производства которых 
-(truncated, 563 chars total)
-```
-
-
-ZH
-
-```text
-理解磁流体物理学及其在高科技开发中应用的技能。 
-
-主要用于各种护盾系统的研究。
-
-可以在研究代理人的帮助下进行磁流体物理学研究。 
-
-这是相关蓝图研究和制造的必需技能。每升一级，所有需要磁流体物理学技能的物品的生产时间减少1%。
-```
-
-
 
 
 ### MessageID: 95664 · Source Modified
@@ -184467,55 +171534,6 @@ EN
 ```diff
 - <font color=E3170D size = 13>Welcome to Khodesa, the primary space-mi[…]
 + Welcome to Khodesa, the primary space-mi[…]
-```
-
-
-DE
-
-```text
-<font color=E3170D size = 13>Willkommen in Khodesa, dem Hauptausbildungslager für Weltraummilitär in Chanoun. Alle Besucher haben den Sicherheitsaußenposten in diesem Komplex <b>fernzubleiben</b>. Nichtbeachtung dieser einfachen Vorschrift hat die sofortige Zerstörung Ihres Raumschiffs zur Folge. Schönen Tag noch.</font>
-```
-
-
-ES
-
-```text
-<font color=E3170D size = 13>Te damos la bienvenida a Khodesa, el principal campo de entrenamiento espacial y militar de Chanoun. Todos los visitantes deben mantenerse <b>alejados</b> de los puestos avanzados de seguridad dentro de este complejo. El incumplimiento de esta regla provocará la destrucción inmediata de tu nave espacial. Que tengas un buen día.</font>
-```
-
-
-FR
-
-```text
-<font color=E3170D size = 13>Bienvenue à Khodesa, le camp d'entraînement militaire spatial principal de Chanoun. Aucun visiteur n'est autorisé à <b>s'approcher</b> des avant-postes de sécurité situés à l'intérieur du complexe. Tout contrevenant sera immédiatement abattu. Passez une bonne journée.</font>
-```
-
-
-JA
-
-```text
-<font color=E3170D size = 13>コーデサへようこそ。ここは、シャヌーン最大の宇宙軍事訓練所だ。全ての訪問者は、施設内のセキュリティアウトポストに<b>近づかない</b>ように。この単純なルールが守れない者の宇宙船は、即座に破壊されてしまうからな。では、よい一日を。</font>
-```
-
-
-KO
-
-```text
-<font color=E3170D size = 13>차눈의 최고 군사훈련지인 코데사에 온 것을 환영합니다. 모든 방문객은 시설 내의 보안기지로의 접근이 금지되어 있음을 알립니다. 단순한 규칙이지만 이를 어길시 즉각적인 발포가 있을 것입니다. 좋은 하루 되시길 바랍니다.
-```
-
-
-RU
-
-```text
-<font color=E3170D size = 13>Добро пожаловать в Ходесу — главный военно-космический учебный лагерь Чануна. Всем посетителям <b>запрещено приближаться</b> к защитным форпостам на территории комплекса. Нарушение этого простого правила ведет к немедленному уничтожению вашего космического судна. Хорошего дня!</font>
-```
-
-
-ZH
-
-```text
-<font color=E3170D size = 13>欢迎来到查浓的初级空间军事训练营——格德萨。所有访客都<b>必须远离</b>这个复合体内的安全哨站。如果违反这条简单的规定，你的飞船被立即摧毁。祝你愉快。</font>
 ```
 
 
@@ -184530,14 +171548,6 @@ EN
 + <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P><br>
   <P>Recently, Lord Methros hired the Blood Raider Covenant to gain the upper hand in combating Lord Arachnan for supremacy in the region. As could be expected, he lost control of the pirates before long, and now they run their own operations from this old Amarrian bastion.</P>
   
-```
-
-
-DE
-
-```text
-<p>Im letzten Jahrtausend baute der Kaiser des Amarr Imperiums diese Festung, aber sie wurde ein Opfer der Vernachlässigung, als sich die Aufmerksamkeit des Imperiums in eine andere Richtung wandte.</p><p>Kürzlich heuerte Lord Methros den Blood Raider-Bund an, um die Oberhand im Kampf mit Lord Arachnan um die Vorherrschaft in der Region zu gewinnen. Wie zu erwarten war, hat er schon lange die Kontrolle über die Piraten verloren und jetzt betreiben die ihre eigenen Operationen aus dieser alten Fe
-(truncated, 520 chars total)
 ```
 
 
@@ -184584,13 +171594,6 @@ RU
 ```
 
 
-ZH
-
-```text
-<P>在上个千年，艾玛帝国的皇帝建造了这座堡垒，可是后来帝国的注意力移往他处，它就被忽略了。</P><P>最近，梅多尔斯大人为在与埃拉克兰大人争夺星域主导权的斗争中占据主动，雇佣了血袭者同盟。可以想象，没过多久，他就控制不了那些海盗了。现在海盗们正在这座古老的艾玛堡垒中，开展自己的事业。</P>
-```
-
-
 
 
 ### MessageID: 96031 · Source Modified
@@ -184600,55 +171603,6 @@ EN
 ```diff
 - […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
 + […]material into the much valued boosters. Be warned that the Angels will not respo[…]
-```
-
-
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Angel in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Angels werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Ángeles han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Ángeles no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Angel ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Angel risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、エンジェルズは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、エンジェルズは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-엔젤 카르텔은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Angels построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Angels не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，天使在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天使对任何入侵者都不会报以好脸色，一定要小心谨慎。
 ```
 
 
@@ -184664,55 +171618,6 @@ EN
 ```
 
 
-DE
-
-```text
-Diese Anlage wurde maskiert, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Angels gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um die Booster-Formeln zu verbessern und Gase zu veredeln. Daher werden sie gut bewacht.
-```
-
-
-ES
-
-```text
-Los Ángeles han ocultado la existencia de esta instalación construyéndola dentro de grandes restos espaciales, donde han conseguido establecer un pequeño laboratorio químico cerca de la cosecha de nubes de gas que ambicionan. Estas instalaciones se utilizan para refinar y mejorar sus fórmulas de potenciadores y están bien protegidas.
-```
-
-
-FR
-
-```text
-En dissimulant cette structure dans une grande épave, les Angel sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
-```
-
-
-JA
-
-```text
-エンジェルズは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
-```
-
-
-KO
-
-```text
-엔젤 카르텔은 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
-```
-
-
-RU
-
-```text
-Angels смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
-```
-
-
-ZH
-
-```text
-凭借一座大型空间残骸的掩饰，天使顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
-```
-
-
 
 
 ### MessageID: 96033 · Source Modified
@@ -184722,55 +171627,6 @@ EN
 ```diff
 - […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
 + […]material into the much valued boosters. Be warned that the Guristas will not res[…]
-```
-
-
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Guristas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Guristas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Guristas ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Guristas risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、ガリスタスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、ガリスタスは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-구리스타스는 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Gurista построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры. Примите к сведению, что Guristas не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，古斯塔斯在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，古斯塔斯对任何入侵者都不会报以好脸色，一定要小心谨慎。
 ```
 
 
@@ -184786,55 +171642,6 @@ EN
 ```
 
 
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Guristas in einer nebulösen Wolke eine Gasverarbeitungsanlage errichtet, welche die Gasrohstoffe in die sehr begehrten Booster umwandelt. Seien Sie gewarnt, die Guristas werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los sanshas han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los sanshas no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Sansha ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Sansha risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、サンシャは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、サンシャは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-산샤 네이션은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 진입 시 중무장 상태로의 교전을 권장합니다.
-```
-
-
-RU
-
-```text
-Sansha построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры.  Примите к сведению, что Sansha не являются снисходительными к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，萨沙在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，萨沙对任何入侵者都不会报以好脸色，一定要小心谨慎。
-```
-
-
 
 
 ### MessageID: 96035 · Source Modified
@@ -184844,55 +171651,6 @@ EN
 ```diff
 - […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
 + […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
-```
-
-
-DE
-
-```text
-Versteckt vor neugierigen Augen haben die Serpentis in einer nebulösen Wolke eine Gasverarbeitungsfabrik errichtet, welche die Gasrohstoffe in die sehr begehrten Boosters umwandelt. Seien Sie gewarnt, die Serpentis werden nicht positiv auf ungebetene Gäste reagieren, seien Sie wachsam.
-```
-
-
-ES
-
-```text
-A salvo de miradas indiscretas en una nube nebulosa, los Serpentis han creado una instalación de procesamiento de gas que convierte la materia prima gaseosa en los tan preciados potenciadores. Los Serpentis no reaccionarán favorablemente a los intrusos, así que mantente alerta.
-```
-
-
-FR
-
-```text
-Dissimulés aux regards indiscrets dans un nuage de nébuleuse, les Serpentis ont mis sur pied une structure de traitement des gaz qui convertit le gaz brut en boosters très recherchés.  Faites attention, car les Serpentis risquent de ne pas apprécier les intrus. Restez sur vos gardes !
-```
-
-
-JA
-
-```text
-星雲の中で人目を忍び、サーペンティスは未加工のガスをブースターに変えるガス処理施設を建てた。忠告しておくが、サーペンティスは侵入者に対しては容赦しない。用心せよ。
-```
-
-
-KO
-
-```text
-서펜티스 코퍼레이션은 불법 부스터 제조 행위를 숨기기 위해 네뷸라 사이에 가스 정제 시설을 건설했습니다. 이들은 침입자를 반겨주는 편은 아니니 진입 시 경계를 늦추지 마십시오.
-```
-
-
-RU
-
-```text
-Serpentis построили газоперерабатывающий завод, скрыв его в облаке туманности подальше от любопытных глаз. На этом заводе сырой газ перерабатывают в гораздо более ценные бустеры.  Примите к сведению, что Serpentis не питают снисходительности к чужакам. Будьте начеку.
-```
-
-
-ZH
-
-```text
-为了避人耳目，天蛇在一团朦胧的星云中建立了一座气云加工设施，这座设施能将气体原材料转化为珍贵的增效剂。注意，天蛇对任何入侵者都不会报以好脸色，一定要小心谨慎。
 ```
 
 
@@ -184908,55 +171666,6 @@ EN
 ```
 
 
-DE
-
-```text
-Diese Anlage wurde versteckt, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Guristas gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um Gase zu veredeln und die Booster-Formeln zu verbessern. Daher werden sie gut bewacht.
-```
-
-
-ES
-
-```text
-Los Guristas han construido esta estación dentro de enormes restos espaciales para mantenerla oculta y han conseguido establecer un pequeño laboratorio químico cerca de la extracción de las nubes de gas que desean. Este centro sirve para refinar y mejorar sus fórmulas de potenciadores y, como tal, está bien protegido.
-```
-
-
-FR
-
-```text
-En dissimulant cette structure dans une grande épave, les Guristas sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
-```
-
-
-JA
-
-```text
-ガリスタスは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
-```
-
-
-KO
-
-```text
-구리스타스는 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
-```
-
-
-RU
-
-```text
-Gurista смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
-```
-
-
-ZH
-
-```text
-凭借一座大型空间残骸的掩饰，古斯塔斯顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
-```
-
-
 
 
 ### MessageID: 96037 · Source Modified
@@ -184966,55 +171675,6 @@ EN
 ```diff
 - […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
 + […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
-```
-
-
-DE
-
-```text
-Diese Anlage wurde versteckt, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Blood Raidern gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um Gase zu veredeln und die Booster-Formeln zu verbessern. Daher werden sie gut bewacht.
-```
-
-
-ES
-
-```text
-Los Saqueadores Sanguinarios han construido esta estación dentro de enormes restos espaciales para mantenerla oculta y han conseguido establecer un pequeño laboratorio químico cerca de la extracción de las nubes de gas que desean. Este centro sirve para refinar y mejorar sus fórmulas de potenciadores y, como tal, está bien protegido.
-```
-
-
-FR
-
-```text
-En dissimulant cette structure dans une grande épave, les Blood Raiders sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
-```
-
-
-JA
-
-```text
-ブラッドレイダーは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
-```
-
-
-KO
-
-```text
-블러드 레이더는 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
-```
-
-
-RU
-
-```text
-Blood Raiders смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
-```
-
-
-ZH
-
-```text
-凭借一座大型空间残骸的掩饰，血袭者顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
 ```
 
 
@@ -185030,55 +171690,6 @@ EN
 ```
 
 
-DE
-
-```text
-Diese Anlage wurde versteckt, indem sie innerhalb eines großen Schiffswracks platziert wurde. Dadurch ist es den Serpentis gelungen, ein kleines chemisches Labor in der Nähe der abzuerntenden Gaswolke aufzubauen. Solche Anlagen werden genutzt, um Gase zu veredeln und die Booster-Formeln zu verbessern. Daher werden sie gut bewacht.
-```
-
-
-ES
-
-```text
-Los Serpentis han construido esta estación dentro de enormes restos espaciales para mantenerla oculta y han conseguido establecer un pequeño laboratorio químico cerca de la extracción de las nubes de gas que desean. Este centro sirve para refinar y mejorar sus fórmulas de potenciadores y, como tal, está bien protegido.
-```
-
-
-FR
-
-```text
-En dissimulant cette structure dans une grande épave, les Serpentis sont parvenus à mettre sur pied un petit laboratoire chimique à proximité du nuage de gaz qu'ils souhaitent collecter.  Les structures de ce type, permettant de raffiner et d'améliorer les formules de booster, sont très bien protégées.
-```
-
-
-JA
-
-```text
-サーペンティスは宇宙の残骸の中にこの施設を設置してその存在を周囲から隠すようにしながら、なんとかこの小さい化学研究所を彼らの狙っているガス雲採掘場の近くに建設したのだ。そうした施設はブースター製法を精錬するのに使用され、厳重に警備されている。
-```
-
-
-KO
-
-```text
-서펜티스 코퍼레이션은 우주 잔해물로 가려진 위치에 작은 규모의 화학 연구소를 건설했습니다. 가스 성운과 가까운 위치에 자리잡은 이 연구소는 부스터를 정제하고 연구하고 있기에 철저히 보호되고 있습니다.
-```
-
-
-RU
-
-```text
-Serpentis смогли основать небольшую химическую лабораторию недалеко от места сбора газа, замаскировав ее под обломки большого корабля. Сооружения такого рода используются для очистки газа и совершенствования формул бустеров, а потому хорошо охраняются.
-```
-
-
-ZH
-
-```text
-凭借一座大型空间残骸的掩饰，天蛇顺利地设立了一座小型化学实验室，正靠近他们探寻的气云资源。这类设施守卫严密，专用于精炼并改善他们的增效剂配方。
-```
-
-
 
 
 ### MessageID: 96434 · Source Modified
@@ -185090,42 +171701,6 @@ EN
 - <br><br>
 + <br>
   This cluster of thermoelectric converters is common around large solar bodies, supposedly for collecting radiation and storing energy for use throughout Sleeper colonies: a persistent generator for a dead race. Even to this day, this structure is operational, although how it distributes its energy and for what purpose is still unknown.
-```
-
-
-DE
-
-```text
-Bei der Untersuchung von Sleeper-Stätten haben Astrophysiker festgestellt, dass manche dieser Strukturen noch funktionstüchtig sind und man sie offensichtlich auch bewusst so konstruiert hat. In den Außenposten laufen einfache Lebenserhaltungssysteme, in den Fertigungsstationen surren die Motoren, es brennt Licht - überall spürt man Energie, und alles sieht aus wie im alltäglichen Ablauf. Die Gründe für diesen Dauerbetrieb sind bisher nicht bekannt, aber es gibt einige Vermutungen. <br><br> Eine
-(truncated, 958 chars total)
-```
-
-
-ES
-
-```text
-Los astrofísicos que están estudiando las zonas de Sleepers han notado que algunas estructuras siguen operativas y con toda la intención. En los puestos avanzados hay sistemas básicos de asistencia vital, se han encontrado motores en marcha en las estaciones de ingeniería y en las estaciones se percibe luz, energía y actividad mundana. Se desconoce un motivo para esta operación continua, pero surgen algunas pistas.
-<br><br>
-Este cúmulo de convertidores termoeléctricos es común alrededor de gra
-(truncated, 790 chars total)
-```
-
-
-FR
-
-```text
-Les astrophysiciens qui étudient les sites sleeper ont noté que certaines structures sleeper sont toujours opérationnelles, de par leur conception. Les avant-postes commandent des systèmes de base d'assistance vitale, leurs moteurs tournent dans les stations d'ingénierie et les stations bénéficient d'éclairages, d'énergie et montrent des signes d'activité. Aucune raison connue ne justifie ce fonctionnement permanent, même si quelques indices ont été trouvés. <br><br> Cette nuée de convertisseurs
-(truncated, 881 chars total)
-```
-
-
-JA
-
-```text
-スリーパー遺跡を研究する天体物理学者たちは、スリーパーの建造物の一部がまだ機能する-これだけの長期にわたって機能し続けることを意図して作られた-ことに気付いた。アウトポストでは基本的な生命維持システムが稼働し、エンジニアリングステーションは動力装置の音を響かせ、ステーションには照明やエネルギーなどの日常的な営みが見て取れる。これほど長い間稼働できる理由は不明だが、いくつかの手がかりは見える。
-<br><br>
-熱電気変換器星団は大きな太陽天体ではよく見られるもので、放射を収集してエネルギーを貯め、そのエネルギーをスリーパーのコロニー全域で使用したものと思われる。絶滅した種族の永続するジェネレータである。エネルギーの供給方法や目的は未だに不明だが、この建造物は現在でも作動する。
-
 ```
 
 
@@ -185146,13 +171721,6 @@ RU
 ```
 
 
-ZH
-
-```text
-研究冬眠者领地的空间物理学家注意到一些冬眠者建筑至今仍在运作——这绝对是有意为之的。哨站上还启用着生态系统，工程站里尚有马达声，空间站里灯火通明。没人知道这一切还能运作的准确原因，但已经有了些线索。<br><br>这一群热电转换器在大恒星周围很常见，应该就是为了将辐射能采集给冬眠者使用而设的，而冬眠者其实早就湮灭了。直至今日，该结构依旧能用，虽然没人知道它到底是怎么传输能量及其终极目的。
-```
-
-
 
 
 ### MessageID: 99473 · Source Modified
@@ -185165,14 +171733,6 @@ EN
 + Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P><br>
 + <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P><br>
   Surveillance mission 3498D-2K: Amazingly, just after the final blow-out of the station we caught some emergency transmissions from within it. Warp sequence was already initated so we could not investigate further, but we advise sending another recon as soon as possible.
-```
-
-
-DE
-
-```text
-Bis vor kurzem war dies eine High-Tech-Raffinerie, die biochemische Fusionen und überheizte Kuppeln benutzte. Dann kam die Katastrophe mit immer noch unbekannter Ursache.<P> <span id=thought>Kürzlich hinzugefügte Informationen erscheinen unten auf Ihrem Bildschirm</span><P> Überwachungsmission 3498D-2K: Erstaunlicherweise haben wir kurz nach dem letzten Gasausstoß darin Energie-Stahlung festgestellt. Die Warp-Sequenz war bereits eingeleitet, deshalb konnten wir dies nicht näher untersuchen, doch
-(truncated, 584 chars total)
 ```
 
 
@@ -185192,36 +171752,12 @@ FR
 ```
 
 
-JA
-
-```text
-つい最近まで、ここは有機化合と過熱ドームを使用する最先端の精錬所だった。それが突如災害に見舞われ、原因はいまだ判明していない。<P>
-<span id=thought>最近の追加情報が画面の下端にポップアップする。</span><P>
-調査報告 3498D-2K: どういうわけか、ステーションが最後の爆発を起こした直後、その内部から救難信号らしきものが何度か発信された。我が隊は既にワープ航法を開始したところだったため、それ以上の調査は行えなかったが、可及的速やかに追加調査隊を派遣するよう勧告する。
-```
-
-
-KO
-
-```text
-최근까지 이곳은 생화학 합성물과 과열 돔을 이용한 첨단 정제소였으나 원인 미상인 재앙이 발생하여 문을 닫게 되었습니다.<P> <span id=thought>최근 추가된 몇 가지 정보가 당신의 화면 하단에 나타날 것입니다.</span><P> 정찰 미션 3498D-2K: 놀랍게도 정거장이 폭발한 직후에 정거장 내부에서 긴급 신호가 발신되었습니다. 워프가 이미 시작되고 있던 터라 더 조사할 수는 없었지만 가능한 빨리 조사대를 파견해야 할 것 같습니다.
-```
-
-
 RU
 
 ```diff
   До недавнего времени это был высокотехнологичный перерабатывающий завод, использующий технологии биохимического синтеза и сверхвысокого перегрева. Но случилась катастрофа, причины которой до сих пор не установлены.<P>
   <span id=thought>В нижней части вашего экрана появилась недавно добавленная информация.</span><P>
   Разведывательная группа 3498D-2K: Удивительно, но сразу после взрыва станции мы уловили исходящие изнутри сигналы бедствия. Квантовый переход уже начался, поэтому мы не могли продолжать расследование, но советуем отправить другой разведывательный патруль как можно скорее.
-```
-
-
-ZH
-
-```text
-不久以前，这是座使用生化熔合和高热晶化的高科技精炼厂。但最近发生了一次不明原因的灾难。<P><span id=thought>一些新增信息突然出现在你屏幕下方。</span><P>
-侦察任务3498D-2K：令人惊讶的是，在空间站最后一次爆炸之后，我们捕捉到了里面发出的紧急求救信息。可当时跃迁程序已启动，我们无法进一步调查，只能建议尽快派遣另一支侦察部队。
 ```
 
 
@@ -185237,55 +171773,6 @@ EN
 ```
 
 
-DE
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX100
-```
-
-
-ES
-
-```text
-Hardware: Francotirador ZMX100 de Zainou
-```
-
-
-FR
-
-```text
-Extension neurale – Zainou « Sharpshooter » ZMX100
-```
-
-
-JA
-
-```text
-ハードワイヤリング-ザイノウ「狙撃兵」ZMX100
-```
-
-
-KO
-
-```text
-하드와이어링 - 자이누 '샤프슈터' ZMX100
-```
-
-
-RU
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX100
-```
-
-
-ZH
-
-```text
-神经交互强化芯片 - 载诺 精确射击 ZMX100
-```
-
-
 
 
 ### MessageID: 100342 · Source Modified
@@ -185295,55 +171782,6 @@ EN
 ```diff
 - Hardwiring - Zainou 'Sharpshooter' ZMX1000
 + Zainou 'Snapshot' XL Torpedoes XT-605
-```
-
-
-DE
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX1000
-```
-
-
-ES
-
-```text
-Hardware: Francotirador ZMX1000 de Zainou
-```
-
-
-FR
-
-```text
-Extension neurale – Zainou « Sharpshooter » ZMX1000
-```
-
-
-JA
-
-```text
-ハードワイアリング-ザイノウ「狙撃兵」ZMX1000
-```
-
-
-KO
-
-```text
-하드와이어링 - 자이누 '샤프슈터' ZMX1000
-```
-
-
-RU
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX1000
-```
-
-
-ZH
-
-```text
-神经交互强化芯片 - 载诺 精确射击 ZMX1000
 ```
 
 
@@ -185359,55 +171797,6 @@ EN
 ```
 
 
-DE
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX10
-```
-
-
-ES
-
-```text
-Hardware: Sharpshooter ZMX10 de Zainou
-```
-
-
-FR
-
-```text
-Extension neurale – Zainou « Sharpshooter » ZMX10
-```
-
-
-JA
-
-```text
-ハードワイアリング-ザイノウ「狙撃兵」ZMX10
-```
-
-
-KO
-
-```text
-하드와이어링 - 자이누 '샤프슈터' ZMX10
-```
-
-
-RU
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX10
-```
-
-
-ZH
-
-```text
-神经交互强化芯片 - 载诺 精确射击 ZMX10
-```
-
-
 
 
 ### MessageID: 104794 · Source Modified
@@ -185417,55 +171806,6 @@ EN
 ```diff
 - Hardwiring - Zainou 'Sharpshooter' ZMX11
 + Zainou 'Snapshot' XL Torpedoes XT-602
-```
-
-
-DE
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX11
-```
-
-
-ES
-
-```text
-Hardware: Sharpshooter ZMX11 de Zainou
-```
-
-
-FR
-
-```text
-Extension neurale – Zainou 'Sharpshooter' ZMX11
-```
-
-
-JA
-
-```text
-ハードワイヤリング-ザイノウ「狙撃兵」ZMX11
-```
-
-
-KO
-
-```text
-하드와이어링 - 자이누 '샤프슈터' ZMX11
-```
-
-
-RU
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX11
-```
-
-
-ZH
-
-```text
-神经交互强化芯片 - 载诺 精确射击 ZMX11
 ```
 
 
@@ -185481,55 +171821,6 @@ EN
 ```
 
 
-DE
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX110
-```
-
-
-ES
-
-```text
-Hardware: Sharpshooter ZMX110 de Zainou
-```
-
-
-FR
-
-```text
-Extension neurale – Zainou 'Sharpshooter' ZMX110
-```
-
-
-JA
-
-```text
-ハードワイアリング-ザイノウ「狙撃兵」ZMX110
-```
-
-
-KO
-
-```text
-하드와이어링 - 자이누 '샤프슈터' ZMX110
-```
-
-
-RU
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX110
-```
-
-
-ZH
-
-```text
-神经交互强化芯片 - 载诺 精确射击 ZMX110
-```
-
-
 
 
 ### MessageID: 104796 · Source Modified
@@ -185539,55 +171830,6 @@ EN
 ```diff
 - Hardwiring - Zainou 'Sharpshooter' ZMX1100
 + Zainou 'Snapshot' XL Torpedoes XT-606
-```
-
-
-DE
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX1100
-```
-
-
-ES
-
-```text
-Hardware: Sharpshooter ZMX1100 de Zainou
-```
-
-
-FR
-
-```text
-Extension neurale – Zainou 'Sharpshooter' ZMX1100
-```
-
-
-JA
-
-```text
-ハードワイヤリング-ザイノウ「狙撃兵」ZMX1100
-```
-
-
-KO
-
-```text
-하드와이어링 - 자이누 '샤프슈터' ZMX1100
-```
-
-
-RU
-
-```text
-Hardwiring - Zainou 'Sharpshooter' ZMX1100
-```
-
-
-ZH
-
-```text
-神经交互强化芯片 - 载诺 精确射击 ZMX1100
 ```
 
 
@@ -185603,55 +171845,6 @@ EN
 ```
 
 
-DE
-
-```text
-Vernichten Sie die äußere Unterkunft und stehlen Sie die Ahnen-Rüstung des Hauses Arachnan. Kehren Sie damit zurück, um die Mission abzuschließen.
-```
-
-
-ES
-
-```text
-Destruye la fortaleza exterior y roba la armadura ancestral de la Casa Arachnan. Vuelve con ella para completar la misión.
-```
-
-
-FR
-
-```text
-Détruisez le fort extérieur et dérobez l'armure ancestrale de la maison Arachnan. Revenez avec pour terminer la mission.
-```
-
-
-JA
-
-```text
-アウターキープを破壊し、ハウスアーチャナンに代々伝わるアーマーを盗み出せ。それを持って帰ればミッションは完了だ。
-```
-
-
-KO
-
-```text
-외곽 요새를 파괴하고 아라크난 가문의 갑옷을 훔치십시오.
-```
-
-
-RU
-
-```text
-Разрушьте внешнюю сторожевую башню и украдите фамильные доспехи дома Arachnan. Ваше задание будет считаться выполненным в том случае, если вы привезете их на нашу базу.
-```
-
-
-ZH
-
-```text
-摧毁外围要塞，窃取埃拉克兰家族祖传盔甲。并将其带回给代理人。
-```
-
-
 
 
 ### MessageID: 124485 · Source Modified
@@ -185661,55 +171854,6 @@ EN
 ```diff
 - Good work — you´re done. Report back to me. 
 + Good work — you're done. Report back to me. 
-```
-
-
-DE
-
-```text
-Gute Arbeit - Sie sind hiermit fertig! Melden Sie sich bei mir zurück.
-```
-
-
-ES
-
-```text
-Buen trabajo. Ya has terminado. Informa de la situación. 
-```
-
-
-FR
-
-```text
-Beau travail, mission accomplie. Revenez faire votre rapport. 
-```
-
-
-JA
-
-```text
- よくやった。任務完了だ。私のところへ報告に戻ってきてくれ。
-```
-
-
-KO
-
-```text
-일이 잘 마무리 되었군요. 이제 제게 돌아와 주십시오. 
-```
-
-
-RU
-
-```text
- Хорошо поработали, задание закончено. Доложите мне. 
-```
-
-
-ZH
-
-```text
-干得好——你的任务完成了，回来向我报告吧。
 ```
 
 
@@ -185727,26 +171871,10 @@ EN
 ```
 
 
-DE
-
-```text
-Man ist leicht versucht, die Amarr als grausam kalten Hegemonialstaat abzustempeln, der seine Untergebenen auf schreckliche Weise unterdrückt und diskriminiert. Es spricht auch nicht wenig für diese Sichtweise, aber das Leben besteht eben nicht bloß aus Schwarz und Weiß. Auf jeden "treuen Befürworter" des Amarr Imperiums kommt jemand, der nicht nur den eigenen Glauben, sondern auch die Regierung in Frage stellt, die religiöse Dogmen zur Staatsangelegenheit erklärt. <br><br> Das bedeutet widerum 
-(truncated, 1,323 chars total)
-```
-
-
 ES
 
 ```diff
 […]
-```
-
-
-FR
-
-```text
-Considérer l'Empire amarr comme un État froid, cruel, hégémonique pratiquant la répression et l'oppression est aisé et quiconque défendrait ce type de discours n'aurait pas de mal à défendre ses arguments. Pourtant, rien n'est jamais noir ou blanc : pour chaque croyant de l'Empire amarr, il existe un sceptique qui doute non seulement de sa conviction, mais aussi du gouvernement qui chosifie la doctrine religieuse. <br><br> Cela ne veut pas dire que la moitié des Amarr de l'Empire sont des traîtr
-(truncated, 1,144 chars total)
 ```
 
 
@@ -185775,13 +171903,6 @@ RU
   Проще всего думать об Империи Amarr как о холодной, жестокой гегемонии, в которой практикуются ужасные репрессии и рабство. Каждый, кто так думает, будет во многом прав. На самом деле все не так просто: на каждого «истинного верующего» Amarr в Империи приходится другой, который сомневается не только в своей вере, но и в правительстве, проводящем в жизнь эту религиозную доктрину. <br><br>
   Это не означает, что половина жителей Империи — предатели и повстанцы; совсем нет. Но утверждать, что каждый ее свободный гражданин одобряет рабство и колонизаторскую политику — значит совершать чудовищную ошибку. Многие в Империи симпатизируют народу Minmatar. <br><br> 
   В их числе — коалиция «Тайный путь» (которая некоторыми именуется «Тайной лестницей»), представляющая собой слабо разветвленную сеть идеалистов либерального толка, активно — но всегда тайно — помогающих беглым рабам покинуть границы Империи. Ирония этого движения заключается в том, что большинство его представителей являются пылкими почитателями государственной религии; они просто имеют иной, «еретический» взгляд на те фрагменты Скрижалей, в которых трактуется суть рабства.
-```
-
-
-ZH
-
-```text
-一提及艾玛，人们就很容易把它想成一个实施高压政策，实行劳工制的冷酷、残忍及专权国家。持这种观点的人总是理由十足。但事情总有两面性：对于艾玛帝国中每一个“真正信奉者”来讲，都有一个不仅对其自身信仰持怀疑态度、而且对政府提出的宗教不容置疑说也心存狐疑的人。<br><br>但这并不是说有一半艾玛人都是叛徒和逆贼——远远不是。当然你要说每个艾玛人都举双手赞成劳工及殖民的做法也是远远不对的。事实上在艾玛有很多米玛塔尔的同情者。<br><br>其中有一个这样的组织叫“秘密星路”（有人戏称“秘密楼道”），这是个松散的持有左路思潮的理想主义者群体。他们积极帮助那些流亡劳工逃出艾玛帝国，当然这些都是在幕后进行的。具有讽刺意味的是，这个组织中的大多数人都是艾玛宗教的狂热信仰者；而对于那常被用来支持劳工制的“经典”，他们只是有着不同的解读而已。
 ```
 
 
@@ -185832,14 +171953,6 @@ JA
    正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから艦船制御パネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは停止する。 <br><br>
   それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはパリアヴァルの脱出カプセルだ。1,500メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテナの中身が表示される。捕虜をクリックし、カーゴホールドにドラッグしろ。 <br><br>
   おめでとう、再びパリアヴァルマステスを捕らえたぞ!{[character]agentID.name}のところに戻って報酬を受け取れ。
-```
-
-
-KO
-
-```text
-정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 파리아발의 탈출 캡슐입니다. 화물 컨테이너의 1500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 파리아발 마스테스를 체포하셨습니다! 이제 {[c
-(truncated, 540 chars total)
 ```
 
 
@@ -185900,23 +172013,6 @@ FR
   Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>
 - Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez « Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de l'espion. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s’ouvre, affichant le contenu du conteneur : cliquez sur le prisonnier et faites-le glisser jusqu’à votre soute de chargement.
 + Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez « Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de l'espion. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s’ouvre, affichant le contenu du conteneur : cliquez sur le prisonnier et faites-le glisser jusqu’à votre soute de chargement.
-```
-
-
-JA
-
-```text
-エージェントが君のNeoComにブックマークを配置したから、目的の地点に向かう際の指標になるだろう。「人物と位置」を開き、ブックマークに移動し、本作戦の目的を右クリックし、「目的地を設定」を選択すること。 その後「艦船のコントロールパネル」に移動し、「オートパイロット」のアイコンをクリックすればいい。そうすれば君の艦船が目的のシステムまで移動する。目的地に到着次第、オートパイロットはオフになる。<br><br>
-そうしたらブックマークに戻り、この任務を再び右クリックし、「目標地点にワープ」を選択すること。 亡命者がいる地点に到着すると、やつは赤いターゲットアイコンとして「オーバービュー」に表示される。やつの船を攻撃し、破壊するのだ。亡命者の船を破壊したら、カーゴコンテナが船から排出されるだろう。それが密偵用の脱出カプセルだ。1,500メートル以内にまで接近したら、カーゴコンテナを右クリックし、「開く」を選択する（あるいはオーバービューで「開く」アイコンを使用する）。そうするとウィンドウが開き、次のような内容が表示される。 捕虜をクリックしたままドラッグし、自分のカーゴホールドにドラッ
-(truncated, 504 chars total)
-```
-
-
-KO
-
-```text
-정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 테르헬렌의 탈출 캡슐입니다. 화물 컨테이너의 1.500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 밀레어 테르헬렌을 체포하셨습니다! 이제 {[c
-(truncated, 539 chars total)
 ```
 
 
@@ -185984,14 +172080,6 @@ JA
   正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから船のコントロールパネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは停止する。 <br><br>
   それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはヴァーシャンの脱出カプセルだ。1,500メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテナの中身が表示される。捕虜をクリックし、カーゴホールドにドラッグしろ。 <br><br>
   おめでとう、再びテロスヴァーシャンを捕らえたぞ!{[character]agentID.name}のところに戻って報酬を受け取れ。
-```
-
-
-KO
-
-```text
-정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 바르샨의 탈출 캡슐입니다. 화물 컨테이너의 1500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 텔로스 바르샨을 체포하셨습니다! 이제 {[char
-(truncated, 537 chars total)
 ```
 
 
@@ -186065,14 +172153,6 @@ JA
 ```
 
 
-KO
-
-```text
-정확한 위치를 찾을 수 있도록 에이전트가 네오콤에 좌표를 등록했습니다. "사람 및 장소"를 열어 미션 목표를 우클릭한 다음 "목적지 설정"을 클릭하십시오. 그 후 함선 조작 패널에서 오토파일럿 아이콘을 클릭하면 해당 항성계로 비행을 시작할 것입니다. 항성계에 도착하면 오토파일럿 모드가 꺼집니다.<br><br>다시 "사람 및 장소"에서 미션을 우클릭한 다음, "목적지로 워프"를 선택하세요. 도주범이 위치한 곳에 도착하면 오버뷰에서 대상이 붉은 색 타겟 아이콘으로 나타납니다. 놈의 함선을 공격해 파괴하세요. 도주범의 함선이 파괴되면 화물 컨테이너가 사출될 겁니다. 그것이 테르헬렌의 탈출 캡슐입니다. 화물 컨테이너의 1500 미터 범위 내에 접근한 뒤 우클릭을 한 뒤 "화물실 열기"를 선택하세요. (또는 오버뷰에서 "화물실 열기"를 선택하세요.) 화물의 인벤토리 창이 열리면 죄수를 당신의 화물실로 드래그해 옮깁니다.<br><br>축하합니다, 밀레어 테르헬렌을 체포하셨습니다! 이제 {[ch
-(truncated, 539 chars total)
-```
-
-
 RU
 
 ```diff
@@ -186107,28 +172187,12 @@ EN
 ```
 
 
-DE
-
-```text
-Es ist an der Zeit, schnell zu agieren, {[character]player.name}. Wir haben gerade Berichte erhalten, dass die caldarische Navy einen vorderen Außenposten im System Otitoh errichtet hat, als Vorbereitung auf einen Schlag gegen unseren Komplex in der Gegend. Unseren Informationen zufolge haben sie dort bereits eine sehenswerte Streitmacht und bereiten sich darauf vor, mehr Truppen einzufliegen. Wir freuen uns jedoch Ihnen mitteilen zu können, dass die EMP-Ladung, die Sie an der Lai Dai-Station pl
-(truncated, 1,457 chars total)
-```
-
-
 ES
 
 ```diff
   Hay que actuar rápido, {[character]player.name}. Nos han comunicado que la Armada Caldari ha montado un puesto avanzado en el sistema Otitoh y se están preparando para atacar un complejo nuestro en la zona. Según los informes, cuentan con un buen ejército y pretenden seguir reclutando. Eso sí, nos complace anunciar que la carga de EMP que colocaste en la estación de Lai Dai ha tenido el efecto deseado y ha dañado seriamente las naves de apoyo y el equipo que la Armada pensaba utilizar en Otitoh. Hay que aprovechar que están debilitados y centrados en recuperarse del golpe para lanzar un ataque fulminante.
   <br><br>
   Ve allí y elimina el centro de mando y control de la Armada en la zona. Agradeceremos cualquier pérdida que puedas provocarles, pero tu prioridad debe ser el centro de control y mando. Una vez derribado, la Armada se verá obligada a retirarse, y nosotros estaremos varios pasos más cerca de implementar nuestros planes en la constelación. Cuando hayas destruido la estructura, avísame y me encargaré de que tus esfuerzos se vean generosamente recompensados. Los Guristas no olvidarán esto, {[character]player.name}. Buena suerte.
-```
-
-
-FR
-
-```text
-l n'y a pas une minute à perdre, {[character]player.name}.  Nous venons de recevoir des rapports indiquant que la Caldari Navy a établi un avant-poste dans le système d'Otitoh, pour préparer une attaque sur notre complexe dans le secteur.  Selon nos informations, ils disposent déjà d'une force conséquente et ils se préparent à grossir leurs rangs.  Cela dit, nous sommes heureux de vous apprendre que la charge IEM que vous avez placée à la station Lai Dai a eu l'effet escompté. Elle a sérieusemen
-(truncated, 1,372 chars total)
 ```
 
 
@@ -186141,27 +172205,12 @@ JA
 ```
 
 
-KO
-
-```text
-재빠르게 움직일 때입니다, {[character]player.name}. 칼다리 해군이 지역 내 우리 시설에 대한 공격을 위해 오티토 항성계에 전초기지를 세웠다는 보고를 막 전달받았습니다. 우리 측 정보에 따르면 놈들은 이미 상당수의 병력을 보유 중이며 추가 병력을 데려올 준비를 하고 있다고 합니다. 여기서 반가운 말씀을 하나 드리자면 당신이 라이다이 정거장에 설치해 뒀던 EMP 차지가 기대했던 효과를 거둬서 놈들의 해군이 오티토에서 사용할 작정이었던 상당수의 지원 함선과 장비에 심각한 손상을 줬다는 거죠. 그렇기 때문에 지금이야말로 공격을 할 절호의 기회입니다. 놈들이 약해져서 어떻게든 예비 전력 자산으로 손해를 복구해보려 아둥바둥거릴 때 말이죠.<br><br>그곳으로 출발해 지역 해군 지휘관제센터를 처리해 주세요. 공격 중 다른 놈들도 동시에 공격하신다면 감사하겠지만 우선 1차 타겟은 놈들의 C&C 센터입니다. 센터를 처리하고 나면 해군은 해당 지역에서 철수할 수밖에 없을 것이고
-(truncated, 642 chars total)
-```
-
-
 RU
 
 ```diff
   Учтите, {[character]player.name}, времени на размышления у нас почти не осталось. Нам сообщили, что флот Caldari развернул в системе Otitoh передовую базу и готовится атаковать один из наших комплексов. Прибывший на базу флот никак нельзя назвать маленьким, но в ближайшие дни он будет усилен дополнительными кораблями. Впрочем, далеко не все из них доберутся до места назначения — электромагнитная бомба, установленная вами на станции Lai Dai, вывела часть подкреплений из строя. Выигранное время мы употребим с пользой — нанесем по врагу упреждающий удар.
   <br><br>
   Отправляйтесь в Otitoh и уничтожьте командный центр флота Caldari. Я не стану возражать, если попутно вы взорвете несколько вражеских кораблей, но все же постарайтесь сконцентрировать ваши усилия на командном центре. Флоту, лишенному штаба, придется свернуть все проводимые им операции — следовательно, ничто не будет угрожать реализации наших планов по захвату созвездия. Как только вы разберетесь с этим центром, возвращайтесь ко мне — я позабочусь о том, чтобы вас щедро вознаградили.  Gurista умеют ценить друзей. Удачи, {[character]player.name}!
-```
-
-
-ZH
-
-```text
-得赶快行动了，{[character]player.name}。我们刚刚接报，加达里海军在欧提托星系里建造了一个前线岗哨，准备对我们所在地区的设施进行攻击。据我们掌握的消息，他们在那儿囤积了大量兵力，而且还准备增派更多的人手。不过有个好消息，你安置在莱戴空间站的电磁脉冲弹药大显威力，摧毁了不少补给船，还让加达里海军准备在欧提托使用的装备被提前预支。现在进攻的时机到了，趁着他们力量被削弱，后备补给匮乏，我们得赶快下手！<br><br>我要你去那儿摧毁这个地区的海军指挥控制中心。尽可能摧毁你所发现的目标，给他们以沉重打击，但是要记住你的主要的目标是指挥控制中心，如果那个地方被毁，加达里海军会被迫从这儿撤退，那样我们在这个星系的计划就更容易实现了。摧毁指挥控制中心后，回来向我报告，我会给你一笔不错的报酬。古斯塔斯不会忘记你的，{[character]player.name}。祝你好运！
 ```
 
 
@@ -186174,55 +172223,6 @@ EN
 ```diff
 - […]ion objectives have not been completed.  Please check the mission's details via O[…]
 + […]ion objectives have not been completed. Please check the mission's details via O[…]
-```
-
-
-DE
-
-```text
-Mindestens ein Missionsziel wurde nicht erreicht. Bitte prüfen Sie die Missionsdetails in Ihren Gelegenheiten oder dem Infofenster für weitere Details.
-```
-
-
-ES
-
-```text
-Uno o más objetivos de misión no se han completado. Comprueba los detalles de la misión en tu interfaz de oportunidades o en tu panel de información para obtener más detalles.
-```
-
-
-FR
-
-```text
-Vous n'avez pas rempli un ou plusieurs objectifs de mission. Consultez les détails de la mission dans l'interface Opportunités ou sur le tableau de bord pour plus d'informations.
-```
-
-
-JA
-
-```text
-まだ完了していないミッション目標があります。 詳しくはオポチュニティーズインターフェースか情報パネルでミッション詳細を確認してください。
-```
-
-
-KO
-
-```text
-미션이 완료되지 않았습니다. 맞춤 임무 또는 정보 패널에서 미션 상세 정보를 확인하면 추가 정보를 얻을 수 있습니다.
-```
-
-
-RU
-
-```text
-Вы не выполнили одну или несколько целей задания. Все подробности можно узнать на информационной панели или в разделе «Сведения о задании» вашего интерфейса «Возможности АМИ».
-```
-
-
-ZH
-
-```text
-还有一个或多个任务目标没有达成。查看“机遇”界面的任务详情或信息面板，了解更多信息。
 ```
 
 
@@ -186257,27 +172257,6 @@ ES
 ```
 
 
-FR
-
-```text
-La Fédération a longtemps encouragé ses citoyens à lutter contre l'oppression, la détresse, et les méfaits en tous genres. Pour tous les capsuliers qui, par le biais d'actions totalement désintéressées, ont fait front face à la tyrannie, le Médaillon doré de la liberté est une belle reconnaissance de toute la gratitude de la Fédération à leur égard.<br><br> « Il est de notre devoir de rendre justice. Nous ne laisserons personne s'y opposer. » - Presidente Arlette Villers
-```
-
-
-JA
-
-```text
-連邦は昔から国民に、圧政や問題や不正に立ち向かうことを推奨してきた。見返りを求めることなく圧政へ勇敢に立ち向かったカプセラに対する、連邦からささやかな感謝の印が解放黄金勲章である。『正義をもたらすのは我が国の義務である。なんびとにも正義を曲げさせてはならない』―大統領アルレット・ヴィラーズ
-```
-
-
-KO
-
-```text
-연방은 시민들에게 억압과 역경에 굴하지 말고 반기하기를 권장합니다. 개인의 영리가 아닌 억압과 독재에 맞서기 위해 일어선 캡슐리어들에게는 황금자유훈장이 수여됩니다. <br><br> <br><br>"정의를 전파하는 것이야말로 우리의 임무이며, 그 누구도 이러한 정신을 부정할 수는 없습니다." - 알레트 빌러스 대통령
-```
-
-
 RU
 
 ```diff
@@ -186308,13 +172287,6 @@ EN
 ```
 
 
-DE
-
-```text
-Freiheit ist das höchste Ideal der Gallente Federation und das Platinmedaillon der Freiheit wird nur jenen verliehen, die vom Präsidenten persönlich für würdig befunden wurden. Wer diese ruhmvolle Auszeichnung erhält, muss sich in extreme Gefahr begeben haben, um die Werte der Föderation in ganz New Eden zu verbreiten. "Wenn wir uns nicht für den Frieden einsetzen, wer soll es dann tun?" - Präsident Aidonis Elabon
-```
-
-
 ES
 
 ```diff
@@ -186330,20 +172302,6 @@ FR
 ```diff
 - […]de la Fédération à travers New Eden.<br><br> « Si nous n'œuvrons pas pour la paix, q[…]
 + […]de la Fédération à travers New Eden.<br> « Si nous n'œuvrons pas pour la paix, q[…]
-```
-
-
-JA
-
-```text
-自由はガレンテ連邦が最も尊ぶ理想であり、自由白金勲章は大統領が自ら選んだ人物にのみ授与される。この栄えある名誉に選ばれるためには、並々ならぬ身の危険を冒して連邦の尊ぶ理念をニューエデンに広める功績がなければならない。『我々が平和のために立ち上がらねば、他の誰にやれるというのだ』―大統領エイドニス・エラボン
-```
-
-
-KO
-
-```text
-자유는 갈란테 연방이 추구하는 최고의 이상입니다. 백금으로 제작된 자유의 훈장은 대통령이 직접 선정한 자들에게 수여됩니다. 이 권위 있는 상을 받기 위해서는 연방이 추구하는 가치를 위해 개인적인 무공이 뛰어나야 합니다.<br><br><br>"우리가 자유를 위해 일어서지 않으면 그 누가 할 수 있는가?" - 대통령 아이도니스 엘라본
 ```
 
 
@@ -186380,78 +172338,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
-(truncated, 1,096 chars total)
-```
-
-
-ES
-
-```text
-Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
-
-El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
-(truncated, 1,298 chars total)
-```
-
-
-FR
-
-```text
-Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
-(truncated, 1,305 chars total)
-```
-
-
-JA
-
-```text
-初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
-
-
-
-最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
-
-
-
-これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
-```
-
-
-KO
-
-```text
-"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
-(truncated, 535 chars total)
-```
-
-
-RU
-
-```text
-«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
-(truncated, 1,190 chars total)
-```
-
-
-ZH
-
-```text
-这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
-
-
-
-该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
-
-
-
-之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
-```
-
-
 
 
 ### MessageID: 527250 · Source Modified
@@ -186465,78 +172351,6 @@ EN
 + The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
   
   Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
-```
-
-
-DE
-
-```text
-Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
-(truncated, 1,096 chars total)
-```
-
-
-ES
-
-```text
-Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
-
-El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
-(truncated, 1,298 chars total)
-```
-
-
-FR
-
-```text
-Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
-(truncated, 1,305 chars total)
-```
-
-
-JA
-
-```text
-初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
-
-
-
-最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
-
-
-
-これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
-```
-
-
-KO
-
-```text
-"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
-(truncated, 535 chars total)
-```
-
-
-RU
-
-```text
-«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
-(truncated, 1,190 chars total)
-```
-
-
-ZH
-
-```text
-这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
-
-
-
-该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
-
-
-
-之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
 ```
 
 
@@ -186556,78 +172370,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
-(truncated, 1,096 chars total)
-```
-
-
-ES
-
-```text
-Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
-
-El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
-(truncated, 1,298 chars total)
-```
-
-
-FR
-
-```text
-Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
-(truncated, 1,305 chars total)
-```
-
-
-JA
-
-```text
-初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
-
-
-
-最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
-
-
-
-これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
-```
-
-
-KO
-
-```text
-"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
-(truncated, 535 chars total)
-```
-
-
-RU
-
-```text
-«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
-(truncated, 1,189 chars total)
-```
-
-
-ZH
-
-```text
-这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
-
-
-
-该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
-
-
-
-之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
-```
-
-
 
 
 ### MessageID: 527256 · Source Modified
@@ -186641,78 +172383,6 @@ EN
 + The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
   
   Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
-```
-
-
-DE
-
-```text
-Die Guristas waren die ersten, die mit diesem Subsystem unangenehme Bekanntschaft auf dem Schlachtfeld machten, und tauften es „Anti-Unterbrecher“. Baut man es ein, verbessert es die Leistung von Anti-Unterbrecher-Modulen. Der Ursprung der ersten „Anti“-Designs liegt im Verborgenen, aber die Produktion begann wohl kurze Zeit nach der Öffnung der Wurmlöcher und lange, bevor sie allgemein bekannt wurden. Unmittelbar nachdem die erste Tengu sich ins All erhob, fing die Caldari Navy Notsignale von G
-(truncated, 1,096 chars total)
-```
-
-
-ES
-
-```text
-Apodado el «anulador de interdicción» por los guristas, que sufrieron las consecuencias de su primera intervención en combate, este subsistema integra y mejora el rendimiento de los módulos anuladores de interdicción.
-
-El origen de los primeros diseños de anuladores son todo un misterio; pero se cree que la producción primigenia del subsistema tuvo lugar poco después de las aperturas de los agujeros de gusano, y mucho antes de que la tecnología se difundiera. Poco después de que fueran diseñadas
-(truncated, 1,298 chars total)
-```
-
-
-FR
-
-```text
-Surnommé l'« annihilateur d'interdiction » par les Guristas, qui ont subi sa première apparition sur le champ de bataille, ce sous-système combine et améliore les performances des modules contremesures d’interdiction. Les origines de la conception du premier « annihilateur » demeurent un mystère, même si la production initiale de ce sous-système semble avoir eu lieu peu de temps après l'ouverture des trous de ver, et bien avant que la technologie ne devienne courante dans toute la galaxie. Peu a
-(truncated, 1,305 chars total)
-```
-
-
-JA
-
-```text
-初陣でガリスタスに多大な被害をもたらし、そのため彼らから「インターディクション殺し」と呼ばれるこのサブシステムは、インターディクション無効化モジュールの性能を統合、強化することができる。
-
-
-
-最初の、「無効化」装置設計の起源は、謎に包まれているが、そのサブシステムの初号機は、ワームホールが開いてすぐ、その技術が広く知れ渡るかなり前に造られたと言われている。最初のテングが開発されて間もない頃、カルダリ海軍はベナルとテナル、そしてベールオブザサイレントのガリスタスフリートからの緊急無線を傍受した。どの報告も、ロキ級艦船が防衛施設をすり抜け、停船させようと手を尽くしたにも関わらず、足止めすらできずにガリスタスの領域中心部まで到達したと述べていた。  
-
-
-
-これらの報告の後、他の組織もこの驚くべき新技術を発見し実装しようとしているという噂が流れた。だがそれを試みた勢力の中でも、ゼロセキュリティ領域の未開地を拠点とする個人カプセラや海賊組織ほど、その技術競争で必死かつ冷徹に振舞う者たちは他にいなかった。
-```
-
-
-KO
-
-```text
-"인터딕션 무효화 장치"로 불리는 모듈로 과거 구리스타스를 상대로 막대한 피해를 입힌 전적을 지니고 있습니다. 서브시스템 장착 시 인터딕션 무효화 장치가 강화됩니다.<br><br>"무효화 장치"의 최초 설계는 여전히 수수께끼에 싸여 있으며, 웜홀 개방 후에 본격적인 생산이 시작되었을 것으로 추측되고 있습니다. 첫 등장 전까지 인터딕션 무효화 기술에 대한 정보는 알려지지 않았습니다. 텐구의 실전 투입 이후 칼다리 해군은 베날, 테날, 그리고 사일런트 베일에서 구리스타스의 통신 채널을 감청하는데 성공했습니다. 당시 구리스타스 방어선이 텐구에 의해 속수무책으로 뚫린 후 다수의 로키가 침입했다는 소식이 전달되었습니다. <br><br>해당 사건 이후 4대 제국은 인터딕션 무효화 기술을 개발하기 위한 대대적인 연구 프로젝트를 시행했습니다. 막대한 투자금에도 불구하고 4대 제국은 인터딕션 무효화 기술을 통해 추가적인 이득을 취한 정황은 포착되지 않습니다. 물론 널 시큐리티 지역에서 활동하는 캡슐
-(truncated, 535 chars total)
-```
-
-
-RU
-
-```text
-«Нейтрализатором варп-заграждений» эту подсистему окрестили пираты «Гуристас», которым не посчастливилось пострадать от неё первыми. Она объединяет модули нейтрализации варп-заграждений и повышает их производительность. Неизвестно, кто изобрёл первые нейтрализаторы, однако предполагается, что производство таких подсистем началось вскоре после появления червоточин: задолго до того, как технология получила широкое распространение. С запуска первых «Тенгу» прошло не так много времени, когда калдарс
-(truncated, 1,190 chars total)
-```
-
-
-ZH
-
-```text
-这个子系统被古斯塔斯称为“拦截湮灭者”，因为他们在战斗中首次遇到这种装备时吃了大亏。它可以提高拦截失效装备的性能。
-
-
-
-该装备的起源至今是个谜，但多数人猜测其在虫洞打开后不久，远在该技术广为流传之前就已出现。在设计出第一艘金鹏级巡洋舰后不久，加达里海军就截获了来自维纳尔、特纳与静寂谷星域的古斯塔斯紧急电报。所有电报都提到了洛基级舰船穿越各种防御阻碍直捣古斯塔斯老巢。  
-
-
-
-之后，就不断有他人发现并运用这种超新技术的说法传出。但在所有势力派系中，没有谁像那些已把0.0区作为自家领地的独立克隆飞行员与海盗组织那样拼命地运用此技术。
 ```
 
 
@@ -186731,74 +172401,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieses Abgrundfilament zieht einen <b>Tech-I- oder Tech-II-Kreuzer</b> in eine Tasche der Raumverwerfung des Abgrunds, deren <b>katastrophale lokale Umweltdestabilisierung</b> von einem Feld dunkler Materie getrübt wird, das <b>die Reichweite der Waffen reduziert</b> aber <b>die Geschwindigkeit des Schiffs erhöht</b>. <b><color=yellow>Einschränkungen:</color></b> Kann nicht in Systemen mit 1,0 oder 0,9 aktiviert werden. Kapselpilot wird bei Aktivierung in Systemen mit 0,8, 0,7 oder 0,6 als verdä
-(truncated, 1,854 chars total)
-```
-
-
-ES
-
-```text
-Este filamento abisal arrastrará un <b>crucero T1 o T2</b> a una burbuja del espacio muerto abisal que experimenta <b>una desestabilización medioambiental local cataclísmica</b> y que está cubierta por un campo de materia oscura que <b>reducirá el alcance de las armas</b> pero <b>aumentará la velocidad de la nave</b>.
-
-<b><color=yellow>Restricciones:</color></b> No se puede activar en los sistemas 1.0 o 0.9. Los capsulistas se marcarán como sospechosos si se activa en sistemas 0.8, 0.7 o 0.6. 
-(truncated, 1,755 chars total)
-```
-
-
-FR
-
-```text
-Ce filament abyssal peut entraîner un <b>croiseur de Tech I ou Tech II</b> dans une poche de l'abîme Deadspace subissant des <b>perturbations environnementales cataclysmiques à échelle locale</b> et enveloppée par un champ de matière noire, qui <b>réduit la portée des armes,</b> mais <b>améliore la vitesse du vaisseau</b>. <b><color=yellow>Restrictions :</color></b> Ne peut être activé dans les systèmes avec un statut de sécurité de 1,0 ou 0,9. Le capsulier sera signalé comme suspect en cas d'ac
-(truncated, 1,881 chars total)
-```
-
-
-JA
-
-```text
-このアビサルフィラメントは<b>T1、あるいはT2巡洋艦</b>1隻をアビサルデッドスペースに送り込むことができる。現地は<b>災害クラスで環境が不安定化した状態</b>で、ダークマター・フィールドにより<b>兵器の射程が減少</b>するが、<b>航行速度は向上する</b>。
-
-<b><color=yellow>制限：</color></b>1.0または0.9のシステムでは起動できない。0.8、0.7、または0.6のシステムで起動させたカプセラには容疑者フラグが付与される。 
-
-<b><color=yellow>警告：</color></b> アビサルデッドスペースは非常に厳しい環境だ。ワープコアと時空フィラメントがもつれることで、艦船のワープフィールドに重大な歪みが発生し、しかもこれは時間経過により累積的に拡大する。<b><color=yellow>20分</color></b>の経過でワープフィールが破滅的に崩壊することが予測されており、それにより<b><color=yellow>艦船とカプセルが破壊される</color></b>のは間違いない。
-
-アビサルデッドスペー
-(truncated, 784 chars total)
-```
-
-
-KO
-
-```text
-<b>테크 I 또는 테크 II 크루저</b>를 <b>종말급 자연 재해로 불안정해진</b> 어비설 데드스페이스 포켓으로 이동시킵니다. 포켓 내부의 결집된 암흑 물질에 노출되면 <b>무기 사거리가 감소</b>되고 <b>함선의 비행 속도가 증가합니다</b>.
-
-<b><color=yellow>제한:</color></b> 시큐리티 상태가 1.0~0.9인 성계에서는 사용할 수 없습니다. 시큐리티 상태가 0.8~0.6인 성계에서 사용할 경우 용의자로 표시됩니다.
-
-<b><color=yellow>경고:</color></b> 어비설 데드스페이스는 매우 혹독한 환경을 지닌 지역입니다. 워프코어와 시공간 필라멘트 사이의 얽힘현상으로 인해 함선의 워프 필드가 극심하게 왜곡되어 왜곡률이 시간이 지날수록 누적상승합니다. 워프 필드는 <b><color=yellow>20분</color></b> 후에 붕괴되며 워프 필드에 위치한 <b><color=yellow>함선 및 캡슐이 파괴될 것입니다.</color>
-(truncated, 809 chars total)
-```
-
-
-RU
-
-```text
-Эта нить бездны способна переместить <b>крейсер 1 или 2 техноуровня</b> в один из участков Мёртвой бездны с <b>разрушительным дестабилизирующим воздействием окружающей среды</b>, окутанный полем тёмной материи, которое <b>уменьшает дальность поражения орудий</b>, но при этом <b>увеличивает скорость корабля</b>. <b><color=yellow>Ограничения:</color></b> невозможно активировать в системах с уровнем безопасности 1,0 и 0,9. При активации в системах с уровнем безопасности 0,8, 0,7 или 0,6 капсулёр бу
-(truncated, 1,705 chars total)
-```
-
-
-ZH
-
-```text
-这个深渊纤维会将一艘<b>一级或二级科技巡洋舰</b>拉入一个深渊空间层中，这里的环境<b>仿佛灾难降临般可怖</b>，放射出会<b>降低武器射程</b>但<b>提高舰船速度</b>的暗物质云。<b><color=yellow>限制：</color></b>不能在1.0或0.9星系中启用。如果在0.6、0.7或0.8星系中启用，克隆飞行员会被标记为可疑分子。<b><color=yellow>警告：</color></b>深渊空间的环境极其严苛和无情。纠缠在舰船的跃迁核心上的时空纤维会让舰船的跃迁力场严重变形，并会随时间推移而加剧。<b><color=yellow>20分钟</color></b>后，跃迁力场将会彻底崩塌，<b><color=yellow>舰船和太空舱也会随之灰飞烟灭</color></b>。一个三神裔设备会放射出与某个特定的深渊空间层相连的惰性时空纤维，被某个载有特定的能量参数的跃迁核心的舰船触发后，纤维会成为一个导管，将该舰船引入其连接的空间层中。这种大规模能量交换会在舰船的初始点留下高能量痕迹，时空纤维会纠缠在使用那个跃迁核心的舰船上。三神裔传输导管允许这样的舰船继
-(truncated, 531 chars total)
-```
-
-
 
 
 ### MessageID: 571417 · Source Modified
@@ -186808,59 +172410,6 @@ EN
 ```diff
 - […]nds rather than destroy a useful asset.  This station has been turned into a faci[…]
 + […]nds rather than destroy a useful asset. This station has been turned into a faci[…]
-```
-
-
-DE
-
-```text
-Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Diese Station wurde in eine Einrichtung umgewandelt, die sich auf die biologische Anpassung von Lebensformen an eine Vielzahl von Umgebungsbedingungen spezialisiert. Zu diesem Zweck dienen zahlreiche Kammern, in denen sowohl Tr
-(truncated, 627 chars total)
-```
-
-
-ES
-
-```text
-La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. Esta estación se ha transformado en un complejo centrado en la bioadaptación de formas de vida a distintas condiciones ambientales. Las numerosas cámaras dedicadas a esta finalidad se utilizan para adaptar a triglavianos y no triglavianos en
-(truncated, 560 chars total)
-```
-
-
-FR
-
-```text
-L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette station a été transformée en usine centrée sur la bioadaptation des formes de vie à diverses conditions environnementales. Les nombreuses salles dédiées à cet objectif sont utili
-(truncated, 650 chars total)
-```
-
-
-JA
-
-```text
-トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションは、生命体をさまざまな環境下に生体適応させるための研究施設に改修された。特別仕様の部屋の多くでは、トリグラビアンと非トリグラビアンの両方が必要に応じて環境に適応できるよう、日々尽力が為されている。
-```
-
-
-KO
-
-```text
-정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 생체적응 연구소로 운영되고 있으며 유기체가 극한 환경에서 생존할 수 있도록 개조 작업을 진행하고 있습니다. 정거장 내 대부분의 구역은 트리글라비안을 비롯한 비트리글라비안 개체의 생체 개조 작업에 사용되고 있습니다.
-```
-
-
-RU
-
-```text
-После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция была превращена в объект, который специализируется на биологической адаптации различных форм жизни к разнообразным внешним условиям. Она поделена на многочисленные камеры, предназначенные как для триглавских, так и нетриглавских форм жизни, условия соде
-(truncated, 622 chars total)
-```
-
-
-ZH
-
-```text
-三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站已被改造为一座研究设施，主要针对各种环境条件下的生命形态进行生化适应突变的相关研究。为这个目的而服务的众多舱室除了接纳三神裔之外，也根据环境变化需求而对非三神裔生命体进行适应突变。
 ```
 
 
@@ -186876,59 +172425,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Die Klade, die diese Station übernommen hat, hat sie in einen Terminus für die Rohstoffförderung verwandelt, die in der gesamten Krai-Region betrieben wird. Die umfangreichen Verarbeitungsprozesse erhalten offenbar auch Lieferu
-(truncated, 627 chars total)
-```
-
-
-ES
-
-```text
-La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. El clado que tomó esta estación decidió convertirla en un terminal para operaciones de extracción de recursos en su Krai. Resulta evidente que las grandes operaciones de procesamiento reciben envíos de la recolección de recursos y los saqueo
-(truncated, 598 chars total)
-```
-
-
-FR
-
-```text
-L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Le clade qui a pris possession de cette station a jugé bon de la convertir en un terminal d'opérations d'extraction de ressources menées à travers sa Krai. Le vaste traitement d'opérat
-(truncated, 696 chars total)
-```
-
-
-JA
-
-```text
-トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションを占拠したクレードは、ここをクライの資源抽出作業を取りまとめるターミナルに改修した。膨大な処理作業の中には、資源採掘による輸送品の受け取りや、既知宇宙の星系に尽きぬ興味を抱くトリグラビアンの略奪も当然含まれている。
-```
-
-
-KO
-
-```text
-정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 크라이 전역에서 수집한 자원을 추출하기 위한 장소로 활용되고 있습니다. 트리글라비안은 일반 우주에서 약탈 또는 추출한 자원을 정제하기 위해 해당 정거장을 사용하고 있습니다.
-```
-
-
-RU
-
-```text
-После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Клада, завладевшая этой станцией, решила преобразовать её в сортировочный узел для всех добывающих операций, которые проходят в этом Крае. На переработку сюда поступают ресурсы, добываемые — в том числе и во время налётов — в системах освоенной части космоса, предс
-(truncated, 542 chars total)
-```
-
-
-ZH
-
-```text
-三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  占据这里的演化枝将其改造为全星系范围内的资源开采作业的终端。它巨大的提炼设施除了接受开采而来的资源外，还包括从三神裔觊觎的已知星系中掠夺来的资源。
-```
-
-
 
 
 ### MessageID: 571419 · Source Modified
@@ -186938,59 +172434,6 @@ EN
 ```diff
 - […]nds rather than destroy a useful asset.  This station has been transformed into a[…]
 + […]nds rather than destroy a useful asset. This station has been transformed into a[…]
-```
-
-
-DE
-
-```text
-Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Diese Station wurde in eine Einrichtung umgewandelt, in der die kontrollierende Klade und ihre Unterkladen verschiedene Formen der „Prüfung“ durchführen. Diese Verfahren scheinen eine komplexe Mischung aus Tests und rituellem w
-(truncated, 705 chars total)
-```
-
-
-ES
-
-```text
-La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. Esta estación se ha transformado en un centro dedicado a las diversas formas de «demostrar» que están bajo el control del clado al mando y sus subclados. Tales procedimientos parecen una compleja mezcla de pruebas, rituales y discusiones fil
-(truncated, 665 chars total)
-```
-
-
-FR
-
-```text
-L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette station a été transformée en usine dédiée à différentes formes d'« expériences » effectuées par le clade propriétaire et ses sous-clades. Ces procédures semblent être un mélange 
-(truncated, 724 chars total)
-```
-
-
-JA
-
-```text
-トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションは、支配クレードとサブクレートによるさまざまな形態の「実証」に特化した施設に改修された。その手順には複雑なテスト、儀式、哲学的対話が混ざり合っているらしい。それはすなわち、個人、集団、理論、イデオロギー、テクノロジー、社会行動その他の価値を決める具体的な弁証法とも言える。
-```
-
-
-KO
-
-```text
-정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. "증명"은 다양한 실험, 의식, 그리고 철학적 담론을 바탕으로 한 검증 절차로 실질적인 담론을 통해 개인, 단체, 이론, 사상, 기술, 그리고 사회적 관습 등의 가치를 검증하는 데 활용됩니다.
-```
-
-
-RU
-
-```text
-После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция была преобразована в объект, предназначенный для различного рода «испытаний», которые проводит владеющая станцией клада и её малые клады. Эти процедуры представляют собой сложную смесь разного рода экспертиз, ритуалов и философских дискуссий, предназнач
-(truncated, 581 chars total)
-```
-
-
-ZH
-
-```text
-三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站被改造为一座专门研究各种“试炼”的设施。这其中混合了复杂的测试，仪式和哲学论述：一种用来确定个体、群体、理论、观念、技术、社会实践和其他等等一切的价值的具体辩证法。
 ```
 
 
@@ -187006,59 +172449,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Die kontrollierende Klade hat diese Station in eine Einrichtung umgewandelt, die als Mischung aus Kommunikationszentrum, Datenverarbeitungsanlage und diplomatischem Anlaufpunkt fungiert. Es könnte sich um eine spezialisierte Kl
-(truncated, 674 chars total)
-```
-
-
-ES
-
-```text
-La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. El clado al mando ha convertido esta estación en un complejo que actúa como central de comunicaciones, complejo de procesamiento de datos y territorio diplomático. Podría ser una especie de centro especializado para demostrar los aspectos se
-(truncated, 594 chars total)
-```
-
-
-FR
-
-```text
-L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Le clade qui en est devenu propriétaire a transformé cette station en une structure qui semble être un hybride entre une plateforme de communication, un complexe de traitement de donné
-(truncated, 723 chars total)
-```
-
-
-JA
-
-```text
-トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。支配層のクレードは、このステーションをコミュニケーションハブとデータ処理施設と外交場の複合施設に改修したようだ。トリグラビアン文化を支配している極めて弁証法的な思考と行動の、記号論的側面に焦点を当てた実証センターとして、ここは特別な位置付けにあるのかもしれない。
-```
-
-
-KO
-
-```text
-정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 데이터 처리, 통신, 그리고 외교사절을 위한 종합 시설로 활용되고 있습니다. 이 정거장은 트리글라비안 문화의 변증법적 행동 양식에 맞춰 설계되었습니다.
-```
-
-
-RU
-
-```text
-После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Клада, владеющая этой станцией, превратила её в некий объект, сочетающий функции узла связи, комплекса переработки данных и дипломатического центра. Возможно, это особый испытательный центр, который специализируется на семиотических аспектах сугубо диалектического 
-(truncated, 563 chars total)
-```
-
-
-ZH
-
-```text
-三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  占据这里的演化枝将其改造为一座融合了信息中继、数据处理和外事接待的综合场所。它也可能是一座特殊的试炼场，专注于主导了三神裔文化的符号化层面辩证性思考和行为方式。
-```
-
-
 
 
 ### MessageID: 571421 · Source Modified
@@ -187071,59 +172461,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Diese Station wurde aufgrund der Entscheidung der kontrollierenden Klade, sie als Einrichtung zum Farmen von Mutaplasmiden aller Art zu nutzen, umfassend umgebaut. Viele der Innenräume sind jetzt brodelnde Höhlen, die mit der s
-(truncated, 652 chars total)
-```
-
-
-ES
-
-```text
-La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. La decisión del clado invasor de utilizar esta estación como centro para el cultivo de mutaplásmidos de todo tipo ha provocado una transformación significativa. Muchos de los espacios internos son ahora cavernas agitadas y llenas de formas s
-(truncated, 630 chars total)
-```
-
-
-FR
-
-```text
-L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. Cette station a été considérablement transformée par la décision du clade qui l'occupe de l'utiliser comme structure dédiée à l'élevage de tous types de mutaplasmides. Nombre d'espaces
-(truncated, 719 chars total)
-```
-
-
-JA
-
-```text
-トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションは占拠したクレードの決定によって大幅に改変が加えられ、あらゆる種類の変異プラスミド培養施設として使用されている。内部空間の多くは、奇妙な半生物や半人工物で溢れかえっている。これらはテクノロジーの発展と適用を目指す、トリグラビアンの進化ナノテクノロジーの産物である。
-```
-
-
-KO
-
-```text
-정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 클레이드 및 서브클레이드들을 위한 "증명" 시설로 개조되었습니다. 현재는 정거장을 운영하는 클레이드의 지침에 따라 뮤타플라즈미드를 재배하고 있습니다. 정거장 내 대부분의 구역은 생체공학 물질을 생산하기 위해 개조되었으며 트리글라비안 나노기술 개발을 위해 운영되고 있습니다.
-```
-
-
-RU
-
-```text
-После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Эта станция подверглась значительным преобразованиям, поскольку владеющая ею клада решила использовать её для производства разнообразных мутаплазмидов. Существенная часть внутренних залов станции превратилась в бурлящие каверны, заполненные жуткими полуискусственны
-(truncated, 605 chars total)
-```
-
-
-ZH
-
-```text
-三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站被占据这里的演化枝进行了大规模改造，将其作为一座专门进行突变质体制造的设施。空间站内部的大部分空间现在充满了怪异的半生物质，半人工合成的纳米科技形态，三神裔将其用于生化适应技术的研究。
-```
-
-
 
 
 ### MessageID: 571422 · Source Modified
@@ -187133,59 +172470,6 @@ EN
 ```diff
 - […]nds rather than destroy a useful asset.  Security within this station is extremel[…]
 + […]nds rather than destroy a useful asset. Security within this station is extremel[…]
-```
-
-
-DE
-
-```text
-Die Besatzung einer Raumstation durch Triglavia schließt typischerweise die Umwandlung eines Großteils des Innenraums mit ein, wobei die Kladen scheinbar dazu neigen, die beschlagnahmte Station für ihre eigenen Zwecke zu nutzen, statt ein nützliches Werkzeug zu zerstören. Die Sicherheit auf dieser Station ist extrem stark und die kontrollierende Klade ist noch intoleranter als gewöhnlich, wenn es um wahrgenommene Nichteinhaltungen und Verstöße von Bewohnern und Besuchern geht. Der Kern der Stati
-(truncated, 714 chars total)
-```
-
-
-ES
-
-```text
-La ocupación triglaviana de una estación espacial suele implicar la conversión de gran parte de su interior para darle una nueva vida. Parece que los clados se inclinan a usar la estación capturada para sus propios fines en lugar de destruir un recurso útil. La seguridad dentro de esta estación es extremadamente férrea y el clado al mando es menos tolerante de lo habitual en lo relativo a las infracciones y las transgresiones cometidas por residentes o visitantes. El núcleo de la estación está t
-(truncated, 741 chars total)
-```
-
-
-FR
-
-```text
-L'occupation triglavian d'une station spatiale implique généralement la transformation de la majeure partie de son intérieur par rapport à son utilisation antérieure, les clades étant apparemment incités à se servir de la station conquise pour leurs intérêts plutôt que de détruire un élément potentiellement utile. La sécurité au sein de cette station est extrêmement élevée et le clade propriétaire est encore moins indulgent qu'habituellement envers les infractions et crimes perçus de la part des
-(truncated, 768 chars total)
-```
-
-
-JA
-
-```text
-トリグラビアンは宇宙ステーションを占領すると、内部をそれまでの目的とは異なる設備に改修するのが一般的だ。クレードは獲得したステーションを破壊するよりは、便利なアセットとして利用することを好むらしい。このステーションのセキュリティは極めて厳重で、ここを支配するクレードは、住民や訪問者による違反や暴力行為に対してあまり寛容ではない。ステーションの中心は、クレードのエリートトロイカ以外は完全に立入禁止で、トリグラビアンの採掘作業で獲得した最高品質の資源の余剰分を保管するために使用している。
-```
-
-
-KO
-
-```text
-정거장 점령 시 트리글라비안은 구조물을 파괴하는 대신 내부 시설을 개조하여 재활용합니다. 해당 정거장은 최고 수준의 보안 조치가 적용되었으며 방문객 및 거주민이 규정을 위반할 경우에는 엄격한 처벌이 가해집니다. 정거장의 중심 구역은 희귀 자원을 보관하기 위한 저장 시설로 각 클레이드의 정예 트로이카들에게만 접근 권한이 부여되었습니다.
-```
-
-
-RU
-
-```text
-После захвата космической станции Триглав, как правило, подвергает её значительным внутренним преобразованиям. Судя по всему, клады считают, что лучше использовать захваченную станцию в своих целях, чем уничтожать такой ценный ресурс. Безопасность внутри этой станции находится на высочайшем уровне, и владеющая ею клада не терпит никакого вмешательства в свои дела, а уж тем более нарушений со стороны как своих обитателей, так и чужаков. Ядро станции полностью изолировано, и доступ к нему имеют то
-(truncated, 626 chars total)
-```
-
-
-ZH
-
-```text
-三神裔占领空间站后通常会大幅改变它的内部结构和功能，很明显，三神裔旗下的演化枝更愿意把夺来的空间站化为己用，而非将其摧毁。  这座空间站的安保等级极高，占据这里的演化枝对居民或造访者的冒犯行为表现出不寻常的冷酷严苛。空间站的核心部位完全封闭，显然演化枝的高层将其作为一座存储设施，用来保管三神裔开采作业收集来的最具价值的资源。
 ```
 
 
@@ -187203,25 +172487,10 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
 […]
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
 ```
 
 
@@ -187231,20 +172500,6 @@ JA
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。 
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187269,25 +172524,10 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
 […]
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
 ```
 
 
@@ -187297,20 +172537,6 @@ JA
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187335,25 +172561,10 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
 […]
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
 ```
 
 
@@ -187363,20 +172574,6 @@ JA
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187401,13 +172598,6 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
@@ -187417,34 +172607,12 @@ ES
 ```
 
 
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
-```
-
-
 JA
 
 ```diff
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187469,25 +172637,10 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
 […]
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
 ```
 
 
@@ -187497,20 +172650,6 @@ JA
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187535,13 +172674,6 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
@@ -187551,34 +172683,12 @@ ES
 ```
 
 
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
-```
-
-
 JA
 
 ```diff
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187603,25 +172713,10 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
 […]
-```
-
-
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
 ```
 
 
@@ -187631,20 +172726,6 @@ JA
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187669,13 +172750,6 @@ EN
 ```
 
 
-DE
-
-```text
-Mykoserocin ist eine Kristallverbindung, geformt durch den intensiven Druck tief im Inneren von großen Asteroiden und Monden. Die Kristalle werden bei der Fertigung von Elektronik und Waffen sowie der Produktion legalisierter Synth-Booster-Varianten verwendet. Große Mengen Mykoserocin lassen sich nur in wenigen Gebieten finden, wie etwa interstellaren Gaswolken im Hochsicherheitsraum. Dieses Material ist komprimiert und sehr viel kompaktere Version des Ausgangsmaterials.
-```
-
-
 ES
 
 ```diff
@@ -187685,34 +172759,12 @@ ES
 ```
 
 
-FR
-
-```text
-La mykosérocine est un composé cristallin formé par l'extraordinaire pression exercée dans les profondeurs des lunes et des grands astéroïdes. Les cristaux sont généralement utilisés en électronique et dans la fabrication d'armes, ainsi que dans la création de boosters de synthèse légalisés. La mykosérocine ne se trouve en abondance que dans quelques zones, comme les nuages de gaz interstellaires dans l'espace de haute sécurité. Ce matériau est compressé et se présente donc sous une forme bien p
-(truncated, 538 chars total)
-```
-
-
 JA
 
 ```diff
   ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
   
   この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
-```
-
-
-KO
-
-```text
-강한 압력을 통해 생성되는 크리스탈 혼합물로 대형 소행성 및 위성에서 주로 채굴됩니다. 합법적 신스 부스터, 전자 장치 및 무기 생산에 사용됩니다. 하이 시큐리티 항성계 성간 가스 성운에서만 발견됩니다.<br><br>해당 자원은 압축되어 기존에 비해 밀도가 높습니다.
-```
-
-
-RU
-
-```text
-Микосероцин — это кристаллическое соединение, образующееся при сильном давлении глубоко под поверхностью крупных астероидов и спутников. Эти кристаллы обычно используют для изготовления электроники и оружия, а также для создания легальных синтетических стимуляторов. Микосероцин в изобилии встречается лишь в некоторых районах, например в газовых облаках систем с высоким уровнем безопасности. Это — сжатая и намного более компактная форма исходного материала.
 ```
 
 
@@ -187735,55 +172787,6 @@ EN
 ```
 
 
-DE
-
-```text
-Standup Flak Round Blueprint
-```
-
-
-ES
-
-```text
-Plano de munición antiaérea Standup
-```
-
-
-FR
-
-```text
-Plan de construction Munitions DCA Standup
-```
-
-
-JA
-
-```text
-スタンドアップ対宙弾薬設計図
-```
-
-
-KO
-
-```text
-스탠드업 대공 탄약 블루프린트
-```
-
-
-RU
-
-```text
-Standup Flak Round Blueprint
-```
-
-
-ZH
-
-```text
-屹立防空弹药蓝图
-```
-
-
 
 
 ### MessageID: 1016288 · Source Modified
@@ -187796,73 +172799,6 @@ EN
   <br>
 - I’ve tracked down her old work crew and got you on their work roster. I need you to go uncover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
 + I’ve tracked down her old work crew and got you on their work roster. I need you to go under cover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
-```
-
-
-DE
-
-```text
-Hallo, Captain. Ich könnte Ihre Hilfe gebrauchen. <br> <br> Eine enge Freundin von mir, die bei ORE arbeitete, Batya Sarnai, wird vermisst. Es wird angenommen, dass sie tot ist. Niemand sagt mir oder ihrer Familie sagen, was geschehen ist. Ich brauche Ihre Hilfe, um die Wahrheit aufzudecken. <br> <br> Ich habe ihre alte Arbeitscrew aufgespürt und dafür gesorgt, dass Sie in deren Dienstplan sind. Sie müssen sich als ORE-Miner tarnen, in ihren Großrechner hacken und alle Daten über Sarnai stehlen.
-```
-
-
-ES
-
-```text
-Hola, capitán. Me vendría bien tu ayuda.
-<br>
-<br>
-Una amiga cercana que trabajaba en ORE, Batya Sarnai, ha desaparecido y se la da por muerta. Nadie le dirá a su familia ni a mí qué ocurrió. Necesito tu ayuda para descubrir la verdad.
-<br>
-<br>
-He localizado a su antiguo equipo y te he metido en su plantilla. Hazte pasar por minero de ORE, hackea su unidad central y roba cualquier información sobre Sarnai.
-```
-
-
-FR
-
-```text
-Bonjour, Capitaine. J'aurais besoin de votre aide. <br> <br> Une de mes amies proches qui travaillait pour ORE, Batya Sarnai, est portée disparue, présumée morte. Personne ne veut me dire ce qui s'est passé, ni à moi, ni à sa famille. J'ai besoin de votre aide pour découvrir la vérité. <br> <br> J'ai retrouvé son ancienne équipe et vous ai fait engager. Je souhaite que vous vous infiltriez parmi les mineurs d'ORE, piratiez leur ordinateur central et dérobiez toutes les données concernant Sarnai.
-```
-
-
-JA
-
-```text
-やあ、艦長。助けてもらいたいことがある。
-<br>
-<br>
-OREで働いていた俺の親友、バトヤ・サルナイが行方不明になった。おそらくもうこの世にはいないだろう。俺も彼女の家族も、一体何が起きたのか分からないでいる。真実を突き止めるため、どうか力を貸してほしい。
-<br>
-<br>
-彼女が働いていた作業チームを突き止め、お前さんをそこの作業員として登録しておいた。OREの鉱員として潜入し、連中のメインフレームをハッキングしてサルナイに関するデータを盗み出してくれ。
-```
-
-
-KO
-
-```text
-안녕하신가, 함장. 도움이 필요해.
-<br>
-<br>
-바트야 사르나이라는 친구가 ORE에서 일하는데 연락이 끊어졌어. 아무래도 죽었겠지. 나나 가족에게도 무슨 일인지 연락이 오지 않았어. 사실을 알아낼 수 있게 도와주겠나.
-<br>
-<br>
-사르나이와 함께 일하던 인부들을 찾아내 함장의 정보를 등록했어. ORE 광부로 위장해 잠입하고 메인프레임을 해킹해 사르나이와 관련된 모든 정보를 빼내면 돼.
-```
-
-
-RU
-
-```text
-Здравствуйте, капитан. Мне нужна ваша помощь. <br> <br> Пропала Батайя Сарнаи — моя близкая подруга, работавшая в ОРЭ. Её посчитали погибшей. Никто не сообщил мне и её семье о том, что произошло. Помогите мне выяснить правду. <br> <br> Я нашёл бригаду, в которой она работала, и внёс вас в список рабочих. Представьтесь бурильщиком ОРЭ, взломайте суперкомпьютер и украдите все данные о Сарнаи.
-```
-
-
-ZH
-
-```text
-你好舰长，我需要你的帮助。 <br> <br> 我的好友巴特雅 萨尔奈曾在联合矿业工作，现已下落不明，据推测已经死亡。没有人愿意告诉我或她的家人到底发生了什么事。我需要你的帮助来揭开真相。 <br> <br> 我找到了她以前的工作团队，并把你安排进了他们的工作名单。我需要你伪装成 ORE 矿工，入侵他们的主机，窃取 Sarnai 上的所有数据。
 ```
 
 
@@ -187892,17 +172828,6 @@ DE
 ```
 
 
-ES
-
-```text
-<b>— Reclámalo, defiéndelo.</b>
-
-No hay presencia de CONCORD ni aplicación automática de la ley. 
-
-Las alianzas de capsulistas pueden reclamar la soberanía sobre gran parte de este espacio y construir su propia infraestructura. Depende de los capsulistas proteger su propio territorio. El combate sin restricciones y las guerras a gran escala forman parte del día a día.
-```
-
-
 FR
 
 ```diff
@@ -187912,41 +172837,12 @@ FR
 ```
 
 
-JA
-
-```text
-<b>-領有を主張し、防衛せよ。</b>
-
-CONCORDの駐留はなく、自動的な法執行も行われていません。 
-
-カプセラのアライアンスが、この宙域の大部分に対して主権を主張し、独自のインフラを構築する場合があります。自分の宙域の防衛は、カプセラ自身に委ねられています。制限のない戦闘と大規模な戦争は、日々の生活の一部となっています。
-```
-
-
-KO
-
-```text
-<b>- 차지하고 방어하세요.</b>
-
-이곳에서 CONCORD는 적극적인 법 집행 활동을 하지 않습니다. 
-
-캡슐리어 얼라이언스는 이 지역에서 소버린티를 확보해 영역을 지배해 우주를 개발할 수 있습니다. 영역을 수호하는 활동은 캡슐리어 여러분에게 달려 있습니다. 제한 없는 전투와 대규모 전쟁이 일상적인 곳입니다.
-```
-
-
 RU
 
 ```diff
 - <b>– Отбивай и властвуй.</b> Здесь нет
 - сил КОНКОРДа и автоматизированных средств безопасности. Почти всё это пространство может быть захвачено капсулёрскими альянсами и занято их инфраструктурой. За оборону суверенных территорий отвечают сами пилоты. В таких системах на постоянной основе происходят как отдельные сражения, так и полномасштабные войны.
 + <b>– Отбивай и властвуй.</b> Здесь нет сил КОНКОРДа и автоматизированных средств безопасности. Почти всё это пространство может быть захвачено капсулёрскими альянсами и занято их инфраструктурой. За оборону суверенных территорий отвечают сами пилоты. В таких системах на постоянной основе происходят как отдельные сражения, так и полномасштабные войны.
-```
-
-
-ZH
-
-```text
-<b>- 占领它，保卫它。</b>没有统合部驻军，也没有自动执法。克隆飞行员联盟可以宣称拥有这片太空大部分区域的主权，建造自己的基础设施。保护自己的太空区域是克隆飞行员的责任。无限制的战斗和大规模战争是日常生活的一部分。
 ```
 
 
@@ -187961,9 +172857,6 @@ Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048803 · Added
@@ -187973,9 +172866,6 @@ EN
 ```text
 Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -187989,9 +172879,6 @@ Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048805 · Added
@@ -188001,9 +172888,6 @@ EN
 ```text
 Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -188016,14 +172900,14 @@ DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 48 | 25 | 0 |
+| de | 0 | 23 | 0 |
 | en | 6 | 3 | 0 |
-| es | 48 | 27 | 0 |
-| fr | 48 | 27 | 0 |
-| ja | 48 | 27 | 0 |
-| ko | 48 | 26 | 0 |
-| ru | 48 | 26 | 0 |
-| zh | 48 | 27 | 0 |
+| es | 0 | 24 | 0 |
+| fr | 0 | 24 | 0 |
+| ja | 0 | 24 | 0 |
+| ko | 0 | 23 | 0 |
+| ru | 0 | 23 | 0 |
+| zh | 0 | 24 | 0 |
 
 ## Details
 
@@ -188079,100 +172963,6 @@ EN
 +     MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.<br>
 +     This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.<br>
 + </p>
-```
-
-
-DE
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
-(truncated, 2,172 chars total)
-```
-
-
-ES
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    Versión: {version}.{[numeric]build}<br><br>
-    <h4>EVE is a product of CCP hf.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
-    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
-    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>Credits</h2>
-<p>
-    Sp
-(truncated, 2,224 chars total)
-```
-
-
-FR
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
-(truncated, 2,154 chars total)
-```
-
-
-JA
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    バージョン：{version}.{[numeric]build}<br><br>
-    <h4>EVEはCCP hfの製品です。</h4>
-    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
-    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
-    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
-</center>
-<br><br>
-<h2>クレジット</h2>
-<p>
-    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
-    感謝いたします。
-(truncated, 1,847 chars total)
-```
-
-
-KO
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    버전: {version}.{[numeric]build}<br><br>
-    <h4>EVE는 CCP hf의 제품입니다.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
-    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
-    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>크레딧</h2>
-<p>
-    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
-     그 가족 여러분께 특히 감
-(truncated, 1,844 chars total)
-```
-
-
-RU
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
-(truncated, 2,107 chars total)
-```
-
-
-ZH
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]currentYear}。保留所有权利。<br> 如需了解更多信息，请访问我们的主页<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>。<br> 如需获取帮助，请联系<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>鸣谢</h2><p>十分感谢所有参与EVE制作的人员，尤其要感谢CCP的员工和家庭的支持。<p>{EVECredits} <br> <br> {VanguardCredits} <br> <br> {CCPCredits}<p><p><br> 本产品包含下列软件程序：<br> <br> 采用了部分
-(truncated, 1,411 chars total)
 ```
 
 
@@ -189069,98 +173859,6 @@ DE
 ```
 
 
-ES
-
-```text
-<h2>EVE Vanguard Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director:</b></td>
-        <td>Adam Board</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designer:</b></td>
-        <td>Anthony Massey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Technical Designer:</b></t
-(truncated, 12,260 chars total)
-```
-
-
-FR
-
-```text
-<h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=
-(truncated, 10,201 chars total)
-```
-
-
-JA
-
-```text
-<h2>EVE Vanguard開発チーム</h2>
-<br>
-<h3>ゲームデザイン</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
-        <td>Adam Board</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアゲームデザイナー</b></td>
-        <td>Anthony Massey</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアテクニカルデザイナー：</b></td>
-        <td>Bryan Malloroy</td> 
-    <
-(truncated, 11,727 chars total)
-```
-
-
-KO
-
-```text
-<h2>EVE Vanguard Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director :</b></td>
-        <td>Adam Board</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designer :</b></td>
-        <td>Anthony Massey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Technical Designer :</b>
-(truncated, 12,328 chars total)
-```
-
-
-RU
-
-```text
-<h2>Команда разработчиков EVE Vanguard</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший разработчик:</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший технический дизайнер:</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=
-(truncated, 10,640 chars total)
-```
-
-
-ZH
-
-```text
-<h2>EVE Vanguard开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Adam Board</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Anthony Massey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级技术设计师：</b></td><td>Bryan Malloroy</td></tr><tr VALIGN="top"><td width=325 align=right><b>首席关卡设计师：</b></td><td>Jesse Holcroft</td></tr><tr VALIGN="top"><td width=325
-(truncated, 8,814 chars total)
-```
-
-
 
 
 ### MessageID: 1009122 · Translation Modified
@@ -189541,20 +174239,6 @@ ZH
 
 
 
-### MessageID: 1047756 · Added
-
-EN
-
-```text
-VDB_Cloud_Infinite_02a_Fluffy
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
 ### MessageID: 1047786 · Translation Modified
 
 EN
@@ -189702,9 +174386,6 @@ EN
   <b>The temporary skills provided by this Expert System last for seven days.</b>
 […]
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -190799,444 +175480,6 @@ ZH
 
 
 
-### MessageID: 1048433 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048434 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048435 · Added
-
-EN
-
-```text
-Loki Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048436 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048437 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048438 · Added
-
-EN
-
-```text
-Bifrost Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048439 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048440 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048441 · Added
-
-EN
-
-```text
-Stiletto Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048442 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048443 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048444 · Added
-
-EN
-
-```text
-Prowler Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048445 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048446 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048447 · Added
-
-EN
-
-```text
-Claymore Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048448 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048449 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048450 · Added
-
-EN
-
-```text
-Tempest Fleet Issue Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048451 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048452 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048453 · Added
-
-EN
-
-```text
-Ymir Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048454 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048455 · Added
-
-EN
-
-```text
-It's ignorant to dismiss us criminals. We always honor our laws; we just don’t care about yours.
-
-- Caravanmaster Malaya Hrada
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048456 · Added
-
-EN
-
-```text
-Nomad Hrada-Oki Offender SKIN
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048457 · Added
-
-EN
-
-```text
-Advanced Carriers
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048458 · Added
-
-EN
-
-```text
-Command Carriers
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048459 · Added
-
-EN
-
-```text
-Command Carriers
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048460 · Added
-
-EN
-
-```text
-Minmatar
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048461 · Added
-
-EN
-
-```text
-Minmatar
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
 ### MessageID: 1048565 · Added
 
 EN
@@ -191244,9 +175487,6 @@ EN
 ```text
 Amarr Pilot
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -191267,9 +175507,6 @@ An Expert System is a remote, restricted artificial intelligence providing you w
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048571 · Added
@@ -191279,9 +175516,6 @@ EN
 ```text
 Foundation Day Celebration Crate
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -191295,9 +175529,6 @@ This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold M
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048577 · Added
@@ -191309,9 +175540,6 @@ Foundation Day Celebration Crate
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048578 · Added
@@ -191321,177 +175549,6 @@ EN
 ```text
 This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048592 · Added
-
-EN
-
-```text
-Rogue Edge Construction Site
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048593 · Added
-
-EN
-
-```text
-Under Construction Stargate
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048594 · Added
-
-EN
-
-```text
-A product of the Operation Rogue Edge campaign, the construction of this Stargate depends on the progress being made by capsuleers to support the Federation’s bold research initiative.
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048595 · Added
-
-EN
-
-```text
-Federation Construction Stargate Deployment Blocker
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048596 · Added
-
-EN
-
-```text
-Rogue Edge Survey Site
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048601 · Added
-
-EN
-
-```text
-State Corridor Construction Site
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048602 · Added
-
-EN
-
-```text
-Under Construction Stargate
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048603 · Added
-
-EN
-
-```text
-A product of the State Corridor Initiative campaign, the construction of this Stargate depends on the progress being made by capsuleers in securing Syndicate for the Caldari.
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048604 · Added
-
-EN
-
-```text
-State Construction Stargate Deployment Blocker
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048605 · Added
-
-EN
-
-```text
-State Corridor Construction Site
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048609 · Added
-
-EN
-
-```text
-The State prohibits Upwell Structure deployment within 100,000km of the State Corridor Construction Site.
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1048610 · Added
-
-EN
-
-```text
-The Federation prohibits Upwell Structure deployment within 100,000km of Rogue Edge sites.
-```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -192034,14 +176091,14 @@ VDB_Cloud_Infinite_02a_Fluffy
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 309 | 15 | 0 |
-| en | 309 | 10 | 0 |
-| es | 309 | 10 | 0 |
-| fr | 309 | 10 | 0 |
-| ja | 309 | 10 | 0 |
-| ko | 309 | 10 | 0 |
-| ru | 309 | 10 | 0 |
-| zh | 309 | 10 | 0 |
+| de | 258 | 13 | 0 |
+| en | 308 | 10 | 0 |
+| es | 258 | 8 | 0 |
+| fr | 258 | 8 | 0 |
+| ja | 258 | 8 | 0 |
+| ko | 258 | 8 | 0 |
+| ru | 258 | 8 | 0 |
+| zh | 258 | 8 | 0 |
 
 ## Details
 
@@ -192055,51 +176112,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieser Container wurde von der Planetenoberfläche aus in den nahen Orbit geschossen, um dort von Raumschiffen eingesammelt zu werden. Container dieser Art zerfallen nach wenigen Tagen, wenn sie nicht eingesammelt werden.
-```
-
-
-ES
-
-```text
-Este contenedor se ha lanzado desde la superficie del planeta a una órbita baja para que lo recojan las naves estelares. Estos contenedores se quemarán en unos pocos días si no se recogen.
-```
-
-
-FR
-
-```text
-Ces conteneurs ont été lancés en orbite basse depuis la surface de la planète, afin d'être récupérés par les vaisseaux spatiaux.  Ils exploseront dans quelques jours s'ils n'ont pas été récupérés d'ici là.
-```
-
-
-JA
-
-```text
-惑星の表面から低い軌道に発射されたコンテナ。艦船で回収する。回収されなければ、数日以内に焼失する。
-```
-
-
-KO
-
-```text
-함선들이 수거해 가도록 행성에서 저궤도로 사출한 컨테이너입니다. 수거되지 않는다면 며칠 내로 자동 폐기됩니다.
-```
-
-
-RU
-
-```text
-Этот контейнер был запущен с поверхности планеты на низкую орбиту для погрузки на борт космического корабля. Контейнеры этого типа могут существовать в условиях космоса всего несколько дней.
-```
-
-
-ZH: *empty*
-
-
 
 
 ### MessageID: 553391 · Source Modified
@@ -192109,55 +176121,6 @@ EN
 ```diff
 - HyperNet offer created.
 + HyperNet offer created
-```
-
-
-DE
-
-```text
-HyperNet-Angebot erstellt.
-```
-
-
-ES
-
-```text
-Oferta de HyperNet creada
-```
-
-
-FR
-
-```text
-Offre Hypernet créée.
-```
-
-
-JA
-
-```text
-ハイパーネットオファーが作成されました
-```
-
-
-KO
-
-```text
-하이퍼넷 오퍼 생성
-```
-
-
-RU
-
-```text
-Создано предложение гиперсети.
-```
-
-
-ZH
-
-```text
-超网订单已创建。
 ```
 
 
@@ -193404,9 +177367,6 @@ Operation Avalon POI Enemy Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046942 · Added
@@ -193966,9 +177926,6 @@ Amarr Gate State Large
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047139 · Added
@@ -193978,9 +177935,6 @@ EN
 ```text
 Caldari Gate State Large
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -193994,9 +177948,6 @@ Gallente Gate State Large
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047141 · Added
@@ -194006,9 +177957,6 @@ EN
 ```text
 Minmatar Gate State Large
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -194022,9 +177970,6 @@ Adaz - Gate to Steadfast
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047145 · Added
@@ -194034,9 +177979,6 @@ EN
 ```text
 Steadfast - Gate to Adaz
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -194726,9 +178668,6 @@ Kita-Aino - Gate to Celerity
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047274 · Added
@@ -194738,9 +178677,6 @@ EN
 ```text
 Celerity - Gate to Kita-Aino
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -194754,9 +178690,6 @@ Tiberis - Gate to Fortitude
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047284 · Added
@@ -194766,9 +178699,6 @@ EN
 ```text
 Fortitude - Gate to Tiberis
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -194782,9 +178712,6 @@ Vatna - Gate to Rigor
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047286 · Added
@@ -194794,9 +178721,6 @@ EN
 ```text
 Rigor - Gate to Vatna
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -196817,16 +180741,6 @@ ZH
 
 
 
-### MessageID: 1047337 · Added
-
-EN: *empty*
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
 ### MessageID: 1047338 · Added
 
 EN
@@ -197376,9 +181290,6 @@ Operation Avalon Combat Site Enemy Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047442 · Added
@@ -197450,9 +181361,6 @@ Air Small Structure 01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047449 · Added
@@ -197462,9 +181370,6 @@ EN
 ```text
 Air Small Structure 02a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -197478,9 +181383,6 @@ Air Medium Structure 01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047451 · Added
@@ -197490,9 +181392,6 @@ EN
 ```text
 Air Medium Structure 02a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -197506,9 +181405,6 @@ Air Medium Structure 03a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047453 · Added
@@ -197518,9 +181414,6 @@ EN
 ```text
 Air Connection 01a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -197534,9 +181427,6 @@ Air Connection 01b
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047455 · Added
@@ -197548,9 +181438,6 @@ Air Connection 02a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047456 · Added
@@ -197560,9 +181447,6 @@ EN
 ```text
 Air Connection 02b
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -198296,9 +182180,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047515 · Added
@@ -198428,9 +182309,6 @@ EN
 ```text
 <i>Destroy 15 Deputy Directors in AEGIS Joint Operation Center, POI: AEGIS Security Platform, or Nemesis Command Outpost sites.</i>
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -198744,9 +182622,6 @@ Operation Avalon Combat Site Boss Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047574 · Added
@@ -198756,9 +182631,6 @@ EN
 ```text
 Paragon Medium Structure 01a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -198772,9 +182644,6 @@ Paragon Small Structure 01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047576 · Added
@@ -198784,9 +182653,6 @@ EN
 ```text
 Paragon Station Harbor s01a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -198800,9 +182666,6 @@ Paragon Station Harbor m01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047578 · Added
@@ -198812,9 +182675,6 @@ EN
 ```text
 Paragon Center Hub
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -198828,9 +182688,6 @@ Paragon Small Structure 03a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047580 · Added
@@ -198840,9 +182697,6 @@ EN
 ```text
 Manifest - Paragon Fulfilment Center
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -199164,9 +183018,6 @@ Operation Avalon Hidden Combat POI Boss Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047644 · Added
@@ -199176,9 +183027,6 @@ EN
 ```text
 Concord Station - CS1
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -199192,9 +183040,6 @@ Concord Station - CS3
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047646 · Added
@@ -199206,9 +183051,6 @@ Concord Station - GS5
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047647 · Added
@@ -199218,9 +183060,6 @@ EN
 ```text
 Concord Station - GS6
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -199414,9 +183253,6 @@ Operation Avalon Big Boss Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047723 · Added
@@ -199486,9 +183322,6 @@ EN
 ```text
 Operation Avalon Combat Site Large Enemy Spawner (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -200064,9 +183897,6 @@ EN
 ```text
 SITREP Clash Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -205132,9 +188962,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048004 · Added
@@ -205264,9 +189091,6 @@ EN
 ```text
 <i>Receive 12 items from Avalon Flotilla Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Avalon Flotilla Trader locations:</b><br>Amarr: Amarr, Sifilar<br>Caldari: New Caldari, Kinakka, Poitot<br>Gallente: Dodixie, Ostingele<br>Minmatar: Rens, Hadozeko, SL-YBS</i>
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -205580,9 +189404,6 @@ A cypher used to encrypt or decrypt a strand of a Vanguard’s resonant consciou
 
 Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that have been either earned or recovered from their enemies.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -208064,9 +191885,6 @@ Corax Navy Issue Arkombine Arisen SKIN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048179 · Added
@@ -209243,9 +193061,6 @@ From this platform, AEGIS command is able to directly coordinate local security 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048335 · Added
@@ -209255,9 +193070,6 @@ EN
 ```text
 Operation Avalon
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -209275,9 +193087,6 @@ Avalon Flotilla Traders will gladly trade for any Vanguard Resonant Cyphers that
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048404 · Added
@@ -209287,9 +193096,6 @@ EN
 ```text
 Ranking Vanguard Resonant Cypher
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -209603,9 +193409,6 @@ Invalid or spoofed link
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ---
@@ -209616,14 +193419,14 @@ DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 12 | 14 | 0 |
+| de | 0 | 8 | 0 |
 | en | 12 | 6 | 0 |
-| es | 12 | 14 | 0 |
-| fr | 12 | 14 | 0 |
-| ja | 12 | 14 | 0 |
-| ko | 12 | 14 | 0 |
-| ru | 12 | 14 | 0 |
-| zh | 12 | 14 | 0 |
+| es | 0 | 8 | 0 |
+| fr | 0 | 8 | 0 |
+| ja | 0 | 8 | 0 |
+| ko | 0 | 8 | 0 |
+| ru | 0 | 8 | 0 |
+| zh | 0 | 8 | 0 |
 
 ## Details
 
@@ -209634,55 +193437,6 @@ EN
 ```diff
 + The crate contains an insured T1 fitted Destroyer from your starter Empire.
   This item cannot be traded or sold on the market.
-```
-
-
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易
 ```
 
 
@@ -209698,55 +193452,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易
-```
-
-
 
 
 ### MessageID: 1009128 · Source Modified
@@ -209756,55 +193461,6 @@ EN
 ```diff
 + The crate contains an insured T1 fitted Cruiser from your starting Empire.
   This item cannot be traded or sold on the market.
-```
-
-
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易
 ```
 
 
@@ -209820,55 +193476,6 @@ EN
 ```
 
 
-DE
-
-```text
-Diese versiegelte Sicherheitskiste enthält ein ruhiges Abgrundfilament eines zufälligen Wettertyps, das Sie in eine Raumverwerfung des Abgrunds transportieren kann.
-```
-
-
-ES
-
-```text
-Esta caja de contención sellada contiene un filamento abisal calmado de un tipo atmosférico aleatorio que puede transportarte a una burbuja del espacio muerto abisal.
-```
-
-
-FR
-
-```text
-Cette caisse de confinement scellée contient un filament abyssal paisible de type aléatoire, qui peut vous transporter dans une poche d'abîme Deadspace.
-```
-
-
-JA
-
-```text
-この密閉された箱には1個のカーム・アビサルフィラメントが入っている。フィラメントはランダムな天候を起こし、それを使ってアビサルデッドスペースポケットに行くことができる。
-```
-
-
-KO
-
-```text
-어비설 데드스페이스 포켓으로 이동시켜주는 고요한 어비설 필라멘트(무작위 기상 속성)가 담겨 있는 격납용기입니다.
-```
-
-
-RU
-
-```text
-Внутри этого герметичного контейнера находится нить бездны, ведущая в участок Мёртвой бездны со спокойной средой и случайными климатическими условиями..
-```
-
-
-ZH
-
-```text
-这个密封的箱子里面有一个随机类型的镇静深渊纤维，可以将你传送到一个深渊空间层中。
-```
-
-
 
 
 ### MessageID: 1045814 · Source Modified
@@ -209881,55 +193488,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Kiste enthält einen versicherten T1-Kreuzer mit Schiffsausrüstung aus Ihrem Startimperium.
-```
-
-
-ES
-
-```text
-La caja incluye cruceros T1 equipados y asegurados de tu imperio inicial.
-```
-
-
-FR
-
-```text
-La caisse contient un croiseur T1 pour votre empire de départ, déjà équipé et assuré.
-```
-
-
-JA
-
-```text
-この箱には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれてる。
-```
-
-
-KO
-
-```text
-소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 크루저를 제공합니다.
-```
-
-
-RU
-
-```text
-Этот контейнер содержит оснащённый и застрахованный крейсер 1-го техноуровня, выпущенный вашей изначальной державой.
-```
-
-
-ZH
-
-```text
-打开箱子后你可以获得一艘来自你起始帝国、已装配并投保的T1巡洋舰。
-```
-
-
 
 
 ### MessageID: 1045832 · Source Modified
@@ -209939,55 +193497,6 @@ EN
 ```diff
 + The crate contains a fitted Pioneer mining destroyer with insurance.
   This item cannot be traded or sold on the market.
-```
-
-
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易。
 ```
 
 
@@ -210578,9 +194087,6 @@ Minmatar Pilot
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048032 · Added
@@ -210599,9 +194105,6 @@ An Expert System is a remote, restricted artificial intelligence providing you w
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048203 · Added
@@ -210611,9 +194114,6 @@ EN
 ```text
 Liberation Day Celebration Crate
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -210627,9 +194127,6 @@ This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged F
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048212 · Added
@@ -210639,9 +194136,6 @@ EN
 ```text
 Liberation Day Celebration Crate
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -210655,9 +194149,6 @@ This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged F
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048291 · Added
@@ -210667,9 +194158,6 @@ EN
 ```text
 Liberated Matar Background
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -210683,9 +194171,6 @@ This can be consumed when updating your portrait if it is in an accessible inven
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048294 · Added
@@ -210695,9 +194180,6 @@ EN
 ```text
 Foundation Wisdom Background
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -210711,9 +194193,6 @@ This can be consumed when updating your portrait if it is in an accessible inven
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048296 · Added
@@ -210723,9 +194202,6 @@ EN
 ```text
 Union Contemplation Background
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -210739,9 +194215,6 @@ This can be consumed when updating your portrait if it is in an accessible inven
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ---
@@ -210752,14 +194225,14 @@ DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 6 | 12 | 1 |
+| de | 0 | 2 | 1 |
 | en | 6 | 12 | 1 |
-| es | 6 | 12 | 1 |
-| fr | 6 | 12 | 1 |
-| ja | 6 | 12 | 1 |
-| ko | 6 | 12 | 1 |
-| ru | 6 | 12 | 1 |
-| zh | 6 | 12 | 1 |
+| es | 0 | 2 | 1 |
+| fr | 0 | 2 | 1 |
+| ja | 0 | 2 | 1 |
+| ko | 0 | 2 | 1 |
+| ru | 0 | 2 | 1 |
+| zh | 0 | 2 | 1 |
 
 ## Details
 
@@ -210774,65 +194247,6 @@ EN
 + It was most famously flown by the legendary Admiral Yakiya Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
   
   The Chimera is capable of generating a <a href=showinfo:83094>Jump Conduit Portal</a> which allows it to instantaneously transport itself and nearby fleet members to a target cynosural beacon. Ship classes that can be moved via conduit: Frigates, Destroyers, Cruisers, Battlecruisers, and Battleships.
-```
-
-
-DE
-
-```text
-Das Design der Chimera basiert auf dem der Kairiola. Dieses Schiff hat eine enorme historische Bedeutung für die Caldari. Anfangs ein Wasserfrachter, wurde die Kairiola während des Krieges zwischen Gallente und Caldari zum Fighter-Träger umgebaut, um in den Kampf während des orbitalen Bombardements von Caldari Prime einzugreifen. Sie wurde vom legendären Admiral Yakia Tovil-Toba direkt in die Atmosphäre von Gallente Prime geflogen, wo sie auseinanderbrach und mehrere Schlüsselpositionen auf dem 
-(truncated, 1,136 chars total)
-```
-
-
-ES
-
-```text
-El diseño de la Chimera está basado en la Kairiola, una nave de gran relevancia histórica para los caldaris. La Kairiola, que en un principio servía como carguero de agua, se reutilizó como portanaves en el bombardeo orbital de Caldari Prime durante la guerra Gallente-Caldari. 
-
-Es más conocida por haber sido la nave del legendario almirante Yakia Tovil-Toba, que la hizo entrar directamente en la atmósfera de Gallente Prime, donde estalló e impactó contra varias ubicaciones clave del planeta. 
-(truncated, 1,107 chars total)
-```
-
-
-FR
-
-```text
-Le Chimera est basé sur le Kairiola, un vaisseau dont l'importance historique est considérable pour le peuple caldari. Initialement un vaisseau-citerne d'eau, le Kairiola a été transformé durant la guerre Gallente-Caldari pour faire office de porte-chasseurs lors du bombardement orbital de Caldari Prime. Il a été rendu célèbre par le légendaire amiral Yakia Tovil-Toba qui l'a fait s'écraser directement dans l'atmosphère de Gallente Prime, où il s'est fragmenté et a touché plusieurs sites clés de
-(truncated, 1,126 chars total)
-```
-
-
-JA
-
-```text
-キメラは、カルダリにとって歴史的意義の極めて高いカイリオラを基礎に設計されている。元々は超大型水輸送艦だったカイリオラは、ガレンテ-カルダリ戦争中にカルダリプライムが軌道爆撃を受けていた頃、艦載戦闘機母艦に改装された。 
-
-ヤキア・トヴィル‐トバ提督はカイリオラでガレンテプライムの大気圏内に突入し、惑星上の複数の主要地域を粉砕した。これにより提督は命を落としたが、ガレンテは1週間に渡って混乱状態に陥り、その間にカルダリは包囲された故郷の星から人民を退避させることに成功した。キメラある所、カルダリの心あり。
-
-キメラは<a href=showinfo:83094>コンジットジャンプポータル</a>を生み出し、自身と周囲のフリートメンバーを標的のサイノシュラルビーコンまで瞬時に移動させることができる。コンジットジャンプで移動可能な艦種は次の通り：フリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦
-```
-
-
-KO
-
-```text
-칼다리 연합에게 잊지 못할 역사적 의미를 담고 있는 카이리올라를 본떠 건조한 키메라입니다. 초기 개발에는 프레이터로 사용되었지만 갈란테-칼다리 전쟁에서 칼다리 프라임이 궤도 폭격에 노출되었을 때 큰 활약을 한 파이터 캐리어로 개조됐습니다.<BR><BR>희대의 영웅, 야키아 토빌-토바 제독이 갈란테 프라임 진영으로 단숨에 진격해 주요 지역을 폭격한 것으로 유명한 배틀쉽입니다. 야키아 제독은 끝내 전사하였지만 적의 시선을 충분히 끌고 방해하여 사방으로 포위된 칼다리인들이 빠져나갈 시간을 벌어주었습니다. 키메라가 울부짖을 때마다 칼다리 연합은 잊지 않고 기억할 것입니다.<br><br>키메라는 <a href=showinfo:83094>점프 포탈</a>을 생성하여 본함과 함께 함대원을 사이노슈럴 비컨으로 이동시킬 수 있습니다. 이동 가능한 함급: 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽
-```
-
-
-RU
-
-```text
-Инженеры, проектировавшие Chimera, взяли за основу Kairiola — корабль, сыгравший важную роль в калдарской истории. Во времена галлентско-калдарской войны конструкция водного фрейтера Kairiola претерпела значительные изменения. Именно эти суда использовали для транспортировки истребителей во время планетарной бомбардировки. Легендарный адмирал Якия Товил-Тоба влетел на Kairiola прямо в атмосферу Галленте Прайм, где корабль разлетелся на куски, а его обломки поразили несколько важных стратегически
-(truncated, 982 chars total)
-```
-
-
-ZH
-
-```text
-奇美拉级航空母舰的设计基于凯利欧拉号战舰，后者对于加达里而言具有非凡的历史意义。凯利欧拉号最初是一艘负责运送净水的货舰，由于盖伦特-加达里战争的爆发，被改造为一艘铁骑舰载机航母，在加达里首星遭受轨道轰炸期间投入实战。加达里传奇人物雅卡•托维托巴海军上将，驾驶这艘战舰直接冲入盖伦特首星大气层，利用飞船解体碎裂后的残片对行星上几处关键地点发动了致命性的打击。上将的牺牲成功扰乱了联邦的计划，为加达里人民赢得了足够的时间，使他们得以从被围困的星球上撤离。奇美拉级承载着加达里人民对上将的追思，看到它，就会想起那些为民族自由抛洒热血的不屈英魂。奇美拉级能够生成一个<a href=showinfo:83094>跳跃导管星门</a>，并立即将自身和附近的舰队成员传送到指定的诱导信标。可以通过导管移动的舰船级别包括：护卫舰、驱逐舰、巡洋舰、战列巡洋舰和战列舰。
 ```
 
 
@@ -210851,66 +194265,6 @@ EN
 ```
 
 
-DE
-
-```text
-Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen neuen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarkes Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern
-(truncated, 2,124 chars total)
-```
-
-
-ES
-
-```text
-Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
-(truncated, 1,955 chars total)
-```
-
-
-FR
-
-```text
-Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
-(truncated, 2,121 chars total)
-```
-
-
-JA
-
-```text
-極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動艦は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は最強クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
-競合相手の一つがプロトタイプ遮蔽装置を盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽装置を、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
-この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい。このモデルは泥
-(truncated, 840 chars total)
-```
-
-
-KO
-
-```text
-근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
-(truncated, 940 chars total)
-```
-
-
-RU
-
-```text
- Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
-(truncated, 1,696 chars total)
-```
-
-
-ZH
-
-```text
-我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
-我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
-基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
-(truncated, 552 chars total)
-```
-
-
 
 
 ### MessageID: 144431 · Source Modified
@@ -210923,66 +194277,6 @@ EN
   Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
   To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
   So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
-```
-
-
-DE
-
-```text
-Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarke Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern kann, 
-(truncated, 2,116 chars total)
-```
-
-
-ES
-
-```text
-Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
-(truncated, 1,955 chars total)
-```
-
-
-FR
-
-```text
-Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
-(truncated, 2,121 chars total)
-```
-
-
-JA
-
-```text
- 極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動用艦船は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は超強力クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
-競合相手の一つがプロトタイプ遮蔽デバイスを盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽デバイスを、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
-この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい
-(truncated, 849 chars total)
-```
-
-
-KO
-
-```text
-근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
-(truncated, 940 chars total)
-```
-
-
-RU
-
-```text
- Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
-(truncated, 1,696 chars total)
-```
-
-
-ZH
-
-```text
-我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
-我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
-基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
-(truncated, 552 chars total)
 ```
 
 
@@ -211003,101 +194297,6 @@ EN
 ```
 
 
-DE
-
-```text
-Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
-(truncated, 1,726 chars total)
-```
-
-
-ES
-
-```text
-Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
-
-
-
-Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
-(truncated, 1,717 chars total)
-```
-
-
-FR
-
-```text
-Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
-(truncated, 1,715 chars total)
-```
-
-
-JA
-
-```text
-攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
-
-
-
-これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
-
-さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
-
-
-
-注：
-
-‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
-
-‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
-
-‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
-
-- 攻
-(truncated, 625 chars total)
-```
-
-
-KO
-
-```text
-드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
-(truncated, 626 chars total)
-```
-
-
-RU
-
-```text
-Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость к воздейст
-(truncated, 1,460 chars total)
-```
-
-
-ZH
-
-```text
-一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
-
-
-
-这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
-
-另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
-
-
-
-注意： 
-
-- 会战装备需要锶包合物提供能量才能有效运行。 
-
-- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
-
-- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
-
-- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
-```
-
-
 
 
 ### MessageID: 264044 · Source Modified
@@ -211107,59 +194306,6 @@ EN
 ```diff
 - One of our R&D facilities has been working hard to pr[…]
 + One of our R&amp;D facilities has been working hard to pr[…]
-```
-
-
-DE
-
-```text
-Eine unserer Forschungsanlagen arbeitet an der Entwicklung eines neuen Tarngeräts für bei verdeckten Operationen eingesetzte Schiffe, die es diesen Schiffen ermöglichen würde, ungetarnt zu bleiben, während sie durch Sternentore springen. Allerdings haben wir vor Kurzem erfahren, dass ein Spionageagent eines Konkurrenzunternehmens es aus offensichtlichen Gründen auf diese neue Technologie abgesehen hat. Um ihn aufspüren und verhaften zu können, müssen wir ihn auf frischer Tat erwischen. Daher bit
-(truncated, 845 chars total)
-```
-
-
-ES
-
-```text
-Una de nuestras instalaciones de I+D ha estado trabajando para producir un nuevo tipo de dispositivo de camuflaje para las naves de operaciones encubiertas que permitirá que permanezcan camufladas mientras atraviesan portales estelares. Sin embargo, hace poco nos hemos dado cuenta de que un agente de espionaje industrial enviado por una empresa rival tiene esta nueva tecnología en el punto de mira, por razones obvias. Sin embargo, para acabar con él y arrestarlo, tenemos que pillarlo con las man
-(truncated, 786 chars total)
-```
-
-
-FR
-
-```text
-Une de nos installations de R&D a travaillé d'arrache-pied pour mettre au point un nouveau type de dispositif de camouflage pour les vaisseaux des opérations secrètes qui leur permettra de rester invisibles pendant qu'ils franchissent les portails stellaires. Toutefois, nous avons appris récemment qu'un agent d'espionnage corporatif, envoyé par une société rivale, s'intéresse de très près à cette nouvelle technologie, pour des raisons évidentes. Si nous voulons pouvoir le débusquer et l'arrêter,
-(truncated, 914 chars total)
-```
-
-
-JA
-
-```text
-我々の R&D 施設の一つが、隠密行動艦船用に新しいタイプの遮蔽装置を作ろうと熱心に取り組んでいる。このデバイスにより、船は遮蔽されたままスターゲート間をジャンプできるようになる。ところがだ、最近寄せられた情報によると、ライバル会社によって送り込まれたコーポレーションスパイエージェントが、この新しいテクノロジーを狙っているらしい。理由は明白だ。そのスパイを暴き出し逮捕するには、現行犯で捕まえる必要がある。そこで、君には、おとりのプロトタイプ遮蔽装置を、このステーションから指定のステーションまで輸送して欲しい。これだけ興味をそそるターゲットだ。スパイは盗んでみようという気持ちを抑えられないというのはどこかにあるだろう。このデバイスは秘密裡にそのステーションに輸送する必要がある。
-```
-
-
-KO
-
-```text
-우리 연구개발 시설 중 한 곳에서 코버트 옵스 함선을 위한 새로운 유형의 클로킹 장치를 개발하기 위해 최선을 다하고 있답니다. 이 장치를 쓰면 스타게이트 간 이동 중에도 함선 클로킹이 가능하거든요. 하지만 최근에 경쟁사가 이 신기술을 노리고 코퍼레이션 스파이를 보냈지 뭡니까. 목적이야 뭐 뻔하죠. 녀석을 잡아서 쫓아내야 하는데 반드시 현장에서 놈을 체포해야만 합니다. 그러니 당신이 미끼용 프로토타입 클로킹 장치를 이 정거장에서 우리가 부탁한 목적지까지 갖다 줬으면 해요. 그렇게 탐스러운 먹잇감을 눈앞에 두면 녀석은 그걸 어떻게 해서든 훔치려고 움직일 테죠. 절대 기밀이 누설되는 일이 없도록 그 정거장까지 이 장치를 갖다 주셔야 합니다.
-```
-
-
-RU
-
-```text
-В одном из наших научно-производственных комплексов ведутся разработки новой системы маскировки для спецкораблей, которая позволит им оставаться замаскированными во время прыжка через звездные врата. Но нам недавно стало известно, что конкурирующая корпорация заслала к нам шпиона с целью украсть новую технологию. Чтобы обнаружить его и арестовать, надо поймать его с поличным. Поэтому мы просим вас перевезти фальшивый прототип системы маскировки с этой станции на другую, которую мы вам укажем. Мы
-(truncated, 719 chars total)
-```
-
-
-ZH
-
-```text
-我们的一个研发中心研制出了一种新型的隐形装置，可以使特勤舰船在穿越星门时一直保持隐形状态。但是，最近我们注意到，我们某个竞争对手派出的一个商业间谍盯上了这项新技术，他的意图不言而喻。我们要当场抓住他作案才可以逮捕他。所以，作为诱饵，我们要你将一套隐形装置从这里送往指定地点。那间谍一定会抵挡不住如此大的引诱而试图拿走它的。我们需要你将装置送往那个空间站并保持高度机密。
 ```
 
 
@@ -211248,101 +194394,6 @@ EN
 ```
 
 
-DE
-
-```text
-Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
-(truncated, 1,719 chars total)
-```
-
-
-ES
-
-```text
-Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
-
-
-
-Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
-(truncated, 1,717 chars total)
-```
-
-
-FR
-
-```text
-Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
-(truncated, 1,713 chars total)
-```
-
-
-JA
-
-```text
-攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
-
-
-
-これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
-
-さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
-
-
-
-注：
-
-‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
-
-‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
-
-‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
-
-- 攻
-(truncated, 625 chars total)
-```
-
-
-KO
-
-```text
-드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
-(truncated, 626 chars total)
-```
-
-
-RU
-
-```text
-Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
-(truncated, 1,503 chars total)
-```
-
-
-ZH
-
-```text
-一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
-
-
-
-这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
-
-另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
-
-
-
-注意： 
-
-- 会战装备需要锶包合物提供能量才能有效运行。 
-
-- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
-
-- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
-
-- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
-```
-
-
 
 
 ### MessageID: 570550 · Source Modified
@@ -211428,101 +194479,6 @@ EN
 ```
 
 
-DE
-
-```text
-Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
-(truncated, 1,719 chars total)
-```
-
-
-ES
-
-```text
-Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
-
-
-
-Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
-(truncated, 1,717 chars total)
-```
-
-
-FR
-
-```text
-Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
-(truncated, 1,713 chars total)
-```
-
-
-JA
-
-```text
-攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
-
-
-
-これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
-
-さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
-
-
-
-注：
-
-‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
-
-‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
-
-‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
-
-- 攻
-(truncated, 625 chars total)
-```
-
-
-KO
-
-```text
-드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
-(truncated, 626 chars total)
-```
-
-
-RU
-
-```text
-Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
-(truncated, 1,503 chars total)
-```
-
-
-ZH
-
-```text
-一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
-
-
-
-这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
-
-另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
-
-
-
-注意： 
-
-- 会战装备需要锶包合物提供能量才能有效运行。 
-
-- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
-
-- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
-
-- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
-```
-
-
 
 
 ### MessageID: 1031290 · Source Modified
@@ -211532,55 +194488,6 @@ EN
 ```diff
 - Batch Compressed Crokite IV-Grade
 + Batch Compressed Crokite II-Grade
-```
-
-
-DE
-
-```text
-Batch Compressed Crokite IV-Grade
-```
-
-
-ES
-
-```text
-Crokitio comprimido en lote de grado IV
-```
-
-
-FR
-
-```text
-Crokite compressée en lot de catégorie IV
-```
-
-
-JA
-
-```text
-バッチ式圧縮クロカイト（グレードIV）
-```
-
-
-KO
-
-```text
-4급 압축된 크로카이트 (구형)
-```
-
-
-RU
-
-```text
-Batch Compressed Crokite IV-Grade
-```
-
-
-ZH
-
-```text
-聚合高密度克洛基石（4级）
 ```
 
 
@@ -211656,55 +194563,6 @@ EN
 ```
 
 
-DE
-
-```text
-Aktiv
-```
-
-
-ES
-
-```text
-Activas
-```
-
-
-FR
-
-```text
-Actif
-```
-
-
-JA
-
-```text
-進行中
-```
-
-
-KO
-
-```text
-활성화
-```
-
-
-RU
-
-```text
-Действует
-```
-
-
-ZH
-
-```text
-进行中
-```
-
-
 
 
 ### MessageID: 1047142 · Source Modified
@@ -211715,9 +194573,6 @@ EN
 - Pyroxeres  0-Grade
 + Pyroxeres 0-Grade
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -211731,9 +194586,6 @@ All known objectives, including available, completed, and upcoming objectives.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047597 · Added
@@ -211743,9 +194595,6 @@ EN
 ```text
 Objectives you are currently participating in.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -211759,9 +194608,6 @@ Objectives that have been completed by the community and are no longer available
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047599 · Added
@@ -211771,9 +194617,6 @@ EN
 ```text
 Objectives scheduled to become available in the near future.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -211787,9 +194630,6 @@ Objectives that are currently active and open for contribution.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048012 · Added
@@ -211799,9 +194639,6 @@ EN
 ```text
 Include Restricted Objectives
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -211814,14 +194651,14 @@ DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 20 | 99 | 1 |
+| de | 16 | 88 | 1 |
 | en | 20 | 43 | 1 |
-| es | 20 | 98 | 1 |
-| fr | 20 | 99 | 1 |
-| ja | 22 | 120 | 1 |
-| ko | 22 | 120 | 1 |
-| ru | 22 | 120 | 1 |
-| zh | 22 | 120 | 1 |
+| es | 16 | 87 | 1 |
+| fr | 16 | 88 | 1 |
+| ja | 16 | 88 | 1 |
+| ko | 16 | 88 | 1 |
+| ru | 16 | 88 | 1 |
+| zh | 16 | 88 | 1 |
 
 ## Details
 
@@ -211905,55 +194742,6 @@ EN
 ```
 
 
-DE
-
-```text
-Umkämpfter gesegneter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 santificado en disputa
-```
-
-
-FR
-
-```text
-Sanctified FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のサンクティファイドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 신성 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Sanctified Vidette
-```
-
-
-ZH
-
-```text
-争夺中的圣域野战研究设施ELT-10
-```
-
-
 
 
 ### MessageID: 1038391 · Source Modified
@@ -211963,55 +194751,6 @@ EN
 ```diff
 - Contested Sanctified FRF ELT-10
 + Contested Sanctified FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter gesegneter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 santificado en disputa
-```
-
-
-FR
-
-```text
-Sanctified FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のサンクティファイドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 신성 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Sanctified Vidette
-```
-
-
-ZH
-
-```text
-争夺中的圣域野战研究设施ELT-10
 ```
 
 
@@ -212087,9 +194826,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1039262 · Source Modified
@@ -212102,7 +194838,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Horst-Feldforschungseinrichtung der Caldari
++ 
+```
+
+
+ES
+
+```diff
+- Centro de investigación de campo Eyrie caldari
++ 
+```
+
+
+FR
+
+```diff
+- Unité de recherche sur le terrain de Caldari Eyrie
++ 
+```
+
+
+JA
+
+```diff
+- カルダリエイリーフィールド研究施設
++ 
+```
+
+
+KO
+
+```diff
+- 칼다리 아이리 야전 연구시설
++ 
+```
+
+
+RU
+
+```diff
+- Калдарская научная база в Conflux Eyrie
++ 
+```
+
+
+ZH
+
+```diff
+- 加达里鹰巢野战研究设施
++ 
+```
 
 
 
@@ -212114,55 +194903,6 @@ EN
 ```diff
 - Contested Eyrie FRF ELT-10
 + Contested Eyrie FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter Horst-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 Eyrie en disputa
-```
-
-
-FR
-
-```text
-Eyrie FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のエイリーFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 아이리 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Conflux Eyrie
-```
-
-
-ZH
-
-```text
-争夺中的鹰巢野战研究设施ELT-10
 ```
 
 
@@ -212178,55 +194918,6 @@ EN
 ```
 
 
-DE
-
-```text
-Umkämpfter Horst-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 Eyrie en disputa
-```
-
-
-FR
-
-```text
-Eyrie FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のエイリーFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 아이리 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Conflux Eyrie
-```
-
-
-ZH
-
-```text
-争夺中的鹰巢野战研究设施ELT-10
-```
-
-
 
 
 ### MessageID: 1039265 · Source Modified
@@ -212236,55 +194927,6 @@ EN
 ```diff
 - Contested Rogue FRF ELT-10
 + Contested Rogue FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter Raub-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 rebelde en disputa
-```
-
-
-FR
-
-```text
-Rogue FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のローグFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 로그 드론 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ изучения дронов ЭЛТ-10
-```
-
-
-ZH
-
-```text
-争夺中的游侠野战研究设施ELT-10
 ```
 
 
@@ -212299,7 +194941,60 @@ Gallente Rogue Drone Field Research Facility
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Raubdrohnen-Feldforschungseinrichtung der Gallente
++ 
+```
+
+
+ES
+
+```diff
+- Centro de investigación de campo de drones rebeldes gallente
++ 
+```
+
+
+FR
+
+```diff
+- Gallente - Unité de recherche de terrain sur les drones renégats
++ 
+```
+
+
+JA
+
+```diff
+- ガレンテローグドローンフィールド研究施設
++ 
+```
+
+
+KO
+
+```diff
+- 갈란테 로그 드론 야전 연구시설
++ 
+```
+
+
+RU
+
+```diff
+- Галлентская база изучения восставших дронов
++ 
+```
+
+
+ZH
+
+```diff
+- 盖伦特自由无人机野战研究设施
++ 
+```
 
 
 
@@ -212311,55 +195006,6 @@ EN
 ```diff
 - Contested Rogue FRF ELT-10
 + Contested Rogue FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter Raub-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 rebelde en disputa
-```
-
-
-FR
-
-```text
-Rogue FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のローグFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 로그 드론 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ изучения дронов ЭЛТ-10
-```
-
-
-ZH
-
-```text
-争夺中的游侠野战研究设施ELT-10
 ```
 
 
@@ -212375,7 +195021,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Befreite Feldforschungseinrichtung der Minmatar
++ 
+```
+
+
+ES
+
+```diff
+- Centro de investigación de campo liberado minmatariano
++ 
+```
+
+
+FR
+
+```diff
+- Unité de recherche sur le terrain minmatar de Liberated
++ 
+```
+
+
+JA
+
+```diff
+- ミンマターリベレイテッドフィールド研究施設
++ 
+```
+
+
+KO
+
+```diff
+- 민마타 해방돤 바르비칸 야전 연구시설
++ 
+```
+
+
+RU
+
+```diff
+- Минматарская научная база в Liberated Barbican
++ 
+```
+
+
+ZH
+
+```diff
+- 米玛塔尔解放野战研究设施
++ 
+```
 
 
 
@@ -212387,55 +195086,6 @@ EN
 ```diff
 - Contested Liberated FRF ELT-10
 + Contested Liberated FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter befreiter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 liberado en disputa
-```
-
-
-FR
-
-```text
-Liberated FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のリベレイテッドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 해방된 바르비칸 야전 연구시설-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Liberated Barbican
-```
-
-
-ZH
-
-```text
-争夺中的解放野战研究设施ELT-10
 ```
 
 
@@ -212451,927 +195101,6 @@ EN
 ```
 
 
-DE
-
-```text
-Umkämpfter befreiter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 liberado en disputa
-```
-
-
-FR
-
-```text
-Liberated FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のリベレイテッドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 해방된 바르비칸 야전 연구시설-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Liberated Barbican
-```
-
-
-ZH
-
-```text
-争夺中的解放野战研究设施ELT-10
-```
-
-
-
-
-### MessageID: 1040460 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения калдарцев или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁加达里或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040467 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Gallente bulwark systems t[…]
-+ Successfully hack containers in Gallente bulwark systems t[…]
-```
-
-
-JA
-
-```text
-研究チームのための情報収集として、ガレンテのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-갈란테 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 연구 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в галлентских системах оплота, чтобы собрать сведения для наших учёных.
-```
-
-
-ZH
-
-```text
-成功破译盖伦特壁垒星系中的遗迹和数据货柜，为我们的研究团队收集情报。
-```
-
-
-
-
-### MessageID: 1040482 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения калдарцев или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁加达里或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040498 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения калдарцев или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁加达里或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040547 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Caldari bulwark systems to[…]
-+ Successfully hack containers in Caldari bulwark systems to[…]
-```
-
-
-JA
-
-```text
-物流情報を収集するため、カルダリのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-칼다리 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 운송 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в калдарских системах оплота, чтобы добыть сведения о материально-техническом снабжении.
-```
-
-
-ZH
-
-```text
-成功破译加达里壁垒星系中的遗迹和数据货柜，以收集后勤情报。
-```
-
-
-
-
-### MessageID: 1040552 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040554 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリの義勇兵カプセラをリペアせよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、カルダリ連合の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 소속 캡슐리어 함선을 수리하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 칼다리 연합 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Почините корабли капсулёров из калдарского ополчения в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены калдарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，维修加达里国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入加达里帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040567 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040574 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040584 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Caldari bulwark systems to[…]
-+ Successfully hack containers in Caldari bulwark systems to[…]
-```
-
-
-JA
-
-```text
-物流情報を収集するため、カルダリのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-칼다리 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 운송 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в калдарских системах оплота, чтобы добыть сведения о материально-техническом снабжении.
-```
-
-
-ZH
-
-```text
-成功破译加达里壁垒星系中的遗迹和数据货柜，以收集后勤情报。
-```
-
-
-
-
-### MessageID: 1040586 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
-
-
-### MessageID: 1040638 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Amarr bulwark systems to s[…]
-+ Successfully hack containers in Amarr bulwark systems to s[…]
-```
-
-
-JA
-
-```text
-重要な情報を確保するため、アマーのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-아마르 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 핵심 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в амаррских системах оплота, чтобы собрать ключевые сведения.
-```
-
-
-ZH
-
-```text
-成功破译艾玛壁垒星系中的遗迹和数据货柜，以获取关键情报。
-```
-
-
-
-
-### MessageID: 1040639 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、ミンマターまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、アマー帝国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 민마타 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 아마르 제국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения минматаров или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены амаррского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁米玛塔尔或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入艾玛帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040648 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Amarr bulwark systems to s[…]
-+ Successfully hack containers in Amarr bulwark systems to s[…]
-```
-
-
-JA
-
-```text
-重要な情報を確保するため、アマーのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-아마르 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 핵심 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в амаррских системах оплота, чтобы собрать ключевые сведения.
-```
-
-
-ZH
-
-```text
-成功破译艾玛壁垒星系中的遗迹和数据货柜，以获取关键情报。
-```
-
-
-
-
-### MessageID: 1040658 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、ミンマターまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、アマー帝国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 민마타 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 아마르 제국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения минматаров или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены амаррского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁米玛塔尔或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入艾玛帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040669 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、ミンマターまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、アマー帝国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 민마타 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 아마르 제국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения минматаров или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены амаррского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁米玛塔尔或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入艾玛帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040724 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040727 · Source Modified
-
-EN
-
-```diff
-- Successfully hack relic and data containers in Minmatar bulwark systems t[…]
-+ Successfully hack containers in Minmatar bulwark systems t[…]
-```
-
-
-JA
-
-```text
-復興計画の重要な戦略情報を提供するため、ミンマターのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-민마타 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 회복 작전의 핵심 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в минматарских системах оплота, чтобы добыть важную информацию для возвращения утраченных территорий.
-```
-
-
-ZH
-
-```text
-成功破译米玛塔尔壁垒星系中的遗迹和数据货柜，为复兴事业提供关键战略情报。
-```
-
-
-
-
-### MessageID: 1040740 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040756 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
-
-
-### MessageID: 1040766 · Source Modified
-
-EN
-
-```diff
-- […]erpentis, or Blood Raider Covenant ships when destroyed.
-+ […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
 
 
 ### MessageID: 1042586 · Source Modified
@@ -213382,9 +195111,6 @@ EN
 - FW Complex - Contested FRF ELT-10 - Occupier Spawner (DO NOT TRANSLATE)
 + FW Complex - Contested FRF ELT-5 - Occupier Spawner (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -217156,9 +198882,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047440 · Added
@@ -217170,9 +198893,6 @@ This can be consumed when updating your portrait if it is in an accessible inven
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047441 · Added
@@ -217182,9 +198902,6 @@ EN
 ```text
 Operation Avalon Background
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -219199,34 +200916,6 @@ ZH
 
 
 
-### MessageID: 1047720 · Added
-
-EN
-
-```text
-Decoractions
-```
-
-
-JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1047721 · Added
-
-EN
-
-```text
-Titles
-```
-
-
-JA, KO, RU, and ZH: *empty*
-
-
-
-
 ### MessageID: 1047735 · Added
 
 EN
@@ -220228,9 +201917,6 @@ Additional base <b>Shield</b>, <b>Armor</b> and <b>Structure</b> hitpoints for <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047961 · Added
@@ -220240,9 +201926,6 @@ EN
 ```text
 FW ELT-5 Dungeon Tactical Destroyer Proximity Effect (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -220255,10 +201938,10 @@ DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 2 | 21 | 0 |
+| de | 0 | 6 | 0 |
 | en | 2 | 21 | 0 |
-| es | 2 | 21 | 0 |
-| fr | 2 | 21 | 0 |
+| es | 0 | 6 | 0 |
+| fr | 0 | 6 | 0 |
 
 ## Details
 
@@ -220269,27 +201952,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
 ```
 
 
@@ -220341,27 +202003,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
 
 
 ### MessageID: 1040498 · Source Modified
@@ -220371,27 +202012,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
 ```
 
 
@@ -220443,27 +202063,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
 
 
 ### MessageID: 1040554 · Source Modified
@@ -220473,29 +202072,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Reparieren Sie Milizkapselpiloten der Caldari in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung folgende Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Caldari eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, repara capsulistas de la milicia caldari. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Caldari para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, réparez des capsuliers de la milice caldari. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice caldari pour contribuer à cet objectif.</b>
 ```
 
 
@@ -220511,27 +202087,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
 
 
 ### MessageID: 1040574 · Source Modified
@@ -220541,27 +202096,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
 ```
 
 
@@ -220613,27 +202147,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
 
 
 ### MessageID: 1040638 · Source Modified
@@ -220679,29 +202192,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
 ```
 
 
@@ -220753,29 +202243,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
-```
-
-
 
 
 ### MessageID: 1040669 · Source Modified
@@ -220788,29 +202255,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
-```
-
-
 
 
 ### MessageID: 1040724 · Source Modified
@@ -220820,29 +202264,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
 ```
 
 
@@ -220894,29 +202315,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
-```
-
-
 
 
 ### MessageID: 1040756 · Source Modified
@@ -220926,29 +202324,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
 ```
 
 
@@ -220964,29 +202339,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
-```
-
-
 
 
 ### MessageID: 1047720 · Added
@@ -220996,9 +202348,6 @@ EN
 ```text
 Decoractions
 ```
-
-
-DE, ES, and FR: *empty*
 
 
 
@@ -221012,9 +202361,6 @@ Titles
 ```
 
 
-DE, ES, and FR: *empty*
-
-
 
 
 ---
@@ -221025,14 +202371,14 @@ DE, ES, and FR: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 11 | 3 | 97 |
+| de | 0 | 0 | 97 |
 | en | 11 | 3 | 97 |
-| es | 11 | 3 | 97 |
-| fr | 11 | 3 | 97 |
-| ja | 11 | 3 | 97 |
-| ko | 11 | 3 | 97 |
-| ru | 11 | 3 | 97 |
-| zh | 11 | 3 | 97 |
+| es | 0 | 0 | 97 |
+| fr | 0 | 0 | 97 |
+| ja | 0 | 0 | 97 |
+| ko | 0 | 0 | 97 |
+| ru | 0 | 0 | 97 |
+| zh | 0 | 0 | 97 |
 
 ## Details
 
@@ -221113,100 +202459,6 @@ EN
 + <hr>
 + <h3>This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.</h3>
 + <hr>
-```
-
-
-DE
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
-(truncated, 2,172 chars total)
-```
-
-
-ES
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    Versión: {version}.{[numeric]build}<br><br>
-    <h4>EVE is a product of CCP hf.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
-    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
-    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>Credits</h2>
-<p>
-    Sp
-(truncated, 2,224 chars total)
-```
-
-
-FR
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
-(truncated, 2,154 chars total)
-```
-
-
-JA
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    バージョン：{version}.{[numeric]build}<br><br>
-    <h4>EVEはCCP hfの製品です。</h4>
-    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
-    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
-    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
-</center>
-<br><br>
-<h2>クレジット</h2>
-<p>
-    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
-    感謝いたします。
-(truncated, 1,847 chars total)
-```
-
-
-KO
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    버전: {version}.{[numeric]build}<br><br>
-    <h4>EVE는 CCP hf의 제품입니다.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
-    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
-    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>크레딧</h2>
-<p>
-    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
-     그 가족 여러분께 특히 감
-(truncated, 1,844 chars total)
-```
-
-
-RU
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
-(truncated, 2,107 chars total)
-```
-
-
-ZH
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]currentYear}。保留所有权利。<br> 如需了解更多信息，请访问我们的主页<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>。<br> 如需获取帮助，请联系<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>鸣谢</h2><p>十分感谢所有参与EVE制作的人员，尤其要感谢CCP的员工和家庭的支持。<p>{EVECredits} <br> <br> {VanguardCredits} <br> <br> {CCPCredits}<p><p><br> 本产品包含下列软件程序：<br> <br> 采用了部分
-(truncated, 1,411 chars total)
 ```
 
 
@@ -221548,102 +202800,6 @@ EN
 +         <td>Damian Bal, Alan Brych, Piotr Czech, Kaja Galecka, Adam Jarza, Sebastian Jazwa, Kamil Jedrzejczyk, Piotr Kolaczyk, Natalia Kusal, Zuzanna Lis, Kamil Markiel, Slawomir Mazurek, Patryk Nawrocki, Michal Niton, Szymon Nogec, Pawel Pietrzak, Tomasz Skrzypaczek, Daniel Sroda, Wirginia Woznica</td>
       </tr>
   </table>
-```
-
-
-DE
-
-```text
-<h2>EVE Online Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Greg Hennessey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designers :</b></td> <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Systems Designer
-(truncated, 8,130 chars total)
-```
-
-
-ES
-
-```text
-<h2>EVE Online Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director:</b></td>
-        <td>Greg Hennessey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designers:</b></td>
-        <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td>
-    </tr>
-    <tr VAL
-(truncated, 9,706 chars total)
-```
-
-
-FR
-
-```text
-<h2>EVE Online Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Greg Hennessey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designers :</b></td> <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Systems Designer
-(truncated, 8,130 chars total)
-```
-
-
-JA
-
-```text
-<h2>EVE Online 開発チーム</h2>
-<br>
-<h3>ゲームデザイン</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
-        <td>Greg Hennessey</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアゲームデザイナー：</b></td>
-        <td>Andrew Warner、Daniel Ramotowski、Josh Bayer、Kevin Clarke、Kristján Blöndal、Michael Rezabek</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 al
-(truncated, 9,240 chars total)
-```
-
-
-KO
-
-```text
-<h2>EVE Online Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director :</b></td>
-        <td>Greg Hennessey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designers :</b></td>
-        <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td>
-    </tr>
-    <tr V
-(truncated, 9,760 chars total)
-```
-
-
-RU
-
-```text
-<h2>Команда разработчиков EVE Online</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Greg Hennessey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старшие разработчики:</b></td> <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший системн
-(truncated, 8,469 chars total)
-```
-
-
-ZH
-
-```text
-<h2>EVE Online开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Greg Hennessey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Andrew Warner、Daniel Ramotowski、Josh Bayer、Kevin Clarke、Kristján Blöndal、Michael Rezabek</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级系统设计师：</b></td><td>Gabriela Queiroz</td></tr><tr VALIGN="top"><td width=325 align=right>
-(truncated, 7,021 chars total)
 ```
 
 
@@ -222584,104 +203740,6 @@ EN
           <td>Chen Jueyu, Liu Lin, Zhou Yuchun</td>
       </tr>
   </table>
-```
-
-
-DE
-
-```text
-<h2>Platform, Publishing, Company and Support</h2> <br> <h3>Platform – CARBON Engine</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Development Director :</b></td> <td>Benjamin Hunter</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Director of Live Operations :</b></td> <td>Erlendur S Þorsteinsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Producer :</b></td> <td>Adrian Gurn
-(truncated, 21,980 chars total)
-```
-
-
-ES
-
-```text
-<h2>Platform, Publishing, Company and Support</h2>
-<br>
-<h3>Platform — CARBON Engine</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Development Director:</b></td>
-        <td>Benjamin Hunter</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Director of Live Operations:</b></td>
-        <td>Erlendur S Þorsteinsson</td>
-    </tr>
-    <tr VALIGN="top">
-        <t
-(truncated, 26,354 chars total)
-```
-
-
-FR
-
-```text
-<h2>Platform, Publishing, Company and Support</h2> <br> <h3>Platform – CARBON Engine</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Development Director :</b></td> <td>Benjamin Hunter</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Director of Live Operations :</b></td> <td>Erlendur S Þorsteinsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Producer :</b></td> <td>Adrian Gurn
-(truncated, 21,977 chars total)
-```
-
-
-JA
-
-```text
-<h2>プラットフォーム、パブリッシング、カンパニー、サポート</h2>
-<br>
-<h3>プラットフォーム – CARBON Engine</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアデベロップメントディレクター：</b></td>
-        <td>Benjamin Hunter</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ライブオペレーション・シニアディレクター：</b></td>
-        <td>Erlendur S Þorsteinsson</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>テクニカルプロデュ
-(truncated, 24,883 chars total)
-```
-
-
-KO
-
-```text
-<h2>Platform, Publishing, Company and Support</h2>
-<br>
-<h3>Platform – CARBON Engine</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Development Director :</b></td>
-        <td>Benjamin Hunter</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Director of Live Operations :</b></td>
-        <td>Erlendur S Þorsteinsson</td>
-    </tr>
-    <tr VALIGN="top">
-        
-(truncated, 26,505 chars total)
-```
-
-
-RU
-
-```text
-<h2>Платформа, выпуск, компания и поддержка</h2> <br> <h3>Платформа: CARBON Engine</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Benjamin Hunter</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Директор по реальным операциям:</b></td> <td>Erlendur S Þorsteinsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Технический продюсер:</b></td> <td>Adrian Gurney</td> </tr
-(truncated, 22,928 chars total)
-```
-
-
-ZH
-
-```text
-<h2>平台、发行、公司和支持</h2> <br> <h3>平台 - CARBON Engine</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>高级开发总监：</b></td><td>Benjamin Hunter</td></tr><tr VALIGN="top"><td width=325 align=right><b>现场运营高级总监：</b></td><td>Erlendur S Þorsteinsson</td></tr><tr VALIGN="top"><td width=325 align=right><b>技术监制：</b></td><td>Adrian Gurney</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级产品运营专员：</b></td><td>Haseeb Naveed</td></tr><tr VALIGN
-(truncated, 18,453 chars total)
 ```
 
 
@@ -228517,9 +209575,6 @@ Failed to load Achievements
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047127 · Added
@@ -228529,9 +209584,6 @@ EN
 ```text
 Please try again later
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -228545,9 +209597,6 @@ Refresh
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047383 · Added
@@ -228557,9 +209606,6 @@ EN
 ```text
 Shapash Alliance Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -228582,9 +209628,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047385 · Added
@@ -228594,9 +209637,6 @@ EN
 ```text
 Shapash Corporation Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -228619,9 +209659,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047389 · Added
@@ -228631,9 +209668,6 @@ EN
 ```text
 Cybele Alliance Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -228656,9 +209690,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047496 · Added
@@ -228668,9 +209699,6 @@ EN
 ```text
 Cybele Corporation Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -228692,8 +209720,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 (truncated, 622 chars total)
 ```
 
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 

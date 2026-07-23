@@ -3782,14 +3782,14 @@ VDB_Cloud_Vortex_05a_DarkStorm_01a_Rotateable
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 201 | 305 | 2 |
+| de | 114 | 273 | 2 |
 | en | 201 | 102 | 2 |
-| es | 201 | 304 | 2 |
-| fr | 201 | 305 | 2 |
-| ja | 201 | 305 | 2 |
-| ko | 201 | 305 | 2 |
-| ru | 201 | 305 | 2 |
-| zh | 201 | 305 | 2 |
+| es | 114 | 271 | 2 |
+| fr | 114 | 272 | 2 |
+| ja | 114 | 272 | 2 |
+| ko | 114 | 272 | 2 |
+| ru | 114 | 272 | 2 |
+| zh | 114 | 272 | 2 |
 
 ## Details
 
@@ -3845,100 +3845,6 @@ EN
 +     MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.<br>
 +     This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.<br>
 + </p>
-```
-
-
-DE
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
-(truncated, 2,172 chars total)
-```
-
-
-ES
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    Versión: {version}.{[numeric]build}<br><br>
-    <h4>EVE is a product of CCP hf.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
-    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
-    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>Credits</h2>
-<p>
-    Sp
-(truncated, 2,224 chars total)
-```
-
-
-FR
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
-(truncated, 2,154 chars total)
-```
-
-
-JA
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    バージョン：{version}.{[numeric]build}<br><br>
-    <h4>EVEはCCP hfの製品です。</h4>
-    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
-    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
-    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
-</center>
-<br><br>
-<h2>クレジット</h2>
-<p>
-    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
-    感謝いたします。
-(truncated, 1,847 chars total)
-```
-
-
-KO
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    버전: {version}.{[numeric]build}<br><br>
-    <h4>EVE는 CCP hf의 제품입니다.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
-    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
-    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>크레딧</h2>
-<p>
-    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
-     그 가족 여러분께 특히 감
-(truncated, 1,844 chars total)
-```
-
-
-RU
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
-(truncated, 2,107 chars total)
-```
-
-
-ZH
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]currentYear}。保留所有权利。<br> 如需了解更多信息，请访问我们的主页<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>。<br> 如需获取帮助，请联系<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>鸣谢</h2><p>十分感谢所有参与EVE制作的人员，尤其要感谢CCP的员工和家庭的支持。<p>{EVECredits} <br> <br> {VanguardCredits} <br> <br> {CCPCredits}<p><p><br> 本产品包含下列软件程序：<br> <br> 采用了部分
-(truncated, 1,411 chars total)
 ```
 
 
@@ -4024,51 +3930,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieser Container wurde von der Planetenoberfläche aus in den nahen Orbit geschossen, um dort von Raumschiffen eingesammelt zu werden. Container dieser Art zerfallen nach wenigen Tagen, wenn sie nicht eingesammelt werden.
-```
-
-
-ES
-
-```text
-Este contenedor se ha lanzado desde la superficie del planeta a una órbita baja para que lo recojan las naves estelares. Estos contenedores se quemarán en unos pocos días si no se recogen.
-```
-
-
-FR
-
-```text
-Ces conteneurs ont été lancés en orbite basse depuis la surface de la planète, afin d'être récupérés par les vaisseaux spatiaux.  Ils exploseront dans quelques jours s'ils n'ont pas été récupérés d'ici là.
-```
-
-
-JA
-
-```text
-惑星の表面から低い軌道に発射されたコンテナ。艦船で回収する。回収されなければ、数日以内に焼失する。
-```
-
-
-KO
-
-```text
-함선들이 수거해 가도록 행성에서 저궤도로 사출한 컨테이너입니다. 수거되지 않는다면 며칠 내로 자동 폐기됩니다.
-```
-
-
-RU
-
-```text
-Этот контейнер был запущен с поверхности планеты на низкую орбиту для погрузки на борт космического корабля. Контейнеры этого типа могут существовать в условиях космоса всего несколько дней.
-```
-
-
-ZH: *empty*
-
-
 
 
 ### MessageID: 93930 · Source Modified
@@ -4082,65 +3943,6 @@ EN
 + It was most famously flown by the legendary Admiral Yakiya Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.
   
   The Chimera is capable of generating a <a href=showinfo:83094>Jump Conduit Portal</a> which allows it to instantaneously transport itself and nearby fleet members to a target cynosural beacon. Ship classes that can be moved via conduit: Frigates, Destroyers, Cruisers, Battlecruisers, and Battleships.
-```
-
-
-DE
-
-```text
-Das Design der Chimera basiert auf dem der Kairiola. Dieses Schiff hat eine enorme historische Bedeutung für die Caldari. Anfangs ein Wasserfrachter, wurde die Kairiola während des Krieges zwischen Gallente und Caldari zum Fighter-Träger umgebaut, um in den Kampf während des orbitalen Bombardements von Caldari Prime einzugreifen. Sie wurde vom legendären Admiral Yakia Tovil-Toba direkt in die Atmosphäre von Gallente Prime geflogen, wo sie auseinanderbrach und mehrere Schlüsselpositionen auf dem 
-(truncated, 1,136 chars total)
-```
-
-
-ES
-
-```text
-El diseño de la Chimera está basado en la Kairiola, una nave de gran relevancia histórica para los caldaris. La Kairiola, que en un principio servía como carguero de agua, se reutilizó como portanaves en el bombardeo orbital de Caldari Prime durante la guerra Gallente-Caldari. 
-
-Es más conocida por haber sido la nave del legendario almirante Yakia Tovil-Toba, que la hizo entrar directamente en la atmósfera de Gallente Prime, donde estalló e impactó contra varias ubicaciones clave del planeta. 
-(truncated, 1,107 chars total)
-```
-
-
-FR
-
-```text
-Le Chimera est basé sur le Kairiola, un vaisseau dont l'importance historique est considérable pour le peuple caldari. Initialement un vaisseau-citerne d'eau, le Kairiola a été transformé durant la guerre Gallente-Caldari pour faire office de porte-chasseurs lors du bombardement orbital de Caldari Prime. Il a été rendu célèbre par le légendaire amiral Yakia Tovil-Toba qui l'a fait s'écraser directement dans l'atmosphère de Gallente Prime, où il s'est fragmenté et a touché plusieurs sites clés de
-(truncated, 1,126 chars total)
-```
-
-
-JA
-
-```text
-キメラは、カルダリにとって歴史的意義の極めて高いカイリオラを基礎に設計されている。元々は超大型水輸送艦だったカイリオラは、ガレンテ-カルダリ戦争中にカルダリプライムが軌道爆撃を受けていた頃、艦載戦闘機母艦に改装された。 
-
-ヤキア・トヴィル‐トバ提督はカイリオラでガレンテプライムの大気圏内に突入し、惑星上の複数の主要地域を粉砕した。これにより提督は命を落としたが、ガレンテは1週間に渡って混乱状態に陥り、その間にカルダリは包囲された故郷の星から人民を退避させることに成功した。キメラある所、カルダリの心あり。
-
-キメラは<a href=showinfo:83094>コンジットジャンプポータル</a>を生み出し、自身と周囲のフリートメンバーを標的のサイノシュラルビーコンまで瞬時に移動させることができる。コンジットジャンプで移動可能な艦種は次の通り：フリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦
-```
-
-
-KO
-
-```text
-칼다리 연합에게 잊지 못할 역사적 의미를 담고 있는 카이리올라를 본떠 건조한 키메라입니다. 초기 개발에는 프레이터로 사용되었지만 갈란테-칼다리 전쟁에서 칼다리 프라임이 궤도 폭격에 노출되었을 때 큰 활약을 한 파이터 캐리어로 개조됐습니다.<BR><BR>희대의 영웅, 야키아 토빌-토바 제독이 갈란테 프라임 진영으로 단숨에 진격해 주요 지역을 폭격한 것으로 유명한 배틀쉽입니다. 야키아 제독은 끝내 전사하였지만 적의 시선을 충분히 끌고 방해하여 사방으로 포위된 칼다리인들이 빠져나갈 시간을 벌어주었습니다. 키메라가 울부짖을 때마다 칼다리 연합은 잊지 않고 기억할 것입니다.<br><br>키메라는 <a href=showinfo:83094>점프 포탈</a>을 생성하여 본함과 함께 함대원을 사이노슈럴 비컨으로 이동시킬 수 있습니다. 이동 가능한 함급: 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽
-```
-
-
-RU
-
-```text
-Инженеры, проектировавшие Chimera, взяли за основу Kairiola — корабль, сыгравший важную роль в калдарской истории. Во времена галлентско-калдарской войны конструкция водного фрейтера Kairiola претерпела значительные изменения. Именно эти суда использовали для транспортировки истребителей во время планетарной бомбардировки. Легендарный адмирал Якия Товил-Тоба влетел на Kairiola прямо в атмосферу Галленте Прайм, где корабль разлетелся на куски, а его обломки поразили несколько важных стратегически
-(truncated, 982 chars total)
-```
-
-
-ZH
-
-```text
-奇美拉级航空母舰的设计基于凯利欧拉号战舰，后者对于加达里而言具有非凡的历史意义。凯利欧拉号最初是一艘负责运送净水的货舰，由于盖伦特-加达里战争的爆发，被改造为一艘铁骑舰载机航母，在加达里首星遭受轨道轰炸期间投入实战。加达里传奇人物雅卡•托维托巴海军上将，驾驶这艘战舰直接冲入盖伦特首星大气层，利用飞船解体碎裂后的残片对行星上几处关键地点发动了致命性的打击。上将的牺牲成功扰乱了联邦的计划，为加达里人民赢得了足够的时间，使他们得以从被围困的星球上撤离。奇美拉级承载着加达里人民对上将的追思，看到它，就会想起那些为民族自由抛洒热血的不屈英魂。奇美拉级能够生成一个<a href=showinfo:83094>跳跃导管星门</a>，并立即将自身和附近的舰队成员传送到指定的诱导信标。可以通过导管移动的舰船级别包括：护卫舰、驱逐舰、巡洋舰、战列巡洋舰和战列舰。
 ```
 
 
@@ -4159,66 +3961,6 @@ EN
 ```
 
 
-DE
-
-```text
-Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen neuen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarkes Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern
-(truncated, 2,124 chars total)
-```
-
-
-ES
-
-```text
-Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
-(truncated, 1,955 chars total)
-```
-
-
-FR
-
-```text
-Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
-(truncated, 2,121 chars total)
-```
-
-
-JA
-
-```text
-極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動艦は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は最強クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
-競合相手の一つがプロトタイプ遮蔽装置を盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽装置を、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
-この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい。このモデルは泥
-(truncated, 840 chars total)
-```
-
-
-KO
-
-```text
-근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
-(truncated, 940 chars total)
-```
-
-
-RU
-
-```text
- Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
-(truncated, 1,696 chars total)
-```
-
-
-ZH
-
-```text
-我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
-我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
-基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
-(truncated, 552 chars total)
-```
-
-
 
 
 ### MessageID: 144431 · Source Modified
@@ -4231,66 +3973,6 @@ EN
   Our internal security teams have managed to uncover a plan formulated by one of our competitors to steal the prototype cloaking system at some point between the time it leaves the lab up until it arrives at the field testing facility over in the next system. Problem is, we don't yet know who the spy is, so we devised a plan to get that spy to expose himself so that we can then move in and make the arrest.<br><br>
   To this end, you will be delivering is a very detailed mock-up series of the actual prototype, one that will withstand an initial visual and electronic scrutiny on the part of the thief. In all practical terms, however, these devices could no more cloak a ship than it could cook your morning breakfast. We are naming this event Operation Doorstop, which is our planning team's attempt at humor, given the uselessness of this particular lump of metal and wires. What we do need, though, is your absolute confidentiality on this shipment. If the spy gets any whiff that this is a set-up, we will likely never know who he or she is, and we will remain at ongoing risk of one of our most important R&amp;D projects potentially falling into the wrong hands. <br><br>
   So, what do you say, {[character]player.name}? Willing to take on this rather interesting assignment? 
-```
-
-
-DE
-
-```text
-Unsere Ingenieure arbeiten in unserer geheimen Hochsicherheitsanlage auf einem nahegelegenen Planeten und haben einen Typ von Tarngeräten entwickelt, das es einem Schiff für geheime Operationen nach dem Einbau theoretisch ermöglichen sollte, ohne sich zu enttarnen durch Sternentore zu springen! Und ja, ich kann Ihrem Gesichtsausdruck entnehmen, dass Sie der Ansicht sind, ich hätte heute bereits zu viele extrastarke Quafe getrunken. Doch ich kann Ihnen versichern, dass es zwar Jahre dauern kann, 
-(truncated, 2,116 chars total)
-```
-
-
-ES
-
-```text
-Nuestros científicos de ingeniería, que trabajan en nuestras instalaciones de I+D clandestinas de alta seguridad en un planeta cercano, han fabricado un nuevo tipo de dispositivo de camuflaje que, cuando se instala en las naves de operaciones encubiertas, podría permitirles, en teoría, saltar a través de los portales estelares sin descamuflarse. Por la cara que has puesto, debes de pensar que me he pasado con la dosis de refrescos Quafe extrafuertes. Sin embargo, puedo garantizarte que, aunque p
-(truncated, 1,955 chars total)
-```
-
-
-FR
-
-```text
-Les ingénieurs travaillant dans notre installation clandestine ultra-sécurisée de R&D sur une planète près d'ici ont mis au point un nouveau dispositif de camouflage qui, lorsqu'il équipera les vaisseaux des opérations secrètes, devrait leur permettre de sauter à travers les portails stellaires sans désactiver leur camouflage. Et oui, je peux voir d'après votre tête que vous pensez que j'ai abusé des sodas Quafe extra forts aujourd'hui. Mais je peux vous assurer que, même s'il faudra certainemen
-(truncated, 2,121 chars total)
-```
-
-
-JA
-
-```text
- 極秘の R&D 施設で働いている我々の技術科学者が新しいタイプの遮蔽装置を開発した。この施設は近くの惑星にあり、高いセキュリティが確保されている。このデバイスを装備した隠密行動用艦船は、理論上では遮蔽されたままスターゲート間をジャンプできるはずだ。ああ、君の顔から分かるよ。今日の私は超強力クァフェソーダを飲み過ぎだって言うんだろ。だが、断言できる。このテクノロジーが完成し実験的にでも使用できるようになるには何年もかかるだろう。しかし、その背後にある科学はまさに現実だ。これこそがこの話の肝なのだ。 <br><br>
-競合相手の一つがプロトタイプ遮蔽デバイスを盗み出そうとしている計画を、我々の国内治安管理局チームが発見した。奴らは、研究施設から運び出されたプロトタイプ遮蔽デバイスを、次のシステムの実地テスト施設に到着するまでの間に盗み出そうと目論んでいる。問題は誰がスパイであるかが分からないことだ。そこで、我々は現場に踏み込んで逮捕できるようそいつを暴き出す計画を考案した。<br><br>
-この目的を達成するために、実際のプロトタイプを模した非常に精巧な実物大モデルをいくつか運んで欲しい
-(truncated, 849 chars total)
-```
-
-
-KO
-
-```text
-근처 행성 내 높은 보안 수준을 유지하는 비밀 연구개발 시설에서 우리 엔지니어링 과학자들이 새로운 종류의 클로킹 장치를 개발했습니다. 코버트 옵스 함선에 장착하면 이론상으로는 클로킹을 해제하지 않고서도 스타게이트를 점프로 뛰어넘을 수 있도록 하는 장치지요. 그래요, 표정을 보아하니 오늘 제가 엑스트라 스트렝스 퀘이프 소다를 너무 많이 마신 건 아닌가 하고 생각하고 있나 보군요. 어쨌든 제가 장담할 수 있는 건, 실험용으로 적용하기에 충분해지기까지 오랜 세월이 필요할지는 모르겠지만, 그 기술 자체는 지어낸 사실이 아니라는 겁니다. 여기서 이야기가 아주 흥미롭게 전개됩니다.<br><br>내부 보안팀이 정보를 입수했는데, 우리가 그 프로토타입 클로킹 시스템을 실험실 밖으로 옮겨 옆 항성계에 있는 시험장으로 옮기는 도중 이걸 훔치려 계획을 짜고 있는 경쟁사가 있다는군요. 문제는 그 스파이가 누군지 아직 모른다는 겁니다. 그래서 놈이 스스로 정체를 드러내 체포할 수 있게끔 계획을 짰는데요.<
-(truncated, 940 chars total)
-```
-
-
-RU
-
-```text
- Наши инженеры из чрезвычайно секретного научно-исследовательского института, расположенного на близлежащей планете, разработали новый тип системы маскировки, который позволит спецкораблям прыгать через звездные врата без потери маскировки. Вижу по вашим глазам, что вы думаете. Считаете, я уже пропустил пару стаканов с утра? Тем не менее могу вас уверить, что, быть может, пройдет еще много лет, прежде чем эту систему доведут до совершенства и она перестанет быть просто экспериментальной, но что 
-(truncated, 1,696 chars total)
-```
-
-
-ZH
-
-```text
-我们位于邻近某行星的秘密研发中心的工程学家们研制出了一种新型隐形装置，用于装备特勤舰船，并且理论上可以使其在穿越星门的时候保持隐身状态。我明白，从你脸上看得出来你一定以为我喝多了。但是，我要告诉你，虽然这项技术离真正成熟或是用于实验阶段都还为时尚早，但它绝不是一个科幻产品，也正是因为这样，才有接下来的故事。 <br><br>
-我们的内部安保力量已经发现了我们一个竞争对手的阴谋，他们试图在我们将装置样本从研究所运往位于邻近星系的试验场途中拿走它。现在问题是，我们不知道那个间谍的身份，所以我们制定了一个计划来引其现身，这样我们就可以去逮捕他。<br><br>
-基于这个目的，你要运送的是一个制作逼真的隐形装置仿制品，那窃贼用肉眼或是用电子探测都是无法辨别真伪的。事实上，这个赝品根本不会使舰船隐形，就像它也不会为你做早餐一样。它就是一堆没用的烂金属片和电线，所以我们的行动小组幽默地称这次行动为“引蛇出洞”。你要做的，就是保证本次运输的绝对机密性。如果那个间谍有一丁点察觉这是个陷阱的话，那我们很可能永远也不知道他是谁了，我们这个最重要之一的科研项目也会继续处于落入敌手的危险之中。 <br><br
-(truncated, 552 chars total)
 ```
 
 
@@ -4311,101 +3993,6 @@ EN
 ```
 
 
-DE
-
-```text
-Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
-(truncated, 1,726 chars total)
-```
-
-
-ES
-
-```text
-Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
-
-
-
-Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
-(truncated, 1,717 chars total)
-```
-
-
-FR
-
-```text
-Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
-(truncated, 1,715 chars total)
-```
-
-
-JA
-
-```text
-攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
-
-
-
-これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
-
-さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
-
-
-
-注：
-
-‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
-
-‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
-
-‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
-
-- 攻
-(truncated, 625 chars total)
-```
-
-
-KO
-
-```text
-드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
-(truncated, 626 chars total)
-```
-
-
-RU
-
-```text
-Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость к воздейст
-(truncated, 1,460 chars total)
-```
-
-
-ZH
-
-```text
-一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
-
-
-
-这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
-
-另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
-
-
-
-注意： 
-
-- 会战装备需要锶包合物提供能量才能有效运行。 
-
-- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
-
-- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
-
-- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
-```
-
-
 
 
 ### MessageID: 264044 · Source Modified
@@ -4415,59 +4002,6 @@ EN
 ```diff
 - One of our R&D facilities has been working hard to pr[…]
 + One of our R&amp;D facilities has been working hard to pr[…]
-```
-
-
-DE
-
-```text
-Eine unserer Forschungsanlagen arbeitet an der Entwicklung eines neuen Tarngeräts für bei verdeckten Operationen eingesetzte Schiffe, die es diesen Schiffen ermöglichen würde, ungetarnt zu bleiben, während sie durch Sternentore springen. Allerdings haben wir vor Kurzem erfahren, dass ein Spionageagent eines Konkurrenzunternehmens es aus offensichtlichen Gründen auf diese neue Technologie abgesehen hat. Um ihn aufspüren und verhaften zu können, müssen wir ihn auf frischer Tat erwischen. Daher bit
-(truncated, 845 chars total)
-```
-
-
-ES
-
-```text
-Una de nuestras instalaciones de I+D ha estado trabajando para producir un nuevo tipo de dispositivo de camuflaje para las naves de operaciones encubiertas que permitirá que permanezcan camufladas mientras atraviesan portales estelares. Sin embargo, hace poco nos hemos dado cuenta de que un agente de espionaje industrial enviado por una empresa rival tiene esta nueva tecnología en el punto de mira, por razones obvias. Sin embargo, para acabar con él y arrestarlo, tenemos que pillarlo con las man
-(truncated, 786 chars total)
-```
-
-
-FR
-
-```text
-Une de nos installations de R&D a travaillé d'arrache-pied pour mettre au point un nouveau type de dispositif de camouflage pour les vaisseaux des opérations secrètes qui leur permettra de rester invisibles pendant qu'ils franchissent les portails stellaires. Toutefois, nous avons appris récemment qu'un agent d'espionnage corporatif, envoyé par une société rivale, s'intéresse de très près à cette nouvelle technologie, pour des raisons évidentes. Si nous voulons pouvoir le débusquer et l'arrêter,
-(truncated, 914 chars total)
-```
-
-
-JA
-
-```text
-我々の R&D 施設の一つが、隠密行動艦船用に新しいタイプの遮蔽装置を作ろうと熱心に取り組んでいる。このデバイスにより、船は遮蔽されたままスターゲート間をジャンプできるようになる。ところがだ、最近寄せられた情報によると、ライバル会社によって送り込まれたコーポレーションスパイエージェントが、この新しいテクノロジーを狙っているらしい。理由は明白だ。そのスパイを暴き出し逮捕するには、現行犯で捕まえる必要がある。そこで、君には、おとりのプロトタイプ遮蔽装置を、このステーションから指定のステーションまで輸送して欲しい。これだけ興味をそそるターゲットだ。スパイは盗んでみようという気持ちを抑えられないというのはどこかにあるだろう。このデバイスは秘密裡にそのステーションに輸送する必要がある。
-```
-
-
-KO
-
-```text
-우리 연구개발 시설 중 한 곳에서 코버트 옵스 함선을 위한 새로운 유형의 클로킹 장치를 개발하기 위해 최선을 다하고 있답니다. 이 장치를 쓰면 스타게이트 간 이동 중에도 함선 클로킹이 가능하거든요. 하지만 최근에 경쟁사가 이 신기술을 노리고 코퍼레이션 스파이를 보냈지 뭡니까. 목적이야 뭐 뻔하죠. 녀석을 잡아서 쫓아내야 하는데 반드시 현장에서 놈을 체포해야만 합니다. 그러니 당신이 미끼용 프로토타입 클로킹 장치를 이 정거장에서 우리가 부탁한 목적지까지 갖다 줬으면 해요. 그렇게 탐스러운 먹잇감을 눈앞에 두면 녀석은 그걸 어떻게 해서든 훔치려고 움직일 테죠. 절대 기밀이 누설되는 일이 없도록 그 정거장까지 이 장치를 갖다 주셔야 합니다.
-```
-
-
-RU
-
-```text
-В одном из наших научно-производственных комплексов ведутся разработки новой системы маскировки для спецкораблей, которая позволит им оставаться замаскированными во время прыжка через звездные врата. Но нам недавно стало известно, что конкурирующая корпорация заслала к нам шпиона с целью украсть новую технологию. Чтобы обнаружить его и арестовать, надо поймать его с поличным. Поэтому мы просим вас перевезти фальшивый прототип системы маскировки с этой станции на другую, которую мы вам укажем. Мы
-(truncated, 719 chars total)
-```
-
-
-ZH
-
-```text
-我们的一个研发中心研制出了一种新型的隐形装置，可以使特勤舰船在穿越星门时一直保持隐形状态。但是，最近我们注意到，我们某个竞争对手派出的一个商业间谍盯上了这项新技术，他的意图不言而喻。我们要当场抓住他作案才可以逮捕他。所以，作为诱饵，我们要你将一套隐形装置从这里送往指定地点。那间谍一定会抵挡不住如此大的引诱而试图拿走它的。我们需要你将装置送往那个空间站并保持高度机密。
 ```
 
 
@@ -4551,55 +4085,6 @@ EN
 ```
 
 
-DE
-
-```text
-HyperNet-Angebot erstellt.
-```
-
-
-ES
-
-```text
-Oferta de HyperNet creada
-```
-
-
-FR
-
-```text
-Offre Hypernet créée.
-```
-
-
-JA
-
-```text
-ハイパーネットオファーが作成されました
-```
-
-
-KO
-
-```text
-하이퍼넷 오퍼 생성
-```
-
-
-RU
-
-```text
-Создано предложение гиперсети.
-```
-
-
-ZH
-
-```text
-超网订单已创建。
-```
-
-
 
 
 ### MessageID: 569975 · Source Modified
@@ -4614,101 +4099,6 @@ EN
   In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
   
 […]
-```
-
-
-DE
-
-```text
-Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
-(truncated, 1,719 chars total)
-```
-
-
-ES
-
-```text
-Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
-
-
-
-Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
-(truncated, 1,717 chars total)
-```
-
-
-FR
-
-```text
-Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
-(truncated, 1,713 chars total)
-```
-
-
-JA
-
-```text
-攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
-
-
-
-これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
-
-さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
-
-
-
-注：
-
-‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
-
-‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
-
-‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
-
-- 攻
-(truncated, 625 chars total)
-```
-
-
-KO
-
-```text
-드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
-(truncated, 626 chars total)
-```
-
-
-RU
-
-```text
-Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
-(truncated, 1,503 chars total)
-```
-
-
-ZH
-
-```text
-一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
-
-
-
-这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
-
-另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
-
-
-
-注意： 
-
-- 会战装备需要锶包合物提供能量才能有效运行。 
-
-- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
-
-- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
-
-- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
 ```
 
 
@@ -5764,98 +5154,6 @@ DE
 ```
 
 
-ES
-
-```text
-<h2>EVE Vanguard Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director:</b></td>
-        <td>Adam Board</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designer:</b></td>
-        <td>Anthony Massey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Technical Designer:</b></t
-(truncated, 12,260 chars total)
-```
-
-
-FR
-
-```text
-<h2>EVE Vanguard Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designer :</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Technical Designer :</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=325 align=
-(truncated, 10,201 chars total)
-```
-
-
-JA
-
-```text
-<h2>EVE Vanguard開発チーム</h2>
-<br>
-<h3>ゲームデザイン</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
-        <td>Adam Board</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアゲームデザイナー</b></td>
-        <td>Anthony Massey</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアテクニカルデザイナー：</b></td>
-        <td>Bryan Malloroy</td> 
-    <
-(truncated, 11,727 chars total)
-```
-
-
-KO
-
-```text
-<h2>EVE Vanguard Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director :</b></td>
-        <td>Adam Board</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designer :</b></td>
-        <td>Anthony Massey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Technical Designer :</b>
-(truncated, 12,328 chars total)
-```
-
-
-RU
-
-```text
-<h2>Команда разработчиков EVE Vanguard</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Adam Board</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший разработчик:</b></td> <td>Anthony Massey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший технический дизайнер:</b></td> <td>Bryan Malloroy</td> </tr> <tr VALIGN="top"> <td width=
-(truncated, 10,640 chars total)
-```
-
-
-ZH
-
-```text
-<h2>EVE Vanguard开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Adam Board</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Anthony Massey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级技术设计师：</b></td><td>Bryan Malloroy</td></tr><tr VALIGN="top"><td width=325 align=right><b>首席关卡设计师：</b></td><td>Jesse Holcroft</td></tr><tr VALIGN="top"><td width=325
-(truncated, 8,814 chars total)
-```
-
-
 
 
 ### MessageID: 1009122 · Source Modified
@@ -5865,55 +5163,6 @@ EN
 ```diff
 + The crate contains an insured T1 fitted Destroyer from your starter Empire.
   This item cannot be traded or sold on the market.
-```
-
-
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易
 ```
 
 
@@ -5929,55 +5178,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易
-```
-
-
 
 
 ### MessageID: 1009128 · Source Modified
@@ -5987,55 +5187,6 @@ EN
 ```diff
 + The crate contains an insured T1 fitted Cruiser from your starting Empire.
   This item cannot be traded or sold on the market.
-```
-
-
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易
 ```
 
 
@@ -6053,101 +5204,6 @@ EN
   In addition, the lack of power to locomotion systems means that neither standard propulsion nor warp travel are available to the ship nor are you allowed to dock until out of siege mode.
   
 […]
-```
-
-
-DE
-
-```text
-Ein elektronisches Interface zur Anpassung und Steigerung der Belagerungsfähigkeiten von Dreadnoughts. Durch eine Reihe von Veränderungen des elektromagnetischen Polaritätsfeldes zweigt das Belagerungsmodul Energie aus den Antriebs- und Warp-Systemen des Schiffes ab. Die gewonnene zusätzliche Energie wird an die Angriffs- und Verteidigungssysteme weitergegeben. Dies führt zu einer gewaltigen Schadenssteigerung sowie weitaus höherer Selbstversorgung der Verteidigungssysteme. Die Verteidigungsvort
-(truncated, 1,719 chars total)
-```
-
-
-ES
-
-```text
-Una interfaz electrónica creada para aumentar y mejorar las capacidades de guerra de asedio de un superacorazado. Mediante una serie de cambios de campos de polaridad electromagnética, el módulo de asedio desvía energía de los sistemas de warp y propulsión de la nave para otorgar potencia adicional a sus capacidades ofensivas y defensivas.
-
-
-
-Esto da como resultado un tremendo aumento del daño, así como una autosuficiencia defensiva mucho mayor. Entre los beneficios defensivos se incluye una mej
-(truncated, 1,717 chars total)
-```
-
-
-FR
-
-```text
-Interface électronique conçue pour renforcer et améliorer les possibilités en matière de tactiques de siège d'un supercuirassé. Grâce à une série d'inversions de la polarité du champ électromagnétique, le module de siège redirige l'énergie affectée aux systèmes de propulsion et de warp du vaisseau vers ses capacités offensives et défensives. Le vaisseau est alors en mesure d'infliger de terribles dégâts et d'augmenter de façon exponentielle ses capacités autodéfensives. Les avantages de défense 
-(truncated, 1,713 chars total)
-```
-
-
-JA
-
-```text
-攻城艦級の包囲戦能力を高める電子インターフェイス。連続的にシフトする極性電磁フィールドを介して、艦船の推進力装備システムおよびワープシステムのエネルギーを攻撃システムと防衛システムに転送する。
-
-
-
-これにより、攻撃能力と防衛能力を飛躍的に向上させる。防衛面でのメリットとして、自己修復能力とシールドブースト効率が上昇し、また大概の電子戦に対する耐性が向上する。シージモジュールの生成するイオンフィールドの副作用として、モジュールの起動中は装着している艦船に対するリモートリペアおよびキャパシタ転送のプラス効果は無効化される。
-
-さらに、推進力装備システムとワープシステムのエネルギーを転用するため、通常の航行やワープ航行は不可能となる。また、入港する際は、いったんシージモードを解除しなければならない。
-
-
-
-注：
-
-‐ シージモジュールを起動し、効果的に作動させるためには、ストロンチウム化合物が必要。
-
-‐ シールドブースターの量と有効期間に対するボーナスは主力艦級ブースターにのみ適用される。
-
-‐ アーマーリペアラの量と有効期間に対するボーナスは主力艦級リペアラにのみ適用される。
-
-- 攻
-(truncated, 625 chars total)
-```
-
-
-KO
-
-```text
-드레드노트급의 공성 능력 향상을 위해 설계된 전자 인터페이스입니다. EM 극성 필드 변환을 통해 워프 시스템 및 추진 장치에서 발생하는 여분의 에너지를 공격력 또는 방어력으로 전환합니다. <br><br>해당 과정을 통해 함선의 공격력, 유지력, 그리고 방어력이 큰 폭으로 상승합니다. 방어적인 기능 향상으로는 실드 부스트 효과 증가, 개선된 자가수리 능력, 그리고 전자전 장비에 대한 전반적인 저항력 상승이 있습니다. 해당 모듈은 이온 필드를 전개하기 때문에 모듈 활성화 중 원격 수리와 캐피시터 전송을 받을 수 없습니다. <br><br>추가로 시즈 모드 활성화 중에는 추진 시스템을 가동할 전력이 부족하여 이동, 워프, 그리고 도킹이 불가능합니다. <br><br>참고:<br><br>- 시즈모듈을 가동하려면 스트론튬 클라트레이트가 필요합니다.<br><br>- 실드 부스터의 지속시간 및 회복량 증가 효과는 캐피탈급 부스터에만 적용됩니다.<br><br>- 장갑수리 장치의 지속시간 및 회복량 증
-(truncated, 626 chars total)
-```
-
-
-RU
-
-```text
-Электронный интерфейс, разработанный для повышения эффективности дредноута в осадной войне. Посредством поочерёдного смещения электромагнитных полей осадный модуль перенаправляет энергию из двигательных систем и варп-систем корабля, усиливая его защитные и атакующие свойства. В результате этого корабль не только наносит огромный урон, но и способен долгое время поддерживать собственную защиту. Эффективность ремонтных систем и усилителя щитов повышается — так же, как и сопротивляемость воздействи
-(truncated, 1,503 chars total)
-```
-
-
-ZH
-
-```text
-一种为扩大增强无畏舰会战攻击能力而设计的电子接口。通过一系列的电磁场磁极转换，会战模块能调拨飞船推进系统和跃迁系统的能量来增强进攻和防御能力。
-
-
-
-这不仅使飞船的伤害输出极大增强，也使飞船承受打击的能力提高不少。好处是防御上提升自身的维修和护盾回充效果，提升大部分种类的  电子战抗性。但对离子力场也产生了副作用，远程维修和电容传输效果对激活该装备的舰船没有效果。
-
-另外，由于开启后造成的动力系统能量缺失，无论标准推进、停靠或跃迁都不能进行，除非飞船退出会战模式。
-
-
-
-注意： 
-
-- 会战装备需要锶包合物提供能量才能有效运行。 
-
-- 护盾回充增量和持续时间的加成只对旗舰级护盾回充增量器生效。
-
-- 装甲维修量和持续时间的加成只对旗舰级装甲维修器生效。
-
-- 每艘无畏舰只能安装一个会战装备。与其它具有相似类型属性的装备一同使用会使从会战装备获得的护盾回充和装甲维修增量受到惩罚。
 ```
 
 
@@ -6511,55 +5567,6 @@ EN
 ```
 
 
-DE
-
-```text
-Batch Compressed Crokite IV-Grade
-```
-
-
-ES
-
-```text
-Crokitio comprimido en lote de grado IV
-```
-
-
-FR
-
-```text
-Crokite compressée en lot de catégorie IV
-```
-
-
-JA
-
-```text
-バッチ式圧縮クロカイト（グレードIV）
-```
-
-
-KO
-
-```text
-4급 압축된 크로카이트 (구형)
-```
-
-
-RU
-
-```text
-Batch Compressed Crokite IV-Grade
-```
-
-
-ZH
-
-```text
-聚合高密度克洛基石（4级）
-```
-
-
 
 
 ### MessageID: 1038389 · Source Modified
@@ -6572,55 +5579,6 @@ EN
 ```
 
 
-DE
-
-```text
-Umkämpfter gesegneter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 santificado en disputa
-```
-
-
-FR
-
-```text
-Sanctified FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のサンクティファイドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 신성 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Sanctified Vidette
-```
-
-
-ZH
-
-```text
-争夺中的圣域野战研究设施ELT-10
-```
-
-
 
 
 ### MessageID: 1038391 · Source Modified
@@ -6630,55 +5588,6 @@ EN
 ```diff
 - Contested Sanctified FRF ELT-10
 + Contested Sanctified FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter gesegneter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 santificado en disputa
-```
-
-
-FR
-
-```text
-Sanctified FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のサンクティファイドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 신성 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Sanctified Vidette
-```
-
-
-ZH
-
-```text
-争夺中的圣域野战研究设施ELT-10
 ```
 
 
@@ -6754,9 +5663,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1039262 · Source Modified
@@ -6769,7 +5675,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Horst-Feldforschungseinrichtung der Caldari
++ 
+```
+
+
+ES
+
+```diff
+- Centro de investigación de campo Eyrie caldari
++ 
+```
+
+
+FR
+
+```diff
+- Unité de recherche sur le terrain de Caldari Eyrie
++ 
+```
+
+
+JA
+
+```diff
+- カルダリエイリーフィールド研究施設
++ 
+```
+
+
+KO
+
+```diff
+- 칼다리 아이리 야전 연구시설
++ 
+```
+
+
+RU
+
+```diff
+- Калдарская научная база в Conflux Eyrie
++ 
+```
+
+
+ZH
+
+```diff
+- 加达里鹰巢野战研究设施
++ 
+```
 
 
 
@@ -6781,55 +5740,6 @@ EN
 ```diff
 - Contested Eyrie FRF ELT-10
 + Contested Eyrie FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter Horst-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 Eyrie en disputa
-```
-
-
-FR
-
-```text
-Eyrie FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のエイリーFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 아이리 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Conflux Eyrie
-```
-
-
-ZH
-
-```text
-争夺中的鹰巢野战研究设施ELT-10
 ```
 
 
@@ -6845,55 +5755,6 @@ EN
 ```
 
 
-DE
-
-```text
-Umkämpfter Horst-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 Eyrie en disputa
-```
-
-
-FR
-
-```text
-Eyrie FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のエイリーFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 아이리 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Conflux Eyrie
-```
-
-
-ZH
-
-```text
-争夺中的鹰巢野战研究设施ELT-10
-```
-
-
 
 
 ### MessageID: 1039265 · Source Modified
@@ -6903,55 +5764,6 @@ EN
 ```diff
 - Contested Rogue FRF ELT-10
 + Contested Rogue FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter Raub-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 rebelde en disputa
-```
-
-
-FR
-
-```text
-Rogue FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のローグFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 로그 드론 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ изучения дронов ЭЛТ-10
-```
-
-
-ZH
-
-```text
-争夺中的游侠野战研究设施ELT-10
 ```
 
 
@@ -6966,7 +5778,60 @@ Gallente Rogue Drone Field Research Facility
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Raubdrohnen-Feldforschungseinrichtung der Gallente
++ 
+```
+
+
+ES
+
+```diff
+- Centro de investigación de campo de drones rebeldes gallente
++ 
+```
+
+
+FR
+
+```diff
+- Gallente - Unité de recherche de terrain sur les drones renégats
++ 
+```
+
+
+JA
+
+```diff
+- ガレンテローグドローンフィールド研究施設
++ 
+```
+
+
+KO
+
+```diff
+- 갈란테 로그 드론 야전 연구시설
++ 
+```
+
+
+RU
+
+```diff
+- Галлентская база изучения восставших дронов
++ 
+```
+
+
+ZH
+
+```diff
+- 盖伦特自由无人机野战研究设施
++ 
+```
 
 
 
@@ -6978,55 +5843,6 @@ EN
 ```diff
 - Contested Rogue FRF ELT-10
 + Contested Rogue FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter Raub-FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 rebelde en disputa
-```
-
-
-FR
-
-```text
-Rogue FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のローグFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 로그 드론 야전 연구시설 엘리트-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ изучения дронов ЭЛТ-10
-```
-
-
-ZH
-
-```text
-争夺中的游侠野战研究设施ELT-10
 ```
 
 
@@ -7042,7 +5858,60 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
+DE
+
+```diff
+- Befreite Feldforschungseinrichtung der Minmatar
++ 
+```
+
+
+ES
+
+```diff
+- Centro de investigación de campo liberado minmatariano
++ 
+```
+
+
+FR
+
+```diff
+- Unité de recherche sur le terrain minmatar de Liberated
++ 
+```
+
+
+JA
+
+```diff
+- ミンマターリベレイテッドフィールド研究施設
++ 
+```
+
+
+KO
+
+```diff
+- 민마타 해방돤 바르비칸 야전 연구시설
++ 
+```
+
+
+RU
+
+```diff
+- Минматарская научная база в Liberated Barbican
++ 
+```
+
+
+ZH
+
+```diff
+- 米玛塔尔解放野战研究设施
++ 
+```
 
 
 
@@ -7057,55 +5926,6 @@ EN
 ```
 
 
-DE
-
-```text
-Umkämpfter befreiter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 liberado en disputa
-```
-
-
-FR
-
-```text
-Liberated FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のリベレイテッドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 해방된 바르비칸 야전 연구시설-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Liberated Barbican
-```
-
-
-ZH
-
-```text
-争夺中的解放野战研究设施ELT-10
-```
-
-
 
 
 ### MessageID: 1039270 · Source Modified
@@ -7115,55 +5935,6 @@ EN
 ```diff
 - Contested Liberated FRF ELT-10
 + Contested Liberated FRF ELT-5
-```
-
-
-DE
-
-```text
-Umkämpfter befreiter FRF ELT-10
-```
-
-
-ES
-
-```text
-CIC ELT-10 liberado en disputa
-```
-
-
-FR
-
-```text
-Liberated FRF ELT-10 contesté
-```
-
-
-JA
-
-```text
-紛争中のリベレイテッドFRF ELT-10
-```
-
-
-KO
-
-```text
-분쟁 해방된 바르비칸 야전 연구시설-10
-```
-
-
-RU
-
-```text
-Оспариваемая ПНБ ЭЛТ-10 Liberated Barbican
-```
-
-
-ZH
-
-```text
-争夺中的解放野战研究设施ELT-10
 ```
 
 
@@ -7239,9 +6010,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1042814 · Source Modified
@@ -7251,55 +6019,6 @@ EN
 ```diff
 - Active
 + My objectives
-```
-
-
-DE
-
-```text
-Aktiv
-```
-
-
-ES
-
-```text
-Activas
-```
-
-
-FR
-
-```text
-Actif
-```
-
-
-JA
-
-```text
-進行中
-```
-
-
-KO
-
-```text
-활성화
-```
-
-
-RU
-
-```text
-Действует
-```
-
-
-ZH
-
-```text
-进行中
 ```
 
 
@@ -7315,55 +6034,6 @@ EN
 ```
 
 
-DE
-
-```text
-Diese versiegelte Sicherheitskiste enthält ein ruhiges Abgrundfilament eines zufälligen Wettertyps, das Sie in eine Raumverwerfung des Abgrunds transportieren kann.
-```
-
-
-ES
-
-```text
-Esta caja de contención sellada contiene un filamento abisal calmado de un tipo atmosférico aleatorio que puede transportarte a una burbuja del espacio muerto abisal.
-```
-
-
-FR
-
-```text
-Cette caisse de confinement scellée contient un filament abyssal paisible de type aléatoire, qui peut vous transporter dans une poche d'abîme Deadspace.
-```
-
-
-JA
-
-```text
-この密閉された箱には1個のカーム・アビサルフィラメントが入っている。フィラメントはランダムな天候を起こし、それを使ってアビサルデッドスペースポケットに行くことができる。
-```
-
-
-KO
-
-```text
-어비설 데드스페이스 포켓으로 이동시켜주는 고요한 어비설 필라멘트(무작위 기상 속성)가 담겨 있는 격납용기입니다.
-```
-
-
-RU
-
-```text
-Внутри этого герметичного контейнера находится нить бездны, ведущая в участок Мёртвой бездны со спокойной средой и случайными климатическими условиями..
-```
-
-
-ZH
-
-```text
-这个密封的箱子里面有一个随机类型的镇静深渊纤维，可以将你传送到一个深渊空间层中。
-```
-
-
 
 
 ### MessageID: 1045814 · Source Modified
@@ -7376,55 +6046,6 @@ EN
 ```
 
 
-DE
-
-```text
-Die Kiste enthält einen versicherten T1-Kreuzer mit Schiffsausrüstung aus Ihrem Startimperium.
-```
-
-
-ES
-
-```text
-La caja incluye cruceros T1 equipados y asegurados de tu imperio inicial.
-```
-
-
-FR
-
-```text
-La caisse contient un croiseur T1 pour votre empire de départ, déjà équipé et assuré.
-```
-
-
-JA
-
-```text
-この箱には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれてる。
-```
-
-
-KO
-
-```text
-소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 크루저를 제공합니다.
-```
-
-
-RU
-
-```text
-Этот контейнер содержит оснащённый и застрахованный крейсер 1-го техноуровня, выпущенный вашей изначальной державой.
-```
-
-
-ZH
-
-```text
-打开箱子后你可以获得一艘来自你起始帝国、已装配并投保的T1巡洋舰。
-```
-
-
 
 
 ### MessageID: 1045832 · Source Modified
@@ -7434,55 +6055,6 @@ EN
 ```diff
 + The crate contains a fitted Pioneer mining destroyer with insurance.
   This item cannot be traded or sold on the market.
-```
-
-
-DE
-
-```text
-Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
-```
-
-
-ES
-
-```text
-Este objeto no se puede comerciar ni vender en el mercado.
-```
-
-
-FR
-
-```text
-Cet objet ne peut pas être échangé ni vendu sur le marché.
-```
-
-
-JA
-
-```text
-このアイテムはマーケットでのトレードや売却を行えない。
-```
-
-
-KO
-
-```text
-거래소에서 거래할 수 없는 아이템입니다.
-```
-
-
-RU
-
-```text
-Этот товар не подлежит обмену или продаже в торговой системе.
-```
-
-
-ZH
-
-```text
-此物品无法在市场中交易。
 ```
 
 
@@ -8976,9 +7548,6 @@ Amarr Gate State Large
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047139 · Added
@@ -8988,9 +7557,6 @@ EN
 ```text
 Caldari Gate State Large
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -9004,9 +7570,6 @@ Gallente Gate State Large
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047141 · Added
@@ -9016,9 +7579,6 @@ EN
 ```text
 Minmatar Gate State Large
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -9033,9 +7593,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047144 · Added
@@ -9047,9 +7604,6 @@ Adaz - Gate to Steadfast
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047145 · Added
@@ -9059,9 +7613,6 @@ EN
 ```text
 Steadfast - Gate to Adaz
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -13390,9 +11941,6 @@ Kita-Aino - Gate to Celerity
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047274 · Added
@@ -13402,9 +11950,6 @@ EN
 ```text
 Celerity - Gate to Kita-Aino
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -13418,9 +11963,6 @@ Tiberis - Gate to Fortitude
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047284 · Added
@@ -13430,9 +11972,6 @@ EN
 ```text
 Fortitude - Gate to Tiberis
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -13446,9 +11985,6 @@ Vatna - Gate to Rigor
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047286 · Added
@@ -13458,9 +11994,6 @@ EN
 ```text
 Rigor - Gate to Vatna
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -15748,9 +14281,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047394 · Translation Modified
@@ -16472,9 +15002,6 @@ This can be consumed when updating your portrait if it is in an accessible inven
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047441 · Added
@@ -16484,9 +15011,6 @@ EN
 ```text
 Operation Avalon Background
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -16836,9 +15360,6 @@ Air Small Structure 01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047449 · Added
@@ -16848,9 +15369,6 @@ EN
 ```text
 Air Small Structure 02a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -16864,9 +15382,6 @@ Air Medium Structure 01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047451 · Added
@@ -16876,9 +15391,6 @@ EN
 ```text
 Air Medium Structure 02a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -16892,9 +15404,6 @@ Air Medium Structure 03a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047453 · Added
@@ -16904,9 +15413,6 @@ EN
 ```text
 Air Connection 01a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -16920,9 +15426,6 @@ Air Connection 01b
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047455 · Added
@@ -16934,9 +15437,6 @@ Air Connection 02a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047456 · Added
@@ -16946,9 +15446,6 @@ EN
 ```text
 Air Connection 02b
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -19787,9 +18284,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047515 · Source Modified
@@ -19936,9 +18430,6 @@ EN
 - Salvage 5 wrecks.
 + <i>Destroy 15 Deputy Directors in AEGIS Joint Operation Center, POI: AEGIS Security Platform, or Nemesis Command Outpost sites.</i>
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20290,9 +18781,6 @@ Paragon Medium Structure 01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047575 · Added
@@ -20302,9 +18790,6 @@ EN
 ```text
 Paragon Small Structure 01a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20318,9 +18803,6 @@ Paragon Station Harbor s01a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047577 · Added
@@ -20330,9 +18812,6 @@ EN
 ```text
 Paragon Station Harbor m01a
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20346,9 +18825,6 @@ Paragon Center Hub
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047579 · Added
@@ -20360,9 +18836,6 @@ Paragon Small Structure 03a
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047580 · Added
@@ -20372,9 +18845,6 @@ EN
 ```text
 Manifest - Paragon Fulfilment Center
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20862,9 +19332,6 @@ All known objectives, including available, completed, and upcoming objectives.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047597 · Added
@@ -20874,9 +19341,6 @@ EN
 ```text
 Objectives you are currently participating in.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20890,9 +19354,6 @@ Objectives that have been completed by the community and are no longer available
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047599 · Added
@@ -20902,9 +19363,6 @@ EN
 ```text
 Objectives scheduled to become available in the near future.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20918,9 +19376,6 @@ Objectives that are currently active and open for contribution.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047644 · Added
@@ -20930,9 +19385,6 @@ EN
 ```text
 Concord Station - CS1
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -20946,9 +19398,6 @@ Concord Station - CS3
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047646 · Added
@@ -20960,9 +19409,6 @@ Concord Station - GS5
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047647 · Added
@@ -20972,9 +19418,6 @@ EN
 ```text
 Concord Station - GS6
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -22453,9 +20896,6 @@ EN
 ```text
 VDB_Cloud_Infinite_02a_Fluffy
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -26821,9 +25261,6 @@ Additional base <b>Shield</b>, <b>Armor</b> and <b>Structure</b> hitpoints for <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047961 · Added
@@ -26833,9 +25270,6 @@ EN
 ```text
 FW ELT-5 Dungeon Tactical Destroyer Proximity Effect (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -28423,9 +26857,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048004 · Added
@@ -28555,9 +26986,6 @@ EN
 ```text
 <i>Receive 12 items from Avalon Flotilla Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Avalon Flotilla Trader locations:</b><br>Amarr: Amarr, Sifilar<br>Caldari: New Caldari, Kinakka, Poitot<br>Gallente: Dodixie, Ostingele<br>Minmatar: Rens, Hadozeko, SL-YBS</i>
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -28691,9 +27119,6 @@ Include Restricted Objectives
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048031 · Added
@@ -28703,9 +27128,6 @@ EN
 ```text
 Minmatar Pilot
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -28724,9 +27146,6 @@ This Expert System makes available skills enabling a capsuleer to fly Minmatar T
 An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the a
 (truncated, 1,394 chars total)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -32564,9 +30983,6 @@ Liberation Day Celebration Crate
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048204 · Added
@@ -32576,9 +30992,6 @@ EN
 ```text
 This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -32592,9 +31005,6 @@ Liberation Day Celebration Crate
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048213 · Added
@@ -32604,9 +31014,6 @@ EN
 ```text
 This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -32800,9 +31207,6 @@ Liberated Matar Background
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048292 · Added
@@ -32812,9 +31216,6 @@ EN
 ```text
 This can be consumed when updating your portrait if it is in an accessible inventory location.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -32828,9 +31229,6 @@ Foundation Wisdom Background
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048295 · Added
@@ -32840,9 +31238,6 @@ EN
 ```text
 This can be consumed when updating your portrait if it is in an accessible inventory location.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -32856,9 +31251,6 @@ Union Contemplation Background
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048297 · Added
@@ -32868,9 +31260,6 @@ EN
 ```text
 This can be consumed when updating your portrait if it is in an accessible inventory location.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33386,9 +31775,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048434 · Added
@@ -33402,9 +31788,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048435 · Added
@@ -33414,9 +31797,6 @@ EN
 ```text
 Loki Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33432,9 +31812,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048437 · Added
@@ -33448,9 +31825,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048438 · Added
@@ -33460,9 +31834,6 @@ EN
 ```text
 Bifrost Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33478,9 +31849,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048440 · Added
@@ -33494,9 +31862,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048441 · Added
@@ -33506,9 +31871,6 @@ EN
 ```text
 Stiletto Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33524,9 +31886,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048443 · Added
@@ -33540,9 +31899,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048444 · Added
@@ -33552,9 +31908,6 @@ EN
 ```text
 Prowler Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33570,9 +31923,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048446 · Added
@@ -33586,9 +31936,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048447 · Added
@@ -33598,9 +31945,6 @@ EN
 ```text
 Claymore Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33616,9 +31960,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048449 · Added
@@ -33632,9 +31973,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048450 · Added
@@ -33644,9 +31982,6 @@ EN
 ```text
 Tempest Fleet Issue Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33662,9 +31997,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048452 · Added
@@ -33678,9 +32010,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048453 · Added
@@ -33690,9 +32019,6 @@ EN
 ```text
 Ymir Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33708,9 +32034,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048455 · Added
@@ -33724,9 +32047,6 @@ It's ignorant to dismiss us criminals. We always honor our laws; we just don’t
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048456 · Added
@@ -33736,9 +32056,6 @@ EN
 ```text
 Nomad Hrada-Oki Offender SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33752,9 +32069,6 @@ Advanced Carriers
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048458 · Added
@@ -33764,9 +32078,6 @@ EN
 ```text
 Command Carriers
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33780,9 +32091,6 @@ Command Carriers
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048460 · Added
@@ -33792,9 +32100,6 @@ EN
 ```text
 Minmatar
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33808,9 +32113,6 @@ Minmatar
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1048581 · Added
@@ -33820,9 +32122,6 @@ EN
 ```text
 Invalid or spoofed link
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -33835,14 +32134,14 @@ DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 | Language | Added | Modified | Removed |
 |----------|-------|----------|---------|
-| de | 312 | 364 | 97 |
-| en | 312 | 39 | 97 |
-| es | 312 | 363 | 97 |
-| fr | 312 | 367 | 97 |
-| ja | 312 | 368 | 97 |
-| ko | 312 | 367 | 97 |
-| ru | 312 | 363 | 97 |
-| zh | 312 | 364 | 97 |
+| de | 0 | 332 | 97 |
+| en | 309 | 39 | 97 |
+| es | 0 | 331 | 97 |
+| fr | 0 | 335 | 97 |
+| ja | 0 | 330 | 97 |
+| ko | 0 | 329 | 97 |
+| ru | 0 | 325 | 97 |
+| zh | 0 | 326 | 97 |
 
 ## Details
 
@@ -33923,100 +32222,6 @@ EN
 + <hr>
 + <h3>This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.</h3>
 + <hr>
-```
-
-
-DE
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version: {version}.{[numeric]build}<br><br> <h4>EVE ist ein Produkt von CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Alle Rechte vorbehalten.<br> Bitte besuchen Sie unsere Webseite <a href="http://www.ccpgames.com/"> http://www.ccpgames.com/</a> für weitere Informationen.<br> Für Hilfe und Unterstützung, wenden Sie sich an <a href="http://support.eveonline.com/">http://support.eveonline.com/ </a><br> </center> <br><br> <h2>Mitwirkende</h
-(truncated, 2,172 chars total)
-```
-
-
-ES
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    Versión: {version}.{[numeric]build}<br><br>
-    <h4>EVE is a product of CCP hf.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. All rights reserved.<br>
-    Please visit our homepage <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> for more information.<br>
-    For support, check out <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>Credits</h2>
-<p>
-    Sp
-(truncated, 2,224 chars total)
-```
-
-
-FR
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Version : {version}.{[numeric]build}<br><br> <h4>EVE est un produit de CCP hf.</h4> Copyright © CCP 1997-{[numeric]currentYear}. Tous droits réservés.<br> Rendez-vous sur notre site Web <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a> pour obtenir de plus amples informations.<br> Pour toute demande d'assistance, rendez-vous sur <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Crédits<
-(truncated, 2,154 chars total)
-```
-
-
-JA
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    バージョン：{version}.{[numeric]build}<br><br>
-    <h4>EVEはCCP hfの製品です。</h4>
-    Copyright © CCP 1997-{[numeric]currentYear} All rights reserved.<br>
-    詳細については、弊社のホームページ<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>をご覧ください。<br>
-    サポートについては、<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>をご覧下さい。
-</center>
-<br><br>
-<h2>クレジット</h2>
-<p>
-    EVEの製作に携わった全ての方々、中でもCCPスタッフとその家族に
-    感謝いたします。
-(truncated, 1,847 chars total)
-```
-
-
-KO
-
-```text
-<center>
-    <h1>{title}</h1>
-    <h2>{subtitle}</h2>
-    버전: {version}.{[numeric]build}<br><br>
-    <h4>EVE는 CCP hf의 제품입니다.</h4>
-    Copyright © CCP 1997-{[numeric]currentYear}. 무단 복제 및 배포를 금합니다.<br>
-    홈페이지 <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>에 방문하면 더 많은 정보를 확인하실 수 있습니다.<br>
-    고객 지원 <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br>
-</center>
-<br><br>
-<h2>크레딧</h2>
-<p>
-    이브의 제작에 참여한 모든 분께 감사드리며, CCP의 직원과
-     그 가족 여러분께 특히 감
-(truncated, 1,844 chars total)
-```
-
-
-RU
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2> Версия: {version}.{[numeric]build}<br><br> <h4>EVE — продукт компании CCP hf.</h4> © CCP, 1997-{[numeric]currentYear}. Все права сохранены.<br> Подробности —на странице <a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>. <br> Обратиться за поддержкой можно по адресу <a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>Благодарности</h2> <p> Мы отдельно благодарим каждого, кто принимал участ
-(truncated, 2,107 chars total)
-```
-
-
-ZH
-
-```text
-<center> <h1>{title}</h1> <h2>{subtitle}</h2>版本：{version}。{[numeric]build}<br><br> <h4>EVE是CCP公司的产品。</h4>版权所有©CCP 1997-{[numeric]currentYear}。保留所有权利。<br> 如需了解更多信息，请访问我们的主页<a href="http://www.ccpgames.com/">http://www.ccpgames.com/</a>。<br> 如需获取帮助，请联系<a href="http://support.eveonline.com/">http://support.eveonline.com/</a><br> </center> <br><br> <h2>鸣谢</h2><p>十分感谢所有参与EVE制作的人员，尤其要感谢CCP的员工和家庭的支持。<p>{EVECredits} <br> <br> {VanguardCredits} <br> <br> {CCPCredits}<p><p><br> 本产品包含下列软件程序：<br> <br> 采用了部分
-(truncated, 1,411 chars total)
 ```
 
 
@@ -34358,102 +32563,6 @@ EN
 +         <td>Damian Bal, Alan Brych, Piotr Czech, Kaja Galecka, Adam Jarza, Sebastian Jazwa, Kamil Jedrzejczyk, Piotr Kolaczyk, Natalia Kusal, Zuzanna Lis, Kamil Markiel, Slawomir Mazurek, Patryk Nawrocki, Michal Niton, Szymon Nogec, Pawel Pietrzak, Tomasz Skrzypaczek, Daniel Sroda, Wirginia Woznica</td>
       </tr>
   </table>
-```
-
-
-DE
-
-```text
-<h2>EVE Online Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Greg Hennessey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designers :</b></td> <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Systems Designer
-(truncated, 8,130 chars total)
-```
-
-
-ES
-
-```text
-<h2>EVE Online Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director:</b></td>
-        <td>Greg Hennessey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designers:</b></td>
-        <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td>
-    </tr>
-    <tr VAL
-(truncated, 9,706 chars total)
-```
-
-
-FR
-
-```text
-<h2>EVE Online Development Team</h2> <br> <h3>Game Design</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Game Design Director :</b></td> <td>Greg Hennessey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Game Designers :</b></td> <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Systems Designer
-(truncated, 8,130 chars total)
-```
-
-
-JA
-
-```text
-<h2>EVE Online 開発チーム</h2>
-<br>
-<h3>ゲームデザイン</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ゲームデザインディレクター：</b></td>
-        <td>Greg Hennessey</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアゲームデザイナー：</b></td>
-        <td>Andrew Warner、Daniel Ramotowski、Josh Bayer、Kevin Clarke、Kristján Blöndal、Michael Rezabek</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 al
-(truncated, 9,240 chars total)
-```
-
-
-KO
-
-```text
-<h2>EVE Online Development Team</h2>
-<br>
-<h3>Game Design</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Game Design Director :</b></td>
-        <td>Greg Hennessey</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Game Designers :</b></td>
-        <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td>
-    </tr>
-    <tr V
-(truncated, 9,760 chars total)
-```
-
-
-RU
-
-```text
-<h2>Команда разработчиков EVE Online</h2> <br> <h3>Разработка игры</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Greg Hennessey</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старшие разработчики:</b></td> <td>Andrew Warner, Daniel Ramotowski, Josh Bayer, Kevin Clarke, Kristján Blöndal, Michael Rezabek</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Старший системн
-(truncated, 8,469 chars total)
-```
-
-
-ZH
-
-```text
-<h2>EVE Online开发团队</h2> <br> <h3>游戏设计</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>游戏设计总监：</b></td><td>Greg Hennessey</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级游戏设计师：</b></td><td>Andrew Warner、Daniel Ramotowski、Josh Bayer、Kevin Clarke、Kristján Blöndal、Michael Rezabek</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级系统设计师：</b></td><td>Gabriela Queiroz</td></tr><tr VALIGN="top"><td width=325 align=right>
-(truncated, 7,021 chars total)
 ```
 
 
@@ -35394,104 +33503,6 @@ EN
           <td>Chen Jueyu, Liu Lin, Zhou Yuchun</td>
       </tr>
   </table>
-```
-
-
-DE
-
-```text
-<h2>Platform, Publishing, Company and Support</h2> <br> <h3>Platform – CARBON Engine</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Development Director :</b></td> <td>Benjamin Hunter</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Director of Live Operations :</b></td> <td>Erlendur S Þorsteinsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Producer :</b></td> <td>Adrian Gurn
-(truncated, 21,980 chars total)
-```
-
-
-ES
-
-```text
-<h2>Platform, Publishing, Company and Support</h2>
-<br>
-<h3>Platform — CARBON Engine</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Development Director:</b></td>
-        <td>Benjamin Hunter</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Director of Live Operations:</b></td>
-        <td>Erlendur S Þorsteinsson</td>
-    </tr>
-    <tr VALIGN="top">
-        <t
-(truncated, 26,354 chars total)
-```
-
-
-FR
-
-```text
-<h2>Platform, Publishing, Company and Support</h2> <br> <h3>Platform – CARBON Engine</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Senior Development Director :</b></td> <td>Benjamin Hunter</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Senior Director of Live Operations :</b></td> <td>Erlendur S Þorsteinsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Technical Producer :</b></td> <td>Adrian Gurn
-(truncated, 21,977 chars total)
-```
-
-
-JA
-
-```text
-<h2>プラットフォーム、パブリッシング、カンパニー、サポート</h2>
-<br>
-<h3>プラットフォーム – CARBON Engine</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>シニアデベロップメントディレクター：</b></td>
-        <td>Benjamin Hunter</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>ライブオペレーション・シニアディレクター：</b></td>
-        <td>Erlendur S Þorsteinsson</td> 
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>テクニカルプロデュ
-(truncated, 24,883 chars total)
-```
-
-
-KO
-
-```text
-<h2>Platform, Publishing, Company and Support</h2>
-<br>
-<h3>Platform – CARBON Engine</h3>
-<hr>
-<table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Development Director :</b></td>
-        <td>Benjamin Hunter</td>
-    </tr>
-    <tr VALIGN="top">
-        <td width=325 align=right><b>Senior Director of Live Operations :</b></td>
-        <td>Erlendur S Þorsteinsson</td>
-    </tr>
-    <tr VALIGN="top">
-        
-(truncated, 26,505 chars total)
-```
-
-
-RU
-
-```text
-<h2>Платформа, выпуск, компания и поддержка</h2> <br> <h3>Платформа: CARBON Engine</h3> <hr> <table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%> <tr VALIGN="top"> <td width=325 align=right><b>Директор по разработке:</b></td> <td>Benjamin Hunter</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Директор по реальным операциям:</b></td> <td>Erlendur S Þorsteinsson</td> </tr> <tr VALIGN="top"> <td width=325 align=right><b>Технический продюсер:</b></td> <td>Adrian Gurney</td> </tr
-(truncated, 22,928 chars total)
-```
-
-
-ZH
-
-```text
-<h2>平台、发行、公司和支持</h2> <br> <h3>平台 - CARBON Engine</h3><hr><table VALIGN="top" CELLSPACING="0" CELLPADDING="4" width=100%><tr VALIGN="top"><td width=325 align=right><b>高级开发总监：</b></td><td>Benjamin Hunter</td></tr><tr VALIGN="top"><td width=325 align=right><b>现场运营高级总监：</b></td><td>Erlendur S Þorsteinsson</td></tr><tr VALIGN="top"><td width=325 align=right><b>技术监制：</b></td><td>Adrian Gurney</td></tr><tr VALIGN="top"><td width=325 align=right><b>高级产品运营专员：</b></td><td>Haseeb Naveed</td></tr><tr VALIGN
-(truncated, 18,453 chars total)
 ```
 
 
@@ -41332,79 +39343,6 @@ EN
 ```
 
 
-DE
-
-```text
-<i>„‚Hunde dürfen von der Armee als Wachposten, zur Aufklärung, zum Jagen und zur Überwachung der Tierherden, die der Versorgung der Armee dienen, eingesetzt werden. Der Einsatz von Hunden im offenen Kampf ist, unabhängig von der Art und Weise, in der der Feind diese Tiere einsetzt, verboten.‘ Ich schätze, Rouvenor hatte ein Herz für Hunde, vielleicht konnte er sie aber auch einfach nicht ausstehen. Um ehrlich zu sein, bin ich selbst ein wenig zwiegespalten, wenn es darum geht, im Krieg etwas an
-(truncated, 996 chars total)
-```
-
-
-ES
-
-```text
-<i>«"Los ejércitos a veces usan perros como centinelas, para explorar y cazar o para controlar sus rebaños de reses para comida. Sin embargo, su despliegue en combate abierto está prohibido, independientemente de los usos que los enemigos puedan hacer de estas bestias". 
-
-
-
-Supongo que a Rouvenor le gustaban los perros, o quizá no. Sinceramente, no estoy del todo de acuerdo con usar nada que no sean humanos para la guerra. Poner parte de una operación, por pequeña que sea, en manos de un animal 
-(truncated, 850 chars total)
-```
-
-
-FR
-
-```text
-<i>« "Il se peut que l'armée utilise des chiens comme sentinelles, pour servir d'éclaireurs, pour chasser et pour contrôler les troupeaux d'animaux de l'armée destinés à être mangés. L'utilisation de chiens en conflit ouvert est interdite, quelle que soit la raison pour laquelle ces animaux peuvent être utilisés." J'imagine que Rouvenor aimait les chiens, ou alors il ne les aimait pas du tout. Pour être honnête, je suis moi-même un peu partagé quant à l'utilisation d'autre chose que des êtres hu
-(truncated, 939 chars total)
-```
-
-
-JA
-
-```text
-<i>「軍隊では、犬を歩哨として、偵察、狩猟、食用動物の管理などに利用することができる。敵がそのような獣を利用する可能性があるかどうかにかかわらず、公開戦闘における犬の利用は禁止されている。」 
-
-
-
-「思うに、ルーヴェノーは犬が好きだったのだろう。あるいは酷く嫌っていたのかもしれない。正直なところ、私自身、人間以外のものを戦争に使うことには少し抵抗がある。どんなに小さな作業でも、部分的に動物やロボットに制御を任せることで、リスクの範囲が思った以上に広がるからだ。私に言わせれば、人間が暴れるだけでも十分にリスクがある。少なくともミサイルを持っていれば自爆する。とはいえ、ドローンのようなものにも使い道があることは認めよう。」</i>
-
-
-
-- ムルイア・モードゥによる、ド・ルーヴェノーの戦争回顧録の引用
-```
-
-
-KO
-
-```text
-<i>"'군견은 보초, 정찰, 사냥, 그리고 가축을 통제하는 등 다양한 작업에 활용할 수 있다. 하지만 군견을 전장에 투입하는 것은 허용할 수 없다. 이 규칙은 적이 전장에 군견을 투입해도 변하지 않는다.'<br><br>"루베너는 개를 참 좋아했거나, 싫어했거나 둘 중 하나일 것 같네요. 물론 저도 인간이 아닌 존재를 전투에 투입하는 건 반대해요. 작전을 진행할 때, 크기와는 상관없이 동물이나 로봇을 투입하면 그만큼 위험 부담이 커지거든요. 솔직히 사람들을 통제하는 것만으로도 벅차요. 미사일은 터지기만 하면 제 역할이라도 하죠... 뭐 그래도 드론은 확실히 쓸모가 있는 것 같긴 해요."</i><br><br>- 무리야 모르두, 도스 루베너 전술서에서 인용문 발췌
-```
-
-
-RU
-
-```text
-<i>«„В армии собак используют в качестве часовых, для разведки, для охоты и для присмотра за армейскими стадами. Участие собак в открытом бою запрещено, независимо от того, как враг использует этих зверей‟. Я полагаю, Рувенор любил собак. Хотя вполне может быть, что он их сильно ненавидел. Честно говоря, у меня нет сложившегося мнения о том, можно ли использовать для ведения войны каких-либо живых существ помимо людей. Передавать даже малую часть ответственности за операцию животному или машине 
-(truncated, 781 chars total)
-```
-
-
-ZH
-
-```text
-<i>“哨兵可以使用军犬来侦察、打猎、或者控制敌军的肉用牲畜数量。禁止在战争中使用犬类，即使敌军可能使用也不行” 
-
-
-
-“我猜洛维诺国王喜欢狗，但也可能非常痛恨它们。实话实说，我对在战争中使用除人类以外的生物持模棱两可的态度。即使在很小的行动中使用动物或机器人也会带来我不愿承受的风险。要问我原因的话，我只能说人类就够不受控制的了。使用导弹就没关系，它总会爆炸的。当然，无人机这类东西还是有用的。”</i>
-
-
-
-– 穆瑞亚·莫德，援引洛维诺国王的战争评论
-```
-
-
 
 
 ### MessageID: 696826 · Translation Modified
@@ -47170,61 +45108,6 @@ EN
 ```
 
 
-DE
-
-```text
-Dieser Veldspar-Cluster mit geringer Reinheit bietet 50 % geringere Erträge als die, die normalerweise in ganz New Eden vorkommen. Er befindet sich am häufigsten in der Region Exordium. Veldspar ist die am häufigsten vorkommende Erzart in den zentralen Regionen des bekannten Universums. Es ist immer noch stark nachgefragt, da es einen großen Teil des viel genutzten Minerals Tritanium enthält.
-```
-
-
-ES
-
-```text
-Este cúmulo de veldspar de baja pureza ofrece un rendimiento un 50 % inferior al que suele encontrarse en el resto de Nuevo Edén. Se localiza principalmente en la región de Exordium.
-
-El veldspar es el tipo de mena más común en las regiones centrales del universo conocido. Su demanda es constante, ya que contiene grandes cantidades de tritanio, un mineral muy utilizado.
-```
-
-
-FR
-
-```text
-Ce gisement de veldspar à faible pureté offre un rendement inférieur de 50 % à celui que l'on trouve généralement dans l'ensemble de New Eden. On le trouve plus communément dans la région d'Exordium. Le veldspar est le minerai le plus courant dans les régions centrales de l'univers connu. La demande en veldspar ne faiblit jamais car il contient du tritanium, l'un des minéraux les plus exploités.
-```
-
-
-JA
-
-```text
-純度の低いベルドスパーの塊。ニューエデンのその他エリアで一般的に発見されるものより含有量が50%少ない。エグゾーディウム・リージョンに最も多く存在している。
-
-ベルドスパーは既知宇宙の中心宙域で普及している鉱石だが、用途の広い無機物であるトリタニウムを多く含むため、需要は絶えない。
-```
-
-
-KO
-
-```text
-이 저순도 벨드스파 덩어리는 뉴에덴 전역에서 흔하게 발견되는 광물보다 채굴량이 50% 정도 적습니다. 주로 엑조디엄 지역에서 발견됩니다.
-
-벨드스파는 뉴에덴의 중심부에서 발견되는 흔한 광물 가운데 하나로 트리타늄의 주요 공급원입니다.
-```
-
-
-RU
-
-```text
-Такие залежи вельдспара в основном встречаются в секторе Exordium. В них много примесей, а полезных минералов на 50% меньше, чем в других месторождениях Нового Эдема. Вельдспар — самая распространённая руда в центральном сегменте известной вселенной. Он содержит большое количество повсеместно используемого тритания, поэтому спрос на него никогда не падает.
-```
-
-
-ZH
-
-```text
-这种低纯度的凡晶石矿带，其产出比新伊甸其他地区的普通矿带要低50%。这种矿带最常见于始源星域。凡晶石是已知空间的核心星域中最为常见的矿石。它富含人们大量使用的三钛合金，因此需求仍然十分稳定。
-```
-
-
 
 
 ### MessageID: 1036180 · Source Modified
@@ -47236,61 +45119,6 @@ EN
 + This low purity cluster of Scordite offers 50% lower yield than those typically found throughout wider New Eden. It is most commonly located within the region of Exordium.
   
   Scordite is amongst the most common ore types in the central regions of known universe. It can be reprocessed into both Tritanium and Pyerite making it desirable for those starting their mining careers.
-```
-
-
-DE
-
-```text
-Dieser Scordite-Cluster mit geringer Reinheit bietet 50 % geringere Erträge als die, die normalerweise in ganz New Eden vorkommen. Er befindet sich am häufigsten in der Region Exordium. Scordite gehört zu den häufigsten Erzarten in den zentralen Regionen des bekannten Universums. Es kann sowohl in Tritanium als auch Pyerite aufbereitet werden und ist bei denjenigen begehrt, die ihre Bergbau-Karriere beginnen.
-```
-
-
-ES
-
-```text
-Este cúmulo de escordita de baja pureza ofrece un rendimiento un 50 % inferior al que suele encontrarse en el resto de Nuevo Edén. Se localiza principalmente en la región de Exordium.
-
-La escordita se encuentra entre los tipos de mena más comunes en las regiones centrales del universo conocido. Puede reprocesarse en tritanio y pierita, lo que lo hace muy deseable para quienes comienzan su carrera minera.
-```
-
-
-FR
-
-```text
-Ce gisement de scordite à faible pureté offre un rendement inférieur de 50 % à celle que l'on trouve généralement dans l'ensemble de New Eden. On le trouve plus communément dans la région d'Exordium. La scordite est l'un des minerais les plus courants dans les régions centrales de l'univers connu. Il peut être retraité en tritanium et en pyérite, ce qui en fait un minerai très prisé par ceux qui débutent dans l'extraction minière.
-```
-
-
-JA
-
-```text
-純度の低いスコダイトの塊。ニューエデンのその他エリアで一般的に発見されるものより含有量が50%少ない。エグゾーディウム・リージョンに最も多く存在している。
-
-スコダイトは、既知宇宙の中心宙域で最も普及している鉱石の一つである。再処理することでトリタニウムとパイライトの両方に変えられるため、採掘初心者にとって魅力的な鉱石だ。
-```
-
-
-KO
-
-```text
-이 저순도 스코다이트 덩어리는 뉴에덴 전역에서 흔하게 발견되는 광물보다 채굴량이 50% 정도 적습니다. 주로 엑조디엄 지역에서 발견됩니다.
-
-스코다이트는 뉴에덴의 중심부에서 발견되는 흔한 광물 가운데 하나입니다. 트리타늄과 파이어라이트로 재가공할 수 있어, 이제 막 채굴 일을 시작한 이들에게 매력적인 광물입니다.
-```
-
-
-RU
-
-```text
-Такие залежи скордита в основном встречаются в секторе Exordium. В них много примесей, а полезных минералов на 50% меньше, чем в других месторождениях Нового Эдема. Скордит — одна из самых распространённых руд в центральном сегменте известной вселенной. Из неё можно получить и тританий, и пирит — отличный вариант для начинающего бурильщика.
-```
-
-
-ZH
-
-```text
-这种低纯度的灼烧岩矿带，其产出比新伊甸其他地区的普通矿带要低50%。这种矿带最常见于始源星域。灼烧岩是已知空间的核心星域中最为常见的矿石。它可以提炼出三钛合金和类晶体胶矿，因此对刚开启采矿生涯的玩家来说是个不错的选择。
 ```
 
 
@@ -47367,9 +45195,6 @@ EN
   
   Of course, said excitement comes with a mildly heightened risk of casualties.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -49301,55 +47126,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения калдарцев или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁加达里或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
 
 
 ### MessageID: 1040467 · Source Modified
@@ -49386,34 +47162,6 @@ FR
 ```
 
 
-JA
-
-```text
-研究チームのための情報収集として、ガレンテのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-갈란테 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 연구 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в галлентских системах оплота, чтобы собрать сведения для наших учёных.
-```
-
-
-ZH
-
-```text
-成功破译盖伦特壁垒星系中的遗迹和数据货柜，为我们的研究团队收集情报。
-```
-
-
 
 
 ### MessageID: 1040482 · Source Modified
@@ -49426,55 +47174,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения калдарцев или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁加达里或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
 
 
 ### MessageID: 1040498 · Source Modified
@@ -49484,55 +47183,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Caldari- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia caldari o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice caldari ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения калдарцев или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁加达里或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
 ```
 
 
@@ -49572,34 +47222,6 @@ FR
 ```
 
 
-JA
-
-```text
-物流情報を収集するため、カルダリのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-칼다리 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 운송 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в калдарских системах оплота, чтобы добыть сведения о материально-техническом снабжении.
-```
-
-
-ZH
-
-```text
-成功破译加达里壁垒星系中的遗迹和数据货柜，以收集后勤情报。
-```
-
-
 
 
 ### MessageID: 1040552 · Source Modified
@@ -49609,55 +47231,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
 ```
 
 
@@ -49673,61 +47246,6 @@ EN
 ```
 
 
-DE
-
-```text
-Reparieren Sie Milizkapselpiloten der Caldari in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung folgende Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Caldari eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, repara capsulistas de la milicia caldari. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Caldari para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, réparez des capsuliers de la milice caldari. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice caldari pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、カルダリの義勇兵カプセラをリペアせよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、カルダリ連合の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 칼다리 소속 캡슐리어 함선을 수리하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 칼다리 연합 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Почините корабли капсулёров из калдарского ополчения в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены калдарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，维修加达里国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入加达里帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
 
 
 ### MessageID: 1040567 · Source Modified
@@ -49740,55 +47258,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
-```
-
-
 
 
 ### MessageID: 1040574 · Source Modified
@@ -49798,55 +47267,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
 ```
 
 
@@ -49886,34 +47306,6 @@ FR
 ```
 
 
-JA
-
-```text
-物流情報を収集するため、カルダリのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-칼다리 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 운송 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в калдарских системах оплота, чтобы добыть сведения о материально-техническом снабжении.
-```
-
-
-ZH
-
-```text
-成功破译加达里壁垒星系中的遗迹和数据货柜，以收集后勤情报。
-```
-
-
 
 
 ### MessageID: 1040586 · Source Modified
@@ -49923,55 +47315,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Gallente- oder Guristas-Piratenmiliz-Kapselpiloten in der Kriegszone der Caldari-Gallente. Sie müssen bei der Zerstörung Schiffe der Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider fliegen.
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Caldari-Gallente, destruye capsulistas de la milicia gallente o de los Piratas Guristas. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-```
-
-
-FR
-
-```text
-Dans la zone de guerre caldari-gallente, détruisez les capsuliers de la milice gallente ou des pirates guristas. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits.
-```
-
-
-JA
-
-```text
-カルダリ=ガレンテ紛争宙域内で、ガレンテまたはガリスタス海賊の義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-```
-
-
-KO
-
-```text
-칼다리-갈란테 전쟁 정역에서 갈란테 또는 구리스타스 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения галлентов или «Гуристас» в зоне боёв между калдарцами и галлентами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью».
-```
-
-
-ZH
-
-```text
-在加达里-盖伦特战区内，摧毁盖伦特或古斯塔斯海盗民兵克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。
 ```
 
 
@@ -50011,34 +47354,6 @@ FR
 ```
 
 
-JA
-
-```text
-重要な情報を確保するため、アマーのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-아마르 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 핵심 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в амаррских системах оплота, чтобы собрать ключевые сведения.
-```
-
-
-ZH
-
-```text
-成功破译艾玛壁垒星系中的遗迹和数据货柜，以获取关键情报。
-```
-
-
 
 
 ### MessageID: 1040639 · Source Modified
@@ -50048,61 +47363,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、ミンマターまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、アマー帝国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 민마타 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 아마르 제국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения минматаров или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены амаррского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁米玛塔尔或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入艾玛帝国国民卫队才能为该目标做出贡献。</b>
 ```
 
 
@@ -50142,34 +47402,6 @@ FR
 ```
 
 
-JA
-
-```text
-重要な情報を確保するため、アマーのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-아마르 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 핵심 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в амаррских системах оплота, чтобы собрать ключевые сведения.
-```
-
-
-ZH
-
-```text
-成功破译艾玛壁垒星系中的遗迹和数据货柜，以获取关键情报。
-```
-
-
 
 
 ### MessageID: 1040658 · Source Modified
@@ -50179,61 +47411,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、ミンマターまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、アマー帝国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 민마타 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 아마르 제국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения минматаров или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены амаррского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁米玛塔尔或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入艾玛帝国国民卫队才能为该目标做出贡献。</b>
 ```
 
 
@@ -50249,61 +47426,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Minmatar oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Amarr eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia minmatariana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Amarr para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice minmatar ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice de l'Empire amarr pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、ミンマターまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、アマー帝国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 민마타 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 아마르 제국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения минматаров или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены амаррского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁米玛塔尔或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入艾玛帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
 
 
 ### MessageID: 1040724 · Source Modified
@@ -50316,61 +47438,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
 
 
 ### MessageID: 1040726 · Source Modified
@@ -50380,55 +47447,6 @@ EN
 ```diff
 - Mine Dark Ochre in Gallente low-security systems to help hone the S[…]
 + Mine Dark Ochre in Minmatar low-security systems to help hone the S[…]
-```
-
-
-DE
-
-```text
-Bauen Sie Dunkles Ochre in Gallente-Niedersicherheitssystemen ab, um die astrogeologischen Skills der Starkmanir zu verbessern.
-```
-
-
-ES
-
-```text
-Extrae ocre oscuro en sistemas de seguridad baja gallentes para ayudar a perfeccionar las habilidades astrogeológicas de los starkmanirs.
-```
-
-
-FR
-
-```text
-Extrayez de l'ochre foncé dans les systèmes de basse sécurité gallente afin d'aider à perfectionner les compétences astrogéologiques des Starkmanir.
-```
-
-
-JA
-
-```text
-スタークマニールの宇宙地質技術をさらに磨かせるため、ガレンテのローセクシステムでダークオークルを採掘せよ。
-```
-
-
-KO
-
-```text
-민마타 로우 시큐리티 지역 성계에서 로우 시큐리티를 채굴해 스타크마니르의 천체지리학 연구를 지원하세요.
-```
-
-
-RU
-
-```text
-Добудьте тёмную охру в галлентских системах с низким уровнем безопасности, чтобы помочь старкманирам улучшить их астрогеологические навыки.
-```
-
-
-ZH
-
-```text
-在盖伦特低安星系中开采黑赭石，以帮助磨练斯塔科马的天文地质学技能。
 ```
 
 
@@ -50468,34 +47486,6 @@ FR
 ```
 
 
-JA
-
-```text
-復興計画の重要な戦略情報を提供するため、ミンマターのブルワークシステムで遺物およびデータコンテナのハッキングに成功せよ。
-```
-
-
-KO
-
-```text
-민마타 방벽 성계에서 유물 및 데이터 컨테이너를 해킹해 회복 작전의 핵심 정보를 확보하세요.
-```
-
-
-RU
-
-```text
-Успешно взломайте контейнеры с артефактами и данными в минматарских системах оплота, чтобы добыть важную информацию для возвращения утраченных территорий.
-```
-
-
-ZH
-
-```text
-成功破译米玛塔尔壁垒星系中的遗迹和数据货柜，为复兴事业提供关键战略情报。
-```
-
-
 
 
 ### MessageID: 1040737 · Source Modified
@@ -50505,55 +47495,6 @@ EN
 ```diff
 - Mine Gneiss in Gallente low-security systems to help hone the S[…]
 + Mine Gneiss in Minmatar low-security systems to help hone the S[…]
-```
-
-
-DE
-
-```text
-Bauen Sie Gneiss in Gallente-Niedersicherheitssystemen ab, um die astrogeologischen Skills der Starkmanir zu verbessern.
-```
-
-
-ES
-
-```text
-Extrae gneiss en sistemas de seguridad baja gallentes para ayudar a perfeccionar las habilidades astrogeológicas de los starkmanirs.
-```
-
-
-FR
-
-```text
-Extrayez du gneiss dans les systèmes de basse sécurité gallente afin d'aider à perfectionner les compétences astrogéologiques des Starkmanir.
-```
-
-
-JA
-
-```text
-スタークマニールの宇宙地質技術をさらに磨かせるため、ガレンテのローセクシステムでナエスを採掘せよ。
-```
-
-
-KO
-
-```text
-민마타 로우 시큐리티 지역 성계에서 니스를 채굴해 스타크마니르의 천체지리학 연구를 지원하세요.
-```
-
-
-RU
-
-```text
-Добудьте гнейсс в галлентских системах с низким уровнем безопасности, чтобы помочь старкманирам улучшить их астрогеологические навыки.
-```
-
-
-ZH
-
-```text
-在盖伦特低安星系中开采片麻岩，以帮助磨练斯塔科马的天文地质学技能。
 ```
 
 
@@ -50569,61 +47510,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
 
 
 ### MessageID: 1040751 · Source Modified
@@ -50633,55 +47519,6 @@ EN
 ```diff
 - Mine Scordite in Gallente high-security systems to help hone the […]
 + Mine Scordite in Minmatar high-security systems to help hone the […]
-```
-
-
-DE
-
-```text
-Bauen Sie Scordite in Hochsicherheitssystemen der Gallente ab, um die astrogeologischen Skills der Starkmanir zu verbessern.
-```
-
-
-ES
-
-```text
-Extrae escordita en sistemas de seguridad alta gallentes para ayudar a perfeccionar las habilidades astrogeológicas de los starkmanirs.
-```
-
-
-FR
-
-```text
-Extrayez de la scordite dans les systèmes de haute sécurité gallente afin d'aider à perfectionner les compétences astrogéologiques des Starkmanir.
-```
-
-
-JA
-
-```text
-スタークマニールの宇宙地質技術をさらに磨かせるため、ガレンテのハイセクシステムでスコダイトを採掘せよ。
-```
-
-
-KO
-
-```text
-민마타 하이 시큐리티 지역 성계에서 스코다이트를 채굴해 스타크마니르의 천체지리학 연구를 지원하세요.
-```
-
-
-RU
-
-```text
-Добудьте скордит в галлентских системах с высоким уровнем безопасности, чтобы помочь старкманирам улучшить их астрогеологические навыки.
-```
-
-
-ZH
-
-```text
-在盖伦特高安星系中开采灼烧岩，以帮助磨练斯塔科马的天文地质学技能。
 ```
 
 
@@ -50697,61 +47534,6 @@ EN
 ```
 
 
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
-```
-
-
 
 
 ### MessageID: 1040758 · Source Modified
@@ -50761,55 +47543,6 @@ EN
 ```diff
 - Mine Gneiss in Gallente low-security systems to help hone the S[…]
 + Mine Gneiss in Minmatar low-security systems to help hone the S[…]
-```
-
-
-DE
-
-```text
-Bauen Sie Gneiss in Gallente-Niedersicherheitssystemen ab, um die astrogeologischen Skills der Starkmanir zu verbessern.
-```
-
-
-ES
-
-```text
-Extrae gneiss en sistemas de seguridad baja gallentes para ayudar a perfeccionar las habilidades astrogeológicas de los starkmanirs.
-```
-
-
-FR
-
-```text
-Extrayez du gneiss dans les systèmes de basse sécurité gallente afin d'aider à perfectionner les compétences astrogéologiques des Starkmanir.
-```
-
-
-JA
-
-```text
-スタークマニールの宇宙地質技術をさらに磨かせるため、ガレンテのローセクシステムでナエスを採掘せよ。
-```
-
-
-KO
-
-```text
-민마타 로우 시큐리티 지역 성계에서 니스를 채굴해 스타크마니르의 천체지리학 연구를 지원하세요.
-```
-
-
-RU
-
-```text
-Добудьте гнейсс в галлентских системах с низким уровнем безопасности, чтобы помочь старкманирам улучшить их астрогеологические навыки.
-```
-
-
-ZH
-
-```text
-在盖伦特低安星系中开采片麻岩，以帮助磨练斯塔科马的天文地质学技能。
 ```
 
 
@@ -50825,55 +47558,6 @@ EN
 ```
 
 
-DE
-
-```text
-Bauen Sie Scordite in Hochsicherheitssystemen der Gallente ab, um die astrogeologischen Skills der Starkmanir zu verbessern.
-```
-
-
-ES
-
-```text
-Extrae escordita en sistemas de seguridad alta gallentes para ayudar a perfeccionar las habilidades astrogeológicas de los starkmanirs.
-```
-
-
-FR
-
-```text
-Extrayez de la scordite dans les systèmes de haute sécurité gallente afin d'aider à perfectionner les compétences astrogéologiques des Starkmanir.
-```
-
-
-JA
-
-```text
-スタークマニールの宇宙地質技術をさらに磨かせるため、ガレンテのハイセクシステムでスコダイトを採掘せよ。
-```
-
-
-KO
-
-```text
-민마타 하이 시큐리티 지역 성계에서 스코다이트를 채굴해 스타크마니르의 천체지리학 연구를 지원하세요.
-```
-
-
-RU
-
-```text
-Добудьте скордит в галлентских системах с высоким уровнем безопасности, чтобы помочь старкманирам улучшить их астрогеологические навыки.
-```
-
-
-ZH
-
-```text
-在盖伦特高安星系中开采灼烧岩，以帮助磨练斯塔科马的天文地质学技能。
-```
-
-
 
 
 ### MessageID: 1040766 · Source Modified
@@ -50883,61 +47567,6 @@ EN
 ```diff
 - […]erpentis, or Blood Raider Covenant ships when destroyed.
 + […]erpentis, or Blood Raider Covenant ships.
-```
-
-
-DE
-
-```text
-Zerstören Sie Milizkapselpiloten der Amarr oder des Angel Cartel in der Kriegszone der Amarr-Minmatar. Sie müssen bei der Zerstörung eins der folgenden Schiffe fliegen: Navy Issue, Angel Cartel, Guristas-Piraten, Serpentis oder Bund der Blood Raider. <b>Sie müssen in der Miliz des Imperiums der Minmatar eingeschrieben sein, um zu diesem Ziel beizutragen.</b>
-```
-
-
-ES
-
-```text
-Dentro de la zona de guerra Amarr-Minmatar, destruye capsulistas de la milicia amarriana o del Cártel de los Ángeles. Al ser destruidos, deben pilotar naves de modelo de la Armada, del Cártel de los Ángeles, de los Piratas Guristas, de Serpentis o del Pacto de los Saqueadores Sanguinarios.
-
-<b>Debes estar alistado en la milicia del Imperio Minmatar para contribuir a este objetivo.</b>
-```
-
-
-FR
-
-```text
-Dans la zone de guerre amarr-minmatar, détruisez des capsuliers de la milice amarr ou du cartel Angel. Ils doivent piloter des vaisseaux Navy Issue, du cartel Angel, des pirates guristas, des Serpentis ou de la cabale Blood Raider lorsqu'ils sont détruits. <b>Vous devez être engagé dans la milice minmatar pour contribuer à cet objectif.</b>
-```
-
-
-JA
-
-```text
-アマー=ミンマター紛争宙域内で、アマーまたはエンジェルカルテルの義勇兵カプセラを撃墜せよ。その際、相手は海軍仕様、エンジェルカルテル、ガリスタス海賊、サーペンティス、ブラッドレイダーカバナントのいずれかの艦船を操縦している必要がある。
-
-<b>この目標に貢献するためには、ミンマター共和国の義勇兵に志願している必要があります。</b>
-```
-
-
-KO
-
-```text
-아마르-민마타 전쟁 정역에서 아마르 또는 엔젤 카르텔 소속 캡슐리어를 처치하십시오. 해군 에디션, 엔젤 카르텔, 구리스타스 해적단, 서펜티스, 블러드 레이더 커버넌트 함선에 탑승한 캡슐리어를 노려야 합니다.
-
-<b>목표 달성에 기여하려면 민마타 공화국 밀리샤에 가입해야 합니다.</b>
-```
-
-
-RU
-
-```text
-Уничтожьте капсулёров из ополчения амаррцев или картеля «ангелов» в зоне боёв между амаррцами и минматарами. В счёт идут флотские корабли, корабли картеля «ангелов», «Гуристас», «Серпентис» и «Охотников за кровью». <b>Участвовать в этом задании могут только члены минматарского ополчения.</b>
-```
-
-
-ZH
-
-```text
-在艾玛-米玛塔尔战区内，摧毁艾玛或天使国民卫队克隆飞行员。被摧毁时，他们必须驾驶海军型、天使、古斯塔斯海盗、天蛇集团或血袭者同盟的舰船。<b>你必须加入米玛塔尔帝国国民卫队才能为该目标做出贡献。</b>
 ```
 
 
@@ -51114,55 +47743,6 @@ EN
 ```diff
 - […]e one Gallente, and we will bring freedo
 + […]e one Gallente, and we will bring freedom to this cluster at any cost.
-```
-
-
-DE
-
-```text
-Wir kommen zwar aus verschiedenen Welten, aber wir sind die Einheit der Gallente und werden Freiheit bringen.
-```
-
-
-ES
-
-```text
-Puede que vengamos de mundos distintos, pero somos un solo pueblo gallente y llevaremos la libertad.
-```
-
-
-FR
-
-```text
-Nous venons peut-être de différents mondes, mais nous ne formons qu'un peuple, les Gallente, et nous apporterons la liberté
-```
-
-
-JA
-
-```text
-出自は違えど、我々は一つの「ガレンテ」だ。いかなる犠牲を払っても、この星系に自由をもたらそう。
-```
-
-
-KO
-
-```text
-우리는 다른 행성에서 왔지만 모두 자유를 위해 싸우는 갈란테 국민이네.
-```
-
-
-RU
-
-```text
-У нас разные корни, но все мы галленты, и наш долг — сделать мир свободнее.
-```
-
-
-ZH
-
-```text
-我们可能来自不同的世界，但我们同属一个盖伦特，我们将带来自由。
 ```
 
 
@@ -62395,61 +58975,6 @@ EN
 ```
 
 
-DE
-
-```text
-Gallente Prime ist in Sicht. Alle Mann sollen das Schiff verlassen, das ist ein Auftrag. Ich werde diesen Flug allein abschließen.
-```
-
-
-ES
-
-```text
-Gallente Prime está a la vista. Todo el personal, abandonad la nave. Es una orden.
-
-Terminaré este vuelo en solitario.
-```
-
-
-FR
-
-```text
-Gallente Prime est en vue. À tout l'équipage, abandonnez le vaisseau, c'est un ordre. Je terminerai ce vol seul.
-```
-
-
-JA
-
-```text
-ガレンテプライムを捕捉。総員退艦せよ、これは命令だ。
-
-この航行の最後は、私一人で務める。
-```
-
-
-KO
-
-```text
-갈란테 프라임이 보입니다. 전원, 즉시 함선을 탈출하십시오. 이건 명령입니다.
-
-저 혼자서 끝내겠습니다.
-```
-
-
-RU
-
-```text
-Вижу Gallente Prime! Приказываю всему экипажу покинуть корабль. Я закончу это дело в одиночку.
-```
-
-
-ZH
-
-```text
-盖伦特首星就在眼前。全员弃船，这是命令。我将独自完成这最后的飞行。
-```
-
-
 
 
 ### MessageID: 1045913 · Translation Modified
@@ -62598,61 +59123,6 @@ EN
 ```
 
 
-DE
-
-```text
-Matar City und der Grand Caneverserai sind beide gesichert! Die Leute reißen Statuen nieder und hissen Stammesbanner! Ich wünschte, Sie könnten bei uns sein.
-```
-
-
-ES
-
-```text
-¡Matar City y Grand Caneverserai están asegurados! 
-
-¡La gente está derribando estatuas y alzando estandartes tribales! Ojalá pudieras estar aquí con nosotros.
-```
-
-
-FR
-
-```text
-Matar City et le Grand caravansérail sont tous deux sécurisés ! Le peuple est en train de faire tomber les statues et d'hisser des bannières tribales ! Si seulement vous étiez avec nous pour le voir !
-```
-
-
-JA
-
-```text
-マター・シティとグランド・カネヴァーセライの双方を制圧した！ 
-
-民衆が奴らの像を引き倒し、部族の旗を掲げている！ 艦長にもこの光景を見せてやりたいよ。
-```
-
-
-KO
-
-```text
-마타르 시티와 그랜드 케인버세라이를 모두 지켜냈습니다!
-
-사람들이 우상을 쓰러뜨리고 부족의 깃발을 내걸고 있습니다! 같이 보셨으면 더 좋았겠네요.
-```
-
-
-RU
-
-```text
-Мы отбили город Матар и Великий караван-сарай! Люди снимают статуи с постаментов и поднимают флаги племён! Жаль, вас сейчас с нами нет.
-```
-
-
-ZH
-
-```text
-玛塔尔城和大商会那边都搞定了！人民正在推倒雕像，升起部落旗帜！我真希望你能在这里与我们同在。
-```
-
-
 
 
 ### MessageID: 1046169 · Source Modified
@@ -62664,61 +59134,6 @@ EN
   
 - Our ships had to back rush to Ennur, still damaged, to try and put their rebellion down.
 + Our ships had to rush back to Ennur, still damaged, to try and put their rebellion down.
-```
-
-
-DE
-
-```text
-Die feigen Minmatar warteten, bis unsere Flotte fort war, um gegen die Jovian zu kämpfen. Unsere Schiffe mussten nach Ennur zurückeilen, noch immer beschädigt, um ihre Rebellion niederzuschlagen.
-```
-
-
-ES
-
-```text
-Los cobardes minmatarianos esperaron a que nuestra flota estuviera lejos, combatiendo a los jovianos, para atacar.
-
-Nuestras naves tuvieron que regresar a toda prisa a Ennur, aún dañadas, para intentar sofocar su rebelión.
-```
-
-
-FR
-
-```text
-Les lâches Minmatar ont attendu que notre flotte soit partie combattre les Joves pour attaquer. Nos vaisseaux ont dû se précipiter vers Ennur, encore endommagés, pour tenter de réprimer leur rébellion.
-```
-
-
-JA
-
-```text
-卑劣なミンマターめ、我が方のフリートがジョビとの戦闘で出払うのを待って襲撃してくるとは。
-
-我らの艦船は損傷した状態のまま、反乱を鎮圧すべくエヌルへと急ぎ引き返さねばならなかった。
-```
-
-
-KO
-
-```text
-비겁한 민마타 놈들이 우리 함대가 조브와 싸우고 약해질 때까지 기다렸군.
-
-함선의 손상을 입었지만 급하게 에너르로 이동해 반란군을 막아야 하네.
-```
-
-
-RU
-
-```text
-Малодушные минматары ударили как раз тогда, когда наш флот сражался с джовианами. Мы даже корабли починить не успели: пришлось спешно возвращаться в Эннур, чтобы подавить мятеж.
-```
-
-
-ZH
-
-```text
-米玛塔尔只敢在我们舰队外出与朱庇特交战时才敢发动进攻，真是懦夫。尽管我们的舰船受损严重，但还是第一时间赶回恩努尔，只为消灭这些叛乱分子。
 ```
 
 
@@ -66567,9 +62982,6 @@ AEGIS Squall
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046797 · Added
@@ -66583,9 +62995,6 @@ Find out where it is going, and you might just discover more.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046798 · Added
@@ -66595,9 +63004,6 @@ EN
 ```text
 Investigation Progress
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66611,9 +63017,6 @@ Complete sites to uncover the heart of local AEGIS operations. Follow AEGIS Squa
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046800 · Added
@@ -66623,9 +63026,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66639,9 +63039,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046813 · Added
@@ -66651,9 +63048,6 @@ EN
 ```text
 Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66667,9 +63061,6 @@ Vanguard Operation Avalon Roamer
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046840 · Added
@@ -66679,9 +63070,6 @@ EN
 ```text
 Destroyed Test Sentry
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66695,9 +63083,6 @@ POI: Nemesis Research Outpost
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046874 · Added
@@ -66709,9 +63094,6 @@ Research Vault
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046899 · Added
@@ -66721,9 +63103,6 @@ EN
 ```text
 AEGIS Security Platform
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66738,9 +63117,6 @@ EN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046926 · Added
@@ -66750,9 +63126,6 @@ EN
 ```text
 Operation Avalon POI Enemy Spawner (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66766,9 +63139,6 @@ Hack the Research Vault before it self-destructs.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046991 · Added
@@ -66778,9 +63148,6 @@ EN
 ```text
 AEGIS Security Platform
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66794,9 +63161,6 @@ Service is currently unavailable. Please try again later.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1046993 · Added
@@ -66806,9 +63170,6 @@ EN
 ```text
 Service unavailable
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66822,9 +63183,6 @@ Flotilla Observation Outpost
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047054 · Added
@@ -66834,9 +63192,6 @@ EN
 ```text
 Nemesis Test Center
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66850,9 +63205,6 @@ Nemesis Research Outpost
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047082 · Added
@@ -66864,9 +63216,6 @@ Surveillance Vault
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047100 · Added
@@ -66876,9 +63225,6 @@ EN
 ```text
 Target Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66894,9 +63240,6 @@ With the proper equipment, something of value could be salvaged.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047126 · Added
@@ -66906,9 +63249,6 @@ EN
 ```text
 Failed to load Achievements
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66922,9 +63262,6 @@ Please try again later
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047128 · Added
@@ -66934,9 +63271,6 @@ EN
 ```text
 Refresh
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66950,9 +63284,6 @@ Avalon Hacking Can
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047142 · Added
@@ -66962,9 +63293,6 @@ EN
 ```text
 Pyroxeres  0-Grade
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -66980,9 +63308,6 @@ Pyroxeres is a common ore available in all regions of space. It has fair amounts
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047163 · Added
@@ -66992,9 +63317,6 @@ EN
 ```text
 Salvage Wrecks
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67008,9 +63330,6 @@ Defiant Ochre
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047175 · Added
@@ -67020,9 +63339,6 @@ EN
 ```text
 Defiant Ochre Metallic - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67038,9 +63354,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047177 · Added
@@ -67050,9 +63363,6 @@ EN
 ```text
 Defiant Ochre Metallic - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67068,9 +63378,6 @@ The digital sequence of this metallic nanocoating has not been bound, allowing f
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047179 · Added
@@ -67082,9 +63389,6 @@ Radiant Aureate Satin
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047180 · Added
@@ -67094,9 +63398,6 @@ EN
 ```text
 Radiant Aureate Metallic - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67112,9 +63413,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047182 · Added
@@ -67124,9 +63422,6 @@ EN
 ```text
 Radiant Aureate Metallic - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67142,9 +63437,6 @@ The digital sequence of this metallic nanocoating has not been bound, allowing f
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047184 · Added
@@ -67156,9 +63448,6 @@ Defiant Ochre Matte
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047185 · Added
@@ -67168,9 +63457,6 @@ EN
 ```text
 Defiant Ochre Matte - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67186,9 +63472,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047187 · Added
@@ -67198,9 +63481,6 @@ EN
 ```text
 Defiant Ochre Matte - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67216,9 +63496,6 @@ The digital sequence of this nanocoating has not been bound, allowing for its un
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047189 · Added
@@ -67230,9 +63507,6 @@ Resolve Stratos Gloss
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047190 · Added
@@ -67242,9 +63516,6 @@ EN
 ```text
 Resolve Stratos Gloss - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67260,9 +63531,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047192 · Added
@@ -67272,9 +63540,6 @@ EN
 ```text
 Resolve Stratos Gloss - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67290,9 +63555,6 @@ The digital sequence of this nanocoating has not been bound, allowing for its un
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047194 · Added
@@ -67304,9 +63566,6 @@ Violent Surge
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047195 · Added
@@ -67316,9 +63575,6 @@ EN
 ```text
 Violent Surge Metallic - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67334,9 +63590,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047197 · Added
@@ -67346,9 +63599,6 @@ EN
 ```text
 Violent Surge Metallic - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67364,9 +63614,6 @@ The digital sequence of this metallic nanocoating has not been bound, allowing f
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047199 · Added
@@ -67378,9 +63625,6 @@ Resolve Stratos Matte
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047209 · Added
@@ -67390,9 +63634,6 @@ EN
 ```text
 Resolve Stratos Matte - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67408,9 +63649,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047211 · Added
@@ -67420,9 +63658,6 @@ EN
 ```text
 Resolve Stratos Matte - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67438,9 +63673,6 @@ The digital sequence of this nanocoating has not been bound, allowing for its un
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047213 · Added
@@ -67452,9 +63684,6 @@ Reclaimed Dawn Satin
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047214 · Added
@@ -67464,9 +63693,6 @@ EN
 ```text
 Reclaimed Dawn Satin - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67482,9 +63708,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047216 · Added
@@ -67494,9 +63717,6 @@ EN
 ```text
 Reclaimed Dawn Satin - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67512,9 +63732,6 @@ The digital sequence of this nanocoating has not been bound, allowing for its un
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047218 · Added
@@ -67526,9 +63743,6 @@ Ascendant Zenith Gloss
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047219 · Added
@@ -67538,9 +63752,6 @@ EN
 ```text
 Ascendant Zenith Gloss - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67556,9 +63767,6 @@ The digital sequence of this nanocoating has been bound, and though it can only 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047221 · Added
@@ -67568,9 +63776,6 @@ EN
 ```text
 Ascendant Zenith Gloss - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67586,9 +63791,6 @@ The digital sequence of this nanocoating has not been bound, allowing for its un
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047223 · Added
@@ -67600,9 +63802,6 @@ Enduring Core
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047225 · Added
@@ -67612,9 +63811,6 @@ EN
 ```text
 Enduring Core - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67630,9 +63826,6 @@ The digital sequence of this pattern license has been bound, and though it can o
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047228 · Added
@@ -67642,9 +63835,6 @@ EN
 ```text
 Enduring Core - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67660,9 +63850,6 @@ The digital sequence of this pattern license has not been bound, allowing for it
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047230 · Added
@@ -67672,9 +63859,6 @@ EN
 ```text
 Breach Control
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67693,9 +63877,6 @@ May be activated to grant a significant resistance to Breacher Pod damage for a 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047232 · Added
@@ -67707,9 +63888,6 @@ Rebel Crest
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047233 · Added
@@ -67719,9 +63897,6 @@ EN
 ```text
 Rebel Crest - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67737,9 +63912,6 @@ The digital sequence of this pattern license has been bound, and though it can o
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047235 · Added
@@ -67749,9 +63921,6 @@ EN
 ```text
 Rebel Crest - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67767,9 +63936,6 @@ The digital sequence of this pattern license has not been bound, allowing for it
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047237 · Added
@@ -67781,9 +63947,6 @@ Remnant Dominion
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047238 · Added
@@ -67793,9 +63956,6 @@ EN
 ```text
 Remnant Dominion - Limited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67811,9 +63971,6 @@ The digital sequence of this pattern license has been bound, and though it can o
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047240 · Added
@@ -67823,9 +63980,6 @@ EN
 ```text
 Remnant Dominion - Unlimited
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67841,9 +63995,6 @@ The digital sequence of this pattern license has not been bound, allowing for it
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047242 · Added
@@ -67853,9 +64004,6 @@ EN
 ```text
 Breacher Pod Damage Resistance
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67869,9 +64017,6 @@ Activated Breacher Pod Damage Received
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047249 · Added
@@ -67881,9 +64026,6 @@ EN
 ```text
 Breacher Pod Damage Received
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67897,9 +64039,6 @@ Breacher Pod Damage Control
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047275 · Added
@@ -67909,9 +64048,6 @@ EN
 ```text
 Imperial Raspite Trade-In Transport
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67927,9 +64063,6 @@ The freighter is willing to exchange surplus goods for additional Crystalline Ra
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047277 · Added
@@ -67939,9 +64072,6 @@ EN
 ```text
 State Polycrase Trade-In Transport
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67957,9 +64087,6 @@ The freighter is willing to exchange surplus goods for additional Crystalline Po
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047279 · Added
@@ -67969,9 +64096,6 @@ EN
 ```text
 Federation Moissanite Trade-In Transport
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -67987,9 +64111,6 @@ The freighter is willing to exchange surplus goods for additional Crystalline Mo
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047281 · Added
@@ -67999,9 +64120,6 @@ EN
 ```text
 Republic Kangite Trade-In Transport
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68017,9 +64135,6 @@ The freighter is willing to exchange surplus goods for additional Crystalline Ka
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047289 · Added
@@ -68029,9 +64144,6 @@ EN
 ```text
 Your passive sensors have detected coordinates to an uncharted site emerging into k-space. This asteroid belt radiates a distinctive energy signature reminiscent of those found within the Abyss.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68045,9 +64157,6 @@ Small Imperial Raspite Reserve
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047298 · Added
@@ -68057,9 +64166,6 @@ EN
 ```text
 Small Imperial Raspite Reserve
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68073,9 +64179,6 @@ Small State Polycrase Reserve
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047300 · Added
@@ -68085,9 +64188,6 @@ EN
 ```text
 Small State Polycrase Reserve
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68101,9 +64201,6 @@ Small Federal Moissanite Reserve
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047302 · Added
@@ -68113,9 +64210,6 @@ EN
 ```text
 Small Federal Moissanite Reserve
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68129,9 +64223,6 @@ Small Republic Kangite Reserve
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047304 · Added
@@ -68143,9 +64234,6 @@ Small Republic Kangite Reserve
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047305 · Added
@@ -68155,9 +64243,6 @@ EN
 ```text
 Sentry Rifter
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68173,9 +64258,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047307 · Added
@@ -68185,9 +64267,6 @@ EN
 ```text
 Inspector Slasher
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68203,9 +64282,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047309 · Added
@@ -68215,9 +64291,6 @@ EN
 ```text
 Inspector Firetail
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68233,9 +64306,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047311 · Added
@@ -68245,9 +64315,6 @@ EN
 ```text
 Sentry Corax
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68263,9 +64330,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047313 · Added
@@ -68275,9 +64339,6 @@ EN
 ```text
 Clandestine Corax
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68293,9 +64354,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047315 · Added
@@ -68305,9 +64363,6 @@ EN
 ```text
 Clandestine Cormorant Navy Issue
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68323,9 +64378,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047317 · Added
@@ -68335,9 +64387,6 @@ EN
 ```text
 Sentry Thorax
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68353,9 +64402,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047319 · Added
@@ -68365,9 +64411,6 @@ EN
 ```text
 Sheriff Celestis
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68383,9 +64426,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047321 · Added
@@ -68395,9 +64435,6 @@ EN
 ```text
 Sheriff Vexor Navy Issue
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68413,9 +64450,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047323 · Added
@@ -68425,9 +64459,6 @@ EN
 ```text
 Sentry Oracle
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68443,9 +64474,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047325 · Added
@@ -68455,9 +64483,6 @@ EN
 ```text
 Regulator Prophecy
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68473,9 +64498,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047327 · Added
@@ -68485,9 +64507,6 @@ EN
 ```text
 Regulator Harbinger Navy Issue
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68503,9 +64522,6 @@ This vessel has been assigned to a security team tasked with protecting AEGIS' s
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047329 · Added
@@ -68515,9 +64531,6 @@ EN
 ```text
 Deputy Director Maelstrom
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68531,9 +64544,6 @@ A Maelstrom under the command of a high-ranking officer within AEGIS’ secret p
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047331 · Added
@@ -68543,9 +64553,6 @@ EN
 ```text
 Deputy Director Rokh
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68559,9 +64566,6 @@ A Rokh under the command of a high-ranking officer within AEGIS’ secret projec
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047333 · Added
@@ -68571,9 +64575,6 @@ EN
 ```text
 Deputy Director Hyperion
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68587,9 +64588,6 @@ A Hyperion under the command of a high-ranking officer within AEGIS’ secret pr
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047335 · Added
@@ -68599,9 +64597,6 @@ EN
 ```text
 AEGIS Joint Operation Center
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68615,29 +64610,6 @@ Vanguard: Avalon
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1047337 · Added
-
-EN: *empty*
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1047338 · Added
-
-EN: *empty*
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047372 · Added
@@ -68647,9 +64619,6 @@ EN
 ```text
 Hull Damage Recieved
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68663,9 +64632,6 @@ Capacitor Recharge Rate
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047374 · Added
@@ -68677,9 +64643,6 @@ Simulation Effects
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047383 · Added
@@ -68689,9 +64652,6 @@ EN
 ```text
 Shapash Alliance Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68714,9 +64674,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047385 · Added
@@ -68726,9 +64683,6 @@ EN
 ```text
 Shapash Corporation Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68751,9 +64705,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047389 · Added
@@ -68763,9 +64714,6 @@ EN
 ```text
 Cybele Alliance Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68788,9 +64736,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047394 · Added
@@ -68800,9 +64745,6 @@ EN
 ```text
 AEGIS Joint Operation Center
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68816,9 +64758,6 @@ On the surface, AEGIS uses this military office to coordinate joint operations b
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047396 · Added
@@ -68828,9 +64767,6 @@ EN
 ```text
 Edencom Front Operation
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68844,9 +64780,6 @@ A Caldari industrial station used as a front by Edencom.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047398 · Added
@@ -68856,9 +64789,6 @@ EN
 ```text
 Edencom Front Operation
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68872,9 +64802,6 @@ A Gallente industrial station used as a front by Edencom.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047400 · Added
@@ -68884,9 +64811,6 @@ EN
 ```text
 Edencom Front Operation
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68900,9 +64824,6 @@ A Minmatar industrial station used as a front by Edencom.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047410 · Added
@@ -68912,9 +64833,6 @@ EN
 ```text
 Gallente Pilot
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68935,9 +64853,6 @@ An Expert System is a remote, restricted artificial intelligence providing you w
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047412 · Added
@@ -68947,9 +64862,6 @@ EN
 ```text
 Operation Avalon Combat Site Enemy Spawner (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68963,9 +64875,6 @@ Republic Kangite Trade-In Transport
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047420 · Added
@@ -68975,9 +64884,6 @@ EN
 ```text
 Imperial Raspite Trade-In Transport
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -68991,9 +64897,6 @@ State Polycrase Trade-In Transport
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047422 · Added
@@ -69003,9 +64906,6 @@ EN
 ```text
 Federation Moissanite Trade-In Transport
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69019,9 +64919,6 @@ Operation Avalon Boss Dungeon
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047444 · Added
@@ -69031,9 +64928,6 @@ EN
 ```text
 Federation Day Celebration Crate
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69047,9 +64941,6 @@ This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047446 · Added
@@ -69059,9 +64950,6 @@ EN
 ```text
 Federation Day Celebration Crate
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69075,9 +64963,6 @@ This crate contains 10 PLEX, Villore Viridescent Matte - Limited, Intaki Emerald
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047457 · Added
@@ -69087,9 +64972,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69103,9 +64985,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047459 · Added
@@ -69115,9 +64994,6 @@ EN
 ```text
 Talos Pride of the Federation SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69131,9 +65007,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047461 · Added
@@ -69143,9 +65016,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69159,9 +65029,6 @@ Hyperion Pride of the Federation SKIN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047463 · Added
@@ -69171,9 +65038,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69187,9 +65051,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047465 · Added
@@ -69199,9 +65060,6 @@ EN
 ```text
 Moros Pride of the Federation SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69215,9 +65073,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047467 · Added
@@ -69227,9 +65082,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69243,9 +65095,6 @@ Ninazu Pride of the Federation SKIN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047469 · Added
@@ -69255,9 +65104,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69271,9 +65117,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047471 · Added
@@ -69283,9 +65126,6 @@ EN
 ```text
 Keres Pride of the Federation SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69299,9 +65139,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047473 · Added
@@ -69311,9 +65148,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69327,9 +65161,6 @@ Arazu Pride of the Federation SKIN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047475 · Added
@@ -69339,9 +65170,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69355,9 +65183,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047477 · Added
@@ -69367,9 +65192,6 @@ EN
 ```text
 Kronos Pride of the Federation SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69383,9 +65205,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047479 · Added
@@ -69395,9 +65214,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69411,9 +65227,6 @@ Hecate Pride of the Federation SKIN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047481 · Added
@@ -69423,9 +65236,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69439,9 +65249,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047483 · Added
@@ -69451,9 +65258,6 @@ EN
 ```text
 Imicus Navy Issue Pride of the Federation SKIN
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69467,9 +65271,6 @@ A joint effort by Gallente ship manufacturers and other commercial entities, the
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047485 · Added
@@ -69479,9 +65280,6 @@ EN
 ```text
 A joint effort by Gallente ship manufacturers and other commercial entities, these SKINs were created to celebrate the long-overdue Gallente elections of YC128. Brands from all across the Federation have come together to encourage participation in the democratic process, irrespective of which candidate citizens support.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69495,9 +65293,6 @@ Maulus Pride of the Federation SKIN
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047489 · Added
@@ -69509,9 +65304,6 @@ AEGIS Security Platform
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047496 · Added
@@ -69521,9 +65313,6 @@ EN
 ```text
 Cybele Corporation Emblem
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69546,9 +65335,6 @@ WARNING: Emblems are auto-injected on purchases and cann
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047502 · Added
@@ -69558,9 +65344,6 @@ EN
 ```text
 Vanguard Avalon: Assignments
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69574,9 +65357,6 @@ Assignment Completed
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047504 · Added
@@ -69586,9 +65366,6 @@ EN
 ```text
 As a Vanguard, complete 5 assignments.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69602,9 +65379,6 @@ Vanguard Avalon: Item Trader
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047506 · Added
@@ -69614,9 +65388,6 @@ EN
 ```text
 Items Traded
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69630,9 +65401,6 @@ Receive 5 items from an Item Trader.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047508 · Added
@@ -69642,9 +65410,6 @@ EN
 ```text
 Vanguard Avalon: Mining
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69658,9 +65423,6 @@ Ore Mined (m3)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047510 · Added
@@ -69670,9 +65432,6 @@ EN
 ```text
 Mine 50,000 m3 of ore.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69686,9 +65445,6 @@ Vanguard Avalon: Site
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047512 · Added
@@ -69698,9 +65454,6 @@ EN
 ```text
 Sites Completes
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69714,9 +65467,6 @@ Complete 5 Combat sites.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047515 · Added
@@ -69726,9 +65476,6 @@ EN
 ```text
 Vanguard Avalon: Salvage
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69742,9 +65489,6 @@ Wrecks Salvaged
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047517 · Added
@@ -69754,9 +65498,6 @@ EN
 ```text
 Salvage 5 wrecks.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69770,9 +65511,6 @@ Vanguard Avalon: Hacking
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047519 · Added
@@ -69782,9 +65520,6 @@ EN
 ```text
 Items Hacked
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69798,9 +65533,6 @@ Hack 10 containers.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047536 · Added
@@ -69810,9 +65542,6 @@ EN
 ```text
 The first-ever fighter carrier constructed by the Caldari State, under the command of the legendary Admiral Tovil-Toba. Originally constructed as a water freighter, the Kairiola was refitted in response to the Gallente's bombardment of Caldari Prime.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69826,9 +65555,6 @@ Deputy Director Apocalypse
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047540 · Added
@@ -69838,9 +65564,6 @@ EN
 ```text
 An Apocalypse under the command of a high-ranking officer within AEGIS’ secret projects.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69854,9 +65577,6 @@ Imperial Defense Platforms
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047572 · Added
@@ -69866,9 +65586,6 @@ EN
 ```text
 Operation Avalon Combat Site Boss Spawner (DO NOT TRANSLATE)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69882,9 +65599,6 @@ Soaring Federation Background
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047582 · Added
@@ -69896,9 +65610,6 @@ This can be consumed when updating your portrait if it is in an accessible inven
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047587 · Added
@@ -69908,9 +65619,6 @@ EN
 ```text
 Director Thunderchild
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69926,9 +65634,6 @@ Destroying the Director will conclude the local Avalon Investigation.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047591 · Added
@@ -69938,9 +65643,6 @@ EN
 ```text
 From inside this center, AEGIS researchers administer tests to aid in the development of their mysterious project, “Nemesis”.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69954,9 +65656,6 @@ The wreck of a sentry gun that was used in an active fire test. Burn residue acr
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047593 · Added
@@ -69966,9 +65665,6 @@ EN
 ```text
 From this platform, AEGIS command is able to directly coordinate local security activities. The activities taking place under its purview are so secretive that even the wider EDENCOM organization lacks the security clearance level necessary to provide oversight, and a specialist task force directly under AEGIS control has been granted responsibility for combat operations.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -69982,9 +65678,6 @@ Operation Avalon Hidden Combat POI Boss Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047706 · Added
@@ -69994,9 +65687,6 @@ EN
 ```text
 A covert research outpost working on a project known only to the leading members of AEGIS command, codenamed “Nemesis”.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70010,9 +65700,6 @@ A vault containing resources used by the Nemesis research team in their clandest
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047708 · Added
@@ -70022,9 +65709,6 @@ EN
 ```text
 A vault containing resources needed for the maintenance of this site's surveillance equipment, along with the data that surveillance equipment has gathered.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70038,9 +65722,6 @@ Decoractions
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047721 · Added
@@ -70050,9 +65731,6 @@ EN
 ```text
 Titles
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70066,9 +65744,6 @@ Operation Avalon Big Boss Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047723 · Added
@@ -70078,9 +65753,6 @@ EN
 ```text
 Avalon Normal Salvaging Dungeon
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70094,9 +65766,6 @@ Operation Avalon Combat Site Large Enemy Spawner (DO NOT TRANSLATE)
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047751 · Added
@@ -70106,9 +65775,6 @@ EN
 ```text
 Poteque 'Prospector' Salvaging SV-906
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70124,9 +65790,6 @@ A neural Interface upgrade that boosts the pilot's exploration skills.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047755 · Added
@@ -70136,9 +65799,6 @@ EN
 ```text
 Poteque 'Prospector' Salvaging SV-906 Blueprint
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70152,9 +65812,6 @@ A military office coordinating joint operations. It is suspected of involvement 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047768 · Added
@@ -70166,9 +65823,6 @@ On the surface, AEGIS uses this military office to coordinate joint operations b
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047775 · Added
@@ -70178,9 +65832,6 @@ EN
 ```text
 Cavalry Clash Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70196,9 +65847,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047780 · Added
@@ -70208,9 +65856,6 @@ EN
 ```text
 Astrograph Clash Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70226,9 +65871,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047786 · Added
@@ -70238,9 +65880,6 @@ EN
 ```text
 SITREP Fleeting Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70256,9 +65895,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047788 · Added
@@ -70268,9 +65904,6 @@ EN
 ```text
 Generic Salvage Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70286,9 +65919,6 @@ With the proper equipment, something of value could be salvaged. ( copy )
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047790 · Added
@@ -70298,9 +65928,6 @@ EN
 ```text
 Wrecked Avalanche (Salvage)
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70314,9 +65941,6 @@ The remains of a destroyed ship. Perhaps with the proper equipment something of 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047792 · Added
@@ -70326,9 +65950,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70342,9 +65963,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047794 · Added
@@ -70354,9 +65972,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70370,9 +65985,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047796 · Added
@@ -70382,9 +65994,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70398,9 +66007,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047798 · Added
@@ -70410,9 +66016,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70426,9 +66029,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047800 · Added
@@ -70438,9 +66038,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70454,9 +66051,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047802 · Added
@@ -70466,9 +66060,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70482,9 +66073,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047804 · Added
@@ -70494,9 +66082,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70510,9 +66095,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047806 · Added
@@ -70522,9 +66104,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70538,9 +66117,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047808 · Added
@@ -70550,9 +66126,6 @@ EN
 ```text
 Avalon Investigations
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70566,9 +66139,6 @@ Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047810 · Added
@@ -70578,9 +66148,6 @@ EN
 ```text
 Coherence Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70596,9 +66163,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047814 · Added
@@ -70608,9 +66172,6 @@ EN
 ```text
 Upcycle Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70626,9 +66187,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047820 · Added
@@ -70638,9 +66196,6 @@ EN
 ```text
 Requisition Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70656,9 +66211,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047822 · Added
@@ -70668,9 +66220,6 @@ EN
 ```text
 Zero-In Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70686,9 +66235,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047824 · Added
@@ -70698,9 +66244,6 @@ EN
 ```text
 Soaring Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70716,9 +66259,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047826 · Added
@@ -70728,9 +66268,6 @@ EN
 ```text
 Hallowed Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70746,9 +66283,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047828 · Added
@@ -70758,9 +66292,6 @@ EN
 ```text
 Tenacious Volatile Booster
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70776,9 +66307,6 @@ This booster has been manufactured using volatile compounds and will expire on <
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047848 · Added
@@ -70788,9 +66316,6 @@ EN
 ```text
 AEGIS Battlecruiser Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70804,9 +66329,6 @@ The remains of a destroyed ship. Perhaps with the proper equipment something of 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047850 · Added
@@ -70816,9 +66338,6 @@ EN
 ```text
 AEGIS Battleship Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70832,9 +66351,6 @@ The remains of a destroyed ship. Perhaps with the proper equipment something of 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047852 · Added
@@ -70844,9 +66360,6 @@ EN
 ```text
 AEGIS Frigate Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70860,9 +66373,6 @@ The remains of a destroyed ship. Perhaps with the proper equipment something of 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047854 · Added
@@ -70872,9 +66382,6 @@ EN
 ```text
 AEGIS Cruiser Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70888,9 +66395,6 @@ The remains of a destroyed ship. Perhaps with the proper equipment something of 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047866 · Added
@@ -70900,19 +66404,6 @@ EN
 ```text
 Wrecked Roamer
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
-
-
-### MessageID: 1047867 · Added
-
-EN: *empty*
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70926,9 +66417,6 @@ AEGIS Destroyer Wreck
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047871 · Added
@@ -70940,9 +66428,6 @@ The remains of a destroyed ship. Perhaps with the proper equipment something of 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047874 · Added
@@ -70952,9 +66437,6 @@ EN
 ```text
 Lorharyth’s Modified Inertial Stabilizer
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70970,9 +66452,6 @@ Penalty: Using more than one type of this module or similar modules that affect 
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047884 · Added
@@ -70982,9 +66461,6 @@ EN
 ```text
 This crate contains an unknown SKIN from the Arkombine Arisen SKIN line.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -70998,9 +66474,6 @@ Arkombine Arisen SKIN Crate
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047886 · Added
@@ -71010,9 +66483,6 @@ EN
 ```text
 Arkombine Arisen SKIN Crate
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -71026,9 +66496,6 @@ This crate contains an unknown SKIN from the Arkombine Arisen SKIN line.
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047956 · Added
@@ -71038,9 +66505,6 @@ EN
 ```text
 Destroy the Director at local Nemesis Command and conclude this Avalon Investigation.
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -71054,9 +66518,6 @@ Nemesis Command Uncovered
 ```
 
 
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
-
-
 
 
 ### MessageID: 1047966 · Added
@@ -71066,9 +66527,6 @@ EN
 ```text
 AEGIS Squall Wreck
 ```
-
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
@@ -71081,8 +66539,6 @@ EN
 The remains of a destroyed ship. Perhaps with the proper equipment something of value could be salvaged from it.
 ```
 
-
-DE, ES, FR, JA, KO, RU, and ZH: *empty*
 
 
 
