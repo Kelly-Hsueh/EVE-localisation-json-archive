@@ -1,3 +1,3781 @@
+# Build 3444188
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 0 | 24 | 0 |
+| en | 49 | 98 | 0 |
+| es | 0 | 39 | 0 |
+| fr | 0 | 27 | 0 |
+| ja | 0 | 33 | 0 |
+| ko | 0 | 21 | 0 |
+| ru | 0 | 31 | 0 |
+| zh | 0 | 35 | 0 |
+
+## Details
+
+### MessageID: 61000 · Source Modified
+
+EN
+
+```diff
+- […]lanet, a new state had to be built from the scratch in very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living on this past achievement ever since. Though not very active any more in the wheeling and dealing of power politics it still holds some very valuable cards on its hand.
++ […]lanet, a new state had to be built from scratch in a very short time. Caldari Constructions was one of the companies that participated in that great effort and it has been living off this past achievement ever since. Though no longer very active in the wheeling and dealing of power politics, it still holds some very valuable cards in its hand.
+```
+
+
+
+
+### MessageID: 62430 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
++ […]material into the much valued boosters. Be warned that the Angels will not respo[…]
+```
+
+
+
+
+### MessageID: 62433 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
++ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
+```
+
+
+
+
+### MessageID: 62434 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
++ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
+```
+
+
+
+
+### MessageID: 62436 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
++ […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
+```
+
+
+
+
+### MessageID: 70885 · Source Modified
+
+EN
+
+```diff
+- Charit Rish's Baalgorn
++ Charit Rish's Bhaalgorn
+```
+
+
+
+
+### MessageID: 70886 · Source Modified
+
+EN
+
+```diff
+- Neyan Khahsel's Baalgorn
++ Neyan Khahsel's Bhaalgorn
+```
+
+
+
+
+### MessageID: 82056 · Source Modified
+
+EN
+
+```diff
+- A Baalgorn piloted by an agent.
++ A Bhaalgorn piloted by an agent.
+```
+
+
+
+
+### MessageID: 82057 · Source Modified
+
+EN
+
+```diff
+- A Baalgorn piloted by an agent.
++ A Bhaalgorn piloted by an agent.
+```
+
+
+
+
+### MessageID: 86887 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86888 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86889 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86890 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86891 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86892 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86893 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 86894 · Source Modified
+
+EN
+
+```diff
+- […]w areas, such as interstellar gas clouds within high security space.
++ […]w areas, such as interstellar gas clouds.
+```
+
+
+
+
+### MessageID: 87925 · Source Modified
+
+EN
+
+```diff
+- Skill and knowledge of Hydromagnetic Physics and its use in the development of advanced technology . 
++ Skill and knowledge of Hydromagnetic Physics and its use in the development of advanced technology. 
+  
+- Used primarily in the research of shield system.
++ Used primarily in the research of shield systems.
+  
+  Allows Hydromagnetic Physics research to be performed with the help of a research agent. 
+  
+  Needed for all research and manufacturing operations on related blueprints. 1% reduction in manufacturing time for all items requiring Hydromagnetic Physics per level.
+```
+
+
+
+
+### MessageID: 95664 · Source Modified
+
+EN
+
+```diff
+- <font color=E3170D size = 13>Welcome to Khodesa, the primary space-military training camp in Chanoun. All visitors are required to stay <b>clear</b> of the security outposts inside this co[…]
++ Welcome to Khodesa, the primary space-military training camp in Chanoun. All visitors are required to stay clear of the security outposts inside this co[…]
+```
+
+
+
+
+### MessageID: 95672 · Source Modified
+
+EN
+
+```diff
+- <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P>
++ <P>In the last millennia the emperor of the Amarr empire built this bastion, but it became a victim of neglect as the empire's attention was drawn elsewhere.</P><br>
+  <P>Recently, Lord Methros hired the Blood Raider Covenant to gain the upper hand in combating Lord Arachnan for supremacy in the region. As could be expected, he lost control of the pirates before long, and now they run their own operations from this old Amarrian bastion.</P>
+  
+```
+
+
+ES
+
+```diff
+  <P>En los últimos milenios, el emperador de Amarr construyó este baluarte, pero se convirtió en víctima de la negligencia, ya que la atención del Imperio se dirigió a otros lugares.</P>
+  
+  <P>Recientemente, Lord Methros contrató al Pacto de los Saqueadores Sanguinarios para ganar ventaja en la lucha contra Lord Arachnan por la supremacía en la región. Como era de esperar, no tardó en perder el control de los piratas, que ahora dirigen sus propias operaciones desde este viejo baluarte amarriano.</P>
+```
+
+
+FR
+
+```diff
+  <P>Au cours du dernier millénaire, l'empereur amarr construisit ce bastion, qui tomba en désuétude lorsque l'Empire s'en désintéressa.</P> <P>Récemment, le Seigneur Methros engagea la cabale blood raider afin de prendre le dessus sur le Seigneur Arachnan et obtenir ainsi la suprématie sur la région. Comme on pouvait s'y attendre, il perdit rapidement le contrôle des pirates et ce sont eux qui utilisent aujourd'hui le vieux bastion amarr comme base d'opérations.</P>
+  
+  				
+```
+
+
+JA
+
+```diff
+  <P>過去千年に渡り、アマー帝国の皇帝がこの要塞を建設したが、帝国の関心が他へ移るにつれて顧みられなくなった。</P>
+  
+  <P>ところが最近、ロードメルスローズがこのリージョンの覇権を巡りロードアーチャナンと争ったとき、優位に立とうとしてブラッドレイダーカバナントを雇ったのである。予想できたことではあるが、ロードメルスローズはその後間もなく海賊どもを抑えられなくなり、今では海賊たちはこの古いアマーの要塞を拠点に自分たちの作戦を実行している。</P>
+```
+
+
+KO
+
+```diff
+  <P>지난 세기 아마르 제국의 황제에 의해 지어진 요새입니다. 그러나 제국의 관심이 다른곳으로 쏠리게 되면서 요새는 무관심 속에서 방치되었습니다.</P><P>최근에는 귀족 사이의 분쟁을 틈타 해적들이 요새를 점거하여 기지로 사용하고 있습니다. 메쓰로스는 아라크난을 상대로 우위를 점하기 위해 블러드 레이더 커버넌트를 고용하여 이 지역으로 불러들였지만  오래지나지 않아 해적은 기대를 저버리지 않고 통제불가 상태가 되었습니다. 현재 해적들은 이곳의 아마르 요새를 자신들의 기지처럼 드나들며 활동하고 있습니다.
+  
+```
+
+
+RU
+
+```diff
+  <P>В прошлом тысячелетии император Amarr построил этот бастион, но он был заброшен, когда внимание Империи сосредоточилось на других задачах. </P>
+  <P>Недавно лорд Methros нанял Blood Raider Covenant для обретения превосходства в борьбе с лордом Arachnan за главенство в этом регионе. Как и следовало ожидать, он давно потерял контроль над пиратами, и теперь они проводят свои операции из этого старого бастиона Amarr.</P>
+```
+
+
+
+
+### MessageID: 95817 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 95818 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 95860 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 95863 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 96031 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Angels will not respo[…]
++ […]material into the much valued boosters. Be warned that the Angels will not respo[…]
+```
+
+
+
+
+### MessageID: 96032 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+
+
+### MessageID: 96033 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Guristas will not res[…]
++ […]material into the much valued boosters. Be warned that the Guristas will not res[…]
+```
+
+
+
+
+### MessageID: 96034 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Sansha will not respo[…]
++ […]material into the much valued boosters. Be warned that the Sansha will not respo[…]
+```
+
+
+
+
+### MessageID: 96035 · Source Modified
+
+EN
+
+```diff
+- […]material into the much valued boosters.  Be warned that the Serpentis will not re[…]
++ […]material into the much valued boosters. Be warned that the Serpentis will not re[…]
+```
+
+
+
+
+### MessageID: 96036 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+
+
+### MessageID: 96037 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+
+
+### MessageID: 96038 · Source Modified
+
+EN
+
+```diff
+- […]ose to the gas cloud harvest they seek.  Such facilities are used to refine and i[…]
++ […]ose to the gas cloud harvest they seek. Such facilities are used to refine and i[…]
+```
+
+
+
+
+### MessageID: 96434 · Source Modified
+
+EN
+
+```diff
+  Astrophysicists studying Sleeper sites have noted that some Sleeper structures are still operational – and by design, no less. Outposts run basic life support systems, engineering stations buzz with running motors, and stations glimmer with light, energy, and mundane activity. No known reason exists for this persistent operation, but a few clues emerge.
+- <br><br>
++ <br>
+  This cluster of thermoelectric converters is common around large solar bodies, supposedly for collecting radiation and storing energy for use throughout Sleeper colonies: a persistent generator for a dead race. Even to this day, this structure is operational, although how it distributes its energy and for what purpose is still unknown.
+```
+
+
+KO
+
+```diff
+- […]구조물은 작동중이지만 작동 원리와 목적에 대해서는 알려진 바가 없습니다.
++ […]구조물은 작동중이지만 작동 원리와 목적에 대해서는 알려진 바가 없습니다.
+```
+
+
+RU
+
+```diff
+  Исследующие посты Sleeper астрофизики заметили, что некоторые из структур Sleeper всё еще в исправном состоянии, и что характерно — намеренно. Основные системы жизнеобеспечения находятся в рабочем состоянии, инженерные станции гудят моторами, а станции мерцают от света, энергии и обычной деятельности. Причины этой непрерывной работы не известны, однако существует несколько намеков на разгадку.
+  <br><br>
+  Эти группы термоэлектрических преобразователей часто встречаются на орбите больших тел звездных систем и предположительно используются для накопления излучения и сохранения энергии, которая затем используется в колониях Sleeper; перед вами непрерывно работающие генераторы исчезнувшей расы. Даже сегодня эта структура находится в рабочем состоянии, хотя всё еще остается неизвестным, как она распределяет свою энергию и для каких целей.
+```
+
+
+
+
+### MessageID: 99473 · Source Modified
+
+EN
+
+```diff
+- Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P>
+- <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P>
++ Until recently this was a high-tech refinery, using biochemical fusion and superheated domes. Then a disaster struck, the cause of which is as yet undetermined.<P><br>
++ <span id=thought>Some recently added information pops up at the bottom of your screen.</span><P><br>
+  Surveillance mission 3498D-2K: Amazingly, just after the final blow-out of the station we caught some emergency transmissions from within it. Warp sequence was already initated so we could not investigate further, but we advise sending another recon as soon as possible.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+FR
+
+```diff
+  Il s'agissait, encore récemment, d'une raffinerie haute technologie équipée de dômes de surchauffe et d'équipements pour la fusion biochimique, mais un accident à l'origine inconnue s'est produit.<P>
+  <span id=thought>Certaines informations supplémentaires viennent de s'afficher dans la partie inférieure de votre écran.</span><P>
+  Mission de surveillance 3498D-2K : Bizarrement, nous avons capté des transmissions d'urgence semblant provenir de l'intérieur de la station juste après son explosion. Nous avions déjà initié la séquence de warp et n'avons pas pu en savoir plus, mais nous recommandons l'envoi d'une autre équipe de reconnaissance le plus vite possible.
+```
+
+
+RU
+
+```diff
+  До недавнего времени это был высокотехнологичный перерабатывающий завод, использующий технологии биохимического синтеза и сверхвысокого перегрева. Но случилась катастрофа, причины которой до сих пор не установлены.<P>
+  <span id=thought>В нижней части вашего экрана появилась недавно добавленная информация.</span><P>
+  Разведывательная группа 3498D-2K: Удивительно, но сразу после взрыва станции мы уловили исходящие изнутри сигналы бедствия. Квантовый переход уже начался, поэтому мы не могли продолжать расследование, но советуем отправить другой разведывательный патруль как можно скорее.
+```
+
+
+
+
+### MessageID: 100341 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX100
++ Zainou 'Snapshot' XL Torpedoes XT-603
+```
+
+
+
+
+### MessageID: 100342 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX1000
++ Zainou 'Snapshot' XL Torpedoes XT-605
+```
+
+
+
+
+### MessageID: 100343 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX10
++ Zainou 'Snapshot' XL Torpedoes XT-601
+```
+
+
+
+
+### MessageID: 104794 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX11
++ Zainou 'Snapshot' XL Torpedoes XT-602
+```
+
+
+
+
+### MessageID: 104795 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX110
++ Zainou 'Snapshot' XL Torpedoes XT-604
+```
+
+
+
+
+### MessageID: 104796 · Source Modified
+
+EN
+
+```diff
+- Hardwiring - Zainou 'Sharpshooter' ZMX1100
++ Zainou 'Snapshot' XL Torpedoes XT-606
+```
+
+
+
+
+### MessageID: 115123 · Source Modified
+
+EN
+
+```diff
+- […]roy the Outer Keep and steal the ancestreal armor of House Arachnan. Return with […]
++ […]roy the Outer Keep and steal the ancestral armor of House Arachnan. Return with […]
+```
+
+
+
+
+### MessageID: 115551 · Source Modified
+
+EN
+
+```diff
+- Find the transportship and destroy it, capture the workers[…]
++ Find the transport ship and destroy it, capture the workers[…]
+```
+
+
+
+
+### MessageID: 124485 · Source Modified
+
+EN
+
+```diff
+- Good work — you´re done. Report back to me. 
++ Good work — you're done. Report back to me. 
+```
+
+
+
+
+### MessageID: 130099 · Source Modified
+
+EN
+
+```diff
+- […] And take care of anyone else nearby, noone may escape.  I hope I have made mysel[…]
++ […] And take care of anyone else nearby, none may escape.  I hope I have made mysel[…]
+```
+
+
+
+
+### MessageID: 130104 · Source Modified
+
+EN
+
+```diff
+- […] And take care of anyone else nearby, noone may escape.  I hope I have made mysel[…]
++ […] And take care of anyone else nearby, none may escape.  I hope I have made mysel[…]
+```
+
+
+
+
+### MessageID: 136448 · Source Modified
+
+EN
+
+```diff
+- It easy to think of the Amarr Empire as a cold, cruel, hegemonic state endorsing terrible repression and subjugation. Anyone making such an argument would have a strong case. But of course life is never so simple: For every Amarrian "true believer" in the Empire, there is another who doubts not only his or her faith, but also the government that reifies religious doctrine. <br><br>
++ It is easy to think of the Amarr Empire as a cold, cruel, hegemonic state endorsing terrible repression and subjugation. Anyone making such an argument would have a strong case. But of course life is never so simple: For every Amarrian "true believer" in the Empire, there is another who doubts not only his or her faith, but also the government that reifies religious doctrine. <br><br>
+  That isn't to say that half of the Amarrians in the Empire are traitors and rebels — far from it. But to assume that every free Amarrian citizen condones slavery and colonization is to make a grievous error. There are many sympathizers to the Minmatar cause in Amarr. <br><br> 
+  One such group is the coalition of the "Secret Starway" (called by some the "Secret Stairway"), a loose network of liberal idealists who work actively, but always covertly, to assist escaped slaves slip out of the Empire's sovereignty. One of the chief ironies of this group is that most of its members are fervent believers in the State religion; they simply have alternate, "heretical" views of those passages from the Scriptures that tend to be used in support of slavery. 
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+JA
+
+```diff
+   
+  アマー帝国が、厳しい抑圧と服従に裏打ちされた冷酷で覇権主義的な国だと思うのは簡単だ。このような立論をする者にははっきりとした言い分があるかもしれない。しかし、もちろん人生はそんなに単純ではない。帝国内にはアマーの「信奉者」ばかりでなく、その信仰や信仰教義を体現する政府に疑念を抱く人間もいて、その数はほぼ同じぐらいだ。 <br><br>
+  これはなにも帝国内のアマー人の半数が反逆者であるというのではまったくない。だが、全てのアマーの自由市民が奴隷制と植民地制を許容していると考えるのは、ひどい誤りである。アマーには、ミンマターの大義に対する同調者が大勢いる。 <br><br> 
+  そのようなグループの一つが「シークレットスターウェイ」（「シークレットステアウェイ」と呼ぶ者もいる）同盟である。これはリベラルな理想主義者のゆるやかなネットワークである。彼らは帝国の支配下から脱出する奴隷を支援するために精力的に、ときには表舞台でも活動している。このグループの一番の皮肉は、メンバーの大半が国教の熱烈な信者であることだ。通常は奴隷制の裏付けとして使用される聖典の一節を、彼らは別の「異端」的解釈をしているにすぎない。
+```
+
+
+KO
+
+```diff
+- […] 노예제를 옹호하는 경전 구절에 "이단적인" 견해가 있을 뿐인 거예요. 
++ […] 노예제를 옹호하는 경전 구절에 "이단적인" 견해가 있을 뿐인 거예요. 
+```
+
+
+RU
+
+```diff
+   
+  Проще всего думать об Империи Amarr как о холодной, жестокой гегемонии, в которой практикуются ужасные репрессии и рабство. Каждый, кто так думает, будет во многом прав. На самом деле все не так просто: на каждого «истинного верующего» Amarr в Империи приходится другой, который сомневается не только в своей вере, но и в правительстве, проводящем в жизнь эту религиозную доктрину. <br><br>
+  Это не означает, что половина жителей Империи — предатели и повстанцы; совсем нет. Но утверждать, что каждый ее свободный гражданин одобряет рабство и колонизаторскую политику — значит совершать чудовищную ошибку. Многие в Империи симпатизируют народу Minmatar. <br><br> 
+  В их числе — коалиция «Тайный путь» (которая некоторыми именуется «Тайной лестницей»), представляющая собой слабо разветвленную сеть идеалистов либерального толка, активно — но всегда тайно — помогающих беглым рабам покинуть границы Империи. Ирония этого движения заключается в том, что большинство его представителей являются пылкими почитателями государственной религии; они просто имеют иной, «еретический» взгляд на те фрагменты Скрижалей, в которых трактуется суть рабства.
+```
+
+
+
+
+### MessageID: 141406 · Source Modified
+
+EN
+
+```diff
+- […]ent at the conflict. Your primary object is to discover the identity of their co[…]
++ […]ent at the conflict. Your primary objective is to discover the identity of their co[…]
+```
+
+
+
+
+### MessageID: 144480 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is Parriaval's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is Parriaval's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
+  Congratulations, you've recaptured Parriaval Mastes! Now return to {[character]agentID.name} for your reward. 
+```
+
+
+DE
+
+```diff
+- […]Rettungskapsel. Nähern Sie sich bis auf 1.500 Meter dem Frachtcontainer (Cargo Co[…]
++ […]Rettungskapsel. Nähern Sie sich bis auf 2.500 Meter dem Frachtcontainer (Cargo Co[…]
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Parriaval. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Parriaval. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
+  ¡Enhorabuena, has capturado de nuevo a Parriaval Mastes! Ahora regresa a {[character]agentID.name} para recibir tu retribución.
+```
+
+
+FR
+
+```diff
+- Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Parriaval. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Parriaval Mastes ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
++ Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Parriaval. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Parriaval Mastes ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
+  				
+```
+
+
+JA
+
+```diff
+   正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから艦船制御パネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは停止する。 <br><br>
+  それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはパリアヴァルの脱出カプセルだ。1,500メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテナの中身が表示される。捕虜をクリックし、カーゴホールドにドラッグしろ。 <br><br>
+  おめでとう、再びパリアヴァルマステスを捕らえたぞ!{[character]agentID.name}のところに戻って報酬を受け取れ。
+```
+
+
+RU
+
+```diff
+   
+- Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>Откройте меню «Закладки», щёлкните правой кнопкой мыши по данному заданию и выберите «Перейти в варп-режим (выход в 0 м от цели)». Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Parriaval. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек. <br><br>
++ Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>Откройте меню «Закладки», щёлкните правой кнопкой мыши по данному заданию и выберите «Перейти в варп-режим (выход в 0 м от цели)». Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Parriaval. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек. <br><br>
+  Поздравляем, вы схватили Parriaval Mastes! Теперь вернитесь к {[character]agentID.name} за вознаграждением.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是帕里亚瓦尔的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。 <br><br>
+  恭喜,你已经成功地抓住了帕里亚瓦尔·梅斯特斯！现在请回到{[character]agentID.name}去领取你的报酬吧。
+```
+
+
+
+
+### MessageID: 144482 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the spy's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold.
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the spy's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold.
+```
+
+
+DE
+
+```diff
+  Ihr Agent hat ein Lesezeichen in Ihrem NeoCom platziert, um Ihnen zu helfen, zum richtigen Ort zu kommen. Öffnen Sie "Personen und Orte" und gehen Sie zum Lesezeichen-Reiter. Klicken Sie dann rechts auf den Gegenstand des Missionsziels (in diesem Fall das Verzeichnis) und wählen Sie "Kurs setzen". Klicken Sie nun auf das Autopilot-Symbol in der Steuerkonsole Ihres Schiffes. Ihr Schiff wird sich nun auf die Reise zum entsprechenden Sternensystem begeben. Sobald Sie angekommen sind, wird sich der Autopilot ausschalten. <br><br>
+- Gehen Sie nun zurück zu Ihren Lesezeichen, klicken Sie mit rechts auf das Verzeichnis und wählen Sie "Zu Position warpen". Wenn Sie am Zielort des Flüchtlings angekommen sind, finden Sie ihn als rotes Ziel in Ihrer Übersicht. Greifen Sie an und zerstören Sie sein Schiff. Sobald das Schiff zerstört wurde, wird ein Frachtcontainer ausgestoßen. Das ist die Rettungskapsel des Spions. Nähern Sie sich bis auf 1.500 Meter an, klicken Sie mit der rechten Maustaste darauf und wählen Sie "Öffnen" (oder benutzen Sie das "Öffnen"-Symbol über Ihrer Übersicht). Nun wird sich ein Fenster öffnen, welches den Inhalt des Containers anzeigt. Klicken Sie mit der linken Maustaste auf den Gefangenen, halten sie die Maustaste gedrückt und ziehen Sie ihn in Ihren Frachtraum.
++ Gehen Sie nun zurück zu Ihren Lesezeichen, klicken Sie mit rechts auf das Verzeichnis und wählen Sie "Zu Position warpen". Wenn Sie am Zielort des Flüchtlings angekommen sind, finden Sie ihn als rotes Ziel in Ihrer Übersicht. Greifen Sie an und zerstören Sie sein Schiff. Sobald das Schiff zerstört wurde, wird ein Frachtcontainer ausgestoßen. Das ist die Rettungskapsel des Spions. Nähern Sie sich bis auf 2.500 Meter an, klicken Sie mit der rechten Maustaste darauf und wählen Sie "Öffnen" (oder benutzen Sie das "Öffnen"-Symbol über Ihrer Übersicht). Nun wird sich ein Fenster öffnen, welches den Inhalt des Containers anzeigt. Klicken Sie mit der linken Maustaste auf den Gefangenen, halten sie die Maustaste gedrückt und ziehen Sie ihn in Ihren Frachtraum.
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+  
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape del espía. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega.
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape del espía. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega.
+```
+
+
+FR
+
+```diff
+  Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>
+- Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez « Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de l'espion. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s’ouvre, affichant le contenu du conteneur : cliquez sur le prisonnier et faites-le glisser jusqu’à votre soute de chargement.
++ Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez « Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de l'espion. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s’ouvre, affichant le contenu du conteneur : cliquez sur le prisonnier et faites-le glisser jusqu’à votre soute de chargement.
+```
+
+
+RU
+
+```diff
+  Ваш агент снабдил вас координатами, чтобы помочь вам добраться до нужного места. Откройте меню «Адреса и координаты», перейдите на вкладку «Координаты», нажмите правой кнопкой мыши на цель задания и выберите команду «Задать место назначения». Теперь найдите панель управления корабля и нажмите на пиктограмму автопилота. Корабль сам доставит вас в заданную систему. По прибытии в систему автопилот отключится. <br><br>
+- Перейдите на вкладку «Координаты», нажмите правой кнопкой мыши на цель задания и выберите команду «Перейти в варп-режим». Как только вы окажетесь рядом с кораблём беглеца, вы увидите на панели обзора красный значок. Внесите его в список сопровождаемых целей и уничтожьте этот корабль. После того, как корабль будет уничтожен, от него отделится грузовой контейнер.  Это — спасательная капсула шпиона. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите команду «Открыть» (или используйте значок «Открыть», расположенный над обзорной панелью). После открытия окна с содержимым контейнера нажмите левой кнопкой мыши на пиктограмму с изображением пленника и, удерживая кнопку, сбросьте её в грузовой отсек вашего корабля.
++ Перейдите на вкладку «Координаты», нажмите правой кнопкой мыши на цель задания и выберите команду «Перейти в варп-режим». Как только вы окажетесь рядом с кораблём беглеца, вы увидите на панели обзора красный значок. Внесите его в список сопровождаемых целей и уничтожьте этот корабль. После того, как корабль будет уничтожен, от него отделится грузовой контейнер.  Это — спасательная капсула шпиона. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите команду «Открыть» (или используйте значок «Открыть», расположенный над обзорной панелью). После открытия окна с содержимым контейнера нажмите левой кнопкой мыши на пиктограмму с изображением пленника и, удерживая кнопку, сбросьте её в грузовой отсек вашего корабля.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是间谍的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。
+```
+
+
+
+
+### MessageID: 144483 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Varshan's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Varshan's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
+  Congratulations, you've recaptured Telos Varshan! Now return to {[character]agentID.name} for your reward. 
+```
+
+
+DE
+
+```diff
+- […]Rettungskapsel. Nähern Sie sich bis auf 1.500 Meter dem Frachtcontainer (Cargo Co[…]
++ […]Rettungskapsel. Nähern Sie sich bis auf 2.500 Meter dem Frachtcontainer (Cargo Co[…]
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Varshan. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Varshan. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
+  ¡Enhorabuena, has capturado de nuevo a Telos Varshan! Ahora regresa a {[character]agentID.name} para recibir tu retribución.
+```
+
+
+FR
+
+```diff
+- Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Varshan. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Telos Varshan ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
++ Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Varshan. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Telos Varshan ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
+  				
+```
+
+
+JA
+
+```diff
+  正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから船のコントロールパネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは停止する。 <br><br>
+  それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはヴァーシャンの脱出カプセルだ。1,500メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテナの中身が表示される。捕虜をクリックし、カーゴホールドにドラッグしろ。 <br><br>
+  おめでとう、再びテロスヴァーシャンを捕らえたぞ!{[character]agentID.name}のところに戻って報酬を受け取れ。
+```
+
+
+RU
+
+```diff
+   
+  Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>
+- Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Varshan. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
++ Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Varshan. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
+  Поздравляем! Вам удалось поймать беглеца; Осталось лишь вернуться к {[character]agentID.name} и получить заслуженное вознаграждение.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是瓦山的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。 <br><br>
+  恭喜，你已经成功地抓住了泰洛斯·瓦山！现在请回到{[character]agentID.name}去领取你的报酬吧。
+```
+
+
+
+
+### MessageID: 144484 · Source Modified
+
+EN
+
+```diff
+  Your agent has placed a bookmark in your NeoCom to help you get to the correct location. Open People and Places, go to Bookmarks, right-click on this mission objective, and choose "Set destination." Then go to your Ship Control Panel and click the Autopilot icon. Your ship will now travel to the appropriate system. Once you've arrived, your Autopilot will deactivate. <br><br>
+- Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Terhellen's escape capsule. Once you're within 1,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
++ Now go back to your Bookmarks, right-click again on this mission, and select "Warp to location." Once you've arrived at the fugitive's location, you'll see him as a red target icon on your Overview. Engage and destroy his ship. Once the fugitive's vessel has been destroyed, a cargo container will eject from it. This is the Terhellen's escape capsule. Once you're within 2,500 meters, right-click on the cargo container and select "Open" (or use the "Open" icon above your Overview). A window will now open displaying the contents: Click and hold the prisoner and drag him into your cargo hold. <br><br>
+  Congratulations, you've recaptured Milare Terhellen! Now return to {[character]agentID.name} for your reward. 
+```
+
+
+DE
+
+```diff
+- […]Rettungskapsel. Nähern Sie sich bis auf 1.500 Meter dem Frachtcontainer (Cargo Co[…]
++ […]Rettungskapsel. Nähern Sie sich bis auf 2.500 Meter dem Frachtcontainer (Cargo Co[…]
+```
+
+
+ES
+
+```diff
+  Tu agente ha colocado un marcador en tu Neocom para ayudarte a encontrar la ubicación correcta. Abre Personas y lugares, ve a Marcadores, haz clic derecho en el objetivo de esta misión y elige «Fijar destino». Luego ve al panel de control de tu nave y haz clic en el icono del piloto automático. La nave se desplazará al sistema apropiado. Cuando llegues, el piloto automático se desactivará.<br><br>
+- Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Terhellen. Sitúate a 1500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
++ Ahora vuelve a Marcadores, haz clic derecho de nuevo en esta misión y selecciona «Warpear al destino». Al llegar a la ubicación del fugitivo, lo verás representado por un icono de objetivo rojo en la vista general. Dale caza y destruye su nave. Cuando lo hayas hecho, expulsará un contenedor de carga. Es la cápsula de escape de Terhellen. Sitúate a 2500 metros, haz clic derecho en el contenedor de carga y selecciona «Abrir» (o usa el icono «Abrir» que hay encima de tu vista general). Entonces se abrirá una ventana que muestra el contenido: haz clic en el prisionero para agarrarlo y arrástralo hasta tu bodega. <br><br>
+  ¡Enhorabuena, has capturado de nuevo a Milare Terhellen! Ahora regresa a {[character]agentID.name} para recibir tu retribución.
+```
+
+
+FR
+
+```diff
+- Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Terhellen. Approchez-vous à une distance de moins de 1 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Milare Terhellen ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
++ Votre agent a placé une marque dans votre Neocom pour vous aider à vous rendre au bon endroit. Ouvrez le menu « Personnes et Lieux », accédez à l'onglet « Marques », faites un clic droit sur l'objectif de la mission et choisissez « Définir destination ». Puis accédez au panneau de contrôle de votre vaisseau et cliquez sur l'icône du pilotage automatique. Votre vaisseau va maintenant voyager vers le système approprié. Une fois que vous aurez atteint votre destination, le pilote automatique se désactivera. <br><br>Maintenant, revenez à vos marques, effectuez à nouveau un clic droit sur cette mission et sélectionnez «Warper vers l'emplacement ». Une fois que vous serez {[character]player.gender -> "arrivé", "arrivée"} à destination, la cible apparaitra sous la forme d'une croix rouge dans votre écran radar. Engagez le combat et détruisez son vaisseau. Une fois que vous aurez détruit le vaisseau du fugitif, un conteneur de fret sera éjecté. C'est la capsule de survie de Terhellen. Approchez-vous à une distance de moins de 2 500 mètres, faites un clic droit sur le conteneur de fret et sélectionnez « Ouvrir » (ou utilisez l'icône « Ouvrir » au-dessus de votre écran radar). Une fenêtre s'ouvre, affichant le contenu du conteneur. Cliquez sur le prisonnier et faites-le glisser jusqu'à votre soute de chargement. <br><br>Félicitations, vous venez de capturer Milare Terhellen ! Maintenant, retournez voir {[character]agentID.name} pour toucher votre récompense. 
+  				
+```
+
+
+JA
+
+```diff
+  正確な場所が分かるように、エージェントが君のNeoComにブックマークを入れておいた。［人物と位置］を開き、［ブックマーク］に移動し、このミッションの目標を右クリックして、［目的地に設定］を選択するんだ。それから艦船制御パネルで、［オートパイロット］アイコンをクリックしろ。これで船は正しいシステムに向けて移動する。到着すると、オートパイロットは解除される。 <br><br>
+  それから、［ブックマーク］に戻り、このミッションを再び右クリックして、［ワープ先］を選択するんだ。逃亡者がいる場所に着くと、逃亡者はオーバービュー上に赤いターゲットアイコンで示される。奴の船を攻撃して撃墜しろ。逃亡者の船が撃墜されると、カーゴコンテナがそこから射出される。これはターヘレンの脱出カプセルだ。1,500 メートル以内に近づいたら、カーゴコンテナを右クリックし、［開く］を選択しろ（またはオーバービューの上部にある［開く］アイコンを使用する）。ウィンドウが開き、コンテンツが表示される。捕虜をクリックしたままカーゴホールドにドラッグしろ。 <br><br>
+  おめでとう、再びミラーレターヘンを捕らえたぞ !{[character]agentID.name}のもとに戻れば報酬がもらえるぞ。
+```
+
+
+RU
+
+```diff
+   
+  Ваш агент сделал закладку в NeoCom, чтобы помочь вам добраться до нужного места. Откройте меню «Люди и места», перейдите на «Закладки», щёлкните правой кнопкой мыши по цели задания и выберите «Установить пункт назначения». Затем перейдите на панель управления своего корабля и щёлкните по значку автопилота. Теперь ваш корабль сам доставит вас в заданную систему. После прибытия автопилот отключится. <br><br>
+- Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Terhellen. Как только вы приблизитесь к нему на 1500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
++ Перейдите на «Закладки» (Bookmarks), щёлкните правой кнопкой мыши по данной миссии и выберите «Закрутка в место назначения» (Warp to location). Как только вы прибудете в местоположение регената, вы увидите его как красный значок цели в панели обзора. Захватите корабль в прицел и уничтожьте его. После того, как корабль беглеца будет уничтожен, от него отделится грузовой контейнер — это спасательная капсула Terhellen. Как только вы приблизитесь к нему на 2500 метров, щёлкните правой кнопкой мыши по грузовому контейнеру и выберите «Открыть» (или используйте значок «Открыть» в панели обзора). После открытия окна с содержимым контейнера, нажмите кнопкой мыши на иконке пленника и перетащите его в ваш грузовой отсек.  <br><br>
+  Поздравляем! Вам удалось поймать беглеца; Осталось лишь вернуться к {[character]agentID.name} и получить заслуженное вознаграждение.
+```
+
+
+ZH
+
+```diff
+  为了不让你走错路，你的代理人已经在你的控制边栏里放置了一个位标。打开“人物和地点”，进入“地点”标签，右键点击任务目标，并选择“设定目的地”。然后在你的舰船控制面板上点击“自动导航”按钮。你的船只会驶往相应的星系。一旦当你到达目的地，你的自动导航系统会停止。 <br><br>
+  现在返回“地点”标签，右键点击任务，并选择“跃迁至该处”。在你到达逃亡者所在的位置后，你会在你的总览上看见一个红色的目标物体。向它开火并消灭它。一旦逃亡者的船只被消灭，一个货柜集装箱就会被弹射出来。这就是特海伦的逃生舱。当你接近这个货柜集装箱到1500米之内时，右键点击这个货柜集装箱，并选择“打开”(或者使用总览里的“打开”按钮)。一个窗口会弹出并显示里面的物品：点击犯人并把他拖入你的货柜舱。 <br><br>
+  恭喜，你已经成功地抓住了米拉尔·特海伦！现在请回到{[character]agentID.name}去领取你的报酬吧。
+```
+
+
+
+
+### MessageID: 144566 · Source Modified
+
+EN
+
+```diff
+  It's time to act fast, {[character]player.name}.  We've just received reports that the Caldari Navy has established a forward outpost in the Otitoh system, in preparation for a strike at our complex in the area.  According to our information they have a sizable force there already, and are preparing to move in more people.  We're happy to tell you, however, that the EMP charge you placed at the Lai Dai station had its desired effect, severely damaging a substantial number of support vessels and equipment the Navy had meant for use in Otitoh.  Now is therefore the time to strike, while they are weakened and working to compensate for the loss of backup assets.
+  <br><br>
+- We need you to go in there and take out the Navy's Command and Control center in the area.  Any losses you can inflict on them while doing so will be most appreciated, but the primary target is the C&C center.  If that is taken down, the Navy will have to retreat from the area, and our plans for this constellation will be that much closer to fruition. Once the building is destroyed, report back to me and I will see to it that you are rewarded handsomely for your efforts.  The Guristas will not forget this one, {[character]player.name}.  Good luck.
++ We need you to go in there and take out the Navy's Command and Control center in the area.  Any losses you can inflict on them while doing so will be most appreciated, but the primary target is the Command and Control center.  If that is taken down, the Navy will have to retreat from the area, and our plans for this constellation will be that much closer to fruition. Once the building is destroyed, report back to me and I will see to it that you are rewarded handsomely for your efforts.  The Guristas will not forget this one, {[character]player.name}.  Good luck.
+```
+
+
+ES
+
+```diff
+  Hay que actuar rápido, {[character]player.name}. Nos han comunicado que la Armada Caldari ha montado un puesto avanzado en el sistema Otitoh y se están preparando para atacar un complejo nuestro en la zona. Según los informes, cuentan con un buen ejército y pretenden seguir reclutando. Eso sí, nos complace anunciar que la carga de EMP que colocaste en la estación de Lai Dai ha tenido el efecto deseado y ha dañado seriamente las naves de apoyo y el equipo que la Armada pensaba utilizar en Otitoh. Hay que aprovechar que están debilitados y centrados en recuperarse del golpe para lanzar un ataque fulminante.
+  <br><br>
+  Ve allí y elimina el centro de mando y control de la Armada en la zona. Agradeceremos cualquier pérdida que puedas provocarles, pero tu prioridad debe ser el centro de control y mando. Una vez derribado, la Armada se verá obligada a retirarse, y nosotros estaremos varios pasos más cerca de implementar nuestros planes en la constelación. Cuando hayas destruido la estructura, avísame y me encargaré de que tus esfuerzos se vean generosamente recompensados. Los Guristas no olvidarán esto, {[character]player.name}. Buena suerte.
+```
+
+
+JA
+
+```diff
+  ついに行動するときだ、{[character]player.name}。カルダリ海軍が、オティトーシステムに前線アウトポストを設置したとの報を受けた。エリアにある我々の複合施設への攻撃準備のためだ。報告によれば、既に大規模な軍勢が集結しており、更に増員を準備中とのことだ。一方でうれしい知らせだが、君がライダイステーションに設置したEMP弾が期待どおりの効果を発揮し、海軍がオティトーで使う予定だった支援船団や装備の多くに、かなりのダメージを与えた。奴らの力が弱まり、失った支援部隊を立て直している今こそ、攻撃のチャンスだ。
+  <br><br>
+  君にもオティトーに行ってもらい、海軍の指揮統制センターを破壊して来てもらいたい。任務途中で敵を攻撃するのは歓迎するが、あくまで最終目標は指揮統制センターだ。それが破壊されれば、海軍はそのエリアから撤退せざるを得なくなり、我々のこのコンステレーションでの計画も、実現に向けて大きく前進する。建物を破壊したら、すぐに戻って報告してくれ。君の功績が十二分に報われるよう取り計らおう。ガリスタスは君のことを決して忘れないだろう、{[character]player.name}。では、健闘を祈っているぞ。
+```
+
+
+RU
+
+```diff
+  Учтите, {[character]player.name}, времени на размышления у нас почти не осталось. Нам сообщили, что флот Caldari развернул в системе Otitoh передовую базу и готовится атаковать один из наших комплексов. Прибывший на базу флот никак нельзя назвать маленьким, но в ближайшие дни он будет усилен дополнительными кораблями. Впрочем, далеко не все из них доберутся до места назначения — электромагнитная бомба, установленная вами на станции Lai Dai, вывела часть подкреплений из строя. Выигранное время мы употребим с пользой — нанесем по врагу упреждающий удар.
+  <br><br>
+  Отправляйтесь в Otitoh и уничтожьте командный центр флота Caldari. Я не стану возражать, если попутно вы взорвете несколько вражеских кораблей, но все же постарайтесь сконцентрировать ваши усилия на командном центре. Флоту, лишенному штаба, придется свернуть все проводимые им операции — следовательно, ничто не будет угрожать реализации наших планов по захвату созвездия. Как только вы разберетесь с этим центром, возвращайтесь ко мне — я позабочусь о том, чтобы вас щедро вознаградили.  Gurista умеют ценить друзей. Удачи, {[character]player.name}!
+```
+
+
+
+
+### MessageID: 235487 · Source Modified
+
+EN
+
+```diff
+- […]ion objectives have not been completed.  Please check the mission's details via O[…]
++ […]ion objectives have not been completed. Please check the mission's details via O[…]
+```
+
+
+
+
+### MessageID: 236478 · Source Modified
+
+EN
+
+```diff
+- Despite numerous laws across the empires bolstering security regulations after the outbreak of <a href=showinfo:30//500019>Sansha</a> incursions in YC 113, mining colonies still provide a weak, target-rich environment for pirate factions....<br>Sansha raiding fleets are wiping out the colonists and using their own Slaves to crew the mining equipment until it fails, leaving the colony as an empty husk. Eliminating the <a href=showinfo:2847>True Sansha Foreman</a> is the most reliable way of shutting down the entire operation.<br><br>
++ Despite numerous laws across the empires bolstering security regulations after the outbreak of <a href=showinfo:30//500019>Sansha</a> incursions in YC 113, mining colonies still provide a weak, target-rich environment for pirate factions....<br>Sansha raiding fleets are wiping out the colonists and using their own Slaves to crew the mining equipment until it fails, leaving the colony as an empty husk.<br> Eliminating the <a href=showinfo:2847>True Sansha Foreman</a> is the most reliable way of shutting down the entire operation.<br>
+  <a href=showinfo:2//1000137>DED</a> Threat Assessment: 4 of 10
+```
+
+
+DE
+
+```diff
+  Trotz zahlreicher Gesetze im Imperium, die die Sicherheitsverordnungen nach dem Ausbruch der<a href=showinfo:30//500019>Sansha</a>-Incursions in YC 113 stärken sollten, sind Bergbaukolonien für Pirat-Factions immer noch eine schwache, mit vielen möglichen Zielen gespickte Umgebung...<br>Raubflotten der Sansha löschen die Kolonisten aus und benutzen ihre eigenen Sklaven, um die Bergbauausrüstung so lange zu nutzen, bis sie kaputt ist. Wenn sie die Kolonie verlassen, bleibt nichts weiter als eine leere Schale zurück. Die Beseitigung des <a href=showinfo:2847>True Sansha Foreman</a> ist der sicherste Weg, um die ganze Operation stillzulegen.<br><br>
+  <a href=showinfo:2//1000137>DED Bedrohungseinstufung: 4 von 10</a>
+```
+
+
+ES
+
+```diff
+  A pesar de las numerosas leyes en los imperios que refuerzan las normas de seguridad después del estallido de las incursiones <a href=showinfo:30//500019>sanshas</a> en 113 CY, las colonias mineras siguen proporcionando un entorno débil y lleno de objetivos para las facciones piratas...<br>Las flotas de asalto sanshas están aniquilando a los colonos y utilizando sus propios esclavos para tripular el equipo minero hasta que falla, dejando la colonia vacía. Eliminar al <a href=showinfo:2847>capataz de los Sanshas Verdaderos</a> es la forma más fiable de cerrar toda la operación.<br><br>
+  
+  Evaluación de amenaza del <a href=showinfo:2//1000137>DED</a>: 4 de 10
+```
+
+
+RU
+
+```diff
+  Несмотря на многочисленные законы империй, призванные обеспечить безопасность после массовых вторжений <a href=showinfo:30//500019>Sansha</a> в 113 году YC, добывающие колонии все же являются легкой целью для пиратских фракций...<br>Пиратский флот Sansha уничтожает колонистов и использует своих рабов для управления добывающим оборудованием, пока оно не выйдет из строя. После их налетов от колоний остаются только горы пустой породы. Самый надежный способ удачно завершить всю операцию — это уничтожить <a href=showinfo:2847>True Sansha Foreman</a>.<br><br>
+  Степень опасности по оценке <a href=showinfo:2//1000137>DED</a>: 4 из 10
+```
+
+
+ZH
+
+```diff
+  在YC113年<a href=showinfo:30//500019>萨沙</a>入侵爆发之后，帝国中关于安全的法规条例可谓不胜枚举，尽管如此，采矿殖民地仍然是海盗势力生存的理想环境……<br>萨沙突袭舰队杀光了殖民者，用自己的劳工来操作那些采矿设备，当萨沙人撤走后，整个殖民地就变得空空如也。关闭这整个流程最可靠的办法就是将<a href=showinfo:2847>萨沙爱国者 先锋</a>干掉。<br><br>
+  <a href=showinfo:2//1000137>DED</a>威胁评估：4/10
+```
+
+
+
+
+### MessageID: 286919 · Source Modified
+
+EN
+
+```diff
+- The Federation has long encouraged its citizens to stand up against oppression, plight, and wrongdoing. For those capsuleers who, at promise of no gain to themselves, stand brave against tyranny, the Gold Medallion of Liberty is a small acknowledgment of the Federation's gratitude.<br><br> 
++ The Federation has long encouraged its citizens to stand up against oppression, plight, and wrongdoing. For those capsuleers who, at promise of no gain to themselves, stand brave against tyranny, the Gold Medallion of Liberty is a small acknowledgment of the Federation's gratitude.<br> 
+  “It is our duty to spread justice. We cannot allow anyone to oppose that.” - President Arlette Villers
+```
+
+
+DE
+
+```diff
+  Die Föderation ermutigt ihre Bürger schon seit langem, gegen Unterdrückung, Elend und Verbrechen zu kämpfen. Für alle Kapselpiloten, die sich ohne das Versprechen auf persönlichen Vorteil mutig der Tyrannei in den Weg stellen, soll das Goldmedaillon der Freiheit einen kleinen Beweis für die Dankbarkeit der Föderation darstellen.<br><br> 
+  
+  "Es ist unsere Pflicht, für Gerechtigkeit zu sorgen. Wir dürfen nicht zulassen, dass sich dem jemand in den Weg stellt." - Präsident Arlette Villers
+```
+
+
+ES
+
+```diff
+  La Federación lleva mucho tiempo animando a sus ciudadanos a enfrentarse a la opresión, a situaciones de sufrimiento y a los actos indebidos. A aquellos capsulistas que luchan contra la tiranía sin beneficio propio alguno se les entrega el medallón de oro de la libertad, un pequeño reconocimiento de gratitud de la Federación.<br><br> 
+  
+  «Nuestro deber es difundir la justicia. No podemos permitir que nadie se oponga a eso». — Presidenta Arlette Villers.
+```
+
+
+RU
+
+```diff
+  Галлентская Федерация всегда побуждала граждан сопротивляться тирании, несправедливости и притеснениям. Пилоты, беззаветно и бескорыстно встающие на борьбу с тиранией, в знак признания заслуг перед Федерацией получают в награду Золотой Медальон Свободы.<br><br> 
+  
+  «Наше призвание — нести справедливость повсюду. Никто не вправе нам в этом мешать». — Президент Арлетт Вильерс
+```
+
+
+ZH
+
+```diff
+  联邦一直以来都鼓励它的子民们勇于挺身而出对镇压、困境和非道德行为说“不”。这枚金质自由奖章就是联邦政府对那些毫无利己私心，勇于奋起反抗暴政的克隆飞行员们表达的一份小小的谢意。<br><br> 
+  “散播正义是我们的责任，任何人都不能阻挡。”- 联邦总统阿列特·维勒尔斯
+```
+
+
+
+
+### MessageID: 286921 · Source Modified
+
+EN
+
+```diff
+- Freedom is the highest ideal of the Gallente Federation and the Platinum Medallion of Freedom is bestowed only on those selected by the President himself. To be awarded this prestigious honor requires the potential for extreme personal harm in order to advance the Federation's values throughout New Eden.<br><br> 
++ Freedom is the highest ideal of the Gallente Federation and the Platinum Medallion of Freedom is bestowed only on those selected by the President himself. To be awarded this prestigious honor requires the potential for extreme personal harm in order to advance the Federation's values throughout New Eden.<br> 
+  “If we do not stand up for peace, how can anyone else?” - President Aidonis Elabon
+```
+
+
+ES
+
+```diff
+- La libertad es el ideal supremo de la Federación Gallente y el Medallón de la Libertad de platino solo se otorga a aquellas personas seleccionadas por el mismísimo presidente. Recibir este prestigioso honor requiere correr el riesgo de sufrir un daño personal extremo a fin de fomentar los valores de la Federación por todo Nuevo Edén.<br><br> 
++ La libertad es el ideal supremo de la Federación Gallente y el Medallón de la Libertad de platino solo se otorga a aquellas personas seleccionadas por el mismísimo presidente. Recibir este prestigioso honor requiere correr el riesgo de sufrir un daño personal extremo a fin de fomentar los valores de la Federación por todo Nuevo Edén.<br> 
+  
+  «Si nosotros no defendemos la paz, ¿quién lo hará?» — Presidente Aidonis Elabon.
+```
+
+
+FR
+
+```diff
+- […]de la Fédération à travers New Eden.<br><br> « Si nous n'œuvrons pas pour la paix, q[…]
++ […]de la Fédération à travers New Eden.<br> « Si nous n'œuvrons pas pour la paix, q[…]
+```
+
+
+RU
+
+```diff
+  Свобода — высочайший идеал Галлентской Федерации; Платиновый медальон Свободы — орден, вручаемый по личному решению Президента Федерации. Эта почётная награда вручается только тем, кто со значительным риском для жизни и здоровья отстаивал идеалы Галлентской Федерации в Новом Эдеме.<br> 
+  
+  «Если не мы будем бороться за мир, то кто же?» — Президент Адонис Элабон
+```
+
+
+ZH
+
+```diff
+  自由是盖伦特联邦所追求的最高理念，而铂金自由奖章只授予那些由联邦总统亲自选中的人。只有那些抛弃了一切个人私利而致力于将联邦的价值观散播到宇宙各处的勇者们才会被授予这种至高荣誉。<br><br> 
+  “如果我们不为和平而战，又有谁人肯呢？”- 联邦总统阿多尼斯·埃拉本
+```
+
+
+
+
+### MessageID: 527247 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+
+
+### MessageID: 527250 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+
+
+### MessageID: 527253 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+
+
+### MessageID: 527256 · Source Modified
+
+EN
+
+```diff
+  Dubbed the “interdiction nullifier” by the Guristas, who suffered its first introduction on the battlefield, this subsystem integrates and improves the performance of interdiction nullifier modules.
+  
+- The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production of is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
++ The origins of the first “nullifier” designs are shrouded in mystery, but the subsystem's initial production is thought to have taken place soon after the wormhole openings, and well before the technology became widespread knowledge. Not long after the first Tengu were designed, the Caldari Navy intercepted emergency transmissions from Guristas fleets across Venal, Tenal and Vale of the Silent. All of the reports made mention of Loki-class vessels slipping past defensive deployments and into core Guristas territory despite all efforts to stop the ships or slow them down.  
+  
+  Following these reports, rumors spread that other groups began to discover and implement this extraordinary new technology, and yet of all the factions that leapt upon the opportunity, none were so eager or ruthless in their own race to capitalize as the independent capsuleer and pirate organizations that make the nullsec frontiers their home.
+```
+
+
+
+
+### MessageID: 564510 · Source Modified
+
+EN
+
+```diff
+  Structure has not consumed fuel for an extended period of time making it more vulnerable to attack.
+- In the event of structure destruction, no asset safety is provided. <color=red>All assets located in the structure will jettisoned directly into space.</color>
++ In the event of structure destruction, no asset safety is provided. <color=red>All assets located in the structure will be jettisoned directly into space.</color>
+```
+
+
+ES
+
+```diff
+  La estructura no ha consumido combustible en bastante tiempo, por lo que es más vulnerable a los ataques.
+  En caso de destrucción de la estructura, no se ofrece ninguna seguridad. <color=red>Todos sus bienes serán expulsados directamente al espacio.</color>
+```
+
+
+ZH
+
+```diff
+  建筑已在一段时间内没有消耗任何燃料，这使得它更容易被攻击。
+  
+  如果建筑被摧毁，则资产安全系统不会生效。<color=red>建筑中的所有物品将被直接弹射到太空中。</color>
+```
+
+
+
+
+### MessageID: 569365 · Source Modified
+
+EN
+
+```diff
+- This Abyssal Filament will pull a <b>Tech I or Tech II Cruiser</b> into a pocket of Abyssal Deadspace experiencing <b>cataclysmic local environmental destabilization</b>and clouded by a field of dark matter that will <b>reduce weapon ranges</b> but <b>enhance ship velocity</b>.
++ This Abyssal Filament will pull a <b>Tech I or Tech II Cruiser</b> into a pocket of Abyssal Deadspace experiencing <b>cataclysmic local environmental destabilization</b> and clouded by a field of dark matter that will <b>reduce weapon ranges</b> but <b>enhance ship velocity</b>.
+  
+  <b><color=yellow>Restrictions:</color></b>  Cannot be activated in 1.0 or 0.9 systems. Capsuleer will be flagged as suspect if activated in 0.8, 0.7 or 0.6 systems. 
+[…]
+```
+
+
+
+
+### MessageID: 571417 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  This station has been turned into a faci[…]
++ […]nds rather than destroy a useful asset. This station has been turned into a faci[…]
+```
+
+
+
+
+### MessageID: 571418 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  The clade that seized this station saw f[…]
++ […]nds rather than destroy a useful asset. The clade that seized this station saw f[…]
+```
+
+
+
+
+### MessageID: 571419 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  This station has been transformed into a[…]
++ […]nds rather than destroy a useful asset. This station has been transformed into a[…]
+```
+
+
+
+
+### MessageID: 571420 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  The controlling clade has turned this st[…]
++ […]nds rather than destroy a useful asset. The controlling clade has turned this st[…]
+```
+
+
+
+
+### MessageID: 571421 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  This station has been significantly tran[…]
++ […]nds rather than destroy a useful asset. This station has been significantly tran[…]
+```
+
+
+
+
+### MessageID: 571422 · Source Modified
+
+EN
+
+```diff
+- […]nds rather than destroy a useful asset.  Security within this station is extremel[…]
++ […]nds rather than destroy a useful asset. Security within this station is extremel[…]
+```
+
+
+
+
+### MessageID: 594611 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. 
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。 
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594617 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594619 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594621 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+  La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+  
+  Este material está comprimido y tiene una forma mucho más compacta que el original.
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594623 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594625 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+  La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+  
+  Este material está comprimido y tiene una forma mucho más compacta que el original.
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594627 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+[…]
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 594629 · Source Modified
+
+EN
+
+```diff
+- Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space.
++ Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds.
+  
+  This material is compressed and a much more compact form of the original material.
+```
+
+
+ES
+
+```diff
+  La micoserocina es un compuesto cristalino formado por presión en las profundidades de grandes asteroides y lunas. Los cristales suelen utilizarse en la fabricación de componentes electrónicos y armas, así como en la creación de potenciadores sintéticos legalizados. Solo se encuentra en grandes cantidades en algunas zonas, como en las nubes de gas interestelares en los espacios de seguridad alta.
+  
+  Este material está comprimido y tiene una forma mucho más compacta que el original.
+```
+
+
+JA
+
+```diff
+  ミコセロシンは大型のアステロイドや衛星の地中奥深くで強い圧力が加わることによって生成される結晶化合物である。この結晶は通常、エレクトロニクスや武器の製造、合法的なシンセブースターの改良版の作成などに使われる。大量のミコセロシンは、ハイセキュリティ宙域にある惑星間ガス雲などの限られたエリアでしか発見されない。
+  
+  この資源は圧縮されており、元々の状態よりはるかにコンパクトになっている。
+```
+
+
+ZH
+
+```diff
+[…]
+```
+
+
+
+
+### MessageID: 597630 · Source Modified
+
+EN
+
+```diff
+- Standup Flak Round Blueprint
++ Standup Flak Round I Blueprint
+```
+
+
+
+
+### MessageID: 1009122 · Translation Modified
+
+EN
+
+```text
+The crate contains an insured T1 fitted Destroyer from your starter Empire.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält einen versicherten T1-Zerstörer aus Ihrem Starter-Imperium. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ La caja incluye un destructor T1 equipado y asegurado de tu imperio inicial.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni vendu[…]
++ Cette caisse contient un destroyer T1 de votre empire de départ, déjà équipé et assuré. Cet objet ne peut pas être échangé ni vendu[…]
+```
+
+
+JA
+
+```diff
++ この箱には、初期選択した国家のT1駆逐艦（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 디스트로이어를 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный эсминец 1-го техноуровня, выпущенный вашей изначальной державой. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易
++ 箱子内包含一艘来自你起始帝国、已装配并投保的T1驱逐舰。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1009124 · Translation Modified
+
+EN
+
+```text
+The crate contains an exploration frigate for your starting Empire; it is fitted and insured.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält eine Erkundungsfregatte für Ihr Startimperium; sie ist ausgerüstet und versichert. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ El contenedor incluye una fragata de exploración de tu imperio inicial; está equipada y asegurada.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni ve[…]
++ La caisse contient une frégate d'exploration pour votre empire de départ ; elle est équipée et assurée. Cet objet ne peut pas être échangé ni ve[…]
+```
+
+
+JA
+
+```diff
++ この箱には、初期選択した国家の探索用フリゲート（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 소속 4대 국가의 피팅과 보험 절차가 완료된 초보자용 탐사 프리깃을 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный экспедиционный фрегат вашей изначальной державы. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易
++ 箱子内包含一艘适合你起始帝国的探险护卫舰；已装配并投保。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1009128 · Translation Modified
+
+EN
+
+```text
+The crate contains an insured T1 fitted Cruiser from your starting Empire.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält einen versicherten T1-Zerstörer aus Ihrem Starter-Imperium. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ La caja incluye un crucero T1 equipado y asegurado de tu imperio inicial.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni ve[…]
++ La caisse contient un croiseur T1 de votre empire de départ, déjà équipé et assuré. Cet objet ne peut pas être échangé ni ve[…]
+```
+
+
+JA
+
+```diff
++ この箱には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 소속 4대 국가의 피팅과 보험 절차가 완료된 테크 I 크루저를 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный крейсер 1-го техноуровня, выпущенный вашей изначальной державой. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易
++ 箱子内包含一艘来自你起始帝国、已装配并投保的T1巡洋舰。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1016288 · Source Modified
+
+EN
+
+```diff
+[…]
+  <br>
+  <br>
+- I’ve tracked down her old work crew and got you on their work roster. I need you to go uncover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
++ I’ve tracked down her old work crew and got you on their work roster. I need you to go under cover as an ORE miner, hack their mainframe, and steal any data on Sarnai.
+```
+
+
+
+
+### MessageID: 1034164 · Source Modified
+
+EN
+
+```diff
+- Damn, you did it! Outlasted those damn bots, now the Fabricator is a sitting duck. 
+- 
+- Blow it open, and claim the maximum output this machine could dump.
++ The Fabricator is depleted. Destroy it now to claim its maximum possible output.
+```
+
+
+
+
+### MessageID: 1034165 · Source Modified
+
+EN
+
+```diff
+- That Fabricator is producing escalating waves of Rogue Drones, but every time it resets, it dumps valuable assets. Stray too far, and it will deactivate. Don’t let that happen. 
++ This Fabricator is producing escalating waves of Rogue Drones. Between waves, it produces valuable assets. Leave its area and it will deactivate, and the assets will be lost.
+  
+- Survive its attacks as long as you can, then destroy it to claim its contents.
++ Survive as long as you are able, then destroy it to claim its contents.
+```
+
+
+
+
+### MessageID: 1034166 · Source Modified
+
+EN
+
+```diff
+- The battle here is over, but there are more Rampant Fabricators out there causing trouble. I hope we can count on you.
++ The situation here has been resolved. However, there are surely other Rampant Fabricators elsewhere should you wish to ‘push your luck’ against their deadly drone waves.
+```
+
+
+
+
+### MessageID: 1034167 · Source Modified
+
+EN
+
+```diff
+- The Fabricator has deactivated due to a lack of threat detection. 
++ This Fabricator has deactivated due to a lack of threat detection.
+```
+
+
+
+
+### MessageID: 1034168 · Source Modified
+
+EN
+
+```diff
+- That Fabricator is down for the count. Open it up to recover whatever was produced. 
++ That Fabricator has been destroyed. Loot it to recover the assets produced. 
+  
+- No shame in surviving, maybe next time you’ll be able to go the distance.
++ There is no shame in surviving, Captain. Perhaps next time, you will be able to go the distance.
+```
+
+
+
+
+### MessageID: 1034374 · Source Modified
+
+EN
+
+```diff
+- Fabricator Rogue Drones
++ Fabricator Rogue Drone Frigate
+```
+
+
+
+
+### MessageID: 1034393 · Source Modified
+
+EN
+
+```diff
+- Blackout Sweeper
++ Bewildering Sweeper
+```
+
+
+
+
+### MessageID: 1034394 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a destroyer and features ECM capabilities.
++ It is equivalent to a destroyer and features sensor dampening capabilities.
+```
+
+
+
+
+### MessageID: 1034481 · Source Modified
+
+EN
+
+```diff
+- Blackout Loom
++ Bewildering Lathe
+```
+
+
+
+
+### MessageID: 1034482 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a Tech 2 destroyer and features ECM capabilities.
++ It is equivalent to a Tech 2 destroyer and features sensor dampening capabilities.
+```
+
+
+
+
+### MessageID: 1034483 · Source Modified
+
+EN
+
+```diff
+- Alienator Manipulator
++ Scrutinizer Manipulator
+```
+
+
+
+
+### MessageID: 1034484 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a Tech 2 battlecruiser and features webifying capabilities.
++ It is equivalent to a Tech 2 battlecruiser and features target painting capabilities.
+```
+
+
+
+
+### MessageID: 1034589 · Source Modified
+
+EN
+
+```diff
+- Alienator Sorter
++ Scrutinizer Sorter
+```
+
+
+
+
+### MessageID: 1034590 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a battlecruiser and features webifying capabilities.
++ It is equivalent to a battlecruiser and features target painting capabilities.
+```
+
+
+
+
+### MessageID: 1035903 · Source Modified
+
+EN
+
+```diff
+- […]r detects a threat.<br><color=#7fffffff>Time to complete:</color> Approximately 40-60 minutes.<br><color=#7fffffff>Hostiles:</color> Rogue Drones<br><br>Fleet Recommendations:<br><color=#7fffffff>Size:</color> 1-5 pilots.<br><color=#7fffffff>Roles:</color> Enforcer<br><br>Restrictions:<br><color=#7fffffff>Ships:</color> The Fabricator will engage with any combat ship larger than a Corvette.<br><color=#7fffffff>Modules:</color> Smart Bombs and Micro Jump Field Generators are blocked while the Fabricator remains operational.
++ […]r detects a threat.<br><color=#7fffffff>Hostiles:</color> Rogue Drones<br><color=#7fffffff>Roles:</color> Enforcer<br><br>Restrictions:<br><color=#7fffffff>Ships:</color> The Fabricator will only remain stable while a combat ship larger than a Corvette is within its proximity.<br><color=#7fffffff>Modules:</color> Micro Jump Field Generators are blocked while the Fabricator remains operational. Smartbombs, Bombs, and Vorton Projectors deal significantly less damage to Rogue Drone hostiles, the Fabricator, and Nanoswarms.
+```
+
+
+
+
+### MessageID: 1035910 · Source Modified
+
+EN
+
+```diff
+  The Fabricator is vulnerable. Destroy it now to end the site and claim the contents, or risk the next wave of hostiles to see if you can earn even more.
++ 
++ Escalation points will determine the threat level of the upcoming wave.
++ 
++ <b>0-11 points:</b> Minimal threat. Strategic cruisers, non-Marauder battleships, or a group of battlecruisers are recommended at this tier.
++ 
++ <b>12-35 points:</b> Moderate threat. Marauders or multiple other battleships are recommended at this tier.
++ 
++ <b>36-71 points:</b> Severe threat. Multiple Marauders, or battleships supported by a Force Auxiliary ship, are recommended at this tier.
++ 
++ <b>72+ points:</b> Critical threat. Capital ships, or a large number of battleships, are recommended at this tier.
+```
+
+
+
+
+### MessageID: 1037596 · Source Modified
+
+EN
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+DE
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+ES
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+FR
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+JA
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+KO
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+RU
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+ZH
+
+```diff
+- Perimeter Awareness - Any (DO NOT TRANSLATE)
++ Perimeter Awareness (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1039147 · Source Modified
+
+EN
+
+```diff
+  <b>- Claim it, defend it.</b>
+  
+- There is
+- no CONCORD presence and no automatic law enforcement. 
++ There is no CONCORD presence and no automatic law enforcement. 
+  
+  Capsuleer alliances may claim sovereignty over much of this space, building their own infrastructure. It is up to capsuleers to protect their own space. Unrestricted combat and large-scale wars are a part of daily life.
+```
+
+
+DE
+
+```diff
+- <b>– Beanspruchen, verteidigen.</b> Es gibt
+- keine CONCORD-Präsenz und keine automatische Rechtsdurchsetzung. Kapselpiloten-Allianzen können die Souveränität über einen Großteil dieses Weltraums beanspruchen und ihre eigene Infrastruktur aufbauen. Es liegt an den Kapselpiloten, ihren eigenen Weltraum zu schützen. Unbeschränkter Kampf und groß angelegte Kriege sind Teil des täglichen Lebens.
++ <b>– Beanspruchen, verteidigen.</b> Es gibt keine CONCORD-Präsenz und keine automatische Rechtsdurchsetzung. Kapselpiloten-Allianzen können die Souveränität über einen Großteil dieses Weltraums beanspruchen und ihre eigene Infrastruktur aufbauen. Es liegt an den Kapselpiloten, ihren eigenen Weltraum zu schützen. Unbeschränkter Kampf und groß angelegte Kriege sind Teil des täglichen Lebens.
+```
+
+
+FR
+
+```diff
+- <b>- Prenez-le, défendez-le.</b> Aucune
+- présence de CONCORD ni intervention automatique des forces de l'ordre. Les alliances de capsuliers peuvent revendiquer la souveraineté sur une grande partie de cet espace, en construisant leurs propres infrastructures. Les capsuliers doivent assurer la protection de leur secteur de l'espace. Les combats sans restriction et les guerres à grande échelle font partie de la vie quotidienne.
++ <b>- Prenez-le, défendez-le.</b> Aucune présence de CONCORD ni intervention automatique des forces de l'ordre. Les alliances de capsuliers peuvent revendiquer la souveraineté sur une grande partie de cet espace, en construisant leurs propres infrastructures. Les capsuliers doivent assurer la protection de leur secteur de l'espace. Les combats sans restriction et les guerres à grande échelle font partie de la vie quotidienne.
+```
+
+
+RU
+
+```diff
+- <b>– Отбивай и властвуй.</b> Здесь нет
+- сил КОНКОРДа и автоматизированных средств безопасности. Почти всё это пространство может быть захвачено капсулёрскими альянсами и занято их инфраструктурой. За оборону суверенных территорий отвечают сами пилоты. В таких системах на постоянной основе происходят как отдельные сражения, так и полномасштабные войны.
++ <b>– Отбивай и властвуй.</b> Здесь нет сил КОНКОРДа и автоматизированных средств безопасности. Почти всё это пространство может быть захвачено капсулёрскими альянсами и занято их инфраструктурой. За оборону суверенных территорий отвечают сами пилоты. В таких системах на постоянной основе происходят как отдельные сражения, так и полномасштабные войны.
+```
+
+
+
+
+### MessageID: 1039994 · Source Modified
+
+EN
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+DE
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+ES
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+FR
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+JA
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+KO
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+RU
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+ZH
+
+```diff
+- Perimeter Awareness - Battleships (DO NOT TRANSLATE)
++ Perimeter Target List Validation (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042531 · Added
+
+EN
+
+```text
+<color="#FFFF454B">Activation Blocked:</color> Vorton Projectors
+```
+
+
+
+
+### MessageID: 1042584 · Added
+
+EN
+
+```text
+Missile Flight Time Bonus
+```
+
+
+
+
+### MessageID: 1042585 · Added
+
+EN
+
+```text
+Turret Optimal Range Bonus
+```
+
+
+
+
+### MessageID: 1042587 · Added
+
+EN
+
+```text
+Light Fighter Damage Bonus
+```
+
+
+
+
+### MessageID: 1042588 · Added
+
+EN
+
+```text
+Fighter Velocity Bonus
+```
+
+
+
+
+### MessageID: 1042589 · Added
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Light Fighter Damage (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042590 · Added
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Fighter Velocity (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042591 · Added
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Turret Optimal Range (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042592 · Added
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Missile Flight Time (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042601 · Added
+
+EN
+
+```text
+Light Squadron Nanoswarm
+```
+
+
+
+
+### MessageID: 1042602 · Added
+
+EN
+
+```text
+Rapid Squadron Nanoswarm
+```
+
+
+
+
+### MessageID: 1042603 · Added
+
+EN
+
+```text
+Focuser Nanoswarm
+```
+
+
+
+
+### MessageID: 1042604 · Added
+
+EN
+
+```text
+Prolonging Nanoswarm
+```
+
+
+
+
+### MessageID: 1044378 · Added
+
+EN
+
+```text
+Wreck of the Continental
+```
+
+
+
+
+### MessageID: 1044383 · Added
+
+EN
+
+```text
+Wreck of the Continental
+```
+
+
+
+
+### MessageID: 1044384 · Added
+
+EN
+
+```text
+Once, this was the perfect place to have a drink, relax, and take in the view. That was before it was attacked by those who wished to clear Pochven of all Upwell structures. 
+
+Over 700 billion ISK in ships were destroyed during this battle for the region's future, and now this wreck remains as a testament to that struggle.
+```
+
+
+
+
+### MessageID: 1044385 · Added
+
+EN
+
+```text
+Fabricator Rogue Drone Destroyer
+```
+
+
+
+
+### MessageID: 1044386 · Added
+
+EN
+
+```text
+Fabricator Rogue Drone Cruiser
+```
+
+
+
+
+### MessageID: 1044387 · Added
+
+EN
+
+```text
+Fabricator Rogue Drone Battlecruiser
+```
+
+
+
+
+### MessageID: 1044388 · Added
+
+EN
+
+```text
+Fabricator Rogue Drone Battleship
+```
+
+
+
+
+### MessageID: 1044389 · Added
+
+EN
+
+```text
+Rampancy
+```
+
+
+
+
+### MessageID: 1044390 · Added
+
+EN
+
+```text
+As Rampancy increases, so does the threat level of the upcoming wave.
+
+<b>0-11:</b> Low. Strategic cruisers, non-marauder battleships, or a group of battlecruisers are recommended.
+
+<b>12-35:</b> Moderate. Marauders or a group of battleships are recommended.
+
+<b>36-71:</b> Severe. A group of marauders or battleships supported by a Force Auxiliary ship is recommended.
+
+<b>72+:</b> Critical. Capital ships or a large group of subcaps are recommended.
+```
+
+
+
+
+### MessageID: 1044391 · Added
+
+EN
+
+```text
+Fabricator Data
+```
+
+
+
+
+### MessageID: 1045807 · Translation Modified
+
+EN
+
+```text
+This sealed containment crate holds a Tranquil Abyssal Filament of a random weather type that can transport you to an Abyssal Deadspace pocket.
+```
+
+
+ES
+
+```diff
+- […]ón sellada contiene un filamento abisal calmado de un tipo atmosférico aleatorio que p[…]
++ […]ón sellada contiene un filamento abisal sereno de un tipo atmosférico aleatorio que p[…]
+```
+
+
+FR
+
+```diff
+- […]nt scellée contient un filament abyssal paisible de type aléatoire, qui peut vous tran[…]
++ […]nt scellée contient un filament abyssal tranquille de type aléatoire, qui peut vous tran[…]
+```
+
+
+JA
+
+```diff
+- この密閉された箱には1個のカーム・アビサルフィラメントが入っている。フィラメントはランダムな天候を起こし、それを使ってアビサルデッドスペースポケットに行くことができる。
++ この密閉された箱にはランダムな天候を起こすトランキル・アビサルフィラメントが入っており、それを使ってアビサルデッドスペースポケットに行くことができる。
+```
+
+
+KO
+
+```diff
+- 어비설 데드스페이스 포켓으로 이동시켜주는 고요한 어비설 필라멘트(무작위 기상 속성)가 담겨 있는 격납용기입니다.
++ 고요한 어비설 필라멘트가 담긴 상자입니다. 필라멘트 활성화 시 무작위 환경 효과를 지닌 어비설 데드스페이스 포켓으로 이동할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- […]ы, ведущая в участок Мёртвой бездны со спокойной средой и случайными климатическими условиями..
++ […]ы, ведущая в участок Мёртвой бездны со стабильной средой и случайными климатическими условиями.
+```
+
+
+ZH
+
+```diff
+- 这个密封的箱子里面有一个随机类型的镇静深渊纤维，可以将你传送到一个深渊空间层中。
++ 该密封箱内含一枚随机天气类型的宁静深渊纤维，可以将你传送到一处深渊空间层中。
+```
+
+
+
+
+### MessageID: 1045814 · Translation Modified
+
+EN
+
+```text
+The crate contains an insured T1 fitted Cruiser from your starting Empire.
+```
+
+
+ES
+
+```diff
+- La caja incluye cruceros T1 equipados y asegurados de tu imperio inicial.
++ La caja incluye un crucero T1 equipado y asegurado de tu imperio inicial.
+```
+
+
+FR
+
+```diff
+- La caisse contient un croiseur T1 pour votre empire de départ, déjà équipé et […]
++ La caisse contient un croiseur T1 de votre empire de départ, déjà équipé et […]
+```
+
+
+JA
+
+```diff
+- […]には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれてる。
++ […]には、初期選択した国家のT1巡洋艦（モジュール装備済み・保険適用済み）が含まれている。
+```
+
+
+ZH
+
+```diff
+- 打开箱子后你可以获得一艘来自你起始帝国、已装配并投保的T1巡洋舰。
++ 箱子内包含一艘来自你起始帝国、已装配并投保的T1巡洋舰。
+```
+
+
+
+
+### MessageID: 1045832 · Translation Modified
+
+EN
+
+```text
+The crate contains a fitted Pioneer mining destroyer with insurance.
+This item cannot be traded or sold on the market.
+```
+
+
+DE
+
+```diff
+- Dieser Gegenstand kann nicht auf dem Markt gehandelt oder verkauft werden.
++ Die Kiste enthält einen ausgerüsteten Pionier-Bergbau-Zerstörer mit Versicherung. Dieser Gegenstand kann nicht gehandelt oder auf dem Markt verkauft werden.
+```
+
+
+ES
+
+```diff
++ La caja incluye un destructor minero Pioneer equipado y asegurado.
+  Este objeto no se puede comerciar ni vender en el mercado.
+```
+
+
+FR
+
+```diff
+- Cet objet ne peut pas être échangé ni ve[…]
++ La caisse contient un destroyer d'extraction minière Pioneer équipé et assuré. Cet objet ne peut pas être échangé ni ve[…]
+```
+
+
+JA
+
+```diff
++ この箱には、採掘用駆逐艦パイオニア（モジュール装備済み・保険適用済み）が含まれている。
+  このアイテムはマーケットでのトレードや売却を行えない。
+```
+
+
+KO
+
+```diff
+- 거래소에서 거래할 수 없는 아이템입니다.
++ 피팅과 보험 절차가 완료된 파이오니어 채굴 디스트로이어를 제공합니다.
++ 해당 아이템은 거래 및 거래소 판매가 불가능합니다.
+```
+
+
+RU
+
+```diff
+- Этот товар не подлежит обмену или продаже в торговой системе.
++ Этот контейнер содержит оснащённый и застрахованный буровой эсминец Pioneer. Этот предмет нельзя обменять или продать в торговой системе.
+```
+
+
+ZH
+
+```diff
+- 此物品无法在市场中交易。
++ 箱子内包含一艘已装配并投保的开拓者级采矿驱逐舰。此物品无法在市场中交易。
+```
+
+
+
+
+### MessageID: 1048031 · Translation Modified
+
+EN
+
+```text
+Minmatar Pilot
+```
+
+
+DE
+
+```diff
+- 
++ Minmatar Pilot
+```
+
+
+ES
+
+```diff
+- 
++ Piloto minmatariano
+```
+
+
+FR
+
+```diff
+- 
++ Pilote minmatar
+```
+
+
+JA
+
+```diff
+- 
++ ミンマターパイロット
+```
+
+
+KO
+
+```diff
+- 
++ 민마타 파일럿
+```
+
+
+RU
+
+```diff
+- 
++ Minmatar Pilot
+```
+
+
+ZH
+
+```diff
+- 
++ 米玛塔尔飞行员
+```
+
+
+
+
+### MessageID: 1048032 · Source Modified
+
+EN
+
+```diff
+  <font size="14"><b>Minmatar Pilot Expert System</b></font>
+  
+- This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Gallente-focused supporting skills.
++ This Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Minmatar-focused supporting skills.
+  
+  <b>The temporary skills provided by this Expert System last for seven days.</b>
+[…]
+```
+
+
+
+
+### MessageID: 1048203 · Translation Modified
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Liberación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Libération
+```
+
+
+JA
+
+```diff
+- 
++ 「解放記念日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 독립절 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Liberation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 独立日庆典箱
+```
+
+
+
+
+### MessageID: 1048204 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Blumen der Matar Satin – Limited, Dunkelheitgeschmiedetes Ferros metallisch – Limited, Säulen der Republik – Limited, Hintergrund „Befreites Matar“, festliche Raketenwerfer und ein „Flammen der Rebellion“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Esta caja incluye 10 PLEX, los componentes Flores de Matar satinado (limitado), Ferros forjados por la oscuridad metálico (limitado), Pilares de la República (limitado), el fondo Matar liberado, un lanzador festivalero y fuegos artificiales de las Llamas de la Rebelión.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Fleurs de Matar satiné - Limité, Ferros forgé dans l'obscurité métallique - Limité, Piliers de la République - Limité, arrière-plan Matar libérée, un lanceur de festival et un feu d'artifice Flammes de la Rébellion.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、フラワーオブマター・サテン（限定）、ダークネス・フォージド・フェロス・メタリック（限定）、ピラーズ・オブ・リパブリック（限定）、「リベレイテッド・マター」背景、フェスティバルランチャー、そして「反乱の炎」花火が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 마타르의 꽃 새틴 - 한정, 다크니스 포지드 페로스 금속성 - 한정, 공화국의 정신 - 한정, 해방된 마타르 배경, 축제용 런처 및 투쟁의 횃불 폭죽 1개가 들어 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Flowers of Matar Satin (однораз.), Darkness Forged Ferros Metallic (однораз.), Pillars of the Republic (однораз.), фон «Освобождённый Матар», модуль для праздничного запуска и фейерверк «Пламя восстания».
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、缎光级玛塔尔之花（限量版）、金属级黑色铸铁（限量版）、共和国支柱（限量版）、自由玛塔尔背景、节日发射器和一枚自由之焰烟火。
+```
+
+
+
+
+### MessageID: 1048212 · Translation Modified
+
+EN
+
+```text
+Liberation Day Celebration Crate
+```
+
+
+DE
+
+```diff
+- 
++ Federation Day Celebration Crate
+```
+
+
+ES
+
+```diff
+- 
++ Caja de celebración del Día de la Liberación
+```
+
+
+FR
+
+```diff
+- 
++ Caisse de célébration du Jour de la Libération
+```
+
+
+JA
+
+```diff
+- 
++ 「解放記念日」祝賀箱
+```
+
+
+KO
+
+```diff
+- 
++ 독립절 기념 상자
+```
+
+
+RU
+
+```diff
+- 
++ Liberation Day Celebration Crate
+```
+
+
+ZH
+
+```diff
+- 
++ 独立日庆典箱
+```
+
+
+
+
+### MessageID: 1048213 · Translation Modified
+
+EN
+
+```text
+This crate contains 10 PLEX, Flowers of Matar Satin - Limited, Darkness Forged Ferros Metallic - Limited, Pillars of the Republic - Limited, Liberated Matar Background, Festival Launcher and a Flames of the Rebellion Firework.
+```
+
+
+DE
+
+```diff
+- 
++ Diese Kiste enthält 10 PLEX, Blumen der Matar Satin – Limited, Dunkelheitgeschmiedetes Ferros metallisch – Limited, Säulen der Republik – Limited, Hintergrund „Befreites Matar“, festliche Raketenwerfer und ein „Flammen der Rebellion“-Feuerwerk.
+```
+
+
+ES
+
+```diff
+- 
++ Esta caja incluye 10 PLEX, los componentes Flores de Matar satinado (limitado), Ferros forjados por la oscuridad metálico (limitado), Pilares de la República (limitado), el fondo Matar liberado, un lanzador festivalero y fuegos artificiales de las Llamas de la Rebelión.
+```
+
+
+FR
+
+```diff
+- 
++ Cette caisse contient 10 PLEX, Fleurs de Matar satiné - Limité, Ferros forgé dans l'obscurité métallique - Limité, Piliers de la République - Limité, un arrière-plan Matar libérée, un lanceur de festival et un feu d'artifice Flammes de la Rébellion.
+```
+
+
+JA
+
+```diff
+- 
++ この箱には、10 PLEX、フラワーオブマター・サテン（限定）、ダークネス・フォージド・フェロス・メタリック（限定）、ピラーズ・オブ・リパブリック（限定）、「リベレイテッド・マター」背景、フェスティバルランチャー、そして「反乱の炎」花火が入っている。
+```
+
+
+KO
+
+```diff
+- 
++ 해당 상자에는 10 PLEX, 마타르의 꽃 새틴 - 한정, 다크니스 포지드 페로스 금속성 - 한정, 공화국의 정신 - 한정, 해방된 마타르 배경, 축제용 런처 및 투쟁의 횃불 폭죽 1개가 들어 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот контейнер содержит 10 плексов, декоративные элементы Flowers of Matar Satin (однораз.), Darkness Forged Ferros Metallic (однораз.), Pillars of the Republic (однораз.), фон «Освобождённый Матар», модуль для праздничного запуска и фейерверк «Пламя восстания».
+```
+
+
+ZH
+
+```diff
+- 
++ 该箱内含10个伊甸币、缎光级玛塔尔之花（限量版）、金属级黑色铸铁（限量版）、共和国支柱（限量版）、自由玛塔尔背景、节日发射器和一枚自由之焰烟火。
+```
+
+
+
+
+### MessageID: 1048291 · Translation Modified
+
+EN
+
+```text
+Liberated Matar Background
+```
+
+
+DE
+
+```diff
+- 
++ Liberated Matar Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Matar liberado
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Matar libérée
+```
+
+
+JA
+
+```diff
+- 
++ 背景「リベレイテッド・マター」
+```
+
+
+KO
+
+```diff
+- 
++ 해방된 마타르 배경
+```
+
+
+RU
+
+```diff
+- 
++ Liberated Matar Background
+```
+
+
+ZH
+
+```diff
+- 
++ 自由玛塔尔背景
+```
+
+
+
+
+### MessageID: 1048292 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048294 · Translation Modified
+
+EN
+
+```text
+Foundation Wisdom Background
+```
+
+
+DE
+
+```diff
+- 
++ Foundation Wisdom Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Sabiduría de la Fundación
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Fondation de la sagesse
+```
+
+
+JA
+
+```diff
+- 
++ 背景「建国の叡智」
+```
+
+
+KO
+
+```diff
+- 
++ 토대의 지혜 배경
+```
+
+
+RU
+
+```diff
+- 
++ Foundation Wisdom Background
+```
+
+
+ZH
+
+```diff
+- 
++ 基础智慧背景
+```
+
+
+
+
+### MessageID: 1048295 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048296 · Translation Modified
+
+EN
+
+```text
+Union Contemplation Background
+```
+
+
+DE
+
+```diff
+- 
++ Union Contemplation Background
+```
+
+
+ES
+
+```diff
+- 
++ Fondo Contemplación de la unión
+```
+
+
+FR
+
+```diff
+- 
++ Arrière-plan Contemplation de l'union
+```
+
+
+JA
+
+```diff
+- 
++ 背景「統合への思索」
+```
+
+
+KO
+
+```diff
+- 
++ 연맹의 사색 배경
+```
+
+
+RU
+
+```diff
+- 
++ Union Contemplation Background
+```
+
+
+ZH
+
+```diff
+- 
++ 联合沉思背景
+```
+
+
+
+
+### MessageID: 1048297 · Translation Modified
+
+EN
+
+```text
+This can be consumed when updating your portrait if it is in an accessible inventory location.
+```
+
+
+DE
+
+```diff
+- 
++ Dies kann beim Aktualisieren Ihres Porträts verbraucht werden, wenn es sich an einem zugänglichen Inventarort befindet.
+```
+
+
+ES
+
+```diff
+- 
++ Puede consumirse al actualizar tu retrato si se encuentra en una ubicación de inventario accesible.
+```
+
+
+FR
+
+```diff
+- 
++ Peut être consommé lors de la mise à jour de votre portrait s'il se trouve dans un emplacement d'inventaire accessible.
+```
+
+
+JA
+
+```diff
+- 
++ ポートレイト更新時、アクセス可能なインベントリにこのアイテムがあれば消費して適用できる。
+```
+
+
+KO
+
+```diff
+- 
++ 이용 가능한 인벤토리에 저장하면, 초상화를 업데이트할 때 사용할 수 있습니다.
+```
+
+
+RU
+
+```diff
+- 
++ Этот предмет используется при обновлении портрета, если находится в доступном хранилище.
+```
+
+
+ZH
+
+```diff
+- 
++ 若该物品位于可访问的仓库位置，则在更新肖像时可被消耗使用。
+```
+
+
+
+
+### MessageID: 1048565 · Added
+
+EN
+
+```text
+Amarr Pilot
+```
+
+
+
+
+### MessageID: 1048566 · Added
+
+EN
+
+```text
+<font size="14"><b>Amarr Pilot Expert System</b></font>
+
+This Expert System makes available skills enabling a capsuleer to fly Amarr Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Amarr-focused supporting skills.
+
+<b>The temporary skills provided by this Expert System last for seven days.</b>
+
+An Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active ren
+(truncated, 1,385 chars total)
+```
+
+
+
+
+### MessageID: 1048571 · Added
+
+EN
+
+```text
+Foundation Day Celebration Crate
+```
+
+
+
+
+### MessageID: 1048572 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
+```
+
+
+
+
+### MessageID: 1048577 · Added
+
+EN
+
+```text
+Foundation Day Celebration Crate
+```
+
+
+
+
+### MessageID: 1048578 · Added
+
+EN
+
+```text
+This crate contains 10 PLEX, Sand of the Chosen Gloss - Limited, Imperial Gold Metallic - Limited, Divine Arch - Limited, Foundation Wisdom Background, Festival Launcher and a Crown Imperial Firework.
+```
+
+
+
+
+### MessageID: 1048592 · Added
+
+EN
+
+```text
+Rogue Edge Construction Site
+```
+
+
+
+
+### MessageID: 1048593 · Added
+
+EN
+
+```text
+Under Construction Stargate
+```
+
+
+
+
+### MessageID: 1048594 · Added
+
+EN
+
+```text
+A product of the Operation Rogue Edge campaign, the construction of this Stargate depends on the progress being made by capsuleers to support the Federation’s bold research initiative.
+```
+
+
+
+
+### MessageID: 1048595 · Added
+
+EN
+
+```text
+Federation Construction Stargate Deployment Blocker
+```
+
+
+
+
+### MessageID: 1048596 · Added
+
+EN
+
+```text
+Rogue Edge Survey Site
+```
+
+
+
+
+### MessageID: 1048601 · Added
+
+EN
+
+```text
+State Corridor Construction Site
+```
+
+
+
+
+### MessageID: 1048602 · Added
+
+EN
+
+```text
+Under Construction Stargate
+```
+
+
+
+
+### MessageID: 1048603 · Added
+
+EN
+
+```text
+A product of the State Corridor Initiative campaign, the construction of this Stargate depends on the progress being made by capsuleers in securing Syndicate for the Caldari.
+```
+
+
+
+
+### MessageID: 1048604 · Added
+
+EN
+
+```text
+State Construction Stargate Deployment Blocker
+```
+
+
+
+
+### MessageID: 1048605 · Added
+
+EN
+
+```text
+State Corridor Construction Site
+```
+
+
+
+
+### MessageID: 1048609 · Added
+
+EN
+
+```text
+The State prohibits Upwell Structure deployment within 100,000km of the State Corridor Construction Site.
+```
+
+
+
+
+### MessageID: 1048610 · Added
+
+EN
+
+```text
+The Federation prohibits Upwell Structure deployment within 100,000km of Rogue Edge sites.
+```
+
+
+
+
+### MessageID: 1048802 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
+```
+
+
+
+
+### MessageID: 1048803 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
+```
+
+
+
+
+### MessageID: 1048804 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>
+```
+
+
+
+
+### MessageID: 1048805 · Added
+
+EN
+
+```text
+Can fit <a href=showinfo:58919>Interdiction Nullifier</a>
+```
+
+
+
+
+### MessageID: 1048895 · Added
+
+EN
+
+```text
+Fabricated 100 - Limited
+```
+
+
+
+
+### MessageID: 1048896 · Added
+
+EN
+
+```text
+A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+
+
+### MessageID: 1048898 · Added
+
+EN
+
+```text
+Fabricated 100
+```
+
+
+
+
+### MessageID: 1049034 · Added
+
+EN
+
+```text
+VDB_Cloud_Vortex_05a_DarkStorm_01a_Rotateable
+```
+
+
+
+
+---
+
 # Build 3433459
 
 ## Summary
