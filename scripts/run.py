@@ -10,8 +10,8 @@ Usage:
 Steps:
   1. fetch   – detect new builds, download changed pickles
   2. backup  – copy current latest JSON to a temp dir (for diffing)
-  3. merge   – export updated JSON files
-  4. changelog – generate changes_{build}.md and update cumulative changelog
+  3. merge   – export updated JSON files, then re-sync stale "en" fields
+  4. changelog – generate changes.md and update cumulative changelog
   5. release – create GitHub Release with assets
   6. commit  – handled externally by the GitHub Actions workflow
 """
@@ -84,6 +84,15 @@ def process_server(server: str,
     # If English changed, merge it first so other languages can reference it
     exported = merge_module.export_changed(server, changed)
     print(f"[{server}] Exported {len(exported)} JSON files.")
+
+    # Keep every language's embedded "en" field current, even for languages
+    # whose own pickle didn't change this run - otherwise English drift
+    # piles up silently until that language's pickle finally changes, and
+    # the whole backlog shows up as that language's build.
+    if "en" in exported:
+        if synced := merge_module.sync_stale_en_fields(server,
+                                                       set(exported.keys())):
+            print(f"[{server}] Synced stale 'en' fields for: {synced}")
 
     # ------------------------------------------------------------------
     # 4. Changelog

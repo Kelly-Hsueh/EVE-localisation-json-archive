@@ -297,13 +297,18 @@ def _render_langs_plain(langs_data: dict, value_key: str) -> list[str]:
 def _render_langs_modified(langs_data: dict) -> list[str]:
     """
     Translation blocks for src_mod / tr_mod.
-    Changed → smart diff.  Unchanged → plain block.  Empty → grouped notice.
+    Changed → smart diff.  Unchanged → plain block.  Never had content → grouped notice.
+
+    A translation going from real text to empty (deleted from that
+    language's pickle while the English source message still exists) is a
+    genuine removal and must render as a diff, not disappear into the
+    "*empty*" notice alongside languages that were never translated at all.
     """
     out: list[str] = []
     empty: list[str] = []
     for lang, ldata in sorted(langs_data.items()):
         tr_old, tr_new = ldata["tr_old"], ldata["tr_new"]
-        if not tr_new:
+        if not tr_old and not tr_new:
             empty.append(lang)
         elif tr_old == tr_new:
             out.append(fmt_block(lang, tr_new))

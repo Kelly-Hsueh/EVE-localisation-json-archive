@@ -140,6 +140,68 @@ def export_changed(server: str, changed: dict) -> dict[str, Path]:
 
 
 # ---------------------------------------------------------------------------
+# English drift sync
+# ---------------------------------------------------------------------------
+
+
+def sync_stale_en_fields(server: str, freshly_exported: set[str]) -> list[str]:
+    """
+    Re-sync the embedded "en" field of every latest/{server}/{lang}.json
+    file that was NOT freshly exported this run, using this run's en.json
+    as the source of truth.
+
+    Every per-language file carries a copy of the English text alongside
+    the translation. If a language's own pickle hash doesn't change for a
+    while, export_changed() never touches its file, so that embedded "en"
+    copy silently drifts out of date. When the language's pickle finally
+    does change, diffing against the stale snapshot makes weeks of
+    unrelated English edits look like they all landed in that one build.
+
+    Running this after every English change keeps every language file's
+    "en" field current, so future diffs stay small and accurate regardless
+    of how long a given language goes untouched.
+
+    MessageIDs no longer present in en.json are dropped from the language
+    file too, on the assumption that a retired English message means the
+    translation is retired along with it.
+
+    Returns the list of language codes whose file was rewritten.
+    """
+    server_lower = server.lower()
+    out_dir = LATEST_DIR / server_lower
+    en_path = out_dir / "en.json"
+    if not en_path.exists():
+        return []
+
+    fresh_en = json.loads(en_path.read_text(encoding="utf-8"))
+    touched = []
+
+    for json_path in sorted(out_dir.glob("*.json")):
+        lang = json_path.stem
+        if lang == "en" or lang in freshly_exported:
+            continue  # English itself, or already fresh from this run
+
+        data = json.loads(json_path.read_text(encoding="utf-8"))
+        changed = False
+        for msg_id in list(data.keys()):
+            if msg_id not in fresh_en:
+                del data[msg_id]
+                changed = True
+                continue
+            new_en = fresh_en[msg_id].get("en", "")
+            if data[msg_id].get("en", "") != new_en:
+                data[msg_id]["en"] = new_en
+                changed = True
+
+        if changed:
+            with open(json_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
+            touched.append(lang)
+
+    return touched
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
 
