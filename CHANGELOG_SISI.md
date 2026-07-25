@@ -1,3 +1,868 @@
+# Build 3440966
+
+## Summary
+
+| Language | Added | Modified | Removed |
+|----------|-------|----------|---------|
+| de | 0 | 3 | 0 |
+| en | 0 | 29 | 27 |
+| es | 0 | 4 | 0 |
+| fr | 0 | 2 | 0 |
+| ja | 0 | 2 | 0 |
+| ko | 0 | 2 | 0 |
+| ru | 0 | 3 | 0 |
+| zh | 0 | 4 | 0 |
+
+## Details
+
+### MessageID: 95664 · Source Modified
+
+EN
+
+```diff
+- […]noun. All visitors are required to stay clear of the security outposts inside this co[…]
++ […]noun. All visitors are required to stay <b>clear</b> of the security outposts inside this co[…]
+```
+
+
+
+
+### MessageID: 95817 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 95818 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 95860 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 95863 · Source Modified
+
+EN
+
+```diff
+- […]at one of the gates requires a passkey. Alternatively, it can be bypassed by med[…]
++ […]at one of the gates requires a passkey.  Alternatively, it can be bypassed by med[…]
+```
+
+
+
+
+### MessageID: 115551 · Source Modified
+
+EN
+
+```diff
+- Find the transport ship and destroy it, capture the workers[…]
++ Find the transportship and destroy it, capture the workers[…]
+```
+
+
+
+
+### MessageID: 130099 · Source Modified
+
+EN
+
+```diff
+- […] And take care of anyone else nearby, none may escape.  I hope I have made mysel[…]
++ […] And take care of anyone else nearby, noone may escape.  I hope I have made mysel[…]
+```
+
+
+
+
+### MessageID: 130104 · Source Modified
+
+EN
+
+```diff
+- […] And take care of anyone else nearby, none may escape.  I hope I have made mysel[…]
++ […] And take care of anyone else nearby, noone may escape.  I hope I have made mysel[…]
+```
+
+
+
+
+### MessageID: 141406 · Source Modified
+
+EN
+
+```diff
+- […]ent at the conflict. Your primary objective is to discover the identity of their co[…]
++ […]ent at the conflict. Your primary object is to discover the identity of their co[…]
+```
+
+
+
+
+### MessageID: 236478 · Source Modified
+
+EN
+
+```diff
+- Despite numerous laws across the empires bolstering security regulations after the outbreak of <a href=showinfo:30//500019>Sansha</a> incursions in YC 113, mining colonies still provide a weak, target-rich environment for pirate factions....<br>Sansha raiding fleets are wiping out the colonists and using their own Slaves to crew the mining equipment until it fails, leaving the colony as an empty husk.<br> Eliminating the <a href=showinfo:2847>True Sansha Foreman</a> is the most reliable way of shutting down the entire operation.<br>
++ Despite numerous laws across the empires bolstering security regulations after the outbreak of <a href=showinfo:30//500019>Sansha</a> incursions in YC 113, mining colonies still provide a weak, target-rich environment for pirate factions....<br>Sansha raiding fleets are wiping out the colonists and using their own Slaves to crew the mining equipment until it fails, leaving the colony as an empty husk. Eliminating the <a href=showinfo:2847>True Sansha Foreman</a> is the most reliable way of shutting down the entire operation.<br><br>
+  <a href=showinfo:2//1000137>DED</a> Threat Assessment: 4 of 10
+```
+
+
+DE
+
+```diff
+  Trotz zahlreicher Gesetze im Imperium, die die Sicherheitsverordnungen nach dem Ausbruch der<a href=showinfo:30//500019>Sansha</a>-Incursions in YC 113 stärken sollten, sind Bergbaukolonien für Pirat-Factions immer noch eine schwache, mit vielen möglichen Zielen gespickte Umgebung...<br>Raubflotten der Sansha löschen die Kolonisten aus und benutzen ihre eigenen Sklaven, um die Bergbauausrüstung so lange zu nutzen, bis sie kaputt ist. Wenn sie die Kolonie verlassen, bleibt nichts weiter als eine leere Schale zurück. Die Beseitigung des <a href=showinfo:2847>True Sansha Foreman</a> ist der sicherste Weg, um die ganze Operation stillzulegen.<br><br>
+  <a href=showinfo:2//1000137>DED Bedrohungseinstufung: 4 von 10</a>
+```
+
+
+ES
+
+```diff
+  A pesar de las numerosas leyes en los imperios que refuerzan las normas de seguridad después del estallido de las incursiones <a href=showinfo:30//500019>sanshas</a> en 113 CY, las colonias mineras siguen proporcionando un entorno débil y lleno de objetivos para las facciones piratas...<br>Las flotas de asalto sanshas están aniquilando a los colonos y utilizando sus propios esclavos para tripular el equipo minero hasta que falla, dejando la colonia vacía. Eliminar al <a href=showinfo:2847>capataz de los Sanshas Verdaderos</a> es la forma más fiable de cerrar toda la operación.<br><br>
+  
+  Evaluación de amenaza del <a href=showinfo:2//1000137>DED</a>: 4 de 10
+```
+
+
+RU
+
+```diff
+  Несмотря на многочисленные законы империй, призванные обеспечить безопасность после массовых вторжений <a href=showinfo:30//500019>Sansha</a> в 113 году YC, добывающие колонии все же являются легкой целью для пиратских фракций...<br>Пиратский флот Sansha уничтожает колонистов и использует своих рабов для управления добывающим оборудованием, пока оно не выйдет из строя. После их налетов от колоний остаются только горы пустой породы. Самый надежный способ удачно завершить всю операцию — это уничтожить <a href=showinfo:2847>True Sansha Foreman</a>.<br><br>
+  Степень опасности по оценке <a href=showinfo:2//1000137>DED</a>: 4 из 10
+```
+
+
+ZH
+
+```diff
+  在YC113年<a href=showinfo:30//500019>萨沙</a>入侵爆发之后，帝国中关于安全的法规条例可谓不胜枚举，尽管如此，采矿殖民地仍然是海盗势力生存的理想环境……<br>萨沙突袭舰队杀光了殖民者，用自己的劳工来操作那些采矿设备，当萨沙人撤走后，整个殖民地就变得空空如也。关闭这整个流程最可靠的办法就是将<a href=showinfo:2847>萨沙爱国者 先锋</a>干掉。<br><br>
+  <a href=showinfo:2//1000137>DED</a>威胁评估：4/10
+```
+
+
+
+
+### MessageID: 564510 · Source Modified
+
+EN
+
+```diff
+  Structure has not consumed fuel for an extended period of time making it more vulnerable to attack.
+- In the event of structure destruction, no asset safety is provided. <color=red>All assets located in the structure will be jettisoned directly into space.</color>
++ In the event of structure destruction, no asset safety is provided. <color=red>All assets located in the structure will jettisoned directly into space.</color>
+```
+
+
+ES
+
+```diff
+  La estructura no ha consumido combustible en bastante tiempo, por lo que es más vulnerable a los ataques.
+  En caso de destrucción de la estructura, no se ofrece ninguna seguridad. <color=red>Todos sus bienes serán expulsados directamente al espacio.</color>
+```
+
+
+ZH
+
+```diff
+  建筑已在一段时间内没有消耗任何燃料，这使得它更容易被攻击。
+  
+  如果建筑被摧毁，则资产安全系统不会生效。<color=red>建筑中的所有物品将被直接弹射到太空中。</color>
+```
+
+
+
+
+### MessageID: 1034164 · Source Modified
+
+EN
+
+```diff
+- The Fabricator is depleted. Destroy it now to claim its maximum possible output.
++ Damn, you did it! Outlasted those damn bots, now the Fabricator is a sitting duck. 
++ 
++ Blow it open, and claim the maximum output this machine could dump.
+```
+
+
+
+
+### MessageID: 1034165 · Source Modified
+
+EN
+
+```diff
+- This Fabricator is producing escalating waves of Rogue Drones. Between waves, it produces valuable assets. Leave its area and it will deactivate, and the assets will be lost.
++ That Fabricator is producing escalating waves of Rogue Drones, but every time it resets, it dumps valuable assets. Stray too far, and it will deactivate. Don’t let that happen. 
+  
+- Survive as long as you are able, then destroy it to claim its contents.
++ Survive its attacks as long as you can, then destroy it to claim its contents.
+```
+
+
+
+
+### MessageID: 1034166 · Source Modified
+
+EN
+
+```diff
+- The situation here has been resolved. However, there are surely other Rampant Fabricators elsewhere should you wish to ‘push your luck’ against their deadly drone waves.
++ The battle here is over, but there are more Rampant Fabricators out there causing trouble. I hope we can count on you.
+```
+
+
+
+
+### MessageID: 1034167 · Source Modified
+
+EN
+
+```diff
+- This Fabricator has deactivated due to a lack of threat detection.
++ The Fabricator has deactivated due to a lack of threat detection. 
+```
+
+
+
+
+### MessageID: 1034168 · Source Modified
+
+EN
+
+```diff
+- That Fabricator has been destroyed. Loot it to recover the assets produced. 
++ That Fabricator is down for the count. Open it up to recover whatever was produced. 
+  
+- There is no shame in surviving, Captain. Perhaps next time, you will be able to go the distance.
++ No shame in surviving, maybe next time you’ll be able to go the distance.
+```
+
+
+
+
+### MessageID: 1034374 · Source Modified
+
+EN
+
+```diff
+- Fabricator Rogue Drone Frigate
++ Fabricator Rogue Drones
+```
+
+
+
+
+### MessageID: 1034393 · Source Modified
+
+EN
+
+```diff
+- Bewildering Sweeper
++ Blackout Sweeper
+```
+
+
+
+
+### MessageID: 1034394 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a destroyer and features sensor dampening capabilities.
++ It is equivalent to a destroyer and features ECM capabilities.
+```
+
+
+
+
+### MessageID: 1034481 · Source Modified
+
+EN
+
+```diff
+- Bewildering Lathe
++ Blackout Loom
+```
+
+
+
+
+### MessageID: 1034482 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a Tech 2 destroyer and features sensor dampening capabilities.
++ It is equivalent to a Tech 2 destroyer and features ECM capabilities.
+```
+
+
+
+
+### MessageID: 1034483 · Source Modified
+
+EN
+
+```diff
+- Scrutinizer Manipulator
++ Alienator Manipulator
+```
+
+
+
+
+### MessageID: 1034484 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a Tech 2 battlecruiser and features target painting capabilities.
++ It is equivalent to a Tech 2 battlecruiser and features webifying capabilities.
+```
+
+
+
+
+### MessageID: 1034589 · Source Modified
+
+EN
+
+```diff
+- Scrutinizer Sorter
++ Alienator Sorter
+```
+
+
+
+
+### MessageID: 1034590 · Source Modified
+
+EN
+
+```diff
+  A Rogue Drone produced by a Rampant Fabricator.
+  
+- It is equivalent to a battlecruiser and features target painting capabilities.
++ It is equivalent to a battlecruiser and features webifying capabilities.
+```
+
+
+
+
+### MessageID: 1035903 · Source Modified
+
+EN
+
+```diff
+- […]r detects a threat.<br><color=#7fffffff>Hostiles:</color> Rogue Drones<br><color=#7fffffff>Roles:</color> Enforcer<br><br>Restrictions:<br><color=#7fffffff>Ships:</color> The Fabricator will only remain stable while a combat ship larger than a Corvette is within its proximity.<br><color=#7fffffff>Modules:</color> Micro Jump Field Generators are blocked while the Fabricator remains operational. Smartbombs, Bombs, and Vorton Projectors deal significantly less damage to Rogue Drone hostiles, the Fabricator, and Nanoswarms.
++ […]r detects a threat.<br><color=#7fffffff>Time to complete:</color> Approximately 40-60 minutes.<br><color=#7fffffff>Hostiles:</color> Rogue Drones<br><br>Fleet Recommendations:<br><color=#7fffffff>Size:</color> 1-5 pilots.<br><color=#7fffffff>Roles:</color> Enforcer<br><br>Restrictions:<br><color=#7fffffff>Ships:</color> The Fabricator will engage with any combat ship larger than a Corvette.<br><color=#7fffffff>Modules:</color> Smart Bombs and Micro Jump Field Generators are blocked while the Fabricator remains operational.
+```
+
+
+
+
+### MessageID: 1035910 · Source Modified
+
+EN
+
+```diff
+  The Fabricator is vulnerable. Destroy it now to end the site and claim the contents, or risk the next wave of hostiles to see if you can earn even more.
+- 
+- Escalation points will determine the threat level of the upcoming wave.
+- 
+- <b>0-11 points:</b> Minimal threat. Strategic cruisers, non-Marauder battleships, or a group of battlecruisers are recommended at this tier.
+- 
+- <b>12-35 points:</b> Moderate threat. Marauders or multiple other battleships are recommended at this tier.
+- 
+- <b>36-71 points:</b> Severe threat. Multiple Marauders, or battleships supported by a Force Auxiliary ship, are recommended at this tier.
+- 
+- <b>72+ points:</b> Critical threat. Capital ships, or a large number of battleships, are recommended at this tier.
+```
+
+
+
+
+### MessageID: 1037596 · Source Modified
+
+EN
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+DE
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+ES
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+FR
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+JA
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+KO
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+RU
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+ZH
+
+```diff
+- Perimeter Awareness (DO NOT TRANSLATE)
++ Perimeter Awareness - Any (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1039994 · Source Modified
+
+EN
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+DE
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+ES
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+FR
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+JA
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+KO
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+RU
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+ZH
+
+```diff
+- Perimeter Target List Validation (DO NOT TRANSLATE)
++ Perimeter Awareness - Battleships (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042531 · Removed
+
+EN
+
+```text
+<color="#FFFF454B">Activation Blocked:</color> Vorton Projectors
+```
+
+
+
+
+### MessageID: 1042584 · Removed
+
+EN
+
+```text
+Missile Flight Time Bonus
+```
+
+
+
+
+### MessageID: 1042585 · Removed
+
+EN
+
+```text
+Turret Optimal Range Bonus
+```
+
+
+
+
+### MessageID: 1042587 · Removed
+
+EN
+
+```text
+Light Fighter Damage Bonus
+```
+
+
+
+
+### MessageID: 1042588 · Removed
+
+EN
+
+```text
+Fighter Velocity Bonus
+```
+
+
+
+
+### MessageID: 1042589 · Removed
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Light Fighter Damage (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042590 · Removed
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Fighter Velocity (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042591 · Removed
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Turret Optimal Range (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042592 · Removed
+
+EN
+
+```text
+Horde Mode - Proximity Effect - Missile Flight Time (DO NOT TRANSLATE)
+```
+
+
+
+
+### MessageID: 1042601 · Removed
+
+EN
+
+```text
+Light Squadron Nanoswarm
+```
+
+
+
+
+### MessageID: 1042602 · Removed
+
+EN
+
+```text
+Rapid Squadron Nanoswarm
+```
+
+
+
+
+### MessageID: 1042603 · Removed
+
+EN
+
+```text
+Focuser Nanoswarm
+```
+
+
+
+
+### MessageID: 1042604 · Removed
+
+EN
+
+```text
+Prolonging Nanoswarm
+```
+
+
+
+
+### MessageID: 1044378 · Removed
+
+EN
+
+```text
+Wreck of the Continental
+```
+
+
+
+
+### MessageID: 1044383 · Removed
+
+EN
+
+```text
+Wreck of the Continental
+```
+
+
+
+
+### MessageID: 1044384 · Removed
+
+EN
+
+```text
+Once, this was the perfect place to have a drink, relax, and take in the view. That was before it was attacked by those who wished to clear Pochven of all Upwell structures. 
+
+Over 700 billion ISK in ships were destroyed during this battle for the region's future, and now this wreck remains as a testament to that struggle.
+```
+
+
+
+
+### MessageID: 1044385 · Removed
+
+EN
+
+```text
+Fabricator Rogue Drone Destroyer
+```
+
+
+
+
+### MessageID: 1044386 · Removed
+
+EN
+
+```text
+Fabricator Rogue Drone Cruiser
+```
+
+
+
+
+### MessageID: 1044387 · Removed
+
+EN
+
+```text
+Fabricator Rogue Drone Battlecruiser
+```
+
+
+
+
+### MessageID: 1044388 · Removed
+
+EN
+
+```text
+Fabricator Rogue Drone Battleship
+```
+
+
+
+
+### MessageID: 1044389 · Removed
+
+EN
+
+```text
+Rampancy
+```
+
+
+
+
+### MessageID: 1044390 · Removed
+
+EN
+
+```text
+As Rampancy increases, so does the threat level of the upcoming wave.
+
+<b>0-11:</b> Low. Strategic cruisers, non-marauder battleships, or a group of battlecruisers are recommended.
+
+<b>12-35:</b> Moderate. Marauders or a group of battleships are recommended.
+
+<b>36-71:</b> Severe. A group of marauders or battleships supported by a Force Auxiliary ship is recommended.
+
+<b>72+:</b> Critical. Capital ships or a large group of subcaps are recommended.
+```
+
+
+
+
+### MessageID: 1044391 · Removed
+
+EN
+
+```text
+Fabricator Data
+```
+
+
+
+
+### MessageID: 1048895 · Removed
+
+EN
+
+```text
+Fabricated 100 - Limited
+```
+
+
+
+
+### MessageID: 1048896 · Removed
+
+EN
+
+```text
+A license for the single use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.
+
+The digital sequence of this pattern license has been bound, and though it can only be used once no sequence binders are required when it is consumed in the sequencing of a SKIN license.
+```
+
+
+
+
+### MessageID: 1048898 · Removed
+
+EN
+
+```text
+Fabricated 100
+```
+
+
+
+
+### MessageID: 1049034 · Removed
+
+EN
+
+```text
+VDB_Cloud_Vortex_05a_DarkStorm_01a_Rotateable
+```
+
+
+
+
+---
+
 # Build 3444188
 
 ## Summary
