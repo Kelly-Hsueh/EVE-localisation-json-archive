@@ -17,6 +17,14 @@ state/
 ├── tq-hashes.json      ← last known localisation hashes for TQ
 └── sisi-hashes.json    ← last known localisation hashes for SISI
 
+changelog/
+├── tq/
+│   └── {year}-Q{quarter}/
+│       └── {build}.md  ← full summary + Details for that build
+└── sisi/
+    └── {year}-Q{quarter}/
+        └── {build}.md
+
 scripts/
 ├── fetch.py            ← download pickles from EVE CDN
 ├── merge.py            ← export merged language JSON files
@@ -29,9 +37,11 @@ scripts/
 .github/workflows/
 └── localisation.yml    ← daily GitHub Actions workflow
 
-CHANGELOG_TQ.md        ← cumulative TQ changelog
-CHANGELOG_SISI.md      ← cumulative SISI changelog
+CHANGELOG_TQ.md        ← TQ changelog index (one row per build, links into changelog/tq/)
+CHANGELOG_SISI.md      ← SISI changelog index (one row per build, links into changelog/sisi/)
 ```
+
+Each build's full changelog (Summary table + per-MessageID Details) is archived to its own file under `changelog/{server}/{year}-Q{quarter}/{build}.md`, bucketed by quarter so no single directory accumulates too many files. `CHANGELOG_TQ.md` / `CHANGELOG_SISI.md` stay a lightweight index — one table row per build linking out to the full file — so they load quickly regardless of how much history accumulates. Full details remain plain text under `changelog/`, so any editor's workspace search finds them directly.
 
 ## JSON Format
 

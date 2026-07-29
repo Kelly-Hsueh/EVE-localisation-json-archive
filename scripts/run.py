@@ -21,6 +21,7 @@ import os
 import shutil
 import sys
 import tempfile
+from datetime import date
 from pathlib import Path
 
 # Make sure sibling scripts are importable regardless of cwd
@@ -110,10 +111,13 @@ def process_server(server: str,
         changes_path.write_text(md, encoding="utf-8")
         print(f"[{server}] Wrote {changes_path}")
 
-        # Cumulative repo changelog also stores the full content
-        cumulative_path = ROOT / f"CHANGELOG_{server}.md"
-        changelog_module.prepend_to_changelog(cumulative_path, md)
-        print(f"[{server}] Updated {cumulative_path}")
+        # Full content is archived per-build under changelog/{server}/{quarter}/,
+        # and CHANGELOG_{server}.md gets a one-line index row pointing at it,
+        # rather than the full content being appended in place (see
+        # changelog.archive_build_changelog for rationale).
+        archive_path = changelog_module.archive_build_changelog(
+            server, build, date.today(), md, diffs)
+        print(f"[{server}] Archived changelog → {archive_path}")
     else:
         print(f"[{server}] No diff content generated (possibly first run).")
 

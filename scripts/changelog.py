@@ -7,6 +7,7 @@ together, with EN shown once.  Smart diff collapses unchanged lines with […].
 
 import difflib
 import json
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -393,15 +394,80 @@ def render_changes_md(build: int, diffs: dict) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Cumulative changelog
+# Per-build archive + cumulative index
 # ---------------------------------------------------------------------------
+#
+# Full per-build Details used to be prepended in full into CHANGELOG_{SERVER}.md.
+# That file grows without bound (a single large-diff build, e.g. a batch
+# retranslation, can add megabytes in one commit) and GitHub eventually
+# refuses to render it in the web UI. Instead, each build's full content is
+# written to its own file under changelog/{server}/{year}-Q{quarter}/{build}.md
+# (quarterly buckets keep any one directory from accumulating too many
+# files), and CHANGELOG_{SERVER}.md becomes a thin index: one table row per
+# build linking out to the full file. The index stays fast to load no
+# matter how much history accumulates; full details remain fully text-
+# searchable in-repo via any editor's workspace search across the
+# changelog/ tree.
+
+CHANGELOG_DIR = ROOT / "changelog"
+
+_INDEX_SEP = "|------|-------|-------|----------|---------|\n"
 
 
-def prepend_to_changelog(changelog_path: Path, new_section: str) -> None:
-    existing = changelog_path.read_text(
-        encoding="utf-8") if changelog_path.exists() else ""
-    sep = "\n---\n\n" if existing else ""
-    changelog_path.write_text(new_section + sep + existing, encoding="utf-8")
+def _quarter_bucket(d: date) -> str:
+    quarter = (d.month - 1) // 3 + 1
+    return f"{d.year}-Q{quarter}"
+
+
+def _index_header(server_lower: str) -> str:
+    return ("# Changelog Index\n\n"
+            f"Full per-build details live under `changelog/{server_lower}/`. "
+            "This file is a lightweight index — open the linked file for "
+            "the complete diff of a given build.\n\n"
+            "| Date | Build | Added | Modified | Removed |\n" + _INDEX_SEP)
+
+
+def _prepend_index_row(index_path: Path, server_lower: str, row: str) -> None:
+    existing = index_path.read_text(
+        encoding="utf-8") if index_path.exists() else ""
+    if _INDEX_SEP in existing:
+        head, _, body = existing.partition(_INDEX_SEP)
+        new_content = head + _INDEX_SEP + row + body
+    else:
+        # No table found yet (new file, or unexpected format) - start fresh.
+        new_content = _index_header(server_lower) + row
+    index_path.write_text(new_content, encoding="utf-8")
+
+
+def archive_build_changelog(server: str, build: int, build_date: date,
+                            md: str, diffs: dict) -> Path:
+    """
+    Write *md* (summary + full Details for this build) to
+    changelog/{server}/{year}-Qn}/{build}.md, then prepend a one-line
+    summary row to the CHANGELOG_{SERVER}.md index pointing at it.
+
+    Returns the path of the archived per-build file.
+    """
+    server_lower = server.lower()
+    archive_dir = CHANGELOG_DIR / server_lower / _quarter_bucket(build_date)
+    archive_dir.mkdir(parents=True, exist_ok=True)
+    archive_path = archive_dir / f"{build}.md"
+    archive_path.write_text(md, encoding="utf-8")
+
+    per_msg = pivot_diffs(diffs)
+    added = sum(1 for m in per_msg.values() if m["primary"] == "added")
+    removed = sum(1 for m in per_msg.values() if m["primary"] == "removed")
+    modified = sum(1 for m in per_msg.values()
+                   if m["primary"] in ("src_mod", "tr_mod"))
+
+    rel_path = archive_path.relative_to(ROOT).as_posix()
+    row = (f"| {build_date.isoformat()} | [{build}]({rel_path}) "
+           f"| {added} | {modified} | {removed} |\n")
+
+    index_path = ROOT / f"CHANGELOG_{server.upper()}.md"
+    _prepend_index_row(index_path, server_lower, row)
+
+    return archive_path
 
 
 # ---------------------------------------------------------------------------
@@ -472,14 +538,17 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    summary, md, _ = generate_changelog(args.server.upper(),
-                                        args.build,
-                                        args.langs,
-                                        old_json_dir=args.old_dir)
+    summary, md, diffs = generate_changelog(args.server.upper(),
+                                            args.build,
+                                            args.langs,
+                                            old_json_dir=args.old_dir)
     if md:
         out_path = args.output or Path(f"changes_{args.build}.md")
         out_path.write_text(md, encoding="utf-8")
         print(f"Wrote {out_path}")
-        prepend_to_changelog(ROOT / f"CHANGELOG_{args.server.upper()}.md", md)
+        archive_path = archive_build_changelog(args.server.upper(),
+                                               args.build, date.today(), md,
+                                               diffs)
+        print(f"Archived → {archive_path}")
     else:
         print("No changes detected.")
