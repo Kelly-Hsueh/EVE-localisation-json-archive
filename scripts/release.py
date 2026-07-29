@@ -218,7 +218,9 @@ if __name__ == "__main__":
     parser.add_argument("server", choices=["TQ", "SISI", "tq", "sisi"])
     parser.add_argument("build", type=int)
     parser.add_argument("langs", nargs="+", help="Changed language codes")
-    parser.add_argument("--changes", type=Path, help="Path to changes_{build}.md")
+    parser.add_argument("--changes",
+                        type=Path,
+                        help="Path to changes_{build}.md")
     parser.add_argument("--draft", action="store_true")
     args = parser.parse_args()
 

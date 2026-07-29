@@ -439,8 +439,8 @@ def _prepend_index_row(index_path: Path, server_lower: str, row: str) -> None:
     index_path.write_text(new_content, encoding="utf-8")
 
 
-def archive_build_changelog(server: str, build: int, build_date: date,
-                            md: str, diffs: dict) -> Path:
+def archive_build_changelog(server: str, build: int, build_date: date, md: str,
+                            diffs: dict) -> Path:
     """
     Write *md* (summary + full Details for this build) to
     changelog/{server}/{year}-Qn}/{build}.md, then prepend a one-line
@@ -455,10 +455,10 @@ def archive_build_changelog(server: str, build: int, build_date: date,
     archive_path.write_text(md, encoding="utf-8")
 
     per_msg = pivot_diffs(diffs)
-    added = sum(1 for m in per_msg.values() if m["primary"] == "added")
-    removed = sum(1 for m in per_msg.values() if m["primary"] == "removed")
-    modified = sum(1 for m in per_msg.values()
-                   if m["primary"] in ("src_mod", "tr_mod"))
+    added = sum(m["primary"] == "added" for m in per_msg.values())
+    removed = sum(m["primary"] == "removed" for m in per_msg.values())
+    modified = sum(m["primary"] in ("src_mod", "tr_mod")
+                   for m in per_msg.values())
 
     rel_path = archive_path.relative_to(ROOT).as_posix()
     row = (f"| {build_date.isoformat()} | [{build}]({rel_path}) "
@@ -546,9 +546,8 @@ if __name__ == "__main__":
         out_path = args.output or Path(f"changes_{args.build}.md")
         out_path.write_text(md, encoding="utf-8")
         print(f"Wrote {out_path}")
-        archive_path = archive_build_changelog(args.server.upper(),
-                                               args.build, date.today(), md,
-                                               diffs)
+        archive_path = archive_build_changelog(args.server.upper(), args.build,
+                                               date.today(), md, diffs)
         print(f"Archived → {archive_path}")
     else:
         print("No changes detected.")
