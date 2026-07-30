@@ -56,6 +56,22 @@ def get_bytes(url: str) -> bytes:
     return r.content
 
 
+def _download_pickle(server: str, lang: str, info: dict) -> Path:
+    """Download one language's pickle to pickles/{server}/ and return its path."""
+    download_url = f"{BASE_RESOURCE}/{info['download_path']}"
+    data = get_bytes(download_url)
+    filename = info["resource_path"].split("/")[
+        -1]  # localization_fsd_{lang}.pickle
+
+    out_dir = PICKLES_DIR / server.lower()
+    out_dir.mkdir(parents=True, exist_ok=True)
+    pickle_path = out_dir / filename
+    pickle_path.write_bytes(data)
+
+    print(f"[{server}] {lang}: saved {len(data):,} bytes → {pickle_path}")
+    return pickle_path
+
+
 # ---------------------------------------------------------------------------
 # Build number
 # ---------------------------------------------------------------------------
@@ -206,21 +222,21 @@ def fetch_server(server: str, force: bool = False) -> dict:
         print(
             f"[{server}] {lang}: hash changed ({old_hash} → {new_hash}), downloading..."
         )
-
-        download_url = f"{BASE_RESOURCE}/{info['download_path']}"
-        data = get_bytes(download_url)
-
-        # Derive filename from resource path (always preserve original name)
-        filename = info["resource_path"].split("/")[
-            -1]  # localization_fsd_zh.pickle
-
-        out_dir = PICKLES_DIR / server.lower()
-        out_dir.mkdir(parents=True, exist_ok=True)
-        pickle_path = out_dir / filename
-        pickle_path.write_bytes(data)
-
-        print(f"[{server}] {lang}: saved {len(data):,} bytes → {pickle_path}")
+        pickle_path = _download_pickle(server, lang, info)
         changed[lang] = {"pickle_path": pickle_path, "hash": new_hash}
+
+# merge.py needs the en-us pickle on disk as the base text for every
+# other language's merge, even when en-us's own hash is unchanged.
+# Pickles aren't persisted between runner runs (pickles/ is gitignored,
+# each run starts from a clean checkout), so if en-us wasn't already
+# downloaded above this run, fetch it now purely as a merge dependency.
+# It's deliberately kept out of `changed` so it isn't reported as a
+# real content change or picked up by the changelog/release steps.
+
+    if changed and "en-us" not in changed and "en-us" in entries:
+        print(f"[{server}] en-us: hash unchanged, but downloading anyway "
+              "(required as merge base for other changed languages)...")
+        _download_pickle(server, "en-us", entries["en-us"])
 
     # Persist state
     save_state_build(server, build)
