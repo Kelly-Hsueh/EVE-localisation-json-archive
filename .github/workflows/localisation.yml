@@ -85,6 +85,7 @@ jobs:
             "state/${SERVER_LOWER}-build.txt" \
             "state/${SERVER_LOWER}-hashes.json" \
             "CHANGELOG_${{ matrix.server }}.md" \
+            "changelog/${SERVER_LOWER}/" \
             2>/dev/null || true
           if git diff --cached --quiet; then
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
