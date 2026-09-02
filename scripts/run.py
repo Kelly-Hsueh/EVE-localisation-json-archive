@@ -99,6 +99,7 @@ def process_server(server: str,
     # 4. Changelog
     # ------------------------------------------------------------------
     changes_path = ROOT / f"changes_{build}.md"
+    archive_path = None
     summary, md, diffs = changelog_module.generate_changelog(
         server,
         build,
@@ -125,6 +126,11 @@ def process_server(server: str,
     # 5. GitHub Release (or write metadata for deferred creation)
     # ------------------------------------------------------------------
     meta_path = ROOT / "state" / f"{server.lower()}-pending-release.json"
+    release_summary = summary
+    if release_summary and archive_path:
+        archive_link = archive_path.relative_to(ROOT).as_posix()
+        release_summary = release_summary.replace(
+            f"# Build {build}", f"# [Build {build}]({archive_link})", 1)
 
     if not md:
         # Nothing actually changed (first run / no diffs) — clear any stale metadata
@@ -137,14 +143,14 @@ def process_server(server: str,
             "build": build,
             "changed_langs": changed_langs,
             "changes_md": str(changes_path),
-            "summary": summary,
+            "summary": release_summary,
         }
         STATE_DIR = ROOT / "state"
         STATE_DIR.mkdir(parents=True, exist_ok=True)
         meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
         print(f"[{server}] Release metadata written → {meta_path}")
     elif os.environ.get("GITHUB_TOKEN") and os.environ.get("GITHUB_REPO"):
-        body = summary or f"Localization update for {server} build {build}."
+        body = release_summary or f"Localization update for {server} build {build}."
         url = release_module.create_release(
             server,
             build,
