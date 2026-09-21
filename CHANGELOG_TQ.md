@@ -4,6 +4,7 @@ Full per-build details live under `changelog/tq/`. This file is a lightweight in
 
 | Date | Build | Added | Modified | Removed |
 |------|-------|-------|----------|---------|
+| 2026-09-21 | [3528119](changelog/tq/2026-Q3/3528119.md) | 2 | 42 | 0 |
 | 2026-09-04 | [3494416](changelog/tq/2026-Q3/3494416.md) | 0 | 111 | 0 |
 | 2026-09-01 | [3487903](changelog/tq/2026-Q3/3487903.md) | 363 | 0 | 0 |
 | 2026-08-26 | [3480926](changelog/tq/2026-Q3/3480926.md) | 0 | 27 | 0 |
