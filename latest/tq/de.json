@@ -1185609,7 +1185609,7 @@
     },
     "1019503": {
         "en": "Align with the Blood Raiders or Order of St. Tetrimon as they clash with the Triglavian Collective. ",
-        "de": "Blut regiert, wenn Sie während der Blutroten Ernte Ihre Seite wählen!"
+        "de": "Verbünden Sie sich mit den Blood Raiders oder dem Order of St. Tetrimon im Kampf gegen das Triglavia-Kollektiv. "
     },
     "1019504": {
         "en": "Crimson Harvest",
@@ -1233913,7 +1233913,7 @@
     },
     "1055576": {
         "en": "<i>Destroy 150 Order of Tetrimon ships encountered in the following sites:<br>- Tetrimon Base<br>- Tetrimon Garrison<br>- Tetrimon Frontline Base<br>- Tetrimon Forward Headquarters</i>",
-        "de": "<i>150 Schiffe des Ordens von Tetrimon in den folgenden Gebieten zerstören:<br>- Tetrimon-Basis<br>- Tetrimon-Garnison<br>- Tetrimon-Kriegsfrontbasis<br>- Tetrimon-Kriegsfronthauptquartier</i>"
+        "de": "<i>150 Schiffe des Ordens von Tetrimon in den folgenden Gebieten zerstören:<br>- Tetrimon-Basis<br>- Tetrimon-Garnison<br>- Tetrimon-Kriegsfrontbasis<br>- vorgeschobenes Tetrimon-Hauptquartier</i>"
     },
     "1055578": {
         "en": "CH26: Destroy Tetrimon NPCs Repeatable",
@@ -1233925,7 +1233925,7 @@
     },
     "1055580": {
         "en": "<i>Destroy 60 Order of Tetrimon ships encountered in the following sites:<br>- Tetrimon Base<br>- Tetrimon Garrison<br>- Tetrimon Frontline Base<br>- Tetrimon Forward Headquarters</i>",
-        "de": "<i>60 Schiffe des Ordens von Tetrimon in den folgenden Gebieten zerstören:<br>- Tetrimon-Basis<br>- Tetrimon-Garnison<br>- Tetrimon-Kriegsfrontbasis<br>- Tetrimon-Kriegsfront-Hauptquartier</i>"
+        "de": "<i>60 Schiffe des Ordens von Tetrimon in den folgenden Gebieten zerstören:<br>- Tetrimon-Basis<br>- Tetrimon-Garnison<br>- Tetrimon-Kriegsfrontbasis<br>- vorgeschobenes Tetrimon-Hauptquartier</i>"
     },
     "1055627": {
         "en": "CH26: Tetrimon Boss Initial",
@@ -1234124,24 +1234124,24 @@
         "de": "Der Bund der Blood Raider ist eine besonders grausame Sekte des Sani Sabik-Kultes. Während alle modernen Sani Sabik-Rituale in irgendeiner Art und Weise Blut verwenden, ist es für die Blood Raiders ganz besonders wichtig. Sie geben sich alle Mühe, es von den ihrer Meinung nach reichsten und unberührtesten Quellen zu erhalten. Sie werden zu den gefährlichsten und verdorbensten aller Piraten gezählt, die im freien Raum operieren."
     },
     "1055747": {
-        "en": "Sarikusa’s Capital Energy Nosferatu",
-        "de": "Sarikusa’s Capital Energy Nosferatu"
+        "en": "Sarikusa's Capital Energy Nosferatu",
+        "de": "Sarikusa's Capital Energy Nosferatu"
     },
     "1055748": {
         "en": "Drains energy from the target ship and adds it to your own.\r\n\r\nNote: A Nosferatu module will not drain your target's capacitor below your own capacitor level. May only be fitted to capital ships.",
         "de": "Zieht Energie aus dem Zielschiff und fügt sie Ihrem eigenen Energiespeicher hinzu. Hinweis: Ein Nosferatu-Modul leert den Energiespeicher des Zielschiffs nicht über den Stand Ihres eigenen Energiespeichers hinaus. Kann nur in Capital-Schiffe eingebaut werden."
     },
     "1055749": {
-        "en": "Horm’s Capital Energy Neutralizer",
-        "de": "Horm’s Capital Energy Neutralizer"
+        "en": "Horm's Capital Energy Neutralizer",
+        "de": "Horm's Capital Energy Neutralizer"
     },
     "1055750": {
         "en": "Neutralizes a portion of the energy in the target ship's capacitor.\r\n\r\nNote: May only be fitted to capital class ships.",
         "de": "Neutralisiert einen Teil der Energie im Energiespeicher des Zielschiffes. Kann nur in Schiffe der Capital-Klasse eingebaut werden."
     },
     "1055752": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator",
-        "de": "Zorya’s Ultratidal Entropic Disintegrator"
+        "en": "Zorya's Ultratidal Entropic Disintegrator",
+        "de": "Zorya's Ultratidal Entropic Disintegrator"
     },
     "1055753": {
         "en": "This extra-large Entropic Disintegrator is only seen in use on Triglavian capital ships, these massive ships being capable of managing the considerable radiation and enormous gravitational tidal forces the weapon generates. At the energy levels of this ultraheavy weapon system, the tidal forces are so powerful that even the special systems built into battleships are insufficient and only capital ships can deal with the forces involved.\r\n\r\nEntropic Disintegrators draw on the tremendous power of the Triglavian singularity-based energy systems to convert exotic matter into a particle stream directed with locally generated entropic force. While powerful, the range of the weapon is limited by the attenuation of entropic forces, which dissipate critically beyond the optimal range. As a result this weapon has no falloff range.\r\n\r\nThe particle stream generates thermal and explosive reactions on impact, and the entropic forces resolve into a localized gravitational conduit that steadily increases the acceleration on the exotic particles. In effect, the weapon's damage potential increases to a maximum level as long as the particle stream is kept on the same target.\r\n\r\nRequires either standard or advanced exotic plasma charge ammo types: Baryon, Meson, Tetryon, Mystic, and Occult.",
@@ -1234168,51 +1234168,51 @@
         "de": "Zorya’s Ultratidal Entropic Disintegrator Blueprint"
     },
     "1055807": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "de": "Enthält eine Blaupausenkopie der Sarikusas Capital-Energie-Nosferatu mit einem einzigen Durchlauf."
     },
     "1055808": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
-        "de": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate"
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
+        "de": "Sarikusa's Capital Energy Nosferatu Blueprint Crate"
     },
     "1055810": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
-        "de": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate"
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
+        "de": "Sarikusa's Capital Energy Nosferatu Blueprint Crate"
     },
     "1055811": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "de": "Enthält eine Blaupausenkopie der Sarikusas Capital-Energie-Nosferatu mit einem einzigen Durchlauf."
     },
     "1055814": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-        "de": "Horm’s Capital Energy Neutralizer Blueprint Crate"
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
+        "de": "Horm's Capital Energy Neutralizer Blueprint Crate"
     },
     "1055815": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "de": "Enthält eine Blaupausenkopie eines Horms Capital-Energieneutralisierers mit einem einzigen Durchlauf."
     },
     "1055816": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-        "de": "Horm’s Capital Energy Neutralizer Blueprint Crate"
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
+        "de": "Horm's Capital Energy Neutralizer Blueprint Crate"
     },
     "1055817": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "de": "Enthält eine Blaupausenkopie eines Horms Capital-Energieneutralisierers mit einem einzigen Durchlauf."
     },
     "1055818": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
-        "de": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate"
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
+        "de": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate"
     },
     "1055819": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "de": "Enthält eine Blaupausenkopie eines Zoryas ultratidalem entropischem Desintegrators mit einem einzigen Durchlauf."
     },
     "1055820": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
-        "de": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate"
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
+        "de": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate"
     },
     "1055821": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "de": "Enthält eine Blaupausenkopie eines Zoryas ultratidalem entropischem Desintegrators mit einem einzigen Durchlauf."
     },
     "1055822": {
@@ -1234489,7 +1234489,7 @@
     },
     "1056171": {
         "en": "<i>Receive 150 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "de": "<i>150 Gegenstände von Gegenstandshändlern erhalten.<br><b>Warnung:</b> Zusätzliche Gegenstände in diesem Handel zählen nicht für weitere Herausforderungen.<br><br><b>Standorte der Gegenstandshändler:</b><br>Blood Raiders: KFIE-Z, Anila, Sosala, Ahtila<br>Orden von Tetrimon: Ibani, Kamela, Sakenta, Shera<br>Triglavia-Kollektiv: Raravoss, Vale, Otela, Gammel</i>"
+        "de": "<i>150 Gegenstände von Gegenstandshändlern erhalten.<br><b>Warnung:</b> Zusätzliche Gegenstände in diesem Handel zählen nicht für weitere Herausforderungen.<br><br><b>Standorte der Gegenstandshändler:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Orden von Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavia-Kollektiv: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>"
     },
     "1056172": {
         "en": "CH26: Trade Items - Repeatable",
@@ -1234501,7 +1234501,7 @@
     },
     "1056174": {
         "en": "<i>Receive 60 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "de": "<i>60 Gegenstände von Gegenstandshändlern erhalten.<br><b>Warnung:</b> Zusätzliche Gegenstände in diesem Handel zählen nicht für weitere Herausforderungen.<br><br><b>Standorte der Gegenstandshändler:</b><br>Blood Raiders: KFIE-Z, Anila, Sosala, Ahtila<br>Orden von Tetrimon: Ibani, Kamela, Sakenta, Shera<br>Triglavia-Kollektiv: Raravoss, Vale, Otela, Gammel</i>"
+        "de": "<i>60 Gegenstände von Gegenstandshändlern erhalten.<br><b>Warnung:</b> Zusätzliche Gegenstände in diesem Handel zählen nicht für weitere Herausforderungen.<br><br><b>Standorte der Gegenstandshändler:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Orden von Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavia-Kollektiv: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>"
     },
     "1056273": {
         "en": "CRIMSON HARVEST  ",

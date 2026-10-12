@@ -1185609,7 +1185609,7 @@
     },
     "1019503": {
         "en": "Align with the Blood Raiders or Order of St. Tetrimon as they clash with the Triglavian Collective. ",
-        "zh": "在血色收割期间，选择心仪的势力，用鲜血统治一切！"
+        "zh": "在血袭者或圣特里蒙军团对抗三神裔之际，选择与其中一方结盟。 "
     },
     "1019504": {
         "en": "Crimson Harvest",
@@ -1234124,7 +1234124,7 @@
         "zh": "血袭者同盟是萨萨比克异教中的一支极其可怕的派系。现代的萨萨比克异教仪式上或多或少都会用到鲜血，但血袭者同盟对此尤其偏爱。他们会不择手段，从他们认为最富有最纯粹的人身上获取血液。他们被视为宇宙海盗势力中最危险、最堕落的一群人。"
     },
     "1055747": {
-        "en": "Sarikusa’s Capital Energy Nosferatu",
+        "en": "Sarikusa's Capital Energy Nosferatu",
         "zh": "萨利库萨旗舰级掠能器"
     },
     "1055748": {
@@ -1234132,7 +1234132,7 @@
         "zh": "吸取对方舰船的能量为自己所用。注：所有能量吸噬装备都不会将目标的电容值降低至低于你的电容值。只能装配在旗舰级舰船上。"
     },
     "1055749": {
-        "en": "Horm’s Capital Energy Neutralizer",
+        "en": "Horm's Capital Energy Neutralizer",
         "zh": "霍姆旗舰级能量中和器"
     },
     "1055750": {
@@ -1234140,12 +1234140,12 @@
         "zh": "中和目标舰船电容器的部分能量。注：只能用于旗舰级舰船。"
     },
     "1055752": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator",
+        "en": "Zorya's Ultratidal Entropic Disintegrator",
         "zh": "曙光潮极熵能分解者"
     },
     "1055753": {
         "en": "This extra-large Entropic Disintegrator is only seen in use on Triglavian capital ships, these massive ships being capable of managing the considerable radiation and enormous gravitational tidal forces the weapon generates. At the energy levels of this ultraheavy weapon system, the tidal forces are so powerful that even the special systems built into battleships are insufficient and only capital ships can deal with the forces involved.\r\n\r\nEntropic Disintegrators draw on the tremendous power of the Triglavian singularity-based energy systems to convert exotic matter into a particle stream directed with locally generated entropic force. While powerful, the range of the weapon is limited by the attenuation of entropic forces, which dissipate critically beyond the optimal range. As a result this weapon has no falloff range.\r\n\r\nThe particle stream generates thermal and explosive reactions on impact, and the entropic forces resolve into a localized gravitational conduit that steadily increases the acceleration on the exotic particles. In effect, the weapon's damage potential increases to a maximum level as long as the particle stream is kept on the same target.\r\n\r\nRequires either standard or advanced exotic plasma charge ammo types: Baryon, Meson, Tetryon, Mystic, and Occult.",
-        "zh": "超大型熵能分解者只用于三神裔旗舰级舰船，这种大型舰船能够承受该武器产生的强烈辐射和巨大的引力潮汐力。从能量层面上来讲，由于这种超重型武器系统的潮力过于强大，即使战列舰上专门为它打造的系统都难以承受，只有旗舰才适于容纳如此强大的力量。熵能分解者的强大威力得益于特格拉基于奇点的能量系统，能将异种物质转化为粒子流，由自身产生的熵能加以引导。虽然威力无俦，这种武器的射程却受到熵能衰变的影响，在最佳射程之外就消于无形。所以，这种武器不具有失准范围。粒子流会产生热能和爆炸反应，熵能会产生一个重力导管来使粒子流大大加速。在实际使用中，该武器的伤害会随着对同一目标的不断发射而逐渐提高，直到达到上限。需要使用的异种等离子弹药类型：重子、介子和四重子。"
+        "zh": "超大型熵能分解者只用于三神裔旗舰级舰船，这种大型舰船能够承受该武器产生的强烈辐射和巨大的引力潮汐力。这种超重型武器系统的能量等级极高，产生的潮汐力极其强大，即使战列舰上配备的特殊系统也不足以应对，唯有旗舰级舰船才能承受其作用力。熵能分解者利用三神裔奇点能量系统的强大力量，将奇异物质转化为粒子流，再通过局部产生的熵力引导粒子流攻击目标。尽管威力强大，这种武器的射程仍受到熵力衰减的限制。一旦超出最佳射程，熵力就会急剧消散。所以，这种武器不具有失准范围。粒子流命中目标时会引发热能与爆炸反应，而熵能则会形成局部引力通道，使奇异粒子的加速度持续增加。实际上，只要粒子流持续作用于同一目标，武器的伤害潜能就会不断提升，直至达到最大值。需要使用标准型或高级异种等离子弹：重子、介子、四重子、神秘和奥秘。"
     },
     "1055794": {
         "en": "Dark Blood Stasis Webifier Blueprint",
@@ -1234168,52 +1234168,52 @@
         "zh": "曙光潮极熵能分解者蓝图"
     },
     "1055807": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
-        "zh": "包含一份萨利库萨旗舰级掠能器蓝图蓝图副本，可运行一次。"
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
+        "zh": "包含一份萨利库萨旗舰级掠能器蓝图拷贝，可运行一次。"
     },
     "1055808": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
         "zh": "萨利库萨旗舰级掠能器蓝图蓝图箱"
     },
     "1055810": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
         "zh": "萨利库萨旗舰级掠能器蓝图蓝图箱"
     },
     "1055811": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
-        "zh": "包含一份萨利库萨旗舰级掠能器蓝图蓝图副本，可运行一次。"
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
+        "zh": "包含一份萨利库萨旗舰级掠能器蓝图拷贝，可运行一次。"
     },
     "1055814": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
         "zh": "霍姆旗舰级能量中和器蓝图箱"
     },
     "1055815": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
-        "zh": "包含一份霍姆旗舰级能量中和器蓝图副本，可运行一次。"
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
+        "zh": "包含一份霍姆旗舰级能量中和器蓝图拷贝，可运行一次。"
     },
     "1055816": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
         "zh": "霍姆旗舰级能量中和器蓝图箱"
     },
     "1055817": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
-        "zh": "包含一份霍姆旗舰级能量中和器蓝图副本，可运行一次。"
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
+        "zh": "包含一份霍姆旗舰级能量中和器蓝图拷贝，可运行一次。"
     },
     "1055818": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
         "zh": "曙光潮极熵能分解者蓝图箱"
     },
     "1055819": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
-        "zh": "包含一份曙光潮极熵能分解者蓝图副本，可运行一次。"
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "zh": "包含一份曙光潮极熵能分解者蓝图拷贝，可运行一次。"
     },
     "1055820": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
         "zh": "曙光潮极熵能分解者蓝图箱"
     },
     "1055821": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
-        "zh": "包含一份曙光潮极熵能分解者蓝图副本，可运行一次。"
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "zh": "包含一份曙光潮极熵能分解者蓝图拷贝，可运行一次。"
     },
     "1055822": {
         "en": "Mobile Sanguine Harvester Blueprint Crate",
@@ -1234489,7 +1234489,7 @@
     },
     "1056171": {
         "en": "<i>Receive 150 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "zh": "<i>从物品贸易官处获得150件物品。<br><b>警告：</b>本次交易中的额外物品不计入任何后续挑战。<br><br><b>物品贸易官位置：</b><br>血袭者：KFIE-Z、安妮拉、索萨拉、艾特拉<br>圣特里蒙军团伊巴尼、卡美拉、萨肯达、舍拉<br>三神裔：拉拉沃斯、瓦勒、乌特拉、加姆梅尔</i>"
+        "zh": "<i>从物品贸易官处获得150件物品。<br><b>警告：</b>本次交易中的额外物品不计入任何后续挑战。<br><br><b>物品贸易官位置：</b><br>血袭者：<url=showinfo:5//30004709>KFIE-Z</url>、<url=showinfo:5//30003515>安妮拉</url>、<url=showinfo:5//30003070>索萨拉</url>、<url=showinfo:5//30045328>艾特拉</url><br>圣特里蒙军团：<url=showinfo:5//30003933>伊巴尼</url>、<url=showinfo:5//30003069>卡美拉</url>、<url=showinfo:5//30010141>萨肯达</url>、<url=showinfo:5//30005192>舍拉</url><br>三神裔：<url=showinfo:5//30003495>拉拉沃斯</url>、<url=showinfo:5//30005029>瓦勒</url>、<url=showinfo:5//30000157>乌特拉</url>、<url=showinfo:5//30003076>加姆梅尔</url></i>"
     },
     "1056172": {
         "en": "CH26: Trade Items - Repeatable",
@@ -1234501,7 +1234501,7 @@
     },
     "1056174": {
         "en": "<i>Receive 60 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "zh": "<i>从物品贸易官处获得60件物品。<br><b>警告：</b>本次交易中的额外物品不计入任何后续挑战。<br><br><b>物品贸易官位置：</b><br>血袭者：KFIE-Z、安妮拉、索萨拉、艾特拉<br>圣特里蒙军团伊巴尼、卡美拉、萨肯达、舍拉<br>三神裔：拉拉沃斯、瓦勒、乌特拉、加姆梅尔</i>"
+        "zh": "<i>从物品贸易官处获得60件物品。<br><b>警告：</b>本次交易中的额外物品不计入任何后续挑战。<br><br></b>物品贸易官位置：<b><br>血袭者：<url=showinfo:5//30004709>KFIE-Z</url>、<url=showinfo:5//30003515>安妮拉</url>、<url=showinfo:5//30003070>索萨拉</url>、<url=showinfo:5//30045328>艾特拉</url><br>圣特里蒙军团：<url=showinfo:5//30003933>伊巴尼</url>、<url=showinfo:5//30003069>卡美拉</url>、<url=showinfo:5//30010141>萨肯达</url>、<url=showinfo:5//30005192>舍拉</url><br>三神裔：<url=showinfo:5//30003495>拉拉沃斯</url>、<url=showinfo:5//30005029>瓦勒</url>、<url=showinfo:5//30000157>乌特拉</url>、<url=showinfo:5//30003076>加姆梅尔</url></i>"
     },
     "1056273": {
         "en": "CRIMSON HARVEST  ",

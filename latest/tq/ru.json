@@ -1185609,7 +1185609,7 @@
     },
     "1019503": {
         "en": "Align with the Blood Raiders or Order of St. Tetrimon as they clash with the Triglavian Collective. ",
-        "ru": "Выберите сторону в «Кровавой жатве» и окрасьте вселенную кровью!"
+        "ru": "Встаньте на сторону «Охотников за кровью» или ордена св. Тетримона в их противостоянии с Сообществом Триглава. "
     },
     "1019504": {
         "en": "Crimson Harvest",
@@ -1234124,28 +1234124,28 @@
         "ru": "«Союз охотников за кровью» — самая жестокая секта культа Сани Сабик. Конечно, все современные последователи учения Сани Сабик используют кровь в своих ритуалах, однако члены «Союза охотников за кровью» придают ей особое значение и готовы пойти на всё, чтобы добыть эту божественную жидкость из самых щедрых и чистых источников. Среди всех пиратов галактики именно они считаются самыми безнравственными и опасными."
     },
     "1055747": {
-        "en": "Sarikusa’s Capital Energy Nosferatu",
-        "ru": "Sarikusa’s Capital Energy Nosferatu"
+        "en": "Sarikusa's Capital Energy Nosferatu",
+        "ru": "Sarikusa's Capital Energy Nosferatu"
     },
     "1055748": {
         "en": "Drains energy from the target ship and adds it to your own.\r\n\r\nNote: A Nosferatu module will not drain your target's capacitor below your own capacitor level. May only be fitted to capital ships.",
         "ru": "Такое устройство откачивает энергию из выбранного корабля и передаёт её на ваш. Примечание: модуль паразитной подзарядки не может опустошить запас накопителя цели ниже уровня вашего собственного накопителя. Можно установить только на корабли большого тоннажа."
     },
     "1055749": {
-        "en": "Horm’s Capital Energy Neutralizer",
-        "ru": "Horm’s Capital Energy Neutralizer"
+        "en": "Horm's Capital Energy Neutralizer",
+        "ru": "Horm's Capital Energy Neutralizer"
     },
     "1055750": {
         "en": "Neutralizes a portion of the energy in the target ship's capacitor.\r\n\r\nNote: May only be fitted to capital class ships.",
         "ru": "Нейтрализует часть энергии в накопителе поражённого корабля. Примечание: можно установить только на корабли большого тоннажа."
     },
     "1055752": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator",
-        "ru": "Zorya’s Ultratidal Entropic Disintegrator"
+        "en": "Zorya's Ultratidal Entropic Disintegrator",
+        "ru": "Zorya's Ultratidal Entropic Disintegrator"
     },
     "1055753": {
         "en": "This extra-large Entropic Disintegrator is only seen in use on Triglavian capital ships, these massive ships being capable of managing the considerable radiation and enormous gravitational tidal forces the weapon generates. At the energy levels of this ultraheavy weapon system, the tidal forces are so powerful that even the special systems built into battleships are insufficient and only capital ships can deal with the forces involved.\r\n\r\nEntropic Disintegrators draw on the tremendous power of the Triglavian singularity-based energy systems to convert exotic matter into a particle stream directed with locally generated entropic force. While powerful, the range of the weapon is limited by the attenuation of entropic forces, which dissipate critically beyond the optimal range. As a result this weapon has no falloff range.\r\n\r\nThe particle stream generates thermal and explosive reactions on impact, and the entropic forces resolve into a localized gravitational conduit that steadily increases the acceleration on the exotic particles. In effect, the weapon's damage potential increases to a maximum level as long as the particle stream is kept on the same target.\r\n\r\nRequires either standard or advanced exotic plasma charge ammo types: Baryon, Meson, Tetryon, Mystic, and Occult.",
-        "ru": "Этот сверхбольшой энтропический дезинтегратор используется только на триглавских кораблях большого тоннажа — такие огромные суда способны контролировать мощные выбросы радиации и колоссальную гравитационную силу, производимую этим орудием. Энергетические уровни этой сверхтяжёлой оружейной системы настолько высоки, что даже особые штатные системы линкоров не смогут справиться с её невероятной гравитационной силой, — совладать с такой мощью могут только корабли большого тоннажа. Для питания энтропических дезинтеграторов необходима огромная мощность. При её производстве используются реакторы на базе технологии сингулярности, способные перерабатывать экзотическую материю в поток частиц, направляемый локальной энтропической силой. При всей мощности оружия его эффективная дальность ограничена из-за снижения энтропической силы за пределами оптимального радиуса. При контакте с целью поток частиц создаёт тепловую и взрывную реакции, в то время как энтропические силы образуют гравитационный канал, постепенно ускоряющий экзотические частицы. На деле это означает, что при продолжительном ведении огня по одной цели боевой потенциал орудия продолжает постоянно повышаться, постепенно приближаясь к максимуму. Для стрельбы используются следующие типы зарядов экзотической плазмы: барионные, мезонные и тетрионные."
+        "ru": "Этот сверхбольшой энтропический дезинтегратор используется только на триглавских кораблях большого тоннажа — такие огромные суда способны контролировать мощные выбросы радиации и колоссальную гравитационную силу, производимую этим орудием. Энергетические уровни этой сверхтяжёлой оружейной системы настолько высоки, что даже особые штатные системы линкоров не смогут справиться с её невероятной гравитационной силой — совладать с такой мощью могут только КБТ. Для питания энтропических дезинтеграторов необходима огромная мощность. При её производстве используются реакторы на базе технологии сингулярности, способные перерабатывать экзотическую материю в поток частиц, направляемый локальной энтропической силой. При всей мощности оружия его эффективная дальность ограничена из-за снижения энтропической силы за пределами оптимального радиуса. При контакте с целью поток частиц создаёт тепловую и взрывную реакции, в то время как энтропические силы образуют гравитационный канал, постепенно ускоряющий экзотические частицы. На деле это означает, что при продолжительном ведении огня по одной цели боевой потенциал орудия неуклонно повышается, постепенно приближаясь к максимуму. Для стрельбы используются следующие типы стандартных или улучшенных зарядов экзотической плазмы: барионные, мезонные, тетрионные, мистические и оккультные."
     },
     "1055794": {
         "en": "Dark Blood Stasis Webifier Blueprint",
@@ -1234168,51 +1234168,51 @@
         "ru": "Zorya’s Ultratidal Entropic Disintegrator Blueprint"
     },
     "1055807": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "ru": "Содержит одноразовую копию чертежа модуля паразитной подзарядки для КБТ (Сарикуса)."
     },
     "1055808": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
-        "ru": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate"
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
+        "ru": "Sarikusa's Capital Energy Nosferatu Blueprint Crate"
     },
     "1055810": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
-        "ru": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate"
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
+        "ru": "Sarikusa's Capital Energy Nosferatu Blueprint Crate"
     },
     "1055811": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "ru": "Содержит одноразовую копию чертежа модуля паразитной подзарядки для КБТ (Сарикуса)."
     },
     "1055814": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-        "ru": "Horm’s Capital Energy Neutralizer Blueprint Crate"
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
+        "ru": "Horm's Capital Energy Neutralizer Blueprint Crate"
     },
     "1055815": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "ru": "Содержит одноразовую копию чертежа дистанционного нейтрализатора заряда для КБТ (Хорм)."
     },
     "1055816": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-        "ru": "Horm’s Capital Energy Neutralizer Blueprint Crate"
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
+        "ru": "Horm's Capital Energy Neutralizer Blueprint Crate"
     },
     "1055817": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "ru": "Содержит одноразовую копию чертежа дистанционного нейтрализатора заряда для КБТ (Хорм)."
     },
     "1055818": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
-        "ru": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate"
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
+        "ru": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate"
     },
     "1055819": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "ru": "Содержит одноразовую копию чертежа сверхгравитационного энтропического дезинтегратора (Зоря)."
     },
     "1055820": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
-        "ru": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate"
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
+        "ru": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate"
     },
     "1055821": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "ru": "Содержит одноразовую копию чертежа сверхгравитационного энтропического дезинтегратора (Зоря)."
     },
     "1055822": {
@@ -1234489,7 +1234489,7 @@
     },
     "1056171": {
         "en": "<i>Receive 150 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "ru": "<i>Получите 150 предметов у торговцев.<br><b>Внимание:</b> дополнительные предметы, полученные по достижении указанного количества, не учитываются в дальнейших задачах.<br><br><b>Местоположение торговцев:</b><br>«Охотники за кровью»: KFIE-Z, Анила, Зозала, Ахтила<br>орден Тетримона: Ибани, Камела, Закента, Шера<br>Сообщество Триглава: Раравосс, Отела, Гаммел</i>"
+        "ru": "<i>Получите 150 предметов у торговцев.<br><b>Внимание:</b> дополнительные предметы, полученные по достижении указанного количества, не учитываются в дальнейших задачах.<br><br><b>Местоположение торговцев:</b><br>«Охотники за кровью»: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Анила</url>, <url=showinfo:5//30003070>Зозала</url>, <url=showinfo:5//30045328>Ахтила</url><br>орден Тетримона: <url=showinfo:5//30003933>Ибани</url>, <url=showinfo:5//30003069>Камела</url>, <url=showinfo:5//30010141>Закента</url>, <url=showinfo:5//30005192>Шера</url><br>Сообщество Триглава: <url=showinfo:5//30003495>Раравосс</url>, <url=showinfo:5//30005029>Вейл</url>, <url=showinfo:5//30000157>Отела</url>, <url=showinfo:5//30003076>Гаммел</url></i>"
     },
     "1056172": {
         "en": "CH26: Trade Items - Repeatable",
@@ -1234501,7 +1234501,7 @@
     },
     "1056174": {
         "en": "<i>Receive 60 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "ru": "<i>Получите 60 предметов у торговцев.<br><b>Внимание:</b> дополнительные предметы, полученные по достижении указанного количества, не учитываются в дальнейших задачах.<br><br><b>Местоположение торговцев:</b><br>«Охотники за кровью»: KFIE-Z, Анила, Зозала, Ахтила<br>орден Тетримона: Ибани, Камела, Закента, Шера<br>Сообщество Триглава: Раравосс, Отела, Гаммел</i>"
+        "ru": "<i>Получите 60 предметов у торговцев.<br><b>Внимание:</b> дополнительные предметы, полученные по достижении указанного количества, не учитываются в дальнейших задачах.<br><br><b>Местоположение торговцев:</b><br>«Охотники за кровью»: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Анила</url>, <url=showinfo:5//30003070>Зозала</url>, <url=showinfo:5//30045328>Ахтила</url><br>орден Тетримона: <url=showinfo:5//30003933>Ибани</url>, <url=showinfo:5//30003069>Камела</url>, <url=showinfo:5//30010141>Закента</url>, <url=showinfo:5//30005192>Шера</url><br>Сообщество Триглава: <url=showinfo:5//30003495>Раравосс</url>, <url=showinfo:5//30005029>Вейл</url>, <url=showinfo:5//30000157>Отела</url>, <url=showinfo:5//30003076>Гаммел</url></i>"
     },
     "1056273": {
         "en": "CRIMSON HARVEST  ",

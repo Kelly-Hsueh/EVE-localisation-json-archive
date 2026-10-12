@@ -1185609,7 +1185609,7 @@
     },
     "1019503": {
         "en": "Align with the Blood Raiders or Order of St. Tetrimon as they clash with the Triglavian Collective. ",
-        "es": "¡La sangre reinará cuando elijas tu bando durante la Cosecha Carmesí!"
+        "es": "Únete a los Saqueadores Sanguinarios o a la Orden de San Tetrimon mientras luchan con el Colectivo Triglaviano."
     },
     "1019504": {
         "en": "Crimson Harvest",
@@ -1233913,7 +1233913,7 @@
     },
     "1055576": {
         "en": "<i>Destroy 150 Order of Tetrimon ships encountered in the following sites:<br>- Tetrimon Base<br>- Tetrimon Garrison<br>- Tetrimon Frontline Base<br>- Tetrimon Forward Headquarters</i>",
-        "es": "<i>Destruye 150 naves de la Orden de Tetrimon que encuentres en las siguientes zonas:<br>- Base de Tetrimon<br>- Guarnición de Tetrimon<br>- Base del frente de Tetrimon<br>- Cuartel general del frente de Tetrimon</i>"
+        "es": "<i>Destruye 150 naves de la Orden de Tetrimon que encuentres en las siguientes zonas:<br>- Base de Tetrimon<br>- Guarnición de Tetrimon<br>- Base del frente de Tetrimon<br>- Cuartel general de avanzada de Tetrimon</i>"
     },
     "1055578": {
         "en": "CH26: Destroy Tetrimon NPCs Repeatable",
@@ -1233925,7 +1233925,7 @@
     },
     "1055580": {
         "en": "<i>Destroy 60 Order of Tetrimon ships encountered in the following sites:<br>- Tetrimon Base<br>- Tetrimon Garrison<br>- Tetrimon Frontline Base<br>- Tetrimon Forward Headquarters</i>",
-        "es": "<i>Destruye 60 naves de la Orden de Tetrimon que encuentres en las siguientes zonas:<br>- Base de Tetrimon<br>- Guarnición de Tetrimon<br>- Base del frente de Tetrimon<br>- Cuartel general del frente de Tetrimon</i>"
+        "es": "<i>Destruye 60 naves de la Orden de Tetrimon que encuentres en las siguientes zonas:<br>- Base de Tetrimon<br>- Guarnición de Tetrimon<br>- Base del frente de Tetrimon<br>- Cuartel general de avanzada de Tetrimon</i>"
     },
     "1055627": {
         "en": "CH26: Tetrimon Boss Initial",
@@ -1234124,7 +1234124,7 @@
         "es": "El Pacto de los Saqueadores Sanguinarios es una secta especialmente horripilante que desciende del culto Sani Sabik. Aunque la sangre está de una forma u otra presente en todos los rituales Sani Sabik modernos, en el Pacto de los Saqueadores Sanguinarios adquiere aún más relevancia y se hace todo lo que sea necesario para conseguirla de las que creen ser las fuentes más ricas y vírgenes. Se les considera de los piratas más peligrosos y depravados de todos los que surcan el espacio."
     },
     "1055747": {
-        "en": "Sarikusa’s Capital Energy Nosferatu",
+        "en": "Sarikusa's Capital Energy Nosferatu",
         "es": "Nosferatu de energía capital de Sarikusa"
     },
     "1055748": {
@@ -1234132,7 +1234132,7 @@
         "es": "Drena la energía de la nave objetivo y la añade a la tuya.\r\n\r\nNota: El módulo Nosferatu no drenará el condensador del objetivo por debajo del nivel del tuyo propio. Solo se puede equipar en naves capitales."
     },
     "1055749": {
-        "en": "Horm’s Capital Energy Neutralizer",
+        "en": "Horm's Capital Energy Neutralizer",
         "es": "Neutralizador energético capital de Horm"
     },
     "1055750": {
@@ -1234140,12 +1234140,12 @@
         "es": "Neutraliza parte de la energía del condensador de la nave objetivo.\r\n\r\nAviso: Solo se puede equipar en naves capitales."
     },
     "1055752": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator",
-        "es": "Desintegrador entrópico ultramareal de Zorya"
+        "en": "Zorya's Ultratidal Entropic Disintegrator",
+        "es": "Desintegrador entrópico ultramareal de Zorya"
     },
     "1055753": {
         "en": "This extra-large Entropic Disintegrator is only seen in use on Triglavian capital ships, these massive ships being capable of managing the considerable radiation and enormous gravitational tidal forces the weapon generates. At the energy levels of this ultraheavy weapon system, the tidal forces are so powerful that even the special systems built into battleships are insufficient and only capital ships can deal with the forces involved.\r\n\r\nEntropic Disintegrators draw on the tremendous power of the Triglavian singularity-based energy systems to convert exotic matter into a particle stream directed with locally generated entropic force. While powerful, the range of the weapon is limited by the attenuation of entropic forces, which dissipate critically beyond the optimal range. As a result this weapon has no falloff range.\r\n\r\nThe particle stream generates thermal and explosive reactions on impact, and the entropic forces resolve into a localized gravitational conduit that steadily increases the acceleration on the exotic particles. In effect, the weapon's damage potential increases to a maximum level as long as the particle stream is kept on the same target.\r\n\r\nRequires either standard or advanced exotic plasma charge ammo types: Baryon, Meson, Tetryon, Mystic, and Occult.",
-        "es": "Este desintegrador entrópico extragrande solo se puede ver en naves capitales triglavianas, las únicas capaces de gestionar la considerable radiación y las enormes fuerzas gravitacionales intermareales que genera. Debido a los niveles de energía de este sistema de armas ultrapesado, las fuerzas intermareales son tan potentes que hasta los sistemas especiales integrados en los acorazados resultan insuficientes para contrarrestrarlas.\r\n\r\nLos desintegradores entrópicos utilizan el inconmensurable poder de los sistemas de energía triglavianos, basados en la singularidad, para convertir materia exótica en un flujo de partículas dirigido por la fuerza entrópica generada localmente. Aunque potentes, su alcance se ve afectado por la atenuación de las fuerzas entrópicas, disipadas al superar críticamente el alcance óptimo. En definitiva, esta arma no tiene alcance efectivo.\r\n\r\nEl flujo de partículas genera reacciones térmicas y explosivas al impactar. Además, las fuerzas entrópicas forman un conducto gravitacional localizado que aumenta constantemente la aceleración de las partículas exóticas, lo que se traduce en un aumento del potencial de daño del arma hasta un nivel máximo, siempre y cuando se mantenga el flujo de partículas sobre el mismo objetivo.\r\n\r\nRequiere tipos de munición de carga de plasma exótico: barión, mesón y tetrión."
+        "es": "Este desintegrador entrópico extragrande solo se puede ver en naves capitales triglavianas, las únicas capaces de gestionar la considerable radiación y las enormes fuerzas gravitacionales intermareales que genera. Debido a los niveles de energía de este sistema de armas ultrapesado, las fuerzas intermareales son tan potentes que hasta los sistemas especiales integrados en los acorazados resultan insuficientes para contrarrestrarlas.\r\n\r\nLos desintegradores entrópicos utilizan el inconmensurable poder de los sistemas de energía triglavianos, basados en la singularidad, para convertir materia exótica en un flujo de partículas dirigido por la fuerza entrópica generada localmente. Aunque potentes, su alcance se ve afectado por la atenuación de las fuerzas entrópicas, disipadas al superar críticamente el alcance óptimo. En definitiva, esta arma no tiene alcance efectivo.\r\n\r\nEl flujo de partículas genera reacciones térmicas y explosivas al impactar. Además, las fuerzas entrópicas forman un conducto gravitacional localizado que aumenta constantemente la aceleración de las partículas exóticas, lo que se traduce en un aumento del potencial de daño del arma hasta un nivel máximo, siempre y cuando se mantenga el flujo de partículas sobre el mismo objetivo.\r\n\r\nRequiere los tipos de munición de carga de plasma exótico estándar o avanzado: barión, mesón, tetrión, místico y oculto."
     },
     "1055794": {
         "en": "Dark Blood Stasis Webifier Blueprint",
@@ -1234168,51 +1234168,51 @@
         "es": "Plano de desintegrador entrópico ultramareal de Zorya"
     },
     "1055807": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "es": "Contiene una copia de plano de nosferatu de energía capital de Sarikusa con una iteración única."
     },
     "1055808": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
         "es": "Caja de plano de nosferatu de energía capital de Sarikusa"
     },
     "1055810": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
         "es": "Caja de plano de nosferatu de energía capital de Sarikusa"
     },
     "1055811": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "es": "Contiene una copia de plano de nosferatu de energía capital de Sarikusa con una iteración única."
     },
     "1055814": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-        "es": "Caja de plano de neutralizador energético capital de Horm"
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
+        "es": "Caja de plano de neutralizador energético capital de Horm"
     },
     "1055815": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "es": "Contiene una copia de plano de neutralizador energético capital de Horm con una iteración única."
     },
     "1055816": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
-        "es": "Caja de plano de neutralizador energético capital de Horm"
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
+        "es": "Caja de plano de neutralizador energético capital de Horm"
     },
     "1055817": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "es": "Contiene una copia de plano de neutralizador energético capital de Horm con una iteración única."
     },
     "1055818": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
         "es": "Caja de plano de desintegrador entrópico ultramareal de Zorya"
     },
     "1055819": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "es": "Contiene una copia de plano de desintegrador entrópico ultramareal de Zorya con una iteración única."
     },
     "1055820": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
         "es": "Caja de plano de desintegrador entrópico ultramareal de Zorya"
     },
     "1055821": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "es": "Contiene una copia de plano de desintegrador entrópico ultramareal de Zorya con una iteración única."
     },
     "1055822": {
@@ -1234489,7 +1234489,7 @@
     },
     "1056171": {
         "en": "<i>Receive 150 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "es": "<i>Recibe 150 objetos de comerciantes de objetos.<br><b>Advertencia:</b> Los objetos adicionales de este intercambio no contarán para ningún otro desafío.<br><br><b>Ubicaciones de los comerciantes de objetos:</b><br>Saqueadores Sanguinarios: KFIE-Z, Anila, Sosala, Ahtila<br>Orden de Tetrimon: Ibani, Kamela, Sakenta, Shera<br>Colectivo Triglaviano: Raravoss, Vale, Otela, Gammel</i>"
+        "es": "<i>Recibe 150 objetos de comerciantes de objetos.<br><b>Advertencia:</b> Los objetos adicionales de este intercambio no contarán para ningún otro desafío.<br><br><b>Ubicaciones de los comerciantes de objetos:</b><br>Saqueadores Sanguinarios: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Orden de Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Colectivo Triglaviano: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>"
     },
     "1056172": {
         "en": "CH26: Trade Items - Repeatable",
@@ -1234501,7 +1234501,7 @@
     },
     "1056174": {
         "en": "<i>Receive 60 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "es": "<i>Recibe 60 objetos de comerciantes de objetos.<br><b>Advertencia:</b> Los objetos adicionales de este intercambio no contarán para ningún otro desafío.<br><br><b>Ubicaciones de los comerciantes de objetos:</b><br>Saqueadores Sanguinarios: KFIE-Z, Anila, Sosala, Ahtila<br>Orden de Tetrimon: Ibani, Kamela, Sakenta, Shera<br>Colectivo Triglaviano: Raravoss, Vale, Otela, Gammel</i>"
+        "es": "<i>Recibe 60 objetos de comerciantes de objetos.<br><b>Advertencia:</b> Los objetos adicionales de este intercambio no contarán para ningún otro desafío.<br><br><b>Ubicaciones de los comerciantes de objetos:</b><br>Saqueadores Sanguinarios: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Orden de Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Colectivo Triglaviano: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>"
     },
     "1056273": {
         "en": "CRIMSON HARVEST  ",

@@ -1185609,7 +1185609,7 @@
     },
     "1019503": {
         "en": "Align with the Blood Raiders or Order of St. Tetrimon as they clash with the Triglavian Collective. ",
-        "ja": "クリムゾンハーベストの血に染まる戦場で、どちらの陣営に加わるかを選びましょう！"
+        "ja": "トリグラビアンコレクティブと衝突するブラッドレイダーズ、または聖テトリモン修道会に味方しよう。"
     },
     "1019504": {
         "en": "Crimson Harvest",
@@ -1233913,7 +1233913,7 @@
     },
     "1055576": {
         "en": "<i>Destroy 150 Order of Tetrimon ships encountered in the following sites:<br>- Tetrimon Base<br>- Tetrimon Garrison<br>- Tetrimon Frontline Base<br>- Tetrimon Forward Headquarters</i>",
-        "ja": "<i>以下のサイトで遭遇する聖テトリモン修道会の艦船を150隻撃破する：<br>- テトリモン基地<br>- テトリモン駐屯地<br>- テトリモン前線基地<br>- テトリモン前線司令本部</i>"
+        "ja": "<i>以下のサイトで遭遇する聖テトリモン修道会の艦船を150隻撃破する：<br>- テトリモン基地<br>- テトリモン駐屯地<br>- テトリモン前線基地<br>- テトリモン前方本部</i>"
     },
     "1055578": {
         "en": "CH26: Destroy Tetrimon NPCs Repeatable",
@@ -1233925,7 +1233925,7 @@
     },
     "1055580": {
         "en": "<i>Destroy 60 Order of Tetrimon ships encountered in the following sites:<br>- Tetrimon Base<br>- Tetrimon Garrison<br>- Tetrimon Frontline Base<br>- Tetrimon Forward Headquarters</i>",
-        "ja": "<i>以下のサイトで遭遇する聖テトリモン修道会の艦船を60隻撃破する：<br>- テトリモン基地<br>- テトリモン駐屯地<br>- テトリモン前線基地<br>- テトリモン前線司令本部</i>"
+        "ja": "<i>以下のサイトで遭遇する聖テトリモン修道会の艦船を60隻撃破する：<br>- テトリモン基地<br>- テトリモン駐屯地<br>- テトリモン前線基地<br>- テトリモン前方本部</i>"
     },
     "1055627": {
         "en": "CH26: Tetrimon Boss Initial",
@@ -1234124,7 +1234124,7 @@
         "ja": "ブラッドレイダーカバナントは、カルト集団サニサビクの中でも特に恐ろしい派閥である。近年のサニサビクの儀式はいずれも何かしらの方法で血液を使用するが、ブラッドレイダーカバナントはその部分を特に重んじており、最も豊かで汚れの少ない供給源から血液を手に入れるためには労を惜しまない。ブラッドレイダーカバナントは、宇宙で活動しているあらゆる海賊の中でも指折りの危険で邪悪な存在と見なされている。"
     },
     "1055747": {
-        "en": "Sarikusa’s Capital Energy Nosferatu",
+        "en": "Sarikusa's Capital Energy Nosferatu",
         "ja": "サリクサのキャピタルエネルギーノスフェラトゥ"
     },
     "1055748": {
@@ -1234132,7 +1234132,7 @@
         "ja": "ターゲット指定した艦船からキャパシタを吸収して自艦のものとする。\r\n\r\n注：ノスフェラトゥモジュールは、ターゲットのキャパシタ残量が自艦のキャパシタ残量を下回る場合、キャパシタ吸収を行わない。主力艦級艦船にのみ搭載可能。"
     },
     "1055749": {
-        "en": "Horm’s Capital Energy Neutralizer",
+        "en": "Horm's Capital Energy Neutralizer",
         "ja": "ホームのキャピタルエネルギーニュートラライザー"
     },
     "1055750": {
@@ -1234140,12 +1234140,12 @@
         "ja": "ターゲット指定した艦船のキャパシタに蓄えられているエネルギーを一部中和することができる。\r\n\r\n注：主力艦級艦船にのみ搭載可能。"
     },
     "1055752": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator",
+        "en": "Zorya's Ultratidal Entropic Disintegrator",
         "ja": "ゾーリャの超潮性エントロピックディスインテグレーター"
     },
     "1055753": {
         "en": "This extra-large Entropic Disintegrator is only seen in use on Triglavian capital ships, these massive ships being capable of managing the considerable radiation and enormous gravitational tidal forces the weapon generates. At the energy levels of this ultraheavy weapon system, the tidal forces are so powerful that even the special systems built into battleships are insufficient and only capital ships can deal with the forces involved.\r\n\r\nEntropic Disintegrators draw on the tremendous power of the Triglavian singularity-based energy systems to convert exotic matter into a particle stream directed with locally generated entropic force. While powerful, the range of the weapon is limited by the attenuation of entropic forces, which dissipate critically beyond the optimal range. As a result this weapon has no falloff range.\r\n\r\nThe particle stream generates thermal and explosive reactions on impact, and the entropic forces resolve into a localized gravitational conduit that steadily increases the acceleration on the exotic particles. In effect, the weapon's damage potential increases to a maximum level as long as the particle stream is kept on the same target.\r\n\r\nRequires either standard or advanced exotic plasma charge ammo types: Baryon, Meson, Tetryon, Mystic, and Occult.",
-        "ja": "この超巨大なエントロピックディスインテグレーターは、そこから発生するかなりの放射線と巨大な引力の潮汐力を制御できる巨大艦、つまりトリグラビアンの主力艦でのみ使用されている。この超重量級の兵器システムのエネルギーレベルでは、戦艦に内蔵された特殊なシステムですら不十分なほどの潮汐力が発生し、主力艦だけがその力に対処できるのである。\r\n\r\nエントロピックディスインテグレーターはトリグラビアン製特異点エネルギーシステムより生成される莫大なエネルギーを使い、その場で生成されたエントロピー力で異物質を粒子の流れに変換する。高威力な武器であるが、その射程はエントロピー力の減衰に左右され、最適射程距離外では粒子が著しく分散する。そのためこの兵器には精度低下範囲が存在しない。\r\n\r\n粒子の流れは接触すると熱と爆発を起こし、この際、エントロピー力が分解されて居地的な重力導管に姿を変え、エキゾチック粒子を徐々に加速させていく。結果として、粒子の流れを同じ標的に当て続けていけば、この兵器のダメージ量は最大レベルまで上昇する。\r\n\r\nエキゾチックプラズマチャージ弾薬であるバリオン、メソン、テトリオンが必要。"
+        "ja": "この超巨大なエントロピックディスインテグレーターは、そこから発生するかなりの放射線と巨大な引力の潮汐力を制御できる巨大艦、つまりトリグラビアンの主力艦でのみ使用されている。この超重量級の兵器システムのエネルギーレベルでは、戦艦に内蔵された特殊なシステムですら不十分なほどの潮汐力が発生し、主力艦だけがその力に対処できるのである。\r\n\r\nエントロピックディスインテグレーターはトリグラビアン製特異点エネルギーシステムより生成される莫大なエネルギーを使い、その場で生成されたエントロピー力で異物質を粒子の流れに変換する。高威力な武器であるが、その射程はエントロピー力の減衰に左右され、最適射程距離外では粒子が著しく分散する。そのためこの兵器には精度低下範囲が存在しない。\r\n\r\n粒子の流れは接触すると熱と爆発を起こし、この際、エントロピー力が分解されて居地的な重力導管に姿を変え、エキゾチック粒子を徐々に加速させていく。結果として、粒子の流れを同じ標的に当て続けていけば、この兵器のダメージ量は最大レベルまで上昇する。\r\n\r\n標準型、もしくは高性能のエキゾチックプラズマチャージ弾薬であるバリオン、メソン、テトリオン、ミスティック、そしてオカルトが必要。"
     },
     "1055794": {
         "en": "Dark Blood Stasis Webifier Blueprint",
@@ -1234168,51 +1234168,51 @@
         "ja": "ゾーリャの超潮性エントロピックディスインテグレーター設計図"
     },
     "1055807": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "ja": "サリクサのキャピタルエネルギーノスフェラトゥ設計図のコピーが1部含まれてる。"
     },
     "1055808": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
         "ja": "サリクサのキャピタルエネルギーノスフェラトゥ設計図箱"
     },
     "1055810": {
-        "en": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+        "en": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
         "ja": "サリクサのキャピタルエネルギーノスフェラトゥ設計図箱"
     },
     "1055811": {
-        "en": "Contains a Sarikusa’s Capital Energy Nosferatu blueprint copy with a single run.",
+        "en": "Contains a Sarikusa's Capital Energy Nosferatu blueprint copy with a single run.",
         "ja": "サリクサのキャピタルエネルギーノスフェラトゥ設計図のコピーが1部含まれてる。"
     },
     "1055814": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
         "ja": "ホームのキャピタルエネルギーニュートラライザー設計図箱"
     },
     "1055815": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "ja": "ホームのキャピタルエネルギーニュートラライザー設計図のコピーが1部含まれてる。"
     },
     "1055816": {
-        "en": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+        "en": "Horm's Capital Energy Neutralizer Blueprint Crate",
         "ja": "ホームのキャピタルエネルギーニュートラライザー設計図箱"
     },
     "1055817": {
-        "en": "Contains a Horm’s Capital Energy Neutralizer blueprint copy with a single run.",
+        "en": "Contains a Horm's Capital Energy Neutralizer blueprint copy with a single run.",
         "ja": "ホームのキャピタルエネルギーニュートラライザー設計図のコピーが1部含まれてる。"
     },
     "1055818": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
         "ja": "ゾーリャの超潮性エントロピックディスインテグレーター設計図箱"
     },
     "1055819": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "ja": "ゾーリャの超潮性エントロピックディスインテグレーター設計図のコピーが1部含まれてる。"
     },
     "1055820": {
-        "en": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+        "en": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
         "ja": "ゾーリャの超潮性エントロピックディスインテグレーター設計図箱"
     },
     "1055821": {
-        "en": "Contains a Zorya’s Ultratidal Entropic Disintegrator blueprint copy with a single run.",
+        "en": "Contains a Zorya's Ultratidal Entropic Disintegrator blueprint copy with a single run.",
         "ja": "ゾーリャの超潮性エントロピックディスインテグレーター設計図のコピーが1部含まれてる。"
     },
     "1055822": {
@@ -1234489,7 +1234489,7 @@
     },
     "1056171": {
         "en": "<i>Receive 150 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "ja": "<i>アイテムトレーダーからアイテムを150個受け取る。<br><b>警告：</b>このトレードで追加で受け取ったアイテムは、それ以降のチャレンジにはカウントされない。<br><br><b>アイテムトレーダーの所在地：</b><br>ブラッドレイダーズ：KFIE-Z、アニラ、ソサラ、アーティラ<br>聖テトリモン修道会：イバニ、カメラ、サケンタ、シェラ<br>トリグラビアンコレクティブ：ララボス、ベール、オテラ、ガンメル</i>"
+        "ja": "<i>アイテムトレーダーからアイテムを150個受け取る。<br><b>警告：</b>このトレードで追加で受け取ったアイテムは、それ以降のチャレンジにはカウントされない。<br><br><b>アイテムトレーダーの所在地：</b><br>ブラッドレイダーズ：<url=showinfo:5//30004709>KFIE-Z</url>、<url=showinfo:5//30003515>アニラ</url>、<url=showinfo:5//30003070>ソサラ</url>、<url=showinfo:5//30045328>アーティラ</url><br>聖テトリモン修道会：<url=showinfo:5//30003933>イバニ</url>、<url=showinfo:5//30003069>カメラ</url>、<url=showinfo:5//30010141>サケンタ</url>、<url=showinfo:5//30005192>シェラ</url><br>トリグラビアンコレクティブ：<url=showinfo:5//30003495>ララボス</url>、<url=showinfo:5//30005029>ベール</url>、<url=showinfo:5//30000157>オテラ</url>、<url=showinfo:5//30003076>ガンメル</url></i>"
     },
     "1056172": {
         "en": "CH26: Trade Items - Repeatable",
@@ -1234501,7 +1234501,7 @@
     },
     "1056174": {
         "en": "<i>Receive 60 items from Item Traders.<br><b>Warning:</b> Additional items in this trade do not count towards any further challenges.<br><br><b>Item Trader locations:</b><br>Blood Raiders: <url=showinfo:5//30004709>KFIE-Z</url>, <url=showinfo:5//30003515>Anila</url>, <url=showinfo:5//30003070>Sosala</url>, <url=showinfo:5//30045328>Ahtila</url><br>Order of Tetrimon: <url=showinfo:5//30003933>Ibani</url>, <url=showinfo:5//30003069>Kamela</url>, <url=showinfo:5//30010141>Sakenta</url>, <url=showinfo:5//30005192>Shera</url><br>Triglavian Collective: <url=showinfo:5//30003495>Raravoss</url>, <url=showinfo:5//30005029>Vale</url>, <url=showinfo:5//30000157>Otela</url>, <url=showinfo:5//30003076>Gammel</url></i>",
-        "ja": "<i>アイテムトレーダーからアイテムを60個受け取る。<br><b>警告：</b>このトレードで追加で受け取ったアイテムは、それ以降のチャレンジにはカウントされない。<br><br><b>アイテムトレーダーの所在地：</b><br>ブラッドレイダーズ：KFIE-Z、アニラ、ソサラ、アーティラ<br>聖テトリモン修道会：イバニ、カメラ、サケンタ、シェラ<br>トリグラビアンコレクティブ：ララボス、ベール、オテラ、ガンメル</i>"
+        "ja": "<i>アイテムトレーダーからアイテムを60個受け取る。<br><b>警告：</b>このトレードで追加で受け取ったアイテムは、それ以降のチャレンジにはカウントされない。<br><br><b>アイテムトレーダーの所在地：</b><br>ブラッドレイダーズ：<url=showinfo:5//30004709>KFIE-Z</url>、<url=showinfo:5//30003515>アニラ</url>、<url=showinfo:5//30003070>ソサラ</url>、<url=showinfo:5//30045328>アーティラ</url><br>聖テトリモン修道会：<url=showinfo:5//30003933>イバニ</url>、<url=showinfo:5//30003069>カメラ</url>、<url=showinfo:5//30010141>サケンタ</url>、<url=showinfo:5//30005192>シェラ</url><br>トリグラビアンコレクティブ：<url=showinfo:5//30003495>ララボス</url>、<url=showinfo:5//30005029>ベール</url>、<url=showinfo:5//30000157>オテラ</url>、<url=showinfo:5//30003076>ガンメル</url></i>"
     },
     "1056273": {
         "en": "CRIMSON HARVEST  ",
