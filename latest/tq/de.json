@@ -132309,7 +132309,7 @@
     },
     "91437": {
         "en": "A very specialized piece of technology, the covert ops cloak is designed for use in tandem with specific covert ops vessels. Although it could theoretically work on other ships, its spatial distortion field is so unstable that trying to compensate for its fluctuations will overwhelm non-specialized computing hardware.\r\n\r\nNote: This particular module is advanced enough that it allows a ship to warp while cloaked. However, fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
-        "de": "Diese Tarnung für verdeckte Operationen ist ein sehr spezielles Stück Technologie und für den gemeinsamen Einsatz mit spezifischen Covert Ops-Schiffen gedacht. Theoretisch könnte sie zwar auch auf anderen Schiffen funktionieren, aber ihr Raumverzerrungsfeld ist derart instabil, dass der Versuch, seine Fluktuationen zu kompensieren, eine nicht darauf spezialisierte Hardware überfordern würde.\n\nHinweis: Dieses besondere Modul ist fortschrittlich genug, dass es einem Schiff gestattet, den Warpantrieb zu benutzen, während es sich im Tarnmodus befindet. Das Ausrüsten von zwei oder mehr Tarnmodulen stört allerdings deren Funktionalität, da die asynchrone Krümmung des Lichts zu Interferenzen führt."
+        "de": "Diese Tarnung für verdeckte Operationen ist ein sehr spezielles Stück Technologie und für den gemeinsamen Einsatz mit spezifischen Covert Ops-Schiffen gedacht. Theoretisch könnte sie zwar auch auf anderen Schiffen funktionieren, aber ihr Raumverzerrungsfeld ist derart instabil, dass der Versuch, seine Fluktuationen zu kompensieren, eine nicht darauf spezialisierte Hardware überfordern würde.\r\n\r\nHinweis: Dieses besondere Modul ist fortschrittlich genug, dass es einem Schiff gestattet, den Warpantrieb zu benutzen, während es sich im Tarnmodus befindet. Das Ausrüsten von zwei oder mehr Tarnmodulen stört allerdings deren Funktionalität, da die asynchrone Krümmung des Lichts zu Interferenzen führt."
     },
     "91438": {
         "en": "This prototype of an advanced cloaking mechanism was one of the last major technological breakthroughs to come out of Crielere Labs. Although it does work, it is not really a finished product and has some serious drawbacks, most notably the fact that the module creates high sensor disruption while fitted and cannot operate unless at minimum velocity.\r\n\r\nNote: Fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
@@ -132321,7 +132321,7 @@
     },
     "91441": {
         "en": "A very specialized piece of technology, the covert ops cloak is designed for use in tandem with specific covert ops vessels. Although it could theoretically work on other ships, its spatial distortion field is so unstable that trying to compensate for its fluctuations will overwhelm non-specialized computing hardware. \r\n\r\nNote: This particular module is advanced enough that it allows a ship to warp while cloaked. However, fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
-        "de": "Diese Tarnung für verdeckte Operationen ist ein sehr spezielles Stück Technologie und für den gemeinsamen Einsatz mit spezifischen Covert Ops-Schiffen gedacht. Theoretisch könnte sie zwar auch auf anderen Schiffen funktionieren, aber ihr Raumverzerrungsfeld ist derart instabil, dass der Versuch, seine Fluktuationen zu kompensieren, eine nicht darauf spezialisierte Hardware überfordern würde. \n\nHinweis: Dieses besondere Modul ist fortschrittlich genug, dass es einem Schiff gestattet, den Warpantrieb zu benutzen, während es sich im Tarnmodus befindet. Das Ausrüsten von zwei oder mehr Tarnmodulen stört allerdings deren Funktionalität, da die asynchrone Krümmung des Lichts zu Interferenzen führt."
+        "de": "Diese Tarnung für verdeckte Operationen ist ein sehr spezielles Stück Technologie und für den gemeinsamen Einsatz mit spezifischen Covert Ops-Schiffen gedacht. Theoretisch könnte sie zwar auch auf anderen Schiffen funktionieren, aber ihr Raumverzerrungsfeld ist derart instabil, dass der Versuch, seine Fluktuationen zu kompensieren, eine nicht darauf spezialisierte Hardware überfordern würde. \r\n\r\nHinweis: Dieses besondere Modul ist fortschrittlich genug, dass es einem Schiff gestattet, den Warpantrieb zu benutzen, während es sich im Tarnmodus befindet. Das Ausrüsten von zwei oder mehr Tarnmodulen stört allerdings deren Funktionalität, da die asynchrone Krümmung des Lichts zu Interferenzen führt."
     },
     "91442": {
         "en": "This prototype of an advanced cloaking mechanism was one of the last major technological breakthroughs to come out of Crielere Labs. Although it does work, it is not really a finished product and has some serious drawbacks, most notably the fact that the module creates high sensor disruption while fitted and cannot operate unless at minimum velocity.\r\n\r\nNote: Fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
@@ -135661,7 +135661,7 @@
     },
     "92291": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92292": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -135673,27 +135673,27 @@
     },
     "92294": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92295": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92296": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die EM-Resistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92297": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92298": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92299": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92300": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -135701,7 +135701,7 @@
     },
     "92301": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nNachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Explosionsresistenz der Schilde eines Schiffes zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Nachteil: Bei der Verwendung mehrerer Module des selben oder ähnlichen Typs, welche das selbe Attribut des Schiffes beeinflussen, wird deren Wirksamkeit eingeschränkt.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92302": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -135809,43 +135809,43 @@
     },
     "92328": {
         "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Schildkapazität zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Schildkapazität zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92329": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92330": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92331": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92332": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92333": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92334": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92335": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92336": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92337": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92338": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -136209,35 +136209,35 @@
     },
     "92428": {
         "en": "This ship modification is designed to reduce the power need of all shield upgrade modules at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiebedarf aller Schild-Upgrade-Module zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiebedarf aller Schild-Upgrade-Module zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92429": {
         "en": "This ship modification is designed to reduce the power need of all shield upgrade modules at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiebedarf aller Schild-Upgrade-Module zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiebedarf aller Schild-Upgrade-Module zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92430": {
         "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Schildkapazität zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Schildkapazität zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92431": {
         "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Schildkapazität zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Schildkapazität zu erhöhen. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92432": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92433": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde entwickelt, um die Wiederaufladerate der Schilde zu verbessern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92434": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92435": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, die Zyklusdauer für Schildbooster zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92436": {
         "en": "This ship modification is designed to increase a ship's drone control range at the expense of the ship's CPU capacity.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26255>Drones Rigging</a> skill.",
@@ -137173,7 +137173,7 @@
     },
     "92669": {
         "en": "This ship modification is designed to reduce the capacitor need of modules which require shield operation skills at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiespeicherbedarf aller Schild-Upgrade-Module, die Skills für die Schildbedienung benötigen, zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.\n\n\n\nDie Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
+        "de": "Diese Schiffsmodifikation wurde dazu entwickelt, den Energiespeicherbedarf aller Schild-Upgrade-Module, die Skills für die Schildbedienung benötigen, zu verringern. Dies geschieht auf Kosten eines erhöhten Signaturradius.    Die Nachteile dieser Modifikation können durch das Training des Skills <a href=showinfo:26261>Schildmodifikation</a> reduziert werden."
     },
     "92670": {
         "en": "A piece of machinery designed to allow a capital vessel to create a bridge between systems without the use of a stargate, allowing its companion vessels to travel across vast tracts of space to join it on the battlefield.<br>\r\nNote: Can only be fitted to Titans.<br>\r\nJump Portal Generators use the same isotopes as your ship's jump drive to jump other ships through the portal. You will need sufficient fuel in your holds in order to allow ships in your fleet to use the jump portal when it is activated. You will still require Strontium Clathrates to activate this module and enable bridging operations.",
@@ -665109,7 +665109,7 @@
     },
     "234087": {
         "en": "Average Pilots in Space (last 30min)",
-        "de": "Durchschnittliche Pilotenanzahn im Weltraum (letzte 30 Minuten)"
+        "de": "Durchschnittliche Pilotenanzahl im Weltraum (letzte 30 Minuten)"
     },
     "234088": {
         "en": "Average Docked Pilots (last 30min)",
@@ -1079697,7 +1079697,7 @@
     },
     "631059": {
         "en": "{[numeric]numDrones} out of maximum {[numeric]numMax} drones in space as allowed by the Drones skill",
-        "de": "{[numeric]numDrones} out of maximum {[numeric]numMax} drones in space as allowed by the Drones skill"
+        "de": "{[numeric]numDrones} von maximal {[numeric]numMax} Drohnen im Weltraum (abhängig vom Drohnenskill)"
     },
     "631070": {
         "en": "Bandwidth used",
@@ -1205869,7 +1205869,7 @@
     },
     "1036031": {
         "en": "Unstable Wormhole",
-        "de": "Instabiles Wurmloch"
+        "de": ""
     },
     "1036032": {
         "en": "Wormhole Located",
@@ -1234625,6 +1234625,18 @@
     },
     "1056505": {
         "en": "Triglavian Background",
+        "de": ""
+    },
+    "1059561": {
+        "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
+        "de": ""
+    },
+    "1059562": {
+        "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
+        "de": ""
+    },
+    "1059563": {
+        "en": "Akoman Sanguinary Savant SKIN",
         "de": ""
     }
 }

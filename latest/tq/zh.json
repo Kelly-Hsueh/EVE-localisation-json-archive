@@ -18453,7 +18453,7 @@
     },
     "58788": {
         "en": "{[numeric]units} {[numeric]units-> \"year\", \"years\"}",
-        "zh": "{[numeric]units}{[numeric]units-> \"year\", \"years\"}"
+        "zh": "{[numeric]units}年"
     },
     "58790": {
         "en": "Less than one second",
@@ -18461,7 +18461,7 @@
     },
     "58791": {
         "en": "{[numeric]units} {[numeric]units-> \"day\", \"days\"}",
-        "zh": "{[numeric]units} {[numeric]units-> \"day\", \"days\"}"
+        "zh": "{[numeric]units}日"
     },
     "58792": {
         "en": "Return Control",
@@ -18489,7 +18489,7 @@
     },
     "58800": {
         "en": "{[numeric]units} {[numeric]units-> \"hour\", \"hours\"}",
-        "zh": "{[numeric]units}{[numeric]units-> \"hour\", \"hours\"}"
+        "zh": "{[numeric]units}{[numeric]units-> \"小时\", \"小时\"}"
     },
     "58802": {
         "en": "Type search string",
@@ -18533,7 +18533,7 @@
     },
     "58816": {
         "en": "{[numeric]units} {[numeric]units-> \"minute\", \"minutes\"}",
-        "zh": "{[numeric]units}{[numeric]units-> \"minute\", \"minutes\"}"
+        "zh": "{[numeric]units}{[numeric]units-> \"分钟\", \"分钟\"}"
     },
     "58818": {
         "en": "Please enter at least one character and then try again.",
@@ -99205,7 +99205,7 @@
     },
     "82736": {
         "en": "Note: This blueprint can only be used with the Rorqual Capital Industrial Ships assembly lines.",
-        "zh": "注：此蓝图仅可供长须鲸级工业旗舰装配线使用。"
+        "zh": "注：注：此蓝图仅可供长须鲸级工业旗舰装配线使用。"
     },
     "82738": {
         "en": "Note: This blueprint can only be used with the Rorqual Capital Industrial Ships assembly lines.",
@@ -127317,7 +127317,7 @@
     },
     "90101": {
         "en": "5% bonus to EM resistance per level for Armor Coatings and Energized Membranes.",
-        "zh": "每升一级，装甲附甲和电压薄膜的电磁抗性提高5%。"
+        "zh": "每升一级，装甲抗性涂层和电压薄膜的电磁抗性提高5%。"
     },
     "90102": {
         "en": "5% bonus to explosive resistance per level for Armor Coatings and Energized Membranes.",
@@ -131085,7 +131085,7 @@
     },
     "91129": {
         "en": "These are the raw chemical components used to make insorzapine bisulfate, an unstable reactive mutagen binder with uses that include negating the effects of Vitoc. This compound is also dangerously lethal.",
-        "zh": "这些是用来制造荧索扎品二硫酸氢盐的化学原料，一种不稳定的有机体突变诱导物，可以中和崴砣柯的效果。这种物质是十分致命的。这种化合物也具有极强的致命性。"
+        "zh": "这些是用来制造荧索扎品硫酸氢盐的化学原料，一种不稳定的有机体突变诱导物，可以中和崴砣柯的效果。这种物质是十分致命的。"
     },
     "91130": {
         "en": "An enhanced version of the explosive armor coating. Uses advanced magnetic field generators to strengthen the effect. Grants a bonus to armor explosive damage resistance.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
@@ -132309,7 +132309,7 @@
     },
     "91437": {
         "en": "A very specialized piece of technology, the covert ops cloak is designed for use in tandem with specific covert ops vessels. Although it could theoretically work on other ships, its spatial distortion field is so unstable that trying to compensate for its fluctuations will overwhelm non-specialized computing hardware.\r\n\r\nNote: This particular module is advanced enough that it allows a ship to warp while cloaked. However, fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
-        "zh": "作为一种非常特殊的技术，隐秘行动隐形装置被设计为与某些隐秘类型的舰船协同使用。尽管理论上它也能配备在其他舰船上，但是其空间扭曲立场非常不稳定，要弥补这种波动，即使最大的标准舰载电脑也会不堪重负。注：注意：这种高级装备让舰船可以在隐形的情况下跃迁，但是使用两个或者多个隐形装置将会导致其作用抵消，因为不同步的光反射会造成相互干扰。"
+        "zh": "作为一种非常特殊的技术，隐秘行动隐形装置被设计为与某些隐秘类型的舰船协同使用。尽管理论上它也能配备在其他舰船上，但是其空间扭曲立场非常不稳定，要弥补这种波动，即使最大的标准舰载电脑也会不堪重负。注意：这种高级装备让舰船可以在隐形的情况下跃迁，但是使用两个或者多个隐形装置将会导致其作用抵消，因为不同步的光反射会造成相互干扰。"
     },
     "91438": {
         "en": "This prototype of an advanced cloaking mechanism was one of the last major technological breakthroughs to come out of Crielere Labs. Although it does work, it is not really a finished product and has some serious drawbacks, most notably the fact that the module creates high sensor disruption while fitted and cannot operate unless at minimum velocity.\r\n\r\nNote: Fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
@@ -132321,7 +132321,7 @@
     },
     "91441": {
         "en": "A very specialized piece of technology, the covert ops cloak is designed for use in tandem with specific covert ops vessels. Although it could theoretically work on other ships, its spatial distortion field is so unstable that trying to compensate for its fluctuations will overwhelm non-specialized computing hardware. \r\n\r\nNote: This particular module is advanced enough that it allows a ship to warp while cloaked. However, fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
-        "zh": "作为一种非常特殊的技术，隐秘行动隐形装置被设计为与某些隐秘类型的舰船协同使用。尽管理论上它也能配备在其他舰船上，但是其空间扭曲立场非常不稳定，要弥补这种波动，即使最大的标准舰载电脑也会不堪重负。注：注意：这种高级装备让舰船可以在隐形的情况下跃迁，但是使用两个或者多个隐形装置将会导致其作用抵消，因为不同步的光反射会造成相互干扰。"
+        "zh": "作为一种非常特殊的技术，隐秘行动隐形装置被设计为与某些隐秘类型的舰船协同使用。尽管理论上它也能配备在其他舰船上，但是其空间扭曲立场非常不稳定，要弥补这种波动，即使最大的标准舰载电脑也会不堪重负。 \r\n\r\n注意：这种高级装备让舰船可以在隐形的情况下跃迁，但是使用两个或者多个隐形装置将会导致其作用抵消，因为不同步的光反射会造成相互干扰。"
     },
     "91442": {
         "en": "This prototype of an advanced cloaking mechanism was one of the last major technological breakthroughs to come out of Crielere Labs. Although it does work, it is not really a finished product and has some serious drawbacks, most notably the fact that the module creates high sensor disruption while fitted and cannot operate unless at minimum velocity.\r\n\r\nNote: Fitting two or more cloaking devices to a ship negates their use, as unsynchronized light deflection causes interference.",
@@ -132625,15 +132625,15 @@
     },
     "91519": {
         "en": "A neural Interface upgrade that boosts the pilot's research skills.\r\n\r\n1% bonus to blueprint manufacturing time research.",
-        "zh": "一款神经接口升级芯片，可以增强飞行员的研究技能。\n\n\n\n蓝图制造时间研究减少1%。"
+        "zh": "一款神经接口升级芯片，可以增强飞行员的研究技能。蓝图制造时间研究减少1%。"
     },
     "91520": {
         "en": "A neural Interface upgrade that boosts the pilot's research skills.\r\n\r\n3% bonus to blueprint manufacturing time research.",
-        "zh": "一款神经接口升级芯片，可以增强飞行员的研究技能。\n\n\n\n蓝图制造时间研究减少3%。"
+        "zh": "一款神经接口升级芯片，可以增强飞行员的研究技能。蓝图制造时间研究减少3%。"
     },
     "91521": {
         "en": "A neural Interface upgrade that boosts the pilot's research skills.\r\n\r\n5% bonus to blueprint manufacturing time research.",
-        "zh": "一款神经接口升级芯片，可以增强飞行员的研究技能。\n\n\n\n蓝图制造时间研究减少5%。"
+        "zh": "一款神经接口升级芯片，可以增强飞行员的研究技能。蓝图制造时间研究减少5%。"
     },
     "91522": {
         "en": "A neural Interface upgrade that boosts the pilot's skill in the operation of remote armor repair systems. \r\n\r\n1% reduced capacitor need for remote armor repair system modules.",
@@ -135661,7 +135661,7 @@
     },
     "92291": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92292": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -135673,27 +135673,27 @@
     },
     "92294": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92295": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92296": {
         "en": "This ship modification is designed to increase the EM resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的电磁抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92297": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92298": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92299": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92300": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -135701,7 +135701,7 @@
     },
     "92301": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。\n\n\n\n惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件可以提高护盾的爆炸抗性，但代价是信号半径增大。    惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92302": {
         "en": "This ship modification is designed to increase the explosive resistance of ship shields at the expense of increased signature radius.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -135809,43 +135809,43 @@
     },
     "92328": {
         "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92329": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92330": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92331": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92332": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92333": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92334": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92335": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92336": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92337": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92338": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
@@ -136209,35 +136209,35 @@
     },
     "92428": {
         "en": "This ship modification is designed to reduce the power need of all shield upgrade modules at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少所有护盾升级装备的能量需求。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少所有护盾升级装备的能量需求。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92429": {
         "en": "This ship modification is designed to reduce the power need of all shield upgrade modules at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少所有护盾升级装备的能量需求。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少所有护盾升级装备的能量需求。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92430": {
         "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92431": {
         "en": "This ship modification is designed to increase shield capacity at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来增加飞船护盾的容量。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92432": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92433": {
         "en": "This ship modification is designed to improve shield recharge rate at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来提高飞船护盾的回充速率。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92434": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92435": {
         "en": "This ship modification is designed to reduce the duration of shield booster cycles at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个飞船改装件通过增大信号半径来减少护盾的循环周期。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92436": {
         "en": "This ship modification is designed to increase a ship's drone control range at the expense of the ship's CPU capacity.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26255>Drones Rigging</a> skill.",
@@ -137173,7 +137173,7 @@
     },
     "92669": {
         "en": "This ship modification is designed to reduce the capacitor need of modules which require shield operation skills at the expense of increased signature radius.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26261>Shield Rigging</a> skill.",
-        "zh": "这个改装件的设计旨在减少需要护盾操作技能的装备的电容需求，但却以增加信号半径为代价。\n\n\n\n装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。装配这种改装件的副作用可以通过训练装甲改装技术技能降低影响。"
+        "zh": "这个改装件的设计旨在减少需要护盾操作技能的装备的电容需求，但却以增加信号半径为代价。    装配这个改装件的副作用可以通过训练<a href=showinfo:26261>护盾改装技术</a>技能降低影响。"
     },
     "92670": {
         "en": "A piece of machinery designed to allow a capital vessel to create a bridge between systems without the use of a stargate, allowing its companion vessels to travel across vast tracts of space to join it on the battlefield.<br>\r\nNote: Can only be fitted to Titans.<br>\r\nJump Portal Generators use the same isotopes as your ship's jump drive to jump other ships through the portal. You will need sufficient fuel in your holds in order to allow ships in your fleet to use the jump portal when it is activated. You will still require Strontium Clathrates to activate this module and enable bridging operations.",
@@ -141885,7 +141885,7 @@
     },
     "93899": {
         "en": "The Utu is a highly advanced drone platform specially commissioned for the 8th Alliance Tournament. While based on the Ishkur's design, this ship features design elements that go above and beyond the original blueprint.\r\n\r\nIn addition to revolutionary heat dispersion field projectors, the Utu is equipped with cutting-edge hardwired drone protocols and upgraded warp scrambling capability. Combined with the sturdy armor plating, these qualities make the Utu a powerful ally in any combat encounter.",
-        "zh": "乌图级是一座非常先进的无人机平台，专门用于第八届联盟锦标赛。乌图级是基于伊什库尔级的基础设计建造的，但是它的一些设计元素已经远远高于原本的设计前身。\n\n除了革命性设计的热能散发投射场之外，乌图级还装备了极为先进的无人机接口硬件，以及升级的跃迁干扰能力。再加上坚固的装甲，使得乌图级成为任何战斗中最为坚实有力的盟友。"
+        "zh": "乌图级是一座非常先进的无人机平台，专门用于第八届联盟锦标赛。乌图级是基于伊什库尔级的基础设计建造的，但是它的一些设计元素已经远远高于原本的设计前身。除了革命性设计的热能散发投射场之外，乌图级还装备了极为先进的无人机接口硬件，以及升级的跃迁干扰能力。再加上坚固的装甲，使得乌图级成为任何战斗中最为坚实有力的盟友。"
     },
     "93900": {
         "en": "The Adrestia is a high-powered blaster platform specially commissioned for the 8th Alliance Tournament. While similar to its sister vessel the Deimos (on which its design was based), this ship nonetheless differs in some very important ways. Utilizing lightweight alloys and a prototype form of ion thruster, the Adrestia is capable of reaching truly mind-boggling speeds for a heavy assault vessel. While this makes it less sturdy than its predecessor, the lack of defensive plating is compensated for by state-of-the-art targeting systems, thoroughly optimized weapon hardpoints and upgraded warp scrambling capability. Don't let the lack of defense fool you; very few vessels out there can stand against the Adrestia toe to toe.",
@@ -260757,11 +260757,11 @@
     },
     "128430": {
         "en": "Ok, we're all set to take this Norak Pakkal out of business. The card I gave you gives you and your friends entrance to the inner most room of the contested complex. And you're going to need your friends for this one. You can only enter the room in cruisers, but you should expect some very heavy resistance in there, from what I've heard. Nothing that a pilot of your caliber can't handle, but if my army life has taught me anything it is that the careful survive.<br><br> Bring me Pakkul's DNA and I'm authorized to give you a very rare BPC as a reward.",
-        "zh": "好了，一切就绪，是时候彻底除掉纳拉克•帕库尔了。我给你的卡片能够让你和你的朋友进入这个争夺中的复合体的最内层。这次你务必带上几个朋友一起来做。你只能乘坐巡洋舰进入该层，但我想你应该准备好应对那里的强大抵抗。尽管这对你这样的飞行员来说肯定不在话下，但是我的军队生涯教会我最多的就是小心驶得万年船。<br><br>把帕库尔的DNA带给我，我就会获准给你一份非常罕见的蓝图拷贝作为报酬。"
+        "zh": "好了，我们准备让这家 Norak Pakkal 关门大吉了。我给你的这张卡可以让你和你的朋友进入这处争议建筑群的最内层房间。这件事你需要朋友的帮助。你只能乘坐巡洋舰进入房间，但据我所知，你应该会遇到非常顽强的抵抗。以你的水平，没有什么事是应付不了的，但如果说我的军旅生涯教会了我什么，那就是谨慎的人才能生存下来。<br><br> 把帕库尔的 DNA 带给我，我就可以给你一个非常稀有的 BPC 作为奖励。"
     },
     "128431": {
         "en": "Ok, we're all set to take this Norak Pakkal out of business. The card I gave you gives you and your friends entrance to the inner most room of the contested complex. And you're going to need your friends for this one. You can only enter the room in Cruisers, but you should expect some very heavy resistance in there, from what I've heard. Nothing that a pilot of your caliber can't handle, but if my army life has taught me anything it is that the careful survive.<br><br> Bring me Pakkul's DNA and I'm authorized to give you a very rare BPC as a reward.",
-        "zh": "好了，一切就绪，是时候彻底除掉纳拉克•帕库尔了。我给你的卡片能够让你和你的朋友进入这个争夺中的复合体的最内层。这次你务必带上几个朋友一起来做。你只能乘坐巡洋舰进入该层，但我想你应该准备好应对那里的强大抵抗。尽管这对你这样的飞行员来说肯定不在话下，但是我的军队生涯教会我最多的就是小心驶得万年船。<br><br>把帕库尔的DNA带给我，我就会获准给你一份非常罕见的蓝图拷贝作为报酬。"
+        "zh": "好了，我们准备让这家 Norak Pakkal 关门大吉了。我给你的这张卡可以让你和你的朋友进入这处争议建筑群的最内层房间。这件事你需要朋友的帮助。你只能驾驶巡洋舰进入房间，但据我所知，里面的抵抗会非常顽强。以你的水平，没有什么事是应付不了的，但如果说我的军旅生涯教会了我什么，那就是谨慎的人才能生存下来。<br><br> 把帕库尔的DNA带给我，我就可以给你一个非常稀有的BPC作为奖励。"
     },
     "128432": {
         "en": "The Republic's invasion into the sacred home of our Ammatar allies is an abomination that cannot go unpunished. I know the Republic calls it a resettlement of a territory that is theirs. But the Republic is nothing but a bunch of ignorant thieves and scoundrels. How can they argue that the Ani constellation is theirs? It just goes to show that history is written by the victors. Sure, the constellation is marked on all the right maps as belonging to the Republic, but it's the ancestral home of the Nefantar and by right it should be their scions, the Ammatar, who inherit this place. <br><br>It's a disgrace that our beloved late Holy Emperor did not take action regarding this most unholy act. Many Amarr Holders are of the opinion that we Amarrians cannot sit idly by and let this travesty go on unabated. This time, we will be the victors and write our own glorious history about how the Republic was humiliated here in Ani. <br><br>I was sent here for a very special mission by my master. I'm looking for people to assist me in my task, and if you prove yourself, I will give you more lucrative missions down the line. But first you have to show that you're a true friend of the Amarrians and an enemy of the Minmatar slave-dogs. <br><br>The Republic is trying to overrun the military complex here in Traun held by the Angel Cartel. I've been sending pilots on secret missions to hamper Republic efforts there, and I want you to do the same. Bring me eight REF Insignias looted from the dead corpses of Republic pilots and I will grant you further opportunities to make history, a <i>correct</i> history. Search for REF pilots in the contested complex ― they bear the insignia I'm asking for.",
@@ -261133,11 +261133,11 @@
     },
     "128524": {
         "en": "I managed to track down the depraved Amarr Holder of whom I spoke at our last meeting. He's in the Traun system, visiting a station controlled by some lackeys of the Angel Cartel. He has fitted out an old Bestower as a pleasure ship, so look for a Bestower docked at an Angel station. You should find it in the contested complex in the Traun system. I'm offering you a rare blueprint copy, to be given to you once you take care of this Amarrian. ",
-        "zh": "我已经追踪到了我们上次说到的那个邪恶的艾玛劳工主。他正在塔拉文星系走访一个由一些天使企业联合体的马屁精控制的空间站。他将一艘旧的恩赐者级工业舰改装成了豪华游船，所以你的目标就是停靠在一座天使空间站旁的恩赐者级。你可以在塔拉文星系争夺中的复合体内找到它。只要你料理了这个艾玛人，那么我就会给你一份稀有的蓝图拷贝。"
+        "zh": "我终于找到了上次会议上我提到的那个堕落的阿玛尔领主。他身处特劳恩星系，正在访问一个由天使集团的一些走狗控制的空间站。他把一艘旧的“赐予者号”改装成了一艘游艇，所以请寻找停靠在天使站的“赐予者号”。你应该能在特劳恩星系的争议区域找到它。我将提供一份稀有的蓝图副本给你，前提是你得先解决掉这个阿玛瑞安人。 "
     },
     "128525": {
         "en": "How good of you to visit me again, {[character]player.name}. I've been awaiting your return for some time now. I managed to track down the depraved Amarr Holder of whom I spoke at our last meeting. He's in the Traun system, visiting a station controlled by some lackeys of the Angel Cartel. I do not know what his business is there, and really I don't care. Whatever it is it will die with him. He has fitted out an old Bestower as a pleasure ship, so look for a Bestower docked at an Angel station. You should find it in the contested complex in the Traun system. <br><br>By the way, I was contacted by the Sisters in Lanngisi just before you arrived and they informed me that one of the slaves you brought them is a distant relative of mine. Even though my concern extends to all Minmatars, this makes the matter personal. As such, I'm offering you a rare blueprint copy, to be given to you once you take care of this Amarrian quickly and efficiently. Bring me his head when you're done. Then I can go and rest with my mind at peace. ",
-        "zh": "你又来了，太好了，{[character]player.name}。我一直在等你回来。我已经追踪到了我们上次说到的那个邪恶的艾玛劳工主。他正在塔拉文星系走访一个由一些天使企业联合体的马屁精控制的空间站。我不知道他在那里的生意是什么，其实我也不在乎。无论是什么，都将陪他下葬。他将一艘旧的恩赐者级工业舰改装成了豪华游船，所以你的目标就是停靠在一座天使空间站旁的恩赐者级。你可以在塔拉文星系争夺中的复合体内找到它。<br><br>  顺便说一下，就在你来之前朗基斯的姐妹会刚刚联系了我，告诉我你带给她们的劳工中有个人是我的远房亲戚。虽然我"
+        "zh": "你能再次来看我，真是太好了。{[character]player.name} 。我一直盼着你回来。我终于找到了上次会议上我提到的那个堕落的阿玛尔领主。他身处特劳恩星系，正在访问一个由天使集团的一些走狗控制的空间站。我不知道他去那里做什么，说实话，我也不在乎。无论是什么，都会随着他一起消亡。他把一艘旧的“赐予者号”改装成了一艘游艇，所以请寻找停靠在天使站的“赐予者号”。你应该能在特劳恩星系的争议区域找到它。 <br><br>对了，就在你到达之前，兰吉西的修女们联系了我，她们告诉我，你带来的奴隶中有一位是我的远房亲戚。虽然我的关心延伸到所有米玛塔尔人，但这件事对我来说却是切身之事。因此，我将提供一份珍贵的蓝图副本给你，只要你迅速有效地解决掉这个阿玛瑞安人，我就会把它给你。完事后把他的头给我带过来。这样我就可以安心休息了。 "
     },
     "128526": {
         "en": "I thank you once again, {[character]player.name}. May Lady Fortünna shine upon you. ",
@@ -261241,7 +261241,7 @@
     },
     "128551": {
         "en": "You've done us all a great service. Take this shield booster blueprint copy - our own design, no matter what anyone tells ya - and make yourself some cash... or fly around with the best damn booster this side of the nearest Gist complex. <br><br>In any case, Internal Security thanks you for your service, deputy. It's been a pleasure.",
-        "zh": "你为我们大家做出了很大贡献。拿上这个我们自己设计的护盾回充增量器蓝图拷贝，不管别人怎么告诉你，你可以卖点钱……或者开着这个吉斯特复合体这里最强的增效器飞行。<br><br>无论如何，内部安全局都感谢你的协助，委托人。真是高兴。"
+        "zh": "你帮了我们所有人一个大忙。拿上这份护盾增强器蓝图副本——不管别人怎么说，这是我们自己的设计——去赚点钱……或者带着这台最棒的增强器飞到最近的吉斯特综合体附近。 <br><br>总之，内政部感谢您的付出，副手。非常荣幸。"
     },
     "128552": {
         "en": "I have a report here on my desk stating that the Guristas have been training a special frigate wing for hit-and-run operations in the vicinities of Ihakana and Friggi. Intelligence has given us the location of one of the training bases for this frigate wing, and we intend to put a dent in this little scheme of theirs. <br><br>I need you to go out to the next system, where the base is, kill the detachment of frigates being trained there, and destroy their training bunkers. Beware: The instructors are accomplished pilots, and there may be a battleship or two guarding the facilities. Go in with caution. Good luck.",
@@ -261289,7 +261289,7 @@
     },
     "128563": {
         "en": "There certainly is, and that's why you're here. I have a job for you, {[character]player.name}. <br><br>My people, the Kulutor, differ from other Brutor folk; we tend to be seen as \"radicals\" because of our willingness to merge our ancient traditions with modern views and to embrace new technologies that our conservative brethren dismiss as \"unnecessary\" and \"tainted.\" Some even go so far as to accuse us of being sympathetic to Amarrian concerns, which is of course rubbish ― the Amarr Empire has conformed probably least of all the major nations to the modern-era culture that we see spreading throughout the free territories. If we are liberal traditionalists, they are radical conservative hegemonists. But enough of political theory: That is not why you're here. <br><br>Because of our views, we Kulutor have made many enemies. Therefore, I became quite concerned today when we lost contact with our commanders in one of the Holy Grounds within Hjoramold, which my people have sworn to protect. Many of my people are still returning from the Matar tribal meeting I mentioned earlier, so I do not have enough pilots on hand to deal with this matter. I would like you to investigate the site and report your findings to me. If you find any hostiles there, such as rampaging rogue drones or pirates, then eliminate them at once. Do this and take the blessings of the Kulutor with you.",
-        "zh": "当然有，所以你才会来这里。我这里有个工作要交给你。{[character]player.name}。 <br><br>我的族人库鲁托人与其他布鲁托人不同；我们往往被视为“激进分子”，因为我们愿意将古老的传统与现代的观点融合，并接受我们保守的同胞们认为“不必要”和“有污点”的新技术。有些人甚至指责我们同情阿玛尔人的诉求，这当然是无稽之谈——阿玛尔帝国可能是所有主要国家中最不顺应现代文化的，而我们看到这种现代文化正在自由领土上蔓延。如果我们是自由传统主义者，他们就是激进保守霸权主义者。但政治理论就此打住吧：你来这里不是为了这个。 <br><br>由于我们的观点，我们库鲁托人树敌众多。因此，今天当我们在约拉莫尔德的一处圣地与我们的指挥官失去联系时，我感到非常担忧，因为我的人民已经发誓要保护这片圣地。我的许多部下还在从我之前提到的马塔尔部落会议返回，所以我手头没有足够的飞行员来处理此事。我希望你调查一下这个网站，并将调查结果汇报给我。如果在那里发现任何敌对分子，例如横冲直撞的流氓无人机或海盗，请立即将其消灭。这样做，并将库鲁托的祝福带走。"
+        "zh": "当然有，所以你才会来这里。我这里有个工作要交给你。{[character]player.name}。 <br><br>我的族人库鲁托人与其他布鲁托人不同；我们往往被视为“激进分子”，因为我们愿意将古老的传统与现代的观点融合，并接受我们保守的同胞们认为“不必要”和“有污点”的新技术。有些人甚至指责我们同情阿玛尔人的诉求，这当然是无稽之谈——艾玛帝国可能是所有主要国家中最不顺应现代文化的，而我们看到这种现代文化正在自由领土上蔓延。如果我们是自由传统主义者，他们就是激进保守霸权主义者。但政治理论就此打住吧：你来这里不是为了这个。 <br><br>由于我们的观点，我们库鲁托人树敌众多。因此，今天当我们在约拉莫尔德的一处圣地与我们的指挥官失去联系时，我感到非常担忧，因为我的人民已经发誓要保护这片圣地。我的许多部下还在从我之前提到的马塔尔部落会议返回，所以我手头没有足够的飞行员来处理此事。我希望你调查一下这个网站，并将调查结果汇报给我。如果在那里发现任何敌对分子，例如横冲直撞的流氓无人机或海盗，请立即将其消灭。这样做，并将库鲁托的祝福带走。"
     },
     "128564": {
         "en": "I am shocked yet relieved at these tidings, {[character]player.name}. Shocked that our Maru cousins would sink so low as to attack an ancient and holy site that has been part of our Minmatar heritage for generations. Even the Nefantar traitors avoid any conflict in the vicinity of these sites. <br><br>However, I am also relieved that the perpetrators were not members of the Brutor tribe. It would have pained me a great deal to learn my own blood stood behind such a cowardly attack. Given your efficiency in this task, I have another assignment for you, if you're willing.",
@@ -266345,7 +266345,7 @@
     },
     "129851": {
         "en": "Excellent work, our scientists have just completed work on the blueprint. Get to work and build it for us and get back to me with it as soon as you can.",
-        "zh": "做得好，我们的科学家刚刚完成了蓝图的设计。按图把它建造出来，之后立刻带给我。"
+        "zh": "干得好，我们的科学家刚刚完成了蓝图的设计工作。做得好，我们的科学家刚刚完成了蓝图的设计。按图把它建造出来，之后立刻带给我。"
     },
     "129852": {
         "en": "That decoder isn't getting any younger, what do you want me to do with it?",
@@ -269977,7 +269977,7 @@
     },
     "130781": {
         "en": "Okay, what I need you to do for me is find one of the famed 09-4XW gas clouds. Now of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的09-4XW气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的09-4XW气体云。当然，我指的是那些含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130782": {
         "en": "What brings you here, {[character]agentID.name}?",
@@ -270009,7 +270009,7 @@
     },
     "130789": {
         "en": "Okay, what I need you to do for me is find one of the famed I-3ODK gas clouds. Now of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的I-3ODK气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的I-3ODK气体云。当然，我指的是那些含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130790": {
         "en": "What brings you to this dangerous place, {[character]agentID.name}?",
@@ -270041,7 +270041,7 @@
     },
     "130797": {
         "en": "Okay, what I need you to do for me is find one of the famed Assilot gas clouds. Now, of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的阿西洛特气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的阿西洛特气体云。当然，我指的是含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130798": {
         "en": "What brings you here, {[character]agentID.name}?",
@@ -270073,7 +270073,7 @@
     },
     "130805": {
         "en": "Okay, what I need you to do for me is find one of the famed Pegasus gas clouds. Now, of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的飞马气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的飞马气体云。当然，我指的是含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130806": {
         "en": "So what brought you all the way out here, {[character]agentID.name}?",
@@ -270105,7 +270105,7 @@
     },
     "130813": {
         "en": "Okay, what I need you to do for me is find one of the famed OK-FEM gas clouds. Now of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的OK-FEM气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的OK-FEM气体云。当然，我指的是那些含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130814": {
         "en": "So what brought you all the way out here, {[character]agentID.name}?",
@@ -270137,7 +270137,7 @@
     },
     "130821": {
         "en": "Okay, what I need you to do for me is find one of the famed 9HXQ-G gas clouds. Now of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的9HXQ-G气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的9HXQ-G气体云。当然，我指的是那些含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130822": {
         "en": "So what brought you all the way out here, {[character]agentID.name}?",
@@ -270169,7 +270169,7 @@
     },
     "130829": {
         "en": "Okay, what I need you to do for me is find one of the famed 760-9C gas clouds. Now of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的760-9C气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的760-9C气体云。当然，我指的是那些含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "130830": {
         "en": "We've been encountering a tremendous amount of pirate activity in {[location]dungeonSolarSystemID.name} lately.  Our convoys are constantly under threat, and our CEO demanded that we do something about the situation.  We are to hire trustworthy and competent mercenaries to help us out, as the security forces in this constellation are swamped with work.  So I ask you, {[character]player.name}, will you help us out this time?  If your answer is yes, then I have a difficult assignment for you.  I need you to eliminate a heap load of pirates at a few coordinates.  You will receive bookmarks to these locations, all of them within the system {[location]dungeonSolarSystemID.name}.  Hopefully this will put a dent into their plans, and relieve our security forces a bit of their workload.",
@@ -275637,7 +275637,7 @@
     },
     "132266": {
         "en": "<font color = #EE3B3B>To complete this mission, you will require a ship with a hacking module online, as well as an available cargo capacity of at least 2,000 m<sup>3</sup> volume (and preferably 6,000 m<sup>3</sup>). </font> <br><br>\r\nI recently learned that Caldari Steel, one of the biggest producers of munitions and hybrid weaponry out there, has taken over a complex in {[location]dungeonLocationID.name}. From there, they've been supplying certain radical Caldari military pseudo-corporations, and maybe even the Guristas themselves. <br><br>\r\nI want you to go defeat whatever guards or defenses they've put in place and bring back the freight containers they've got stored there. This isn't as simple as it sounds, of course, and that's why I need someone with your skills and resources: For sure the whole deadspace complex will be heavily guarded, but it's more complicated than that. <br><br>\r\nThese Caldari are known for booby-trapping their cargo containers: You'll need to hack the floating containers to get the secure containers inside, and the outer containers will no doubt detonate if you fail to hack them properly. There may be other decoy containers in the compound, too ― you'll need to find the ones with the secure containers inside. \r\n",
-        "zh": "<font color = #EE3B3B>要完成这个任务，你需要一艘装配了破译装备的飞船，以及可用容量至少为2000m<sup>3</sup>的货舱（最好是6000m<sup>3</sup>）。 <br><br> 我最近了解到，全球最大的弹药和混合武器生产商之一卡尔达里钢铁公司已经接管了一处位于……的工厂。{[location]dungeonLocationID.name}。从那里，他们一直在向某些激进的卡尔达里军事伪公司，甚至可能是古斯塔斯本人提供物资。 <br><br> 我要你击垮他们设在那的任何守卫或防御，并带回他们储藏在那的货物集装箱。当然，这并不像听起来那么简单，所以我需要像你这样拥有技能和资源的人：可以肯定的是，整个死亡空间综合体都会受到严密的守卫，但实际情况比这复杂得多。 <br><br> 这些卡尔达里人以在货运集装箱中设置陷阱而闻名：我听说，为了防范类似的行动，艾玛已经在这些货物集装箱上做了手脚。你需要破译漂浮的集装箱以获得其内部的安全集装箱，而如果你破译失败，外部的集装箱将会爆炸。可能还有其他假冒集装箱混迹其中，你需要找到含有安全集装箱的那些箱子。 \r\n"
+        "zh": "<font color = #EE3B3B>要完成这个任务，你需要一艘装配并启用了破译装备的飞船，以及可用容量至少为2,000\\\r\nm<sup>3</sup>的货舱(最好是6,000 m<sup>3</sup>)。</font> <br><br>  \r\n\\\r\n我最近获悉，加达里钢铁集团，也就是当今最大的军需品和混合武器制造商之一，夺取了一个位于{[location]dungeonLocationID.name}的复合体。他们在那里为某些激进的加达里伪军事集团提供装备，这些军团可能根本就是古斯塔斯。\\\r\n<br><br>  \r\n我要你去击垮他们设在那的任何守卫或防御，并带回他们储藏在那的货物集装箱。当然这任务不像听起来那么简单，这也是为什么我需要你这样有勇有谋的人。毫无疑问，整个死亡空间复合体有重兵把守，但情况比这更复杂。\\\r\n<br><br>  \r\n这些加达里人是出了名地爱在货物集装箱上做手脚：你需要破解漂浮的集装箱以获得其内部的安全集装箱，当然，如果你破解失败，外部的集装箱将无疑会爆炸。可能还有其他假冒集装箱混迹其中，你需要找到内含安全集装箱的目标。\r\n"
     },
     "132267": {
         "en": "I have a proposal that could make us both a great deal of ISK, as well as throw a wrench into the gears of the Caldari military-economic infrastructure. How does that sound? Very good, I'd say. <br><br>\r\nI recently learned that Caldari Steel, one of the biggest producers of munitions and hybrid weaponry out there, has taken over a complex in {[location]dungeonLocationID.name}. Like most Caldari corporations, they mistreat their workers and destroy moons and planets at an astonishing rate in order to maximize their profit ― and, in this case, contribute directly to the steady increase of Caldari military power. Obviously, it is the duty of people like us to stop them however we can, as I'm sure you'll agree. But in this case we have even more impetus to act: I have it on good authority that this outpost of theirs has been supplying certain radical Caldari military pseudo-corporations, and maybe even the Guristas themselves. <br><br>\r\n{[character]player.name}, I want you to go into that complex, defeat whatever guards or defenses they've put in place, and bring back the freight containers they've got stored there. This isn't as simple as it sounds, of course, and that's why I need someone with your skills and resources: For sure the whole deadspace complex will be heavily guarded, but it's more complicated than that. <br><br>\r\nI guess the guards these Caldari Steel people have hired are known for booby-trapping their cargo containers: You'll need to hack the floating containers to get the secure containers inside, and the outer containers will no doubt detonate if you fail to hack them properly. There may be other decoy containers in the compound, too ― you'll need to find the ones with the secure containers inside. <br><br>\r\n<font color = #EE3B3B>To complete this mission, you will require a ship with a hacking module online, as well as a cargo capacity of at least 2,000 m<sup>3</sup> volume (and preferably one with a capacity of 6,000 m<sup>3</sup>). </font>\r\n",
@@ -276385,7 +276385,7 @@
     },
     "132453": {
         "en": "Don´t worry, my friend, you'll be suitably compensated. Here's the deal: The {[location]dungeonLocationID.name} system has been somewhat unstable lately ― workers in the colonies here have been acting up and black market trading has been steadily on the rise, and as a result several lucrative contracts have been lost to the Gallente. We recently moved to quell the situation, but now we've hit upon another problem. <br><br>\r\nIntelligence has discovered a number of unsolicited broadcasts washing over this constellation recently. We believe the Gallente to be the source of the signals, trying to turn the situation to their advantage. They've been overriding our local broadcasts and filling the airwaves with their crazy libertine, anti-establishment dogma. <br><br>\r\nIt may sound trivial to you, but believe me ― if we don't stop these broadcasts, they're going to cause serious problems for us. Workers have started believing the trash they're hearing, and they now believe our efforts to stabilize the region is an attempt to “keep them down,” whatever that means. We're already hearing stories of people who've been kidnapped, tortured, spied on. All totally unfounded, of course. And to add to the problems, local companies have begun grumbling about moving out of the system, and we have even had reports of small corporations accepting Gallente contracts in favor of the State's! All in all, if this doesn't stop soon, we may face full-scale revolt. <br><br>\r\nLuckily, our latest recon patrols encountered what seemed a lost convoy, which we of course intercepted; after holding the pilots for questioning, we found that they were Gallente agents involved in this whole conspiracy, and a little … gentle persuasion soon convinced them to reveal the location of the tower. However, the ships I sent to the location soon broke contact and have not yet returned. That, coupled with the fact that the broadcast array must be quite extensive given the strength of the signal, convinces me that the array must be heavily guarded. <br><br>\r\n{[character]player.name}, I need you to go to {[location]dungeonLocationID.name} and take these towers offline by destroying the broadcast station that controls them. Rest assured, the State will be most grateful. \r\n",
-        "zh": "别担心，我的朋友，你会得到相应的补偿。事情是这样的：这{[location]dungeonLocationID.name}最近，这个体系有些不稳定——这里的殖民地工人行为不端，黑市交易也日益猖獗，结果导致几份利润丰厚的合同落入了盖伦特人手中。我们最近采取措施平息了事态，但现在又遇到了另一个问题。 <br><br> 情报部门发现，近期有大量未经请求的广播信号涌入该星系。我们认为盖伦特人是这些信号的来源，他们试图扭转局势，使之对自己有利。他们一直在干扰我们当地的广播，用他们疯狂的、自由放任的、反建制的教条充斥着我们的广播。 <br><br> 这听起来可能微不足道，但相信我——如果我们不阻止这些广播，它们会给我们带来严重的问题。工人们开始相信他们听到的那些无稽之谈，他们现在认为我们为稳定该地区所做的努力是为了“打压他们”，不管这意味着什么。我们已经听到了一些人被绑架、遭受酷刑、被监视的故事。当然，这一切都毫无根据。雪上加霜的是，当地企业已经开始抱怨要退出该系统，我们甚至有报道称，一些小公司宁愿接受 Gallente 的合同，也不愿接受国家的合同！总而言之，如果这种情况再不停止，我们可能会面临全面叛乱。 <br><br> 幸运的是，我们最近的侦察巡逻队遇到了一支看似迷路的运输队，我们当然将其拦截；在扣押飞行员进行审问后，我们发现他们是参与整个阴谋的盖伦特特工，稍加……温和的劝说就让他们透露了塔的位置。然而，我派往该地点的船只很快就失去了联系，至今仍未返回。考虑到信号的强度，广播阵列必然非常庞大，这一点再加上其他因素，使我确信该阵列必须受到严密保护。 <br><br> {[character]player.name}我需要你去{[location]dungeonLocationID.name}通过摧毁控制这些信号塔的广播站，使这些信号塔失去工作能力。请放心，国家将对此感激不尽。 \r\n"
+        "zh": "别担心，我的朋友，你会得到相应的补偿。事情是这样的：{[location]dungeonLocationID.name}星系最近不大稳定——这里的殖民地工人行为不端，黑市交易也日益猖獗，结果导致几份利润丰厚的合同落入了盖伦特人手中。我们最近采取措施平息了事态，但现在又遇到了另一个问题。 <br><br> 情报部门发现，近期有大量未经请求的广播信号涌入该星系。我们认为盖伦特人是这些信号的来源，他们试图扭转局势，使之对自己有利。他们一直在干扰我们当地的广播，用他们疯狂的、自由放任的、反建制的教条充斥着我们的广播。 <br><br> 这听起来可能微不足道，但相信我——如果我们不阻止这些广播，它们会给我们带来严重的问题。工人们开始相信他们听到的那些无稽之谈，他们现在认为我们为稳定该地区所做的努力是为了“打压他们”，不管这意味着什么。我们已经听到了一些人被绑架、遭受酷刑、被监视的故事。当然，这一切都毫无根据。雪上加霜的是，当地企业已经开始抱怨要退出该系统，我们甚至有报道称，一些小公司宁愿接受 Gallente 的合同，也不愿接受国家的合同！总而言之，如果这种情况再不停止，我们可能会面临全面叛乱。 <br><br> 幸运的是，我们最近的侦察巡逻队遇到了一支看似迷路的运输队，我们当然将其拦截；在扣押飞行员进行审问后，我们发现他们是参与整个阴谋的盖伦特特工，稍加……温和的劝说就让他们透露了塔的位置。然而，我派往该地点的船只很快就失去了联系，至今仍未返回。考虑到信号的强度，广播阵列必然非常庞大，这一点再加上其他因素，使我确信该阵列必须受到严密保护。 <br><br> {[character]player.name}我需要你去{[location]dungeonLocationID.name}通过摧毁控制这些信号塔的广播站，使这些信号塔失去工作能力。请放心，国家将对此感激不尽。 \r\n"
     },
     "132454": {
         "en": "Azbel Communications",
@@ -277445,7 +277445,7 @@
     },
     "132764": {
         "en": "Well, that distress signal most certainly was a trap ― one intended to catch you. It seems as though the Caldari have taken notice of a handful of capsuleers who've caused a great deal of problems for them in the past. You're on that list. In fact you show quite highly, if that makes you feel any better. <br><br>\r\nSo here's what I've been able to find out: These Caldari have moved, within the past few days, against a number of our free agents such as yourself; unfortunately, not all of the capsuleers they targeted proved as resilient as you. Several of them were pod-killed, may they rest in peace. I don't really know what to make of these action, {[character]player.name}. Is it some group of radical Caldari nationalists? I can‘t figure it out. But if it‘s the Caldari Navy behind all of this, then it might mean the worst. Yes, war. <br><br> \r\nBut now it gets more frightening: Scouts report that a number of Caldari capital ships are moving, even as we speak, against a number of our civilian colonies. With a number of our top pilots gone, and even with our own navy pulling its weight, we're going to be hard pressed to protect all of those people. We all need to do our part. I need you to go to the civilian outpost in {[location]dungeonLocationID.name} and evacuate those people. Destroy any Caldari forces you encounter, get those civilians out of the citizen quarters, and bring them all safely back to me here at {[location]agentStationID.name}. <br><br>\r\n<font color = #EE3B3B>To complete this mission, you will require a ship with an available cargo capacity of at least 1,000 m<sup>3</sup> volume (and preferably one with a capacity of 6,000 m<sup>3</sup>). </font> \r\n",
-        "zh": "唔，那个求救信号几乎肯定就是个陷阱——在引诱你上钩。艾玛似乎已经注意到了一些在过去几年给他们造成了不少麻烦的飞行员，其中就包括你。事实上你的排名相当靠前——如果这样说你会感觉好点的话。 <br><br> 以下是我目前了解到的情况：以下是我所掌握到的情况：艾玛人在过去几天内对不少你这样的自由特工采取了行动；很不幸，他们锁定的飞行员并非都像你一样有韧性。他们中的几个被击爆了逃生舱，愿上帝让他们安息。我不知道这些行动意味着什么， {[character]player.name}。这是卡尔达里激进民族主义团体吗？我不确定。但如果帝国海军是背后的指使者，就是最坏的情况。没错，这意味着战争。 <br><br> 但现在情况变得更加可怕了：而现在形势变得更糟糕了：情报称一些艾玛旗舰现在正前往我们的殖民领地。我们损失了一些顶尖的飞行员，即使海军拼尽全力，恐怕也不能保护所有的平民。我们都必须贡献自己的力量。我需要你去{[location]dungeonLocationID.name}的平民哨站并疏散那里的居民。消灭你遭遇的所有艾玛军队，将那些平民从居住区带出来，安全送回{[location]agentStationID.name}。 <br><br> <font color = #EE3B3B>要完成这个任务，你需要一艘货舱可用容量至少为1000m<sup>3</sup>（最好是6000m<sup>3</sup>）的飞船。 \r\n"
+        "zh": "唔，那个求救信号几乎肯定就是个陷阱——等你上钩。似乎加达里已经注意到那些在他们的抵抗运动中大加干预的飞行员。你就在名单之上。事实上，你的排名相当靠前——如果这让你感到好些的话。<br><br>以下是我所掌握到的情况：加达里人在过去几天内向不少你这样的自由代理人采取了行动；很不幸，他们锁定的飞行员并非都像你一样有韧性。他们中的四个被击爆了逃生舱，愿上帝让他们安息。我不喜欢加达里采取的这种一致行动，{[character]player.name}。上帝知道这都意味着什么。<br><br>如今，我的间谍报告说，似乎他们正变得愈发嚣张，要对我们很多平民殖民地采取行动了。我们损失了四个顶尖飞行员，即便我们的海军恪尽职守，保护所有那些人仍将给我们带来很大压力。我们都需要发挥自己的作用。我需要你去{[location]dungeonLocationID.name}的平民哨站并疏散那里的居民。消灭你遭遇的所有加达里前哨军队，将那些平民从市民区带出来，安全送回{[location]agentStationID.name}我这里。<br><br><font color = #EE3B3B>要完成这个任务，你需要一艘可用货舱容量至少为1000 m<sup>3</sup>的飞船（最好能达到6000m<sup>3</sup>）。</font>\r\n"
     },
     "132765": {
         "en": "Those are innocent people out there, {[character]player.name}! And we have no one else!",
@@ -290693,7 +290693,7 @@
     },
     "136287": {
         "en": "Oh, thank you. I think. This may not be over yet, so don't go too far. Oh, and hold onto that blueprint I just gave you; we're going to need to produce an antidote for this allergen. ",
-        "zh": "哦，谢谢。这事可能还没完，因此不要走太远。哦，不要把我刚给你的那张蓝图给扔了；我们要用它来做对付该过敏症的特效药。"
+        "zh": "哦，谢谢。我认为。事情可能还没结束，所以不要走得太远。哦，还有，请保管好我刚才给你的那份蓝图；我们需要研制这种过敏原的解毒剂。 "
     },
     "136288": {
         "en": "Sounds good. What do you need me to do?  ",
@@ -290745,7 +290745,7 @@
     },
     "136300": {
         "en": "To finish this mission, you first need to acquire the Minmatar DNA from the laboratory site (where you destroyed the lab in your last mission). Once you have the DNA, use it and the blueprint you received at the end of your last mission to manufacture the Modified Augumene Antidote. With the antidote in your hangar, talk to your agent again to complete the mission. ",
-        "zh": "要完成该任务，你需要先在实验室那地方（即你上次任务里炸毁实验室的地方）拿到米玛塔尔人的DNA。有了DNA之后，将它与你拿到的蓝图结合起来使用，制作奥古米内石改良特效药。在机库里放上特效药之后，便告诉代理人来完成此任务。"
+        "zh": "要完成这个任务，你首先需要从实验室遗址（你在上一个任务中摧毁的实验室）获取米玛塔尔 DNA。一旦你获得了 DNA，就利用它在你上次任务结束时获得的蓝图来制造改良的奥古明解药。拿到解药后，再次与你的特工对话以完成任务。 "
     },
     "136301": {
         "en": "Capsuleers can have their own structures (POS). These can be used for tasks such as mining, storage, or research. One of the ways capsuleers in 0.0 wage war is by attacking POSes. Though such an attack can be difficult to mount, the loss of a structure is a huge one.",
@@ -292609,7 +292609,7 @@
     },
     "136823": {
         "en": "Okay, what I need you to do for me is find one of the famed E-8CSQ gas clouds. Now of course I'm referring specifically to those gas clouds containing the materials I need for booster manufacturing. You must tell me where the cloud is and get me a sample from it. If you do this for me, I'll give you a booster blueprint copy, plus a little extra cash if you're fast. And you'll learn something in the process. Sounds useful, huh? ",
-        "zh": "好啦，我需要你做的是寻找一块著名的E-8CSQ气云。当然我指的是那些包含我需要的增效剂制造材料的气云。你必须查出那些气云的位置并给我带回一点样品。如果你替我完成这个任务，我会给你一份增效剂蓝图拷贝；如果你够快，还有额外的现金奖励。而且你在这个过程中还会学到一些东西。听上去不错吧？"
+        "zh": "你现在需要找到一片知名的E-8CSQ气体云。当然，我指的是那些含有增效剂制造原材料的气体云。你必须报告云团位置并取得云团样本。你要是愿意跑一趟，我就送你一份增效剂蓝图拷贝，要是速度够快，可以再加点现金奖励。在这个过程中，你也会有所收获。听起来很划算吧？ "
     },
     "136824": {
         "en": "I need a shipment of Synthetic Oil delivered to this station as soon as possible. It's currently stored in one of our warehouses in {[location]dungeonLocationID.name}; I'll give you the coordinates, of course. Just warp to our outpost, navigate to the warehouse, and pick up the shipment, and then return it to {[location]agentStationID.name}. Simple, ain't it? <br><br>Just make sure you keep a lookout for any suspicious activity. We've had some run-ins with Angel Cartel recently in these parts, so watch your back.",
@@ -309569,7 +309569,7 @@
     },
     "141209": {
         "en": "Let's try building something more complicated.<br><br>\r\n\r\nA friend of mine needs a fast vessel, so I want you to take this blueprint copy and construct a shuttle for him.\r\n\r\n<br><br><font color = #EE3B3B>Oh, and don’t bother buying it from the market. This needs to be manufactured by you!</font>",
-        "zh": "让我们试试更加复杂的制造项目。<br><br>\n我的一个朋友需要一艘快船，所以我要你拿着这张蓝图拷贝为他制造一艘穿梭机。<br><br>\n<b>-</b> 首先，打开物品机库里的<font color=yellow>穿梭机蓝图</font>，查看所需材料。<br><br>\n<b>-</b> 通过采矿或其他途径获得所需材料后，制造穿梭机。 <br>\n<font color=yellow>(哦对了，别妄想着去市场买一艘交差了，你必须自己造一艘！）</font><br><br>\n<b>-</b> 制造完成后，即可回来完成任务。<br><br>"
+        "zh": "让我们试试更加复杂的制造项目。<br><br> 我的一个朋友需要一艘快船，所以我要你拿着这张蓝图拷贝为他制造一艘穿梭机。 <br><br><font color = #EE3B3B>哦，还有，别费劲去市场上买。这需要由你们来生产！</font>"
     },
     "141210": {
         "en": "Let's try building something more complicated.<br><br>\r\n\r\nA friend of mine needs a fast vessel, so I want you to take this blueprint copy and construct a shuttle for him.\r\n\r\n<br><br><font color = #EE3B3B>Oh, and don’t bother buying it from the market. This needs to be manufactured by you!</font>",
@@ -310165,7 +310165,7 @@
     },
     "141362": {
         "en": "We noticed something when you left towards Syndicate to make the blueprint delivery. Isha was on the move himself. Our surveillance team monitored a visit he made to an unknown Caldari Navy compound. The unmarked shuttle he flew there has now been sighted back inside Nugoeihuvi's docking bay at Poinen. Interestingly, it has been given priority docking position, meaning another launch is likely to happen soon. <br><br>\nWe don't want to arrive at any conclusions just yet, but our first impression is that Isha is involved in some kind of black market activity, perhaps weapons or information smuggling. We noticed that he mentioned introducing you to someone – we think they may be the buyer. His visit to this Caldari Navy facility raises a lot of questions in that regard.  <br><br>\nSee what you can do about meeting this friend of Isha's, then discover what you can about them. We'll be watching closely {[character]player.name}, good luck.",
-        "zh": "在你去辛迪加财团送蓝图的时候，我们还注意到了一件事情。伊沙自己也在行动。我们的监察队发现他去了一座不明加达里海军基地。他飞往那里驾驶的一艘普通穿梭机现已返航停靠在波耶伦的纳维基空间站里。有趣的他的停靠位置很靠前，也就是说他马上又要走了。<br><br>我们现在还不想妄下结论，但我们感觉他好像在进行某种黑市交易，也许是武器偷运，也有可能是机密倒卖。他说要将你介绍给某人——也许就是买家吧。他这次去这座加达里海军基地牵扯出一系列问题。<br><br>伊萨要你会见他的朋友，你就去应付一下，顺便了解一下他的这位朋友。我们会在背后密切监视的，{[character]player.name}。祝你好运。"
+        "zh": "当你前往辛迪加交付蓝图时，我们注意到了一些事情。伊沙自己也在行动。我们的监视小组监测到他曾到访过一个未知的卡尔达里海军基地。他驾驶的那架没有标记的穿梭机现在已经被发现返回了努戈伊胡维在波伊嫩的停泊港内。有趣的是，它被赋予了优先对接位置，这意味着很可能很快会再次发射。 <br><br> 我们还不想妄下结论，但我们的第一印象是伊莎参与了某种黑市活动，可能是武器走私或情报走私。我们注意到他提到过要介绍你认识某个人——我们认为这个人可能是买家。他此次对卡尔达里海军设施的访问，引发了这方面的诸多疑问。 <br><br> 看看你能不能安排和伊莎的这位朋友见面，然后尽可能多地了解他们。我们会密切关注。{[character]player.name}，祝你好运。"
     },
     "141363": {
         "en": "There was someone I wanted you to meet. I'm afraid I can't do it myself; he and I must be careful not to be associated with one another. This is not for any good reason, {[character]player.name}, it is simply the way our judgmental world works. A Caldari Navy officer of his kind cannot afford the rumors that a friendship with me brings. <br><br>\nMy friend's name is Sinas Egassuo. You will find him somewhere around {[location]dungeonLocationID.name}, just look for the Caldari Navy compound in the system, and be careful. He may not be known and loved by the Caldari people, but the leadership of the Gallente Navy is well acquainted with him and his work, and has long wanted him dead. His outfit deals with assassins and bounty hunters on a daily basis. Expect nothing less when you find the compound.",
@@ -310181,7 +310181,7 @@
     },
     "141366": {
         "en": "The CPF investigation team is in Onirvura because of some intel – intel I believe we can manipulate. I have learned that they partially decrypted a communication between my people here and our blueprint buyers in KFR-ZE. Fortunately for us, they couldn't fully decipher the location we were transmitting to, so all they know is that this area is where the transmission originated and that the destination system started with KF and has a Z and E in its name. <br><br>\nYour assignment is to secure a nearby Blood Raider facility and safely deliver our own signal operators to the Communications Tower inside. They will use it to transmit fake intelligence to the CPF team, and hopefully, lead them to KFIE-Z.",
-        "zh": "警卫队的调查队伍是在获悉了某个情报之后才来奥尼尔瓦纳的，我认为我们可以利用那个情报。我知道他们破解了我们与KFR-ZE蓝图买家之间的部分谈话内容。所幸他们没有完全破解出这次谈话信号的目的接收地，因此警卫队顶多知道这是一个以KF开头，名字中带有Z和E的星系。<br><br>你要做的就是掌控那片区域，然后把我的人送到那通讯塔里让他们向警卫队发条假消息，但愿这条消息能将他们引向KFIE-Z。"
+        "zh": "CPF 调查小组之所以在 Onirvura，是因为我们掌握了一些情报——我相信我们可以操纵这些情报。我了解到他们部分解密了我方人员与我们在 KFR-ZE 的蓝图买家之间的通信。幸运的是，他们无法完全破译我们向其发送信号的位置，所以他们只知道这个区域是信号的来源地，并且目标系统的名称以 KF 开头，并且包含 Z 和 E。 <br><br> 你的任务是确保附近“血袭者”设施的安全，并将我们自己的信号操作员安全送至里面的通讯塔。他们将利用它向中央警察部队传递虚假情报，并希望以此引导他们找到 KFIE-Z。"
     },
     "141367": {
         "en": "There was someone I wanted you to meet. I'm afraid I can't do it myself; he and I must be careful not to be associated with one another. This is not for any good reason, {[character]player.name}, it is simply the way our judgmental world works. A Caldari Navy officer of his kind cannot afford the rumors that a friendship with me brings. <br><br>\nMy friend's name is Sinas Egassuo. You will find him somewhere around {[location]dungeonLocationID.name}, just look for the Caldari Navy compound in the system, and be careful. He may not be known and loved by the Caldari people, but the leadership of the Gallente Navy is well acquainted with him and his work, and has long wanted him dead. His outfit deals with assassins and bounty hunters on a daily basis. Expect nothing less when you find the compound.",
@@ -310633,7 +310633,7 @@
     },
     "141479": {
         "en": "{[character]player.name}, good. I hope the visit to Faurulle didn't take too much out of you. Once again, good work out there. Sadly, it turns out we have one more loose end to tie up. <br><br>\nMy people tell me that Hyasyoda has already launched an investigation into the blueprint theft. I suppose this is a play to lend an air of legitimacy to the racket they've been running. The situation is an amusing one, yet also dangerous for us. Our tracks are well covered, but – as they often say in Hyasyoda itself – only the paranoid survive. <br><br> \nThey've deployed their security wing, the Corporate Police Force, into “various locations of interest.” I have learned that Onirvura was listed as an area to investigate. They're right here in the constellation, setting up a temporary base for interrogation and imprisonment. Fortunately for us, the CPF has hired a mercenary crew to handle facility defense while they set up. This gives us an opportunity to strike at them without it constituting a direct attack on Hyasyoda personnel. That would muddy the waters a bit, as I'm sure you can appreciate. <br><br>\nI cannot guarantee how long these mercenaries will be on duty, however, nor what kind of reaction your arrival on scene will provoke. What I do know is that if you can destroy the Logistics Center quickly, it will set them back weeks. The paths that lead back to us to will easily have faded into the background by the time they can resume their investigation.",
-        "zh": "很好，{[character]player.name}。我希望你已经从法鲁里之旅的舟车劳顿中恢复过来了。你干得真不错。不过我们还有件事没摆平。<br><br>我的人告诉我三岛集团已经介入追查配方偷盗人了。我觉得他们这只是在做表面文章而已。虽说可笑，但对我们来说也确实有点危险。我们虽然事情做得不露马脚，但——就像三岛集团自己人那个说什么来着——多点担心总没错的。<br><br>他们已经将其警卫队派向了“各重点区域”。听说奥尼尔瓦纳便是其中之一。他们目前就在本星座，正在搭建一个用于调查与囚禁的临时基地。还好，警卫队雇了一批雇佣兵来守卫建造中的基地。这样我们就可以不用直接袭击三岛的人员来端掉这基地了。这水虽会被趟混，但想必你能理解。<br><br>不过我也掐不准那批雇佣兵还能待多久，也无法估计出你到场后他们会有什么反应。我只知道你只要把那后勤中心迅速捣毁，那他们近几周的工作就会白费。等他们再组织起来调查时，就肯定查不到与我们有关的线索了。"
+        "zh": "很好。希望您这次福鲁勒之行没有让您太疲惫。干得不错。遗憾的是，我们还有一个未解决的问题需要处理。 <br><br> 我的人告诉我，海亚索达已经对蓝图失窃事件展开了调查。我猜这是他们为了给他们一直以来进行的诈骗活动增添合法性而采取的策略。这种情况既滑稽又危险。我们的踪迹被掩盖得很好，但是——正如 Hyasyoda 常说的那样——只有偏执狂才能生存。 <br><br> 他们已将安保部门——企业警察部队——部署到“各个重要地点”。我了解到奥尼尔武拉被列为调查区域之一。他们就在这个星系中，建立了一个临时的审讯和监禁基地。幸运的是，中央警察部队雇佣了一支雇佣兵队伍来负责设施防御，以便他们进行部署。这给了我们一个打击他们的机会，而又不构成对 Hyasyoda 人员的直接攻击。那样做会让事情变得有点复杂，我相信您也能理解。 <br><br> 但我无法保证这些雇佣兵会执行任务多久，也无法保证你们的到来会引起怎样的反应。我知道的是，如果你能迅速摧毁后勤中心，就能让他们倒退数周。等到他们能够继续调查时，那些最终指向我们的线索很可能早已消失在人们的视线中。"
     },
     "141480": {
         "en": "Good, then. Remember, {[character]player.name}: The Logistics Center is your only target. You can limit the loss of life here by taking it down quickly and then getting the hell out. If you linger, they will most likely swarm you with reinforcements and pin you down. Don't get complacent just because they're mercs — Hyasyoda is funding them and will make damn sure they get their money's worth.",
@@ -311021,7 +311021,7 @@
     },
     "141576": {
         "en": "You've done well, {[character]player.name}. Without any major interruption to our investigations the team has managed to cover a lot of ground. We now have a much better understanding of the situation, and who this Katsen Isha is. <br><br>\nFor one, we have a possible future lead in the House of Records. Apparently some publicly available documents regarding Isha's earliest days at Nugoeihuvi have been archived. We just need to figure out which station has the hard copies and then we'll have it. <br><br>\nWe noticed something else when you left towards Syndicate to make the blueprint delivery. Isha was on the move himself. Our surveillance team monitored a visit he made to an unknown Caldari Navy compound. The unmarked shuttle he flew there has now been sighted back inside Nugoeihuvi's docking bay at Poinen. Interestingly, it has been given priority docking position, meaning another launch is likely to happen soon. <br><br>\nWe don't want to arrive at any conclusions just yet, but our first impression is that Isha is involved in some kind of black market activity, perhaps weapons or information smuggling. We noticed that he mentioned introducing you to someone – we think they may be the buyer. His visit to this Caldari Navy facility raises a lot of questions in that regard.  <br><br>\nSee what you can do about meeting this friend of Isha's, then discover what you can about them. We'll be watching closely {[character]player.name}, good luck.",
-        "zh": "干得好，{[character]player.name}。我们队伍在没有受到任何大干扰的情况下取得了很大进展。我们现在对整个事件以及卡僧·伊沙是谁都有了更清晰的了解。<br><br>首先，我们可能会在档案局找到新线索。记录伊沙在纳维基集团早期一段历史的公开文档好像已经归入档案。我们现在只需找出哪座空间站拥有这些文档的拷贝，然后拿到手就行。<br><br>另外，在你去辛迪加财团送蓝图的时候，我们还注意到了另一件事情。伊沙自己也在行动。我们的监察队发现他去了一座不明加达里海军基地。他飞往那里驾驶的一艘普通穿梭机现已返航停靠在波耶伦的纳维基空间站里。有趣的他的停靠位置很靠前，也就是说他马上又要走了。<br><br>我们现在还不想妄下结论，但我们感觉他好像在进行某种黑市交易，也许是武器偷运，也有可能是机密倒卖。他说要将你介绍给某人——也许就是买家吧。他这次去这座加达里海军基地牵扯出一系列问题。<br><br>伊萨要你会见他的朋友，你就去应付一下，顺便了解一下他的这位朋友。我们会在背后密切监视的，{[character]player.name}。祝你好运。"
+        "zh": "你做得很好。在调查未受到任何重大干扰的情况下，团队已经取得了很大进展。我们现在对情况以及这位 Katsen Isha 的身份有了更深入的了解。 <br><br> 首先，我们在档案馆里可能找到了未来的线索。显然，一些有关伊莎在努戈伊胡维早期生活的公开文件已被存档。我们只需要弄清楚哪个站点有纸质版，然后就能拿到了。 <br><br> 当你前往辛迪加交付蓝图时，我们注意到了一些其他情况。伊沙自己也在四处奔波。我们的监视小组监测到他曾到访过一个未知的卡尔达里海军基地。他驾驶的那架没有标记的穿梭机现在已经被发现返回了努戈伊胡维在波伊嫩的停泊港内。有趣的是，它被赋予了优先对接位置，这意味着很可能很快会再次发射。 <br><br> 我们还不想妄下结论，但我们的第一印象是伊莎参与了某种黑市活动，可能是武器走私或情报走私。我们注意到他提到过要介绍你认识某个人——我们认为这个人可能是买家。他此次对卡尔达里海军设施的访问，引发了这方面的诸多疑问。 <br><br> 看看你能不能安排和伊莎的这位朋友见面，然后尽可能多地了解他们。我们会密切关注。{[character]player.name}，祝你好运。"
     },
     "141577": {
         "en": "Then leave, I've nothing further to offer you if you won't see this to the end. ",
@@ -311485,7 +311485,7 @@
     },
     "141693": {
         "en": "Ah, you're back, {[character]player.name}. Good. I hope your journey out toward Syndicate hasn't left you too burned out; I'm going to need you to act quickly on something else. It turns out we have one more loose end to tie up. <br><br>\nMy people tell me that Hyasyoda have already launched an investigation into the blueprint theft. Worse yet, I am hearing talk about the sort of funding coming their way. The amounts are disconcerting — enough to pay for a capsuleer's services in addition to a whole fleet of mercenaries and investigators. The situation is dangerous for us, {[character]player.name}. Our tracks are well covered, but, as they often say at Hyasyoda, only the paranoid survive. <br><br> \nThey've deployed their security wing, the Corporate Police Force, into “various locations of interest.” I've learned that Onirvura was listed as an area to investigate. They're right here in the constellation, setting up a temporary base for interrogation and imprisonment. Fortunately for us, the CPF has hired a mercenary crew to handle facility defense while they set up. This gives us an opportunity to strike at them without it constituting a direct attack on Hyasyoda personnel. That is simply not an option. <br><br>\nI cannot guarantee how long these mercenaries will be on duty, however, nor what kind of reaction your arrival on scene will provoke. What I do know is that if you can destroy the Logistics Center quickly, it will set them back weeks. The paths that lead back to us will undoubtedly have faded by the time they can resume their investigation.",
-        "zh": "哦，你回来了，{[character]player.name}。我希望辛迪加之旅没把你累趴下。我现在要你迅速解决另一件事，我们还有件事没摆平。<br><br>我的人告诉我三岛集团已经介入追查蓝图偷盗人了。对我们更不利的是他们这次调查资金很充裕。那数目真吓人——足够请一个克隆飞行员再加一支雇佣兵队伍及调查人员了。情况真的不妙，{[character]player.name}。我们虽然事情做得不露马脚，但——就像三岛集团自己人那个说什么来着——多点担心总没错的。<br><br>他们已经将其警卫队派向了“各重点区域”。听说奥尼尔瓦纳便是其中之一。他们目前就在本星座，正在搭建一个用于调查与囚禁的临时基地。还好，警卫队雇了一批雇佣兵来守卫建造中的基地。这样我们就可以不用直接袭击三岛的人员来端掉这基地了。三岛自己的人我们是绝对不能动的。<br><br>不过我也掐不准那批雇佣兵还能待多久，也无法估计出你到场后他们会有什么反应。我只知道你只要把那后勤中心迅速捣毁，那他们近几周的工作就会白费。等他们再组织起来调查时，就肯定查不到与我们有关的线索了。"
+        "zh": "你回来了！很好。我希望你前往辛迪加的旅程没有让你筋疲力尽；我需要你尽快处理其他事情。原来我们还有一个遗留问题需要解决。 <br><br> 我的人告诉我，Hyasyoda 已经对蓝图被盗事件展开了调查。更糟糕的是，我还听说他们即将获得什么样的资金。这些金额令人不安——足以支付一名太空舱驾驶员的服务费用，以及一整支雇佣兵和调查员舰队的费用。这种情况对我们来说很危险。{[character]player.name}。我们的踪迹被掩盖得很好，但是，正如 Hyasyoda 常说的那样，只有偏执狂才能生存下来。 <br><br> 他们已将安保部门——企业警察部队——部署到“各个重要地点”。我了解到奥尼尔武拉被列为调查区域之一。他们就在这个星系中，建立了一个临时的审讯和监禁基地。幸运的是，中央警察部队雇佣了一支雇佣兵队伍来负责设施防御，以便他们进行部署。这给了我们一个打击他们的机会，而又不构成对 Hyasyoda 人员的直接攻击。那根本行不通。 <br><br> 但我无法保证这些雇佣兵会执行任务多久，也无法保证你们的到来会引起怎样的反应。我知道的是，如果你能迅速摧毁后勤中心，就能让他们倒退数周。等到他们能够继续调查时，通往我们这里的路径无疑已经消失了。"
     },
     "141694": {
         "en": "The Corporate Police Force investigation must be brought to an end before it can uncover anything that could lead back to us. The forces inside the facility right now are not Hyasyoda or CPF personnel, just some hired mercs. This gives us an opportunity to strike preemptively at the compound without causing an incident and further complicating matters. <br><br>\nIf you can destroy the Logistics Center quickly, it will set them back weeks. The paths that lead back to us will have faded by the time they can resume their investigation. You can limit the loss of life here by taking it down quickly and then getting the hell out. If you linger, they will most likely swarm you with reinforcements.",
@@ -312341,7 +312341,7 @@
     },
     "141907": {
         "en": "Arikio has asked that I return to Isha, earn his trust, and do what I can to uncover the truth about the matter. I have agreed to take the task on. I've been given the formula blueprint back, which we'll use to learn more about Isha when we make a sale. A Hyasyoda counterintelligence team is now plugged into my comms systems and will be trailing me out of sight. I'm supposed to speak of this to nobody. Arikio says that if I need her, she'll be waiting in Wuos.<br>",
-        "zh": "阿里可要求我回到伊沙那儿获取他的信任，并尽一切所能查出事情的真相。我答应了该要求。阿里可把那配方蓝图又交于我手里。将此图卖出之后，我们便可以进一步深入了解伊沙。三岛集团的一直反侦队已在我采用的通信系统里安装了偷听器，将对我进行远程跟踪。按道理说我不能向任何人透露此事。阿里可说如果我需要见她，她会在乌欧斯等我。<br>"
+        "zh": "阿里基奥要求我回到伊莎身边，赢得他的信任，并尽我所能查明真相。我已同意接受这项任务。我已经拿到了配方蓝图，我们将利用它来了解更多关于 Isha 的信息，以便进行销售。一支来自海亚索达的反情报小组已经接入我的通讯系统，他们会一路跟踪我，直到我消失在视线之外。我不能跟任何人提起这件事。Arikio 说如果我需要她，她会在 Wuos 等我。<br>"
     },
     "141908": {
         "en": "The investigation team was able to make some progress after being relocated. Apparently Isha has been spotted making visits to some unknown Caldari Navy facility. Hyasyoda suspects he is involved in some kind of arms or information smuggling racket. I've been asked to gather more information about who Isha is meeting with. After returning to Isha yet again, I discovered that his friend is a highly-placed Caldari Navy official named Sinas Egassuo. This is, presumably, the same man Isha has been observed visiting.<br>",
@@ -313901,7 +313901,7 @@
     },
     "142301": {
         "en": "On the instructions of Arikio Kuretsu, I returned to Katsen Isha. He seems to have noticed a change in Hyasyoda's operations, but doesn't appear to suspect me personally of anything. Isha would like me to take the formula sheets all the way out to Syndicate, a fairly dangerous journey but no doubt the most lucrative. The second option isn't much safer, but Isha has let me know that – if I desire – I can take it only to the border of Syndicate and his people will do the rest. That would let me avoid the nullsec systems.",
-        "zh": "按照阿里可·库利茨的要求，我回到了卡僧·伊沙那儿。他好像已经察觉到了三岛集团的运作变化，但对我还是不设防。伊沙要我把蓝图送到辛迪加。这段路比较危险但绝对赚钱。他给我指的另一条路也不怎么安全：我可以只把东西送到辛迪加边境，接下来的事交给他派去的人处理。这样我就可以不用去0.0区域了。"
+        "zh": "按照有基夫·库雷茨的指示，我返回了卡岑伊沙。他似乎注意到了 Hyasyoda 的运作方式发生了变化，但似乎并没有怀疑我个人做了什么。伊莎希望我能把配方表一路带到辛迪加，这是一段相当危险的旅程，但无疑是最赚钱的。第二个选择也好不到哪里去，但伊莎告诉我，如果我愿意，我可以只把它带到辛迪加的边界，剩下的事情就交给他的人来处理。那样我就可以避开零安系统了。"
     },
     "142302": {
         "en": "I continued my efforts on Hyasyoda's behalf to uncover what Nugoeihuvi is up to. Isha was keen to have me shift the formula far away from his vicinity. I had to choose between taking it all the way out to one of their nullsec offices in Syndicate or to a bordering lowsec system in Solitude.<br>",
@@ -316621,7 +316621,7 @@
     },
     "143130": {
         "en": "All the carnage you've inflicted on our enemies has caught the attention of a SARO pilot, Treonis. Taking you out is her bid at a promotion. My superiors want to see you handle this situation alone. <br><br>\nTreonis is waiting for you by an abandoned colony in {[location]dungeonLocationID.name}. Destroy her, and the blueprint is yours.",
-        "zh": "你的敌人面前的出色表现已经引起了SARO飞行员“特瑞欧尼丝”的注意。我猜她是要把你除掉，这样她就能高升了。我的上级要你自己去解决这事。<br><br>特瑞欧尼丝现在{[location]dungeonLocationID.name}的一个废弃殖民地等你。干掉她，这蓝图就是你的。"
+        "zh": "你给敌人造成的惨重伤亡引起了 SARO 飞行员特雷奥尼斯的注意。带你出去是她争取升职的一种手段。我的上级希望你独自处理这件事。 <br><br> 特雷奥尼斯在废弃的殖民地等你{[location]dungeonLocationID.name}。除掉她，蓝图就归你了。"
     },
     "143131": {
         "en": "Aren't you the lucky one? All the carnage you've inflicted on our enemies has caught the attention of SARO.  They are the best that CONCORD has to offer, and they're not to be balked at.<br><br>\nThis particular SARO pilot's name is Treonis, and she's been asking for you personally. My guess? Taking you out is her bid at a promotion. <br><br>\nNormally, we would launch a whole campaign to remove CONCORD scum from our space, but my superiors want to see you handle this situation. If you can destroy Treonis, I'm authorized to reward you with a single run blueprint for one of our rarer ships, the Cynabal.<br><br>\nTreonis is waiting for you by an abandoned colony in {[location]dungeonLocationID.name}. Destroy her, and the blueprint is yours.\n",
@@ -316645,7 +316645,7 @@
     },
     "143136": {
         "en": "My superiors are impressed. It's the rare pilot who can take on SARO agents and live. <br><br> \nTake this blueprint as a sign of our appreciation, not only for what you've done, but also for what you have become. I'm sure we'll be crossing paths again someday, whether you realize it or not. <br><br>\nFly safe, {[character]player.name}. Remind the galaxy why they fear Angels.",
-        "zh": "我的上级对你的表现大加赞赏。能解决统合部代理人并且又活着回来的飞行员实属不多。<br><br>你把这蓝图拿好，算是我们对你表示的谢意与首肯。我们肯定的不仅是你的贡献，还有你的成长。不管你是否会意识到，我相信将来我们一定能再见。<br><br>一路顺风，{[character]player.name}。让全宇宙都知道天使的厉害。"
+        "zh": "我的上级对此印象深刻。能与 SARO 特工交战并活下来的飞行员寥寥无几。 <br><br> 请将这份蓝图视为我们对你的感激之情，不仅是对你过去所做之事的感激，也是对你现在所取得成就的感激。我相信总有一天我们会再次相遇，不管你是否意识到这一点。 <br><br> 一路顺风！让银河系再次明白他们为何惧怕天使。"
     },
     "143137": {
         "en": "SARO",
@@ -316809,7 +316809,7 @@
     },
     "143198": {
         "en": "It appears that the CPF investigation team is in Onirvura because of some intel – intel I believe we can manipulate. I have learned that they partially decrypted a communication between my people here and our blueprint buyers in KFR-ZE. Fortunately for us, they couldn't fully decipher the location we were transmitting to, thank the Maker. My guys re-encrypt their comms every few seconds, so all they know is that this area is where the transmission originated and the destination system started with KF, and has a Z and E in its name. Still, too close for comfort. <br><br>\nEver heard of KFIE-Z, {[character]player.name}? It's a dead-end system in Delve. The Headquarters of the Blood Raider Covenant, in fact. It's the perfect decoy for us; we can make it look as if opportunistic Blood Raiders hit the Serpentis facility, and there was little more to it all than that. We just need to sell the lie. <br><br>\nThere is an old Blood Raider compound not far from here. Inside it, there should be a transmitter system we can use. All you need to do is secure the area and deliver my people safely to the Communications Tower so they can send out a fake transmission. The CPF should pick it up and follow the signal down to Delve… if they're feeling suicidal, that is. <br><br>  \nRumor has it the place has long since been abandoned, but I've come to distrust intel I don't get first-hand. Besides, any time those Sani Sabik cultists are not making noise, you should be concerned. The quiet ones are the very worst. I suggest you go in expecting exactly that.",
-        "zh": "我前面已经说过，警卫队的调查队伍是在获悉了某个情报之后才来奥尼尔瓦纳的，我认为我们可以利用那个情报。我知道他们破解了我们与KFR-ZE蓝图买家之间的部分谈话内容。所幸他们没有完全破解出这次谈话信号的目的接收地，在这我要感谢我们的加密人员。由于我们每隔几秒就要变换一种加密方式，因此警卫队顶多知道这是一个以KF开头，名字中带有Z和E的星系。不过我还是担心他们会猜出正确答案。<br><br>{[character]player.name}，你听说过KFIE-Z星系吗？它是绝地之域里的一个死角星系。事实上，那儿是血袭者同盟的总部，同时对我们来说，也是个绝佳的诱人场所。我们可以造一个血袭者袭击天蛇基地的假象，然后想办法让警卫队相信就行。<br><br>离此不远处有个血袭者的据点。里面应该有一个我们可以利用的信号传输系统。你要做的就是掌控那片区域，然后把我的人送到那通讯塔里让他们发条假消息。警卫队应该会收到这条消息然后一路追到绝地之域……如果他们想死的话，哼哼。<br><br>据谣传，那地方早就遭人废弃了。不过对于非一手情报我一概不相信。另外，萨萨比克那帮邪教人士没有动静并不是件好事，这极有可能是暴风雨前的宁静。你要做好相应准备。"
+        "zh": "看来中央警卫队调查组之所以在奥尼尔武拉，是因为掌握了一些情报——我相信我们可以操纵这些情报。我了解到他们部分解密了我方人员与我们在 KFR-ZE 的蓝图买家之间的通信。幸运的是，他们没能完全破解我们所发送信号的位置，感谢上帝。我的队员每隔几秒钟就会重新加密他们的通信，所以他们只知道这个区域是传输的起源地，目标系统以 KF 开头，并且名称中包含 Z 和 E。但还是太近了，让人很不舒服。 <br><br> 你听说过 KFIE-Z 吗？{[character]player.name}？这是 Delve 中的一个死胡同系统。事实上，这里是血袭者盟约的总部。这对我们来说是完美的诱饵；我们可以让它看起来像是趁机袭击了 Serpentis 设施的血袭者，事情仅此而已。我们只需要兜售谎言。 <br><br> 离这里不远处有一个废弃的血袭者营地。里面应该有一个我们可以使用的发射系统。你只需要确保该区域的安全，并将我的人安全送到通讯塔，以便他们发出虚假信号。社区警务部队应该接收到信号并循着信号找到德尔夫……如果他们有自杀倾向的话。 <br><br> 有传言说这个地方早已废弃，但我对没有亲身经历的消息持怀疑态度。此外，任何时候，只要萨尼·萨比克邪教徒不发出任何声响，你就应该感到担忧。那些沉默寡言的人最糟糕。我建议你做好这样的心理准备。"
     },
     "143199": {
         "en": "Misdirection, then. Good. This will give you a chance to appreciate how we often like to approach problems here in Nugoeihuvi. <br><br>Hmm, very well, {[character]player.name}. Try not to lose your ship out there; your crew would not like their new masters.",
@@ -316837,7 +316837,7 @@
     },
     "143205": {
         "en": "Playing it safe is a wise option, if not a lucrative one. <br><br>\nI'm sure you're aware that low-security space has its dangers. Carelessness out there will get you killed just as easily as jumping into a nullsec stargate blockade, so don't get complacent. <br><br>Our cargo is precious; there is zero room for error here. If that blueprint goes missing, so will my desire to work with you. That ISK is the entirety of our business together. Prepare yourself accordingly.",
-        "zh": "谨慎行事虽说获利不多，但也确是明智之选。<br><br>不过我相信你应该知道低安全区也存在风险。你只要在那里稍微放松一下警惕，结果就会像闯入一个被堵0.0星门一样：瞬间被干掉。所以切勿麻痹大意。<br><br>很好。但要记得，我们的货物很重要，容不得半点闪失。如果那配方没了，那我与你再合作的欲望也就没了。我们合作就是为了钱，你要做得像样才行。"
+        "zh": "稳妥行事是明智之举，尽管未必有利可图。 <br><br> 我相信您也清楚，低安全级别的空间存在危险。在外面，粗心大意很容易让你丧命，就像贸然闯入零安区星门封锁线一样，所以千万不要掉以轻心。 <br><br>我们的货物非常珍贵，容不得半点差错。如果那份蓝图丢失了，我与你合作的意愿也会随之消失。那笔 ISK 就是我们共同业务的全部。请做好相应准备。"
     },
     "143210": {
         "en": "Good work — you made it through the gauntlet alive. <br><br>\r\n\r\nYou should take a moment to consider all that you've learned so far and how it all ties together. No module works in isolation. Warp Scramblers, for example (the close-range interdiction modules), don't work well unless you can close in on your enemy, and for that you need an Afterburner. Similarly, if you're using a Warp Disruptor, the long-range variants, you will perhaps want to keep your enemy <i>away</i> from you… so again, Afterburners become useful. Dictating range is a crucial aspect of any engagement, but when you are tackling, it becomes particularly important.",
@@ -666717,7 +666717,7 @@
     },
     "234592": {
         "en": "Blueprint copying job fee between {name1} and {name2} (Job ID: {arg1})",
-        "zh": "{name1}与{name2}之间的蓝图复制费用 (项目ID：{arg1})"
+        "zh": "与之间的蓝图复制费用 (项目ID：)"
     },
     "234593": {
         "en": "Invention job fee between {name1} and {name2} (Job ID: {arg1})",
@@ -667525,7 +667525,7 @@
     },
     "235196": {
         "en": "{[numeric]units} {[numeric]units-> \"millisecond\", \"milliseconds\"}",
-        "zh": "{[numeric]units}{[numeric]units-> \"millisecond\", \"milliseconds\"}"
+        "zh": "{[numeric]units}{[numeric]units-> \"毫秒\", \"毫秒\"}"
     },
     "235205": {
         "en": "Agent Home Base - {[location]location.name}",
@@ -677709,7 +677709,7 @@
     },
     "238417": {
         "en": "Lock Blueprint",
-        "zh": "锁定蓝图"
+        "zh": "锁封蓝图"
     },
     "238418": {
         "en": "You require the role Director to remove relationships.",
@@ -677721,7 +677721,7 @@
     },
     "238421": {
         "en": "Unlock Blueprint",
-        "zh": "解锁蓝图"
+        "zh": "解封蓝图"
     },
     "238422": {
         "en": "Select Vote Type",
@@ -679253,11 +679253,11 @@
     },
     "238862": {
         "en": "<b>ORIGINAL BLUEPRINT</b> - Material Efficiency: {[numeric]materialLevel} - Time Efficiency: {[numeric]productivityLevel}",
-        "zh": "<b>蓝图原本</b> - 材料效率：{[numeric]materialLevel} - 时间效率：{[numeric]productivityLevel}"
+        "zh": "<b>原始蓝图</b>- 材料效率：{[numeric]materialLevel} - 时间效率：{[numeric]productivityLevel}"
     },
     "238863": {
         "en": "<b>BLUEPRINT COPY</b> - Runs: {[numeric]runs} - Material Efficiency: {[numeric]materialLevel} - Time Efficiency: {[numeric]productivityLevel}",
-        "zh": "<b>蓝图拷贝</b> - 流程：{[numeric]runs} - 材料效率：{[numeric]materialLevel} - 时间效率：{[numeric]productivityLevel}"
+        "zh": "<b>蓝图副本</b>- 运行：{[numeric]runs} - 材料效率：{[numeric]materialLevel} - 时间效率：{[numeric]productivityLevel}"
     },
     "238864": {
         "en": "<font size=\"14\"><b>PLEX - Pilot License Extension</b></font>\nPLEX is a commodity that can be stored, transported and traded on the market or through contracts. It can be used to add Clone State Omega time to your account or to unlock special character and account services. Passes and access to select events, in game and out, can also be purchased with PLEX.\n\n<b>Account time:</b> One PLEX is equal to 30 days of Clone State Omega time which can be added to your account by using the PLEX directly from your in-game inventory.\n<b>Multiple character training:</b> Activate 30 days of passive skill gain on additional characters on your account with PLEX.\n<b>Character transfer:</b> Transferring characters between two accounts can be paid for with PLEX.\n<b>Character re-sculpt:</b> Customize and recreate your character’s facial appearance.\n<b>Convert to AURUM:</b> PLEX can be exchanged for AURUM, the currency used in the Noble Exchange store where unique fashion accessories are sold.\n\n<br><font size=\"14\"><b>Buying PLEX</b></font>\nYou can buy PLEX on the EVE market using ISK or securely on eveonline.com using conventional payment methods.",
@@ -683177,7 +683177,7 @@
     },
     "239974": {
         "en": "Science & Industry - Pick blueprint",
-        "zh": "科学和工业 - 选取蓝图"
+        "zh": "科学和工业——选取蓝图"
     },
     "239975": {
         "en": "My Blueprints",
@@ -685861,11 +685861,11 @@
     },
     "251467": {
         "en": "<b>BLUEPRINT COPY</b>",
-        "zh": "<b>蓝图拷贝</b>"
+        "zh": "蓝图拷贝"
     },
     "251468": {
         "en": "<b>BLUEPRINT ORIGINAL</b>",
-        "zh": "<b>蓝图原本</b>"
+        "zh": "蓝图原本"
     },
     "251469": {
         "en": "Member Races",
@@ -788817,7 +788817,7 @@
     },
     "296730": {
         "en": "Clever research technique that allows for refolding of blueprint materials in invention jobs. While the number of runs is greatly increased the probability of invention is adversely affected. <br><br>Probability Multiplier: -40% <br>Max. Run Modifier: +9 <br>Material Efficiency Modifier: -2 <br>Time Efficiency Modifier: +2",
-        "zh": "一种聪明的研究技术，允许对发明项目的蓝图材料进行折叠使用。虽然这样能极大增加流程数，但发明的成功率却会降低。<br><br>机率调节值：-40%<br> 最大流程调节值：+9<br>材料效率调节值：-2<br>时间效率调节值：+2"
+        "zh": "一种聪明的研究技术，允许对发明项目的蓝图材料进行折叠使用。虽然这样能极大增加流程数，但发明的成功率却会降低。 <br><br>机率调节值: -40% <br>最大流程调节值 +9 <br>矿物效率调节值: -2 <br>矿物效率调节值: +2"
     },
     "296731": {
         "en": "Parity Decryptor",
@@ -815037,7 +815037,7 @@
     },
     "308540": {
         "en": "Sentinel MZ",
-        "zh": "哨兵MZ"
+        "zh": "哨兵军事区"
     },
     "308541": {
         "en": "Liberated Barbican",
@@ -846821,11 +846821,11 @@
     },
     "503873": {
         "en": "<b>+{stepSize}%</b> Blueprint Material Efficiency",
-        "zh": "<b>+{stepSize}%</b> 蓝图材料效率"
+        "zh": "蓝图材料效率"
     },
     "503874": {
         "en": "<b>+{stepSize}%</b> Blueprint Time Efficiency",
-        "zh": "<b>+{stepSize}%</b> 蓝图时间效率"
+        "zh": "蓝图时间效率"
     },
     "503875": {
         "en": "Max runs per copy",
@@ -851825,7 +851825,7 @@
     },
     "505445": {
         "en": "<b>Use an installed blueprint to start a manufacturing job in a station with the Industry service.</b> You may need to gather some materials in your station hangar to do this.<br><br>Options to gather materials include: killing hostiles and looting them, buying material from the market, or going out and mining resources.",
-        "zh": "<b>使用空间站内的工业服务，配置蓝图，开始一个制造项目。</b> 你可能需要收集些材料放在空间站机库内。<br><br>收集材料的途径包括：击毁敌船然后拾取残骸物品，从市场上购买材料，或者直接去采集资源。"
+        "zh": "<b>使用空间站内的工业服务，配置蓝图，开始一个制造项目。你可能需要收集些材料放在空间站机库内。<br><br>收集材料的途径包括：击杀敌船然后拾取残骸物品，从市场上购买材料，或者直接去采集资源。"
     },
     "505446": {
         "en": "Start a Manufacturing Job",
@@ -852213,7 +852213,7 @@
     },
     "505620": {
         "en": "Blueprints are needed if you want to start your own production run of some item. Blueprints can be purchased from the market, the contract system or found in the wrecks of some hostile ships. If you don’t own a blueprint, try your luck with taking down some hostile ships in the Rogue Cloning Facility. The outlaws there often carry blueprints they have stolen from your empire.",
-        "zh": "自行生产物品需要蓝图。蓝图可以通过市场和合同来购买，也可以在某些NPC舰船的残骸中找到。如果你缺少蓝图，可以到自由无人机克隆设施附近击毁些敌人试试运气。那些坏蛋常常携带从你的帝国偷来的蓝图。"
+        "zh": "自行生产物品需要蓝图。蓝图可以通过市场和合同来购买，也可以在某些NPC舰船的残骸中找到。如果你缺少蓝图，可以到自由无人机克隆设施附近击杀些敌人试试运气。那些坏蛋常常携带从你的帝国偷来的蓝图。"
     },
     "505621": {
         "en": "Installing a blueprint",
@@ -852221,7 +852221,7 @@
     },
     "505622": {
         "en": "Completed:<br>Install Blueprint",
-        "zh": "完成：<br>配置蓝图"
+        "zh": "已完成！<br>配置蓝图"
     },
     "505623": {
         "en": "You can launch probes into space using the Probe Scanner accessed via the Scanners radial button. Try using the spread formation initially, then adjusting the formation and probe scan range as you narrow down the location of signatures.",
@@ -874193,19 +874193,19 @@
     },
     "513520": {
         "en": "This Restrained variation of the standard Entosis Link was developed by the research division of the Capsuleer mercenary corporation <url=showinfo:2//1239884823>Noir.</url> <url=showinfo:2//1239884823>Noir's</url> forces played key parts in the first wave of research into the applications of Entosis technology and were able to optimize the standard Entosis Link for higher velocity operation. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.\r\n\r\nThis mysterious device is the result of reverse-engineering salvaged Drifter technology. It appears to use ancient Jovian techniques and materials to allow more efficient mind-machine links than were thought possible in the past. The practical applications of this technology are still unclear.\r\n\r\nThis module cannot be fitted to Interceptors.\r\nThis module requires a full warm-up cycle before beginning to influence targeted structures.\r\nShips fitted with a Restrained Entosis Link are unable to accelerate beyond 4200m/s using their normal sub-warp engines.\r\nOnce activated, this module cannot be deactivated until it completes its current cycle.\r\nWhile an Entosis Link is active, the fitted ship cannot cloak, warp, jump, or dock.\r\nCapital ships cannot receive remote assistance while they have an Entosis Link active.\r\n\r\nDisclaimer: The Carthum Conglomerate, as well as its registered subsidiaries and partners, accepts absolutely no legal or ethical liability for any unforeseen consequences of connecting untested Drifter-derived technology directly to the user's mind.",
-        "zh": "这个标准侵噬链接的抑制型版本由Noir雇佣兵军团的科研部门研发。Noir军团在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高速的运行。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。\n\n\n\n这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。\n\n\n\n该装备不能装配在截击舰上。\n\n这个装备在开始作用于目标建筑之前需要一轮预热。\n\n装配了抑制型侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4200m/s。\n\n开启之后无法关闭，必须等到本轮运行结束。\n\n船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。\n\n旗舰在激活侵噬链接时不能接受远程协助。\n\n\n\n免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。这个标准侵噬链接的抑制型版本由Noir雇佣兵军团的科研部门研发。Noir军团在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高速的运行。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。该装备不能装配在截击舰上。这个装备在开始作用于目标建筑之前需要一轮预热。装配了抑制型侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4200m/s。开启之后无法关闭，必须等到本轮运行结束。船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。旗舰在激活侵噬链接时不能接受远程协助。免责声明：免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
     },
     "513521": {
         "en": "This Compact variation of the standard Entosis Link was developed by the research division of the Capsuleer organization <url=showinfo:16159//99006373>Spectre Fleet</url>. <url=showinfo:16159//99006373>Spectre Fleet's</url> forces were among the earliest to research the applications of Entosis technology and were able to optimize the standard Entosis Link for lower powergrid requirements. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.\r\n\r\nThis mysterious device is the result of reverse-engineering salvaged Drifter technology. It appears to use ancient Jovian techniques and materials to allow more efficient mind-machine links than were thought possible in the past. The practical applications of this technology are still unclear.\r\n\r\nThis module cannot be fitted to Interceptors.\r\nThis module requires a full warm-up cycle before beginning to influence targeted structures.\r\nShips fitted with an Entosis Link are unable to accelerate beyond 4000m/s using their normal sub-warp engines.\r\nOnce activated, this module cannot be deactivated until it completes its current cycle.\r\nWhile an Entosis Link is active, the fitted ship cannot cloak, warp, jump, or dock.\r\nCapital ships cannot receive remote assistance while they have an Entosis Link active.\r\n\r\nDisclaimer: The Carthum Conglomerate, as well as its registered subsidiaries and partners, accepts absolutely no legal or ethical liability for any unforeseen consequences of connecting untested Drifter-derived technology directly to the user's mind.",
-        "zh": "这个标准侵噬链接的紧凑型版本由组织 Spectre Fleet 的科研部门研发。Spectre Fleet 是最早研究侵噬应用技术的机构之一，他们优化了标准侵噬链接以满足更低的能量栅格需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。 这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。 该装备不能装配在截击舰上。 这个装备在开始作用于目标建筑之前需要一轮预热。 装配了侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4000m/s。 开启之后无法关闭，必须等到本轮运行结束。 船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。 旗舰在激活侵噬链接时不能接受远程协助。 免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。Spectre Fleet是最早研究侵噬应用技术的机构之一，他们优化了标准侵噬链接以满足更低的能量栅格需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。该装备不能装配在截击舰上。这个装备在开始作用于目标建筑之前需要一轮预热。装配了侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4000m/s。开启之后无法关闭，必须等到本轮运行结束。船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。旗舰在激活侵噬链接时不能接受远程协助。免责声明：免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
     },
     "513522": {
         "en": "This Enduring variation of the standard Entosis Link was developed by the research division of the Capsuleer alliance <url=showinfo:16159//99004211>Affirmative.</url> <url=showinfo:16159//99004211>Affirmative's</url> forces played key parts in the first wave of research into the applications of Entosis technology and were able to optimize the standard Entosis Link for more efficient capacitor use. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.\r\n\r\nThis mysterious device is the result of reverse-engineering salvaged Drifter technology. It appears to use ancient Jovian techniques and materials to allow more efficient mind-machine links than were thought possible in the past. The practical applications of this technology are still unclear.\r\n\r\nThis module cannot be fitted to Interceptors.\r\nThis module requires a full warm-up cycle before beginning to influence targeted structures.\r\nShips fitted with an Entosis Link are unable to accelerate beyond 4000m/s using their normal sub-warp engines.\r\nOnce activated, this module cannot be deactivated until it completes its current cycle.\r\nWhile an Entosis Link is active, the fitted ship cannot cloak, warp, jump, or dock.\r\nCapital ships cannot receive remote assistance while they have an Entosis Link active.\r\n\r\nDisclaimer: The Carthum Conglomerate, as well as its registered subsidiaries and partners, accepts absolutely no legal or ethical liability for any unforeseen consequences of connecting untested Drifter-derived technology directly to the user's mind.",
-        "zh": "这个标准侵噬链接的持久型版本由Affirmative联盟的科研部门研发。Affirmative联盟在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高效的电容需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。\n\n\n\n这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。\n\n\n\n该装备不能装配在截击舰上。\n\n这个装备在开始作用于目标建筑之前需要一轮预热。\n\n装配了侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4000m/s。\n\n开启之后无法关闭，必须等到本轮运行结束。\n\n船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。\n\n旗舰在激活侵噬链接时不能接受远程协助。\n\n\n\n免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。这个标准侵噬链接的持久型版本由Affirmative联盟的科研部门研发。Affirmative联盟在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高效的电容需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。该装备不能装配在截击舰上。这个装备在开始作用于目标建筑之前需要一轮预热。装配了侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4000m/s。开启之后无法关闭，必须等到本轮运行结束。船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。旗舰在激活侵噬链接时不能接受远程协助。免责声明：免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
     },
     "513523": {
         "en": "This Scoped variation of the standard Entosis Link was developed by the research division of the Capsuleer alliance <url=showinfo:16159//386292982>Pandemic Legion</url>. <url=showinfo:16159//386292982>Pandemic Legion's</url> forces have always been at the forefront of research into the applications of Entosis technology and were able to optimize the standard Entosis Link for longer range operation. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.\r\n\r\nThis mysterious device is the result of reverse-engineering salvaged Drifter technology. It appears to use ancient Jovian techniques and materials to allow more efficient mind-machine links than were thought possible in the past. The practical applications of this technology are still unclear.\r\n\r\nThis module cannot be fitted to Interceptors.\r\nThis module requires a full warm-up cycle before beginning to influence targeted structures.\r\nShips fitted with an Entosis Link are unable to accelerate beyond 4000m/s using their normal sub-warp engines.\r\nOnce activated, this module cannot be deactivated until it completes its current cycle.\r\nWhile an Entosis Link is active, the fitted ship cannot cloak, warp, jump, or dock.\r\nCapital ships cannot receive remote assistance while they have an Entosis Link active.\r\n\r\nDisclaimer: The Carthum Conglomerate, as well as its registered subsidiaries and partners, accepts absolutely no legal or ethical liability for any unforeseen consequences of connecting untested Drifter-derived technology directly to the user's mind.",
-        "zh": "这个标准侵噬链接的视野型版本由Pandemic 圣卒级联盟的科研部门研发。Pandemic 圣卒级联盟始终站在研究侵噬技术应用的最前沿，他们优化了标准侵噬链接以满足更大距离的运行。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。\n\n\n\n这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。\n\n\n\n该装备不能装配在截击舰上。\n\n这个装备在开始作用于目标建筑之前需要一轮预热。\n\n装配了侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4000m/s。\n\n开启之后无法关闭，必须等到本轮运行结束。\n\n船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。\n\n旗舰在激活侵噬链接时不能接受远程协助。\n\n\n\n免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。<url=showinfo:16159//386292982>《瘟疫危机：军团》</url>部队一直处于 Entosis 技术应用研究的前沿，并能够优化标准 Entosis Link 以实现更远距离的操作。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。这个神秘的设备是对打捞来的流浪者科技进行逆向工程后的产物。它似乎使用了古老的朱庇特科技和材料，使人机之间的交互效率提升到了我们以前从来未敢想过的高度。这项技术的实际应用还不明朗。该装备不能装配在截击舰上。这个装备在开始作用于目标建筑之前需要一轮预热。装配了侵噬链接的舰船使用常规非跃迁引擎时最大速度不能超过4000m/s。开启之后无法关闭，必须等到本轮运行结束。船只开启侵噬链接后无法隐形、跃迁、跳跃或停靠。旗舰在激活侵噬链接时不能接受远程协助。免责声明：免责声明：天主凝聚会及其法定分支机构和合作方不对因使用未经测试的流浪者技术直接与人脑交互所产生的一切未知后果负任何法律及道德责任。"
     },
     "513524": {
         "en": "Noir. Modified Entosis Link Blueprint",
@@ -874549,7 +874549,7 @@
     },
     "513622": {
         "en": "This Scoped variation of the standard Entosis Link was developed by the research division of the Capsuleer alliance <url=showinfo:16159//386292982>Pandemic Legion</url>. <url=showinfo:16159//386292982>Pandemic Legion's</url> forces have always been at the forefront of research into the applications of Entosis technology and were able to optimize the standard Entosis Link for longer range operation. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.",
-        "zh": "这个标准侵噬链接的视野型版本由 Pandemic Legion 联盟的科研部门研发。Pandemic Legion 联盟始终站在研究侵噬技术应用的最前沿，他们优化了标准侵噬链接以满足更大距离的运行。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。<url=showinfo:16159//386292982>《瘟疫危机：军团》</url>部队一直处于 Entosis 技术应用研究的前沿，并能够优化标准 Entosis Link 以实现更远距离的操作。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
     },
     "513623": {
         "en": "The Entosis Link was developed by Carthum Conglomerate from recovered Drifter technology. It appears to use ancient Jovian techniques and materials to allow more efficient mind-machine links than were thought possible in the past. This technology has proven to be the most efficient method of interfacing with Capsuleer sovereignty infrastructure.\r\n\r\nMany capsuleers played key parts in the development and ongoing refinement of Entosis Link technology. The greatest contributors have been the innovative thinkers in Pandemic Legion's legendary SPHERE Labs.\r\nThe greatest capsuleer contributors to early testing of Entosis technology were members of the following organizations:\r\n<url=showinfo:16159//386292982>Pandemic Legion</url>\r\nSpectre Fleet\r\nNo Not Believing (Especially <url=showinfo:2//1239884823>Noir. Corporation</url>)\r\n<url=showinfo:16159//99004211>Affirmative</url>\r\n<url=showinfo:16159//1006830534>Fidelas Constans</url>\r\n<url=showinfo:16159//99003214>Brave Collective</url>\r\n<url=showinfo:16159//99002938>DARKNESS.</url>\r\n<url=showinfo:16159//99002172>I Whip My Slaves Back and Forth</url>\r\n<url=showinfo:16159//431502563>Ministry of Inappropriate Footwork</url>\r\n<url=showinfo:16159//99003322>Nemesis Enterprises.</url>\r\n<url=showinfo:16159//99003035>Praetorian Directorate</url>\r\n<url=showinfo:16159//99003033>Q Alliance</url>\r\n<url=showinfo:16159//99005286>Stella Nova</url>\r\n<url=showinfo:16159//99001697>Suddenly Spaceships.</url>",
@@ -874561,15 +874561,15 @@
     },
     "513625": {
         "en": "This Compact variation of the standard Entosis Link was developed by the research division of the Capsuleer organization <url=showinfo:16159//99006373>Spectre Fleet</url>. <url=showinfo:16159//99006373>Spectre Fleet's</url> forces were among the earliest to research the applications of Entosis technology and were able to optimize the standard Entosis Link for lower powergrid requirements. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.",
-        "zh": "这个标准侵噬链接的紧凑型版本由 Spectre Fleet 的科研部门研发。Spectre Fleet 是最早研究侵噬应用技术的机构之一，他们优化了标准侵噬链接以满足更低的能量栅格需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。Spectre Fleet是最早研究侵噬应用技术的机构之一，他们优化了标准侵噬链接以满足更低的能量栅格需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
     },
     "513626": {
         "en": "This Restrained variation of the standard Entosis Link was developed by the research division of the Capsuleer mercenary corporation <url=showinfo:2//1239884823>Noir.</url> <url=showinfo:2//1239884823>Noir's</url> forces played key parts in the first wave of research into the applications of Entosis technology and were able to optimize the standard Entosis Link for higher velocity operation. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.",
-        "zh": "这个标准侵噬链接的抑制型版本由Noir雇佣兵军团的科研部门研发。Noir军团在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高速的运行。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。这个标准侵噬链接的抑制型版本由Noir雇佣兵军团的科研部门研发。Noir军团在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高速的运行。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
     },
     "513627": {
         "en": "This Enduring variation of the standard Entosis Link was developed by the research division of the Capsuleer alliance <url=showinfo:16159//99004211>Affirmative.</url> <url=showinfo:16159//99004211>Affirmative's</url> forces played key parts in the first wave of research into the applications of Entosis technology and were able to optimize the standard Entosis Link for more efficient capacitor use. Originally intended for internal use only, copies of the blueprint have slipped onto the black market and can now be found by those with the right underworld connections.",
-        "zh": "这个标准侵噬链接的持久型版本由 Affirmative 联盟的科研部门研发。Affirmative 联盟在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高效的电容需求。"
+        "zh": "这个标准侵噬链接的紧凑型版本由Spectre Fleet的科研部门研发。这个标准侵噬链接的持久型版本由Affirmative联盟的科研部门研发。Affirmative联盟在侵噬技术的初步应用中起到了重要作用，他们优化了标准侵噬链接以满足更高效的电容需求。当初只作为内部使用，然后蓝图拷贝流向了黑市，落入了这些与黑市有往来的人的手中。"
     },
     "513628": {
         "en": "Missile Range Disruption Script",
@@ -896221,7 +896221,7 @@
     },
     "521908": {
         "en": "Blueprint Copying",
-        "zh": "蓝图拷贝"
+        "zh": "蓝图拷贝中"
     },
     "521911": {
         "en": "Capacitor Recharge bonus",
@@ -903741,7 +903741,7 @@
     },
     "524641": {
         "en": "Other locations - {[numeric]blueprints} {[numeric]blueprints -> \"Blueprint\", \"Blueprints\"} ",
-        "zh": "其它地点 - {[numeric]blueprints}张{[numeric]blueprints -> \"蓝图\", \"蓝图\"} "
+        "zh": "其他地点 -{[numeric]blueprints}{[numeric]blueprints -> “蓝图”、“蓝图们”} "
     },
     "524642": {
         "en": "Train Now To Level 1",
@@ -903981,7 +903981,7 @@
     },
     "525250": {
         "en": "Maximum number of blueprint entries exceeded.<br>Only the first {[numeric]count}  entries will be loaded.",
-        "zh": "已超出蓝图条目数量的上限。<br>只有前{[numeric]count}  条会被加载。"
+        "zh": "已超出蓝图条目数量的上限。<br>只有第一个{[numeric]count}条目将加载。"
     },
     "525252": {
         "en": "Increases the signal acquired with each scan.",
@@ -906753,7 +906753,7 @@
     },
     "526462": {
         "en": "This Technical Data Chip holds specifications and proprietary nano-assembler instructions for upgraded Hyasyoda corporation research facilities.\r\n\r\nIt should theoretically be possible for a talented capsuleer to interface with this data chip and recover usable blueprint data.",
-        "zh": "这种技术数据芯片包含了经过升级的三岛集团研究设施的规格参数和纳米装配专利技术的说明。\n\n\n\n理论上，厉害的飞行员可能通过与这种数据芯片的交互恢复出有用的蓝图数据。"
+        "zh": "这种技术数据芯片包含了经过升级的三岛集团研究设施的规格参数和纳米装配专利技术的说明。理论上，厉害的飞行员可能通过与这种数据芯片的交互恢复出有用的蓝图数据。"
     },
     "526463": {
         "en": "Technical Data Chips",
@@ -919041,7 +919041,7 @@
     },
     "530120": {
         "en": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Loggerhead-class Force Auxiliaries.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Loggerhead blueprint data recovered.",
-        "zh": "这个带有装甲且被电磁强化过的数据缓存通常整合在古斯塔斯的船坞里，在建造赤龟级战力辅助舰时提供高强度的安全和保护措施。\n\n\n\n这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的赤龟级蓝图数据。"
+        "zh": "这个带有装甲且被电磁强化过的数据缓存通常整合在古斯塔斯的船坞里，在建造赤龟级战力辅助舰时提供高强度的安全和保护措施。这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的赤龟级蓝图数据。"
     },
     "530121": {
         "en": "Guristas Caiman Blueprint Armored Cache",
@@ -919049,7 +919049,7 @@
     },
     "530122": {
         "en": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Caiman-class Dreadnoughts.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Caiman blueprint data recovered.",
-        "zh": "这个带有装甲且被电磁强化过的数据缓存通常整合在古斯塔斯的船坞里，在建造凯门鳄级无畏舰时提供高强度的安全和保护措施。\n\n\n\n这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的凯门鳄级蓝图数据。"
+        "zh": "这个带有装甲且被电磁强化过的数据缓存通常整合在古斯塔斯的船坞里，在建造凯门鳄级无畏舰时提供高强度的安全和保护措施。这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的凯门鳄级蓝图数据。"
     },
     "530123": {
         "en": "Guristas Komodo Blueprint Armored Cache",
@@ -919057,7 +919057,7 @@
     },
     "530124": {
         "en": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Komodo-class Titans.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Komodo blueprint data recovered.",
-        "zh": "这个带有装甲且被电磁强化过的数据缓存通常整合在古斯塔斯的船坞里，在建造科莫多级泰坦时提供高强度的安全和保护措施。\n\n\n\n这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的科莫多级蓝图数据。"
+        "zh": "这个带有装甲且被电磁强化过的数据缓存通常整合在古斯塔斯的船坞里，在建造科莫多级泰坦时提供高强度的安全和保护措施。这些带有装甲的缓存很可能在它安装的设施被摧毁后还能毫发无损。如果使用合适的舰船来进行复原，就可以打开这种缓存，复原出里面的科莫多级蓝图数据。"
     },
     "530125": {
         "en": "This armored and electromagnetically hardened data cache is normally integrated into the Guristas shipyard facilities, providing a high level of security and protection from corruption while building Loggerhead-class Force Auxiliaries.\r\n\r\nThese armored caches have a good chance of surviving the destruction of the facility they are installed in. If recovered by suitable ships, the caches can be accessed and the Loggerhead blueprint data recovered.",
@@ -933837,7 +933837,7 @@
     },
     "536495": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>20% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>16% bonus to reprocessing yield of all ice and ores<br>15% reduction in isk requirements for ME research, TE research, and blueprint copy jobs<br>40% reduction in time requirements for ME research jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
-        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这个改装件提供以下加成：</b><br>护盾值、装甲值、结构值和电容器电量提高20%<br>最大锁定范围提高18%<br>扫描分辨率提高180%<br>最大锁定目标数增加5<br>电容消耗降低42%，定点防御炮塔的最佳射程提高720%<br>所有冰矿和矿石的提炼产出提高16%<br>材料效率研究、时间效率研究和蓝图拷贝项目的星币需求降低15%<br>材料效率研究项目的时间需求降低40%<br><br>此改装件提供的加成不随星系安全等级变化而调整<br><br><b>此特别版改装件提供的加成覆盖任何其他屹立大型改装件提供的类似加成。</b>"
+        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这套装备提供以下额外功能：</b><br>护盾、装甲、结构值和电容量加成<br>最大锁定距离提高6%<br>扫描分辨率提高2%<br>目标锁定数上限惩罚<br>电容器使用量减少 42%，点防御电池的最佳射程提升 720%。<br>所有冰块和矿石的再加工产量提高 16%。<br>ME 研究、TE 研究和蓝图复制任务的 ISK 需求降低 15%。<br>机械工程研究工作所需时间减少 40%<br><br>这套装备提供的加成不会随系统安全状态而提升。<br><br><b>此特别版套装的额外奖励将覆盖其他 Standup L-Set 套装的任何类似奖励。</b>"
     },
     "536496": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>20% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>14% bonus to reprocessing yield of all ice and ores<br>2% reduction in material requirements for manufacturing jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
@@ -933845,7 +933845,7 @@
     },
     "536497": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>15% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>15% reduction in isk requirements for ME research, TE research, invention, and blueprint copy jobs<br>40% reduction in time requirements for invention jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
-        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这个改装件提供以下加成：</b><br>护盾值、装甲值、结构值和电容器电量提高15%<br>最大锁定范围提高18%<br>扫描分辨率提高180%<br>最大锁定目标数增加5<br>电容消耗降低42%，定点防御炮塔的最佳射程提高720%<br>材料效率研究、时间效率研究、发明和蓝图拷贝项目的星币需求降低15%<br>发明项目的时间需求降低40%<br><br>此改装件提供的加成不随星系安全等级变化而调整<br><br><b>此特别版改装件提供的加成覆盖任何其他屹立大型改装件提供的类似加成。</b>"
+        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这套装备提供以下额外功能：</b><br>护盾、装甲、结构值和电容量加成<br>最大锁定距离提高6%<br>扫描分辨率提高2%<br>目标锁定数上限惩罚<br>电容器使用量减少 42%，点防御电池的最佳射程提升 720%。<br>ME 研究、TE 研究、发明和蓝图复制任务的 ISK 需求降低 15%。<br>发明创造工作所需时间减少 40%<br><br>这套装备提供的加成不会随系统安全状态而提升。<br><br><b>此特别版套装的额外奖励将覆盖其他 Standup L-Set 套装的任何类似奖励。</b>"
     },
     "536498": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>15% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>7% reduction in fuel consumption for all service modules<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
@@ -933853,7 +933853,7 @@
     },
     "536499": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>20% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>30% reduction in isk requirements for ME research, TE research, invention, and blueprint copy jobs<br>50% reduction in time requirements for ME research, TE research, and blueprint copy jobs<br>40% reduction in time requirements for invention jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
-        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这个改装件提供以下加成：</b><br>护盾值、装甲值、结构值和电容器电量提高20%<br>最大锁定范围提高18%<br>扫描分辨率提高180%<br>最大锁定目标数增加5<br>电容消耗降低42%，定点防御炮塔的最佳射程提高720%<br>材料效率研究、时间效率研究、发明和蓝图拷贝项目的星币需求降低30%<br>材料效率研究、时间效率研究和蓝图拷贝项目的时间需求降低50%<br>发明项目的时间需求降低40%<br><br>此改装件提供的加成不随星系安全等级变化而调整<br><br><b>此特别版改装件提供的加成覆盖任何其他屹立大型改装件提供的类似加成。</b>"
+        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这套装备提供以下额外功能：</b><br>护盾、装甲、结构值和电容量加成<br>最大锁定距离提高6%<br>扫描分辨率提高2%<br>目标锁定数上限惩罚<br>电容器使用量减少 42%，点防御电池的最佳射程提升 720%。<br>ME 研究、TE 研究、发明和蓝图复制任务的 ISK 需求降低 30%。<br>机械工程研究、技术工程研究和蓝图复印工作所需时间减少 50%。<br>发明创造工作所需时间减少 40%<br><br>这套装备提供的加成不会随系统安全状态而提升。<br><br><b>此特别版套装的额外奖励将覆盖其他 Standup L-Set 套装的任何类似奖励。</b>"
     },
     "536500": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>25% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>18% bonus to reprocessing yield of all ice and ores<br>7% reduction in fuel consumption for all service modules<br>15% reduction in isk requirements for ME research, TE research, and blueprint copy jobs<br>40% reduction in time requirements for ME research jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
@@ -934229,7 +934229,7 @@
     },
     "536594": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>25% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>1% reduction in material requirements for manufacturing jobs<br>50% reduction in time requirements for basic capital component manufacturing<br>30% reduction in isk requirements for ME research, TE research, invention, and blueprint copy jobs<br>60% reduction in time requirements for blueprint copy jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
-        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这个改装件提供以下加成：</b><br>护盾值、装甲值、结构值和电容器电量提高25%<br>最大锁定范围提高18%<br>扫描分辨率提高180%<br>最大锁定目标数增加5<br>电容消耗降低42%，定点防御炮塔的最佳射程提高720%<br>制造项目的材料需求降低1%<br>基础旗舰组件制造的时间需求降低50%<br>材料效率研究、时间效率研究、发明和蓝图拷贝项目的时星币需求降低30%<br>蓝图拷贝项目的时间需求降低60%<br><br>此改装件提供的加成不随星系安全等级变化而调整<br><br><b>此特别版改装件提供的加成覆盖任何其他屹立大型改装件提供的类似加成。</b>"
+        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这套装备提供以下额外功能：</b><br>护盾、装甲、结构值和电容量加成<br>最大锁定距离提高6%<br>扫描分辨率提高2%<br>目标锁定数上限惩罚<br>电容器使用量减少 42%，点防御电池的最佳射程提升 720%。<br>生产项目的材料需求降低<br>基本资本部件制造所需时间减少 50%<br>ME 研究、TE 研究、发明和蓝图复制任务的 ISK 需求降低 30%。<br>蓝图复印作业所需时间减少 60%<br><br>这套装备提供的加成不会随系统安全状态而提升。<br><br><b>此特别版套装的额外奖励将覆盖其他 Standup L-Set 套装的任何类似奖励。</b>"
     },
     "536595": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>20% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>50% reduction in time requirements for basic capital component manufacturing<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
@@ -934241,7 +934241,7 @@
     },
     "536597": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>25% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>1% reduction in material requirements for manufacturing jobs<br>40% reduction in time requirements for tech two component manufacturing<br>30% reduction in isk requirements for ME research, TE research, invention, and blueprint copy jobs<br>60% reduction in time requirements for ME research, TE research, and blueprint copy jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
-        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这个改装件提供以下加成：</b><br>护盾值、装甲值、结构值和电容器电量提高25%<br>最大锁定范围提高18%<br>扫描分辨率提高180%<br>最大锁定目标数增加5<br>电容消耗降低42%，定点防御炮塔的最佳射程提高720%<br>制造项目的材料需求降低1%<br>二级科技组件制造的时间需求降低40%<br>材料效率研究、时间效率研究、发明和蓝图拷贝项目的时星币需求降低30%<br>材料效率研究、时间效率研究和蓝图拷贝项目的时间需求降低60%<br><br>此改装件提供的加成不随星系安全等级变化而调整<br><br><b>此特别版改装件提供的加成覆盖任何其他屹立大型改装件提供的类似加成。</b>"
+        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这套装备提供以下额外功能：</b><br>护盾、装甲、结构值和电容量加成<br>最大锁定距离提高6%<br>扫描分辨率提高2%<br>目标锁定数上限惩罚<br>电容器使用量减少 42%，点防御电池的最佳射程提升 720%。<br>生产项目的材料需求降低<br>技术二组件制造所需时间减少 40%<br>ME 研究、TE 研究、发明和蓝图复制任务的 ISK 需求降低 30%。<br>机械工程研究、技术工程研究和蓝图复印工作所需时间减少 60%。<br><br>这套装备提供的加成不会随系统安全状态而提升。<br><br><b>此特别版套装的额外奖励将覆盖其他 Standup L-Set 套装的任何类似奖励。</b>"
     },
     "536598": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>25% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>4% reduction in material requirements for manufacturing jobs<br>40% reduction in time requirements for tech one ship manufacturing<br>60% reduction in time requirements for tech two ship manufacturing<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
@@ -934257,7 +934257,7 @@
     },
     "536601": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>20% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>14% bonus to reprocessing yield of all ice and ores<br>23% reduction in isk requirements for ME research, TE research, and blueprint copy jobs<br>50% reduction in time requirements for ME research jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
-        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这个改装件提供以下加成：</b><br>护盾值、装甲值、结构值和电容器电量提高20%<br>最大锁定范围提高18%<br>扫描分辨率提高180%<br>最大锁定目标数增加5<br>电容消耗降低42%，定点防御炮塔的最佳射程提高720%<br>所有冰矿和矿石的提炼产出提高14%<br>材料效率研究、时间效率研究和蓝图拷贝项目的星币需求降低23%<br>材料效率研究项目的时间需求降低50%<br><br>此改装件提供的加成不随星系安全等级变化而调整<br><br><b>此特别版改装件提供的加成覆盖任何其他屹立大型改装件提供的类似加成。</b>"
+        "zh": "这个特别版的屹立改装件由昇威集团安装于这个升级版势力铁壁中。这个昇威哨站改装件代表了太空建筑科技的最新成果，数量有限，只能通过YC120年的昇威哨站升级项目获得。如果该建筑被摧毁或解除锚定，这个改装件将会彻底损毁，无法复原。<br><br><b>这套装备提供以下额外功能：</b><br>护盾、装甲、结构值和电容量加成<br>最大锁定距离提高6%<br>扫描分辨率提高2%<br>目标锁定数上限惩罚<br>电容器使用量减少 42%，点防御电池的最佳射程提升 720%。<br>所有冰块和矿石的再加工产量提高 14%。<br>ME 研究、TE 研究和蓝图复制任务的 ISK 需求量减少了 23%。<br>机械工程研究工作所需时间减少 50%<br><br>这套装备提供的加成不会随系统安全状态而提升。<br><br><b>此特别版套装的额外奖励将覆盖其他 Standup L-Set 套装的任何类似奖励。</b>"
     },
     "536602": {
         "en": "This special edition Standup rig has been installed by Upwell on this upgraded faction Fortizar. The Upwell Outpost Rigs represent the latest in structure technology, and have only been made available in limited quantities through the Upwell Outpost Upgrade Program of YC120. If this structure is destroyed or unanchored this rig will be lost forever without any chance of replacement.<br><br><b>This rig provides the following bonuses:</b><br>25% bonus to all hitpoints and capacitor capacity<br>18% bonus to maximum targeting range<br>180% bonus to scan resolution<br>+5 to maximum locked targets<br>42% reduction in capacitor use and 720% bonus to optimal range for Point Defense Batteries<br>35% reduction in isk requirements for ME research, TE research, invention, and blueprint copy jobs<br>50% reduction in time requirements for ME research, TE research, and blueprint copy jobs<br>50% reduction in time requirements for invention jobs<br><br>The bonuses from this rig do not scale with system security status<br><br><b>The bonuses from this special edition rig override any similar bonuses from other Standup L-Set rigs.</b>",
@@ -961497,7 +961497,7 @@
     },
     "550466": {
         "en": "New Offer",
-        "zh": "新的提议"
+        "zh": "新优惠"
     },
     "550467": {
         "en": "Time limited offer available",
@@ -967697,7 +967697,7 @@
     },
     "552922": {
         "en": "This crate contains a blueprint copy that will allow you to construct a cruiser-class starship from your faction's combat line.\r\nCruisers are larger and more powerful than either frigates or destroyers, and they are excellent choices for many kinds of combat activities.\r\nThis blueprint enables construction of one cruiser when used in the Industry system along with a variety of minerals. Minerals can be obtained by reprocessing ores mined from asteroids, or they can be purchased from other capsuleers using the market.",
-        "zh": "这个箱子中有一张蓝图拷贝，用来建造你所属势力的一艘战斗型巡洋舰。\n\n巡洋舰比护卫舰和驱逐舰都更大，也更强，是多种战斗场合的上佳选择。\n\n有了这张蓝图，加上一些所需的矿物，就可以建造一艘巡洋舰。矿物可以通过提炼在小行星带采到的矿石来获得，也可以在市场上购买。"
+        "zh": "这个箱子中有一张蓝图拷贝，用来建造你所属势力的一艘战斗型巡洋舰。巡洋舰比护卫舰和驱逐舰都更大，也更强，是多种战斗场合的上佳选择。有了这张蓝图，加上一些所需的矿物，就可以建造一艘巡洋舰。矿物可以通过提炼在小行星带采到的矿石来获得，也可以在市场上购买。"
     },
     "552923": {
         "en": "Daily Starter Gifts",
@@ -1012061,7 +1012061,7 @@
     },
     "573926": {
         "en": "QA-only Expert System with skills that affect non-ship areas of the game:\r\n\r\njump clone installation, standings, market orders, contracts, booster drawbacks, booster duration, implant installation, manufacturing jobs installation, manufacturing jobs number, research jobs number, manufacturing of an advanced blueprint (Vagabond for example), scrapmetal refining efficiency, PI CC upgrade, planet number\r\n\r\nSkills: \r\n\r\nConnections I\r\nCorporation Management I\r\nTycoon I\r\nContracting I\r\nNeurotoxin Control I\r\nNeurotoxin Recovery I\r\nCybernetics V\r\nBiology II\r\nIndustry III\r\nMass Production I\r\nAdvanced Medium Ship Construction I\r\nMinmatar Starship Engineering I\r\nMechanical Engineering I\r\nLaboratory Operation I\r\nScrapmetal Processing V\r\nCommand Center Upgrades V\r\nInterplanetary Consolidation V\r\nPlanetology V",
-        "zh": "QA测试专家系统囊括了游戏中除了舰船之外的相关技能：\n\n\n\n远距克隆安装，声望，市场订单，合同，增效剂副作用，增效剂持续时间，植入体安装，制造项目安装，制造项目数量，研究项目数量，制造高级蓝图（比如流浪级），废金属精炼效率，行星工业设施升级，行星数量\n\n\n\n技能： \n\n\n\n关系学 I\n\n军团管理 I\n\n商业巨头 I\n\n合同规则 I\n\n神经毒化控制理论 I\n\n神经毒化抵抗理论 I\n\n控制论 V\n\n生物学 II\n\n工业理论 III\n\n批量生产学 I\n\n高级中型舰船建造研究 I\n\n米玛塔尔星舰工程学 I\n\n机械工程学 I\n\n实验室运作理论 I\n\n碎铁处理技术 V\n\n指挥中心升级理论 V\n\n行星统筹管理学 V\n\n行星学 V"
+        "zh": "远距克隆安装，声望，市场订单，合同，增效剂副作用，增效剂持续时间，植入体安装，制造项目安装，制造项目数量，研究项目数量，制造高级蓝图（比如流浪级），废金属精炼效率，行星工业设施升级，行星数量人脉关系 I 公司管理 I 大亨 I 承包 I 神经毒素控制 I 神经毒素回收 I 控制论 V 生物学 II 工业 III 大规模生产 I 先进中型舰船建造 I 米玛塔尔星舰工程 I 机械工程 I 实验室运营 I 废金属处理 V 指挥中心升级 V 星际整合 V 行星学 V"
     },
     "573935": {
         "en": "Super Kerr-Induced Nanocoatings (SKINs) are a technology that enables capsuleers to change the look of their ships at will. Individual ship SKINs are activated by integrating the special encoding into the pilot's neural interfaces, and are subsequently available to use on any suitable ship flown by the capsuleer.",
@@ -1020213,7 +1020213,7 @@
     },
     "577606": {
         "en": "Once we deploy the ECM, the battleship will begin firing upon us.\r\n\r\nRemember, you will have a fresh clone waiting for you once your current body is violently destroyed. \r\n\r\nEngage the ECM now.",
-        "zh": "坏消息是，启动ECM后，战列舰就会来找我们麻烦了。\n\n\n\n要记得，你当前的身体被毁坏后，将会在一具全新的克隆体中重生。 \n\n\n\n现在，启动ECM。"
+        "zh": "坏消息是，启动ECM后，战列舰就会来找我们麻烦了。\r\n\r\n\r\n\r\n要记得，你当前的身体被毁坏后，将会在一具全新的克隆体中重生。 \r\n\r\n\r\n\r\n现在，启动ECM。"
     },
     "577607": {
         "en": "Activate the <b>ECM module</b> to break the battleship's target lock on the civilian ship.",
@@ -1030269,7 +1030269,7 @@
     },
     "582894": {
         "en": "This monument honors the numerous capsuleers who contributed to the Minmatar Republic's construction project for this stargate in YC123. The ten individual capsuleers and five capsuleer corporations who contributed the most to this project are listed below.\r\n\r\n<b>Top ten individual capsuleer contributors to the construction project for this stargate:</b>\r\n1. <url=showinfo:1373//2113204228>Xeantuxe Vaille</url>\r\n2. <url=showinfo:1373//95249238>PixyWarrior Ellecon</url>\r\n3. <url=showinfo:1373//90448078>Gloobz</url>\r\n4. <url=showinfo:1373//2116255096>Michael Fuzzybolton</url>\r\n5. <url=showinfo:1373//144661902>Maxp</url>\r\n6. <url=showinfo:1373//90896815>Lara Edios</url>\r\n7. <url=showinfo:1373//95734873>Ashley Parisi</url>\r\n8. <url=showinfo:1373//144807672>Eleana Tomelac</url>\r\n9. <url=showinfo:1373//2112708895>Major Tom's Ghost</url>\r\n10. <url=showinfo:1373//1640795123>Onslaughtor</url>\r\n\r\n<b>Top five capsuleer corporations that contributed to the construction project for this stargate:</b>\r\n1. <url=showinfo:2//98426237>Phoenix Naval Operations</url>\r\n2. <url=showinfo:2//98665675>Les Eclaireurs de Tau-Ceti</url>\r\n3. <url=showinfo:2//98294796>Stahlklang Foundation</url>\r\n4. <url=showinfo:2//98671606>KekoBan</url>\r\n5. <url=showinfo:2//1417840265>Free Radical Corporation</url>",
-        "zh": "这座纪念碑铭记着在YC123年参与米玛塔尔共和国星门建造项目的众多克隆飞行员。其中贡献最大的10名克隆飞行员以及5个克隆飞行员军团的名字如下：<b>贡献最大的10名克隆飞行员：</b>1.<url=showinfo:1373//2113204228>Xeantuxe Vaille</url> 2.<url=showinfo:1373//95249238>PixyWarrior Ellecon</url> 3.<url=showinfo:1373//90448078>Gloobz</url> 4.<url=showinfo:1373//2116255096>迈克尔·弗兹博尔顿</url>5.<url=showinfo:1373//144661902>马克斯</url>6.<url=showinfo:1373//90896815>拉拉·埃迪奥斯</url>7.<url=showinfo:1373//95734873>阿什利·帕里西</url>8.<url=showinfo:1373//144807672>埃莱娜·托梅拉克</url>9.<url=showinfo:1373//2112708895>汤姆少校的鬼魂</url>10.<url=showinfo:1373//1640795123>贡献最大的5个克隆飞行员军团：</b>1.<url=showinfo:2//98426237>凤凰海军行动</url>2.<url=showinfo:2//98665675>陶塞蒂的闪电</url>3.<url=showinfo:2//98294796>斯塔尔克朗基金会</url>4.<url=showinfo:2//98671606>KekoBan</url> 5.<url=showinfo:2//1417840265>自由基公司</url>"
+        "zh": "这座纪念碑铭记着在YC123年参与米玛塔尔共和国星门建造项目的众多克隆飞行员。其中贡献最大的10名克隆飞行员以及5个克隆飞行员军团的名字如下：\r\n\r\n<b>贡献最大的10名克隆飞行员：</b>\r\n\r\n1. <url=showinfo:1373//2113204228>Xeantuxe Vaille</url>\r\n\r\n2. <url=showinfo:1373//95249238>PixyWarrior Ellecon</url>\r\n\r\n3. <url=showinfo:1373//90448078>Gloobz</url>\r\n\r\n4. <url=showinfo:1373//2116255096>Michael Fuzzybolton</url>\r\n\r\n5. <url=showinfo:1373//144661902>Maxp</url>\r\n\r\n6. <url=showinfo:1373//90896815>Lara Edios</url>\r\n\r\n7. <url=showinfo:1373//95734873>Ashley Parisi</url>\r\n\r\n8. <url=showinfo:1373//144807672>Eleana Tomelac</url>\r\n\r\n9. <url=showinfo:1373//2112708895>Major Tom's Ghost</url>\r\n\r\n10.<url=showinfo:1373//1640795123>Onslaughtor</url>\r\n\r\n<b>贡献最大的5个克隆飞行员军团：</b>\r\n\r\n1. <url=showinfo:2//98426237>Phoenix Naval Operations</url>\r\n\r\n2. <url=showinfo:2//98665675>Les Eclaireurs de Tau-Ceti</url>\r\n\r\n3. <url=showinfo:2//98294796>Stahlklang Foundation</url>\r\n\r\n4. <url=showinfo:2//98671606>KekoBan</url>\r\n\r\n5. <url=showinfo:2//1417840265>Free Radical Corporation</url>"
     },
     "582895": {
         "en": "This monument honors the numerous capsuleers who contributed to the Amarr Empire's construction project for this stargate in YC123. The ten individual capsuleers and five capsuleer corporations who contributed the most to this project are listed below.\r\n\r\n<b>Top ten individual capsuleer contributors to the construction project for this stargate:</b>\r\n1. <url=showinfo:1373//91825796>Gya Kulo</url>\r\n2. <url=showinfo:1373//95360519>Shira Bebrauskas</url>\r\n3. <url=showinfo:1373//95499385>Artemis Seksiukas</url>\r\n4. <url=showinfo:1373//2115113440>Alphacatron</url>\r\n5. <url=showinfo:1373//2113209136>Ganasyu</url>\r\n6. <url=showinfo:1373//2116532113>tokoroten 0010</url>\r\n7. <url=showinfo:1373//96237569>Princess Sairan</url>\r\n8. <url=showinfo:1373//2113752904>Cooliris</url>\r\n9. <url=showinfo:1373//102564940>Guren no Tsuki</url>\r\n10. <url=showinfo:1373//2112868631>Johan Pendersen</url>\r\n\r\n<b>Top five capsuleer corporations that contributed to the construction project for this stargate:</b>\r\n1. <url=showinfo:2//699484943>Funda</url>\r\n2. <url=showinfo:2//98669280>This Was The Way</url>\r\n3. <url=showinfo:2//98547104>Bugatti Alpha</url>\r\n4. <url=showinfo:2//98597732>Alphacatron Offshore Industries</url>\r\n5. <url=showinfo:2//98642077>Null to dust miner corporation</url>",
@@ -1072365,7 +1072365,7 @@
     },
     "610656": {
         "en": "This crate has been provided by the Association for Interdisciplinary Research as a reward for participating in the AIR Career Program.\r\n\r\nIt contains a blueprint copy for a hauler of one of the Empires.",
-        "zh": "这个箱子是参与星空会职业计划所获得的奖励。\n\n\n\n内含一张帝国运载舰蓝图拷贝。"
+        "zh": "这个箱子是参与星空会职业计划所获得的奖励。内含一张帝国运载舰蓝图拷贝。"
     },
     "610657": {
         "en": "This crate has been provided by the Association for Interdisciplinary Research as a reward for participating in the AIR Career Program.\r\n\r\nIt contains a skill required for piloting haulers of one of the Empires.",
@@ -1090041,7 +1090041,7 @@
     },
     "640170": {
         "en": "Change Order",
-        "zh": "更改订单"
+        "zh": "更改顺序"
     },
     "640185": {
         "en": "{tabName} Tab Columns",
@@ -1097381,7 +1097381,7 @@
     },
     "645827": {
         "en": "Collapse",
-        "zh": "崩塌"
+        "zh": "折叠"
     },
     "645828": {
         "en": "Expand",
@@ -1104885,7 +1104885,7 @@
     },
     "657363": {
         "en": "Cannot move {[numeric]quantity} x {[item]item.name} into {containerName} as only {[numeric]expectedQuantity} {[numeric]expectedQuantity -> \"is\", \"are\"} required for the completion of projects for corporation {corpName}.",
-        "zh": "无法将{[numeric]quantity}×{[item]item.name}移动至{containerName}，因为完成{corpName}军团的该项目{[numeric]expectedQuantity}只需要。"
+        "zh": "无法将{[numeric]quantity} x {[item]item.name}移动至 {containerName}，因为完成{corpName}军团的该项目 {[numeric]expectedQuantity}只需要。"
     },
     "657364": {
         "en": "Sacred Exploiter",
@@ -1109629,15 +1109629,15 @@
     },
     "662728": {
         "en": "New Keepstars may not be anchored within highsec space",
-        "zh": "New Keepstars may not be anchored within highsec space"
+        "zh": "新的星城不能锚定在高安空间内"
     },
     "662729": {
         "en": "New Keepstars may not be anchored within highsec space",
-        "zh": "New Keepstars may not be anchored within highsec space"
+        "zh": "新的星城不能锚定在高安空间内"
     },
     "662730": {
         "en": "New Sotiyos may not be anchored within highsec space",
-        "zh": "New Sotiyos may not be anchored within highsec space"
+        "zh": "新的索迪约不能锚定在高安空间内"
     },
     "662826": {
         "en": "MetalFX",
@@ -1148777,7 +1148777,7 @@
     },
     "727536": {
         "en": "{[numeric]units} {[numeric]units-> \"week\", \"weeks\"}",
-        "zh": "{[numeric]units}{[numeric]units-> \"week\", \"weeks\"}"
+        "zh": "{[numeric]units}{[numeric]units-> \"周\", \"周\"}"
     },
     "727537": {
         "en": "Crimson Harvest is here!",
@@ -1159169,7 +1159169,7 @@
     },
     "871317": {
         "en": "Contains a SCARAB Breacher Pod M Blueprint.",
-        "zh": "包含一张圣甲虫突破者座舱M蓝图。"
+        "zh": "包含一张圣甲虫突破者级逃生舱M蓝图。"
     },
     "871318": {
         "en": "Small Breacher Pod Launcher Blueprint Crate",
@@ -1172377,19 +1172377,19 @@
     },
     "1012031": {
         "en": "Reverse-Time designation J174618, poshlost territory of the Ancient Enemy Azdazja. \r\n\r\nUnstable, outside the flow, now-time under the domain of the Convocation of Triglav. Advanced-time extripation of all Ancient Enemy Azdazja is istina, Redoubt is now-time commencement of this passage.",
-        "zh": "逆向时间标记为J174618，是远古宿敌阿兹达加的庸俗领地。这里政局动荡，并且脱离时间流，目前由三神避世会统治。必须彻底铲除远古宿敌阿兹达扎，这是不可动摇的真理。现在，堡垒就是我们的起点。"
+        "zh": "逆向时间标记为J174618，是远古宿敌阿兹达加的庸俗领地。\\r\\n\\r\\n这里政局动荡，并且脱离时间流，目前由三神避世会统治。必须彻底铲除远古宿敌阿兹达扎，这是不可动摇的真理。现在，堡垒就是我们的起点。"
     },
     "1012032": {
         "en": "Formerly designated J200727, the megacorporations of the Caldari State passed a motion to acquire this system in YC127. \r\n\r\nThe name comes from the Drifter complex that was present and the colloquial use of “Eyrie” by Caldari Navy service people to refer to a naval fortification designed to house one of their fleets.",
-        "zh": "该超级集团的旧称是J200727，隶属于加达里合众国，在YC127年通过了购置该星系的动议。这个名字来源于当时出现的流浪者复合体以及加达里海军服役人员对“鹰巢”的统称，用来指代专为容纳自己的舰队而设计的海军防御工事。"
+        "zh": "这片星系的旧称是J200727，隶属于加达里合众国的超级集团在YC127年通过了购置该星系的动议。\\r\\n\\r\\n这个名字来源于当时出现的流浪者复合体以及加达里海军服役人员对“鹰巢”的统称，用来指代专为容纳自己的舰队而设计的海军防御工事"
     },
     "1012033": {
         "en": "Formerly designated J164710, the Amarr consecrated this system in YC127 as they claimed occupancy over this territory. \r\n\r\nThe system was renamed to represent its purification and suitability to be ruled by the Holy Empress despite the refusal of the pre-existing Drifter population to accept that decision.",
-        "zh": "这片星系的旧称是J164710，艾玛帝国于YC127年确立神权并开启统治。虽然这一决定遭到了流浪者原住民的竭力反对，但这片星系还是被重新命名以彰显神性，并证明其适合推行神圣女皇的统治。"
+        "zh": "这片星系的旧称是J164710，艾玛帝国于YC127年确立神权并开启统治。\\r\\n\\r\\n虽然这一决定遭到了流浪者原住民的竭力反对，但这片星系还是被重新命名以彰显神性，并证明其适合推行神圣女皇的统治。"
     },
     "1012034": {
         "en": "Formerly designated J110145, the Minmatar Republic claimed this system from the Vigilant Tyrannos in YC127. \r\n\r\nIt was renamed for the Drifter complex in the system, modified by the Republic’s hope to one day free the system from the Tyrannical grip of the Drifters who refuse to acknowledge their authority.",
-        "zh": "米玛塔尔共和国的旧称是J110145，其于YC127年从暴君推进统治集团手中夺取该星系并宣示了主权。共和国参照星系内的流浪者复合体为其更名，希望有朝一日能将该星系从拒绝承认其统治权的流浪者暴政中解放出来。"
+        "zh": "这片星系的旧称是J110145，米玛塔尔共和国于YC127年从暴君推进统治集团手中夺取该星系并宣示了主权。\\r\\n\\r\\n共和国参照星系内的流浪者复合体为其更名，希望有朝一日能将该星系从拒绝承认其统治权的流浪者暴政中解放出来。"
     },
     "1012037": {
         "en": "Drifter Small Wreck",
@@ -1179713,7 +1179713,7 @@
     },
     "1015236": {
         "en": "{[numeric]numBp} <color={color}>Total {[numeric]numBp-> \"Blueprint\", \"Blueprints\"}</color>",
-        "zh": "<color={color}>总计{[numeric]numBp}张{[numeric]numBp-> \"蓝图\", \"蓝图\"}</color>"
+        "zh": "<color={color}>总计{[numeric]numBp}个{[numeric]numBp-> \"Blueprint\", \"Blueprints\"}</color>"
     },
     "1015237": {
         "en": "Show blueprint counter",
@@ -1180217,7 +1180217,7 @@
     },
     "1016000": {
         "en": "Probe Ship Fitting",
-        "zh": "探针级舰船装配"
+        "zh": "探索级舰船装配"
     },
     "1016014": {
         "en": "You do not have the required roles",
@@ -1182581,11 +1182581,11 @@
     },
     "1017996": {
         "en": "Vanguard Nemesis",
-        "zh": "纳美西斯级先锋"
+        "zh": "纳美西斯"
     },
     "1017997": {
         "en": "Vanguard Nemesis",
-        "zh": "纳美西斯级先锋"
+        "zh": "纳美西斯"
     },
     "1017998": {
         "en": "Join the fight in space or on the ground!\r\n\r\nVanguard have been deployed to uncover Upwell secrets so that capsuleers can ambush Unlisted Squall convoys. The Sealed Projects Crates retrieved from those convoys can be traded at Deathless Wraith Traders to unlock rewards. ",
@@ -1182593,7 +1182593,7 @@
     },
     "1017999": {
         "en": "Vanguard Nemesis",
-        "zh": "纳美西斯级先锋"
+        "zh": "纳美西斯"
     },
     "1018000": {
         "en": "",
@@ -1183601,7 +1183601,7 @@
     },
     "1018433": {
         "en": "Nemesis",
-        "zh": "纳美西斯级"
+        "zh": "纳美西斯"
     },
     "1018434": {
         "en": "Cluster 1 - Asteroid 5",
@@ -1184105,7 +1184105,7 @@
     },
     "1018775": {
         "en": "{[numeric]amount} {[numeric]amount -> \"Avalon Investigation\", \"Avalon Investigations\"} in system",
-        "zh": "当前星系内有{[numeric]amount}{[numeric]amount -> 项“阿瓦隆调查”}"
+        "zh": "当前星系内有{[numeric]amount}{[numeric]amount -> \\\"项阿瓦隆调查\\\", \\\"项阿瓦隆调查\\\"}"
     },
     "1018779": {
         "en": "The selected item is not valid for this operation.",
@@ -1198317,35 +1198317,35 @@
     },
     "1030755": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"year\", \"years\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"year\", \"years\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"年\", \"年\"}</color>"
     },
     "1030758": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"month\", \"months\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}个{[numeric]units-> \"month\", \"months\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"月\", \"月\"}</color>"
     },
     "1030760": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"day\", \"days\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"day\", \"days\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"日\", \"日\"}</color>"
     },
     "1030761": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"week\", \"weeks\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"week\", \"weeks\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"周\", \"周\"}</color>"
     },
     "1030762": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"hour\", \"hours\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"hour\", \"hours\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"小时\", \"小时\"}</color>"
     },
     "1030763": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"minute\", \"minutes\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"minute\", \"minutes\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"分钟\", \"分钟\"</color>"
     },
     "1030764": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"second\", \"seconds\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"second\", \"seconds\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"秒\", \"秒\"}</color>"
     },
     "1030765": {
         "en": "<color={text_color}>{[numeric]units} {[numeric]units-> \"millisecond\", \"milliseconds\"}</color>",
-        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"millisecond\", \"milliseconds\"}</color>"
+        "zh": "<color={text_color}>{[numeric]units}{[numeric]units-> \"毫秒\", \"毫秒\"}</color>"
     },
     "1030770": {
         "en": "Deposit Cryostorm Mapper",
@@ -1210321,7 +1210321,7 @@
     },
     "1038247": {
         "en": "Salvation",
-        "zh": "救赎级"
+        "zh": "拯救级"
     },
     "1038248": {
         "en": "Royal Heir Arim Ardishapur",
@@ -1219209,7 +1219209,7 @@
     },
     "1042027": {
         "en": "Probe Penumbral Shadows SKIN",
-        "zh": "探针级日月半影涂装"
+        "zh": "探索级日月半影涂装"
     },
     "1042028": {
         "en": "",
@@ -1219669,7 +1219669,7 @@
     },
     "1042159": {
         "en": "Probe Fleet Issue Capsuleer Day XXIII SKIN",
-        "zh": "探针级舰队型克隆飞行员之日XXIII涂装"
+        "zh": "探索级舰队型克隆飞行员之日XXIII涂装"
     },
     "1042160": {
         "en": "This SKIN marks the 23rd anniversary of the rise of the capsuleers by honoring the system they turned into the economic heart of New Eden. In YC128, Jita finds itself at the heart of the Warpath conflict. Carry its star with pride as a reminder of the power for change all capsuleers wield.\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
@@ -1223565,7 +1223565,7 @@
     },
     "1043769": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "zh": "<a href=showinfo:20494>装甲指挥</a>脉冲波强度和持续时间加成"
+        "zh": "<a href=showinfo:20494>装甲指挥</a>和<a href=showinfo:20495>信息战指挥</a>脉冲波强度和持续时间加成"
     },
     "1043771": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up time",
@@ -1223725,7 +1223725,7 @@
     },
     "1043814": {
         "en": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:3349>Skirmish Command</a> burst strength and duration",
-        "zh": "<a href=showinfo:3350>护盾指挥</a>脉冲波强度和持续时间加成"
+        "zh": "<a href=showinfo:3350>护盾指挥</a>和<a href=showinfo:3349>游击战指挥</a>脉冲波强度和持续时间加成"
     },
     "1043816": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1225841,7 +1225841,7 @@
     },
     "1045957": {
         "en": "{[numeric]numDays} {[numeric]numDays-> \"day\", \"days\"} left",
-        "zh": "剩余{[numeric]numDays}{[numeric]numDays-> \"day\", \"days\"}"
+        "zh": "剩余{[numeric]numDays} {[numeric]numDays->日}"
     },
     "1045964": {
         "en": "Cradle of War",
@@ -1226877,7 +1226877,7 @@
     },
     "1046799": {
         "en": "Complete sites to uncover the heart of local AEGIS operations. Follow AEGIS Squalls to uncover hidden sites.",
-        "zh": "完成地点目标，揭开当地统合部紧急干预和安全局行动的核心。跟踪统合部紧急干预和安全局狂风舰，借此发现隐藏地点。"
+        "zh": "完成地点目标，揭开当地统合部紧急干预和安全局行动的核心。跟踪统合部紧急干预和安全局狂风级，借此发现隐藏地点。"
     },
     "1046800": {
         "en": "Avalon Investigations",
@@ -1226885,7 +1226885,7 @@
     },
     "1046801": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1046813": {
         "en": "Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)",
@@ -1227573,7 +1227573,7 @@
     },
     "1047338": {
         "en": "AEGIS activities are being revealed throughout space. Track down AEGIS Squalls and locate sites to aid in Avalon Investigations, gaining rewards and a chance to earn the flotilla’s trust on behalf of your local empire.",
-        "zh": "统合部紧急干预和安全局的活动正在全宇宙范围内逐步暴露。追踪狂风级庇护者并定位任务地点，协助完成“阿瓦隆调查”，获取奖励，并有机会代表本地帝国赢得舰队信任。"
+        "zh": "统合部紧急干预和安全局的活动正在全宇宙范围内逐步暴露。追踪狂风庇护者并定位任务地点，协助完成“阿瓦隆调查”，获取奖励，并有机会代表本地帝国赢得舰队信任。"
     },
     "1047372": {
         "en": "Hull Damage Recieved",
@@ -1227889,7 +1227889,7 @@
     },
     "1047507": {
         "en": "<i>Destroy 10 Nemesis Research Outposts, Nemesis Test Centers, or AEGIS Security Platforms found at POIs in Avalon Investigations systems.<br><br>POIs are invisible to all scanning methods and cannot be discovered directly. They are, however, destinations on AEGIS Squall routes.</i>",
-        "zh": "<i>摧毁10个在阿瓦隆调查星系的目标点中发现的纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台。<br><br>目标点无法通过任何扫描手段直接发现。但它们会作为狂风级庇护者航线的目的地出现。</i>"
+        "zh": "<i>摧毁10个在阿瓦隆调查星系的目标点中发现的纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台。<br><br>目标点无法通过任何扫描手段直接发现。但它们会作为狂风庇护者航线的目的地出现。</i>"
     },
     "1047508": {
         "en": "Vanguard Avalon: Roamer Main Challenge",
@@ -1227897,11 +1227897,11 @@
     },
     "1047509": {
         "en": "AEGIS Squalls destroyed",
-        "zh": "已摧毁狂风级庇护者"
+        "zh": "已摧毁狂风庇护者"
     },
     "1047510": {
         "en": "<i>Scan down and destroy 15 AEGIS Squall ships in Avalon Investigations systems.</i>",
-        "zh": "<i>扫描并摧毁15艘阿瓦隆调查星系中的统合部紧急干预和安全局狂风舰。"
+        "zh": "<i>扫描并摧毁15艘阿瓦隆调查星系中的统合部紧急干预和安全局狂风级。"
     },
     "1047511": {
         "en": "Vanguard Avalon: Mini Bosses Repeatable Challenge",
@@ -1227933,11 +1227933,11 @@
     },
     "1047519": {
         "en": "AEGIS Squalls destroyed",
-        "zh": "已摧毁狂风级庇护者"
+        "zh": "已摧毁狂风庇护者"
     },
     "1047520": {
         "en": "<i>Scan down and destroy six AEGIS Squall ships in Avalon Investigations systems.</i>",
-        "zh": "<i>扫描并摧毁阿瓦隆调查系统中的6艘狂风级庇护者舰船。</i>"
+        "zh": "<i>扫描并摧毁阿瓦隆调查系统中的6艘狂风庇护者舰船。</i>"
     },
     "1047536": {
         "en": "The first-ever fighter carrier constructed by the Caldari State, under the command of the legendary Admiral Tovil-Toba. Originally constructed as a water freighter, the Kairiola was refitted in response to the Gallente's bombardment of Caldari Prime.",
@@ -1228229,7 +1228229,7 @@
     },
     "1047793": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047794": {
         "en": "Avalon Investigations",
@@ -1228237,7 +1228237,7 @@
     },
     "1047795": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047796": {
         "en": "Avalon Investigations",
@@ -1228245,7 +1228245,7 @@
     },
     "1047797": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047798": {
         "en": "Avalon Investigations",
@@ -1228253,7 +1228253,7 @@
     },
     "1047799": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047800": {
         "en": "Avalon Investigations",
@@ -1228261,7 +1228261,7 @@
     },
     "1047801": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047802": {
         "en": "Avalon Investigations",
@@ -1228269,7 +1228269,7 @@
     },
     "1047803": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047804": {
         "en": "Avalon Investigations",
@@ -1228277,7 +1228277,7 @@
     },
     "1047805": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047806": {
         "en": "Avalon Investigations",
@@ -1228285,7 +1228285,7 @@
     },
     "1047807": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047808": {
         "en": "Avalon Investigations",
@@ -1228293,7 +1228293,7 @@
     },
     "1047809": {
         "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
-        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风舰，并跟踪它们前往这些高价值地点。"
+        "zh": "代表先锋的阿瓦隆分舰队调查统合部紧急干预和安全局的活动。赢取奖励并借此积攒筹码，以便日后说服分舰队启程前往你所选择帝国的领空。<br><br>部分统合部紧急干预和安全局站点不对公众开放。使用作战探针扫描统合部紧急干预和安全局狂风级，并跟踪它们前往这些高价值地点。"
     },
     "1047810": {
         "en": "Expired Coherence Volatile Booster",
@@ -1228425,11 +1228425,11 @@
     },
     "1047956": {
         "en": "Destroy the Director at local Nemesis Command and conclude this Avalon Investigation.",
-        "zh": "消灭当地纳美西斯级指挥部的指挥官，结束阿瓦隆调查。"
+        "zh": "消灭当地纳美西斯指挥部的指挥官，结束阿瓦隆调查。"
     },
     "1047957": {
         "en": "Nemesis Command Uncovered",
-        "zh": "发现纳美西斯级指挥中心"
+        "zh": "发现纳美西斯指挥中心"
     },
     "1047960": {
         "en": "Additional base <b>Shield</b>, <b>Armor</b> and <b>Structure</b> hitpoints for <b>Tactical Destroyers</b>",
@@ -1228461,7 +1228461,7 @@
     },
     "1047982": {
         "en": "<i>Destroy four Nemesis Research Outposts, Nemesis Test Centers, or AEGIS Security Platforms found at POIs in Avalon Investigations systems.<br><br>POIs are invisible to all scanning methods and cannot be discovered directly. They are, however, destinations on AEGIS Squall routes.</i>",
-        "zh": "<i>摧毁4个纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台（位于阿瓦隆调查星系中的POI）。<br><br>POI无法通过任何扫描手段直接发现。但它们会作为狂风级庇护者航线的目的地出现。</i>"
+        "zh": "<i>摧毁4个纳美西斯级研究哨站、纳美西斯级测试中心或统合部紧急干预和安全局安保平台（位于阿瓦隆调查星系中的POI）。<br><br>POI无法通过任何扫描手段直接发现。但它们会作为狂风庇护者航线的目的地出现。</i>"
     },
     "1047983": {
         "en": "Vanguard Avalon: Hacking Main Challenge",
@@ -1228473,7 +1228473,7 @@
     },
     "1047985": {
         "en": "<i>Hack 30 Surveillance Vaults or Research Vaults found in Flotilla Observation Outpost or POI: Nemesis Research Outpost sites.</i>",
-        "zh": "<i>破译位于分舰队观察站或POI中的30个监视保险库或研究保险库：纳美西斯级研究哨站点。</i>"
+        "zh": "<i>破译位于分舰队观察站或POI中的30个监视保险库或研究保险库：纳美西斯研究哨站点。</i>"
     },
     "1047986": {
         "en": "Vanguard Avalon: Hacking Repeatable Challenge",
@@ -1228485,7 +1228485,7 @@
     },
     "1047988": {
         "en": "<i>Hack 12 Surveillance Vaults or Research Vaults found in Flotilla Observation Outpost or POI: Nemesis Research Outpost sites.</i>",
-        "zh": "<i>破译位于分舰队观察站或POI中的12个监视保险库或研究保险库：纳美西斯级研究哨站点。</i>"
+        "zh": "<i>破译位于分舰队观察站或POI中的12个监视保险库或研究保险库：纳美西斯研究哨站点。</i>"
     },
     "1047989": {
         "en": "Vanguard Avalon: Salvaging Main Challenge",
@@ -1228509,7 +1228509,7 @@
     },
     "1047994": {
         "en": "<i>Salvage 60 Upwell Wrecks, Upwell Avalanche Wrecks, Flotilla Aeon Wreckages or Target Wrecks found in Upwell Wreckage or POI: Nemesis Test Center sites.</i>",
-        "zh": "<i>打捞在昇威残骸或POI中发现的60艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯级测试中心站点。</i>"
+        "zh": "<i>打捞在昇威残骸或POI中发现的60艘昇威残骸、雪崩级昇威残骸、万古级分舰队残骸或目标残骸：纳美西斯测试中心站点。</i>"
     },
     "1047995": {
         "en": "Vanguard Avalon: Big Boss Main Challenge",
@@ -1228521,7 +1228521,7 @@
     },
     "1047997": {
         "en": "<i>Destroy five Director Thunderchild ships.<br><br>These Aegis military commanders can be found in Nemesis Command Outpost sites, which only appear once Avalon Investigations influence reaches 100%.</i>",
-        "zh": "<i>摧毁5艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯级指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>"
+        "zh": "<i>摧毁5艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>"
     },
     "1047998": {
         "en": "Vanguard Avalon: Big Boss Repeating Challenge",
@@ -1228533,7 +1228533,7 @@
     },
     "1048000": {
         "en": "<i>Destroy two Director Thunderchild ships.<br><br>These Aegis military commanders can be found in Nemesis Command Outpost sites, which only appear once Avalon Investigations influence reaches 100%.</i>",
-        "zh": "<i>摧毁2艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯级指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>"
+        "zh": "<i>摧毁2艘雷裔级局长舰船。<br><br>这些庇护者军事指挥官可在纳美西斯指挥哨站点中找到，这些地点仅在阿瓦隆调查影响力达到100%后才会出现。</i>"
     },
     "1048001": {
         "en": "Vanguard Avalon: Item Trader Main Challenge",
@@ -1234625,6 +1234625,18 @@
     },
     "1056505": {
         "en": "Triglavian Background",
+        "zh": ""
+    },
+    "1059561": {
+        "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
+        "zh": ""
+    },
+    "1059562": {
+        "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
+        "zh": ""
+    },
+    "1059563": {
+        "en": "Akoman Sanguinary Savant SKIN",
         "zh": ""
     }
 }
