@@ -1232952,7 +1232952,7 @@
         "ja": "サヴァンの魂に祝福あれ\r\n卑俗なる汚れから解き放たれ\r\nその神聖なる意志によって。\r\n\r\n<i>サニ・サビク正典、サニ・サビク十の秘跡、8章2節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054444": {
-        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>",
         "ja": "サヴァンの魂に祝福あれ\r\n卑俗なる汚れから解き放たれ\r\nその神聖なる意志によって。\r\n\r\n<i>サニ・サビク正典、サニ・サビク十の秘跡、8章2節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054445": {
@@ -1233032,7 +1233032,7 @@
         "ja": "我が言葉は万物の中に宿る\r\n必要なのは、ただ信仰の息吹だけ\r\nそれが火を灯し\r\n迷える者が道を見いだすために\r\n\r\n<i>外典、迷える者へ、14章12節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054476": {
-        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>",
         "ja": "我が言葉は万物の中に宿る\r\n必要なのは、ただ信仰の息吹だけ\r\nそれが火を灯し\r\n迷える者が道を見いだすために\r\n\r\n<i>外典、迷える者へ、14章12節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054477": {
@@ -1234612,19 +1234612,51 @@
         "ja": "Pochven Wormholes - Enemy Spawner - Tetrimon - Easy - Roamers (DO NOT TRANSLATE)"
     },
     "1056502": {
-        "en": "A background for capsuleer portraits featuring the symbol of the Blood Raiders.\r\n\r\nThis can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "ja": ""
     },
     "1056503": {
-        "en": "Blood Raider Background",
+        "en": "Bloody Sunset Background",
         "ja": ""
     },
     "1056504": {
-        "en": "A background for capsuleer portraits featuring the symbol of the Triglavians.\r\n\r\nThis can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "ja": ""
     },
     "1056505": {
-        "en": "Triglavian Background",
+        "en": "Pochven Stabalized Background",
+        "ja": ""
+    },
+    "1058406": {
+        "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
+        "ja": ""
+    },
+    "1058407": {
+        "en": "Blood Raider Blueprint Crate",
+        "ja": ""
+    },
+    "1058408": {
+        "en": "Blood Raider Blueprint Crate",
+        "ja": ""
+    },
+    "1058409": {
+        "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
+        "ja": ""
+    },
+    "1058430": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "ja": ""
+    },
+    "1058431": {
+        "en": "Crimson Totality Background",
+        "ja": ""
+    },
+    "1059316": {
+        "en": "Fractured Skies Expansion",
+        "ja": ""
+    },
+    "1059324": {
+        "en": "Black Friday YC128",
         "ja": ""
     },
     "1059561": {
@@ -1234638,5 +1234670,33 @@
     "1059563": {
         "en": "Akoman Sanguinary Savant SKIN",
         "ja": ""
+    },
+    "1059579": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "ja": ""
+    },
+    "1059580": {
+        "en": "CSM 21 Voter Background",
+        "ja": ""
+    },
+    "1059905": {
+        "en": "HARVEST BLOODLETTING INTENSIFIES",
+        "ja": "血の祭典がさらに激化"
+    },
+    "1059906": {
+        "en": "The bloodgates remain open, with more loot, new rewards, and more action.",
+        "ja": "血の門は引き続き開放中。戦利品も新報酬も増え、戦いはさらに激しくなっています！"
+    },
+    "1059907": {
+        "en": "The seasonal track has been extended with new rewards, including a new character background.",
+        "ja": "シーズン報酬トラックが延長され、新たなキャラクター背景をはじめとする報酬が追加 されました。"
+    },
+    "1059908": {
+        "en": "The Blood Raider crate returns, with the possibility of any Blood Raider ship BPC.",
+        "ja": "ブラッドレイダーズの箱が復刻。あらゆるブラッドレイダーズ艦船の BPC が手に入る可 能性があります。"
+    },
+    "1059909": {
+        "en": "The action is reaching its peak, with more Criterion Ciphers dropping as loot.",
+        "ja": "戦いはいよいよ最高潮へ。戦利品としてドロップする「基準暗号」の数も増加していま す。"
     }
 }

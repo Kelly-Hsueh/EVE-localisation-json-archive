@@ -1232952,7 +1232952,7 @@
         "de": "Gesegnet sei die Gelehrten-Seele, befreit von niederem Schmutz durch ihren eigenen göttlichen Willen. <i>Sanikanonische Schrift, Die zehn Sakramente von Sani Sabik, Vers 8:2</i> Dieser SKIN wird bei Einlösung aktiviert und direkt zu Ihrer SKIN-Sammlung hinzugefügt."
     },
     "1054444": {
-        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>",
         "de": "Gesegnet sei die Gelehrten-Seele, befreit von niederem Schmutz durch ihren eigenen göttlichen Willen. <i>Sanikanonische Schrift, Die zehn Sakramente von Sani Sabik, Vers 8:2</i> Dieser SKIN wird bei Einlösung aktiviert und direkt zu Ihrer SKIN-Sammlung hinzugefügt."
     },
     "1054445": {
@@ -1233032,7 +1233032,7 @@
         "de": "Mein Wort liegt in allem, Es braucht nur den Atem des Glaubens, Um das Feuer zu entzünden, Damit die Verlorenen ihren Weg finden können <i>Apocryphon, Verlorene Texte 14:12</i> Dieser SKIN wird bei Einlösung aktiviert und direkt zu Ihrer SKIN-Sammlung hinzugefügt."
     },
     "1054476": {
-        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>",
         "de": "Mein Wort liegt in allem, Es braucht nur den Atem des Glaubens, Um das Feuer zu entzünden, Damit die Verlorenen ihren Weg finden können <i>Apocryphon, Verlorene Texte 14:12</i> Dieser SKIN wird bei Einlösung aktiviert und direkt zu Ihrer SKIN-Sammlung hinzugefügt."
     },
     "1054477": {
@@ -1234612,19 +1234612,51 @@
         "de": "Pochven Wormholes - Enemy Spawner - Tetrimon - Easy - Roamers (DO NOT TRANSLATE)"
     },
     "1056502": {
-        "en": "A background for capsuleer portraits featuring the symbol of the Blood Raiders.\r\n\r\nThis can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "de": ""
     },
     "1056503": {
-        "en": "Blood Raider Background",
+        "en": "Bloody Sunset Background",
         "de": ""
     },
     "1056504": {
-        "en": "A background for capsuleer portraits featuring the symbol of the Triglavians.\r\n\r\nThis can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "de": ""
     },
     "1056505": {
-        "en": "Triglavian Background",
+        "en": "Pochven Stabalized Background",
+        "de": ""
+    },
+    "1058406": {
+        "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
+        "de": ""
+    },
+    "1058407": {
+        "en": "Blood Raider Blueprint Crate",
+        "de": ""
+    },
+    "1058408": {
+        "en": "Blood Raider Blueprint Crate",
+        "de": ""
+    },
+    "1058409": {
+        "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
+        "de": ""
+    },
+    "1058430": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "de": ""
+    },
+    "1058431": {
+        "en": "Crimson Totality Background",
+        "de": ""
+    },
+    "1059316": {
+        "en": "Fractured Skies Expansion",
+        "de": ""
+    },
+    "1059324": {
+        "en": "Black Friday YC128",
         "de": ""
     },
     "1059561": {
@@ -1234638,5 +1234670,33 @@
     "1059563": {
         "en": "Akoman Sanguinary Savant SKIN",
         "de": ""
+    },
+    "1059579": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "de": ""
+    },
+    "1059580": {
+        "en": "CSM 21 Voter Background",
+        "de": ""
+    },
+    "1059905": {
+        "en": "HARVEST BLOODLETTING INTENSIFIES",
+        "de": "DAS ERNTE-BLUTVERGIESSEN ENTFLAMMT"
+    },
+    "1059906": {
+        "en": "The bloodgates remain open, with more loot, new rewards, and more action.",
+        "de": "Die Bluttore bleiben geöffnet, mit mehr Beute, neuen Belohnungen und mehr Action."
+    },
+    "1059907": {
+        "en": "The seasonal track has been extended with new rewards, including a new character background.",
+        "de": "Der saisonale Pfad wurde um neue Belohnungen erweitert, darunter ein neuer Charakterhintergrund."
+    },
+    "1059908": {
+        "en": "The Blood Raider crate returns, with the possibility of any Blood Raider ship BPC.",
+        "de": "Die Blood Raider-Kiste kehrt zurück, mit der Möglichkeit, eine Blaupausenkopie jedes Blood Raider-Schiffs zu enthalten."
+    },
+    "1059909": {
+        "en": "The action is reaching its peak, with more Criterion Ciphers dropping as loot.",
+        "de": "Die Action erreicht ihren Höhepunkt und es können noch mehr Kriteriumscodes erbeutet werden."
     }
 }

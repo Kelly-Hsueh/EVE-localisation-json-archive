@@ -1232952,7 +1232952,7 @@
         "fr": "Bénie soit l'âme érudite, libérée de la souillure vile par sa propre volonté divine. <i>Écriture sanicanonique, Les Dix Sacrements du Sani Sabik, 8:2</i> Ce SKIN sera activé et ajouté directement à votre collection de SKINS une fois utilisé."
     },
     "1054444": {
-        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>",
         "fr": "Bénie soit l'âme érudite, libérée de la souillure vile par sa propre volonté divine. <i>Écriture sanicanonique, Les Dix Sacrements du Sani Sabik, 8:2</i> Ce SKIN sera activé et ajouté directement à votre collection de SKINS une fois utilisé."
     },
     "1054445": {
@@ -1233032,7 +1233032,7 @@
         "fr": "Ma parole réside en tous, il ne lui faut que le souffle de la foi pour attiser le feu, et aider les égarés à retrouver leur chemin <i>Apocryphon, Passages perdus 14:12</i> Ce SKIN sera activé et ajouté directement à votre collection de SKINS une fois utilisé."
     },
     "1054476": {
-        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>",
         "fr": "Ma parole réside en tous, il ne lui faut que le souffle de la foi pour attiser le feu, et aider les égarés à retrouver leur chemin <i>Apocryphon, Passages perdus 14:12</i> Ce SKIN sera activé et ajouté directement à votre collection de SKINS une fois utilisé."
     },
     "1054477": {
@@ -1234612,19 +1234612,51 @@
         "fr": "Pochven Wormholes - Enemy Spawner - Tetrimon - Easy - Roamers (DO NOT TRANSLATE)"
     },
     "1056502": {
-        "en": "A background for capsuleer portraits featuring the symbol of the Blood Raiders.\r\n\r\nThis can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "fr": ""
     },
     "1056503": {
-        "en": "Blood Raider Background",
+        "en": "Bloody Sunset Background",
         "fr": ""
     },
     "1056504": {
-        "en": "A background for capsuleer portraits featuring the symbol of the Triglavians.\r\n\r\nThis can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "fr": ""
     },
     "1056505": {
-        "en": "Triglavian Background",
+        "en": "Pochven Stabalized Background",
+        "fr": ""
+    },
+    "1058406": {
+        "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
+        "fr": ""
+    },
+    "1058407": {
+        "en": "Blood Raider Blueprint Crate",
+        "fr": ""
+    },
+    "1058408": {
+        "en": "Blood Raider Blueprint Crate",
+        "fr": ""
+    },
+    "1058409": {
+        "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
+        "fr": ""
+    },
+    "1058430": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "fr": ""
+    },
+    "1058431": {
+        "en": "Crimson Totality Background",
+        "fr": ""
+    },
+    "1059316": {
+        "en": "Fractured Skies Expansion",
+        "fr": ""
+    },
+    "1059324": {
+        "en": "Black Friday YC128",
         "fr": ""
     },
     "1059561": {
@@ -1234638,5 +1234670,33 @@
     "1059563": {
         "en": "Akoman Sanguinary Savant SKIN",
         "fr": ""
+    },
+    "1059579": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "fr": ""
+    },
+    "1059580": {
+        "en": "CSM 21 Voter Background",
+        "fr": ""
+    },
+    "1059905": {
+        "en": "HARVEST BLOODLETTING INTENSIFIES",
+        "fr": "LE MASSACRE DE LA MOISSON S'INTENSIFIE"
+    },
+    "1059906": {
+        "en": "The bloodgates remain open, with more loot, new rewards, and more action.",
+        "fr": "Les portes de sang restent ouvertes, avec plus de butin, de nouvelles récompenses et plus d'action."
+    },
+    "1059907": {
+        "en": "The seasonal track has been extended with new rewards, including a new character background.",
+        "fr": "Le parcours saisonnier a été prolongé avec de nouvelles récompenses, dont un nouvel arrière-plan de personnage."
+    },
+    "1059908": {
+        "en": "The Blood Raider crate returns, with the possibility of any Blood Raider ship BPC.",
+        "fr": "La caisse blood raider revient, avec la possibilité d'obtenir une copie de plan de construction de n'importe quel vaisseau blood raider."
+    },
+    "1059909": {
+        "en": "The action is reaching its peak, with more Criterion Ciphers dropping as loot.",
+        "fr": "L'action atteint son paroxysme, avec davantage de Clés de chiffrage des Critères obtenues en butin."
     }
 }
