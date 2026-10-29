@@ -73984,7 +73984,7 @@
         "ja": "コーレラムガーディアンチーフガード"
     },
     "75092": {
-        "en": "Corelum Guardian Chief SafeGuard",
+        "en": "Corelum Guardian Chief Safeguard",
         "ja": "コーレラムガーディアンチーフセーフガード"
     },
     "75093": {
@@ -918720,11 +918720,11 @@
         "ja": "存在感のあるマーシャル級戦艦は1世紀に渡ってCONCORD艦隊の主力を務め、アマー帝国のアポカリプス級戦艦のサブフレームと竜骨を中心にさまざまな改修型や派生型が建造された設計である。マーシャル級戦艦に率いられた対応部隊が出現すると、高セキュリティセクターで自身の運を賭けた犯罪者やテロリストの破壊に終わるのが通例となっている。\r\n\nドリフター危機に際し、統制施行部門からは数十年単位で徐々に回収されただけの同級の時代遅れな設計では、もはやCONCORDの直面する困難に対応しきれないという評価が下された。そのため、CONCORDの中核をなす警察・戦闘艦の強化型や完全改修型を開発するCONCORDエアロスペースの「フォースマジュール計画」にマーシャル級も加えられることとなった。\r\n\nCONCORDエアロスペースは超先端技術を用いてマーシャル級を含むDED艦船の強化に成功したものの、同改修計画はCONCORDのリソースを大幅に消費することとなった。これに対応すべく、インナーサークルはCONCORDの高度な即応・電子戦装備を取り除いた少数のマーシャル級を、認定ディーラー経由でカプセラ市場へ放出することを許可したのである。"
     },
     "530039": {
-        "en": "Representing an escalation in Blood Raider Covenant activity across the core territories of the Amarr Empire, and neighboring regions of high-security space, the establishment of Blood Raiders Strongholds poses a severe threat to core empire interests.\r\n\r\nIn particular, Blood Raider mining operations and patrol fleets are able to range out from such strongholds in ever greater numbers, striking in asteroid belts and against vulnerable infrastructure.\r\n\r\nCONCORD has assessed the threat of pirate strongholds as extremely serious and will reward capsuleer groups that take the lead in degrading and destroying outlaw structures of this kind.\r\n\r\nThe capsuleer fleet that inflicts the most damage on a pirate stronghold will receive up to <color=yellow>800,000,000 ISK</color>, with individual pilots potentially receiving up to <color=yellow>30,000,000 ISK</color> each.",
+        "en": "Representing an escalation in Blood Raider Covenant activity across the core territories of the Amarr Empire, and neighboring regions of high-security space, the establishment of Blood Raiders Strongholds poses a severe threat to core empire interests.\r\n\r\nIn particular, Blood Raider mining operations and patrol fleets are able to range out from such strongholds in ever greater numbers, striking in asteroid belts and against vulnerable infrastructure.\r\n\r\nCONCORD has assessed the threat of pirate strongholds as extremely serious and will reward capsuleer groups that take the lead in degrading and destroying outlaw structures of this kind.\r\n\r\nThe capsuleer fleet that inflicts the most damage on a pirate stronghold will receive up to <color=yellow>1,000,000,000 ISK</color>, with individual pilots potentially receiving up to <color=yellow>100,000,000 ISK</color> each.",
         "ja": "アマー帝国の中枢宙域ならびにハイセキュリティ宙域におけるブラッドレイダーカバナントの活動増大を象徴するブラッドレイダーの要塞の存在は、主要帝国の利権に対する大きな脅威となっている。\r\n\r\n特にブラッドレイダーの採掘部隊やパトロールフリートがこういった要塞から大規模な遠征を行い、アステロイドベルトや防備の少ないインフラに対する襲撃を敢行することが可能となってしまっている。\r\n\r\nCONCORDは海賊の要塞を重大な脅威と考えており、そういった違法ストラクチャに対する弱体化・破壊活動を率先しておこなったカプセラの集団に報酬を提供している。\r\n\r\n海賊の要塞に最も多くのダメージを与えたカプセラフリートには最大<color=yellow>800,000,000 ISK</color>が進呈され、さらにパイロット個々人に対しては最大<color=yellow>30,000,000 ISK</color>が送られる可能性がある。"
     },
     "530040": {
-        "en": "A high-tempo shift of gears for Guristas Pirates raiding throughout the Caldari State, and bordering empire regions of high-security space, the appearance of Guristas Pirates Strongholds represents a major challenge to core empire military and industrial operations.\r\n\r\nNotably, Guristas Pirate mining operations and patrol fleets are able to range out from their strongholds in ever greater numbers, striking in asteroid belts and against vulnerable infrastructure.\r\n\r\nCONCORD has assessed the threat of pirate strongholds as extremely serious and will reward capsuleer groups that take the lead in degrading and destroying outlaw structures of this kind.\r\n\r\nThe capsuleer fleet that inflicts the most damage on a pirate stronghold will receive up to <color=yellow>800,000,000 ISK</color>, with individual pilots potentially receiving up to <color=yellow>30,000,000 ISK</color> each.",
+        "en": "A high-tempo shift of gears for Guristas Pirates raiding throughout the Caldari State, and bordering empire regions of high-security space, the appearance of Guristas Pirates Strongholds represents a major challenge to core empire military and industrial operations.\r\n\r\nNotably, Guristas Pirate mining operations and patrol fleets are able to range out from their strongholds in ever greater numbers, striking in asteroid belts and against vulnerable infrastructure.\r\n\r\nCONCORD has assessed the threat of pirate strongholds as extremely serious and will reward capsuleer groups that take the lead in degrading and destroying outlaw structures of this kind.\r\n\r\nThe capsuleer fleet that inflicts the most damage on a pirate stronghold will receive up to <color=yellow>1,000,000,000 ISK</color>, with individual pilots potentially receiving up to <color=yellow>100,000,000 ISK</color> each.",
         "ja": "カルダリ連合の支配宙域やハイセキュリティ宙域の大国国境付近におけるガリスタス海賊の襲撃活動の激化、そしてガリスタスの要塞の出現は、主要大国の軍事・産業にとって大きな問題となっている。\r\n\r\n特にガリスタス海賊の採掘部隊やパトロールフリートがこういった要塞から大規模な遠征を行い、アステロイドベルトや防備の少ないインフラに対する襲撃を敢行することが可能となってしまっている。\r\n\r\nCONCORDは海賊の要塞を重大な脅威と考えており、そういった違法ストラクチャに対する弱体化・破壊活動を率先しておこなったカプセラの集団に報酬を提供している。\r\n\r\n海賊の要塞に最も多くのダメージを与えたカプセラフリートには最大<color=yellow>800,000,000 ISK</color>が進呈され、さらにパイロット個々人に対しては最大<color=yellow>30,000,000 ISK</color>が送られる可能性がある。"
     },
     "530041": {
@@ -973428,7 +973428,7 @@
         "ja": "デフォルトでは、コーポレーションのすべてのメンバーがコーポレーションメールを送信することができます。アクセスを制限することで、CEO、ディレクター、通信士官のみがコーポレーションメールの送信を許可されます。"
     },
     "554823": {
-        "en": "The Shared Locations folder \"{folderName}\" has been created. Players with the required access can connect via the following link: {folderLink}. Additional links can be created at any time by dragging the Shared Locations Folder from the People & Places window.",
+        "en": "The Shared Locations folder \"{folderName}\" has been created. Players with the required access can connect via the following link: {folderLink}. Additional links can be created at any time by dragging the Shared Locations Folder from the Locations window.",
         "ja": "共有位置フォルダ『{folderName}』が作成されました。必要アクセス権を持つプレイヤーは次のリンクからアクセスできます：{folderLink}。共有位置フォルダをドラッグして人物と位置ウィンドウにドロップすることで、別のリンクを作成できます。"
     },
     "554824": {
@@ -1228072,7 +1228072,7 @@
         "ja": "このサイトの監視機器のメンテナンスに必要な資源と、その監視機器が収集したデータが収められている保管庫。"
     },
     "1047720": {
-        "en": "Decoractions",
+        "en": "Decorations",
         "ja": ""
     },
     "1047721": {
@@ -1230529,7 +1230529,7 @@
     },
     "1051330": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+6% Energy Turret Damage. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>",
-        "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>エネルギータレットのダメージ+6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
+        "ja": ""
     },
     "1051333": {
         "en": "Harvest Damage Booster III",
@@ -1232948,16 +1232948,16 @@
         "ja": "ドレカヴァク・ブラッドレイダーズ・クリムゾンマークSKIN"
     },
     "1054443": {
-        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
-        "ja": "サヴァンの魂に祝福あれ\r\n卑俗なる汚れから解き放たれ\r\nその神聖なる意志によって。\r\n\r\n<i>サニ・サビク正典、サニ・サビク十の秘跡、8章2節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
+        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "ja": "我が言葉は万物の中に宿る\r\n必要なのは、ただ信仰の息吹だけ\r\nそれが火を灯し\r\n迷える者が道を見いだすために\r\n\r\n<i>外典、迷える者へ、14章12節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054444": {
-        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>",
-        "ja": "サヴァンの魂に祝福あれ\r\n卑俗なる汚れから解き放たれ\r\nその神聖なる意志によって。\r\n\r\n<i>サニ・サビク正典、サニ・サビク十の秘跡、8章2節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
+        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>",
+        "ja": "我が言葉は万物の中に宿る\r\n必要なのは、ただ信仰の息吹だけ\r\nそれが火を灯し\r\n迷える者が道を見いだすために\r\n\r\n<i>外典、迷える者へ、14章12節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054445": {
-        "en": "Leshak Blood Raiders Crimson Mark SKIN",
-        "ja": "レシャク・ブラッドレイダーズ・クリムゾンマークSKIN"
+        "en": "Leshak Tetrimon Crimson Mark SKIN",
+        "ja": "レシャク・テトリモン・クリムゾンマークSKIN"
     },
     "1054446": {
         "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
@@ -1233028,16 +1233028,16 @@
         "ja": "ネルガル・テトリモン・クリムゾンマークSKIN"
     },
     "1054475": {
-        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
-        "ja": "我が言葉は万物の中に宿る\r\n必要なのは、ただ信仰の息吹だけ\r\nそれが火を灯し\r\n迷える者が道を見いだすために\r\n\r\n<i>外典、迷える者へ、14章12節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
+        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
+        "ja": "サヴァンの魂に祝福あれ\r\n卑俗なる汚れから解き放たれ\r\nその神聖なる意志によって。\r\n\r\n<i>サニ・サビク正典、サニ・サビク十の秘跡、8章2節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054476": {
-        "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>",
-        "ja": "我が言葉は万物の中に宿る\r\n必要なのは、ただ信仰の息吹だけ\r\nそれが火を灯し\r\n迷える者が道を見いだすために\r\n\r\n<i>外典、迷える者へ、14章12節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
+        "en": "Blessed be the Savant soul\r\nFreed from base dirt\r\nBy their own will divine.\r\n\r\n<i>Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 8:2</i>",
+        "ja": "サヴァンの魂に祝福あれ\r\n卑俗なる汚れから解き放たれ\r\nその神聖なる意志によって。\r\n\r\n<i>サニ・サビク正典、サニ・サビク十の秘跡、8章2節</i>\r\n\r\nこのSKINは、引き換えると起動され、操作キャラクターのSKINコレクションに直接追加されます。"
     },
     "1054477": {
-        "en": "Leshak Tetrimon Crimson Mark SKIN",
-        "ja": "レシャク・テトリモン・クリムゾンマークSKIN"
+        "en": "Leshak Blood Raiders Crimson Mark SKIN",
+        "ja": "レシャク・ブラッドレイダーズ・クリムゾンマークSKIN"
     },
     "1054478": {
         "en": "My word lies within all,\r\nAll it requires is the breath of faith,\r\nTo ignite the fire,\r\nSo the lost can find their way\r\n\r\n<i>Apocryphon, Lost Passages 14:12</i>\r\n\r\nThis SKIN will be activated and added directly to your SKIN collection when redeemed.",
@@ -1234411,6 +1234411,22 @@
         "en": "Mutaplasmids",
         "ja": "変異プラスミド"
     },
+    "1056127": {
+        "en": "His Justice is Swift and Decisive. His Tolerance is Limited.",
+        "ja": ""
+    },
+    "1056128": {
+        "en": "Herald",
+        "ja": ""
+    },
+    "1056129": {
+        "en": "The Scriptures, Book I, The Code of Demeanor",
+        "ja": ""
+    },
+    "1056130": {
+        "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
+        "ja": "1000年以上もの間、サヴァン（知恵者）を見出し崇める習慣はサニサビクにとって当たり前の行為だったが、近年、特にブラッドレイダーズは血液の収集、調査、操作にも関心を広げ、むしろそれらに血道を上げるようになっており、以前の習慣はおざなりな扱いを受けている。\r\n\r\nサヴァンを称賛する習慣の残滓は、オミール・サリクサに向けられるほとんど崇拝に近い感情と、サニサビクの信徒たちが口には出さずとも共通して持っている、自分たちは例外なくニューエデンのサヴァンであり、血の儀式によって何らかの恩恵を得ているのだという信仰にのみ残っている。"
+    },
     "1056139": {
         "en": "Recurring Totality Trader",
         "ja": "リカーリング・トータリティ・トレーダー"
@@ -1234627,6 +1234643,162 @@
         "en": "Pochven Stabalized Background",
         "ja": ""
     },
+    "1056597": {
+        "en": "Always must we strive to show him our worth.<br>For we are the Chosen.",
+        "ja": ""
+    },
+    "1056598": {
+        "en": "Penitence",
+        "ja": ""
+    },
+    "1056599": {
+        "en": "The Scriptures, Book of Reclaiming 4:45",
+        "ja": ""
+    },
+    "1056600": {
+        "en": "Empress Catiz Tash-Murkon watched closely as the Caldari awarded vessels surrounded by controversy and accusations of pirate-connections for Alliance Tournament XXI. Wanting to send a clear message of Amarrian faith, solidarity, and strength, she therefore commissioned two powerful and significant designs from Khanid Innovations, in a symbolic gesture toward the kingdom she helped bring closer to the Empire through her trade agreements.\r\n\r\nIn an official statement introducing the Penintence, the Empress states: “The enemies of Amarr need to be reminded that the empire was destined by God to rule over the universe in His name. The Penitence is a symbolic spearhead ready to pierce the heart of blasphemers and harbingers of sin. By placing the most formidable pilots in New Eden in these exclusive hulls, we send a clear message.\r\n\r\nOnly the penitent will be spared, should they encounter the holy wrath of the Amarr empire.”",
+        "ja": ""
+    },
+    "1056704": {
+        "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> effectiveness",
+        "ja": ""
+    },
+    "1056705": {
+        "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> rate of fire",
+        "ja": ""
+    },
+    "1056706": {
+        "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> effectiveness",
+        "ja": ""
+    },
+    "1056707": {
+        "en": "bonus to <a href=showinfo:3436>Drone</a> hitpoints and damage",
+        "ja": ""
+    },
+    "1056708": {
+        "en": "bonus to <a href=showinfo:28654>Warp Disruption Field Generator</a> range",
+        "ja": ""
+    },
+    "1056709": {
+        "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> optimal range",
+        "ja": ""
+    },
+    "1056710": {
+        "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> falloff range",
+        "ja": ""
+    },
+    "1056711": {
+        "en": "bonus to <a href=showinfo:3423>Energy Nosferatu</a> and <a href=showinfo:3423>Energy Neutralizer</a> drain amount",
+        "ja": ""
+    },
+    "1056712": {
+        "en": "Cannot be detected by directional scanners",
+        "ja": ""
+    },
+    "1056713": {
+        "en": "Can fit <a href=showinfo:28654>Warp Disruption Field Generator</a> and <a href=showinfo:21096>Cynosural Field Generator</a> modules",
+        "ja": ""
+    },
+    "1056714": {
+        "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+        "ja": ""
+    },
+    "1056715": {
+        "en": "increase in capacitor warfare resistance",
+        "ja": ""
+    },
+    "1056716": {
+        "en": "reduction in <a href=showinfo:3454>Microwarpdrive</a> signature radius penalty",
+        "ja": ""
+    },
+    "1056717": {
+        "en": "Can fit <a href=showinfo:47254>Assault Damage Controls</a>",
+        "ja": ""
+    },
+    "1056718": {
+        "en": "bonus to <a href=showinfo:3434>Weapon Disruptor</a> effectiveness",
+        "ja": ""
+    },
+    "1056719": {
+        "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> rate of fire",
+        "ja": ""
+    },
+    "1056720": {
+        "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+        "ja": ""
+    },
+    "1056721": {
+        "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+        "ja": ""
+    },
+    "1056722": {
+        "en": "bonus to all armor resistances",
+        "ja": ""
+    },
+    "1056723": {
+        "en": "reduction in ship capacitor recharge time",
+        "ja": ""
+    },
+    "1056724": {
+        "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> optimal range",
+        "ja": ""
+    },
+    "1056725": {
+        "en": "bonus to <a href=showinfo:3303>Small Energy Turret</a> damage",
+        "ja": ""
+    },
+    "1056726": {
+        "en": "bonus to all armor resistances",
+        "ja": ""
+    },
+    "1056727": {
+        "en": "bonus to all armor resistances",
+        "ja": ""
+    },
+    "1056728": {
+        "en": "bonus to <a href=showinfo:3436>Drone</a> microwarp velocity",
+        "ja": ""
+    },
+    "1056729": {
+        "en": "reduction to signature radius penalty from <a href=showinfo:28654>Warp Disruption Field Generator</a>",
+        "ja": ""
+    },
+    "1056730": {
+        "en": "bonus to <a href=showinfo:3436>Drone</a> operation range",
+        "ja": ""
+    },
+    "1058251": {
+        "en": "Herald Corporation Emblem",
+        "ja": ""
+    },
+    "1058252": {
+        "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
+        "ja": ""
+    },
+    "1058257": {
+        "en": "Herald Alliance Emblem",
+        "ja": ""
+    },
+    "1058258": {
+        "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
+        "ja": ""
+    },
+    "1058259": {
+        "en": "Penitence Corporation Emblem",
+        "ja": ""
+    },
+    "1058260": {
+        "en": "Paragon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
+        "ja": ""
+    },
+    "1058261": {
+        "en": "Penitence Alliance Emblem",
+        "ja": ""
+    },
+    "1058262": {
+        "en": "Paragon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
+        "ja": ""
+    },
     "1058406": {
         "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run.",
         "ja": ""
@@ -1234698,5 +1234870,17 @@
     "1059909": {
         "en": "The action is reaching its peak, with more Criterion Ciphers dropping as loot.",
         "ja": "戦いはいよいよ最高潮へ。戦利品としてドロップする「基準暗号」の数も増加していま す。"
+    },
+    "1060470": {
+        "en": "Amarr Victory (AT XXII)",
+        "ja": ""
+    },
+    "1060471": {
+        "en": "Amarr Victory SKIN",
+        "ja": ""
+    },
+    "1060472": {
+        "en": "Super Kerr-Induced Nanocoatings (SKINs) are a technology that enables capsuleers to change the look of their ships at will. Individual ship SKINs are activated by integrating the special encoding into the pilot's neural interfaces, and are subsequently available to use on any suitable ship flown by the capsuleer. This rare SKIN was designed and manufactured by the Independent Gaming Commission exclusively as a prize for alliances that achieved victory over their opponents in Alliance Tournament XXII in YC128. This SKIN's design is in honor of the sponsorship of AT XXII by the Amarr Empire and uses prototype adapters to enable its application to a number of related ship hulls using the same instruction set.",
+        "ja": ""
     }
 }
