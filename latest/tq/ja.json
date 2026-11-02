@@ -1204873,7 +1204873,7 @@
     },
     "1035674": {
         "en": "Amarr FW Mission Dungeon NPC Spawner - Cruiser Sector Commander Boss (DO NOT TRANSLATE)",
-        "ja": "Amarr FW Mission Dungeon NPC Spawner - Cruiser Sector Commander Boss (DO NOT TRANSLATE) "
+        "ja": "Amarr FW Mission Dungeon NPC Spawner - Cruiser Sector Commander Boss (DO NOT TRANSLATE)"
     },
     "1035675": {
         "en": "Amarr FW Mission Dungeon NPC Spawner - Cruiser Field Commander Boss (DO NOT TRANSLATE)",
@@ -1206033,7 +1206033,7 @@
     },
     "1036074": {
         "en": "Caldari FW Mission Dungeon NPC Spawner - Battlecruiser Sector Commander Boss (DO NOT TRANSLATE)",
-        "ja": "Caldari FW Mission Dungeon NPC Spawner - Battlecruiser Sector Commander Boss (DO NOT TRANSLATE) "
+        "ja": "Caldari FW Mission Dungeon NPC Spawner - Battlecruiser Sector Commander Boss (DO NOT TRANSLATE)"
     },
     "1036075": {
         "en": "Caldari FW Mission Dungeon NPC Spawner - Battlecruiser Field Commander Boss (DO NOT TRANSLATE)",
@@ -1206173,7 +1206173,7 @@
     },
     "1036118": {
         "en": "Gallente FW Mission Dungeon NPC Spawner - Battlecruiser Sector Commander Boss (DO NOT TRANSLATE)",
-        "ja": "Gallente FW Mission Dungeon NPC Spawner - Battlecruiser Sector Commander Boss (DO NOT TRANSLATE) "
+        "ja": "Gallente FW Mission Dungeon NPC Spawner - Battlecruiser Sector Commander Boss (DO NOT TRANSLATE)"
     },
     "1036120": {
         "en": "Ruined Drill",
@@ -1206273,7 +1206273,7 @@
     },
     "1036145": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 1 Point (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 1 Point (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 1 Point (DO NOT TRANSLATE)"
     },
     "1036146": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 5 Points (DO NOT TRANSLATE)",
@@ -1234881,6 +1234881,38 @@
     },
     "1060472": {
         "en": "Super Kerr-Induced Nanocoatings (SKINs) are a technology that enables capsuleers to change the look of their ships at will. Individual ship SKINs are activated by integrating the special encoding into the pilot's neural interfaces, and are subsequently available to use on any suitable ship flown by the capsuleer. This rare SKIN was designed and manufactured by the Independent Gaming Commission exclusively as a prize for alliances that achieved victory over their opponents in Alliance Tournament XXII in YC128. This SKIN's design is in honor of the sponsorship of AT XXII by the Amarr Empire and uses prototype adapters to enable its application to a number of related ship hulls using the same instruction set.",
+        "ja": ""
+    },
+    "1060631": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "ja": ""
+    },
+    "1060632": {
+        "en": "Alliance Tournament XXII Background",
+        "ja": ""
+    },
+    "1060633": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "ja": ""
+    },
+    "1060634": {
+        "en": "Alliance Tournament XXII Bronze Background",
+        "ja": ""
+    },
+    "1060635": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "ja": ""
+    },
+    "1060636": {
+        "en": "Alliance Tournament XXII Silver Background",
+        "ja": ""
+    },
+    "1060637": {
+        "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
+        "ja": ""
+    },
+    "1060638": {
+        "en": "Alliance Tournament XXII Gold Background",
         "ja": ""
     }
 }
