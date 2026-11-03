@@ -926075,6 +926075,12 @@
     "1056730": {
         "en": "bonus to <a href=showinfo:3436>Drone</a> operation range"
     },
+    "1057345": {
+        "en": "Compromised Sleeper Device"
+    },
+    "1057346": {
+        "en": ""
+    },
     "1058251": {
         "en": "Herald Corporation Emblem"
     },
@@ -926110,6 +926116,9 @@
     },
     "1058409": {
         "en": "Includes a randomly selected Blood Raider ship blueprint copy with a single run."
+    },
+    "1058420": {
+        "en": "Unidentified Sleeper Device Wreck"
     },
     "1058430": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location."
@@ -926152,6 +926161,9 @@
     },
     "1059909": {
         "en": "The action is reaching its peak, with more Criterion Ciphers dropping as loot."
+    },
+    "1060120": {
+        "en": "Azdaja Counter Domain - Spawner (DO NOT TRANSLATE)"
     },
     "1060470": {
         "en": "Amarr Victory (AT XXII)"
