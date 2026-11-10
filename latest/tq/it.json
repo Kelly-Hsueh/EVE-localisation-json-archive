@@ -24272,19 +24272,19 @@
         "it": "Inner Circle è il dipartimento principale di CONCORD. Le politiche di CONCORD sono discusse e decise negli incontri tenuti da Inner Circle, che solitamente sono chiusi al pubblico. Inizialmente i membri del circolo venivano nominati dagli imperi, ma ora sono dei dipendenti di CONCORD che fanno carriera. Così, la loro lealtà non è più vincolata ad alcun impero, ma piuttosto alla CONCORD stessa."
     },
     "61118": {
-        "en": "The Intaki Bank has seen brisk business in the decade since it decided to keep the names on all accounts secret and inaccessible to anyone. Everyone knows that dirty money pours in and out of the bank, but the general consensus of the Syndicate is that if it doesn't provide this service, then someone else will.",
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
         "it": "La Intaki Bank ha fatto ottimi affari nell'ultimo decennio. Ovvero, da quando ha deciso di mantenere segreti e inaccessibili i nomi di tutti i conti. Tutti sanno che nella banca circola denaro sporco, ma l'opinione generale del Syndicate è che se la banca non fornisce questo servizio, allora lo farà qualcun altro."
     },
     "61119": {
-        "en": "The Syndicate is the biggest black market dealer in the world of EVE, a place where shady traders from the outer regions can meet merchants from empire space. Intaki Commerce handles these transactions, making a nice profit for the Syndicate.",
+        "en": "In YC128, the Caldari State claimed sovereignty over the Syndicate region. In the months that followed, 17,079 capsuleers contributed to the success of their State Corridor campaign that sought to bring some semblance of honorable dealings and lawfulness to the region. \r\n\r\nDespite their best efforts, black market deals and illegal trafficking remain common. There are even those who have claimed the Caldari benefit from access to such illicit trading and do not want to shut it down.",
         "it": "Il Syndicate è il più grande rivenditore del mercato nero nel mondo di EVE, un luogo dove i commercianti loschi delle regioni esterne possono incontrare i commercianti provenienti dallo spazio dell'impero. Intaki Commerce gestisce queste operazioni, generando un buon profitto per il Syndicate."
     },
     "61120": {
-        "en": "The Syndicate wants their space to be relatively trouble-free, so as to encourage people to visit and spend their money. With empire policing infrequent, they employ their own police force to enforce the peace.",
+        "en": "Under the rule of the Intaki Syndicate, the Space Police struggled to provide limited security to the citizens of their region. In YC128, after the Caldari State claimed sovereignty over Syndicate, 17,079 capsuleers contributed to the success of the State Corridor campaign. A part of that campaign was fostering a relationship of patronage between the Caldari Navy and local police forces. The two organizations now work together to bring some semblance of law to this frontier region.",
         "it": "Il Syndicate vuole che il suo spazio sia relativamente privo di problemi, in modo da incoraggiare la gente a visitarlo e a spendere i propri soldi. Con controlli imperiali poco frequenti, impiega la propria forza di polizia per far rispettare la pace."
     },
     "61121": {
-        "en": "Formed by Intaki exiles from the Gallente Federation during the Caldari-Gallente War, the Syndicate has slowly grown in stature and influence. It now serves as an important link between the empires and the illegal elements in the outer regions. Syndicate space is a pirate haven but still retains enough civility to allow pretty much anyone to travel there for business. Its markets are always chock full of contraband goods and illegal wares that are hard or impossible to come by elsewhere. Each Syndicate station is an autonomous entity, but they cooperate on security and information issues. The unofficial leader of the Syndicate is Silphy en Diabel, a former Sister of EVE who returned to Syndicate space to save her family's fortune. Since then she's turned out to be just as resourceful and ruthless as her late father.",
+        "en": "Formerly known as the Intaki Syndicate, it was founded by Intaki who were exiled from the Gallente Federation during the first Caldari-Gallente War. The Syndicate came to serve as a link between the Empires and the criminal underworld.\r\n\r\nIn YC124, a constellation of Syndicate was granted to the Caldari State in exchange for their protection. That agreement fell apart in YC128 after the Syndicate was blamed for attacks on the gates into Jita. In response, the Caldari annexed the entire Syndicate region. \r\n\r\nThe State Corridor campaign was initiated with the goal of fostering Caldari control. 17,079 capsuleers contributed to the campaign’s success. Some Syndicate members fled and joined Serpentis or the Guristas, but most came to see the Caldari as their benefactors and protectors, and the Intaki Syndicate was reformed as the State Syndicate.\r\n\r\nThe Syndicate has been embraced into the bosom of the State, though criminality is far from gone from the region. Beyond the reach of CONCORD, it continues to harbor criminal elements. ",
         "it": "Formato da Intaki esiliati dalla Federazione Gallente durante la guerra Caldari-Gallente, il Syndicate è lentamente cresciuto in statura e influenza. E ora funge da collegamento importante tra gli imperi e gli elementi illegali delle regioni esterne. Lo spazio Syndicate è un rifugio di pirati, ma conserva ancora abbastanza civiltà per consentire praticamente a chiunque di recarsi lì per affari. I suoi mercati sono sempre pieni zeppi di merci di contrabbando e merci illegali che sono difficili o impossibili da trovare altrove. Ogni stazione Syndicate è un'entità autonoma, ma tutte le stazioni cooperano su questioni di sicurezza e di informazione. Il leader non ufficiale del Sindacato è Silphy en Diabel, un'ex Sister di EVE tornata nello spazio Syndicate per salvare le fortune della sua famiglia. Da allora si è rivelata tanto intraprendente e spietata quanto il suo defunto padre."
     },
     "61122": {
@@ -25000,19 +25000,19 @@
         "it": "Inner Circle"
     },
     "61300": {
-        "en": "Intaki Bank",
+        "en": "Syndicate Bank",
         "it": "Intaki Bank"
     },
     "61301": {
-        "en": "Intaki Commerce",
+        "en": "Syndicate Commerce",
         "it": "Intaki Commerce"
     },
     "61302": {
-        "en": "Intaki Space Police",
+        "en": "Syndicate Space Police",
         "it": "Intaki Space Police"
     },
     "61303": {
-        "en": "Intaki Syndicate",
+        "en": "State Syndicate",
         "it": "Intaki Syndicate"
     },
     "61304": {
@@ -26620,7 +26620,7 @@
         "it": ""
     },
     "61861": {
-        "en": "Formed by Intaki exiles from the Gallente Federation during the Caldari-Gallente War. The Syndicate has slowly grown in stature and influence and now serves as an important link between the empires and the illegal elements in the outer regions. Syndicate space is a pirate haven, but still retains enough civility to allow pretty much anyone to travel there to do business. The Syndicate markets are always chockfull of contraband goods and illegal wares that are hard or impossible to come by elsewhere. Each Syndicate station is an autonomous entity, but they cooperate on security and information issues. The unofficial leader of the Syndicate is Silphy en Diabel, a former Sister of EVE that returned to Syndicate space to save her family's fortune. Since then she's turned out to be just as resourceful and ruthless as her late father.",
+        "en": "Formed by Intaki exiles from the Gallente Federation during the Caldari-Gallente War, the Syndicate became an important link to the illegal elements of the outer regions. Their region, Syndicate, became a pirate haven with enough civility to allow safe travel. Its markets were filled with rare illegal wares. The unofficial leader of the Syndicate was Silphy en Diabel, a former Sister of EVE who returned to Syndicate space to save her family's fortune. After the Syndicate Region takeover by the Caldari State in YC128, much of the Syndicate reformed into the State Syndicate. The remaining Syndicate loyalists have scattered.",
         "it": ""
     },
     "61862": {
@@ -29148,7 +29148,7 @@
         "it": ""
     },
     "62739": {
-        "en": "Soldier of Fortune",
+        "en": "Soldier",
         "it": ""
     },
     "62740": {
@@ -135092,27 +135092,27 @@
         "it": ""
     },
     "92149": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92150": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92151": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92152": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92153": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92154": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92155": {
@@ -135256,27 +135256,27 @@
         "it": ""
     },
     "92190": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92191": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92192": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92193": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92194": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92195": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92196": {
@@ -135540,27 +135540,27 @@
         "it": ""
     },
     "92261": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92262": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92263": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92264": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92265": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92266": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92267": {
@@ -136312,11 +136312,11 @@
         "it": ""
     },
     "92454": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92455": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's energy turrets at the expense of increased power grid need for them.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26258>Energy Weapon Rigging</a> skill.",
         "it": ""
     },
     "92456": {
@@ -136376,11 +136376,11 @@
         "it": ""
     },
     "92470": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92471": {
-        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase the accuracy falloff range of a ship's hybrid turrets at the expense of increased power grid need for hybrid weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26259>Hybrid Weapon Rigging</a> skill.",
         "it": ""
     },
     "92472": {
@@ -136520,11 +136520,11 @@
         "it": ""
     },
     "92506": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92507": {
-        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
+        "en": "This ship modification is designed to increase a ship's projectile turret accuracy falloff range at the expense of increased power grid need for projectile weapons.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe drawbacks of fitting this rig may be reduced by training the <a href=showinfo:26257>Projectile Weapon Rigging</a> skill.",
         "it": ""
     },
     "92508": {
@@ -147960,7 +147960,7 @@
         "it": ""
     },
     "95483": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br><br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br><br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95484": {
@@ -148883,14 +148883,6 @@
         "en": "<font size = 13>This area is off-limits to outsiders.  Please leave immediately or we will be forced to attack.</font>",
         "it": ""
     },
-    "95714": {
-        "en": "Looks like we have us a newcomer, brethren. Get them!",
-        "it": ""
-    },
-    "95715": {
-        "en": "Looks like we have us a newcomer, boys. Get them!",
-        "it": ""
-    },
     "95716": {
         "en": "<font size = 13>You've crossed the law long enough, pirate scum!</font>",
         "it": ""
@@ -149676,7 +149668,7 @@
         "it": ""
     },
     "95912": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br><br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br><br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95913": {
@@ -149952,7 +149944,7 @@
         "it": ""
     },
     "95981": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br><br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br><br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95982": {
@@ -150213,10 +150205,6 @@
     },
     "96047": {
         "en": "Something just isn't right here. Several Minmatar ships circle the outpost, and your scanners clearly indicate artillery being fired off in the vicinity. Best be careful here.",
-        "it": ""
-    },
-    "96048": {
-        "en": "I knew one of you stupid newbies would fall for this. Now send me all of your ISK or I'll pod you.",
         "it": ""
     },
     "96049": {
@@ -162832,7 +162820,7 @@
         "it": ""
     },
     "99342": {
-        "en": "Despite the resource drain of their recent incursions throughout traveled space, <a href=showinfo:30//500019>Sansha's Nation</a> has maintained a military presence in deadspace pockets. One favored Sansha strategy is to hide outposts behind isolated or abandoned Amarr stations. All Sansha communications are then encrypted with an adaptive security key and hidden in pre-recorded Amarr chatter.<br><br>\r\nThe comlex security is dependent upon the <a href=showinfo:3823>True Sansha Archduke</a>, a vessel containing a physical network of True Slaves that serve as a living security key for their network. Eliminating the Archduke will render all Nation assets inoperable. <br><br>\r\n<a href=showinfo:2//1000137>DED</a> Threat Assessment: 7 of 10\r\n",
+        "en": "Despite the resource drain of their recent incursions throughout traveled space, <a href=showinfo:30//500019>Sansha's Nation</a> has maintained a military presence in deadspace pockets. One favored Sansha strategy is to hide outposts behind isolated or abandoned Amarr stations. All Sansha communications are then encrypted with an adaptive security key and hidden in pre-recorded Amarr chatter.<br>\r\nThe comlex security is dependent upon the <a href=showinfo:3823>True Sansha Archduke</a>, a vessel containing a physical network of True Slaves that serve as a living security key for their network. Eliminating the Archduke will render all Nation assets inoperable. <br>\r\n<a href=showinfo:2//1000137>DED</a> Threat Assessment: 7 of 10\r\n",
         "it": ""
     },
     "99343": {
@@ -163160,7 +163148,7 @@
         "it": ""
     },
     "99424": {
-        "en": "Despite the resource drain of their recent incursions throughout traveled space, <a href=showinfo:30//500019>Sansha's Nation</a> has maintained a military presence in deadspace pockets. One favored Sansha strategy is to hide outposts behind isolated or abandoned Amarr stations. All Sansha communications are then encrypted with an adaptive security key and hidden in pre-recorded Amarr chatter.<br><br>\r\nThe complex security is dependent upon the <a href=showinfo:3823>True Sansha Archduke</a>, a vessel containing a physical network of True Slaves that serve as a living security key for their network. Eliminating the Archduke will render all Nation assets inoperable. <br><br>\r\n<a href=showinfo:2//1000137>DED</a> Threat Assessment: 7 of 10\r\n",
+        "en": "Despite the resource drain of their recent incursions throughout traveled space, <a href=showinfo:30//500019>Sansha's Nation</a> has maintained a military presence in deadspace pockets. One favored Sansha strategy is to hide outposts behind isolated or abandoned Amarr stations. All Sansha communications are then encrypted with an adaptive security key and hidden in pre-recorded Amarr chatter.<br>\r\nThe complex security is dependent upon the <a href=showinfo:3823>True Sansha Archduke</a>, a vessel containing a physical network of True Slaves that serve as a living security key for their network. Eliminating the Archduke will render all Nation assets inoperable. <br>\r\n<a href=showinfo:2//1000137>DED</a> Threat Assessment: 7 of 10\r\n",
         "it": ""
     },
     "99425": {
@@ -210520,7 +210508,7 @@
         "it": ""
     },
     "114987": {
-        "en": "Destroy the Drone Silo and then report back to your agent.",
+        "en": "Destroy the Drone Bunker and then report back to your agent.",
         "it": ""
     },
     "114988": {
@@ -243200,7 +243188,7 @@
         "it": ""
     },
     "123731": {
-        "en": "A blast of radioactive particles spurts out of the Vernillion Cytoserocin cloud, damaging all ships nearby.",
+        "en": "A blast of radioactive particles spurts out of the Vermillion Cytoserocin cloud, damaging all ships nearby.",
         "it": ""
     },
     "123732": {
@@ -243524,7 +243512,7 @@
         "it": ""
     },
     "123813": {
-        "en": "Harvesting the unstable Vernillion Cytoserocin cloud has caused a violent thermal reaction, damaging all ships in the vicinity.",
+        "en": "Harvesting the unstable Vermillion Cytoserocin cloud has caused a violent thermal reaction, damaging all ships in the vicinity.",
         "it": ""
     },
     "123814": {
@@ -247680,7 +247668,7 @@
         "it": ""
     },
     "125148": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br><br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br><br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
         "it": ""
     },
     "125149": {
@@ -247760,7 +247748,7 @@
         "it": ""
     },
     "125168": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br><br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br><br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
         "it": ""
     },
     "125169": {
@@ -249151,14 +249139,6 @@
         "en": "[d]Space-Port Authority",
         "it": ""
     },
-    "125518": {
-        "en": "Incoming Transmission",
-        "it": ""
-    },
-    "125519": {
-        "en": "Incoming Transmission",
-        "it": ""
-    },
     "125520": {
         "en": "[d]Incoming Transmission",
         "it": ""
@@ -250465,10 +250445,6 @@
     },
     "125847": {
         "en": "Warning",
-        "it": ""
-    },
-    "125848": {
-        "en": "Lone Pirate",
         "it": ""
     },
     "125849": {
@@ -311844,7 +311820,7 @@
         "it": ""
     },
     "141783": {
-        "en": "We have a satellite station that we like to use for these important broadcasts. It's safely hidden in a secret location in case there's any blowback from our special reports. Take this evidence and drop it off at the station. We'll use that to raise awareness of this case, blow it right open, and turn the wrath of the unwashed masses on the Syndicate.",
+        "en": "We have a satellite station that we like to use for these important broadcasts. It's safely hidden in a secret location in case there's any blowback from our special reports. Take this evidence and drop it off at the station. We'll use that to raise awareness of this case, blow it right open, and turn the unwashed masses against the Syndicate, along with making an interstellar diplomatic case out of this.",
         "it": ""
     },
     "141784": {
@@ -311964,19 +311940,19 @@
         "it": ""
     },
     "141813": {
-        "en": "After a bit of interrogation, the Ringmaster gave us the information we're looking for. Funny, we barely put any effort into it: She succumbed pretty quickly. Oh well. Since we have her in custody, we'll use her for more questioning later, just as soon as she's rested up and ready for another round.<br><br>\nAnyway, based on her information, we've learned of a nearby Intaki settlement that has some loose association with the Pator 6. You know what the Intaki are like — one big mess of criminals. I don't believe the lies they tell us in the media: All Intaki are a part of the Syndicate, directly or not. If it were up to me, I'd lock all the Intaki up for good, or maybe just send them all back to their cesspool of a home planet. <br><br>\nGo to Pemene and find those Intaki. Keep an eye out for the Pator 6, and report back with any information you receive about the senator's son. You may have to open fire on their settlement in order to get them to talk. If you run into any opposition, use force. You have the authorities on your side.",
+        "en": "After a bit of interrogation, the Ringmaster gave us the information we're looking for. Funny, we barely put any effort into it: She succumbed pretty quickly. Oh well. Since we have her in custody, we'll use her for more questioning later, just as soon as she's rested up and ready for another round.<br><br> Anyway, based on her information, we've learned of a nearby Intaki settlement that has some loose association with the Pator 6. We think these Intaki are associating with the State Syndicate.<br><br> Go to Pemene and find those traitors. Keep an eye out for the Pator 6, and report back with any information you receive about the senator's son. You may have to open fire on their settlement in order to get them to talk. If you run into any opposition, use force. You have the authorities on your side.",
         "it": ""
     },
     "141814": {
-        "en": "You are doing a service for the Federation and its true citizens. There are a lot of criminals that must be brought to justice, and we are getting closer to punishing this bunch of them. Nobody we apprehend is innocent; everyone here is guilty.",
+        "en": "You are doing a service for the Federation and its loyal citizens. There are a lot of traitors that must be brought to justice, and we are getting closer to punishing this bunch of them. Nobody we apprehend is innocent; everyone here is guilty.",
         "it": ""
     },
     "141815": {
-        "en": "Are you a sympathizer with the Intaki cause? I'd get out of here real quick, unless you wanted the wrath of the Federation on you.",
+        "en": "Are you a sympathizer with these traitors? I'd get out of here real quick, unless you wanted the wrath of the Federation on you.",
         "it": ""
     },
     "141816": {
-        "en": "Are you a sympathizer with the Intaki cause? I'd get out of here real quick, unless you wanted the wrath of the Federation on you.",
+        "en": "Are you a sympathizer with these traitors? I'd get out of here real quick, unless you wanted the wrath of the Federation on you.",
         "it": ""
     },
     "141817": {
@@ -311988,7 +311964,7 @@
         "it": ""
     },
     "141819": {
-        "en": "This information confirms my suspicions. Those damn Intaki <i>are</i> all criminals, and this proves it. I don't know why the Syndicate would involve themselves in this space; they know better than to enter this region. I don't know what they want with the senator's kid, either. But at least we know who has the kid, and that he's still alive.",
+        "en": "This information confirms my suspicions. Those damn Intaki <i>are</i> all criminals, and this proves it. I don't know why the State Syndicate would involve themselves in this space; they know better than to enter this region. I don't know what they want with the senator's kid, either. But at least we know who has the kid, and that he's still alive.",
         "it": ""
     },
     "141820": {
@@ -312236,7 +312212,7 @@
         "it": ""
     },
     "141881": {
-        "en": "The Syndicate? In this space? That's practically unheard of. What would they want from Senator Ardanne? At least we have proof now, hard evidence that we can use. That's some great reporting, {[character]player.name}. You know, when this is over, we could use your investigation skills. You can't teach those at any Journo School.",
+        "en": "The State Syndicate? In this space? That's practically unheard of. What would they want from Senator Ardanne? At least we have proof now, hard evidence that we can use. That's some great reporting, {[character]player.name}. You know, when this is over, we could use your investigation skills. You can't teach those at any Journo School.",
         "it": ""
     },
     "141882": {
@@ -312244,11 +312220,11 @@
         "it": ""
     },
     "141883": {
-        "en": "The bug I planted worked as planned. Veine Coructie, using that device in conjunction with his massive network of contacts, managed to discover the Pator 6's headquarters. When I flew there, I witnessed a meeting between the gang and their criminal associates. Looks like the Syndicate are behind this. I don't know why they'd be involved in this region; this situation may be bigger than I imagined. Even though they attacked me, I managed to escape with some evidence that Ralie was with the Pator 6. This evidence should help in getting closer to that poor kid.",
+        "en": "The bug I planted worked as planned. Veine Coructie, using that device in conjunction with his massive network of contacts, managed to discover the Pator 6's headquarters. When I flew there, I witnessed a meeting between the gang and their criminal associates. Looks like the State Syndicate are behind this. I don't know why they'd be involved in this region; this situation may be bigger than I imagined. Even though they attacked me, I managed to escape with some evidence that Ralie was with the Pator 6. This evidence should help in getting closer to that poor kid.",
         "it": ""
     },
     "141884": {
-        "en": "Truth is the fundamental goal of any good reporter, and we've uncovered enough of it to create a media storm. The power of the press is unprecedented in its ability to sway the general public, create massive sympathy for an unknown issue, and to create a massive backlash against nefarious groups. When we present this evidence on the holovids, there's no hope for the Syndicate. Their reputation will be ruined if anything happens to the kid. This is the power of the media.<br><br>\nWe have a satellite station that we like to use for these important broadcasts. It's safely hidden in a secret location in case there's any blowback from our special reports. Take this evidence and drop it off at the station. We'll use that to raise awareness of this case, blow it right open, and turn the wrath of the unwashed masses on the Syndicate.",
+        "en": "Truth is the fundamental goal of any good reporter, and we've uncovered enough of it to create a media storm. The power of the press is unprecedented in its ability to sway the general public, create massive sympathy for an unknown issue, and to create a massive backlash against nefarious groups. When we present this evidence on the holovids, there's no hope for the State Syndicate. Their will be interstellar uproar if anything happens to the kid. This is the power of the media.<br><br> We have a satellite station that we like to use for these important broadcasts. It's safely hidden in a secret location in case there's any blowback from our special reports. Take this evidence and drop it off at the station. We'll use that to raise awareness of this case, blow it right open, and turn the wrath of the unwashed masses on the Syndicate, maybe even put diplomatic pressure on their Caldari sponsors.",
         "it": ""
     },
     "141885": {
@@ -312272,7 +312248,7 @@
         "it": ""
     },
     "141890": {
-        "en": "The Scope is ready to run a full expose on this kidnapping case, direct via holovid from one of their secret satellite stations. I'm supposed to deliver the evidence to the station for the report. The hope is that this will shed the spotlight on the kidnapping, forcing it into the public arena and showing the Syndicate in a terrible light. If anything happens to Ralie from here, the Syndicate will never be able to live it down.",
+        "en": "The Scope is ready to run a full expose on this kidnapping case, direct via holovid from one of their secret satellite stations. I'm supposed to deliver the evidence to the station for the report. The hope is that this will shed the spotlight on the kidnapping, forcing it into the public arena and showing the State Syndicate in a terrible light. If anything happens to Ralie from here, it would embaress not only the Syndicate, but cause a diplomatic incident for their Caldari State sponsors.",
         "it": ""
     },
     "141891": {
@@ -313052,11 +313028,11 @@
         "it": ""
     },
     "142085": {
-        "en": "This looks like a joint operation between Impetus and the Syndicate. I don't know how close that relationship is, or how high up on the corporate chain it goes. But we know the kid is there. Get in there and get him. Destroy the Studio, too. Nothing good can come from it.",
+        "en": "This looks like a treacherous conspiracy between Impetus and the State Syndicate. I don't know how close that relationship is, or how high up on the corporate chain it goes. But we know the kid is there. Get in there and get him. Destroy the Studio, too. Nothing good can come from it.",
         "it": ""
     },
     "142086": {
-        "en": "The Pator 6 are flying to Adacyne, and they've got Ralie with them. Time for a final showdown. Go knock them out and get the kid, once and for all. I'll start working on my contacts in the Syndicate and see if there's anything that can be done from their angle. Last thing we want is to have them go after me. Or us.",
+        "en": "The Pator 6 are flying to Adacyne, and they've got Ralie with them. Time for a final showdown. Go knock them out and get the kid, once and for all. I have a couple contacts in the State Syndicate. I will send an encrypted message, under the government radar and see if I can influence them. The last thing we want is to have them go after me. Or us.",
         "it": ""
     },
     "142087": {
@@ -313064,11 +313040,11 @@
         "it": ""
     },
     "142088": {
-        "en": "The Syndicate wants to meet you at a specific location. You'll drop the kid off, take the money – which I'll get a cut of, of course – and leave quietly in the night. They have a special gift for you in addition to the money. Some sort of Syndicate-issue something or other. I dunno. <br><br>\nTake the kid to the warehouse and drop him off. We'll get paid and leave this whole mess behind us. It'll be a happy ending for us, to be sure.",
+        "en": "The Syndicate wants to meet you at a specific location. You'll drop the kid off, take the money – which I'll get a cut of, of course – and leave quietly in the night. They have a special gift for you in addition to the money. Some sort of Syndicate-issue something or other. I dunno. <br><br>\r\nTake the kid to the warehouse and drop him off. We'll get paid and leave this whole mess behind us. It'll be a happy ending for us, to be sure.",
         "it": ""
     },
     "142089": {
-        "en": "Wow. I've never heard of this before. Studio I must be a recent development among traffickers. I really don't know much about it, but something feels off about the situation. I mean, I've been a part of some really nasty enterprises in my time – trafficking for drugs, medical experiments, slavery, you name it – but something like Studio I? No way; nothing like that. <br><br>\nThis looks like a joint operation between Impetus and the Syndicate. I don't know how close that relationship is, or how high up on the corporate chain it goes. But we know the kid is there. Get in there and get him. Destroy the Studio, too. Nothing good can come from it.",
+        "en": "Wow. I've never heard of this before. Studio I must be a recent development among traffickers. I really don't know much about it, but something feels off about the situation. I mean, I've been a part of some really nasty enterprises in my time – trafficking for drugs, medical experiments, slavery, you name it – but something like Studio I? No way; nothing like that. <br><br>\r\nThis looks like a treacherous conspiracy between Impetus and the Syndicate. I don't know how close that relationship is, or how high up on the corporate chain it goes. But we know the kid is there. Get in there and get him. Destroy the Studio, too. Nothing good can come from it.",
         "it": ""
     },
     "142090": {
@@ -313100,7 +313076,7 @@
         "it": ""
     },
     "142097": {
-        "en": "You've really pissed off some nasty bad guys, my friend. Luckily, they're starting to turn against each other as well. That studio was the lynchpin in this whole operation, it seems, and its destruction unraveled all their carefully laid plans. <br><br>\nThe Pator 6 is flying to Adacyne, and they've got Ralie with them. Time for a final showdown. Go knock them out and get the kid, once and for all. I'll start working on my contacts in the Syndicate and see if there's anything that can be done from their angle. Last thing we want is to have them go after me. Or us.",
+        "en": "You've really pissed off some nasty bad guys, my friend. Luckily, they're starting to turn against each other as well. That studio was the lynchpin in this whole operation, it seems, and its destruction unraveled all their carefully laid plans. <br><br>\r\nThe Pator 6 is flying to Adacyne, and they've got Ralie with them. Time for a final showdown. Go knock them out and get the kid, once and for all. I have a couple of contacts in the State Syndicate. I will send an encrypted message under the government radar and see if I can influence them. The last thing we want is to have them go after me. Or us.",
         "it": ""
     },
     "142098": {
@@ -313160,7 +313136,7 @@
         "it": ""
     },
     "142112": {
-        "en": "The Syndicate wants to meet you at a specific location. You'll drop the kid off, take the money – which I'll get a cut of, of course – and leave quietly in the night. They have a special gift for you in addition to the money. Some sort of Syndicate-issue something or other. I dunno. <br><br>\nTake the kid to the warehouse and drop him off. We'll get paid and leave this whole mess behind us. It'll be a happy ending for us, to be sure.",
+        "en": "The Syndicate wants to meet you at a specific location. You'll drop the kid off, take the money – which I'll get a cut of, of course – and leave quietly in the night. They have a special gift for you in addition to the money. Some sort of Syndicate-issue something or other. I dunno. <br><br>\r\nTake the kid to the warehouse and drop him off. We'll get paid and leave this whole mess behind us. It'll be a happy ending for us, to be sure.",
         "it": ""
     },
     "142113": {
@@ -313180,7 +313156,7 @@
         "it": ""
     },
     "142117": {
-        "en": "I've been in and out of this business for decades at this point. Do you know how many people I've moved? Thousands. Possibly even millions. More than I can count, anyways. And I've never been remorseful, not even once. It was all for the money, the very essence and soul of New Eden. <br><br>\nBut I feel something now. Something uncomfortable. Is this what remorse feels like? Guilt? I don't know. I hope it was worth it. I truly do. Good luck, {[character]player.name}. Enjoy your money. Good bye.\n",
+        "en": "I've been in and out of this business for decades at this point. Do you know how many people I've moved? Thousands. Possibly even millions. More than I can count, anyways. And I've never been remorseful, not even once. It was all for the money, the very essence and soul of New Eden. <br><br>\r\nBut I feel something now. Something uncomfortable. Is this what remorse feels like? Guilt? I don't know. I hope it was worth it. I truly do. Good luck, {[character]player.name}. Enjoy your money. Good bye.\r\n",
         "it": ""
     },
     "142118": {
@@ -313192,7 +313168,7 @@
         "it": ""
     },
     "142120": {
-        "en": "Though it was difficult, I made my choice: I gave Ralie back to the Syndicate. Why? The money, of course. Those pirates offered way more money than the kid is worth, and I'd be a fool not to take it. I expected them to ambush me when I gave the kid away, but they didn't. Rats can be surprising sometimes. I made sure I didn't look at the kid when I gave him back. I don't want to think about the horrors he's about to face. All I want to think about is all the money I just got. It's enough to keep me happy. Mission Accomplished. Though I wonder: Was it worth it?",
+        "en": "Though it was difficult, I made my choice: I gave Ralie back to the Syndicate. Why? The money, of course. Those State-sanctioned criminals offered way more money than the kid is worth, and I'd be a fool not to take it. I expected them to ambush me when I gave the kid away, but they didn't. Rats can be surprising sometimes. I made sure I didn't look at the kid when I gave him back. I don't want to think about the horrors he's about to face. All I want to think about is all the money I just got. It's enough to keep me happy. Mission Accomplished. Though I wonder: Was it worth it?",
         "it": ""
     },
     "142121": {
@@ -313776,7 +313752,7 @@
         "it": ""
     },
     "142269": {
-        "en": "You've come a long way, {[character]player.name}. You found the kid, defeated the bad guys, and saved the day. Right out of a holoreel, right? Well, here's where real life comes in, and it's a complicated mess. They don't show you this part in the ‘reels. <br><br>\n\nWhile you were out taking care of the Pator 6, I contacted my Syndicate contacts. They're pissed, but they are willing to forget everything and leave us alone. They can still keep their deal with Impetus, but they need the kid. Apparently, Ralie's the crux of the deal. I have no idea why, nor do I want to know. <br><br>\n\nThus, you have two options. First, you can do the right thing and give Ralie back to the Feds. Be the hero, save the innocents, gratitude heaped upon you by the Federation, the works. I'm sure Mourmarie has something fun to reward you for your assistance. <br><Br>\n\nOr you can give Ralie back to the Syndicate. They've given me a very generous offer. <i>Very</i> generous. You're essentially signing an innocent kid's life away, but the money will be good. That's all you eggers care about anyway, right?<br><br>\n\nAll I can say is this: You can give the kid his freedom and be the hero. Or you can give him away, an innocent kid to ruthless and depraved criminals, for a lot of money. I won't judge you on either choice, but I have to ask: Where do you draw the line?",
+        "en": "You've come a long way, {[character]player.name}. You found the kid, defeated the bad guys, and saved the day. Right out of a holoreel, right? Well, here's where real life comes in, and it's a complicated mess. They don't show you this part in the ‘reels. <br><br>\r\n\r\nWhile you were out taking care of the Pator 6, I contacted my Syndicate contacts. They're pissed, but they are willing to forget everything and leave us alone to avoid an interstellar incident. They can keep working with their pet Impetus execs, but they need the kid. Apparently, Ralie's the crux of the deal. I have no idea why, nor do I want to know. <br><br>\r\n\r\nThus, you have two options. First, you can do the right thing and give Ralie back to the Feds. Be the hero, save the innocents, embaress the State, gratitude heaped upon you by the Federation, the works. I'm sure Mourmarie has something fun to reward you for your assistance. <br><Br>\r\n\r\nOr you can give Ralie back to the Syndicate. They've given me a very generous offer. <i>Very</i> generous. You're essentially signing an innocent kid's life away, but the money will be good. That's all you eggers care about anyway, right?<br><br>\r\n\r\nAll I can say is this: You can give the kid his freedom and be the hero. Or you can give him away, an innocent kid to ruthless State criminals for a lot of money. I won't judge you on either choice, but I have to ask: Where do you draw the line?",
         "it": ""
     },
     "142270": {
@@ -313788,7 +313764,7 @@
         "it": ""
     },
     "142272": {
-        "en": "You've come a long way, {[character]player.name}. You found the kid, defeated the bad guys, and saved the day. Right out of a holoreel, right? Well, here's where real life comes in, and it's a complicated mess. They don't show you this part in the ‘reels. <br><br>\n\nWhile you were out taking care of the Pator 6, I contacted my Syndicate contacts. They're pissed, but they are willing to forget everything and leave us alone. They can still keep their deal with Impetus, but they need the kid. Apparently, Ralie's the crux of the deal. I have no idea why, nor do I want to know. <br><br>\n\nThus, you have two options. First, you can do the right thing and give Ralie back to the Feds. Be the hero, save the innocents, gratitude heaped upon you by the Federation, the works. I'm sure Mourmarie has something fun to reward you for your assistance. <br><Br>\n\nOr you can give Ralie back to the Syndicate. They've given me a very generous offer. <i>Very</i> generous. You're essentially signing an innocent kid's life away, but the money will be good. That's all you eggers care about anyway, right?<br><br>\n\nAll I can say is this: You can give the kid his freedom and be the hero. Or you can give him away, an innocent kid to ruthless and depraved criminals, for a lot of money. I won't judge you on either choice, but I have to ask: Where do you draw the line? \n",
+        "en": "You've come a long way, {[character]player.name}. You found the kid, defeated the bad guys, and saved the day. Right out of a holoreel, right? Well, here's where real life comes in, and it's a complicated mess. They don't show you this part in the ‘reels. <br><br>\r\n\r\nWhile you were out taking care of the Pator 6, I contacted my Syndicate contacts. They're pissed,but they are willing to forget everything and leave us alone to avoid an interstellar incident. They can keep working with their pet Impetus execs, but they need the kid. Apparently, Ralie's the crux of the deal. I have no idea why, nor do I want to know. <br><br>\r\n\r\nThus, you have two options. First, you can do the right thing and give Ralie back to the Feds. Be the hero, save the innocents, gratitude heaped upon you by the Federation, the works. I'm sure Mourmarie has something fun to reward you for your assistance. <br><Br>\r\n\r\nOr you can give Ralie back to the Syndicate. They've given me a very generous offer. <i>Very</i> generous. You're essentially signing an innocent kid's life away, but the money will be good. That's all you eggers care about anyway, right?<br><br>\r\n\r\nAll I can say is this: You can give the kid his freedom and be the hero. Or you can give him away, an innocent kid to ruthless State criminals for a lot of money. I won't judge you on either choice, but I have to ask: Where do you draw the line?",
         "it": ""
     },
     "142273": {
@@ -313800,11 +313776,11 @@
         "it": ""
     },
     "142275": {
-        "en": "Mourmarie and Senator Ardanne have given me a rendezvous location for you. It's somewhere in Enedore. When you return the kid, you'll get your reward. I'll contact the Syndicate and let them know that the deal is off. I wouldn't expect them to take that lightly, though, so watch your back. <br><br>\nEither way, glad you got the kid back. Been nice working with you. Good luck in the future, {[character]player.name}. ",
+        "en": "Mourmarie and Senator Ardanne have given me a rendezvous location for you. It's somewhere in Enedore. When you return the kid, you'll get your reward. I'll contact the Syndicate and let them know that the deal is off. I wouldn't expect them to take that lightly, though, so watch your back. <br><br>\r\nEither way, glad you got the kid back. Been nice working with you. Good luck in the future, {[character]player.name}. ",
         "it": ""
     },
     "142276": {
-        "en": "The Syndicate wants to meet you at a specific location. You'll drop the kid off, take the money – which I'll get a cut of, of course – and leave quietly in the night. They have a special gift for you in addition to the money. Some sort of Syndicate-issue something or other. I dunno. <br><br>\nTake the kid to the warehouse and drop him off. We'll get paid and leave this whole mess behind us. It'll be a happy ending for us, to be sure.",
+        "en": "The Syndicate wants to meet you at a specific location. You'll drop the kid off, take the money – which I'll get a cut of, of course – and leave quietly in the night. They have a special gift for you in addition to the money. Some sort of Syndicate-issue something or other. I dunno. <br><br>\r\nTake the kid to the warehouse and drop him off. We'll get paid and leave this whole mess behind us. It'll be a happy ending for us, to be sure.",
         "it": ""
     },
     "142277": {
@@ -337711,28 +337687,8 @@
         "en": "Rock Formation",
         "it": ""
     },
-    "148537": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
     "148538": {
         "en": "Abandoned Drill",
-        "it": ""
-    },
-    "148539": {
-        "en": "Rock Formation",
-        "it": ""
-    },
-    "148540": {
-        "en": "Wreck",
-        "it": ""
-    },
-    "148541": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "148542": {
-        "en": "Barren Asteroid",
         "it": ""
     },
     "148543": {
@@ -341731,20 +341687,12 @@
         "en": "Broken Engine",
         "it": ""
     },
-    "149543": {
-        "en": "Infested Asteroid",
-        "it": ""
-    },
     "149544": {
-        "en": "Drone Silo",
+        "en": "Drone Bunker",
         "it": ""
     },
     "149545": {
         "en": "Abandoned Ship Yard",
-        "it": ""
-    },
-    "149546": {
-        "en": "Abandoned Drill",
         "it": ""
     },
     "149547": {
@@ -341839,16 +341787,8 @@
         "en": "Rock Formation",
         "it": ""
     },
-    "149570": {
-        "en": "Small Infested Asteroid",
-        "it": ""
-    },
     "149571": {
         "en": "Asteroid Mining Post",
-        "it": ""
-    },
-    "149572": {
-        "en": "Debris",
         "it": ""
     },
     "149573": {
@@ -372868,39 +372808,39 @@
         "it": ""
     },
     "157332": {
-        "en": "Pulsating Beacon",
+        "en": "Starting Spawn",
         "it": ""
     },
     "157333": {
-        "en": "Pulsating Beacon",
+        "en": "Starting Spawn",
         "it": ""
     },
     "157334": {
-        "en": "Pulsating Beacon",
+        "en": "Starting Spawn",
         "it": ""
     },
     "157335": {
-        "en": "Pulsating Beacon II",
+        "en": "Reinforcement Spawn II",
         "it": ""
     },
     "157336": {
-        "en": "Pulsating Beacon II",
+        "en": "Reinforcement Spawn II",
         "it": ""
     },
     "157337": {
-        "en": "Pulsating Beacon II",
+        "en": "Reinforcement Spawn II",
         "it": ""
     },
     "157338": {
-        "en": "Pulsating Beacon III",
+        "en": "Reinforcement Spawn III",
         "it": ""
     },
     "157339": {
-        "en": "Pulsating Beacon III",
+        "en": "Reinforcement Spawn III",
         "it": ""
     },
     "157340": {
-        "en": "Pulsating Beacon III",
+        "en": "Reinforcement Spawn III",
         "it": ""
     },
     "157341": {
@@ -486447,10 +486387,6 @@
         "en": "Convoy Wreck",
         "it": ""
     },
-    "186306": {
-        "en": "Low-Tech Energy Harvester",
-        "it": ""
-    },
     "186307": {
         "en": "Low-Tech Energy Harvester",
         "it": ""
@@ -489943,76 +489879,24 @@
         "en": "Drone Infested Asteroid",
         "it": ""
     },
-    "187241": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187242": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187243": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187244": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187245": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187246": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187247": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187248": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187249": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187250": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187251": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187252": {
-        "en": "Asteroid",
-        "it": ""
-    },
-    "187253": {
-        "en": "Asteroid",
-        "it": ""
-    },
     "187254": {
-        "en": "Asteroid",
+        "en": "Drone Infested Asteroid",
         "it": ""
     },
     "187255": {
-        "en": "Asteroid",
+        "en": "Drone Infested Asteroid",
         "it": ""
     },
     "187256": {
-        "en": "Asteroid",
+        "en": "Drone Infested Asteroid",
         "it": ""
     },
     "187257": {
-        "en": "Asteroid",
+        "en": "Drone Infested Asteroid",
         "it": ""
     },
     "187258": {
-        "en": "Asteroid",
+        "en": "Drone Infested Asteroid",
         "it": ""
     },
     "187259": {
@@ -505057,10 +504941,6 @@
     },
     "191821": {
         "en": "Celestial Beacon",
-        "it": ""
-    },
-    "191822": {
-        "en": "Multi-purpose Pad",
         "it": ""
     },
     "191823": {
@@ -523043,10 +522923,6 @@
         "en": "Fire Cloud",
         "it": ""
     },
-    "196851": {
-        "en": "Rock Formation",
-        "it": ""
-    },
     "196852": {
         "en": "Rock Formation",
         "it": ""
@@ -523085,10 +522961,6 @@
     },
     "196861": {
         "en": "Debris",
-        "it": ""
-    },
-    "196862": {
-        "en": "Rock Formation",
         "it": ""
     },
     "196863": {
@@ -536315,12 +536187,8 @@
         "en": "Beacon",
         "it": ""
     },
-    "200456": {
-        "en": "Amber Cloud",
-        "it": ""
-    },
     "200457": {
-        "en": "Transport Vessel Cloud",
+        "en": "Transport Vessel 1",
         "it": ""
     },
     "200458": {
@@ -536328,7 +536196,7 @@
         "it": ""
     },
     "200459": {
-        "en": "Transport Vessel Cloud 2",
+        "en": "Transport Vessel  2",
         "it": ""
     },
     "200460": {
@@ -536395,10 +536263,6 @@
         "en": "Wall",
         "it": ""
     },
-    "200476": {
-        "en": "Soft Cloud",
-        "it": ""
-    },
     "200477": {
         "en": "NPC Group 1",
         "it": ""
@@ -536423,20 +536287,16 @@
         "en": "Broken Metallic Crystal Asteroid",
         "it": ""
     },
-    "200483": {
-        "en": "Spark Cloud",
-        "it": ""
-    },
     "200484": {
-        "en": "Phenod's Cloud",
+        "en": "NPC Spawn",
         "it": ""
     },
     "200485": {
-        "en": "Acidic Cloud",
+        "en": "NPC Spawn",
         "it": ""
     },
     "200486": {
-        "en": "Acidic Cloud",
+        "en": "NPC Spawn",
         "it": ""
     },
     "200487": {
@@ -536448,23 +536308,15 @@
         "it": ""
     },
     "200489": {
-        "en": "Stolen CONCORD ship",
+        "en": "Stolen CONCORD Ship",
         "it": ""
     },
     "200490": {
         "en": "Beacon",
         "it": ""
     },
-    "200491": {
-        "en": "Electric Cloud",
-        "it": ""
-    },
     "200492": {
         "en": "Locced's Bribe",
-        "it": ""
-    },
-    "200493": {
-        "en": "Chlorine Cloud",
         "it": ""
     },
     "200494": {
@@ -536479,48 +536331,12 @@
         "en": "Mining Outpost",
         "it": ""
     },
-    "200497": {
-        "en": "Debris Cloud",
-        "it": ""
-    },
     "200498": {
-        "en": "Debris Cloud",
-        "it": ""
-    },
-    "200499": {
-        "en": "Debris Cloud",
-        "it": ""
-    },
-    "200500": {
-        "en": "Debris Cloud",
-        "it": ""
-    },
-    "200501": {
-        "en": "Debris Cloud",
-        "it": ""
-    },
-    "200502": {
         "en": "Debris Cloud",
         "it": ""
     },
     "200503": {
         "en": "Survey Post",
-        "it": ""
-    },
-    "200504": {
-        "en": "Acidic Cloud 1",
-        "it": ""
-    },
-    "200505": {
-        "en": "Acidic Cloud 2",
-        "it": ""
-    },
-    "200506": {
-        "en": "Acidic Cloud 3",
-        "it": ""
-    },
-    "200507": {
-        "en": "Acidic Cloud 4",
         "it": ""
     },
     "200508": {
@@ -607091,10 +606907,6 @@
         "en": "Invisible Cloud",
         "it": ""
     },
-    "219284": {
-        "en": "Invisible Cloud",
-        "it": ""
-    },
     "219285": {
         "en": "Invisible Cloud",
         "it": ""
@@ -677500,7 +677312,7 @@
         "it": ""
     },
     "238357": {
-        "en": "{charName} edited the roles of {[character]changedChar.name} in {corpName}. {whatChanged}",
+        "en": "{charName} edited the roles of {[character]changedChar.name} in {corpName}.{whatChanged}",
         "it": ""
     },
     "238358": {
@@ -677516,7 +677328,7 @@
         "it": ""
     },
     "238361": {
-        "en": "{[character]changingChar.name} edited the roles of {[character]changedChar.name} in {corpName}. {whatChanged}",
+        "en": "{[character]changingChar.name} edited the roles of {[character]changedChar.name} in {corpName}.{whatChanged}",
         "it": ""
     },
     "238362": {
@@ -704364,7 +704176,7 @@
         "it": ""
     },
     "263226": {
-        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n<br>The Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>.",
+        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari.",
         "it": ""
     },
     "263227": {
@@ -706329,10 +706141,6 @@
     },
     "264327": {
         "en": "You have all unknown characters blocked",
-        "it": ""
-    },
-    "264328": {
-        "en": "Smugglers' Stargate",
         "it": ""
     },
     "264963": {
@@ -728408,7 +728216,7 @@
         "it": ""
     },
     "271927": {
-        "en": "Arzad",
+        "en": "Starkman",
         "it": ""
     },
     "271928": {
@@ -758028,7 +757836,7 @@
         "it": ""
     },
     "283268": {
-        "en": "<b>Weapons Timer</b>\n<b>Cause:</b> Aggression against another capsuleer\n<b>Consequence:</b> Unable to dock or use stargates or fitting services",
+        "en": "<b>Weapons Timer</b>\r\n<b>Cause:</b> Aggression against another capsuleer or activation of some module groups\r\n<b>Consequence:</b> Unable to dock or use stargates or fitting services",
         "it": ""
     },
     "283269": {
@@ -837356,7 +837164,7 @@
         "it": ""
     },
     "500877": {
-        "en": "bonus to ship capacitor recharge rate",
+        "en": "bonus to ship armor hitpoints",
         "it": ""
     },
     "500878": {
@@ -838168,7 +837976,7 @@
         "it": ""
     },
     "501117": {
-        "en": "bonus to <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
+        "en": "bonus to kinetic <a href=showinfo:3321>Light Missile</a> and <a href=showinfo:3320>Rocket</a> damage",
         "it": ""
     },
     "501118": {
@@ -838476,7 +838284,7 @@
         "it": ""
     },
     "501200": {
-        "en": "bonus to <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
+        "en": "bonus to EM, explosive, thermal <a href=showinfo:3321>Light Missile</a>, <a href=showinfo:3324>Heavy Missile</a> and <a href=showinfo:25719>Heavy Assault Missile</a> damage",
         "it": ""
     },
     "501201": {
@@ -882232,7 +882040,7 @@
         "it": ""
     },
     "515829": {
-        "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {[location]solarsystemID.name, linkify}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
+        "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
         "it": ""
     },
     "515830": {
@@ -884628,7 +884436,7 @@
         "it": ""
     },
     "516506": {
-        "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} to Asset Safety in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
+        "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
         "it": ""
     },
     "516507": {
@@ -910596,7 +910404,7 @@
         "it": ""
     },
     "527537": {
-        "en": "+1000 Armor HP",
+        "en": "+1500 Armor HP",
         "it": ""
     },
     "527538": {
@@ -912352,7 +912160,7 @@
         "it": ""
     },
     "527981": {
-        "en": "+400 PWG, +90 CPU",
+        "en": "+430 PWG, +90 CPU",
         "it": ""
     },
     "527982": {
@@ -912764,7 +912572,7 @@
         "it": ""
     },
     "528084": {
-        "en": "+300 PWG, +30 CPU",
+        "en": "+330 PWG, +30 CPU",
         "it": ""
     },
     "528085": {
@@ -924004,7 +923812,7 @@
         "it": ""
     },
     "531655": {
-        "en": "Narcotics Den",
+        "en": "Combat Hacking Sites",
         "it": ""
     },
     "531656": {
@@ -933252,7 +933060,7 @@
         "it": ""
     },
     "536323": {
-        "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {[location]solarsystemID.name, linkify}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
+        "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
         "it": ""
     },
     "536336": {
@@ -958648,7 +958456,7 @@
         "it": ""
     },
     "549194": {
-        "en": "You corporation or alliance is currently involved in a formal war. During a formal war members of opposing corporations and/or alliances can shoot you in high security space without CONCORD interference. It is good idea to always fly ships that you can afford to lose in New Eden, and this tip is especially important during formal wars. <br>Are you sure you want to undock at this time?",
+        "en": "Your corporation or alliance is currently involved in a formal war. During a formal war members of opposing corporations and/or alliances can shoot you in high security space without CONCORD interference. It is good idea to always fly ships that you can afford to lose in New Eden, and this tip is especially important during formal wars. <br>Are you sure you want to undock at this time?",
         "it": ""
     },
     "549195": {
@@ -1029140,11 +1028948,11 @@
         "it": ""
     },
     "582522": {
-        "en": "Soldier of Fortune",
+        "en": "Soldier",
         "it": ""
     },
     "582523": {
-        "en": "New Eden's Soldiers of Fortune are capsuleers who venture beyond the safety of secure space in search of glory and riches. Low and null security space can be very dangerous but the rewards often match the risks, especially if you fly with other pilots. There are thousands of capsuleer corporations waiting out there to bring you into their fleets and help you get those guns firing on target.",
+        "en": "New Eden's Soldiers are capsuleers who venture beyond the safety of secure space in search of glory and riches. Low and null security space can be very dangerous but the rewards often match the risks, especially if you fly with other pilots. There are thousands of capsuleer corporations waiting out there to bring you into their fleets and help you get those guns firing on target.",
         "it": ""
     },
     "582524": {
@@ -1032856,7 +1032664,7 @@
         "it": ""
     },
     "584144": {
-        "en": "Subjected to an Amarr campaign of annihilation, the Starkmanir Tribe was considered lost for centuries until the discovery in YC110 of a viable surviving population hidden by Nefantar elites on Halturzhan, the sixth planet of Jarizza in the Ammatar Mandate. The discovery spurred a Minmatar fleet into an invasion of Amarr territories with a view to recovering the Starkmanir and as many other enslaved Minmatar as possible. The vast majority of surviving Starkmanir were successfully recovered, evacuated to the Minmatar Republic, and settled on lands set aside for them by the larger tribes.\r\n\r\nThough few in number, the Starkmanir have full status as one of the Seven Tribes of Matar and govern their affairs through a council of clan chiefs headed by the overall chief of the Starkmanir Tribe.",
+        "en": "Subjected to an Amarr campaign of annihilation, the Starkmanir Tribe was considered lost for centuries until the discovery in YC110 of a viable surviving population hidden by Nefantar elites on Halturzhan, the sixth planet of Jarizza in the Ammatar Mandate. The discovery spurred a Minmatar fleet into an invasion of Amarr territories with a view to recovering the Starkmanir and as many other enslaved Minmatar as possible. The vast majority of surviving Starkmanir were successfully recovered, evacuated to the Minmatar Republic, and settled on lands set aside for them by the larger tribes.\r\n\r\nThough few in number, the Starkmanir have full status as one of the Seven Tribes of Matar and govern their affairs through a council of clan chiefs headed by the overall chief of the Starkmanir Tribe.\r\n\r\nIn YC128, 13,957 capsuleers contirbuted ot the Starkmanir Restoration campaign. Thanks to this campaign, the Starkmanir homeworld of Starkman Prime was reclaimed by the Republic. Now every day more and more of the Starkmanir and their allies return to Starkman Prime to work on returning the planet to its former glory.",
         "it": ""
     },
     "584145": {
@@ -1032932,7 +1032740,7 @@
         "it": ""
     },
     "584164": {
-        "en": "The Nefantar Tribe played a notorious role during the Amarr Empire's occupation of the Minmatar home worlds as collaborators who actively assisted in the enslavement of other tribes by the Amarr. The Nefantar were so faithful to the Amarr that Emperor Damius III bestowed the name \"Ammatar\" upon them. When the Great Rebellion succeeded in driving the Amarr from the Minmatar Regions, the Amarr subsequently set up the Nefantar in a puppet state called the Ammatar Mandate. Unbeknownst to anyone else, certain Ammatar elites had hidden a large number of Starkmanir Tribe survivors from the Amarr within the Mandate.\r\n\r\nAfter the discovery of the Starkmanir led to a Minmatar invasion in YC110, the Nefantar conspirators and their families led a mass defection of many Ammatar back to the Minmatar Republic, assisting in the recovery of the Starkmanir. Today, the Nefantar tribe has been restored as one of the Seven Tribes of Matar, even while many of their tribe remain loyal to the Amarr Empire back in the Mandate.",
+        "en": "Subjected to an Amarr campaign of annihilation, the Starkmanir Tribe was considered lost for centuries until the discovery in YC110 of a viable surviving population hidden by Nefantar elites on Halturzhan, the sixth planet of Jarizza in the Ammatar Mandate. The discovery spurred a Minmatar fleet into an invasion of Amarr territories with a view to recovering the Starkmanir and as many other enslaved Minmatar as possible. The vast majority of surviving Starkmanir were successfully recovered, evacuated to the Minmatar Republic, and settled on lands set aside for them by the larger tribes.\r\n\r\nThough few in number, the Starkmanir have full status as one of the Seven Tribes of Matar and govern their affairs through a council of clan chiefs headed by the overall chief of the Starkmanir Tribe.\r\n\r\nIn YC128, 13,957 capsuleers contirbuted ot the Starkmanir Restoration campaign. Thanks to this campaign, the Starkmanir homeworld of Starkman Prime was reclaimed by the Republic. Now every day more and more of the Starkmanir and their allies return to Starkman Prime to work on returning the planet to its former glory.",
         "it": ""
     },
     "584165": {
@@ -1036028,7 +1035836,7 @@
         "it": ""
     },
     "585506": {
-        "en": "Amarr Soldiers of Fortune focused on militia warfare start their career flying tech 1 Amarr combat frigates, such as the <a href=\"fitting:597:16391;1:11311;1:5849;1:2046;1:5599;1:5443;1:35658;1:5179;4:30987;3:23085;4:23071;4::\">Punisher: Amarr Soldier of Fortune</a>. Amarr Militia Fighters battle other capsuleers for control over space and resources, in the name of the Amarr Empire.<br><br>Militia Fighters train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
+        "en": "Amarr Soldiers focused on militia warfare start their career flying tech 1 Amarr combat frigates, such as the <a href=\"fitting:597:16391;1:11311;1:5849;1:2046;1:5599;1:5443;1:35658;1:5179;4:30987;3:23085;4:23071;4::\">Punisher: Amarr Soldier</a>. Amarr Militia Fighters battle other capsuleers for control over space and resources, in the name of the Amarr Empire.<br><br>Militia Fighters train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
         "it": ""
     },
     "585507": {
@@ -1036036,7 +1035844,7 @@
         "it": ""
     },
     "585508": {
-        "en": "Caldari Soldiers of Fortune focused on militia warfare start their career flying tech 1 Caldari combat frigates, such as the <a href=\"fitting:603:11105;1:11563;1:2046;1:5443;1:35658;1:3829;1:4025;1:7489;3:31788;3:22961;1500::\">Merlin: Caldari Soldier of Fortune</a>. Caldari Militia Fighters battle other capsuleers for control over space and resources, for the glory of the Caldari State.<br><br>Militia Fighters will train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
+        "en": "Caldari Soldiers focused on militia warfare start their career flying tech 1 Caldari combat frigates, such as the <a href=\"fitting:603:11105;1:11563;1:2046;1:5443;1:35658;1:3829;1:4025;1:7489;3:31788;3:22961;1500::\">Merlin: Caldari Soldier</a>. Caldari Militia Fighters battle other capsuleers for control over space and resources, for the glory of the Caldari State.<br><br>Militia Fighters will train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
         "it": ""
     },
     "585509": {
@@ -1036044,7 +1035852,7 @@
         "it": ""
     },
     "585510": {
-        "en": "Gallente Soldiers of Fortune focused on militia warfare start their career flying tech 1 Gallente combat frigates, such as the <a href=\"fitting:594:11105;1:16305;1:33076;1:2046;1:5439;1:35658;1:4027;1:7583;3:31045;1:31406;2:2454;1:22961;720:28668;24::\">Incursus: Gallente Soldier of Fortune</a>. Gallente Militia Fighters battle other capsuleers for control over space and resources, in defence of the Gallente Federation.<br><br>Militia Fighters will train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
+        "en": "Gallente Soldiers focused on militia warfare start their career flying tech 1 Gallente combat frigates, such as the <a href=\"fitting:594:11105;1:16305;1:33076;1:2046;1:5439;1:35658;1:4027;1:7583;3:31045;1:31406;2:2454;1:22961;720:28668;24::\">Incursus: Gallente Soldier</a>. Gallente Militia Fighters battle other capsuleers for control over space and resources, in defence of the Gallente Federation.<br><br>Militia Fighters will train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
         "it": ""
     },
     "585511": {
@@ -1036052,7 +1035860,7 @@
         "it": ""
     },
     "585512": {
-        "en": "Minmatar Soldiers of Fortune focused on militia warfare start their career flying tech 1 Minmatar combat frigates, such as the <a href=\"fitting:587:11563;1:11309;1:5933;1:2046;1:5443;1:35658;1:4027;1:8815;3:26929;1:30987;2:21898;800:21924;800:21906;800::\">Rifter: Minmatar Soldier of Fortune</a>. Minmatar Militia Fighters battle other capsuleers for control over space and resources, for the freedom of the Minmatar Republic.<br><br>Militia Fighters will train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
+        "en": "Minmatar Soldiers focused on militia warfare start their career flying tech 1 Minmatar combat frigates, such as the <a href=\"fitting:587:11563;1:11309;1:5933;1:2046;1:5443;1:35658;1:4027;1:8815;3:26929;1:30987;2:21898;800:21924;800:21906;800::\">Rifter: Minmatar Soldier</a>. Minmatar Militia Fighters battle other capsuleers for control over space and resources, for the freedom of the Minmatar Republic.<br><br>Militia Fighters will train skills focusing on combat and survivability, as well as diplomatic skills that increase rewards and standings from corporations, and the use of boosters to give themselves an edge in combat.<br><br>To learn more about the Militia Fighter career, head to the <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Faction Warfare</a> panel in the Agency.",
         "it": ""
     },
     "585513": {
@@ -1036060,7 +1035868,7 @@
         "it": ""
     },
     "585514": {
-        "en": "Minmatar Soldiers of Fortune focused on piracy start their career flying tech 1 Minmatar combat frigates, such as the <a href=\"fitting:587:11563;1:11309;1:5933;1:2046;1:5443;1:35658;1:4027;1:8815;3:26929;1:30987;2:21898;800:21924;800:21906;800::\">Rifter: Minmatar Soldier of Fortune</a>. Pirates roam around the universe, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
+        "en": "Minmatar Soldiers focused on piracy start their career flying tech 1 Minmatar combat frigates, such as the <a href=\"fitting:587:11563;1:11309;1:5933;1:2046;1:5443;1:35658;1:4027;1:8815;3:26929;1:30987;2:21898;800:21924;800:21906;800::\">Rifter: Minmatar Soldier</a>. Pirates roam around the universe, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
         "it": ""
     },
     "585515": {
@@ -1036068,7 +1035876,7 @@
         "it": ""
     },
     "585516": {
-        "en": "Gallente Soldiers of Fortune focused on piracy start their career flying tech 1 Gallente combat frigates, such as the <a href=\"fitting:594:11105;1:16305;1:33076;1:2046;1:5439;1:35658;1:4027;1:7583;3:31045;1:31406;2:2454;1:22961;720:28668;24::\">Incursus: Gallente Soldier of Fortune</a>. Pirates roam around New Eden, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
+        "en": "Gallente Soldiers focused on piracy start their career flying tech 1 Gallente combat frigates, such as the <a href=\"fitting:594:11105;1:16305;1:33076;1:2046;1:5439;1:35658;1:4027;1:7583;3:31045;1:31406;2:2454;1:22961;720:28668;24::\">Incursus: Gallente Soldier</a>. Pirates roam around New Eden, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
         "it": ""
     },
     "585517": {
@@ -1036076,7 +1035884,7 @@
         "it": ""
     },
     "585518": {
-        "en": "Caldari Soldiers of Fortune focused on piracy start their career flying tech 1 Caldari combat frigates, such as the <a href=\"fitting:603:11105;1:11563;1:2046;1:5443;1:35658;1:3829;1:4025;1:7489;3:31788;3:22961;1500::\">Merlin: Caldari Soldier of Fortune</a>. Pirates roam around New Eden, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
+        "en": "Caldari Soldiers focused on piracy start their career flying tech 1 Caldari combat frigates, such as the <a href=\"fitting:603:11105;1:11563;1:2046;1:5443;1:35658;1:3829;1:4025;1:7489;3:31788;3:22961;1500::\">Merlin: Caldari Soldier</a>. Pirates roam around New Eden, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
         "it": ""
     },
     "585519": {
@@ -1036084,7 +1035892,7 @@
         "it": ""
     },
     "585520": {
-        "en": "Amarr Soldiers of Fortune focused on piracy start their career flying tech 1 Amarr combat frigates, such as the <a href=\"fitting:597:16391;1:11311;1:5849;1:2046;1:5599;1:5443;1:35658;1:5179;4:30987;3:23085;4:23071;4::\">Punisher: Amarr Soldier of Fortune</a>. Pirates roam around New Eden, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
+        "en": "Amarr Soldiers focused on piracy start their career flying tech 1 Amarr combat frigates, such as the <a href=\"fitting:597:16391;1:11311;1:5849;1:2046;1:5599;1:5443;1:35658;1:5179;4:30987;3:23085;4:23071;4::\">Punisher: Amarr Soldier</a>. Pirates roam around New Eden, hunting other capsuleers in low-security space for infamy and ISK, while running from security forces such as CONCORD.<br><br>Pirates will train skills focusing on combat and survivability, and the use of boosters to give themselves an edge in combat.<br><br>To join other capsuleers in a fleet, head to the <a href=\"localsvc:contentGroupID=67&method=AgencyOpenAndShow\">Fleet Up!</a> panel in the Agency. Caution is advised. Other pirates might misuse your trust.",
         "it": ""
     },
     "585522": {
@@ -1046992,35 +1046800,35 @@
         "it": ""
     },
     "589756": {
-        "en": "AIR Amarr Soldier of Fortune",
+        "en": "AIR Amarr Soldier",
         "it": ""
     },
     "589757": {
-        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Amarr capsuleer embarking on a career as a Soldier of Fortune. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier of Fortune.<br><br><a href=\"fitting:597:16391;1:11311;1:5849;1:2046;1:5599;1:5443;1:35658;1:5179;4:30987;3:23085;4:23071;4::\">Punisher: AIR Amarr Soldier of Fortune</a> is the suggested starting ship for this career.",
+        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Amarr capsuleer embarking on a career as a Soldier. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier.<br><br><a href=\"fitting:597:16391;1:11311;1:5849;1:2046;1:5599;1:5443;1:35658;1:5179;4:30987;3:23085;4:23071;4::\">Punisher: AIR Amarr Soldier</a> is the suggested starting ship for this career.",
         "it": ""
     },
     "589758": {
-        "en": "AIR Caldari Soldier of Fortune",
+        "en": "AIR Caldari Soldier",
         "it": ""
     },
     "589759": {
-        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Caldari capsuleer embarking on a career as a Soldier of Fortune. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier of Fortune.<br><br><a href=\"fitting:603:11105;1:11563;1:2046;1:5443;1:35658;1:3829;1:4025;1:7489;3:31788;3:22961;1200::\">Merlin: AIR Caldari Soldier of Fortune</a> is the suggested starting ship for this career.",
+        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Caldari capsuleer embarking on a career as a Soldier. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier.<br><br><a href=\"fitting:603:11105;1:11563;1:2046;1:5443;1:35658;1:3829;1:4025;1:7489;3:31788;3:22961;1200::\">Merlin: AIR Caldari Soldier</a> is the suggested starting ship for this career.",
         "it": ""
     },
     "589760": {
-        "en": "AIR Gallente Soldier of Fortune",
+        "en": "AIR Gallente Soldier",
         "it": ""
     },
     "589761": {
-        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Gallente capsuleer embarking on a career as a Soldier of Fortune. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier of Fortune.<br><br><a href=\"fitting:608:9944;2:2046;1:5445;1:35658;1:4027;1:7583;3:33890;2:26929;1:22961;560::\">Atron: AIR Gallente Soldier of Fortune</a> is the suggested starting ship for this career.",
+        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Gallente capsuleer embarking on a career as a Soldier. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier.<br><br><a href=\"fitting:608:9944;2:2046;1:5445;1:35658;1:4027;1:7583;3:33890;2:26929;1:22961;560::\">Atron: AIR Gallente Soldier</a> is the suggested starting ship for this career.",
         "it": ""
     },
     "589762": {
-        "en": "AIR Minmatar Soldier of Fortune",
+        "en": "AIR Minmatar Soldier",
         "it": ""
     },
     "589763": {
-        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Minmatar capsuleer embarking on a career as a Soldier of Fortune. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier of Fortune.<br><br><a href=\"fitting:587:11563;1:11309;1:2046;1:5933;1:5445;1:35658;1:4027;1:8815;3:30987;2:26929;1:21898;320:21924;320:21906;320::\">Rifter: AIR Minmatar Soldier of Fortune</a> is the suggested starting ship for this career.",
+        "en": "Completion of this AIR skill plan gives a basic grounding in skills useful to the Minmatar capsuleer embarking on a career as a Soldier. Further development in skills suitable for militia warfare and privateering in New Eden can be achieved by training the certified skill plans for Soldier.<br><br><a href=\"fitting:587:11563;1:11309;1:2046;1:5933;1:5445;1:35658;1:4027;1:8815;3:30987;2:26929;1:21898;320:21924;320:21906;320::\">Rifter: AIR Minmatar Soldier</a> is the suggested starting ship for this career.",
         "it": ""
     },
     "589764": {
@@ -1049820,11 +1049628,11 @@
         "it": ""
     },
     "592750": {
-        "en": "Since you have accepted the Soldier of Fortune's mission, you should select the Soldier of Fortune career path.",
+        "en": "Since you have accepted the Soldier's mission, you should select the Soldier career path.",
         "it": ""
     },
     "592751": {
-        "en": "Click on the <b>Soldier of Fortune</b> career path",
+        "en": "Click on the <b>Soldier</b> career path",
         "it": ""
     },
     "592752": {
@@ -1049848,11 +1049656,11 @@
         "it": ""
     },
     "592757": {
-        "en": "For your chosen career path, you will want to train the AIR Soldier of Fortune skill plan.",
+        "en": "For your chosen career path, you will want to train the AIR Soldier skill plan.",
         "it": ""
     },
     "592758": {
-        "en": "Select the <b>AIR Soldier of Fortune</b> skill plan.",
+        "en": "Select the <b>AIR Soldier</b> skill plan.",
         "it": ""
     },
     "592759": {
@@ -1054807,10 +1054615,6 @@
         "en": "bonus to gas decompression efficiency",
         "it": ""
     },
-    "595629": {
-        "en": "AIR Career Program",
-        "it": ""
-    },
     "595704": {
         "en": "AIR Mining Mission",
         "it": ""
@@ -1055589,118 +1055393,6 @@
     },
     "596196": {
         "en": "Used by elite corporate executives and celebrity brand ambassadors of Semiotique Superluminal, this exclusive nanocoating was designed to mark the launch of the Semiotique Sports brand by one of the biggest players in New Eden's communications and media landscape.\r\n\r\nSemiotique Superluminal is one of New Eden's largest FTL communications corporations, owned by the reclusive and eccentric trillionaire Lous Chavol, founder of the Scope and an immensely powerful figure in the Gallente Federation's corporate world. From its beginnings as one of the more successful FTL communications companies during the last expansion phase of the Gallente Federation, Semiotique has become a megacorporation that may even rival the titanic Quafe Company for its reach.\r\n\r\nIn recent decades, Semiotique Superluminal has expanded its activities into all manner of technology, media, and entertainment interests. The holocasting and virtuality industries are a major growth area for the corporation, and under its Semiotique Sports brand it has ambitious plans to expand into popular high-tech sports such as Gravball, Mind Clash, spaceship racing, and even the controversial but incredibly lucrative combat sports field.",
-        "it": ""
-    },
-    "596198": {
-        "en": "Claim",
-        "it": ""
-    },
-    "596199": {
-        "en": "Claimed",
-        "it": ""
-    },
-    "596200": {
-        "en": "Received: {when}",
-        "it": ""
-    },
-    "596201": {
-        "en": "Your Rewards",
-        "it": ""
-    },
-    "596202": {
-        "en": "Survival Bonus",
-        "it": ""
-    },
-    "596203": {
-        "en": "Get  {[numeric]isk, useGrouping, decimalPlaces=0} ISK",
-        "it": ""
-    },
-    "596204": {
-        "en": "Track",
-        "it": ""
-    },
-    "596205": {
-        "en": "Untrack",
-        "it": ""
-    },
-    "596206": {
-        "en": "Close Window",
-        "it": ""
-    },
-    "596207": {
-        "en": "Career Overview",
-        "it": ""
-    },
-    "596208": {
-        "en": "Unknown",
-        "it": ""
-    },
-    "596209": {
-        "en": "{numPoints} Career Points",
-        "it": ""
-    },
-    "596210": {
-        "en": "Risk",
-        "it": ""
-    },
-    "596211": {
-        "en": "Rewards",
-        "it": ""
-    },
-    "596212": {
-        "en": "Estimated Time",
-        "it": ""
-    },
-    "596213": {
-        "en": "Progress",
-        "it": ""
-    },
-    "596214": {
-        "en": "Recommendations",
-        "it": ""
-    },
-    "596215": {
-        "en": "View",
-        "it": ""
-    },
-    "596216": {
-        "en": "Fit: <color={color}>{fitName}</color>",
-        "it": ""
-    },
-    "596217": {
-        "en": "Skill Plan: <color={color}>{planName}</color>",
-        "it": ""
-    },
-    "596218": {
-        "en": "None",
-        "it": ""
-    },
-    "596219": {
-        "en": "Low",
-        "it": ""
-    },
-    "596220": {
-        "en": "Medium",
-        "it": ""
-    },
-    "596221": {
-        "en": "High",
-        "it": ""
-    },
-    "596222": {
-        "en": "Rookie",
-        "it": ""
-    },
-    "596223": {
-        "en": "Novice",
-        "it": ""
-    },
-    "596224": {
-        "en": "Intermediate",
-        "it": ""
-    },
-    "596225": {
-        "en": "Advanced",
         "it": ""
     },
     "596261": {
@@ -1062504,15 +1062196,15 @@
         "it": ""
     },
     "599405": {
-        "en": "Soldier of Fortune - Frigate Skill Crate",
+        "en": "Soldier - Frigate Skill Crate",
         "it": ""
     },
     "599406": {
-        "en": "Soldier of Fortune - Combat Frigate Crate",
+        "en": "Soldier - Combat Frigate Crate",
         "it": ""
     },
     "599407": {
-        "en": "Soldier of Fortune - Support Frigate Crate",
+        "en": "Soldier - Support Frigate Crate",
         "it": ""
     },
     "599408": {
@@ -1062744,7 +1062436,7 @@
         "it": ""
     },
     "599466": {
-        "en": "Soldier of Fortune - Frigate Skill Crate",
+        "en": "Soldier - Frigate Skill Crate",
         "it": ""
     },
     "599467": {
@@ -1062760,7 +1062452,7 @@
         "it": ""
     },
     "599470": {
-        "en": "Soldier of Fortune - Combat Frigate Crate",
+        "en": "Soldier - Combat Frigate Crate",
         "it": ""
     },
     "599471": {
@@ -1062768,7 +1062460,7 @@
         "it": ""
     },
     "599472": {
-        "en": "Soldier of Fortune - Support Frigate Crate",
+        "en": "Soldier - Support Frigate Crate",
         "it": ""
     },
     "599473": {
@@ -1063056,11 +1062748,11 @@
         "it": ""
     },
     "599597": {
-        "en": "Free AIR Soldier of Fortune Expert System",
+        "en": "Free AIR Soldier Expert System",
         "it": ""
     },
     "599598": {
-        "en": "<font size=\"14\"><b>AIR Soldier of Fortune</b></font>\r\n\r\nThis Expert System is sponsored by the Association for Interdisciplinary Research (AIR) to allow new capsuleers to try out a variety of ships and activities before having to train the required skills. \r\n\r\nIt makes skills available that enable a capsuleer to fly all frigates from all four Empires, while its supporting skills make it especially useful when fighting against other capsuleers or providing support for your fleet. This Expert System includes skills related to armor, shields, missiles, drones, projectile turrets, hybrid turrets, energy turrets, electronic warfare modules, and remote assistance modules.\r\n\r\nAn Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active period. As it is independent from your clone and your capsule, an active Expert System is not lost on pod death or clone jump.\r\n\r\n<i>Expert Systems are a product developed by the PKN Interstellar consortium, made available over the HyperNet FTL communications network, and marketed by PKN Interstellar member corporations. An Expert System is a restricted AI based on artificial gelbrain technology. As the Expert System uses neural pathways based on those created by skill training or skill injection, it is compatible with capsule-ship interface and control systems. Real time command and control communication is achieved using dedicated FTL channels on PKN Interstellar's HyperNet.</i>",
+        "en": "<font size=\"14\"><b>AIR Soldier</b></font>\r\n\r\nThis Expert System is sponsored by the Association for Interdisciplinary Research (AIR) to allow new capsuleers to try out a variety of ships and activities before having to train the required skills. \r\n\r\nIt makes skills available that enable a capsuleer to fly all frigates from all four Empires, while its supporting skills make it especially useful when fighting against other capsuleers or providing support for your fleet. This Expert System includes skills related to armor, shields, missiles, drones, projectile turrets, hybrid turrets, energy turrets, electronic warfare modules, and remote assistance modules.\r\n\r\nAn Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active period. As it is independent from your clone and your capsule, an active Expert System is not lost on pod death or clone jump.\r\n\r\n<i>Expert Systems are a product developed by the PKN Interstellar consortium, made available over the HyperNet FTL communications network, and marketed by PKN Interstellar member corporations. An Expert System is a restricted AI based on artificial gelbrain technology. As the Expert System uses neural pathways based on those created by skill training or skill injection, it is compatible with capsule-ship interface and control systems. Real time command and control communication is achieved using dedicated FTL channels on PKN Interstellar's HyperNet.</i>",
         "it": ""
     },
     "599603": {
@@ -1064188,35 +1063880,35 @@
         "it": ""
     },
     "600460": {
-        "en": "SARO Pacifier",
+        "en": "Subduing Pacifier",
         "it": ""
     },
     "600462": {
-        "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+        "en": "A Pacifier-class frigate under the command of the Special Affairs for Regulations & Order (SARO).\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600464": {
-        "en": "SARO Skybreaker",
+        "en": "Detector Skybreaker",
         "it": ""
     },
     "600465": {
-        "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600466": {
-        "en": "SARO Nemesis",
+        "en": "Flashbang Nemesis",
         "it": ""
     },
     "600467": {
-        "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+        "en": "A Nemesis-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with sensor dampening capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600468": {
-        "en": "SARO Confessor",
+        "en": "Detainer Confessor",
         "it": ""
     },
     "600469": {
-        "en": "",
+        "en": "A Confessor-class destroyer under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600470": {
@@ -1064236,27 +1063928,27 @@
         "it": ""
     },
     "600474": {
-        "en": "SARO Curse",
+        "en": "Counter-Curse",
         "it": ""
     },
     "600475": {
-        "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600476": {
-        "en": "SARO Phobos",
+        "en": "Detainer Phobos",
         "it": ""
     },
     "600477": {
-        "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600478": {
-        "en": "SARO Talos",
+        "en": "Tactical Talos",
         "it": ""
     },
     "600479": {
-        "en": "Special Affairs for Regulations & Order (SARO) is an secretive elite branch of CONCORD's Directive Enforcement Department. Their officers are authorized to respond pre-emptively to all potential threats to their missions, up to and including firing on interlopers on sight.",
+        "en": "A Talos-class battlecruiser under the command of the Special Affairs for Regulations & Order (SARO). It is charged with keeping the peace through hostile action.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600480": {
@@ -1064951,10 +1064643,6 @@
         "en": "Blood Raider Altar",
         "it": ""
     },
-    "600866": {
-        "en": "{[numeric]currentPoints, useGrouping}/{[numeric]totalPoints, useGrouping}",
-        "it": ""
-    },
     "600869": {
         "en": "Blood Raider Structure Ruins",
         "it": ""
@@ -1065379,14 +1065067,6 @@
         "en": "Sensor Strength bonus",
         "it": ""
     },
-    "600980": {
-        "en": "Where will your path lead?",
-        "it": ""
-    },
-    "600981": {
-        "en": "{careerPath} Activities",
-        "it": ""
-    },
     "600983": {
         "en": "Signature Radius bonus",
         "it": ""
@@ -1065421,10 +1065101,6 @@
     },
     "600991": {
         "en": "La Fleur Inn Radiation Cloud",
-        "it": ""
-    },
-    "600994": {
-        "en": "{careerPath} Activities",
         "it": ""
     },
     "600997": {
@@ -1065493,10 +1065169,6 @@
     },
     "601042": {
         "en": "Men's Minmatar 'Rebellion' T-Shirt",
-        "it": ""
-    },
-    "601108": {
-        "en": "{minutes} min remaining",
         "it": ""
     },
     "601109": {
@@ -1065577,10 +1065249,6 @@
     },
     "601150": {
         "en": "This booster is distributed by underworld smugglers for use by their agents across New Eden.\r\n\r\n<b>-8% Missile Launcher Cycle Time\r\n-8 Seconds Missile Launcher Reload Time</b>\r\nBase Duration 2 hours.\r\n\r\nThis booster has been manufactured using volatile compounds and will expire on <b>July 12th YC124</b>.",
-        "it": ""
-    },
-    "601153": {
-        "en": "Aura Assistance",
         "it": ""
     },
     "601326": {
@@ -1067236,15 +1066904,15 @@
         "it": ""
     },
     "601761": {
-        "en": "I am sure that a capable Capsuleer like yourself does not need the basics of <url=helpPointer:neocom.map_beta>space travel</url> explaining to them.",
+        "en": "I am sure that a capable Capsuleer like yourself does not need the basics of <url=helpPointer:neocom.map_beta>space travel</url> explained to them.",
         "it": ""
     },
     "601762": {
-        "en": "I am sure that a capable Capsuleer like yourself does not need the basics of <url=helpPointer:neocom.map_beta>space travel</url> explaining to them.",
+        "en": "I am sure that a capable Capsuleer like yourself does not need the basics of <url=helpPointer:neocom.map_beta>space travel</url> explained to them.",
         "it": ""
     },
     "601763": {
-        "en": "I am sure that a capable Capsuleer like yourself does not need the basics of <url=helpPointer:neocom.map_beta>space travel</url> explaining to them.",
+        "en": "I am sure that a capable Capsuleer like yourself does not need the basics of <url=helpPointer:neocom.map_beta>space travel</url> explained to them.",
         "it": ""
     },
     "601764": {
@@ -1067768,7 +1067436,7 @@
         "it": ""
     },
     "601894": {
-        "en": "Modules like the <url=showinfo:530>Small Energy Nosferatu I</url> drain energy from the target ship and adds it to your own when your Capacitor level is lower than theirs. You may need to train the <url=showinfo:3423>Capacitor Emission Systems</url> skill to use one.",
+        "en": "Modules like the <url=showinfo:530>Small Energy Nosferatu I</url> drain energy from the target ship and add it to your own when your Capacitor level is lower than theirs. You may need to train the <url=showinfo:3423>Capacitor Emission Systems</url> skill to use one.",
         "it": ""
     },
     "601895": {
@@ -1068168,19 +1067836,19 @@
         "it": ""
     },
     "602021": {
-        "en": "Learn about Abyssal Deadspace",
+        "en": "Abyssal Deadspace",
         "it": ""
     },
     "602022": {
-        "en": "Learn about Abyssal Deadspace",
+        "en": "Abyssal Deadspace",
         "it": ""
     },
     "602023": {
-        "en": "Learn about Abyssal Deadspace",
+        "en": "Abyssal Deadspace",
         "it": ""
     },
     "602024": {
-        "en": "Learn about Abyssal Deadspace",
+        "en": "Abyssal Deadspace",
         "it": ""
     },
     "602025": {
@@ -1069159,14 +1068827,6 @@
         "en": "There's the scoundrel that destroyed our base! Get them alive if possible, I'd like to have a word with them in person.",
         "it": ""
     },
-    "602448": {
-        "en": "Completed",
-        "it": ""
-    },
-    "602449": {
-        "en": "{[numeric]progressValue, useGrouping} / {[numeric]targetValue, useGrouping,} Completed",
-        "it": ""
-    },
     "602466": {
         "en": "CONCORD Fleet Commander",
         "it": ""
@@ -1069281,10 +1068941,6 @@
     },
     "602495": {
         "en": "Helios Luminaire Rising SKIN",
-        "it": ""
-    },
-    "602537": {
-        "en": "Claim Rewards",
         "it": ""
     },
     "602562": {
@@ -1069509,14 +1069165,6 @@
     },
     "606789": {
         "en": "This proving ground event welcomes fleets of one individual capsuleer flying a basic T1 combat or attack cruiser.\r\nPilots equipped with modules, implants, and boosters with a meta level higher than <b>4</b> (T1 and named modules) will not be able to enter this proving ground.\r\nSensor dampeners, weapon disruptors, shield boost amplifiers, shield rechargers, shield power relays, shield flux coils, and core defense field purgers are banned in this proving format.\r\nShips entering this proving ground may have a maximum of <b>one</b> local repair module fitted (shield or armor).",
-        "it": ""
-    },
-    "606790": {
-        "en": "Back to Activities",
-        "it": ""
-    },
-    "606791": {
-        "en": "Back to Careers",
         "it": ""
     },
     "606792": {
@@ -1070111,24 +1069759,12 @@
         "en": "Narcotics Warehouse",
         "it": ""
     },
-    "609696": {
-        "en": "Reward Bundle",
-        "it": ""
-    },
     "609697": {
         "en": "Developer Subcapital Unlock ES",
         "it": ""
     },
     "609698": {
         "en": "Not-For-Sale Expert System\r\n\r\nThe signal from this remote AI access key is weakly streaming from unknown deep space in the region of Paragon Soul. The data stream contains an overwhelming amount of information, a flood of partial memories of thousands of ship captains. The data rapidly burns out any who tap into it and so can only be used for a short time. The source of this immense reservoir of data, and the purpose for its broadcast, remain unknown.\r\n\r\nDeveloper unlock of all sub-capital ships, modules and associated weapon systems.",
-        "it": ""
-    },
-    "609699": {
-        "en": "{[numeric]quantity}x items in bundle",
-        "it": ""
-    },
-    "609702": {
-        "en": "Aura Assistance",
         "it": ""
     },
     "609724": {
@@ -1070529,10 +1070165,6 @@
     },
     "609861": {
         "en": "The blazing orange-gold dawn of Luminaire over the mountains of Gallente Prime shines from this nanocoating celebrating the birth of the Gallente Federation on its ancient home planet.",
-        "it": ""
-    },
-    "609862": {
-        "en": "Explore Careers, set your goals and claim rewards",
         "it": ""
     },
     "609868": {
@@ -1071041,26 +1070673,6 @@
     },
     "609994": {
         "en": "ParticleCloud 30km 02a",
-        "it": ""
-    },
-    "610001": {
-        "en": "Career Agent Missions",
-        "it": ""
-    },
-    "610002": {
-        "en": "Skill Plans",
-        "it": ""
-    },
-    "610003": {
-        "en": "If you are not following a Skill Plan already, you may consider training one.",
-        "it": ""
-    },
-    "610005": {
-        "en": "I recommend that you start with the career agent missions, since they teach you the core {careerPathName} career concepts.",
-        "it": ""
-    },
-    "610006": {
-        "en": "See {careerPathName} Skill Plans",
         "it": ""
     },
     "610011": {
@@ -1072015,14 +1071627,6 @@
         "en": "The Devout",
         "it": ""
     },
-    "610273": {
-        "en": "{[numeric]currentPoints, useGrouping}/{[numeric]totalPoints, useGrouping}",
-        "it": ""
-    },
-    "610274": {
-        "en": "There are still some extra activities left for you to complete",
-        "it": ""
-    },
     "610275": {
         "en": "refs1_t1b_environment_asset",
         "it": ""
@@ -1072059,10 +1071663,6 @@
         "en": "District Satellite",
         "it": ""
     },
-    "610446": {
-        "en": "Play Video",
-        "it": ""
-    },
     "610448": {
         "en": "Open in Window",
         "it": ""
@@ -1072085,10 +1071685,6 @@
     },
     "610501": {
         "en": "Reptile Pit Shipyard",
-        "it": ""
-    },
-    "610502": {
-        "en": "Claim All",
         "it": ""
     },
     "610503": {
@@ -1072871,10 +1072467,6 @@
         "en": "Expired",
         "it": ""
     },
-    "610801": {
-        "en": "Graduation Reward",
-        "it": ""
-    },
     "610802": {
         "en": "<i>This SKIN will be applied directly to your character's SKIN collection when redeemed, instead of being placed in your inventory.</i>\r\n\r\nThis nanocoating celebrates the Minmatar Liberation Games, with a pattern suggesting the arc of Pator's sunlight over the blue seas of the planet Matar. The symbolism evokes the unity of the tribes as one people born under the sun of Pator on life-giving Matar. The Liberation Games are a celebration of Minmatar freedom, memorial of the past, and reminder that defense of the Seven Tribes is the duty of all.",
         "it": ""
@@ -1073017,22 +1072609,6 @@
     },
     "610837": {
         "en": "Attacker Beacon - (Placeholder DNT)",
-        "it": ""
-    },
-    "610899": {
-        "en": "Overall Progress",
-        "it": ""
-    },
-    "610900": {
-        "en": "Earn additional Skill Point rewards by acquiring Career Points in any and all Careers:",
-        "it": ""
-    },
-    "610901": {
-        "en": "{[numeric]currentPoints, useGrouping}/{[numeric]totalPoints, useGrouping} Overall Career Points",
-        "it": ""
-    },
-    "610902": {
-        "en": "{[numeric]goalCp, useGrouping} CP: {[numeric]spCount, useGrouping} Skill Points",
         "it": ""
     },
     "610903": {
@@ -1073281,22 +1072857,6 @@
     },
     "611035": {
         "en": "Relentless close-quarters fighting at high speed",
-        "it": ""
-    },
-    "611036": {
-        "en": "AIR synchronization failed",
-        "it": ""
-    },
-    "611037": {
-        "en": "Please try again later",
-        "it": ""
-    },
-    "611038": {
-        "en": "Synchronize",
-        "it": ""
-    },
-    "611041": {
-        "en": "AIR Rewards Program currently unavailable\r\nPlease try again later",
         "it": ""
     },
     "611047": {
@@ -1073803,10 +1073363,6 @@
         "en": "Brand New AIR Career Program",
         "it": ""
     },
-    "611231": {
-        "en": "{careerName} Career Progress",
-        "it": ""
-    },
     "611233": {
         "en": "Minmatar-Gallente Border Traffic Monitoring",
         "it": ""
@@ -1073821,10 +1073377,6 @@
     },
     "611236": {
         "en": "Minmatar Border Outpost",
-        "it": ""
-    },
-    "611239": {
-        "en": "Check your redeeming queue for your reward",
         "it": ""
     },
     "611240": {
@@ -1078529,10 +1078081,6 @@
     },
     "629175": {
         "en": "This advanced training drone has been modified to simulate a hostile Guristas vessel for use in the Union Day capsuleer challenges.",
-        "it": ""
-    },
-    "629176": {
-        "en": "AIR Career Program",
         "it": ""
     },
     "629177": {
@@ -1088328,7 +1087876,7 @@
         "it": ""
     },
     "639221": {
-        "en": "Propaganda Broadcast Structures are deployable structures that increase advantage points in the system they are deployed in. They must be defended for a period of time in order to gain advantage points. You can buy Propaganda Broadcast Structures from your militia's LP Store.",
+        "en": "",
         "it": ""
     },
     "639222": {
@@ -1090047,20 +1089595,8 @@
         "en": "{tabName} Tab Columns",
         "it": ""
     },
-    "640186": {
-        "en": "Graduate this career to receive the rewards listed on the crate.",
-        "it": ""
-    },
     "640189": {
         "en": "Bestla",
-        "it": ""
-    },
-    "640355": {
-        "en": "Help Videos",
-        "it": ""
-    },
-    "640356": {
-        "en": "No videos available for the selected activity.",
         "it": ""
     },
     "640365": {
@@ -1093737,22 +1093273,6 @@
     },
     "642260": {
         "en": "Asteroid belts arise from the accumulation of dust particles into larger composites. The gravitational pull of the planets and moons in each system draws the accumulating mass together into deposits large enough to be profitably mined.\n\nIn the past, scientists shared their concerns about an overall reduction in the supply of raw resources, but in recent times, the discovery of additional ore in unknown sectors of space has alleviated this anxiety. There are some experts who have maintained all along, however, that the ongoing excavations on the frontiers of nullsec, where new belts are still being uncovered each day, has provided more than enough incoming ore to satisfy the industrialists of New Eden.",
-        "it": ""
-    },
-    "642308": {
-        "en": "Explorers can use probes to scan Cosmic Signatures which may contain hackable containers with items inside, resources like gas clouds or ore, wormholes to distant star systems, or combat sites.",
-        "it": ""
-    },
-    "642309": {
-        "en": "Industrialists can participate in mining ore, reprocessing minerals, salvaging destroyed ships, manufacturing items, market trading or transporting goods across New Eden.",
-        "it": ""
-    },
-    "642310": {
-        "en": "Enforcers can complete missions for Agents, hunt pirates for bounties, participate in Incursions or dive into Abyssal Deadspace in search of loot.",
-        "it": ""
-    },
-    "642311": {
-        "en": "Soldiers of Fortune focus on combat with other Capsuleers, participating in Faction Warfare, electronic warfare, hunting in covert ships, joining fleets to provide support or to fight in huge battles.",
         "it": ""
     },
     "642312": {
@@ -1103600,7 +1103120,7 @@
         "it": ""
     },
     "656030": {
-        "en": "Soldier of Fortune",
+        "en": "Soldier",
         "it": ""
     },
     "656031": {
@@ -1107208,7 +1106728,7 @@
         "it": ""
     },
     "660939": {
-        "en": "Opportunities for those focused on the Soldier of Fortune Career path or who are interested in combat against other capsuleers.",
+        "en": "Opportunities for those focused on the Soldier Career path or who are interested in combat against other capsuleers.",
         "it": ""
     },
     "660940": {
@@ -1116976,11 +1116496,11 @@
         "it": ""
     },
     "667177": {
-        "en": "You can access the AIR Career Program via your NEOCOM.",
+        "en": "You can access the Career Program via Achievements in your NEOCOM.",
         "it": ""
     },
     "667178": {
-        "en": "View your Redeem Items to see your newly awarded ISK.",
+        "en": "View the Rewards section to see your newly awarded ISK.",
         "it": ""
     },
     "667179": {
@@ -1116992,7 +1116512,7 @@
         "it": ""
     },
     "667181": {
-        "en": "The AIR Career Program will be there whenever you want to set yourself a goal or unlock more rewards. For now, you may close the window so that we can continue.",
+        "en": "The Career Program will be there whenever you want to set yourself a goal or unlock more rewards. For now, you may close the window so that we can continue.",
         "it": ""
     },
     "667185": {
@@ -1117128,11 +1116648,11 @@
         "it": ""
     },
     "669700": {
-        "en": "Close the ACP in order to proceed.",
+        "en": "Close Achievements in order to proceed.",
         "it": ""
     },
     "669701": {
-        "en": "The rewards you just claimed are available to Redeem.\r\n\r\nExit the program to proceed.",
+        "en": "Claimed rewards are directly delivered in one of three ways: directly to your item hangar if you are currently in flight, the hangar of your current station if you are docked, or your home station if you are flying and out of space in your item hangar.\r\n\r\nISK is delivered directly to your wallet.",
         "it": ""
     },
     "669702": {
@@ -1117384,7 +1116904,7 @@
         "it": ""
     },
     "669888": {
-        "en": "Soldiers of Fortune band together to fight other capsuleers in the lawless reaches beyond high security space.",
+        "en": "Soldiers band together to fight other capsuleers in the lawless reaches beyond high security space.",
         "it": ""
     },
     "669889": {
@@ -1117404,7 +1116924,7 @@
         "it": ""
     },
     "669893": {
-        "en": "As good as they are, it’ll take some time for my team to hack through the encryptions on the box. You might as well use this time to explore what New Eden has to offer. \r\n\r\nThe AIR Career Program will help you on your journey.",
+        "en": "As good as they are, it’ll take some time for my team to hack through the encryptions on the box. You might as well use this time to explore what New Eden has to offer. \r\n\r\nThe Career Program located inside of Paragons Achievement service will help you on your journey.",
         "it": ""
     },
     "669894": {
@@ -1127892,7 +1127412,7 @@
         "it": ""
     },
     "709539": {
-        "en": "Soldier of Fortune Career Crate",
+        "en": "Soldier Career Crate",
         "it": ""
     },
     "709540": {
@@ -1127924,7 +1127444,7 @@
         "it": ""
     },
     "709550": {
-        "en": "Soldier of Fortune Career Crate",
+        "en": "Soldier Career Crate",
         "it": ""
     },
     "709551": {
@@ -1132888,7 +1132408,7 @@
         "it": ""
     },
     "712850": {
-        "en": "Placeholder for help text for the Earn LP daily goal for Soldier of Fortune career",
+        "en": "Placeholder for help text for the Earn LP daily goal for Soldier career",
         "it": ""
     },
     "713191": {
@@ -1165828,7 +1165348,7 @@
         "it": ""
     },
     "1009127": {
-        "en": "Soldier of Fortune Starter Crate",
+        "en": "Soldier Starter Crate",
         "it": ""
     },
     "1009128": {
@@ -1166092,7 +1165612,7 @@
         "it": ""
     },
     "1009211": {
-        "en": "Soldier of Fortune Starter Crate",
+        "en": "Soldier Starter Crate",
         "it": ""
     },
     "1009212": {
@@ -1166212,11 +1165732,11 @@
         "it": ""
     },
     "1009280": {
-        "en": "Soldier of Fortune",
+        "en": "Soldier",
         "it": ""
     },
     "1009281": {
-        "en": "<font size=\"14\"><b>Soldier of Fortune Expert System</b></font>\r\n\r\nThis Expert System makes available skills enabling a capsuleer to fly various T1 Cruisers.\r\n\r\n<b>The temporary skills provided by this Expert System last for 7 days.</b>\r\n\r\nAn Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active rental period. As it is independent from your clone and your capsule, an active Expert System is not lost on pod death or clone jump.\r\n\r\n<font size=\"14\"><b>Activating an Expert System</b></font>\r\n\r\nActivation of an Expert System is automatic upon redemption of the item by the specific capsuleer intending to use the service.\r\n\r\n<i>Expert Systems are a product developed by the PKN Interstellar consortium, made available over the HyperNet FTL communications network, and marketed by PKN Interstellar member corporations. An Expert System is a restricted AI based on artificial gelbrain technology. As the Expert System uses neural pathways based on those created by skill training or skill injection, it is compatible with capsule-ship interface and control systems. Real time command and control communication is achieved using dedicated FTL channels on PKN Interstellar's HyperNet.</i>",
+        "en": "<font size=\"14\"><b>Soldier Expert System</b></font>\r\n\r\nThis Expert System makes available skills enabling a capsuleer to fly various T1 Cruisers.\r\n\r\n<b>The temporary skills provided by this Expert System last for 7 days.</b>\r\n\r\nAn Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active rental period. As it is independent from your clone and your capsule, an active Expert System is not lost on pod death or clone jump.\r\n\r\n<font size=\"14\"><b>Activating an Expert System</b></font>\r\n\r\nActivation of an Expert System is automatic upon redemption of the item by the specific capsuleer intending to use the service.\r\n\r\n<i>Expert Systems are a product developed by the PKN Interstellar consortium, made available over the HyperNet FTL communications network, and marketed by PKN Interstellar member corporations. An Expert System is a restricted AI based on artificial gelbrain technology. As the Expert System uses neural pathways based on those created by skill training or skill injection, it is compatible with capsule-ship interface and control systems. Real time command and control communication is achieved using dedicated FTL channels on PKN Interstellar's HyperNet.</i>",
         "it": ""
     },
     "1009283": {
@@ -1168623,10 +1168143,6 @@
         "en": "This crate contains a randomly selected Capsuleer Day XXII cerebral accelerator.",
         "it": ""
     },
-    "1010568": {
-        "en": "Locked",
-        "it": ""
-    },
     "1010591": {
         "en": "Insensate Pilum",
         "it": ""
@@ -1168655,16 +1168171,12 @@
         "en": "FinalBattleLowTierWaveHard2 (DO NOT TRANSLATE)",
         "it": ""
     },
-    "1010610": {
-        "en": "AIR Career Program is currently unavailable, please try again later.",
-        "it": ""
-    },
     "1010611": {
         "en": "Freelance Jobs",
         "it": ""
     },
     "1010612": {
-        "en": "Freelance Jobs",
+        "en": "Corporation - Freelance Jobs",
         "it": ""
     },
     "1010613": {
@@ -1168833,10 +1168345,6 @@
     },
     "1010665": {
         "en": "<a href=showinfo:40665>Capital Energy Nosferatu</a> fitted to this ship will drain targeted ship's capacitor regardless of their signature radius",
-        "it": ""
-    },
-    "1010666": {
-        "en": "Upgrade to Claim",
         "it": ""
     },
     "1010716": {
@@ -1176683,18 +1176191,6 @@
         "en": "A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing.",
         "it": ""
     },
-    "1013619": {
-        "en": "Freelance Jobs",
-        "it": ""
-    },
-    "1013620": {
-        "en": "Take on rewarding jobs from capsuleer corporations. Earn rewards, gain experience, connect with others, and unlock new opportunities.",
-        "it": ""
-    },
-    "1013621": {
-        "en": "Open Freelance Jobs",
-        "it": ""
-    },
     "1013622": {
         "en": "Atomic Sheen Gloss",
         "it": ""
@@ -1177237,10 +1176733,6 @@
     },
     "1013842": {
         "en": "per month",
-        "it": ""
-    },
-    "1013843": {
-        "en": "Omega Reward",
         "it": ""
     },
     "1013854": {
@@ -1183720,7 +1183212,7 @@
         "it": ""
     },
     "1018525": {
-        "en": "Vanguard Points",
+        "en": "Vanguard Activity ",
         "it": ""
     },
     "1018526": {
@@ -1183728,7 +1183220,7 @@
         "it": ""
     },
     "1018527": {
-        "en": "Avalon Investigations: {[numeric]amount}",
+        "en": "SARO Black Sites: {[numeric]amount}",
         "it": ""
     },
     "1018528": {
@@ -1183868,7 +1183360,7 @@
         "it": ""
     },
     "1018597": {
-        "en": "As Vanguard finish Expeditions, they will progress this track, revealing additional Avalon Investigations each time it completes. \r\n\r\nLocation Avalon Investigations using the Universe Map. Track AEGIS Sqaulls in Investigation systems with your Directional Scanner or Combat Probes to uncover hidden sites.",
+        "en": "As Vanguard complete expeditions or contracts, they will progress this track, revealing SARO Black Sites.\r\n\r\nLocate SARO Black Sites using the Universe Map. Raid SARO Lockups, hack SARO Surveillance Outposts, and mine ore in SARO Ore Holdings to obtain items for empire campaigns.",
         "it": ""
     },
     "1018598": {
@@ -1183892,11 +1183384,11 @@
         "it": ""
     },
     "1018631": {
-        "en": "Operation Avalon",
+        "en": "SARO Black Sites",
         "it": ""
     },
     "1018632": {
-        "en": "Avalon Investigations, they can be revealed when the Vanguard have completed sufficient Expeditions.",
+        "en": "{[numeric]amount} {[numeric]amount -> \"SARO Black Sites\", \"SARO Black Sites\"} in system",
         "it": ""
     },
     "1018633": {
@@ -1184104,7 +1183596,7 @@
         "it": ""
     },
     "1018775": {
-        "en": "{[numeric]amount} {[numeric]amount -> \"Avalon Investigation\", \"Avalon Investigations\"} in system",
+        "en": "{[numeric]amount} {[numeric]amount -> \"SARO Black Site\", \"SARO Black Sites\"} in system",
         "it": ""
     },
     "1018779": {
@@ -1184440,7 +1183932,7 @@
         "it": ""
     },
     "1018931": {
-        "en": "Upwell convoy located",
+        "en": "SARO Black Sites revealed",
         "it": ""
     },
     "1018932": {
@@ -1184468,11 +1183960,11 @@
         "it": ""
     },
     "1018938": {
-        "en": "Upwell convoy located",
+        "en": "SARO Black Sites revealed",
         "it": ""
     },
     "1018939": {
-        "en": "An Upwell convoy has been located near your location. Hunt and destroy them to collect intel and rewards.",
+        "en": "SARO Black Sites have been revealed near your location. Raid SARO Lockups, hack SARO Surveillance Outposts, and mine ore in SARO Ore Holdings to obtain items for empire campaigns.",
         "it": ""
     },
     "1018940": {
@@ -1202780,7 +1202272,7 @@
         "it": ""
     },
     "1034347": {
-        "en": "Dragoon Navy Issue Corporation Emblem ",
+        "en": "Gnosis Friendship League SKIN",
         "it": ""
     },
     "1034348": {
@@ -1203144,7 +1202636,7 @@
         "it": ""
     },
     "1034694": {
-        "en": "Imperial Electronics Booster I",
+        "en": "Expired Imperial Electronics Booster I",
         "it": ""
     },
     "1034695": {
@@ -1203156,7 +1202648,7 @@
         "it": ""
     },
     "1034718": {
-        "en": "State Electronics Booster I",
+        "en": "Expired State Electronics Booster I",
         "it": ""
     },
     "1034719": {
@@ -1203164,7 +1202656,7 @@
         "it": ""
     },
     "1034720": {
-        "en": "Federation Electronics Booster I",
+        "en": "Expired Federation Electronics Booster I",
         "it": ""
     },
     "1034721": {
@@ -1203172,7 +1202664,7 @@
         "it": ""
     },
     "1034722": {
-        "en": "Republic Electronics Booster I",
+        "en": "Expired Republic Electronics Booster I",
         "it": ""
     },
     "1034723": {
@@ -1203180,7 +1202672,7 @@
         "it": ""
     },
     "1034724": {
-        "en": "Republic Electronics Booster II",
+        "en": "Expired Republic Electronics Booster II",
         "it": ""
     },
     "1034725": {
@@ -1203188,7 +1202680,7 @@
         "it": ""
     },
     "1034726": {
-        "en": "Republic Electronics Booster III",
+        "en": "Expired Republic Electronics Booster III",
         "it": ""
     },
     "1034727": {
@@ -1203196,7 +1202688,7 @@
         "it": ""
     },
     "1034728": {
-        "en": "Federation Electronics Booster II",
+        "en": "Expired Federation Electronics Booster II",
         "it": ""
     },
     "1034729": {
@@ -1203204,7 +1202696,7 @@
         "it": ""
     },
     "1034730": {
-        "en": "Federation Electronics Booster III",
+        "en": "Expired Federation Electronics Booster III",
         "it": ""
     },
     "1034731": {
@@ -1203212,7 +1202704,7 @@
         "it": ""
     },
     "1034732": {
-        "en": "State Electronics Booster II",
+        "en": "Expired State Electronics Booster II",
         "it": ""
     },
     "1034733": {
@@ -1203220,7 +1202712,7 @@
         "it": ""
     },
     "1034734": {
-        "en": "State Electronics Booster III",
+        "en": "Expired State Electronics Booster III",
         "it": ""
     },
     "1034735": {
@@ -1203228,7 +1202720,7 @@
         "it": ""
     },
     "1034736": {
-        "en": "Imperial Electronics Booster II",
+        "en": "Expired Imperial Electronics Booster II",
         "it": ""
     },
     "1034737": {
@@ -1203236,7 +1202728,7 @@
         "it": ""
     },
     "1034738": {
-        "en": "Imperial Electronics Booster III",
+        "en": "Expired Imperial Electronics Booster III",
         "it": ""
     },
     "1034739": {
@@ -1203248,7 +1202740,7 @@
         "it": ""
     },
     "1034751": {
-        "en": "Imperial Defense Booster I",
+        "en": "Expired Imperial Defense Booster I",
         "it": ""
     },
     "1034752": {
@@ -1203268,7 +1202760,7 @@
         "it": ""
     },
     "1034788": {
-        "en": "State Defense Booster I",
+        "en": "Expired State Defense Booster I",
         "it": ""
     },
     "1034789": {
@@ -1203276,7 +1202768,7 @@
         "it": ""
     },
     "1034790": {
-        "en": "Federation Defense Booster I",
+        "en": "Expired Federation Defense Booster I",
         "it": ""
     },
     "1034791": {
@@ -1203284,7 +1202776,7 @@
         "it": ""
     },
     "1034792": {
-        "en": "Republic Defense Booster I",
+        "en": "Expired Republic Defense Booster I",
         "it": ""
     },
     "1034793": {
@@ -1203308,7 +1202800,7 @@
         "it": ""
     },
     "1034843": {
-        "en": "Imperial Defense Booster II",
+        "en": "Expired Imperial Defense Booster II",
         "it": ""
     },
     "1034844": {
@@ -1203316,7 +1202808,7 @@
         "it": ""
     },
     "1034845": {
-        "en": "Imperial Defense Booster III",
+        "en": "Expired Imperial Defense Booster III",
         "it": ""
     },
     "1034846": {
@@ -1203324,7 +1202816,7 @@
         "it": ""
     },
     "1034847": {
-        "en": "State Defense Booster II",
+        "en": "Expired State Defense Booster II ",
         "it": ""
     },
     "1034848": {
@@ -1203332,7 +1202824,7 @@
         "it": ""
     },
     "1034849": {
-        "en": "State Defense Booster III",
+        "en": "Expired State Defense Booster III",
         "it": ""
     },
     "1034850": {
@@ -1203340,7 +1202832,7 @@
         "it": ""
     },
     "1034851": {
-        "en": "Federation Defense Booster III",
+        "en": "Expired Federation Defense Booster III",
         "it": ""
     },
     "1034852": {
@@ -1203348,7 +1202840,7 @@
         "it": ""
     },
     "1034853": {
-        "en": "Federation Defense Booster II",
+        "en": "Expired Federation Defense Booster II",
         "it": ""
     },
     "1034854": {
@@ -1203356,7 +1202848,7 @@
         "it": ""
     },
     "1034855": {
-        "en": "Republic Defense Booster II",
+        "en": "Expired Republic Defense Booster II",
         "it": ""
     },
     "1034856": {
@@ -1203364,7 +1202856,7 @@
         "it": ""
     },
     "1034857": {
-        "en": "Republic Defense Booster III",
+        "en": "Expired Republic Defense Booster III",
         "it": ""
     },
     "1034858": {
@@ -1203372,7 +1202864,7 @@
         "it": ""
     },
     "1034859": {
-        "en": "Imperial Mobility Booster I",
+        "en": "Expired Imperial Mobility Booster I",
         "it": ""
     },
     "1034860": {
@@ -1203384,7 +1202876,7 @@
         "it": ""
     },
     "1034862": {
-        "en": "State Mobility Booster I",
+        "en": "Expired State Mobility Booster I",
         "it": ""
     },
     "1034863": {
@@ -1203392,7 +1202884,7 @@
         "it": ""
     },
     "1034864": {
-        "en": "Federation Mobility Booster I",
+        "en": "Expired Federation Mobility Booster I",
         "it": ""
     },
     "1034865": {
@@ -1203400,7 +1202892,7 @@
         "it": ""
     },
     "1034866": {
-        "en": "Republic Mobility Booster I",
+        "en": "Expired Republic Mobility Booster I",
         "it": ""
     },
     "1034867": {
@@ -1203408,7 +1202900,7 @@
         "it": ""
     },
     "1034868": {
-        "en": "Imperial Mobility Booster III",
+        "en": "Expired Imperial Mobility Booster III",
         "it": ""
     },
     "1034869": {
@@ -1203416,7 +1202908,7 @@
         "it": ""
     },
     "1034870": {
-        "en": "Imperial Mobility Booster II",
+        "en": "Expired Imperial Mobility Booster II",
         "it": ""
     },
     "1034871": {
@@ -1203424,7 +1202916,7 @@
         "it": ""
     },
     "1034872": {
-        "en": "State Mobility Booster II",
+        "en": "Expired State Mobility Booster II",
         "it": ""
     },
     "1034873": {
@@ -1203432,7 +1202924,7 @@
         "it": ""
     },
     "1034874": {
-        "en": "State Mobility Booster III",
+        "en": "Expired State Mobility Booster III",
         "it": ""
     },
     "1034875": {
@@ -1203440,7 +1202932,7 @@
         "it": ""
     },
     "1034882": {
-        "en": "Federation Mobility Booster II",
+        "en": "Expired Federation Mobility Booster II",
         "it": ""
     },
     "1034883": {
@@ -1203448,7 +1202940,7 @@
         "it": ""
     },
     "1034884": {
-        "en": "Federation Mobility Booster III",
+        "en": "Expired Federation Mobility Booster III",
         "it": ""
     },
     "1034885": {
@@ -1203456,7 +1202948,7 @@
         "it": ""
     },
     "1034886": {
-        "en": "Republic Mobility Booster II",
+        "en": "Expired Republic Mobility Booster II",
         "it": ""
     },
     "1034887": {
@@ -1203464,7 +1202956,7 @@
         "it": ""
     },
     "1034888": {
-        "en": "Republic Mobility Booster III",
+        "en": "Expired Republic Mobility Booster III",
         "it": ""
     },
     "1034889": {
@@ -1203472,7 +1202964,7 @@
         "it": ""
     },
     "1034890": {
-        "en": "Imperial Hardpoint Booster I",
+        "en": "Expired Imperial Hardpoint Booster I",
         "it": ""
     },
     "1034891": {
@@ -1203484,7 +1202976,7 @@
         "it": ""
     },
     "1034893": {
-        "en": "State Hardpoint Booster I",
+        "en": "Expired State Hardpoint Booster I",
         "it": ""
     },
     "1034894": {
@@ -1203492,7 +1202984,7 @@
         "it": ""
     },
     "1034895": {
-        "en": "Federation Hardpoint Booster I",
+        "en": "Expired Federation Hardpoint Booster I",
         "it": ""
     },
     "1034896": {
@@ -1203500,7 +1202992,7 @@
         "it": ""
     },
     "1034897": {
-        "en": "Republic Hardpoint Booster I",
+        "en": "Expired Republic Hardpoint Booster I",
         "it": ""
     },
     "1034898": {
@@ -1203508,7 +1203000,7 @@
         "it": ""
     },
     "1034905": {
-        "en": "Imperial Hardpoint Booster II",
+        "en": "Expired Imperial Hardpoint Booster II",
         "it": ""
     },
     "1034906": {
@@ -1203516,7 +1203008,7 @@
         "it": ""
     },
     "1034907": {
-        "en": "Imperial Hardpoint Booster III",
+        "en": "Expired Imperial Hardpoint Booster III",
         "it": ""
     },
     "1034908": {
@@ -1203524,7 +1203016,7 @@
         "it": ""
     },
     "1034909": {
-        "en": "State Hardpoint Booster II",
+        "en": "Expired State Hardpoint Booster II",
         "it": ""
     },
     "1034910": {
@@ -1203532,7 +1203024,7 @@
         "it": ""
     },
     "1034911": {
-        "en": "State Hardpoint Booster III",
+        "en": "Expired State Hardpoint Booster III",
         "it": ""
     },
     "1034912": {
@@ -1203540,7 +1203032,7 @@
         "it": ""
     },
     "1034913": {
-        "en": "Federation Hardpoint Booster II",
+        "en": "Expired Federation Hardpoint Booster II",
         "it": ""
     },
     "1034914": {
@@ -1203548,7 +1203040,7 @@
         "it": ""
     },
     "1034915": {
-        "en": "Federation Hardpoint Booster III",
+        "en": "Expired Federation Hardpoint Booster III",
         "it": ""
     },
     "1034916": {
@@ -1203556,7 +1203048,7 @@
         "it": ""
     },
     "1034917": {
-        "en": "Republic Hardpoint Booster II",
+        "en": "Expired Republic Hardpoint Booster II",
         "it": ""
     },
     "1034918": {
@@ -1203564,7 +1203056,7 @@
         "it": ""
     },
     "1034919": {
-        "en": "Republic Hardpoint Booster III",
+        "en": "Expired Republic Hardpoint Booster III",
         "it": ""
     },
     "1034920": {
@@ -1206996,7 +1206488,7 @@
         "it": ""
     },
     "1036443": {
-        "en": "Guristas Info Siphon",
+        "en": "Guristas Info Shard S",
         "it": ""
     },
     "1036444": {
@@ -1208496,67 +1207988,67 @@
         "it": ""
     },
     "1037358": {
-        "en": "Raspite X-Grade",
+        "en": "Flawed Raspite",
         "it": ""
     },
     "1037359": {
-        "en": "This variant of Raspite ore is especially prized by Amarr engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Empire needed them.\r\n\r\nUnlike regular Raspite ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92569>Crystalline Raspite</a>, which is valuable to the Amarr Empire.",
+        "en": "This variant of Raspite ore is especially prized by Amarr engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Empire needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92569>Flawed Crystalline Raspite</a>.",
         "it": ""
     },
     "1037360": {
-        "en": "Polycrase X-Grade",
+        "en": "Flawed Polycrase",
         "it": ""
     },
     "1037361": {
-        "en": "This variant of Polycrase ore is especially prized by Caldari engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the State needed them.\r\n\r\nUnlike regular Polycrase ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92570>Crystalline Polycrase</a>, which is valuable to the Caldari State.",
+        "en": "This variant of Polycrase ore is especially prized by Caldari engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the State needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92570>Flawed Crystalline Polycrase</a>.",
         "it": ""
     },
     "1037362": {
-        "en": "Moissanite X-Grade",
+        "en": "Flawed Moissanite",
         "it": ""
     },
     "1037363": {
-        "en": "This variant of Moissanite ore is especially prized by Gallente engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Federation needed them.\r\n\r\nUnlike regular Moissanite ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92571>Crystalline Moissanite</a>, which is valuable to the Gallente Federation.",
+        "en": "This variant of Moissanite ore is especially prized by Gallente engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Federation needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92571>Flawed Crystalline Moissanite</a>.",
         "it": ""
     },
     "1037364": {
-        "en": "Kangite X-Grade",
+        "en": "Flawed Kangite",
         "it": ""
     },
     "1037365": {
-        "en": "This variant of Kangite ore is especially prized by Minmatar engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Republic needed them.\r\n\r\nUnlike regular Kangite ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92572>Crystalline Kangite</a>, which is valuable to the Minmatar Republic.\r\n",
+        "en": "This variant of Kangite ore is especially prized by Minmatar engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Republic needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92572>Flawed Crystalline Kangite</a>.",
         "it": ""
     },
     "1037366": {
-        "en": "Crystalline Raspite",
+        "en": "Flawed Crystalline Raspite",
         "it": ""
     },
     "1037367": {
-        "en": "The crystalline residue of reprocessed Raspite.\r\n\r\nThe Amarr Empire will reward Capsuleers who bring this mineral to their Trade-In transport outside the Amarr Navy Anchorage Station located in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "The crystalline residue of reprocessed Raspite.\r\n\r\nThese crystals are deeply flawed and have no further use.",
         "it": ""
     },
     "1037368": {
-        "en": "Crystalline Polycrase",
+        "en": "Flawed Crystalline Polycrase",
         "it": ""
     },
     "1037369": {
-        "en": "The crystalline residue of reprocessed Polycrase.\r\n\r\nThe Caldari State will reward Capsuleers who bring this mineral to their Trade-In transport outside the Caldari Navy Anchorage Station located in <url=showinfo:5//30045324>Onnamon</url>.",
+        "en": "The crystalline residue of reprocessed Polycrase.\r\n\r\nThese crystals are deeply flawed and have no further use.",
         "it": ""
     },
     "1037370": {
-        "en": "Crystalline Moissanite",
+        "en": "Flawed Crystalline Moissanite",
         "it": ""
     },
     "1037371": {
-        "en": "The crystalline residue of reprocessed Moissanite.\r\n\r\nThe Gallente Federation will reward Capsuleers who bring this mineral to their Trade-In transport outside the Gallente Federation Anchorage Station located in <url=showinfo:5//30003788>Intaki</url>.",
+        "en": "The crystalline residue of reprocessed Moissanite.\r\n\r\nThese crystals are deeply flawed and have no further use.",
         "it": ""
     },
     "1037372": {
-        "en": "Crystalline Kangite",
+        "en": "Flawed Crystalline Kangite",
         "it": ""
     },
     "1037373": {
-        "en": "The crystalline residue of reprocessed Kangite.\r\n\r\nThe Minmatar Republic will reward Capsuleers who bring this mineral to their Trade-In transport outside the Republic Fleet Anchorage Station located in <url=showinfo:5//30002055>Amo</url>.",
+        "en": "The crystalline residue of reprocessed Kangite.\r\n\r\nThese crystals are deeply flawed and have no further use.",
         "it": ""
     },
     "1037374": {
@@ -1209147,18 +1208639,6 @@
         "en": "Placeholder",
         "it": ""
     },
-    "1037684": {
-        "en": "Kill NPCs",
-        "it": ""
-    },
-    "1037685": {
-        "en": "Describing how to kill NPCs",
-        "it": ""
-    },
-    "1037686": {
-        "en": "Describing how to progress at killing NPCs",
-        "it": ""
-    },
     "1037687": {
         "en": "NPC",
         "it": ""
@@ -1209176,7 +1208656,7 @@
         "it": ""
     },
     "1037691": {
-        "en": "Destroy Players",
+        "en": "Destroy Capsuleers",
         "it": ""
     },
     "1037692": {
@@ -1209184,7 +1208664,7 @@
         "it": ""
     },
     "1037693": {
-        "en": "Capsuleer Destroyed",
+        "en": "capsuleers destroyed",
         "it": ""
     },
     "1037694": {
@@ -1209193,18 +1208673,6 @@
     },
     "1037695": {
         "en": "Description of a ship class",
-        "it": ""
-    },
-    "1037696": {
-        "en": "Lose ships",
-        "it": ""
-    },
-    "1037697": {
-        "en": "Loose ships sink lips",
-        "it": ""
-    },
-    "1037698": {
-        "en": "Description of how to progress at losing ships",
         "it": ""
     },
     "1037699": {
@@ -1209283,18 +1208751,6 @@
         "en": "Construction Site",
         "it": ""
     },
-    "1037733": {
-        "en": "Visit Systems",
-        "it": ""
-    },
-    "1037734": {
-        "en": "Description for visiting systems",
-        "it": ""
-    },
-    "1037735": {
-        "en": "Description about how to progress at visiting systems",
-        "it": ""
-    },
     "1037736": {
         "en": "Achievement",
         "it": ""
@@ -1209304,7 +1208760,7 @@
         "it": ""
     },
     "1037738": {
-        "en": "Achievement Completed",
+        "en": "achievements completed",
         "it": ""
     },
     "1037739": {
@@ -1210284,35 +1209740,35 @@
         "it": ""
     },
     "1038238": {
-        "en": "Compressed Raspite X-Grade",
+        "en": "Compressed Flawed Raspite",
         "it": ""
     },
     "1038239": {
-        "en": "This variant of Raspite ore is especially prized by Amarr engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Empire needed them.\r\n\r\nUnlike regular Raspite ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92569>Crystalline Raspite</a>, which is valuable to the Amarr Empire.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
+        "en": "This variant of Raspite ore is especially prized by Amarr engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Empire needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92569>Flawed Crystalline Raspite</a>.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
         "it": ""
     },
     "1038240": {
-        "en": "Compressed Polycrase X-Grade",
+        "en": "Compressed Flawed Polycrase",
         "it": ""
     },
     "1038241": {
-        "en": "This variant of Polycrase ore is especially prized by Caldari engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the State needed them.\r\n\r\nUnlike regular Polycrase ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92570>Crystalline Polycrase</a>, which is valuable to the Caldari State.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
+        "en": "This variant of Polycrase ore is especially prized by Caldari engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the State needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92570>Flawed Crystalline Polycrase</a>.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
         "it": ""
     },
     "1038242": {
-        "en": "Compressed Moissanite X-Grade",
+        "en": "Compressed Flawed Moissanite",
         "it": ""
     },
     "1038243": {
-        "en": "This variant of Moissanite ore is especially prized by Gallente engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Federation needed them.\r\n\r\nUnlike regular Moissanite ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92571>Crystalline Moissanite</a>, which is valuable to the Gallente Federation.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
+        "en": "This variant of Moissanite ore is especially prized by Gallente engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Federation needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92571>Flawed Crystalline Moissanite</a>.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
         "it": ""
     },
     "1038244": {
-        "en": "Compressed Kangite X-Grade",
+        "en": "Compressed Flawed Kangite",
         "it": ""
     },
     "1038245": {
-        "en": "This variant of Kangite ore is especially prized by Minmatar engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Republic needed them.\r\n\r\nUnlike regular Kangite ore, X-Grade is more stable and can be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92572>Crystalline Kangite</a>, which is valuable to the Minmatar Republic.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
+        "en": "This variant of Kangite ore is especially prized by Minmatar engineers for use in large-scale construction projects. Deposits have been held in reserve until such a time as the Republic needed them. Unfortunately, the crystals within this asteroid are flawed and have limited value although It can still be reprocessed without specialized equipment into <a href=showinfo:34>Tritanium</a> and <a href=showinfo:35>Pyerite</a>, as well as providing <a href=showinfo:92572>Flawed Crystalline Kangite</a>.\r\n\r\nThis material is compressed and a much more compact form of the original material.",
         "it": ""
     },
     "1038246": {
@@ -1210460,11 +1209916,11 @@
         "it": ""
     },
     "1038389": {
-        "en": "Contested Sanctified FRF ELT-5",
+        "en": "Amarr Sanctified FRF ELT-5",
         "it": ""
     },
     "1038391": {
-        "en": "Contested Sanctified FRF ELT-5",
+        "en": "Amarr Sanctified FRF ELT-5",
         "it": ""
     },
     "1038399": {
@@ -1212288,7 +1211744,7 @@
         "it": ""
     },
     "1039170": {
-        "en": "FW Complex - Contested FRF ELT-5 - Attacker Spawner (DO NOT TRANSLATE)",
+        "en": "FW Complex - Contested FRF ELT-10 - Attacker Spawner (DO NOT TRANSLATE)",
         "it": ""
     },
     "1039173": {
@@ -1212544,15 +1212000,15 @@
         "it": ""
     },
     "1039263": {
-        "en": "Contested Eyrie FRF ELT-5",
+        "en": "Caldari Eyrie FRF ELT-5",
         "it": ""
     },
     "1039264": {
-        "en": "Contested Eyrie FRF ELT-5",
+        "en": "Caldari Eyrie FRF ELT-5",
         "it": ""
     },
     "1039265": {
-        "en": "Contested Rogue FRF ELT-5",
+        "en": "Gallente Rogue FRF ELT-5",
         "it": ""
     },
     "1039266": {
@@ -1212560,7 +1212016,7 @@
         "it": ""
     },
     "1039267": {
-        "en": "Contested Rogue FRF ELT-5",
+        "en": "Gallente Rogue FRF ELT-5",
         "it": ""
     },
     "1039268": {
@@ -1212568,11 +1212024,11 @@
         "it": ""
     },
     "1039269": {
-        "en": "Contested Liberated FRF ELT-5",
+        "en": "Minmatar Liberated FRF ELT-5",
         "it": ""
     },
     "1039270": {
-        "en": "Contested Liberated FRF ELT-5",
+        "en": "Minmatar Liberated FRF ELT-5",
         "it": ""
     },
     "1039271": {
@@ -1212956,27 +1212412,27 @@
         "it": ""
     },
     "1039457": {
-        "en": "Prototype 'Pluto' Mining Drone",
+        "en": "'Pluto' Mining Drone",
         "it": ""
     },
     "1039458": {
-        "en": "A prototype drone developed by CreoDron based on ORE's 'Excavator' mining drone design by incorporating experimental rogue drone technology. The harvesting protocols have been altered to behave much more like a Rogue Drone would when salvaging and recycling materials to be brought back to a rogue drone hive. The result is a far more efficient mining process creating less residue, albeit a slower one resulting in lower mining yields over time. \r\n\r\nCurrently this drone is unsuitable for mass production due to a high rejection rate with the rogue drone technology. CreoDron is hoping to improve their understanding of this process from knowledge gained from the Gallente Federation Military Campaign operation 'Rogue Edge'.",
+        "en": "Developed by CreoDron, this drone has integrated Rogue Drone advancements. These integrations have resulted in an intelligent meticulousness, greatly reducing residue waste at the cost of slower mining cycles.\r\n\r\nThe Rogue Drone integration is the result of the Gallente Federation’s successful Rogue Edge research campaign. 17,129 capsuleers contributed towards the campaign during its duration.",
         "it": ""
     },
     "1039459": {
-        "en": "Prototype 'Pluto' Mining Drone Blueprint",
+        "en": "'Pluto' Mining Drone Blueprint",
         "it": ""
     },
     "1039460": {
-        "en": "Prototype 'Pluto' Ice Harvesting Drone",
+        "en": "'Pluto' Ice Harvesting Drone",
         "it": ""
     },
     "1039461": {
-        "en": "A prototype drone developed by CreoDron based on ORE's 'Excavator' mining drone design by incorporating experimental rogue drone technology. The harvesting protocols have been altered to behave much more like a Rogue Drone would when salvaging and recycling materials to be brought back to a rogue drone hive. The result is a far more efficient mining process creating less residue, albeit a slower one resulting in lower mining yields over time. \r\n\r\nCurrently this drone is unsuitable for mass production due to a high rejection rate with the rogue drone technology. CreoDron is hoping to improve their understanding of this process from knowledge gained from the Gallente Federation Military Campaign operation 'Rogue Edge'.",
+        "en": "An Ice harvesting variant of the 'Pluto” Mining Drone.\r\n\r\nDeveloped by CreoDron, this drone has integrated Rogue Drone advancements. These integrations have resulted in an intelligent meticulousness, greatly reducing residue waste at the cost of slower mining cycles.\r\n\r\nThe Rogue Drone integration is the result of the Gallente Federation’s successful Rogue Edge research campaign. 17,129 capsuleers contributed towards the campaign during its duration.",
         "it": ""
     },
     "1039462": {
-        "en": "Prototype 'Pluto' Ice Harvesting Drone Blueprint",
+        "en": "'Pluto' Ice Harvesting Drone Blueprint",
         "it": ""
     },
     "1039463": {
@@ -1213412,7 +1212868,7 @@
         "it": ""
     },
     "1039647": {
-        "en": "HoR Crow",
+        "en": "Expired Imperial Defense Booster II",
         "it": ""
     },
     "1039648": {
@@ -1214328,7 +1213784,7 @@
         "it": ""
     },
     "1040049": {
-        "en": "Enlist With Faction",
+        "en": "Enlistment",
         "it": ""
     },
     "1040052": {
@@ -1215156,11 +1214612,11 @@
         "it": ""
     },
     "1040364": {
-        "en": "Reward for reaching [achievement_name} achievement milestone",
+        "en": "Reward for reaching an achievement milestone",
         "it": ""
     },
     "1040365": {
-        "en": "Reward for reaching {category_name} achievement category milestone",
+        "en": "Reward for reaching an achievement category milestone",
         "it": ""
     },
     "1040409": {
@@ -1217096,7 +1216552,7 @@
         "it": ""
     },
     "1041178": {
-        "en": "State Directive - Unlimited",
+        "en": "PL_PointLight_Green_01a",
         "it": ""
     },
     "1041179": {
@@ -1218224,7 +1217680,7 @@
         "it": ""
     },
     "1041583": {
-        "en": "Jump stargates",
+        "en": "Jump Stargates",
         "it": ""
     },
     "1041584": {
@@ -1218232,7 +1217688,7 @@
         "it": ""
     },
     "1041585": {
-        "en": "Gate Jumped",
+        "en": "gates jumped",
         "it": ""
     },
     "1041586": {
@@ -1218556,7 +1218012,7 @@
         "it": ""
     },
     "1041778": {
-        "en": "Imperial War Reserves Supply Package",
+        "en": "Talman’s Ashimmu",
         "it": ""
     },
     "1041779": {
@@ -1218852,7 +1218308,7 @@
         "it": ""
     },
     "1041878": {
-        "en": "Supplies: Battle of Pator",
+        "en": "Talman’s Ashimmu",
         "it": ""
     },
     "1041884": {
@@ -1219436,7 +1218892,7 @@
         "it": ""
     },
     "1042092": {
-        "en": "Solar System Visited",
+        "en": "systems visited",
         "it": ""
     },
     "1042093": {
@@ -1219448,7 +1218904,7 @@
         "it": ""
     },
     "1042095": {
-        "en": "Enemy Capsuleer killed in Factional Warfare",
+        "en": "enemy capsuleers killed",
         "it": ""
     },
     "1042096": {
@@ -1219456,15 +1218912,15 @@
         "it": ""
     },
     "1042097": {
-        "en": "Lose Ships",
+        "en": "Lose Ships (PVP)",
         "it": ""
     },
     "1042098": {
-        "en": "Lose a ship while in battle",
+        "en": "Lose a ship while in battle against other capsuleers",
         "it": ""
     },
     "1042099": {
-        "en": "Ship lost",
+        "en": "ships lost",
         "it": ""
     },
     "1042100": {
@@ -1219536,7 +1218992,7 @@
         "it": ""
     },
     "1042122": {
-        "en": "Industry Job Completed",
+        "en": "jobs completed",
         "it": ""
     },
     "1042125": {
@@ -1219704,7 +1219160,7 @@
         "it": ""
     },
     "1042172": {
-        "en": "Mission Completed",
+        "en": "missions completed",
         "it": ""
     },
     "1042173": {
@@ -1219716,7 +1219172,7 @@
         "it": ""
     },
     "1042175": {
-        "en": "Mission Completed",
+        "en": "missions completed",
         "it": ""
     },
     "1042178": {
@@ -1219724,11 +1219180,11 @@
         "it": ""
     },
     "1042179": {
-        "en": "Complete an Epic Arc",
+        "en": "Complete Epic Arcs",
         "it": ""
     },
     "1042180": {
-        "en": "Epic Arc Completed",
+        "en": "epic arcs completed",
         "it": ""
     },
     "1042181": {
@@ -1219740,11 +1219196,11 @@
         "it": ""
     },
     "1042183": {
-        "en": "Epic Arc completed",
+        "en": "epic arcs completed",
         "it": ""
     },
     "1042184": {
-        "en": "Combat Sites Completed",
+        "en": "Complete Combat Sites",
         "it": ""
     },
     "1042185": {
@@ -1219752,7 +1219208,7 @@
         "it": ""
     },
     "1042186": {
-        "en": "Combat Site Completed",
+        "en": "combat sites completed",
         "it": ""
     },
     "1042187": {
@@ -1219764,7 +1219220,7 @@
         "it": ""
     },
     "1042189": {
-        "en": "Relic Site Completed",
+        "en": "relic sites completed",
         "it": ""
     },
     "1042190": {
@@ -1219776,11 +1219232,11 @@
         "it": ""
     },
     "1042192": {
-        "en": "Signature Scanned",
+        "en": "signatures scanned",
         "it": ""
     },
     "1042193": {
-        "en": "Complete Abyssal Run(s)",
+        "en": "Complete Abyssal Runs",
         "it": ""
     },
     "1042194": {
@@ -1219788,19 +1219244,19 @@
         "it": ""
     },
     "1042195": {
-        "en": "Abyssal site completed",
+        "en": "abyssal sites completed",
         "it": ""
     },
     "1042196": {
-        "en": "Spend ISK in the Regional Market",
+        "en": "Spend ISK on the Regional Market",
         "it": ""
     },
     "1042197": {
-        "en": "Spend ISK in the Regional Marketplace",
+        "en": "Spend ISK on the Regional Marketplace",
         "it": ""
     },
     "1042198": {
-        "en": "ISK Spent in Marketplace",
+        "en": "ISK spent",
         "it": ""
     },
     "1042199": {
@@ -1219812,19 +1219268,19 @@
         "it": ""
     },
     "1042201": {
-        "en": "ISK Earned on the Regional Marketplace",
+        "en": "ISK earned",
         "it": ""
     },
     "1042203": {
-        "en": "Submit Project Discovery Sample(s)",
+        "en": "Submit Project Discovery Samples",
         "it": ""
     },
     "1042204": {
-        "en": "Submit sample(s) for Project Discovery",
+        "en": "Submit samples for Project Discovery",
         "it": ""
     },
     "1042205": {
-        "en": "Project Discovery sample submitted",
+        "en": "samples submitted",
         "it": ""
     },
     "1042212": {
@@ -1219836,7 +1219292,7 @@
         "it": ""
     },
     "1042214": {
-        "en": "Wreck Salvaged",
+        "en": "wrecks salvaged",
         "it": ""
     },
     "1042215": {
@@ -1219848,11 +1219304,11 @@
         "it": ""
     },
     "1042217": {
-        "en": "Ore Reprocessed",
+        "en": "ore reprocessed",
         "it": ""
     },
     "1042218": {
-        "en": "Participate in Duel(s)",
+        "en": "Participate in Duels",
         "it": ""
     },
     "1042219": {
@@ -1219860,7 +1219316,7 @@
         "it": ""
     },
     "1042220": {
-        "en": "Capsuleer Dueled",
+        "en": "capsuleers dueled",
         "it": ""
     },
     "1042221": {
@@ -1219872,19 +1219328,19 @@
         "it": ""
     },
     "1042223": {
-        "en": "Site Entered",
+        "en": "sites entered",
         "it": ""
     },
     "1042224": {
-        "en": "Enter Specific Site(s)",
+        "en": "Enter Specific Sites",
         "it": ""
     },
     "1042225": {
-        "en": "Enter Specified Site(s)",
+        "en": "Enter Specified Sites",
         "it": ""
     },
     "1042226": {
-        "en": "Site Entered",
+        "en": "sites entered",
         "it": ""
     },
     "1042227": {
@@ -1219960,7 +1219416,7 @@
         "it": ""
     },
     "1042292": {
-        "en": "Expired Basic Capsuleer Day XXIII Glamourex Booster",
+        "en": "Conquest Glameroux Booster",
         "it": ""
     },
     "1042293": {
@@ -1220020,7 +1219476,7 @@
         "it": ""
     },
     "1042309": {
-        "en": "Deal the most damage to {[numeric]amount, useGrouping} Non-Capsuleers destroyed in high-sec",
+        "en": "Deal the most damage to {[numeric]amount, useGrouping} Non-Capsuleers destroyed in High-sec",
         "it": ""
     },
     "1042310": {
@@ -1220100,7 +1219556,7 @@
         "it": ""
     },
     "1042423": {
-        "en": "Deal the most damage to {[numeric]amount, useGrouping} Capsuleers destroyed in high-sec",
+        "en": "Deal the most damage to {[numeric]amount, useGrouping} Capsuleers destroyed in High-sec",
         "it": ""
     },
     "1042424": {
@@ -1220208,7 +1219664,7 @@
         "it": ""
     },
     "1042454": {
-        "en": "Earn {[numeric]amount, useGrouping} ISK from sales in the Regional Marketplace",
+        "en": "Earn {[numeric]amount, useGrouping} ISK from sales on the Regional Marketplace",
         "it": ""
     },
     "1042455": {
@@ -1221992,7 +1221448,7 @@
         "it": ""
     },
     "1043115": {
-        "en": "Item Types or Groups",
+        "en": "Item Types, Groups or Categories",
         "it": ""
     },
     "1043116": {
@@ -1222020,7 +1221476,7 @@
         "it": ""
     },
     "1043128": {
-        "en": "Data Site Completed",
+        "en": "sites completed",
         "it": ""
     },
     "1043129": {
@@ -1222028,11 +1221484,11 @@
         "it": ""
     },
     "1043130": {
-        "en": "Complete Data and Relic Sites to make progress",
+        "en": "Complete Data or Relic Sites to make progress",
         "it": ""
     },
     "1043131": {
-        "en": "Site completed",
+        "en": "sites completed",
         "it": ""
     },
     "1043132": {
@@ -1222452,7 +1221908,7 @@
         "it": ""
     },
     "1043284": {
-        "en": "Mission name(s)",
+        "en": "Mission names",
         "it": ""
     },
     "1043288": {
@@ -1222816,7 +1222272,7 @@
         "it": ""
     },
     "1043429": {
-        "en": "Stargate(s) to jump through",
+        "en": "Stargates to jump through",
         "it": ""
     },
     "1043430": {
@@ -1223072,7 +1222528,7 @@
         "it": ""
     },
     "1043547": {
-        "en": "Deimos Presidential Agent SKIN",
+        "en": "Complex Alpha",
         "it": ""
     },
     "1043548": {
@@ -1223144,7 +1222600,7 @@
         "it": ""
     },
     "1043571": {
-        "en": "Objectives Completed",
+        "en": "objectives completed",
         "it": ""
     },
     "1043572": {
@@ -1224176,7 +1223632,7 @@
         "it": ""
     },
     "1043978": {
-        "en": "Cradle of Freedom - Unlimited",
+        "en": "Talman’s Ashimmu",
         "it": ""
     },
     "1043979": {
@@ -1224872,7 +1224328,7 @@
         "it": ""
     },
     "1044327": {
-        "en": "Gather resources",
+        "en": "Gather Resources",
         "it": ""
     },
     "1044328": {
@@ -1224880,7 +1224336,7 @@
         "it": ""
     },
     "1044329": {
-        "en": "Resource Extracted",
+        "en": "resources extracted",
         "it": ""
     },
     "1044330": {
@@ -1225532,7 +1224988,7 @@
         "it": ""
     },
     "1045790": {
-        "en": "Enlist With Faction",
+        "en": "Enlistment",
         "it": ""
     },
     "1045791": {
@@ -1226216,7 +1225672,7 @@
         "it": ""
     },
     "1046231": {
-        "en": "Destroy Non-Capsuleer",
+        "en": "Destroy Non-Capsuleers",
         "it": ""
     },
     "1046232": {
@@ -1226224,7 +1225680,7 @@
         "it": ""
     },
     "1046233": {
-        "en": "Non-Capsuleer Killed",
+        "en": "non-capsuleers killed",
         "it": ""
     },
     "1046240": {
@@ -1226916,7 +1226372,7 @@
         "it": ""
     },
     "1046823": {
-        "en": "Shipcaster used",
+        "en": "shipcasters used",
         "it": ""
     },
     "1046840": {
@@ -1227108,7 +1226564,7 @@
         "it": ""
     },
     "1047175": {
-        "en": "Defiant Latten Metallic - Limited",
+        "en": "Defiant Ochre Metallic - Limited",
         "it": ""
     },
     "1047176": {
@@ -1227116,7 +1226572,7 @@
         "it": ""
     },
     "1047177": {
-        "en": "Defiant Latten Metallic - Unlimited",
+        "en": "Defiant Ochre Metallic - Unlimited",
         "it": ""
     },
     "1047178": {
@@ -1227576,7 +1227032,7 @@
         "it": ""
     },
     "1047372": {
-        "en": "Hull Damage Recieved",
+        "en": "Hull Damage Received",
         "it": ""
     },
     "1047373": {
@@ -1227656,19 +1227112,19 @@
         "it": ""
     },
     "1047419": {
-        "en": "Republic Kangite Trade-In Transport",
+        "en": "Trail of Silence Trader",
         "it": ""
     },
     "1047420": {
-        "en": "Imperial Raspite Trade-In Transport",
+        "en": "Into the Light Trader",
         "it": ""
     },
     "1047421": {
-        "en": "State Polycrase Trade-In Transport",
+        "en": "Secure Strength Trader",
         "it": ""
     },
     "1047422": {
-        "en": "Federation Moissanite Trade-In Transport",
+        "en": "Equilibrium Trader",
         "it": ""
     },
     "1047440": {
@@ -1228228,11 +1227684,11 @@
         "it": ""
     },
     "1047793": {
-        "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
+        "en": "Investigate and raid the top secret research facilities of the Special Affairs for Regulations and Order (SARO).",
         "it": ""
     },
     "1047794": {
-        "en": "Avalon Investigations",
+        "en": "SARO Investigations",
         "it": ""
     },
     "1047795": {
@@ -1228252,7 +1227708,7 @@
         "it": ""
     },
     "1047799": {
-        "en": "Investigate AEGIS activities on behalf of the Vanguard’s Avalon flotilla. Earn rewards and the means to convince the flotilla to one day begin its journey inside your chosen empire’s space.<br><br>Some AEGIS sites are hidden from the public. Use combat probes to scan down AEGIS Squalls and follow them to these high-value locations.",
+        "en": "Investigate SARO Black Sites",
         "it": ""
     },
     "1047800": {
@@ -1228588,7 +1228044,7 @@
         "it": ""
     },
     "1048093": {
-        "en": "Locations of Avalon Investigations",
+        "en": "Locations of SARO Black Sites",
         "it": ""
     },
     "1048094": {
@@ -1229028,7 +1228484,7 @@
         "it": ""
     },
     "1048544": {
-        "en": "Adorn yourself not in gold But in the crimson trophies of hunts past",
+        "en": "Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 3:17",
         "it": ""
     },
     "1048545": {
@@ -1229036,7 +1228492,7 @@
         "it": ""
     },
     "1048546": {
-        "en": "Sanicanonical Scripture, The Ten Sacraments of Sani Sabik, 3:17",
+        "en": "Adorn yourself not in gold But in the crimson trophies of hunts past",
         "it": ""
     },
     "1048547": {
@@ -1229212,7 +1228668,7 @@
         "it": ""
     },
     "1048935": {
-        "en": "A gathering point for members of the Starkmanir Tribe who hope to resettle their historic home of Starkman Prime. The planet is currently registered by its occupied name of Arzad II, but the Republic's Restoration campaign plans to regain control and change that. Their allies from the other six tribes of Matar have pledged to escort them once the campaign is a success.",
+        "en": "A gathering point for members of the Starkmanir Tribe as they come to resettle their historic home of Starkman Prime. In YC128, 13,957 capsuleers contributed to the Starkmanir Restoration campaign, returning the planet’s name to Starkman Prime and clearing the way for the tribe’s return. The Starkmanir’s allies from the other six tribes of Matar have pledged to defend their position here from any who would contest their claim.",
         "it": ""
     },
     "1048941": {
@@ -1230044,7 +1229500,7 @@
         "it": ""
     },
     "1050092": {
-        "en": "Your items will go to station",
+        "en": "Your items will go to your current station.",
         "it": ""
     },
     "1050093": {
@@ -1230416,7 +1229872,7 @@
         "it": ""
     },
     "1051294": {
-        "en": "This cerebral accelerator has been produced and distributed by the Deathglow Hunters in conjunction with their partners in the Blood Raider Covenant. When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after Novermber 10, YC128.",
+        "en": "This cerebral accelerator has been produced and distributed by the Deathglow Hunters in conjunction with their partners in the Blood Raider Covenant. When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after November 10, YC128.",
         "it": ""
     },
     "1051297": {
