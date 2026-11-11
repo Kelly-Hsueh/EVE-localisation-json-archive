@@ -1063932,7 +1063932,7 @@
         "it": ""
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "it": ""
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600478": {
@@ -1073917,90 +1073917,6 @@
     },
     "623648": {
         "en": "Destroyed Vessel",
-        "it": ""
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623673": {
-        "en": "Barren Asteroid",
         "it": ""
     },
     "623707": {
@@ -1202272,7 +1202188,7 @@
         "it": ""
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "it": ""
     },
     "1034348": {
@@ -1208752,11 +1208668,11 @@
         "it": ""
     },
     "1037736": {
-        "en": "Achievement",
+        "en": "Complete Achievements",
         "it": ""
     },
     "1037737": {
-        "en": "List of Required Achievements",
+        "en": "Complete Achievements",
         "it": ""
     },
     "1037738": {
@@ -1212868,7 +1212784,7 @@
         "it": ""
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "it": ""
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "it": ""
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "it": ""
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "it": ""
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "it": ""
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "it": ""
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "it": ""
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "it": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "it": ""
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "it": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "it": ""
     },
     "1043979": {
@@ -1229852,7 +1229768,7 @@
         "it": ""
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "it": ""
     },
     "1051286": {
@@ -1229860,7 +1229776,7 @@
         "it": ""
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "it": ""
     },
     "1051289": {
@@ -1229868,7 +1229784,7 @@
         "it": ""
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "it": ""
     },
     "1051294": {
@@ -1229876,7 +1229792,7 @@
         "it": ""
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "it": ""
     },
     "1051298": {
@@ -1229884,7 +1229800,7 @@
         "it": ""
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "it": ""
     },
     "1051300": {
@@ -1229892,7 +1229808,7 @@
         "it": ""
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "it": ""
     },
     "1051302": {
@@ -1229900,7 +1229816,7 @@
         "it": ""
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "it": ""
     },
     "1051304": {
@@ -1229908,7 +1229824,7 @@
         "it": ""
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "it": ""
     },
     "1051306": {
@@ -1229916,7 +1229832,7 @@
         "it": ""
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "it": ""
     },
     "1051308": {
@@ -1229924,7 +1229840,7 @@
         "it": ""
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "it": ""
     },
     "1051310": {
@@ -1229932,7 +1229848,7 @@
         "it": ""
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "it": ""
     },
     "1051312": {
@@ -1229940,7 +1229856,7 @@
         "it": ""
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "it": ""
     },
     "1051320": {
@@ -1229948,7 +1229864,7 @@
         "it": ""
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "it": ""
     },
     "1051322": {
@@ -1229956,7 +1229872,7 @@
         "it": ""
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "it": ""
     },
     "1051324": {
@@ -1229964,7 +1229880,7 @@
         "it": ""
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "it": ""
     },
     "1051326": {
@@ -1229972,7 +1229888,7 @@
         "it": ""
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "it": ""
     },
     "1051328": {
@@ -1229980,7 +1229896,7 @@
         "it": ""
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "it": ""
     },
     "1051330": {
@@ -1229988,7 +1229904,7 @@
         "it": ""
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "it": ""
     },
     "1051334": {
@@ -1230000,7 +1229916,7 @@
         "it": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "it": ""
     },
     "1051337": {
@@ -1230008,7 +1229924,7 @@
         "it": ""
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "it": ""
     },
     "1051339": {
@@ -1230016,7 +1229932,7 @@
         "it": ""
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "it": ""
     },
     "1051341": {
@@ -1230024,7 +1229940,7 @@
         "it": ""
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "it": ""
     },
     "1051345": {
@@ -1230032,7 +1229948,7 @@
         "it": ""
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "it": ""
     },
     "1051347": {
@@ -1230040,7 +1229956,7 @@
         "it": ""
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "it": ""
     },
     "1051355": {
@@ -1230048,7 +1229964,7 @@
         "it": ""
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "it": ""
     },
     "1051363": {
@@ -1230056,7 +1229972,7 @@
         "it": ""
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "it": ""
     },
     "1051365": {
@@ -1230064,7 +1229980,7 @@
         "it": ""
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "it": ""
     },
     "1051367": {
@@ -1230072,7 +1229988,7 @@
         "it": ""
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "it": ""
     },
     "1051370": {
@@ -1230080,7 +1229996,7 @@
         "it": ""
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "it": ""
     },
     "1051372": {
@@ -1230088,7 +1230004,7 @@
         "it": ""
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "it": ""
     },
     "1051374": {
@@ -1230096,7 +1230012,7 @@
         "it": ""
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "it": ""
     },
     "1051376": {
@@ -1230104,7 +1230020,7 @@
         "it": ""
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "it": ""
     },
     "1051378": {
@@ -1230112,7 +1230028,7 @@
         "it": ""
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "it": ""
     },
     "1051380": {
@@ -1230120,7 +1230036,7 @@
         "it": ""
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "it": ""
     },
     "1051382": {
@@ -1230128,7 +1230044,7 @@
         "it": ""
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "it": ""
     },
     "1051384": {
@@ -1230136,7 +1230052,7 @@
         "it": ""
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "it": ""
     },
     "1051388": {
@@ -1230144,7 +1230060,7 @@
         "it": ""
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "it": ""
     },
     "1051390": {
@@ -1230152,7 +1230068,7 @@
         "it": ""
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "it": ""
     },
     "1051394": {
@@ -1230160,7 +1230076,7 @@
         "it": ""
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "it": ""
     },
     "1051398": {
@@ -1230168,7 +1230084,7 @@
         "it": ""
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "it": ""
     },
     "1051400": {
@@ -1230176,7 +1230092,7 @@
         "it": ""
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "it": ""
     },
     "1051402": {
@@ -1230184,7 +1230100,7 @@
         "it": ""
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "it": ""
     },
     "1051406": {
@@ -1230192,7 +1230108,7 @@
         "it": ""
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "it": ""
     },
     "1051408": {
@@ -1230200,7 +1230116,7 @@
         "it": ""
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "it": ""
     },
     "1051410": {
@@ -1230208,7 +1230124,7 @@
         "it": ""
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "it": ""
     },
     "1051412": {
@@ -1230216,7 +1230132,7 @@
         "it": ""
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "it": ""
     },
     "1051414": {
@@ -1230224,7 +1230140,7 @@
         "it": ""
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "it": ""
     },
     "1051417": {

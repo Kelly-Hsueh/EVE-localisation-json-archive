@@ -882041,7 +882041,7 @@
     },
     "515829": {
         "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {structureLink}의 자산이 보호 시스템에 의해서 옮겨지는 중입니다. {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} 동안, 자산을 수동으로 {[location]solarsystemID.name, linkify} 내 지역으로 배송시킬 수 있습니다.<br>{[datetime]assetSafetyFullTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}동안, 자산을 옮기지 않으면 자산은 {[location]newStationID.name, linkify}으로 자동 배송될 것입니다. 자산을 회수할 때는 비용을 지불해야 합니다."
+        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {structureLink}의 자산이 보호 시스템에 의해서 옮겨지는 중입니다. {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} 동안, 자산을 수동으로 {listOfSolarSystems} 내 지역으로 배송시킬 수 있습니다.<br>{[datetime]assetSafetyFullTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}동안, 자산을 옮기지 않으면 자산은 {[location]newStationID.name, linkify}으로 자동 배송될 것입니다. 자산을 회수할 때는 비용을 지불해야 합니다."
     },
     "515830": {
         "en": "Report: items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} need your attention",
@@ -884437,7 +884437,7 @@
     },
     "516506": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
-        "ko": "{[location]structureID.name}에 있는 <b>{corpName}</b> 코퍼레이션의 모든 자산을 {[location]solarsystemID.name, linkify}에 위치한 자산 보호 시스템으로 이동합니다.<br>자산 보호 시스템에 들어간 아이템은 5일 후 같은 항성계 내 위치로 수동 이송을 할 수 있습니다. 20일 후에 아이템이 근처 정거장으로 자동 이송됩니다.<br>아이템을 회수하기 위해서는 비용이 별도로 청구됩니다. {[location]solarsystemID.name, linkify} 항성계 밖으로 아이템을 운송할 경우 비용이 증가합니다.<br>계속 진행하시겠습니까?"
+        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {[location]structureID.name} 내 모든 <b>{corpName}</b> 코퍼레이션 자산을 자산 보호 시스템으로 이동합니다.<br>자산 보호 시스템으로 이동한 아이템은 5일 후 같은 항성계 내 다른 위치로 수동 이송을 할 수 있습니다. 20일 후에 아이템이 근처 정거장으로 자동 이송됩니다.<br>아이템을 회수하기 위해서는 비용이 별도로 청구됩니다. {[location]solarsystemID.name, linkify} 항성계 밖으로 아이템을 운송할 경우 비용이 증가합니다.<br>계속 진행하시겠습니까?"
     },
     "516507": {
         "en": "Move corp items to Asset Safety?",
@@ -933061,7 +933061,7 @@
     },
     "536323": {
         "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {structureLink}의 코퍼레이션 자산이 보호 시스템에 의해서 옮겨지는 중입니다. {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} 동안, 자산을 수동으로 {[location]solarsystemID.name, linkify} 내 지역으로 배송시킬 수 있습니다. 코퍼레이션의 임원만이 수동 배송을 지정할 수 있습니다.<br>{[datetime]assetSafetyFullTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}동안, 자산을 옮기지 않으면 자산은 {[location]newStationID.name, linkify}으로 배송될 것입니다. 자산을 회수할 때는 비용을 지불해야 합니다."
+        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {structureLink}의 코퍼레이션 자산이 보호 시스템에 의해서 옮겨지는 중입니다. {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} 동안, 자산을 수동으로 {listOfSolarSystems} 내 지역으로 배송시킬 수 있습니다. 코퍼레이션의 임원만이 수동 배송을 지정할 수 있습니다.<br>{[datetime]assetSafetyFullTimestamp, date=short, time=short}부터 {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}동안, 자산을 옮기지 않으면 자산은 {[location]newStationID.name, linkify}으로 배송될 것입니다. 자산을 회수할 때는 비용을 지불해야 합니다."
     },
     "536336": {
         "en": "Replay operation",
@@ -1063932,7 +1063932,7 @@
         "ko": "커스 대응"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "ko": "질서유지특임대(SARO) 소속 스카이브레이커 프리깃입니다. 타겟 페인팅 장비를 장착했습니다.\r\n\r\nSARO 시설 주변 비행 금지 구역의 치안을 유지합니다. 허가를 받지 않은 모든 함선을 공격할 권한이 있습니다."
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "ko": "압류자 포보스"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "ko": "질서유지특임대(SARO) 소속 커스 크루저입니다. 스테이시스 웹 및 워프 교란 장비를 장착했습니다.\r\n\r\nSARO 시설 주변 비행 금지 구역의 치안을 유지합니다. 허가를 받지 않은 모든 함선을 공격할 권한이 있습니다."
     },
     "600478": {
@@ -1073918,90 +1073918,6 @@
     "623648": {
         "en": "Destroyed Vessel",
         "ko": "파괴된 함선"
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
-    },
-    "623673": {
-        "en": "Barren Asteroid",
-        "ko": "고갈된 소행성"
     },
     "623707": {
         "en": "Imperial Frigate",
@@ -1168177,7 +1168093,7 @@
     },
     "1010612": {
         "en": "Corporation - Freelance Jobs",
-        "ko": "프리랜서 임무"
+        "ko": "코퍼레이션 - 프리랜서 임무"
     },
     "1010613": {
         "en": "View active and completed Freelance Jobs.",
@@ -1202272,7 +1202188,7 @@
         "ko": "탈와르 함대 에디션 블루프린트"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "ko": "그노시스 '우정 연합' SKIN"
     },
     "1034348": {
@@ -1208752,12 +1208668,12 @@
         "ko": "공사지역"
     },
     "1037736": {
-        "en": "Achievement",
-        "ko": "업적"
+        "en": "Complete Achievements",
+        "ko": "업적 완료"
     },
     "1037737": {
-        "en": "List of Required Achievements",
-        "ko": "필요 업적 목록"
+        "en": "Complete Achievements",
+        "ko": "업적 완료"
     },
     "1037738": {
         "en": "achievements completed",
@@ -1212868,7 +1212784,7 @@
         "ko": "칼다리 연합 정보기록원이 비밀리에 파견한 프리깃입니다. 갈란테 연방에서 기밀 데이터를 탈취하는 작전에 투입되었습니다."
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "ko": "만료된 제국 방어 부스터 II"
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "ko": "SKIN 각인 생성 중 기본 나노코팅을 무제한 사용할 수 있는 라이선스입니다. 활성화 시 SKINR 컬렉션에 등록됩니다.\r\n\r\n나노코팅 배열이 각인되지 않은 상태이기 때문에 제한 없이 사용할 수 있습니다. 단, SKIN 각인 라이선스 절차에서 본 나노코팅을 사용하려면 <a href=showinfo:81350>커 각인기</a>가 필요합니다."
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "ko": "PL_PointLight_Green_01a"
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "ko": "작전 계획 목표 보상"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "ko": "탈만의 아시무"
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "ko": "파토르 전투 시뮬레이션을 완료하기에 적합한 추천 모듈입니다."
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "ko": "탈만의 아시무"
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "ko": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "ko": "컴플렉스 알파"
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "ko": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "ko": "탈만의 아시무"
     },
     "1043979": {
@@ -1228088,7 +1228004,7 @@
         "ko": "고대 마타르 속담"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "ko": "YC 128년, 정복전 기술의 등장이 가시화되며 민마타 공화국 함대는 향후 분쟁에 투입될 타격 부대가 우위를 차지할 수 있는 새로운 배틀크루저 개발을 요청했습니다. 정복전 기술은 CONCORD와 맺은 협약에 따라 사용이 제한되지만, 많은 이들은 그 기술이 실전에 쓰일 것이라고 예상했습니다. 결국 민마타는 적보다 먼저 대응하기로 결정했습니다.\r\n\r\n그 결과 토네이도 공화국 함대 에디션이 개발되었습니다. 기존 모델보다 다양한 분야의 성능이 개선된 뛰어난 함선으로 평가받았지만, 일부 비판 의견에 따르면 정복 엔진의 압도적인 위력에는 비교도 되지 않는 재래식 무기에 불과하다고 합니다."
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "ko": "<font size=\"14\"><b>민마타 파일럿 전문가 시스템</b></font>\r\n\r\n이 전문가 시스템은 민마타에 특화된 지원 스킬과 더불어, 캡슐리어가 민마타 테크 I 및 해군 프리깃, 디스트로이어, 크루저, 배틀크루저, 배틀쉽을 운용하는 데 필요한 스킬을 제공합니다.\r\n\r\n<b>해당 전문가 시스템은 7일간 지속됩니다.</b>\r\n\r\n전문가 시스템은 제한형 AI로 일정 기간 캡슐리어의 스킬 사용을 활성화합니다. 사용자의 신체 및 캡슐과 독립되어 있기 때문에 캡슐이 파괴되거나 클론을 변경해도 시스템이 제거되지 않습니다.\r\n\r\n<font size=\"14\"><b>전문가 시스템 활성화</b></font>\r\n\r\n전문가 시스템을 수령하면 즉시 적용됩니다.\r\n\r\n<i>전문가 시스템은 PKN 인터스텔라에 의해 개발 및 판매되는 제품으로 FTL 통신 네트워크인 하이퍼넷을 통해 배포됩니다. 인공 젤브레인을 바탕으로 설계된 제한형 AI이며, 스킬 주입 및 훈련을 통해 생성된 신경망을 활용하기에 함선 인터페이스를 비롯한 제어 시스템과 연동됩니다. FTL 네트워크인 하이퍼넷을 통해 실시간 제어 및 통신이 이루어집니다.</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "ko": "오라클 해군 에디션 블루프린트 "
     },
     "1048034": {
@@ -1228853,11 +1228769,11 @@
     },
     "1048584": {
         "en": "Open Watchlist When Joining Fleet",
-        "ko": ""
+        "ko": "함선에 가입할 때 주시 목록 열기"
     },
     "1048586": {
         "en": "itemID",
-        "ko": ""
+        "ko": "itemID"
     },
     "1048592": {
         "en": "Rogue Edge Construction Site",
@@ -1228881,7 +1228797,7 @@
     },
     "1048600": {
         "en": "exact ID of an item",
-        "ko": ""
+        "ko": "아이템의 정확한 ID"
     },
     "1048601": {
         "en": "State Corridor Construction Site",
@@ -1228913,11 +1228829,11 @@
     },
     "1048692": {
         "en": "Do not show again.",
-        "ko": ""
+        "ko": "다시 표시하지 않습니다."
     },
     "1048694": {
         "en": "Show Site Transmission",
-        "ko": ""
+        "ko": "사이트 통신 보기"
     },
     "1048802": {
         "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
@@ -1230817,15 +1230733,15 @@
     },
     "1050125": {
         "en": "Memberships",
-        "ko": ""
+        "ko": "멤버"
     },
     "1050127": {
         "en": "Allow new roles",
-        "ko": ""
+        "ko": "새로운 직책 지정 수락"
     },
     "1050130": {
         "en": "Remove All Roles",
-        "ko": ""
+        "ko": "모든 직책 제거"
     },
     "1050131": {
         "en": "Non-Interactable ORE HISC-99 Ice Refinery",
@@ -1230833,11 +1230749,11 @@
     },
     "1050137": {
         "en": "Resign as CEO",
-        "ko": ""
+        "ko": "CEO 사임"
     },
     "1050138": {
         "en": "(Enlisted since {date})",
-        "ko": ""
+        "ko": "({date} 이후 참전)"
     },
     "1050141": {
         "en": "General",
@@ -1230853,19 +1230769,19 @@
     },
     "1050152": {
         "en": "Title",
-        "ko": ""
+        "ko": "칭호"
     },
     "1050205": {
         "en": "Your corporation is no longer permitted to grant you new roles.",
-        "ko": ""
+        "ko": "이제 소속 코퍼레이션은 귀하에게 새로운 직책을 부여할 수 없습니다."
     },
     "1050206": {
         "en": "Block New Roles?",
-        "ko": ""
+        "ko": "새로운 직책 지정을 금지하시겠습니까?"
     },
     "1050207": {
         "en": "Are you sure you want to block your corporation from granting you new roles?",
-        "ko": ""
+        "ko": "코퍼레이션이 귀하를 새로운 직책에 임명할 수 없게 설정하겠습니까?"
     },
     "1050208": {
         "en": "Career Overview",
@@ -1230873,7 +1230789,7 @@
     },
     "1050211": {
         "en": "Service Length",
-        "ko": ""
+        "ko": "서비스 범위"
     },
     "1050214": {
         "en": "Base Achievements",
@@ -1230889,15 +1230805,15 @@
     },
     "1050231": {
         "en": "via direct enlistment",
-        "ko": ""
+        "ko": "개인 참여 참전"
     },
     "1050238": {
         "en": "Factional warfare enemies",
-        "ko": ""
+        "ko": "팩션 전쟁 적"
     },
     "1050239": {
         "en": "Open Enlistment Page",
-        "ko": ""
+        "ko": "전쟁 참가 페이지 열기"
     },
     "1050260": {
         "en": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
@@ -1230957,7 +1230873,7 @@
     },
     "1050282": {
         "en": "When enabled, your corporation can assign new roles to you.<br><br>To leave your corporation, you must first remove all assigned roles and complete a 24-hour corporate stasis period. Disable this option to prevent your corporation from assigning you new roles while you prepare to leave.",
-        "ko": ""
+        "ko": "해당 기능을 활성화하면 코퍼레이션이 귀하를 새로운 직책에 임명합니다.<br><br>모든 직책에서 사임하고 24시간의 코퍼레이션 대기 시간이 지나면 코퍼레이션에서 탈퇴할 수 있습니다. 해당 기능을 비활성화하면 탈퇴를 준비하는 동안 코퍼레이션이 귀하를 새로운 직책에 임명할 수 없습니다."
     },
     "1050283": {
         "en": "Navigation",
@@ -1233100,7 +1233016,7 @@
         "ko": "블러드 레이더가 아마르 및 민마타의 통합해 제작한 동기화 장치입니다. 에너지 노스페라투 성능, 에너지 뉴트럴라이저 성능, 에너지 터렛 성능을 향상시킵니다. 그러나 강제적으로 기술을 통합했기 때문에 리그를 장착하면 캐패시터 충전 속도가 크게 감소합니다. 또한 다크 블러드 기술 간 연결 경로를 통합합니다. 따라서 다크 블러드 모듈을 많이 장착할수록 성능이 강화됩니다.\r\n\r\n페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.\r\n\r\n리그 부작용으로 감소하는 CPU는 <a href=showinfo:96100>동기화 리그</a> 스킬 습득해 완화할 수 있습니다."
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "ko": "기본 '래디언스' 대뇌가속기"
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "ko": "데스글로우 헌터들이 블러드 레이더 커버넌트와의 동맹을 기념하기 위해 개발한 대뇌가속기입니다. 사용 시 일정 시간 동안 스킬 훈련 속도가 증가합니다.\r\n\r\n불안정한 혼합물로 구성되어 있어 사용 기한이 지나면 효력이 사라집니다. YC 128년 11월 10일에 만료됩니다."
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "ko": "포텐트 '래디언스' 대뇌가속기"
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "ko": "노스페라투 및 에너지 뉴트럴라이저 과부하 효과 증가"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "ko": "익스텐드 '래디언스' 대뇌가속기"
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "ko": "노스페라투 및 에너지 뉴트럴라이저 유효사거리 증가"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "ko": "하베스트 안티-디스럽터 부스터 IV"
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>무기 디스럽터 저항력 24% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "ko": "하베스트 안티-디스럽터 부스터 I"
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>무기 디스럽터 저항력 6% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "ko": "하베스트 안티-디스럽터 부스터 II"
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>무기 디스럽터 저항력 12% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "ko": "하베스트 안티-디스럽터 부스터 III"
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>무기 디스럽터 저항력 18% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "ko": "하베스트 노스페라투 부스터 I"
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>노스페라투 모듈 사이클 시간 3% 감소. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "ko": "하베스트 노스페라투 부스터 II"
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>노스페라투 모듈 사이클 시간 6% 감소. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "ko": "하베스트 노스페라투 부스터 III"
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>노스페라투 모듈 사이클 시간 9% 감소. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "ko": "하베스트 노스페라투 부스터 IV"
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "ko": "리그가 제공하는 효과가 함선에 장착한 <b>다크 블러드</b> 모듈 하나당 1% 증가합니다."
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "ko": "하베스트 웹 부스터 I"
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>웹 생성기 사거리 1km 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "ko": "하베스트 웹 부스터 II"
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>웹 생성기 사거리 2km 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "ko": "하베스트 웹 부스터 III"
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>웹 생성기 사거리 3km 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "ko": "하베스트 웹 부스터 IV"
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>웹 생성기 사거리 4km 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "ko": "하베스트 데미지 부스터 I"
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>에너지 터렛 피해량 3% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "ko": "하베스트 데미지 부스터 II"
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "ko": "블러드 레이더가 아마르 및 민마타의 통합해 제작한 동기화 장치입니다. 에너지 노스페라투 성능, 에너지 뉴트럴라이저 성능, 에너지 터렛 성능을 향상시킵니다. 그러나 강제적으로 기술을 통합했기 때문에 리그를 장착하면 캐패시터 충전 속도가 크게 감소합니다. 또한 다크 블러드 기술 간 연결 경로를 통합합니다. 따라서 다크 블러드 모듈을 많이 장착할수록 성능이 강화됩니다.\r\n\r\n페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.\r\n\r\n리그 부작용으로 감소하는 CPU는 <a href=showinfo:96100>동기화 리그</a> 스킬 습득해 완화할 수 있습니다."
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "ko": "하베스트 데미지 부스터 III"
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "ko": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "ko": "하베스트 데미지 부스터 IV"
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "ko": "블러드 레이더가 개발한 부스터로 피비린내 나는 해적질을 위해 사용됩니다.\r\n\r\n<b>에너지 터렛 피해량 12% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "ko": "테트리몬 안티-드레인 부스터 I"
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>에너지전 저항력 6% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "ko": "테트리몬 안티-드레인 부스터 II"
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "ko": "블러드 레이더가 아마르 및 민마타의 통합해 제작한 동기화 장치입니다. 에너지 노스페라투 성능, 에너지 뉴트럴라이저 성능, 에너지 터렛 성능을 향상시킵니다. 그러나 강제적으로 기술을 통합했기 때문에 리그를 장착하면 캐패시터 충전 속도가 크게 감소합니다. 또한 다크 블러드 기술 간 연결 경로를 통합합니다. 따라서 다크 블러드 모듈을 많이 장착할수록 성능이 강화됩니다.\r\n\r\n페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.\r\n\r\n리그 부작용으로 감소하는 CPU는 <a href=showinfo:96100>동기화 리그</a> 스킬 습득해 완화할 수 있습니다."
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "ko": "테트리몬 안티-드레인 부스터 III"
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>에너지전 저항력 18% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "ko": "테트리몬 안티-드레인 부스터 IV"
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "ko": "리그가 제공하는 효과가 함선에 장착한 <b>다크 블러드</b> 모듈 하나당 1% 증가합니다."
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "ko": "테트리몬 캐패시터 부스터 I"
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "ko": "리그가 제공하는 효과가 함선에 장착한 <b>다크 블러드</b> 모듈 하나당 1% 증가합니다."
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "ko": "테트리몬 캐패시터 부스터 II"
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>캐패시터 용량 6% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "ko": "테트리몬 캐패시터 부스터 III"
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>캐패시터 용량 9% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "ko": "테트리몬 캐패시터 부스터 IV"
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "ko": "캐패시터 재충전 시간 감소"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "ko": "테트리몬 저항력 부스터 I"
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>장갑 저항력 2% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "ko": "테트리몬 저항력 부스터 II"
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>장갑 저항력 4% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "ko": "테트리몬 저항력 부스터 III"
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>장갑 저항력 6% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "ko": "테트리몬 저항력 부스터 IV"
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>장갑 저항력 8% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "ko": "테트리몬 정밀도 부스터 I"
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>에너지 터렛 최적사거리 및 트래킹 속도 3% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "ko": "테트리몬 정밀도 부스터 II"
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>에너지 터렛 최적사거리 및 트래킹 속도 6% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "ko": "테트리몬 정밀도 부스터 III"
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>에너지 터렛 최적사거리 및 트래킹 속도 9% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "ko": "테트리몬 정밀도 부스터 IV"
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "ko": "성 테트리몬 교단에서 성기사들을 위해 개발한 부스터로 배교자들을 사냥하기 위해 사용됩니다.\r\n\r\n<b>에너지 터렛 최적사거리 및 트래킹 속도 12% 증가. 기본 지속 시간: 2시간</b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "ko": "케말텍 터렛 부스터 I"
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "ko": "<b>터렛 피해량 4% 증가.</b>\r\n<b>터렛 트래킹 속도 4% 증가.</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "ko": "케말텍 터렛 부스터 II"
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "ko": "<b>터렛 피해량 6% 증가.</b>\r\n<b>터렛 트래킹 속도 6% 증가.</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "ko": "케말텍 터렛 부스터 III"
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "ko": "<b>터렛 피해량 8% 증가.</b>\r\n<b>터렛 트래킹 속도 8% 증가.</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "ko": "케말텍 채굴 부스터 I"
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "ko": "<b>채굴 레이저 산출량 4% 증가.</b>\r\n<b>채굴 레이저 최적사거리 10% 증가.</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "ko": "케말텍 채굴 부스터 II"
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "ko": "<b>채굴 레이저 산출량 8% 증가.</b>\r\n<b>채굴 레이저 최적사거리 15% 증가.</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "ko": "케말텍 채굴 부스터 III"
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "ko": "트루 크리에이션 최고 연구원들이 아마르와 칼다리 기술을 융합해 제작한 동기화 장치입니다. <a href=showinfo:3450>애프터버너</a> 및 에너지 터렛 성능을 향상시킵니다. 그러나 강력한 성능을 기본으로 설계하여 극단적인 작동 환경이 형성되어 애프터버너 활성화 비용이 크게 증가합니다. 또한 트루 산샤 기술 간 연결 경로를 통합합니다. 따라서 트루 산샤 모듈을 많이 장착할수록 성능이 강화됩니다.\r\n\r\n페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다.\r\n\r\n리그 부작용으로 감소하는 CPU는 <a href=showinfo:96100>동기화 리그</a> 스킬 습득해 완화할 수 있습니다."
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "ko": "케말텍 탐사 부스터 I"
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "ko": "<b>데이터 분석기 바이러스 결합도 4 증가.</b>\r\n<b>스캔 프로브 스캔 강도 4% 증가</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "ko": "케말텍 탐사 부스터 II"
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "ko": "<b>데이터 분석기 바이러스 결합도 6 증가.</b>\r\n<b>스캔 프로브 스캔 강도 8% 증가</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "ko": "케말텍 탐사 부스터 III"
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "ko": "<b>데이터 분석기 바이러스 결합도 8 증가.</b>\r\n<b>스캔 프로브 스캔 강도 12% 증가</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "ko": "케말텍 수리 부스터 I"
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "ko": "<b>장갑수리 장치 사이클 시간 4% 감소.</b>\r\n<b>실드 부스터 사이클 시간 4% 감소.</b>\r\n\r\n기본 지속 시간: 3시간\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "ko": "케말텍 수리 부스터 II"
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "ko": "애프터버너 속도 증가"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "ko": "케말텍 수리 부스터 III"
     },
     "1051417": {
@@ -1238768,7 +1238684,7 @@
         "ko": "괴리형 라스파이트"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "ko": "괴리형 라스파이트 분자는 초차원적 에너지에 노출되어 형성됩니다. 아마르 제국은 드리프터의 에너지 효율성 연구를 위해 괴리형 자원이 필요합니다.\r\n\r\n제국은 작전 계획에 따라 <url=showinfo:5//30002974>메하투어</url> 아마르 해군 정박지 외부의 거래상과 괴리형 자원을 거래하는 캡슐리어에게 보상을 제공할 것입니다."
     },
     "1054676": {
@@ -1241789,11 +1241705,11 @@
     },
     "1056324": {
         "en": "{list}, or {lastItem}",
-        "ko": ""
+        "ko": "{list} 또는 {lastItem}"
     },
     "1056325": {
         "en": "{A} or {B}",
-        "ko": ""
+        "ko": "{A} 또는 {B}"
     },
     "1056326": {
         "en": "Expedition Distress Signal",
@@ -1241821,19 +1241737,19 @@
     },
     "1056334": {
         "en": "You are about to move all assets belonging to you in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "ko": ""
+        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {[location]structureID.name} 내 모든 자산을 자산 보호 시스템으로 이동합니다.<br>자산 보호 시스템으로 이동한 아이템은 5일 후 다음 성계로 수동 이송을 할 수 있습니다: {destinationList}. 20일 후에 아이템이 {[location]defaultSolarSystemID.name, linkify} 성계로 자동 이송됩니다.<br>아이템을 회수하기 위해서는 비용이 별도로 청구됩니다. {destinationList} 항성계 밖으로 아이템을 운송할 경우 비용이 증가합니다.{extraTaxText}<br>계속 진행하시겠습니까?"
     },
     "1056335": {
         "en": "Move items to Asset Safety?",
-        "ko": ""
+        "ko": "아이템을 자산 보호 시스템으로 이동하시겠습니까?"
     },
     "1056336": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "ko": ""
+        "ko": "{[location]solarsystemID.name, linkify}에 위치한 {[location]structureID.name} 내 모든 <b>{corpName}</b> 코퍼레이션 자산을 자산 보호 시스템으로 이동합니다.<br>자산 보호 시스템으로 이동한 아이템은 5일 후 다음 성계로 수동 이송을 할 수 있습니다: {destinationList}. 20일 후에 아이템이 {[location]defaultSolarSystemID.name, linkify} 성계로 자동 이송됩니다.<br>아이템을 회수하기 위해서는 비용이 별도로 청구됩니다. {destinationList} 항성계 밖으로 아이템을 운송할 경우 비용이 증가합니다.{extraTaxText}<br>계속 진행하시겠습니까?"
     },
     "1056337": {
         "en": "Move corp items to Asset Safety?",
-        "ko": ""
+        "ko": "코퍼레이션 아이템을 자산 보호 시스템으로 이동하시겠습니까?"
     },
     "1056342": {
         "en": "Excellent. \r\n\r\nTo browse the available <b>Academy Ships</b>, select the AIR Academy Ships service in the station panel to your right. This service is available at every station within Exordium.",
@@ -1241853,11 +1241769,11 @@
     },
     "1056358": {
         "en": "{trainedSp} / {totalSp} SP",
-        "ko": ""
+        "ko": "{trainedSp} / {totalSp} 스킬 포인트"
     },
     "1056359": {
         "en": "Reset tag sequences",
-        "ko": ""
+        "ko": "태그 순서 초기화"
     },
     "1056365": {
         "en": "Damning Punisher",
@@ -1242297,7 +1242213,7 @@
     },
     "1056478": {
         "en": "Please note that the fee in Zarzakh depends on the results of the Pirate Insurgency.",
-        "ko": ""
+        "ko": "해적의 반란의 결과에 따라 자르자크 수수료가 달라질 수 있습니다."
     },
     "1056479": {
         "en": "<b>Free pre-fitted ships available at any station in Exordium.</b>\r\n<UL>\r\n<LI>Free to use, no penalty for loss.</LI>\r\n<LI>No skill requirements, but still receive benefits from the skills you train.</LI>\r\n<LI>Ships come equipped with modules and charges.</LI>\r\n<LI>13 ships to choose from, swap freely to try out different styles.</LI>\r\n</UL>\r\n<b>Restrictions:</b>\r\n<UL><LI>Can only be flown in Exordium.</LI>\r\n<LI>Can only have one active Academy Ship at a time.</LI>\r\n<LI>Cannot be traded or reprocessed.</LI>\r\n<LI>Academy modules and charges can only be used with Academy Ships</LI>\r\n</UL>",
@@ -1242317,15 +1242233,15 @@
     },
     "1056498": {
         "en": "Brand Management ",
-        "ko": ""
+        "ko": "브랜드 관리 "
     },
     "1056499": {
         "en": "Corporation Ads",
-        "ko": ""
+        "ko": "코퍼레이션 광고"
     },
     "1056500": {
         "en": "Wallet - PLEX",
-        "ko": ""
+        "ko": "계좌 - PLEX"
     },
     "1056502": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
@@ -1242649,7 +1242565,7 @@
     },
     "1056584": {
         "en": "Wallet - EverMarks",
-        "ko": ""
+        "ko": "계좌 - 에버마크"
     },
     "1056592": {
         "en": "Gila Penumbral Shadows SKIN",
@@ -1243893,7 +1243809,7 @@
     },
     "1057167": {
         "en": "Edit Expiry",
-        "ko": ""
+        "ko": "만료 기간 수정"
     },
     "1057169": {
         "en": "SARO Ore Reserve",
@@ -1243985,19 +1243901,19 @@
     },
     "1057293": {
         "en": "Jumping to {solarSystemName}",
-        "ko": ""
+        "ko": "{solarSystemName} 성계로 점프"
     },
     "1057294": {
         "en": "Preparing jump to {solarSystemName}",
-        "ko": ""
+        "ko": "{solarSystemName} 성계로 점프 준비 중"
     },
     "1057295": {
         "en": "Bridging to {solarSystemName}",
-        "ko": ""
+        "ko": "{solarSystemName} 성계로 브릿지 연결"
     },
     "1057296": {
         "en": "Preparing bridge to {solarSystemName}",
-        "ko": ""
+        "ko": "{solarSystemName} 성계로 브릿지 생성 중"
     },
     "1057343": {
         "en": "SARO Black Sites",
@@ -1244605,15 +1244521,15 @@
     },
     "1058267": {
         "en": "Header sorting is disabled",
-        "ko": ""
+        "ko": "헤더 정렬이 비활성화되었습니다."
     },
     "1058268": {
         "en": "Header sorting enabled",
-        "ko": ""
+        "ko": "헤더 정렬 활성화"
     },
     "1058269": {
         "en": "Click a column header to sort the overview by that column.\r\nWhen this option is disabled, clicking a header does not change the sort column or direction.",
-        "ko": ""
+        "ko": "열 헤더를 클릭하면 해당 열을 기준으로 오버뷰를 정렬합니다.\r\n옵션을 비활성화하면 열 헤더를 클릭해도 정렬 기준 열이나 정렬 방향이 변경되지 않습니다."
     },
     "1058394": {
         "en": "SARO Mobile Observatory",
@@ -1244665,11 +1244581,11 @@
     },
     "1058458": {
         "en": "Add items listed in clipboard to filter",
-        "ko": ""
+        "ko": "클립보드에 있는 아이템을 필터에 추가"
     },
     "1058459": {
         "en": "Format example:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>You can also drag items and fittings into the window.",
-        "ko": ""
+        "ko": "형식 예시:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>창에 아이템과 피팅을 드래그할 수 있습니다."
     },
     "1058497": {
         "en": "Rogue Drone Outbreak",
@@ -1245056,7 +1244972,7 @@
         "ko": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "ko": "부강한 아마르의 승리"
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "ko": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "ko": "협동의 이점"
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "ko": "연방 지휘관 배틀쉽 {[numeric]amount, useGrouping}회 처치"
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "ko": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "ko": "자유는 자유의 이점이 있다"
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "ko": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "ko": "풀려난 이점"
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "ko": "제국 지휘관 배틀쉽 {[numeric]amount, useGrouping}회 처치"
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "ko": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "ko": "신념 준수"
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "ko": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "ko": "사라지지 않는 연합"
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "ko": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "ko": "굳건한 자유"
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "ko": "갈란테 연방 소속으로 팩션 전쟁 컴플렉스 {[numeric]amount, useGrouping}회 방어"
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "ko": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "ko": "끊어진 사슬, 끊어지지 않은 선"
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "ko": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "ko": "용서를 바라는 기도"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "ko": "아마르 소속으로 민마타 또는 엔젤 카르텔 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "ko": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "ko": "공격적 인수"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "ko": "칼다리 소속으로 갈란테 또는 구리스타스 해적단 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "ko": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "ko": "블라스터 외교"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "ko": "갈란테 소속으로 칼다리 또는 구리스타스 해적단 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "ko": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "ko": "억제기 폐기 처분"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "ko": "민마타 소속으로 아마르 또는 엔젤 카르텔 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "ko": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "ko": "작별의 후광"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "ko": "엔젤 카르텔 소속으로 아마르 또는 민마타 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "ko": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "ko": "살인 청부업자"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "ko": "구리스타스 해적단 소속으로 칼다리 또는 갈란테 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "ko": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "ko": "신성한 보상"
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "ko": "제24 크루세이드 제국 함대 로열티 포인트 {[numeric]amount, useGrouping} 획득하기"
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "ko": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "ko": "충성의 회귀"
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "ko": "연합 방위대 로열티 포인트 {[numeric]amount, useGrouping} 획득하기"
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "ko": "연대의 혜택"
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "ko": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "ko": "먼지에서 부자까지"
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "ko": "부족해방전선 로열티 포인트 {[numeric]amount, useGrouping} 획득하기"
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "ko": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "ko": "범죄는 정말 이익이 된다"
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "ko": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "ko": "진격의 전대"
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "ko": "코만도 구리 로열티 포인트 {[numeric]amount, useGrouping} 획득하기"
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "ko": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "ko": "선택받은 파괴자"
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "ko": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "ko": "상대가 없음"
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "ko": "하쿠조수의 쇠미늘 NPC {[numeric]amount, useGrouping}회 처치"
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "ko": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "ko": "억압자를 억압하라"
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "ko": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "ko": "황금 함대"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "ko": "아마르 해군 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "ko": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "ko": "경영진의 화력"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "ko": "칼다리 해군 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "ko": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "ko": "연방 함대"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "ko": "갈란테 해군 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "ko": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "ko": "반격의 함대"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "ko": "공화국 함대 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "ko": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "ko": "천사의 지역"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "ko": "엔젤 카르텔 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "ko": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "ko": "냉혈한의 화력"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "ko": "구리스타스 해적단 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "ko": ""
     },
     "1059561": {
@@ -1246431,6 +1246347,38 @@
         "en": "A Dreadnought of the Caldari State",
         "ko": "칼다리 연합 드레드노트입니다."
     },
+    "1060615": {
+        "en": "Station",
+        "ko": ""
+    },
+    "1060618": {
+        "en": "Station docked at",
+        "ko": ""
+    },
+    "1060623": {
+        "en": "Manifest Station",
+        "ko": ""
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub",
+        "ko": ""
+    },
+    "1060625": {
+        "en": "The Hub of Exordium",
+        "ko": ""
+    },
+    "1060626": {
+        "en": "Dock at a Station",
+        "ko": ""
+    },
+    "1060627": {
+        "en": "Dock at a station or structure",
+        "ko": ""
+    },
+    "1060628": {
+        "en": "stations docked",
+        "ko": ""
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "ko": ""
@@ -1246517,6 +1246465,10 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "ko": ""
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship",
         "ko": ""
     }
 }

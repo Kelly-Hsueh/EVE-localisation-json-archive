@@ -882041,7 +882041,7 @@
     },
     "515829": {
         "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "zh": "位于{[location]solarsystemID.name, linkify}的{structureLink}中的资产正被移至资产安全系统中。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}后（于{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}），资产就可被手动转移到位于{[location]solarsystemID.name, linkify}的某处。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}后（{[datetime]assetSafetyFullTimestamp, date=short, time=short}），资产将被自动递送到{[location]newStationID.name, linkify}。取回资产会收取一定费用。"
+        "zh": "资产安全系统正在转移位于{[location]solarsystemID.name, linkify}的{structureLink}中的资产。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}后（即{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}），你可以手动将资产运送至{listOfSolarSystems}中的某个地点。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}后（即{[datetime]assetSafetyFullTimestamp, date=short, time=short}），资产将自动运送至{[location]newStationID.name, linkify}。取回资产需要支付费用。"
     },
     "515830": {
         "en": "Report: items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} need your attention",
@@ -884437,7 +884437,7 @@
     },
     "516506": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
-        "zh": "你要将位于{[location]solarsystemID.name, linkify}的{[location]structureID.name}中所有属于<b>{corpName}</b>的物品移入到资产安全系统中。<br>移到资产安全系统中后，这些物品可以在5天后手动递送到同一星系的另一地点中。20天后，这些物品会被自动递送到附近的一个空间站里。<br>取回物品会收取一定费用。如果物品由{[location]solarsystemID.name, linkify}之外的地点运来，费用还要增加。<br>你确定要继续吗？"
+        "zh": "你即将把<b>{corpName}</b>在{[location]structureID.name}（位于{[location]solarsystemID.name, linkify}）中的所有资产转移至资产安全系统。 <br>进入资产安全系统5天后，你可以手动将物品运送至同一星系内的某个地点。20天后，这些物品会被自动运送到附近的一个空间站里。<br>取回物品时需要支付费用。如果将物品运送至{[location]solarsystemID.name, linkify}以外的地点，费用将会增加。<br>你确定要继续吗？"
     },
     "516507": {
         "en": "Move corp items to Asset Safety?",
@@ -933061,7 +933061,7 @@
     },
     "536323": {
         "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "zh": "位于{[location]solarsystemID.name, linkify}的{structureLink}中的军团资产正被移至资产安全系统中。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}后（于{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}），资产就可被手动转移到位于{[location]solarsystemID.name, linkify}的某处。手动递送资产的权限只对总监开放。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}后（{[datetime]assetSafetyFullTimestamp, date=short, time=short}），资产将被自动递送到{[location]newStationID.name, linkify}。取回资产会收取一定费用。"
+        "zh": "资产安全系统正在转移位于{[location]solarsystemID.name, linkify}的{structureLink}中的军团资产。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}后（即{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}），你可以手动将资产运送至{listOfSolarSystems}中的某个地点。只有总监可以管理手动运送操作。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}后（即{[datetime]assetSafetyFullTimestamp, date=short, time=short}），资产将自动运送至{[location]newStationID.name, linkify}。取回资产需要支付费用。"
     },
     "536336": {
         "en": "Replay operation",
@@ -1063932,7 +1063932,7 @@
         "zh": "反制诅咒级"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "zh": "一艘由法规秩序特别事务局（法序局）指挥的破天级护卫舰。它配备目标标记功能。该舰隶属于一支负责执行禁飞令的舰队，任务是管控某处机密法序局设施周边的禁飞区，并有权击退任何未经授权进入该区域的舰船。"
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "zh": "扣押者伏波斯级"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "zh": "一艘由法规秩序特别事务局（法序局）指挥的诅咒级巡洋舰。它具备停滞缠绕和跃迁扰断功能。该舰隶属于一支负责执行禁飞令的舰队，任务是管控某处机密法序局设施周边的禁飞区，并有权击退任何未经授权进入该区域的舰船。"
     },
     "600478": {
@@ -1073918,90 +1073918,6 @@
     "623648": {
         "en": "Destroyed Vessel",
         "zh": "毁坏的舰船"
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
-    },
-    "623673": {
-        "en": "Barren Asteroid",
-        "zh": "贫瘠的小行星"
     },
     "623707": {
         "en": "Imperial Frigate",
@@ -1168177,7 +1168093,7 @@
     },
     "1010612": {
         "en": "Corporation - Freelance Jobs",
-        "zh": "自由任务"
+        "zh": "军团 - 自由任务"
     },
     "1010613": {
         "en": "View active and completed Freelance Jobs.",
@@ -1202272,7 +1202188,7 @@
         "zh": "弯刀级舰队型蓝图"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "zh": "灵感级友谊联盟涂装"
     },
     "1034348": {
@@ -1208752,12 +1208668,12 @@
         "zh": "建造地点"
     },
     "1037736": {
-        "en": "Achievement",
-        "zh": "成就"
+        "en": "Complete Achievements",
+        "zh": "完成成就"
     },
     "1037737": {
-        "en": "List of Required Achievements",
-        "zh": "所需成就列表"
+        "en": "Complete Achievements",
+        "zh": "完成成就"
     },
     "1037738": {
         "en": "achievements completed",
@@ -1212868,7 +1212784,7 @@
         "zh": "一艘隶属于加达里合众国秘密机构“国家档案所”的护卫舰。其任务是保护盖伦特联邦境内针对机密数据传输的秘密行动。"
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "zh": "过期的帝国防御增效剂II"
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "zh": "可无限次使用的基础纳米涂层许可证，用于涂装排序。激活后将直接添加至玩家SKINR收藏列表。该纳米涂层的数字序列尚未绑定，可无限次使用。每次使用纳米涂层对设计进行排序时，你都必须借助<a href=showinfo:81350>克尔序列器</a>来绑定你所创建的专属涂装许可证。"
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "zh": "PL_PointLight_Green_01a"
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "zh": "军事行动目标奖励"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "zh": "塔尔曼的阿什姆级舰船"
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "zh": "建议用于完成帕多尔战役模拟体验的装备。"
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "zh": "塔尔曼的阿什姆级舰船"
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "zh": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "zh": "复合体阿尔法"
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "zh": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "zh": "塔尔曼的阿什姆级舰船"
     },
     "1043979": {
@@ -1228088,7 +1228004,7 @@
         "zh": "古代玛塔利谚语"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "zh": "YC128年，随着征服引擎技术带来的威胁日益临近，共和舰队决定研发一种新型战列巡洋舰，以增强突击小队的战斗力，帮助他们在即将到来的冲突中占据优势。尽管征服引擎技术已根据与统合部达成的协议受到限制，但许多人认为，这项技术迟早会被投入使用。出于对这一威胁的担忧，米玛塔尔人决定提前做好准备，主动采取应对措施。最终，龙卷风级舰队型应运而生。这是一艘先进的共和舰队战舰。尽管该舰在原始型号的基础上进行了诸多引以为傲的升级，批评者仍然声称，它不过是一艘采用传统武器的战舰，根本无法与征服引擎的惊人威力相提并论。"
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "zh": "<font size=\"14\"><b>米玛塔尔飞行员专家系统</b></font>这个专家系统提供的技能让克隆飞行员可以驾驶米玛塔尔一级科技和海军型护卫舰、驱逐舰、巡洋舰、战列巡洋舰和战列舰，并提供适用于米玛塔尔的辅助技能。<b>该专家系统赋予的技能有效期为七天。</b>专家系统是一种远程受限人工智能，可在租赁有效期内为你提供访问特定技能的权限。专家系统不依托于克隆体和太空舱，因此处于有效期内的专家系统在太空舱损毁或进行远距克隆时也能继续使用。<font size=\"14\"><b>启用专家系统</b></font>克隆飞行员兑换此物品后就会自动启用专家系统。<i>专家系统由PKN星际财团研发，通过超光速网络通信提供服务，并由PKN星际集团成员企业负责推广与销售。专家系统是一种基于虚拟大脑技术的受限人工智能。专家系统使用了通过技能训练或技能注入产生的神经通路，与太空舱界面和控制系统兼容。通过PKN星系超网上的专用超光速频道可以实现实时指令和控制通信。</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "zh": "预言级海军型蓝图 "
     },
     "1048034": {
@@ -1228853,11 +1228769,11 @@
     },
     "1048584": {
         "en": "Open Watchlist When Joining Fleet",
-        "zh": ""
+        "zh": "加入舰队时打开关注列表"
     },
     "1048586": {
         "en": "itemID",
-        "zh": ""
+        "zh": "物品ID"
     },
     "1048592": {
         "en": "Rogue Edge Construction Site",
@@ -1228881,7 +1228797,7 @@
     },
     "1048600": {
         "en": "exact ID of an item",
-        "zh": ""
+        "zh": "物品的准确ID"
     },
     "1048601": {
         "en": "State Corridor Construction Site",
@@ -1228913,11 +1228829,11 @@
     },
     "1048692": {
         "en": "Do not show again.",
-        "zh": ""
+        "zh": "不再显示。"
     },
     "1048694": {
         "en": "Show Site Transmission",
-        "zh": ""
+        "zh": "显示地点传输"
     },
     "1048802": {
         "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
@@ -1230817,15 +1230733,15 @@
     },
     "1050125": {
         "en": "Memberships",
-        "zh": ""
+        "zh": "成员资格"
     },
     "1050127": {
         "en": "Allow new roles",
-        "zh": ""
+        "zh": "允许新职位"
     },
     "1050130": {
         "en": "Remove All Roles",
-        "zh": ""
+        "zh": "移除所有职位"
     },
     "1050131": {
         "en": "Non-Interactable ORE HISC-99 Ice Refinery",
@@ -1230833,11 +1230749,11 @@
     },
     "1050137": {
         "en": "Resign as CEO",
-        "zh": ""
+        "zh": "辞去CEO职位"
     },
     "1050138": {
         "en": "(Enlisted since {date})",
-        "zh": ""
+        "zh": "（应征日期：{date}）"
     },
     "1050141": {
         "en": "General",
@@ -1230853,19 +1230769,19 @@
     },
     "1050152": {
         "en": "Title",
-        "zh": ""
+        "zh": "称号"
     },
     "1050205": {
         "en": "Your corporation is no longer permitted to grant you new roles.",
-        "zh": ""
+        "zh": "你的军团已无法再向你授予新职位。"
     },
     "1050206": {
         "en": "Block New Roles?",
-        "zh": ""
+        "zh": "禁止授予新职位？"
     },
     "1050207": {
         "en": "Are you sure you want to block your corporation from granting you new roles?",
-        "zh": ""
+        "zh": "确定要禁止军团向你授予新职位吗？"
     },
     "1050208": {
         "en": "Career Overview",
@@ -1230873,7 +1230789,7 @@
     },
     "1050211": {
         "en": "Service Length",
-        "zh": ""
+        "zh": "服役时长"
     },
     "1050214": {
         "en": "Base Achievements",
@@ -1230889,15 +1230805,15 @@
     },
     "1050231": {
         "en": "via direct enlistment",
-        "zh": ""
+        "zh": "通过直接应征"
     },
     "1050238": {
         "en": "Factional warfare enemies",
-        "zh": ""
+        "zh": "势力战争敌对目标"
     },
     "1050239": {
         "en": "Open Enlistment Page",
-        "zh": ""
+        "zh": "打开应征页面"
     },
     "1050260": {
         "en": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
@@ -1230957,7 +1230873,7 @@
     },
     "1050282": {
         "en": "When enabled, your corporation can assign new roles to you.<br><br>To leave your corporation, you must first remove all assigned roles and complete a 24-hour corporate stasis period. Disable this option to prevent your corporation from assigning you new roles while you prepare to leave.",
-        "zh": ""
+        "zh": "启用此选项后，军团可以向你授予新职位。<br><br>若要退出军团，你必须先移除所有已分配的职位，并进入为期24小时的退团等候期。准备退团期间，你可以禁用此选项，以防军团向你授予新职位。"
     },
     "1050283": {
         "en": "Navigation",
@@ -1233100,7 +1233016,7 @@
         "zh": "这种改装件由血袭者工程师利用艾玛与米玛塔尔同步器组合制造而成，可提升掠能器、能量中和器和能量炮台的性能。然而，这种以蛮力驱动的组合方式会显著降低舰船电容的回充速度。它还能连通加黑暗血袭者技术体系，将各项装备的效果串联起来。安装的黑暗血袭者装备越多，性能提升就越明显。惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。可通过训练<a href=showinfo:96100>同步改装</a>技能来降低装配该改装件所带来的CPU影响。"
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "zh": "基础型“光辉”大脑加速器"
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "zh": "这款大脑加速器由死亡之辉猎手与血袭者同盟联合生产并推广。使用后，它可以在短时间内提高克隆飞行员训练技能的速度。这款大脑加速器使用了不稳定化合物制造，效能持续时间有限。它的有效期至YC128年11月10日。"
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "zh": "强效“光辉”大脑加速器"
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "zh": "掠能器和能量中和器超载加成"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "zh": "延展型“光辉”大脑加速器"
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "zh": "掠能器和能量中和器失准范围加成"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "zh": "收割抗扰断增效剂4"
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+24%武器扰断器抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "zh": "收割抗扰断增效剂1"
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+6%武器扰断器抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "zh": "收割抗扰断增效剂2"
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+12%武器扰断器抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "zh": "收割抗扰断增效剂3"
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+18%武器扰断器抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "zh": "收割掠能器增效剂1"
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>-3%掠能器装备循环周期加成。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "zh": "收割掠能器增效剂2"
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>-6%掠能器装备循环周期加成。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "zh": "血族收割增效剂3"
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>-9%掠能器装备循环周期加成。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "zh": "收割掠能器增效剂4"
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "zh": "每装配一个<b>黑暗血袭者</b>装备，此改装件提供的加成会固定提高1%"
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "zh": "收割停滞缠绕光束增效剂1"
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+1km停滞缠绕光束范围。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "zh": "收割停滞缠绕光束增效剂2"
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+2km停滞缠绕光束范围。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "zh": "收割停滞缠绕光束增效剂3"
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+3km停滞缠绕光束范围。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "zh": "收割停滞缠绕光束增效剂4"
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+4km停滞缠绕光束范围。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "zh": "收割伤害增效剂1"
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+3%能量炮台伤害。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "zh": "收割伤害增效剂2"
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "zh": "这种改装件由血袭者工程师利用艾玛与米玛塔尔同步器组合制造而成，可提升掠能器、能量中和器和能量炮台的性能。然而，这种以蛮力驱动的组合方式会显著降低舰船电容的回充速度。它还能连通加黑暗血袭者技术体系，将各项装备的效果串联起来。安装的黑暗血袭者装备越多，性能提升就越明显。惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。可通过训练<a href=showinfo:96100>同步改装技术</a>技能来降低装配该改装件所带来的CPU影响。"
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "zh": "收割伤害增效剂3"
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "zh": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "zh": "收割伤害增效剂4"
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "zh": "这款增效剂由血袭者的收割舰队研发，旨在更好地激发他们的嗜血本性。<b>+12%能量炮台伤害。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "zh": "特里蒙抗吸取增效剂1"
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+6%能量战抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "zh": "特里蒙抗吸取增效剂2"
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "zh": "这种改装件由血袭者工程师利用艾玛与米玛塔尔同步器组合制造而成，可提升掠能器、能量中和器和能量炮台的性能。然而，这种以蛮力驱动的组合方式会显著降低舰船电容的回充速度。它还能连通加黑暗血袭者技术体系，将各项装备的效果串联起来。安装的黑暗血袭者装备越多，性能提升就越明显。惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。可通过训练<a href=showinfo:96100>同步改装技术</a>技能来降低装配该改装件所带来的CPU影响。rfs"
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "zh": "特里蒙抗吸取增效剂3"
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+18%能量战抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "zh": "特里蒙抗吸取增效剂4"
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "zh": "每装配一个<b>黑暗血袭者</b>装备，此改装件提供的加成会固定提高1%"
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "zh": "特里蒙电容注电器1"
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "zh": "每装配一个<b>黑暗血袭者</b>装备，此改装件提供的加成会固定提高1%"
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "zh": "特里蒙电容注电器2"
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "zh": "这款注电器由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+6%电容器电量。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "zh": "特里蒙电容注电器3"
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "zh": "这款注电器由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+9%电容器电量。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "zh": "特里蒙电容注电器4"
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "zh": "电容回充时间惩罚"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "zh": "特里蒙抗性增效剂1"
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+2%装甲抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "zh": "特里蒙抗性增效剂2"
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+4%装甲抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "zh": "特里蒙抗性增效剂3"
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+6%装甲抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "zh": "特里蒙抗性增效剂4"
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+8%装甲抗性。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "zh": "特里蒙精准增效剂1"
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+3%能量炮台最佳射程和跟踪速度。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "zh": "特里蒙精准增效剂2"
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+6%能量炮台最佳射程和跟踪速度。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "zh": "特里蒙精准增效剂3"
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+9%能量炮台最佳射程和跟踪速度。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "zh": "特里蒙精准增效剂4"
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "zh": "这款增效剂由圣特里蒙军团的好战分子们研发，旨在提高猎杀异端分子的效率。<b>+12%能量炮台最佳射程和跟踪速度。基础持续时间：2小时</b><b>过期时间：YC128年11月10日</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "zh": "切玛科技炮台增效剂1"
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "zh": "<b>+4%炮台伤害。</b><b>+4%炮台跟踪速度。</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "zh": "切玛科技炮台增效剂2"
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "zh": "<b>+6%炮台伤害。</b><b>+6%炮台跟踪速度。</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "zh": "切玛科技炮台增效剂3"
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "zh": "<b>+8%炮台伤害。</b><b>+8%炮台跟踪速度。</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "zh": "切玛科技采矿增效剂1"
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "zh": "<b>+4%采矿激光器开采量。</b><b>+10%采矿激光器最佳射程。</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "zh": "切玛科技采矿增效剂2"
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "zh": "<b>+8%采矿激光器开采量。</b><b>+15%采矿激光器最佳射程。</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "zh": "切玛科技采矿增效剂3"
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "zh": "忠实制造的顶尖人才通过逆向工程，将艾玛与加达里同步器结合，制造出了这种改装件，可提升<a href=showinfo:3450>加力燃烧器</a>以及能量炮台的性能。然而，其强大的设计会产生极端的运行条件，大幅增加加力燃烧器的启动消耗。它还能连通萨沙爱国者技术体系，将各项装备的效果串联起来。安装的萨沙爱国者装备越多，性能提升就越明显。惩罚：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。可通过训练<a href=showinfo:96100>同步改装</a>技能来降低装配该改装件所带来的CPU影响。"
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "zh": "切玛科技探索增效剂1"
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "zh": "<b>+4数据分析仪病毒同步率</b><b>+4%探针扫描强度</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "zh": "切玛科技探索增效剂2"
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "zh": "<b>+6数据分析仪病毒同步率</b><b>+8%探针扫描强度</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "zh": "切玛科技探索增效剂3"
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "zh": "<b>+8数据分析仪病毒同步率</b><b>+12%探针扫描强度</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "zh": "切玛科技修复增效剂1"
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "zh": "<b>-4%装甲维修器循环周期。</b><b>-4%护盾回充增量器循环周期。</b>基础持续时间：3小时<b>过期时间：YC128年11月10日</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "zh": "切玛科技修复增效剂2"
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "zh": "加力燃烧器速度加成"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "zh": "切玛科技修复增效剂3"
     },
     "1051417": {
@@ -1238768,7 +1238684,7 @@
         "zh": "异变斜钨铅矿"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "zh": "受到超维力量影响而发生变异的斜钨铅矿，其分子结构已发生异常变化。艾玛帝国需要这种异常材料，研究如何提高流浪者的能量利用效率。接受他们的活动目标，并将此物品交给位于<url=showinfo:5//30002974>莫哈托尔</url>艾玛海军锚地外的物品贸易官。"
     },
     "1054676": {
@@ -1241789,11 +1241705,11 @@
     },
     "1056324": {
         "en": "{list}, or {lastItem}",
-        "zh": ""
+        "zh": "{list}，或{lastItem}"
     },
     "1056325": {
         "en": "{A} or {B}",
-        "zh": ""
+        "zh": "{A}或{B}"
     },
     "1056326": {
         "en": "Expedition Distress Signal",
@@ -1241821,19 +1241737,19 @@
     },
     "1056334": {
         "en": "You are about to move all assets belonging to you in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "zh": ""
+        "zh": "你即将把你在{[location]structureID.name}（位于{[location]solarsystemID.name, linkify}）中的所有资产转移至资产安全系统。 <br>进入资产安全系统5天后，你可以手动将物品运送至以下任意系统：{destinationList}。20天后，这些物品会被自动运送到{[location]defaultSolarSystemID.name, linkify}。<br>取回物品时需要支付费用。如果将物品运送至{destinationList}以外的地点，费用将会提高。{extraTaxText}<br>你确定要继续吗？"
     },
     "1056335": {
         "en": "Move items to Asset Safety?",
-        "zh": ""
+        "zh": "将物品移入资产安全系统？"
     },
     "1056336": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "zh": ""
+        "zh": "你即将把<b>{corpName}</b>在{[location]structureID.name}（位于{[location]solarsystemID.name, linkify}）中的所有资产转移至资产安全系统。 <br>进入资产安全系统5天后，你可以手动将物品运送至以下任意系统：{destinationList}。20天后，这些物品会被自动运送到{[location]defaultSolarSystemID.name, linkify}。<br>取回物品时需要支付费用。如果将物品运送至{destinationList}以外的地点，费用将会增加。{extraTaxText}<br>你确定要继续吗？"
     },
     "1056337": {
         "en": "Move corp items to Asset Safety?",
-        "zh": ""
+        "zh": "将军团物品移入资产安全系统？"
     },
     "1056342": {
         "en": "Excellent. \r\n\r\nTo browse the available <b>Academy Ships</b>, select the AIR Academy Ships service in the station panel to your right. This service is available at every station within Exordium.",
@@ -1241853,11 +1241769,11 @@
     },
     "1056358": {
         "en": "{trainedSp} / {totalSp} SP",
-        "zh": ""
+        "zh": "{trainedSp}/{totalSp}技能点"
     },
     "1056359": {
         "en": "Reset tag sequences",
-        "zh": ""
+        "zh": "重置标签序列"
     },
     "1056365": {
         "en": "Damning Punisher",
@@ -1242297,7 +1242213,7 @@
     },
     "1056478": {
         "en": "Please note that the fee in Zarzakh depends on the results of the Pirate Insurgency.",
-        "zh": ""
+        "zh": "请注意，扎尔扎克的费用取决于海盗叛乱的结果。"
     },
     "1056479": {
         "en": "<b>Free pre-fitted ships available at any station in Exordium.</b>\r\n<UL>\r\n<LI>Free to use, no penalty for loss.</LI>\r\n<LI>No skill requirements, but still receive benefits from the skills you train.</LI>\r\n<LI>Ships come equipped with modules and charges.</LI>\r\n<LI>13 ships to choose from, swap freely to try out different styles.</LI>\r\n</UL>\r\n<b>Restrictions:</b>\r\n<UL><LI>Can only be flown in Exordium.</LI>\r\n<LI>Can only have one active Academy Ship at a time.</LI>\r\n<LI>Cannot be traded or reprocessed.</LI>\r\n<LI>Academy modules and charges can only be used with Academy Ships</LI>\r\n</UL>",
@@ -1242317,15 +1242233,15 @@
     },
     "1056498": {
         "en": "Brand Management ",
-        "zh": ""
+        "zh": "品牌管理 "
     },
     "1056499": {
         "en": "Corporation Ads",
-        "zh": ""
+        "zh": "军团广告"
     },
     "1056500": {
         "en": "Wallet - PLEX",
-        "zh": ""
+        "zh": "钱包 - 伊甸币"
     },
     "1056502": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
@@ -1242649,7 +1242565,7 @@
     },
     "1056584": {
         "en": "Wallet - EverMarks",
-        "zh": ""
+        "zh": "钱包 - 长青点"
     },
     "1056592": {
         "en": "Gila Penumbral Shadows SKIN",
@@ -1243893,7 +1243809,7 @@
     },
     "1057167": {
         "en": "Edit Expiry",
-        "zh": ""
+        "zh": "编辑到期时间"
     },
     "1057169": {
         "en": "SARO Ore Reserve",
@@ -1243985,19 +1243901,19 @@
     },
     "1057293": {
         "en": "Jumping to {solarSystemName}",
-        "zh": ""
+        "zh": "正在跳跃到{solarSystemName}"
     },
     "1057294": {
         "en": "Preparing jump to {solarSystemName}",
-        "zh": ""
+        "zh": "正准备跳跃到{solarSystemName}"
     },
     "1057295": {
         "en": "Bridging to {solarSystemName}",
-        "zh": ""
+        "zh": "正在桥接到{solarSystemName}"
     },
     "1057296": {
         "en": "Preparing bridge to {solarSystemName}",
-        "zh": ""
+        "zh": "正准备桥接到{solarSystemName}"
     },
     "1057343": {
         "en": "SARO Black Sites",
@@ -1244605,15 +1244521,15 @@
     },
     "1058267": {
         "en": "Header sorting is disabled",
-        "zh": ""
+        "zh": "已禁用标题排序"
     },
     "1058268": {
         "en": "Header sorting enabled",
-        "zh": ""
+        "zh": "已启用标题排序"
     },
     "1058269": {
         "en": "Click a column header to sort the overview by that column.\r\nWhen this option is disabled, clicking a header does not change the sort column or direction.",
-        "zh": ""
+        "zh": "单击列标题可按该列对总览进行排序。禁用此选项后，单击列标题不会改变排序列或排序方向。"
     },
     "1058394": {
         "en": "SARO Mobile Observatory",
@@ -1244665,11 +1244581,11 @@
     },
     "1058458": {
         "en": "Add items listed in clipboard to filter",
-        "zh": ""
+        "zh": "将剪贴板中的物品添加到过滤器"
     },
     "1058459": {
         "en": "Format example:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>You can also drag items and fittings into the window.",
-        "zh": ""
+        "zh": "格式示例：<br>{[item]type1.name}<br>{[item]type2.name}<br><br>你还可以将物品和装配拖入窗口。"
     },
     "1058497": {
         "en": "Rogue Drone Outbreak",
@@ -1245056,7 +1244972,7 @@
         "zh": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "zh": "胜利的艾玛边缘"
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "zh": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "zh": "军团优势"
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "zh": "破坏{[numeric]amount, useGrouping}艘联邦官员战舰"
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "zh": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "zh": "自由自有其优势"
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "zh": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "zh": "不受限制的优势"
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "zh": "破坏{[numeric]amount, useGrouping}艘帝国官员战舰"
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "zh": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "zh": "坚守信仰"
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "zh": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "zh": "合众国屹立不倒"
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "zh": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "zh": "自由坚如磐石"
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "zh": "守卫{[numeric]amount, useGrouping}个盖伦特联邦势力战争复合体"
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "zh": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "zh": "断链不断线"
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "zh": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "zh": "祈求宽恕"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "zh": "在加入艾玛阵营时，对{[numeric]amount, useGrouping}个米玛塔尔或天使克隆飞行员造成致命一击"
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "zh": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "zh": "激进收购"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "zh": "加入加达里阵营时，对{[numeric]amount, useGrouping}个盖伦特或古斯塔斯克隆飞行员造成致命一击"
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "zh": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "zh": "疾速炮外交"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "zh": "加入盖伦特阵营时，对{[numeric]amount, useGrouping}个加达里或古斯塔斯克隆飞行员造成致命一击"
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "zh": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "zh": "粉碎压迫者"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "zh": "在加入米玛塔尔阵营时，对{[numeric]amount, useGrouping}个艾玛或天使克隆飞行员造成致命一击"
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "zh": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "zh": "光环与告别"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "zh": "在加入天使阵营时，对{[numeric]amount, useGrouping}个艾玛或米玛塔尔克隆飞行员造成致命一击"
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "zh": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "zh": "雇佣枪手"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "zh": "在加入古斯塔斯阵营时，对{[numeric]amount, useGrouping}个加达里或盖伦特克隆飞行员造成致命一击"
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "zh": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "zh": "神圣补偿"
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "zh": "为帝国圣战十字第二十四军团赚取{[numeric]amount, useGrouping}忠诚点"
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "zh": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "zh": "忠诚的回报"
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "zh": "为合众国护卫军赚取{[numeric]amount, useGrouping}忠诚点"
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "zh": "联合会福利"
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "zh": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "zh": "点锈成金"
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "zh": "为部族解放力量赚取{[numeric]amount, useGrouping}忠诚点"
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "zh": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "zh": "富贵险中求"
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "zh": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "zh": "突击行动"
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "zh": "为古里突击队赚取{[numeric]amount, useGrouping}忠诚点"
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "zh": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "zh": "天选毁灭者"
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "zh": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "zh": "钢铁无敌"
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "zh": "歼灭{[numeric]amount, useGrouping}个哈库藏苏的钢鳞非克隆飞行员"
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "zh": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "zh": "压制镇压者"
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "zh": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "zh": "黄金舰队"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "zh": "夺取{[numeric]amount, useGrouping}具独特的艾玛海军船体。"
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "zh": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "zh": "行政火力"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "zh": "夺取{[numeric]amount, useGrouping}具独特的加达里海军船体。"
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "zh": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "zh": "联邦艾玛达"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "zh": "夺取{[numeric]amount, useGrouping}具独特的盖伦特海军船体。"
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "zh": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "zh": "反抗舰队"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "zh": "夺取{[numeric]amount, useGrouping}具独特的共和舰队船体。"
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "zh": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "zh": "天使军团"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "zh": "夺取{[numeric]amount, useGrouping}具独特的天使企业联合体船体。"
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "zh": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "zh": "冷血火力"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "zh": "夺取{[numeric]amount, useGrouping}具独特的古斯塔斯船体。"
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "zh": ""
     },
     "1059561": {
@@ -1246431,6 +1246347,38 @@
         "en": "A Dreadnought of the Caldari State",
         "zh": "加达里合众国的一艘无畏舰"
     },
+    "1060615": {
+        "en": "Station",
+        "zh": ""
+    },
+    "1060618": {
+        "en": "Station docked at",
+        "zh": ""
+    },
+    "1060623": {
+        "en": "Manifest Station",
+        "zh": ""
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub",
+        "zh": ""
+    },
+    "1060625": {
+        "en": "The Hub of Exordium",
+        "zh": ""
+    },
+    "1060626": {
+        "en": "Dock at a Station",
+        "zh": ""
+    },
+    "1060627": {
+        "en": "Dock at a station or structure",
+        "zh": ""
+    },
+    "1060628": {
+        "en": "stations docked",
+        "zh": ""
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "zh": ""
@@ -1246517,6 +1246465,10 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "zh": ""
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship",
         "zh": ""
     }
 }

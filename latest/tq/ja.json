@@ -882041,7 +882041,7 @@
     },
     "515829": {
         "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "ja": "{[location]solarsystemID.name, linkify}にある{structureLink}の資産が、アセットセーフティシステムによって移送されます。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}（{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}）以降に、資産は{[location]solarsystemID.name, linkify}のロケーションに手動で移送できます。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}（{[datetime]assetSafetyFullTimestamp, date=short, time=short}）経過した場合は、資産は自動で{[location]newStationID.name, linkify}に移送されます。この場合、資産を回収するために手数料を支払う必要があります。"
+        "ja": "{[location]solarsystemID.name, linkify}にある{structureLink}の資産が、アセットセーフティシステムによって移送されます。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}（{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}）以降に、資産は{listOfSolarSystems}のロケーションに手動で移送できます。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}（{[datetime]assetSafetyFullTimestamp, date=short, time=short}）経過した場合は、資産は自動で{[location]newStationID.name, linkify}に移送されます。この場合、資産を回収するために手数料を支払う必要があります。"
     },
     "515830": {
         "en": "Report: items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} need your attention",
@@ -884437,7 +884437,7 @@
     },
     "516506": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
-        "ja": "{[location]solarsystemID.name, linkify}の{[location]structureID.name}に存在する<b>{corpName}</b>の全資産をアセットセーフティに移動させようとしています。<br>アセットセーフティに移動させてから5日が経過すると、アイテムは同じシステム内の場所に手動で、安全に移動させることができるようになります。20日が経過すると、アイテムは自動的に近くのステーションに移動されます。<br>いかなるアイテムを回収する場合も、費用が発生します。また、移動先が{[location]solarsystemID.name, linkify}外だった場合は費用が高くなります。<br>このまま続けてよろしいですか？"
+        "ja": "{[location]solarsystemID.name, linkify}の{[location]structureID.name}にある<b>{corpName}</b>の全資産を、アセットセーフティに移動しようとしています。<br>アセットセーフティに移動してから5日が経過すると、アイテムを同じシステム内のロケーションへ手動で配送できるようになります。20日が経過すると、アイテムは近くのステーションへ自動的に配送されます。<br>アイテムを回収する際には、手数料が発生します。{[location]solarsystemID.name, linkify}以外の場所へ配送する場合、この手数料は割増となります。<br>このまま続けてよろしいですか？"
     },
     "516507": {
         "en": "Move corp items to Asset Safety?",
@@ -933061,7 +933061,7 @@
     },
     "536323": {
         "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "ja": "{[location]solarsystemID.name, linkify}にある{structureLink}のコーポレーションの資産が、アセットセーフティシステムによって移送されます。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}（{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}）以降に、資産は{[location]solarsystemID.name, linkify}のロケーションに手動で移送できます。手動移送の制御は、ディレクターのみが可能です。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}（{[datetime]assetSafetyFullTimestamp, date=short, time=short}）経過した場合は、資産は自動で{[location]newStationID.name, linkify}に移送されます。この場合、資産を回収するために手数料を支払う必要があります。"
+        "ja": "{[location]solarsystemID.name, linkify}にある{structureLink}のコーポレーションの資産が、アセットセーフティシステムによって移送されます。{[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour}（{[datetime]assetSafetyMinimumTimestamp, date=short, time=short}）以降に、資産は{listOfSolarSystems}のロケーションに手動で移送できます。手動移送の制御は、ディレクターのみが可能です。<br>{[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour}（{[datetime]assetSafetyFullTimestamp, date=short, time=short}）経過した場合は、資産は自動で{[location]newStationID.name, linkify}に移送されます。この場合、資産を回収するために手数料を支払う必要があります。"
     },
     "536336": {
         "en": "Replay operation",
@@ -1063932,7 +1063932,7 @@
         "ja": "カウンター・カース"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるスカイブレイカー級フリゲート。ターゲットペインターを搭載している。\r\n\r\nこの艦は、SAROの機密施設周辺の飛行禁止区域を取り締まる部隊の一員であり、無許可の艦船を排除する権限を持つ。"
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "ja": "ディテイナー・フォボス"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるカース級巡洋艦。ウェビファイアとワープスクランブラーを搭載している。\r\n\r\nこの艦は、SAROの機密施設周辺の飛行禁止区域を取り締まる部隊の一員であり、無許可の艦船を排除する権限を持つ。"
     },
     "600478": {
@@ -1073918,90 +1073918,6 @@
     "623648": {
         "en": "Destroyed Vessel",
         "ja": "破壊された船"
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
-    },
-    "623673": {
-        "en": "Barren Asteroid",
-        "ja": "不毛なアステロイド"
     },
     "623707": {
         "en": "Imperial Frigate",
@@ -1168177,7 +1168093,7 @@
     },
     "1010612": {
         "en": "Corporation - Freelance Jobs",
-        "ja": "フリーランスジョブ"
+        "ja": "コーポレーション - フリーランスジョブ"
     },
     "1010613": {
         "en": "View active and completed Freelance Jobs.",
@@ -1202272,7 +1202188,7 @@
         "ja": "タルワー海軍仕様設計図"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "ja": "グノーシス用フレンドシップリーグSKIN"
     },
     "1034348": {
@@ -1208752,12 +1208668,12 @@
         "ja": "建設現場"
     },
     "1037736": {
-        "en": "Achievement",
-        "ja": "実績"
+        "en": "Complete Achievements",
+        "ja": "実績を達成する"
     },
     "1037737": {
-        "en": "List of Required Achievements",
-        "ja": "必要な実績リスト"
+        "en": "Complete Achievements",
+        "ja": "実績を達成する"
     },
     "1037738": {
         "en": "achievements completed",
@@ -1212868,7 +1212784,7 @@
         "ja": "カルダリ連合の秘密に包まれた記録保管局の下で任務に就くフリゲート。ガレンテ連邦内部で極秘のデータ通信を狙う隠密作戦を警護する役割を担う。"
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "ja": "期限切れ帝国防衛ブースターII"
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "ja": "SKINシーケンシングで無制限に使用できるベーシックナノコーティングライセンス。有効化するとSKINRコレクションに追加される。\r\n\r\nこのナノコーティングのデジタルシーケンスには制限がかかっておらず、無制限に使用できる。ただし、このナノコーティングを使ってデザインのシーケンシングを行うたびに、生産する独自のSKINライセンスをバインドするために<a href=showinfo:81350>カー・シーケンサー</a>を用意する必要がある。"
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "ja": "PL_PointLight_Green_01a"
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "ja": "キャンペーン目標の報酬"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "ja": "タイマンのアシッムー"
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "ja": "パターの戦闘シミュレーションの完了に推奨されるモジュール。"
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "ja": "タイマンのアシッムー"
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "ja": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "ja": "複合施設アルファ"
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "ja": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "ja": "タイマンのアシッムー"
     },
     "1043979": {
@@ -1228088,7 +1228004,7 @@
         "ja": "古代マター人の格言"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "ja": "YC128年、「征服」技術の脅威が迫る中、共和国海軍は、来たる紛争への投入が見込まれる打撃部隊に優位性をもたらす新型巡洋戦艦の開発を要請した。「征服」技術はCONCORDとの合意によって制限されていたものの、実戦投入は避けられないと多くの者が考えており、ミンマターはその脅威を見据えて先手を打とうとしていた。\r\n\r\nその成果が、共和国海軍の高性能フリート艦艇、トルネード海軍仕様である。従来型から数々の改良を遂げた自慢の艦船であったが、征服エンジンの圧倒的な力には到底及ばない平凡な兵器だと批判する者もいた。"
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "ja": "<font size=\"14\"><b>ミンマターパイロット・エキスパートシステム</b></font>\r\n\r\nこのエキスパートシステムを使用すると、カプセラがミンマターのT1および海軍仕様のフリゲート、駆逐艦、巡洋艦、巡洋戦艦、そして戦艦を操縦するために必要なスキルと、ミンマター艦に特化したサポートスキルを利用できるようになる。\r\n\r\n<b>このエキスパートシステムで提供される一時スキルの有効期間は7日間。</b>\r\n\r\nエキスパートシステムは、有効なレンタル期間中に特定のスキルへのアクセスを提供する、リモートで制限された人工知能である。クローンやカプセルからは独立しているため、ポッドの喪失やクローンジャンプによって失われることがない。\r\n\r\n<font size=\"14\"><b>エキスパートシステムの起動</b></font>\r\n\r\nエキスパートシステムは、サービスを利用しようとする特定のカプセラがアイテムを交換することで自動的に起動する。\r\n\r\n<i>エキスパートシステムは、PKNインターステラー・コンソーシアムが開発した製品で、ハイパーネットFTL通信網を流通し、PKNインターステラーの関連企業が販売している。人工ゲルブレイン技術をベースにした制限付きAIで、スキルトレーニングやスキルインジェクションによって生成された神経経路を利用しているため、カプセルシップのインターフェースや制御システムとも互換性がある。PKNインターステラーのハイパーネット上の専用FTLチャンネルを使用して、リアルタイムコマンドと制御通信を実現している。</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "ja": "オラクル海軍仕様設計図"
     },
     "1048034": {
@@ -1228853,11 +1228769,11 @@
     },
     "1048584": {
         "en": "Open Watchlist When Joining Fleet",
-        "ja": ""
+        "ja": "フリート参加時にウォッチリストを開く"
     },
     "1048586": {
         "en": "itemID",
-        "ja": ""
+        "ja": "アイテムID"
     },
     "1048592": {
         "en": "Rogue Edge Construction Site",
@@ -1228881,7 +1228797,7 @@
     },
     "1048600": {
         "en": "exact ID of an item",
-        "ja": ""
+        "ja": "アイテムの正確なID"
     },
     "1048601": {
         "en": "State Corridor Construction Site",
@@ -1228913,11 +1228829,11 @@
     },
     "1048692": {
         "en": "Do not show again.",
-        "ja": ""
+        "ja": "次回から表示しない"
     },
     "1048694": {
         "en": "Show Site Transmission",
-        "ja": ""
+        "ja": "サイト通信を表示"
     },
     "1048802": {
         "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
@@ -1230817,15 +1230733,15 @@
     },
     "1050125": {
         "en": "Memberships",
-        "ja": ""
+        "ja": "メンバーシップ"
     },
     "1050127": {
         "en": "Allow new roles",
-        "ja": ""
+        "ja": "新しい役職の許可"
     },
     "1050130": {
         "en": "Remove All Roles",
-        "ja": ""
+        "ja": "すべての役職を削除"
     },
     "1050131": {
         "en": "Non-Interactable ORE HISC-99 Ice Refinery",
@@ -1230833,11 +1230749,11 @@
     },
     "1050137": {
         "en": "Resign as CEO",
-        "ja": ""
+        "ja": "CEOを辞任"
     },
     "1050138": {
         "en": "(Enlisted since {date})",
-        "ja": ""
+        "ja": "（{date}から参加）"
     },
     "1050141": {
         "en": "General",
@@ -1230853,19 +1230769,19 @@
     },
     "1050152": {
         "en": "Title",
-        "ja": ""
+        "ja": "称号"
     },
     "1050205": {
         "en": "Your corporation is no longer permitted to grant you new roles.",
-        "ja": ""
+        "ja": "所属コーポレーションは、あなたに新しい役職を付与できなくなりました。"
     },
     "1050206": {
         "en": "Block New Roles?",
-        "ja": ""
+        "ja": "新しい役職をブロックしますか？"
     },
     "1050207": {
         "en": "Are you sure you want to block your corporation from granting you new roles?",
-        "ja": ""
+        "ja": "所属コーポレーションによる新しい役職の付与をブロックしてもよろしいですか？"
     },
     "1050208": {
         "en": "Career Overview",
@@ -1230873,7 +1230789,7 @@
     },
     "1050211": {
         "en": "Service Length",
-        "ja": ""
+        "ja": "在籍期間"
     },
     "1050214": {
         "en": "Base Achievements",
@@ -1230889,15 +1230805,15 @@
     },
     "1050231": {
         "en": "via direct enlistment",
-        "ja": ""
+        "ja": "直接参加による"
     },
     "1050238": {
         "en": "Factional warfare enemies",
-        "ja": ""
+        "ja": "国家間戦争の敵対勢力"
     },
     "1050239": {
         "en": "Open Enlistment Page",
-        "ja": ""
+        "ja": "参加ページを開く"
     },
     "1050260": {
         "en": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
@@ -1230957,7 +1230873,7 @@
     },
     "1050282": {
         "en": "When enabled, your corporation can assign new roles to you.<br><br>To leave your corporation, you must first remove all assigned roles and complete a 24-hour corporate stasis period. Disable this option to prevent your corporation from assigning you new roles while you prepare to leave.",
-        "ja": ""
+        "ja": "有効にすると、所属コーポレーションがあなたに新しい役職を割り当てられるようになります。<br><br>コーポレーションを脱退するには、まず割り当てられたすべての役職を削除し、24時間のコーポレーション静止期間を完了する必要があります。脱退の準備中に新しい役職を割り当てられたくない場合は、このオプションを無効にしてください。"
     },
     "1050283": {
         "en": "Navigation",
@@ -1233100,7 +1233016,7 @@
         "ja": "ブラッドレイダーの技術者がアマーとミンマターのシンクロナイザーを組み合わせて開発したリグ。エネルギーノスフェラトゥ、エネルギーニュートラライザー、エネルギータレットの性能を向上させる。ただし、このシンクロナイザーを駆動する強引な技術の融合は、キャパシタの充電性能を大きく損なう。また、ダークブラッドの技術同士を連携させる機構も組み込まれており、ダークブラッドのモジュールを多く搭載するほど、さらに高い性能を発揮する。\r\n\r\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。\r\n\r\n<a href=showinfo:96100>同期リグ</a>スキルをトレーニングすれば、このリグを装備することで発生するCPUのデメリットを軽減できる。"
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "ja": "基本「レイディアンス」大脳アクセラレーター"
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "ja": "デスグローハンターズが、ブラッドレイダーカバナント内の仲間と協力して製造・販売した大脳アクセラレーター。カプセラがこのブースターを使用するとスキルをトレーニングする速度が一定期間上昇する。\r\n\r\nこの大脳アクセラレーターの製造には揮発性物質が使用されているため、使用期限が設定されている。YC128年11月10日に効果が失われる。"
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "ja": "強力「レイディアンス」大脳アクセラレーター"
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "ja": "ノスフェラトゥとエネルギーニュートラライザーのオーバーヒートボーナス"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "ja": "拡張「レイディアンス」大脳アクセラレーター"
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "ja": "ノスフェラトゥとエネルギーニュートラライザーの精度低下範囲ボーナス"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "ja": "ハーベスト対妨害器ブースターIV"
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>兵器妨害器へのレジスタンス+24%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "ja": "ハーベスト対妨害器ブースターI"
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>兵器妨害器へのレジスタンス+6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "ja": "ハーベスト対妨害器ブースターII"
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>兵器妨害器へのレジスタンス+12%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "ja": "ハーベスト対妨害器ブースターIII"
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>兵器妨害器へのレジスタンス+18%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "ja": "ハーベスト・ノスフェラトゥブースターI"
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ノスフェラトゥサイクル時間-3%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "ja": "ハーベスト・ノスフェラトゥブースターII"
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ノスフェラトゥサイクル時間-6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "ja": "ハーベスト・ノスフェラトゥブースターIII"
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ノスフェラトゥサイクル時間-9%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "ja": "ハーベスト・ノスフェラトゥブースターIV"
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "ja": "このリグによるボーナスは、艦船が装備している<b>ダークブラッド</b>モジュール1つにつき一律で1%増加"
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "ja": "ハーベスト・ウェビファイヤーブースターI"
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ウェビファイヤーの射程+1km。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "ja": "ハーベスト・ウェビファイヤーブースターII"
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ウェビファイヤーの射程+2km。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "ja": "ハーベスト・ウェビファイヤーブースターIII"
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ウェビファイヤーの射程+3km。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "ja": "ハーベスト・ウェビファイヤーブースターIV"
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>ウェビファイヤーの射程+4km。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "ja": "ハーベスト・ダメージブースターI"
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>エネルギータレットのダメージ+3%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "ja": "ハーベスト・ダメージブースターII"
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "ja": "ブラッドレイダーの技術者がアマーとミンマターのシンクロナイザーを組み合わせて開発したリグ。エネルギーノスフェラトゥ、エネルギーニュートラライザー、エネルギータレットの性能を向上させる。ただし、このシンクロナイザーを駆動する強引な技術の融合は、キャパシタの充電性能を大きく損なう。また、ダークブラッドの技術同士を連携させる機構も組み込まれており、ダークブラッドのモジュールを多く搭載するほど、さらに高い性能を発揮する。\r\n\r\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。\r\n\r\n<a href=showinfo:96100>同期リグ</a>スキルをトレーニングすれば、このリグを装備することで発生するCPUのデメリットを軽減できる。"
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "ja": "ハーベスト・ダメージブースターIII"
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "ja": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "ja": "ハーベスト・ダメージブースターIV"
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "ja": "このブースターはブラッドレイダーズのハーベストフリートにより、血生臭い海賊活動を補助するために開発された。\r\n\r\n<b>エネルギータレットのダメージ+12%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "ja": "テトリモン対吸収ブースターI"
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>エネルギー戦レジスタンス+6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "ja": "テトリモン対吸収ブースターII"
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "ja": "ブラッドレイダーの技術者がアマーとミンマターのシンクロナイザーを組み合わせて開発したリグ。エネルギーノスフェラトゥ、エネルギーニュートラライザー、エネルギータレットの性能を向上させる。ただし、このシンクロナイザーを駆動する強引な技術の融合は、キャパシタの充電性能を大きく損なう。また、ダークブラッドの技術同士を連携させる機構も組み込まれており、ダークブラッドのモジュールを多く搭載するほど、さらに高い性能を発揮する。\r\n\r\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。\r\n\r\n<a href=showinfo:96100>同期リグ</a>スキルをトレーニングすれば、このリグを装備することで発生するCPUのデメリットを軽減できる。"
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "ja": "テトリモン対吸収ブースターIII"
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>エネルギー戦レジスタンス+18%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "ja": "テトリモン対吸収ブースターIV"
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "ja": "このリグによるボーナスは、艦船が装備している<b>ダークブラッド</b>モジュール1つにつき一律で1%増加"
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "ja": "テトリモン・キャパシタブースターI"
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "ja": "このリグによるボーナスは、艦船が装備している<b>ダークブラッド</b>モジュール1つにつき一律で1%増加"
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "ja": "テトリモン・キャパシタブースターII"
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>キャパシタ容量+6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "ja": "テトリモン・キャパシタブースターIII"
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>キャパシタ容量+9%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "ja": "テトリモン・キャパシタブースターIV"
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "ja": "キャパシタ充電時間ペナルティ"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "ja": "テトリモン・レジスタンスブースターI"
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>アーマーレジスタンス+2%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "ja": "テトリモン・レジスタンスブースターII"
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>アーマーレジスタンス+4%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "ja": "テトリモン・レジスタンスブースターIII"
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>アーマーレジスタンス+6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "ja": "テトリモン・レジスタンスブースターIV"
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>アーマーレジスタンス+8%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "ja": "テトリモン精度ブースターI"
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>エネルギータレットの最適射程距離および追跡速度+3%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "ja": "テトリモン精度ブースターII"
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>エネルギータレットの最適射程距離および追跡速度+6%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "ja": "テトリモン精度ブースターIII"
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>エネルギータレットの最適射程距離および追跡速度+9%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "ja": "テトリモン精度ブースターIV"
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "ja": "このブースターは聖テトリモン修道会の武闘派パラディンにより、カルト集団を狩りだす際の補助ツールとして開発された。\r\n\r\n<b>エネルギータレットの最適射程距離および追跡速度+12%。基本持続時間：2時間</b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "ja": "ケミカルテク製タレットブースターI"
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "ja": "<b>タレットダメージ+4%。</b>\r\n<b>タレット追跡速度+4%。</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "ja": "ケミカルテク製タレットブースターII"
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "ja": "<b>タレットダメージ+6%。</b>\r\n<b>タレット追跡速度+6%。</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "ja": "ケミカルテク製タレットブースターIII"
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "ja": "<b>タレットダメージ+8%。</b>\r\n<b>タレット追跡速度+8%。</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "ja": "ケミカルテク採掘ブースターI"
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "ja": "<b>採掘レーザーの採掘量+4%。</b>\r\n<b>採掘レーザー最適射程距離+10%。</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "ja": "ケミカルテク採掘ブースターII"
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "ja": "<b>採掘レーザーの採掘量+8%。</b>\r\n<b>採掘レーザー最適射程距離+15%。</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "ja": "ケミカルテク採掘ブースターIII"
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "ja": "トゥルークリエーション最高峰の頭脳集団が、アマーとカルダリのシンクロナイザーを組み合わせてリバースエンジニアリングしたリグ。<a href=showinfo:3450>アフターバーナー</a>とエネルギータレットの性能を向上させる。ただし、その強力な設計が生み出す極限状態により、アフターバーナーの起動コストが大幅に増加する。また、トゥルーサンシャの技術系統を統合しており、トゥルーサンシャのモジュールを多く搭載するほど、さらに高い性能が解放される。\r\n\r\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。\r\n\r\n<a href=showinfo:96100>同期リグ</a>スキルをトレーニングすれば、このリグを装備することで発生するCPUのデメリットを軽減できる。"
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "ja": "ケミカルテク探索ブースターI"
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "ja": "<b>データアナライザーのウイルスコヒーレンス+4</b>\r\n<b>スキャンプローブ強度+4%</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "ja": "ケミカルテク探索ブースターII"
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "ja": "<b>データアナライザーのウイルスコヒーレンス+6</b>\r\n<b>スキャンプローブ強度+8%</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "ja": "ケミカルテク探索ブースターIII"
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "ja": "<b>データアナライザーのウイルスコヒーレンス+8</b>\r\n<b>スキャンプローブ強度+12%</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "ja": "ケミカルテク・リペアラブースターI"
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "ja": "<b>アーマーリペアラのサイクル時間-4%。</b>\r\n<b>シールドブースターのサイクル時間-4%。</b>\r\n\r\n基本持続時間：3時間\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "ja": "ケミカルテク・リペアラブースターII"
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "ja": "アフターバーナー速度ボーナス"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "ja": "ケミカルテク・リペアラブースターIII"
     },
     "1051417": {
@@ -1238768,7 +1238684,7 @@
         "ja": "変異ラスパイト"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "ja": "超次元の力にさらされて変質したラスパイト無機物の変異分子。アマー帝国は、ドリフターのエネルギー効率に関する研究のために、この変異鉱物を必要としている。\r\n\r\n帝国は自国のキャンペーン目標のため、<url=showinfo:5//30002974>メハトゥア</url>のアマー海軍係留拠点外にいるアイテムトレーダーにこれを届けた者に報酬を与える。"
     },
     "1054676": {
@@ -1241789,11 +1241705,11 @@
     },
     "1056324": {
         "en": "{list}, or {lastItem}",
-        "ja": ""
+        "ja": "{list}または{lastItem}"
     },
     "1056325": {
         "en": "{A} or {B}",
-        "ja": ""
+        "ja": "{A}または{B}"
     },
     "1056326": {
         "en": "Expedition Distress Signal",
@@ -1241821,19 +1241737,19 @@
     },
     "1056334": {
         "en": "You are about to move all assets belonging to you in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "ja": ""
+        "ja": "{[location]solarsystemID.name, linkify}の{[location]structureID.name}にあるあなたの全資産を、アセットセーフティに移動しようとしています。<br>アセットセーフティに移動してから5日が経過すると、アイテムを次のいずれかのシステムへ手動で配送できるようになります：{destinationList}。20日が経過すると、アイテムは自動的に{[location]defaultSolarSystemID.name, linkify}へ配送されます。<br>アイテムを回収する際には、手数料が発生します。{destinationList}以外の場所へ配送する場合、この手数料は割増となります。{extraTaxText}<br>このまま続けてよろしいですか？"
     },
     "1056335": {
         "en": "Move items to Asset Safety?",
-        "ja": ""
+        "ja": "アイテムをアセットセーフティに移動しますか？"
     },
     "1056336": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "ja": ""
+        "ja": "{[location]solarsystemID.name, linkify}の{[location]structureID.name}にある<b>{corpName}</b>の全資産を、アセットセーフティに移動しようとしています。<br>アセットセーフティに移動してから5日が経過すると、アイテムを次のいずれかのシステムへ手動で配送できるようになります：{destinationList}。20日が経過すると、アイテムは自動的に{[location]defaultSolarSystemID.name, linkify}へ配送されます。<br>アイテムを回収する際には、手数料が発生します。{destinationList}以外の場所へ配送する場合、この手数料は割増となります。{extraTaxText}<br>このまま続けてよろしいですか？"
     },
     "1056337": {
         "en": "Move corp items to Asset Safety?",
-        "ja": ""
+        "ja": "コーポレーションのアイテムをアセットセーフティに移動しますか？"
     },
     "1056342": {
         "en": "Excellent. \r\n\r\nTo browse the available <b>Academy Ships</b>, select the AIR Academy Ships service in the station panel to your right. This service is available at every station within Exordium.",
@@ -1241853,11 +1241769,11 @@
     },
     "1056358": {
         "en": "{trainedSp} / {totalSp} SP",
-        "ja": ""
+        "ja": "{trainedSp} / {totalSp} SP "
     },
     "1056359": {
         "en": "Reset tag sequences",
-        "ja": ""
+        "ja": "タグの連番をリセット"
     },
     "1056365": {
         "en": "Damning Punisher",
@@ -1242297,7 +1242213,7 @@
     },
     "1056478": {
         "en": "Please note that the fee in Zarzakh depends on the results of the Pirate Insurgency.",
-        "ja": ""
+        "ja": "ザルザクでの手数料は、「海賊の反乱」の結果によって変動します。ご注意ください。"
     },
     "1056479": {
         "en": "<b>Free pre-fitted ships available at any station in Exordium.</b>\r\n<UL>\r\n<LI>Free to use, no penalty for loss.</LI>\r\n<LI>No skill requirements, but still receive benefits from the skills you train.</LI>\r\n<LI>Ships come equipped with modules and charges.</LI>\r\n<LI>13 ships to choose from, swap freely to try out different styles.</LI>\r\n</UL>\r\n<b>Restrictions:</b>\r\n<UL><LI>Can only be flown in Exordium.</LI>\r\n<LI>Can only have one active Academy Ship at a time.</LI>\r\n<LI>Cannot be traded or reprocessed.</LI>\r\n<LI>Academy modules and charges can only be used with Academy Ships</LI>\r\n</UL>",
@@ -1242317,15 +1242233,15 @@
     },
     "1056498": {
         "en": "Brand Management ",
-        "ja": ""
+        "ja": "ブランドマネージメント"
     },
     "1056499": {
         "en": "Corporation Ads",
-        "ja": ""
+        "ja": "コーポレーション広告"
     },
     "1056500": {
         "en": "Wallet - PLEX",
-        "ja": ""
+        "ja": "ウォレット - PLEX"
     },
     "1056502": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
@@ -1242649,7 +1242565,7 @@
     },
     "1056584": {
         "en": "Wallet - EverMarks",
-        "ja": ""
+        "ja": "ウォレット - エバーマーク"
     },
     "1056592": {
         "en": "Gila Penumbral Shadows SKIN",
@@ -1243893,7 +1243809,7 @@
     },
     "1057167": {
         "en": "Edit Expiry",
-        "ja": ""
+        "ja": "有効期限を編集"
     },
     "1057169": {
         "en": "SARO Ore Reserve",
@@ -1243985,19 +1243901,19 @@
     },
     "1057293": {
         "en": "Jumping to {solarSystemName}",
-        "ja": ""
+        "ja": "{solarSystemName}へジャンプ中"
     },
     "1057294": {
         "en": "Preparing jump to {solarSystemName}",
-        "ja": ""
+        "ja": "{solarSystemName}へのジャンプを準備中"
     },
     "1057295": {
         "en": "Bridging to {solarSystemName}",
-        "ja": ""
+        "ja": "{solarSystemName}へブリッジ中"
     },
     "1057296": {
         "en": "Preparing bridge to {solarSystemName}",
-        "ja": ""
+        "ja": "{solarSystemName}へのブリッジを準備中"
     },
     "1057343": {
         "en": "SARO Black Sites",
@@ -1244605,15 +1244521,15 @@
     },
     "1058267": {
         "en": "Header sorting is disabled",
-        "ja": ""
+        "ja": "ヘッダーによる並べ替えは無効です"
     },
     "1058268": {
         "en": "Header sorting enabled",
-        "ja": ""
+        "ja": "ヘッダーによる並べ替えは有効です"
     },
     "1058269": {
         "en": "Click a column header to sort the overview by that column.\r\nWhen this option is disabled, clicking a header does not change the sort column or direction.",
-        "ja": ""
+        "ja": "列ヘッダーをクリックすると、その列でオーバービューを並べ替えます。\r\nこのオプションを無効にすると、ヘッダーをクリックしても、並べ替えの列や順序は変わりません。"
     },
     "1058394": {
         "en": "SARO Mobile Observatory",
@@ -1244665,11 +1244581,11 @@
     },
     "1058458": {
         "en": "Add items listed in clipboard to filter",
-        "ja": ""
+        "ja": "クリップボードにあるアイテムをフィルターに追加"
     },
     "1058459": {
         "en": "Format example:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>You can also drag items and fittings into the window.",
-        "ja": ""
+        "ja": "フォーマットの例：<br>{[item]type1.name}<br>{[item]type2.name}<br><br>アイテムや装備をウィンドウにドラッグ＆ドロップすることもできます。"
     },
     "1058497": {
         "en": "Rogue Drone Outbreak",
@@ -1245056,7 +1244972,7 @@
         "ja": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "ja": "勝利のアマージン"
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "ja": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "ja": "企業の優位性"
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "ja": "連邦士官の戦艦を{[numeric]amount, useGrouping}隻撃破する"
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "ja": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "ja": "自由には利点がある"
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "ja": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "ja": "束縛なき優位"
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "ja": "帝国士官の戦艦を{[numeric]amount, useGrouping}隻撃破する"
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "ja": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "ja": "信仰を守り抜け"
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "ja": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "ja": "連合は健在なり"
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "ja": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "ja": "自由は揺るがず"
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "ja": "ガレンテ連邦のために、国家間戦争の複合施設を{[numeric]amount, useGrouping}か所防衛する"
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "ja": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "ja": "断ち切られた鎖、途切れぬ戦線"
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "ja": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "ja": "赦しを祈れ"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "ja": "アマーに入隊中に、ミンマターまたはエンジェルのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "ja": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "ja": "敵対的買収"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "ja": "カルダリに入隊中に、ガレンテまたはガリスタスのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "ja": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "ja": "ブラスター外交"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "ja": "ガレンテに入隊中に、カルダリまたはガリスタスのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "ja": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "ja": "抑圧者をスクラップに"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "ja": "ミンマターに入隊中に、アマーまたはエンジェルのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "ja": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "ja": "天使の輪とさようなら"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "ja": "エンジェルズに入隊中に、アマーまたはミンマターのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "ja": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "ja": "雇われ傭兵"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "ja": "ガリスタスに入隊中に、カルダリまたはガレンテのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "ja": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "ja": "神の報酬"
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "ja": "第24隊帝国十字軍のロイヤルティポイントを{[numeric]amount, useGrouping}獲得する"
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "ja": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "ja": "忠誠の見返り"
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "ja": "連合プロテクトレイトのロイヤルティポイントを{[numeric]amount, useGrouping}獲得する"
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "ja": "組合員特典"
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "ja": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "ja": "錆から富へ"
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "ja": "連盟自由軍のロイヤルティポイントを{[numeric]amount, useGrouping}獲得する"
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "ja": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "ja": "犯罪は割に合う"
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "ja": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "ja": "コマンドー突撃"
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "ja": "コマンド・グリのロイヤルティポイントを{[numeric]amount, useGrouping}獲得する"
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "ja": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "ja": "破壊に選ばれし者"
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "ja": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "ja": "鋼も歯が立たず"
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "ja": "「ハクゾズのスティールスケイル」の非カプセラを{[numeric]amount, useGrouping}体撃破する"
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "ja": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "ja": "抑圧者を抑え込め"
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "ja": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "ja": "黄金艦隊"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "ja": "アマー海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "ja": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "ja": "重役級の火力"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "ja": "カルダリ海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "ja": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "ja": "連邦大艦隊"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "ja": "ガレンテ海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "ja": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "ja": "反骨の艦隊"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "ja": "共和国海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "ja": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "ja": "天使の軍団"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "ja": "エンジェルカルテルの異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "ja": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "ja": "冷血の火力"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "ja": "ガリスタスの異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "ja": ""
     },
     "1059561": {
@@ -1246431,6 +1246347,38 @@
         "en": "A Dreadnought of the Caldari State",
         "ja": "カルダリ連合の攻城艦。"
     },
+    "1060615": {
+        "en": "Station",
+        "ja": ""
+    },
+    "1060618": {
+        "en": "Station docked at",
+        "ja": ""
+    },
+    "1060623": {
+        "en": "Manifest Station",
+        "ja": ""
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub",
+        "ja": ""
+    },
+    "1060625": {
+        "en": "The Hub of Exordium",
+        "ja": ""
+    },
+    "1060626": {
+        "en": "Dock at a Station",
+        "ja": ""
+    },
+    "1060627": {
+        "en": "Dock at a station or structure",
+        "ja": ""
+    },
+    "1060628": {
+        "en": "stations docked",
+        "ja": ""
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "ja": ""
@@ -1246517,6 +1246465,10 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "ja": ""
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship",
         "ja": ""
     }
 }

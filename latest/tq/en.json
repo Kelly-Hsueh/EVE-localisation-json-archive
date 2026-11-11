@@ -797949,13 +797949,13 @@
         "en": "Counter-Curse"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels."
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels."
     },
     "600476": {
         "en": "Detainer Phobos"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels."
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels."
     },
     "600478": {
         "en": "Tactical Talos"
@@ -805438,69 +805438,6 @@
     },
     "623648": {
         "en": "Destroyed Vessel"
-    },
-    "623653": {
-        "en": "Barren Asteroid"
-    },
-    "623654": {
-        "en": "Barren Asteroid"
-    },
-    "623655": {
-        "en": "Barren Asteroid"
-    },
-    "623656": {
-        "en": "Barren Asteroid"
-    },
-    "623657": {
-        "en": "Barren Asteroid"
-    },
-    "623658": {
-        "en": "Barren Asteroid"
-    },
-    "623659": {
-        "en": "Barren Asteroid"
-    },
-    "623660": {
-        "en": "Barren Asteroid"
-    },
-    "623661": {
-        "en": "Barren Asteroid"
-    },
-    "623662": {
-        "en": "Barren Asteroid"
-    },
-    "623663": {
-        "en": "Barren Asteroid"
-    },
-    "623664": {
-        "en": "Barren Asteroid"
-    },
-    "623665": {
-        "en": "Barren Asteroid"
-    },
-    "623666": {
-        "en": "Barren Asteroid"
-    },
-    "623667": {
-        "en": "Barren Asteroid"
-    },
-    "623668": {
-        "en": "Barren Asteroid"
-    },
-    "623669": {
-        "en": "Barren Asteroid"
-    },
-    "623670": {
-        "en": "Barren Asteroid"
-    },
-    "623671": {
-        "en": "Barren Asteroid"
-    },
-    "623672": {
-        "en": "Barren Asteroid"
-    },
-    "623673": {
-        "en": "Barren Asteroid"
     },
     "623707": {
         "en": "Imperial Frigate"
@@ -901704,7 +901641,7 @@
         "en": "Talwar Fleet Issue Blueprint"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN"
+        "en": "Dragoon Navy Issue Corporation Emblem"
     },
     "1034348": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts."
@@ -906564,10 +906501,10 @@
         "en": "Construction Site"
     },
     "1037736": {
-        "en": "Achievement"
+        "en": "Complete Achievements"
     },
     "1037737": {
-        "en": "List of Required Achievements"
+        "en": "Complete Achievements"
     },
     "1037738": {
         "en": "achievements completed"
@@ -909651,7 +909588,7 @@
         "en": "A frigate operating under the Caldari State’s clandestine House of Records. It is tasked with protecting covert operations inside the Gallente Federation that target classified data transfers."
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II"
+        "en": "HoR Crow"
     },
     "1039648": {
         "en": "A frigate operating under the Caldari State’s clandestine House of Records. It is tasked with protecting covert operations inside the Gallente Federation that target classified data transfers."
@@ -912414,7 +912351,7 @@
         "en": "A license for the unlimited use of a basic nanocoating in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this nanocoating has not been bound, allowing for its unlimited use. However, every time you sequence a design using this nanocoating you must provide <a href=showinfo:81350>Kerr Sequencer</a> to bind the unique SKIN licenses you are producing."
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a"
+        "en": "State Directive - Unlimited"
     },
     "1041179": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing."
@@ -913509,7 +913446,7 @@
         "en": "Campaign Objective Reward"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu"
+        "en": "Imperial War Reserves Supply Package"
     },
     "1041779": {
         "en": "A supply package that was procured and manufactured by the Imperial War Reserves corporation. Intended to deliver crucial military supplies to the Amarr Empire on the frontlines.\r\n\r\nThe Minmatar Republic will reward capsuleers who intercept these supply packages and bring them to Tribal Liberation Force stations in their loyalty point store."
@@ -913731,7 +913668,7 @@
         "en": "Everything required for the completion of the Battle of Pator simulation experience."
     },
     "1041878": {
-        "en": "Talman’s Ashimmu"
+        "en": "Supplies: Battle of Pator"
     },
     "1041884": {
         "en": "The fleet is diverting to you. We’re back on the advance across all fronts!"
@@ -916896,7 +916833,7 @@
         "en": "Formed by Presidential decree during the first days of the Warpath Conflict, the Special Presidential Agents are a unique military unit of independently operating special agents given total autonomy over their actions. They answer directly to the president, and their primary mission directive is to disrupt the Caldari operations by any means necessary."
     },
     "1043547": {
-        "en": "Complex Alpha"
+        "en": "Deimos Presidential Agent SKIN"
     },
     "1043548": {
         "en": "The smallest of the tribes by far, the Starkmanir are masters of ancient warfare strategies and battle wisdom all but lost by the other tribes. These strategies provide the basis for a Starkmanir Strategic wing, a small force of extremely effective Starkmanir pilots that came together in response to the Warpath Conflict. Famed for their ability to establish tactical superiority even against much larger enemy fleets, the Warpath Stark are often underestimated but never outclassed."
@@ -917724,7 +917661,7 @@
         "en": "Cradle of Freedom"
     },
     "1043978": {
-        "en": "Talman’s Ashimmu"
+        "en": "Cradle of Freedom - Unlimited"
     },
     "1043979": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide Alignment Sequencer to bind the unique SKIN licenses you are producing."
@@ -921066,7 +921003,7 @@
         "en": "Ancient Matari Proverb"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines."
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines."
     },
     "1048031": {
         "en": "Minmatar Pilot"
@@ -921075,7 +921012,7 @@
         "en": "<font size=\"14\"><b>Minmatar Pilot Expert System</b></font>\r\n\r\nThis Expert System makes available skills enabling a capsuleer to fly Minmatar Tech 1 and Navy frigate-type, destroyer-type, cruiser-type, battlecruiser-type and battleship-type ships along with Minmatar-focused supporting skills.\r\n\r\n<b>The temporary skills provided by this Expert System last for seven days.</b>\r\n\r\nAn Expert System is a remote, restricted artificial intelligence providing you with access to certain skills during the active rental period. As it is independent from your clone and your capsule, an active Expert System is not lost on pod death or clone jump.\r\n\r\n<font size=\"14\"><b>Activating an Expert System</b></font>\r\n\r\nActivation of an Expert System is automatic upon redemption of the item by the specific capsuleer intending to use the service.\r\n\r\n<i>Expert Systems are a product developed by the PKN Interstellar consortium, made available over the HyperNet FTL communications network, and marketed by PKN Interstellar member corporations. An Expert System is a restricted AI based on artificial gelbrain technology. As the Expert System uses neural pathways based on those created by skill training or skill injection, it is compatible with capsule-ship interface and control systems. Real time command and control communication is achieved using dedicated FTL channels on PKN Interstellar's HyperNet.</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint "
+        "en": "Oracle Navy Issue Blueprint"
     },
     "1048034": {
         "en": "Naga Navy Issue Blueprint"
@@ -924825,13 +924762,13 @@
         "en": "Built by Blood Raider engineers from combined Amarr and Minmatar synchronizers, this rig improves Energy Nosferatu, Energy Neutralizer and Energy Turret performance. However, the brute force combination that powers this synchronizer takes a significant toll on its capacitor recharge. It also integrates the pathways between Dark Blood technology. This unlocks even greater performance the more Dark Blood modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawbacks of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill."
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator"
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator"
     },
     "1051286": {
         "en": "This cerebral accelerator has been produced and distributed by the Deathglow Hunters in conjunction with their partners in the Blood Raider Covenant. When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after November 10, YC128."
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator"
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator"
     },
     "1051289": {
         "en": "This cerebral accelerator has been produced and distributed by the Deathglow Hunters in conjunction with their partners in the Blood Raider Covenant. When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after November 10, YC128."
@@ -924843,7 +924780,7 @@
         "en": "Nosferatu and Energy Neutralizer Overheat Bonus"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator"
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator"
     },
     "1051294": {
         "en": "This cerebral accelerator has been produced and distributed by the Deathglow Hunters in conjunction with their partners in the Blood Raider Covenant. When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after November 10, YC128."
@@ -924855,49 +924792,49 @@
         "en": "Nosferatu and Energy Neutralizer Falloff Range Bonus"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV"
+        "en": "Expired Harvest Anti-Disruptor Booster IV"
     },
     "1051298": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+24% Weapon Disruptor Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I"
+        "en": "Expired Harvest Anti-Disruptor Booster I"
     },
     "1051300": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+6% Weapon Disruptor Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II"
+        "en": "Expired Harvest Anti-Disruptor Booster II"
     },
     "1051302": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+12% Weapon Disruptor Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III"
+        "en": "Expired Harvest Anti-Disruptor Booster III"
     },
     "1051304": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+18% Weapon Disruptor Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I"
+        "en": "Expired Harvest Nosferatu Booster I"
     },
     "1051306": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>-3% Nosferatu Module Cycle Time Bonus. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II"
+        "en": "Expired Harvest Nosferatu Booster II"
     },
     "1051308": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>-6% Nosferatu Module Cycle Time Bonus. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III"
+        "en": "Expired Harvest Nosferatu Booster III"
     },
     "1051310": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>-9% Nosferatu Module Cycle Time Bonus. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV"
+        "en": "Expired Harvest Nosferatu Booster IV"
     },
     "1051312": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>-12% Nosferatu Module Cycle Time Bonus. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -924921,37 +924858,37 @@
         "en": "the bonuses provided by this rig increase by a flat +1% for every <b>Dark Blood</b> module fitted to this ship"
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I"
+        "en": "Expired Harvest Webifier Booster I"
     },
     "1051320": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+1km Webifier Range. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II"
+        "en": "Expired Harvest Webifier Booster II"
     },
     "1051322": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+2km Webifier Range. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III"
+        "en": "Expired Harvest Webifier Booster III"
     },
     "1051324": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+3km Webifier Range. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV"
+        "en": "Expired Harvest Webifier Booster IV"
     },
     "1051326": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+4km Webifier Range. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I"
+        "en": "Expired Harvest Damage Booster I"
     },
     "1051328": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+3% Energy Turret Damage. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II"
+        "en": "Expired Harvest Damage Booster II"
     },
     "1051330": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+6% Energy Turret Damage. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -924963,7 +924900,7 @@
         "en": "Built by Blood Raider engineers from combined Amarr and Minmatar synchronizers, this rig improves Energy Nosferatu, Energy Neutralizer and Energy Turret performance. However, the brute force combination that powers this synchronizer takes a significant toll on its capacitor recharge. It also integrates the pathways between Dark Blood technology. This unlocks even greater performance the more Dark Blood modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawbacks of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill."
     },
     "1051333": {
-        "en": "Harvest Damage Booster III"
+        "en": "Expired Harvest Damage Booster III"
     },
     "1051334": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+9% Energy Turret Damage. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -924972,19 +924909,19 @@
         "en": "Perimeter Awareness - Interdictors (DO NOT TRANSLATE)"
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV"
+        "en": "Expired Harvest Damage Booster IV"
     },
     "1051337": {
         "en": "This booster has been developed by the harvest fleets of the Blood Raiders to aid them in their sanguinary acts of piracy.\r\n\r\n<b>+12% Energy Turret Damage. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I"
+        "en": "Expired Tetrimon Anti-Drain Booster I"
     },
     "1051339": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+6% Energy Warfare Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II"
+        "en": "Expired Tetrimon Anti-Drain Booster II"
     },
     "1051341": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+12% Energy Warfare Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -924996,13 +924933,13 @@
         "en": "Built by Blood Raider engineers from combined Amarr and Minmatar synchronizers, this rig improves Energy Nosferatu, Energy Neutralizer and Energy Turret performance. However, the brute force combination that powers this synchronizer takes a significant toll on its capacitor recharge. It also integrates the pathways between Dark Blood technology. This unlocks even greater performance the more Dark Blood modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawbacks of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill."
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III"
+        "en": "Expired Tetrimon Anti-Drain Booster III"
     },
     "1051345": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+18% Energy Warfare Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV"
+        "en": "Expired Tetrimon Anti-Drain Booster IV"
     },
     "1051347": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+24% Energy Warfare Resistance. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -925026,7 +924963,7 @@
         "en": "the bonuses provided by this rig increase by a flat +1% for every <b>Dark Blood</b> module fitted to this ship"
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I"
+        "en": "Expired Tetrimon Capacitor Booster I"
     },
     "1051355": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+3% Capacitor Capacity. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -925050,19 +924987,19 @@
         "en": "the bonuses provided by this rig increase by a flat +1% for every <b>Dark Blood</b> module fitted to this ship"
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II"
+        "en": "Expired Tetrimon Capacitor Booster II"
     },
     "1051363": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+6% Capacitor Capacity. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III"
+        "en": "Expired Tetrimon Capacitor Booster III"
     },
     "1051365": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+9% Capacitor Capacity. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV"
+        "en": "Expired Tetrimon Capacitor Booster IV"
     },
     "1051367": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+12% Capacitor Capacity. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -925071,85 +925008,85 @@
         "en": "Cap Recharge Time Penalty"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I"
+        "en": "Expired Tetrimon Resistance Booster I"
     },
     "1051370": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+2% Armor Resistances. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II"
+        "en": "Expired Tetrimon Resistance Booster II"
     },
     "1051372": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+4% Armor Resistances. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III"
+        "en": "Expired Tetrimon Resistance Booster III"
     },
     "1051374": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+6% Armor Resistances. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV"
+        "en": "Expired Tetrimon Resistance Booster IV"
     },
     "1051376": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+8% Armor Resistances. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I"
+        "en": "Expired Tetrimon Precision Booster I"
     },
     "1051378": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+3% Energy Turret Optimal Range and Tracking Speed. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II"
+        "en": "Expired Tetrimon Precision Booster II"
     },
     "1051380": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+6% Energy Turret Optimal Range and Tracking Speed. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III"
+        "en": "Expired Tetrimon Precision Booster III"
     },
     "1051382": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+9% Energy Turret Optimal Range and Tracking Speed. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV"
+        "en": "Expired Tetrimon Precision Booster IV"
     },
     "1051384": {
         "en": "This booster has been developed by the Order of St. Tetrimon's militant paladins to assist them in hunting down cultists.\r\n\r\n<b>+12% Energy Turret Optimal Range and Tracking Speed. Base Duration: 2 Hours</b>\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I"
+        "en": "Expired Chemal Tech Turret Booster I"
     },
     "1051388": {
         "en": "<b>+4% Turret Damage.</b>\r\n<b>+4% Turret Tracking Speed.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II"
+        "en": "Expired Chemal Tech Turret Booster II"
     },
     "1051390": {
         "en": "<b>+6% Turret Damage.</b>\r\n<b>+6% Turret Tracking Speed.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III"
+        "en": "Expired Chemal Tech Turret Booster III"
     },
     "1051394": {
         "en": "<b>+8% Turret Damage.</b>\r\n<b>+8% Turret Tracking Speed.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I"
+        "en": "Expired Chemal Tech Mining Booster I"
     },
     "1051398": {
         "en": "<b>+4% Mining Laser Yield.</b>\r\n<b>+10% Mining Laser Optimal Range.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II"
+        "en": "Expired Chemal Tech Mining Booster II"
     },
     "1051400": {
         "en": "<b>+8% Mining Laser Yield.</b>\r\n<b>+15% Mining Laser Optimal Range.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III"
+        "en": "Expired Chemal Tech Mining Booster III"
     },
     "1051402": {
         "en": "<b>+12% Mining Laser Yield.</b>\r\n<b>+20% Mining Laser Optimal Range.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -925161,31 +925098,31 @@
         "en": "Reverse-engineered by True Creations' finest minds from Amarr and Caldari synchronizers, this rig improves <a href=showinfo:3450>Afterburner</a> and Energy Turret performance. However, the extreme conditions its powerful design creates significantly increase Afterburner activation costs. It also integrates the pathways between True Sansha technology. This unlocks even greater performance the more True Sansha modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawbacks of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill."
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I"
+        "en": "Expired Chemal Tech Exploration Booster I"
     },
     "1051406": {
         "en": "<b>+4 Data Analyzer Virus Coherence</b>\r\n<b>+4% Scan Probe Strength</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II"
+        "en": "Expired Chemal Tech Exploration Booster II"
     },
     "1051408": {
         "en": "<b>+6 Data Analyzer Virus Coherence</b>\r\n<b>+8% Scan Probe Strength</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III"
+        "en": "Expired Chemal Tech Exploration Booster III"
     },
     "1051410": {
         "en": "<b>+8 Data Analyzer Virus Coherence</b>\r\n<b>+12% Scan Probe Strength</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I"
+        "en": "Expired Chemal Tech Repair Booster I"
     },
     "1051412": {
         "en": "<b>-4% Armor Repairer Cycle Time.</b>\r\n<b>-4% Shield Booster Cycle Time.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II"
+        "en": "Expired Chemal Tech Repair Booster II"
     },
     "1051414": {
         "en": "<b>-8% Armor Repairer Cycle Time.</b>\r\n<b>-8% Shield Booster Cycle Time.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -925194,7 +925131,7 @@
         "en": "Afterburner Speed Bonus"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III"
+        "en": "Expired Chemal Tech Repair Booster III"
     },
     "1051417": {
         "en": "<b>-12% Armor Repairer Cycle Time.</b>\r\n<b>-12% Shield Booster Cycle Time.</b>\r\n\r\nBase Duration: 3 Hours\r\n\r\n<b>Expiry date: November 10, YC128</b>"
@@ -929076,7 +929013,7 @@
         "en": "Aberrant Raspite"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>."
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>."
     },
     "1054676": {
         "en": "Aberrant Polycrase"
@@ -933792,7 +933729,7 @@
         "en": "Black Friday YC128"
     },
     "1059425": {
-        "en": "Amarrgin of Victory"
+        "en": "Advantage of Faith"
     },
     "1059426": {
         "en": "Destroy {[numeric]amount, useGrouping} Republic Officer Battleships"
@@ -933801,16 +933738,16 @@
         "en": ""
     },
     "1059429": {
-        "en": "Corporate Advantage"
+        "en": "Advantage of Honor"
     },
     "1059430": {
         "en": "Destroy {[numeric]amount, useGrouping} Federation Officer Battleships"
     },
     "1059431": {
-        "en": ""
+        "en": "Even a hostile takeover must be executed with honor."
     },
     "1059432": {
-        "en": "Freedom has its advantages"
+        "en": "Advantage of Freedom"
     },
     "1059433": {
         "en": "Destroy {[numeric]amount, useGrouping} State Officer Battleships"
@@ -933819,16 +933756,16 @@
         "en": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage"
+        "en": "Advantage of Pride"
     },
     "1059436": {
         "en": "Destroy {[numeric]amount, useGrouping} Imperial Officer Battleships"
     },
     "1059437": {
-        "en": ""
+        "en": "Only those who have forsaken themselves call pride a sin."
     },
     "1059449": {
-        "en": "Hold the Faith"
+        "en": "Defend the Faith"
     },
     "1059450": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Amarr Empire"
@@ -933837,7 +933774,7 @@
         "en": ""
     },
     "1059452": {
-        "en": "The State Remains"
+        "en": "Defend the State"
     },
     "1059453": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Caldari State"
@@ -933846,16 +933783,16 @@
         "en": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm"
+        "en": "Defend Freedom"
     },
     "1059457": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Gallente Federation"
     },
     "1059458": {
-        "en": ""
+        "en": "At any cost."
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines"
+        "en": "Defend the Tribes"
     },
     "1059460": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Minmatar Republic"
@@ -933864,70 +933801,70 @@
         "en": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness"
+        "en": "Hunt for Retribution"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr"
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire"
     },
     "1059465": {
         "en": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions"
+        "en": "Hunt for Honor"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari"
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State"
     },
     "1059468": {
         "en": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy"
+        "en": "Hunt for Justice"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente"
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation"
     },
     "1059471": {
         "en": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors"
+        "en": "Hunt for Liberation"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar"
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic"
     },
     "1059475": {
         "en": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye"
+        "en": "Hunt for Dominion"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels"
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel"
     },
     "1059478": {
-        "en": ""
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance."
     },
     "1059479": {
-        "en": "Hired Gun"
+        "en": "Hunt for Glory"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas"
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates"
     },
     "1059481": {
         "en": ""
     },
     "1059482": {
-        "en": "Divine Compensation"
+        "en": "Crusade Loyalty"
     },
     "1059483": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the 24th Imperial Crusade"
     },
     "1059484": {
-        "en": ""
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur"
     },
     "1059485": {
-        "en": "Return on Loyalty"
+        "en": "Protectorate Loyalty"
     },
     "1059486": {
         "en": ""
@@ -933936,7 +933873,7 @@
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the State Protectorate"
     },
     "1059488": {
-        "en": "Union Benefits"
+        "en": "Union Loyalty"
     },
     "1059489": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Federal Defense Union"
@@ -933945,16 +933882,16 @@
         "en": ""
     },
     "1059491": {
-        "en": "From Rust to Riches"
+        "en": "Liberation Loyalty"
     },
     "1059492": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Tribal Liberation Force"
     },
     "1059493": {
-        "en": ""
+        "en": "While some remain bound, none are truly free. - Matari proverb"
     },
     "1059494": {
-        "en": "Crime Really Does Pay"
+        "en": "Malakim Loyalty"
     },
     "1059495": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Malakim Zealots"
@@ -933963,16 +933900,16 @@
         "en": ""
     },
     "1059499": {
-        "en": "Going Commando"
+        "en": "Commando Loyalty"
     },
     "1059500": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Commando Guri"
     },
     "1059501": {
-        "en": ""
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party."
     },
     "1059502": {
-        "en": "Chosen for Destruction"
+        "en": "Break the Chosen"
     },
     "1059503": {
         "en": "Destroy {[numeric]amount, useGrouping} Zohar's Chosen non-capsuleers"
@@ -933981,16 +933918,16 @@
         "en": ""
     },
     "1059511": {
-        "en": "Steel no Match"
+        "en": "Break the Steelscale"
     },
     "1059512": {
         "en": "Destroy {[numeric]amount, useGrouping} Hakuzosu's Steelscale non-capsuleers"
     },
     "1059513": {
-        "en": ""
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on."
     },
     "1059522": {
-        "en": "Suppress the Suppressors"
+        "en": "Break the Consortium"
     },
     "1059523": {
         "en": "Destroy {[numeric]amount, useGrouping} Consortium Bulwark non-capsuleers"
@@ -933999,58 +933936,58 @@
         "en": ""
     },
     "1059538": {
-        "en": "The Golden Fleet"
+        "en": "Imperial Piloting"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls."
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships"
     },
     "1059540": {
         "en": ""
     },
     "1059546": {
-        "en": "Executive Firepower"
+        "en": "State Piloting"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls."
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships"
     },
     "1059548": {
         "en": ""
     },
     "1059549": {
-        "en": "Federation Armada"
+        "en": "Federal Piloting"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls."
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships"
     },
     "1059551": {
         "en": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance"
+        "en": "Republic Piloting"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls."
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships"
     },
     "1059554": {
         "en": ""
     },
     "1059555": {
-        "en": "Angelic Legion"
+        "en": "Cartel Piloting"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls."
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships"
     },
     "1059557": {
-        "en": ""
+        "en": "Become legion."
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower"
+        "en": "Guristas Piloting"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls."
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships"
     },
     "1059560": {
-        "en": ""
+        "en": "Cold-Blooded."
     },
     "1059561": {
         "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals."
@@ -934823,6 +934760,30 @@
     "1060521": {
         "en": "A Dreadnought of the Caldari State"
     },
+    "1060615": {
+        "en": "Station"
+    },
+    "1060618": {
+        "en": "Station docked at"
+    },
+    "1060623": {
+        "en": "Manifest Station"
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub"
+    },
+    "1060625": {
+        "en": "The Hub of Exordium"
+    },
+    "1060626": {
+        "en": "Dock at a Station"
+    },
+    "1060627": {
+        "en": "Dock at a station or structure"
+    },
+    "1060628": {
+        "en": "stations docked"
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location."
     },
@@ -934888,5 +934849,8 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN"
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship"
     }
 }

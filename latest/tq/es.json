@@ -882041,7 +882041,7 @@
     },
     "515829": {
         "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "es": "Los bienes de la estructura {structureLink}, en {[location]solarsystemID.name, linkify}, están siendo trasladados por el sistema de seguridad de los bienes. En {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), los bienes se podrán entregar manualmente a una ubicación en {[location]solarsystemID.name, linkify}.<br>En {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyFullTimestamp, date=short, time=short}), los bienes se entregarán automáticamente en {[location]newStationID.name, linkify}. Se aplicará una tasa al recuperar los bienes."
+        "es": "Los bienes de la estructura {structureLink}, en {[location]solarsystemID.name, linkify}, están siendo trasladados por el sistema de seguridad de los bienes. En {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), los bienes se podrán entregar manualmente a una ubicación en {listOfSolarSystems}.<br>En {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyFullTimestamp, date=short, time=short}), los bienes se entregarán automáticamente en {[location]newStationID.name, linkify}. Se aplicará una tasa al recuperar los bienes."
     },
     "515830": {
         "en": "Report: items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} need your attention",
@@ -884437,7 +884437,7 @@
     },
     "516506": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
-        "es": "Estás a punto de trasladar todos los bienes que <b>{corpName}</b> tiene en {[location]structureID.name} a la seguridad de los bienes en {[location]solarsystemID.name, linkify}. <br>Cuando están en la seguridad de los bienes, los objetos se pueden enviar manualmente a una ubicación del mismo sistema tras 5 días. Tras 20 días, se enviarán automáticamente a una estación cercana.<br>Se aplicará una tasa al recuperar cualquier objeto, que aumentará si se envía a una ubicación fuera de {[location]solarsystemID.name, linkify}.<br>¿Seguro que quieres continuar?"
+        "es": "Estás a punto de trasladar todos los bienes que <b>{corpName}</b> tiene en {[location]structureID.name}, en {[location]solarsystemID.name, linkify}, a la seguridad de los bienes. <br>Cuando están en la seguridad de los bienes, los objetos se pueden enviar manualmente a una ubicación del mismo sistema tras 5 días. Tras 20 días, se enviarán automáticamente a una estación cercana.<br>Se aplicará una tasa al recuperar cualquier objeto, que aumentará si se envía a una ubicación fuera de {[location]solarsystemID.name, linkify}.<br>¿Seguro que quieres continuar?"
     },
     "516507": {
         "en": "Move corp items to Asset Safety?",
@@ -933061,7 +933061,7 @@
     },
     "536323": {
         "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "es": "Los bienes corporativos de la estructura {structureLink}, en {[location]solarsystemID.name, linkify}, están siendo trasladados por el sistema de seguridad de los bienes. En {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), los bienes se podrán entregar manualmente a una ubicación en {[location]solarsystemID.name, linkify}. Solo los directores tienen el control sobre la entrega manual.<br>En {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyFullTimestamp, date=short, time=short}), los bienes se entregarán automáticamente en {[location]newStationID.name, linkify}. Se aplicará una tasa al recuperar los bienes."
+        "es": "Los bienes corporativos de la estructura {structureLink}, en {[location]solarsystemID.name, linkify}, están siendo trasladados por el sistema de seguridad de los bienes. En {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), los bienes se podrán entregar manualmente a una ubicación en {listOfSolarSystems}. Solo los directores tienen el control sobre la entrega manual.<br>En {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (a las {[datetime]assetSafetyFullTimestamp, date=short, time=short}), los bienes se entregarán automáticamente en {[location]newStationID.name, linkify}. Se aplicará una tasa al recuperar los bienes."
     },
     "536336": {
         "en": "Replay operation",
@@ -1063932,7 +1063932,7 @@
         "es": "Curse contrarrestadora"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "es": "Una fragata de clase Skybreaker bajo el mando de la Subdivisión de Asuntos para la Regulación y el Orden (SARO). Está equipada con sistemas de revelación de objetivos.\r\n\r\nEsta nave forma parte de un equipo encargado de hacer cumplir la prohibición de vuelo en torno a una instalación secreta de SARO y tiene autorización para derribar cualquier nave no autorizada."
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "es": "Phobos de captor"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "es": "Una crucero de clase Curse bajo el mando de la Subdivisión de Asuntos para la Regulación y el Orden (SARO). Está equipada con capacidad de red ralentizadora y de distorsión de warp.\r\n\r\nEsta nave forma parte de un equipo encargado de hacer cumplir la prohibición de vuelo en torno a una instalación secreta de SARO y tiene autorización para derribar cualquier nave no autorizada."
     },
     "600478": {
@@ -1073918,90 +1073918,6 @@
     "623648": {
         "en": "Destroyed Vessel",
         "es": "Nave destruida"
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
-    },
-    "623673": {
-        "en": "Barren Asteroid",
-        "es": "Asteroide baldío"
     },
     "623707": {
         "en": "Imperial Frigate",
@@ -1168177,7 +1168093,7 @@
     },
     "1010612": {
         "en": "Corporation - Freelance Jobs",
-        "es": "Trabajos por libre"
+        "es": "Corporación: trabajos por libre"
     },
     "1010613": {
         "en": "View active and completed Freelance Jobs.",
@@ -1202272,7 +1202188,7 @@
         "es": "Plano de la Talwar modelo de la Flota"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "es": "SKIN de la Liga de la Amistad para la Gnosis"
     },
     "1034348": {
@@ -1208752,12 +1208668,12 @@
         "es": "Zona de construcción"
     },
     "1037736": {
-        "en": "Achievement",
-        "es": "Logro"
+        "en": "Complete Achievements",
+        "es": "Completa logros"
     },
     "1037737": {
-        "en": "List of Required Achievements",
-        "es": "Lista de logros requeridos"
+        "en": "Complete Achievements",
+        "es": "Completa logros"
     },
     "1037738": {
         "en": "achievements completed",
@@ -1212868,7 +1212784,7 @@
         "es": "Una fragata que opera bajo la clandestina Oficina de Registro del Estado Caldari. Tiene la misión de proteger operaciones encubiertas dentro de la Federación Gallente dirigidas contra transferencias de datos clasificadas."
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "es": "Potenciador de defensa del Imperio II caducado"
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "es": "Licencia que, una vez activada y dentro de tu colección de SKINR, permite el uso ilimitado de un nanorrevestimiento básico en la secuenciación de SKIN.\r\n\r\nLa secuencia digital de este nanorrevestimiento no se ha vinculado, lo que permite su uso ilimitado. Sin embargo, cada vez que secuencies un diseño usando este nanorrevestimiento, deberás proporcionar un <a href=showinfo:81350>secuenciador de Kerr</a> para vincular las licencias de SKIN únicas que estés produciendo."
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "es": "PL_PointLight_Green_01a"
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "es": "Retribución de objetivo de campaña"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "es": "Ashimmu de Talman"
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "es": "Módulos recomendados para completar la experiencia de simulación de la Batalla de Pator."
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "es": "Ashimmu de Talman"
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "es": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "es": "Complejo Alfa"
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "es": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "es": "Ashimmu de Talman"
     },
     "1043979": {
@@ -1228088,7 +1228004,7 @@
         "es": "Antiguo proverbio matari"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "es": "Ante la amenaza que suponía la tecnología de conquista en 128 CY, la Flota de la República solicitó el desarrollo de un nuevo crucero de combate que pudiera proporcionar una ventaja a los equipos de ataque que previsiblemente participarían en el conflicto. Aunque el uso de la tecnología de conquista estaba restringido por un acuerdo con CONCORD, muchos consideraban inevitable su despliegue, por lo que los minmatarianos decidieron anticiparse a esa amenaza.\r\n\r\nEl resultado fue la Tornado de la Flota, una nave avanzada de la Flota de la República. Pese a las numerosas mejoras que incorporaba respecto al modelo original, sus detractores sostenían que no era más que un arma convencional, incapaz de rivalizar con el formidable poder de los motores de conquista."
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "es": "<font size=\"14\"><b>Sistema experto para piloto minmatariano</b></font>\r\n\r\nEste sistema experto pone a disposición de los capsulistas habilidades que les permiten pilotar fragatas, destructores, cruceros, cruceros de combate y acorazados minmatarianos T1 y de la Armada, además de naves de apoyo minmatarianas.\r\n\r\n<b>Las habilidades temporales proporcionadas por este sistema experto duran siete días.</b>\r\n\r\nUn sistema experto es una inteligencia artificial remota y restringida que proporciona acceso a ciertas habilidades durante el periodo activo. No depende ni de tu clon ni de tu cápsula, por lo que no lo perderás si esta se destruye o si se lleva a cabo un salto de clon.\r\n\r\n<font size=\"14\"><b>Activación de un sistema experto</b></font>\r\n\r\nUn sistema experto se activa automáticamente cuando el capsulista que va a usar el servicio canjea el objeto.\r\n\r\n<i>Los sistemas expertos son productos desarrollados por el consorcio PKN Interstellar, quien los pone a disposición de los usuarios a través de la red de comunicaciones supralumínica HyperNet y los comercializa a través de las corporaciones que forman parte de PKN Interstellar. Un sistema experto es una IA restringida que funciona con tecnología de cerebro-gel artificial. Como utiliza vías neuronales basadas en las que se crean al desarrollar o inyectar habilidades, es compatible con los sistemas de control y la interfaz cápsula-nave. Así pues, se establece una comunicación entre mando y control en tiempo real con canales supralumínicos exclusivos dentro de la red HyperNet de PKN Interstellar.</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "es": "Plano de la Oracle modelo de la Armada"
     },
     "1048034": {
@@ -1228853,11 +1228769,11 @@
     },
     "1048584": {
         "en": "Open Watchlist When Joining Fleet",
-        "es": ""
+        "es": "Abrir lista de seguimiento al unirse a la flota"
     },
     "1048586": {
         "en": "itemID",
-        "es": ""
+        "es": "ID de artículo"
     },
     "1048592": {
         "en": "Rogue Edge Construction Site",
@@ -1228881,7 +1228797,7 @@
     },
     "1048600": {
         "en": "exact ID of an item",
-        "es": ""
+        "es": "ID exacto de un artículo"
     },
     "1048601": {
         "en": "State Corridor Construction Site",
@@ -1228913,11 +1228829,11 @@
     },
     "1048692": {
         "en": "Do not show again.",
-        "es": ""
+        "es": "No volver a mostrar."
     },
     "1048694": {
         "en": "Show Site Transmission",
-        "es": ""
+        "es": "Mostrar transmisión de la zona"
     },
     "1048802": {
         "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
@@ -1230817,15 +1230733,15 @@
     },
     "1050125": {
         "en": "Memberships",
-        "es": ""
+        "es": "Afiliaciones"
     },
     "1050127": {
         "en": "Allow new roles",
-        "es": ""
+        "es": "Permitir funciones nuevas"
     },
     "1050130": {
         "en": "Remove All Roles",
-        "es": ""
+        "es": "Quitar todas las funciones"
     },
     "1050131": {
         "en": "Non-Interactable ORE HISC-99 Ice Refinery",
@@ -1230833,11 +1230749,11 @@
     },
     "1050137": {
         "en": "Resign as CEO",
-        "es": ""
+        "es": "Dimitir como CEO"
     },
     "1050138": {
         "en": "(Enlisted since {date})",
-        "es": ""
+        "es": "(Alistado desde {date})"
     },
     "1050141": {
         "en": "General",
@@ -1230853,19 +1230769,19 @@
     },
     "1050152": {
         "en": "Title",
-        "es": ""
+        "es": "Título"
     },
     "1050205": {
         "en": "Your corporation is no longer permitted to grant you new roles.",
-        "es": ""
+        "es": "Tu corporación ya no puede concederte funciones nuevas."
     },
     "1050206": {
         "en": "Block New Roles?",
-        "es": ""
+        "es": "¿Bloquear funciones nuevas?"
     },
     "1050207": {
         "en": "Are you sure you want to block your corporation from granting you new roles?",
-        "es": ""
+        "es": "¿Seguro que quieres impedir que tu corporación te asigne funciones nuevas?"
     },
     "1050208": {
         "en": "Career Overview",
@@ -1230873,7 +1230789,7 @@
     },
     "1050211": {
         "en": "Service Length",
-        "es": ""
+        "es": "Longitud del servicio"
     },
     "1050214": {
         "en": "Base Achievements",
@@ -1230889,15 +1230805,15 @@
     },
     "1050231": {
         "en": "via direct enlistment",
-        "es": ""
+        "es": "mediante alistamiento directo"
     },
     "1050238": {
         "en": "Factional warfare enemies",
-        "es": ""
+        "es": "Enemigos de guerra de facciones"
     },
     "1050239": {
         "en": "Open Enlistment Page",
-        "es": ""
+        "es": "Abrir página de alistamiento"
     },
     "1050260": {
         "en": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
@@ -1230957,7 +1230873,7 @@
     },
     "1050282": {
         "en": "When enabled, your corporation can assign new roles to you.<br><br>To leave your corporation, you must first remove all assigned roles and complete a 24-hour corporate stasis period. Disable this option to prevent your corporation from assigning you new roles while you prepare to leave.",
-        "es": ""
+        "es": "Si activas esta opción, tu corporación podrá asignarte nuevas funciones.<br><br>Para abandonar tu corporación, primero debes quitar todas las funciones que tengas asignadas y completar un periodo de estasis corporativa de 24 horas. Desactiva esta opción para impedir que tu corporación te asigne nuevas funciones mientras te preparas para abandonarla."
     },
     "1050283": {
         "en": "Navigation",
@@ -1233100,7 +1233016,7 @@
         "es": "Construido por ingenieros de los Saqueadores Sangrientos mediante la combinación de sincronizadores amarrianos y minmatarianos, este complemento mejora el rendimiento de los nosferatus de energía, los neutralizadores energéticos y las torretas de energía. Sin embargo, la combinación por fuerza bruta que alimenta este sincronizador perjudica considerablemente la recarga del condensador. También optimiza las conexiones entre las tecnologías de los Sanguinarios Oscuros, lo que permite obtener un rendimiento aún mayor cuantos más módulos de los Oscuros se instalen.\r\n\r\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\r\n\r\nSe pueden reducir las desventajas de CPU de equipar este complemento desarrollando la habilidad <a href=showinfo:96100>Complementos de sincronización</a>."
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "es": "Acelerador cerebral Radiance básico"
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "es": "Este acelerador cerebral ha sido producido y distribuido por los Cazadores de Deathglow en colaboración con sus socios del Pacto de los Saqueadores Sanguinarios. Cuando un capsulista lo consume, aumenta el ritmo al que desarrolla habilidades durante un breve periodo de tiempo.\r\n\r\nPara crear este acelerador cerebral, se han utilizado compuestos volátiles, lo cual limita su vida útil. Dejará de funcionar a partir del 10 de noviembre de 128 CY."
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "es": "Acelerador cerebral Radiance potente"
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "es": "Bonificación de sobrecalentamiento del nosferatu y el neutralizador energético"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "es": "Acelerador cerebral Radiance ampliado"
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "es": "Bonificación de alcance efectivo del nosferatu y el neutralizador energético"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "es": "Potenciador antidisruptor de cosecha IV"
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+24 % de resistencia a los disruptores de armas. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "es": "Potenciador antidisruptor de cosecha I"
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+6 % de resistencia al disruptor de armas. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "es": "Potenciador antidisruptor de cosecha II"
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+12 % de resistencia a los disruptores de armas. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "es": "Potenciador antidisruptor de cosecha III"
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+18 % de resistencia a los disruptores de armas. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "es": "Potenciador de nosferatu de cosecha I"
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>-3 % de bonificación al tiempo de ciclo del módulo Nosferatu. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "es": "Potenciador de nosferatu de cosecha II"
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>-6 % de bonificación al tiempo de ciclo del módulo Nosferatu. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "es": "Potenciador de nosferatu de cosecha III"
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>-9 % de bonificación al tiempo de ciclo del módulo Nosferatu. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "es": "Potenciador de nosferatu de cosecha IV"
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "es": "las bonificaciones que proporciona este complemento aumentan un +1 % fijo por cada módulo de los <b>Sanguinarios Oscuros</b> equipado en esta nave."
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "es": "Potenciador de red ralentizadora de cosecha I"
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+1 km de alcance de red ralentizadora. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "es": "Potenciador de red ralentizadora de cosecha II"
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+ 2 km de alcance de la red ralentizadora. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "es": "Potenciador de red ralentizadora de cosecha III"
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+ 3 km de alcance de la red ralentizadora. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "es": "Potenciador de red ralentizadora de cosecha IV"
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+4 km de alcance de red ralentizadora. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "es": "Potenciador de daño de cosecha I"
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+3 % de daño de torretas de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "es": "Potenciador de daño de cosecha II"
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "es": "Construido por ingenieros de los Saqueadores Sangrientos mediante la combinación de sincronizadores amarrianos y minmatarianos, este complemento mejora el rendimiento de los nosferatus de energía, los neutralizadores energéticos y las torretas de energía. Sin embargo, la combinación por fuerza bruta que alimenta este sincronizador perjudica considerablemente la recarga del condensador. También optimiza las conexiones entre las tecnologías de los Sanguinarios Oscuros, lo que permite obtener un rendimiento aún mayor cuantos más módulos de los Oscuros se instalen.\r\n\r\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\r\n\r\nSe pueden reducir las desventajas de CPU de equipar este complemento desarrollando la habilidad <a href=showinfo:96100>Complementos de sincronización</a>."
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "es": "Potenciador de daño de cosecha III"
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "es": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "es": "Potenciador de daño de cosecha IV"
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "es": "Las flotas de recolección de los Saqueadores Sanguinarios han desarrollado este potenciador para facilitar sus sangrientos actos de piratería.\r\n\r\n<b>+12 % de daño de torretas de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "es": "Potenciador de antidrenaje de Tetrimon I"
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+6 % de resistencia a la guerra de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "es": "Potenciador de antidrenaje de Tetrimon II"
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "es": "Construido por ingenieros de los Saqueadores Sangrientos mediante la combinación de sincronizadores amarrianos y minmatarianos, este complemento mejora el rendimiento de los nosferatus de energía, los neutralizadores energéticos y las torretas de energía. Sin embargo, la combinación por fuerza bruta que alimenta este sincronizador perjudica considerablemente la recarga del condensador. También optimiza las conexiones entre las tecnologías de los Sanguinarios Oscuros, lo que permite obtener un rendimiento aún mayor cuantos más módulos de los Oscuros se instalen.\r\n\r\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\r\n\r\nSe pueden reducir las desventajas de CPU de equipar este complemento desarrollando la habilidad <a href=showinfo:96100>Complementos de sincronización</a>."
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "es": "Potenciador de antidrenaje de Tetrimon III"
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+18 % de resistencia a la guerra de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "es": "Potenciador de antidrenaje de Tetrimon IV"
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "es": "las bonificaciones que proporciona este complemento aumentan un +1 % fijo por cada módulo de los <b>Sanguinarios Oscuros</b> equipado en esta nave."
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "es": "Potenciador de condensador de Tetrimon I"
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "es": "las bonificaciones que proporciona este complemento aumentan un +1 % fijo por cada módulo de los <b>Sanguinarios Oscuros</b> equipado en esta nave."
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "es": "Potenciador de condensador de Tetrimon II"
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+6 % a la capacidad del condensador. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "es": "Potenciador de condensador de Tetrimon III"
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+9 % a la capacidad del condensador. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "es": "Potenciador de condensador de Tetrimon IV"
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "es": "Penalización de tiempo de carga del condensador"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "es": "Potenciador de resistencia de Tetrimon I"
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+2 % a las resistencias de blindaje. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "es": "Potenciador de resistencia de Tetrimon II"
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+4 % a las resistencias de blindaje. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "es": "Potenciador de resistencia de Tetrimon III"
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+6 % de resistencias de blindaje. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "es": "Potenciador de resistencia de Tetrimon IV"
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+8 % a las resistencias de blindaje. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "es": "Potenciador de precisión de Tetrimon I"
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+3 % al alcance óptimo y a la velocidad de rastreo de la torreta de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "es": "Potenciador de precisión de Tetrimon II"
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+6 % al alcance óptimo y a la velocidad de rastreo de la torreta de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "es": "Potenciador de precisión de Tetrimon III"
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+9 % al alcance óptimo y a la velocidad de rastreo de la torreta de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "es": "Potenciador de precisión de Tetrimon IV"
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "es": "Los paladines milicianos de la Orden de San Tetrimon han desarrollado este potenciador con el objetivo de dar caza a los sectarios.\r\n\r\n<b>+12 % al alcance óptimo y a la velocidad de rastreo de la torreta de energía. Duración base: 2 horas.</b>\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "es": "Potenciador de torreta de Chemal Tech I"
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "es": "<b>+4 % de daño de torreta.</b>\r\n<b>+4 % de velocidad de rastreo de la torreta.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "es": "Potenciador de torreta de Chemal Tech II"
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "es": "<b>+6 % de daño de torreta.</b>\r\n<b>+6% de velocidad de rastreo de la torreta.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "es": "Potenciador de torreta de Chemal Tech III"
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "es": "<b>+8 % de daño de torreta.</b>\r\n<b>+8 % de velocidad de rastreo de la torreta.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "es": "Potenciador de minería de Chemal Tech I"
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "es": "<b>+4 % de rendimiento del láser minero.</b>\r\n<b>+10 % al alcance óptimo del láser minero.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "es": "Potenciador de minería de Chemal Tech II"
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "es": "<b>+8 % de rendimiento del láser minero.</b>\r\n<b>+15 % al alcance óptimo del láser minero.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "es": "Potenciador de minería de Chemal Tech III"
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "es": "Desarrollado mediante ingeniería inversa por las mentes más brillantes de True Creations a partir de sincronizadores amarrianos y caldaris, este complemento mejora el rendimiento de los <a href=showinfo:3450>posquemadores</a> y las torretas de energía. Sin embargo, las condiciones extremas que genera su potente diseño aumentan considerablemente el coste de activación de los posquemadores. También optimiza las conexiones entre las tecnologías de los Sanshas Verdaderos, lo que permite obtener un rendimiento aún mayor cuantos más módulos de los Sanshas Verdaderos se instalen.\r\n\r\nPenalización: Por usar más de un tipo de módulo o módulos similares que afecten al mismo atributo de la nave.\r\n\r\nSe pueden reducir las desventajas de CPU de equipar este complemento desarrollando la habilidad <a href=showinfo:96100>Complementos de sincronización</a>."
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "es": "Potenciador de exploración de Chemal Tech I"
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "es": "<b>+4 de coherencia del virus de los analizadores de datos.</b>\r\n<b>+4 % a la intensidad de las sondas de escaneo.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "es": "Potenciador de exploración de Chemal Tech II"
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "es": "<b>+6 de coherencia del virus de los analizadores de datos.</b>\r\n<b>+8 % a la intensidad de las sondas de escaneo.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "es": "Potenciador de exploración de Chemal Tech III"
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "es": "<b>+8 de coherencia del virus de los analizadores de datos.</b>\r\n<b>+12 % a la intensidad de las sondas de escaneo.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "es": "Potenciador de reparador de Chemal Tech I"
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "es": "<b>-4 % al tiempo de ciclo del reparador de blindaje.</b>\r\n<b>-4 % al tiempo de ciclo del potenciador de escudo.</b>\r\n\r\nDuración base: 3 horas.\r\n\r\n<b>Fecha de caducidad: 10 de noviembre de 128 CY.</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "es": "Potenciador de reparador de Chemal Tech II"
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "es": "Bonificación de velocidad del posquemador"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "es": "Potenciador de reparador de Chemal Tech III"
     },
     "1051417": {
@@ -1238768,7 +1238684,7 @@
         "es": "Raspita aberrante"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "es": "Moléculas aberrantes del mineral raspita que han sido alteradas por su exposición a fuerzas hiperdimensionales. El Imperio Amarr necesita este material anómalo para investigar la eficiencia energética de los drifters.\r\n\r\nAcepta su objetivo de campaña y entrega este material a su comerciante de artículos, situado fuera del anclaje de la Armada Amarr en <url=showinfo:5//30002974>Mehatoor</url>."
     },
     "1054676": {
@@ -1241789,11 +1241705,11 @@
     },
     "1056324": {
         "en": "{list}, or {lastItem}",
-        "es": ""
+        "es": "{list}, o {lastItem}"
     },
     "1056325": {
         "en": "{A} or {B}",
-        "es": ""
+        "es": "{A} o {B}"
     },
     "1056326": {
         "en": "Expedition Distress Signal",
@@ -1241821,19 +1241737,19 @@
     },
     "1056334": {
         "en": "You are about to move all assets belonging to you in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "es": ""
+        "es": "Estás a punto de trasladar todos los bienes que tienes en {[location]structureID.name}, en {[location]solarsystemID.name, linkify}, a la seguridad de los bienes. <br>Cuando están en la seguridad de los bienes, los objetos se pueden enviar manualmente a los siguientes sistemas tras 5 días: {destinationList}. Tras 20 días, se enviarán automáticamente a {[location]defaultSolarSystemID.name, linkify}.<br>Se aplicará una tasa al recuperar cualquier objeto, que aumentará si se envía a una ubicación fuera de {destinationList}. {extraTaxText}<br>¿Seguro que quieres continuar?"
     },
     "1056335": {
         "en": "Move items to Asset Safety?",
-        "es": ""
+        "es": "¿Mover objetos a seguridad de los bienes?"
     },
     "1056336": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "es": ""
+        "es": "Estás a punto de trasladar todos los bienes que tiene <b>{corpName}</b> en {[location]structureID.name}, en {[location]solarsystemID.name, linkify}, a la seguridad de los bienes. <br>Cuando están en la seguridad de los bienes, los objetos se pueden enviar manualmente a los siguientes sistemas tras 5 días: {destinationList}. Tras 20 días, se enviarán automáticamente a {[location]defaultSolarSystemID.name, linkify}.<br>Se aplicará una tasa al recuperar cualquier objeto, que aumentará si se envía a una ubicación fuera de {destinationList}. {extraTaxText}<br>¿Seguro que quieres continuar?"
     },
     "1056337": {
         "en": "Move corp items to Asset Safety?",
-        "es": ""
+        "es": "¿Mover objetos corporativos a seguridad de los bienes?"
     },
     "1056342": {
         "en": "Excellent. \r\n\r\nTo browse the available <b>Academy Ships</b>, select the AIR Academy Ships service in the station panel to your right. This service is available at every station within Exordium.",
@@ -1241853,11 +1241769,11 @@
     },
     "1056358": {
         "en": "{trainedSp} / {totalSp} SP",
-        "es": ""
+        "es": "{trainedSp}/{totalSp} PH"
     },
     "1056359": {
         "en": "Reset tag sequences",
-        "es": ""
+        "es": "Restablecer secuencias de etiquetas"
     },
     "1056365": {
         "en": "Damning Punisher",
@@ -1242297,7 +1242213,7 @@
     },
     "1056478": {
         "en": "Please note that the fee in Zarzakh depends on the results of the Pirate Insurgency.",
-        "es": ""
+        "es": "Ten en cuenta que la tarifa en Zarzakh depende de los resultados de la insurgencia pirata."
     },
     "1056479": {
         "en": "<b>Free pre-fitted ships available at any station in Exordium.</b>\r\n<UL>\r\n<LI>Free to use, no penalty for loss.</LI>\r\n<LI>No skill requirements, but still receive benefits from the skills you train.</LI>\r\n<LI>Ships come equipped with modules and charges.</LI>\r\n<LI>13 ships to choose from, swap freely to try out different styles.</LI>\r\n</UL>\r\n<b>Restrictions:</b>\r\n<UL><LI>Can only be flown in Exordium.</LI>\r\n<LI>Can only have one active Academy Ship at a time.</LI>\r\n<LI>Cannot be traded or reprocessed.</LI>\r\n<LI>Academy modules and charges can only be used with Academy Ships</LI>\r\n</UL>",
@@ -1242317,15 +1242233,15 @@
     },
     "1056498": {
         "en": "Brand Management ",
-        "es": ""
+        "es": "Gestión de marca"
     },
     "1056499": {
         "en": "Corporation Ads",
-        "es": ""
+        "es": "Anuncios de la corporación"
     },
     "1056500": {
         "en": "Wallet - PLEX",
-        "es": ""
+        "es": "Cartera: PLEX"
     },
     "1056502": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
@@ -1242649,7 +1242565,7 @@
     },
     "1056584": {
         "en": "Wallet - EverMarks",
-        "es": ""
+        "es": "Cartera: EverMarks"
     },
     "1056592": {
         "en": "Gila Penumbral Shadows SKIN",
@@ -1243893,7 +1243809,7 @@
     },
     "1057167": {
         "en": "Edit Expiry",
-        "es": ""
+        "es": "Editar caducidad"
     },
     "1057169": {
         "en": "SARO Ore Reserve",
@@ -1243985,19 +1243901,19 @@
     },
     "1057293": {
         "en": "Jumping to {solarSystemName}",
-        "es": ""
+        "es": "Saltando a {solarSystemName}"
     },
     "1057294": {
         "en": "Preparing jump to {solarSystemName}",
-        "es": ""
+        "es": "Preparando el salto a {solarSystemName}"
     },
     "1057295": {
         "en": "Bridging to {solarSystemName}",
-        "es": ""
+        "es": "Estableciendo un puente hacia {solarSystemName}"
     },
     "1057296": {
         "en": "Preparing bridge to {solarSystemName}",
-        "es": ""
+        "es": "Preparando puente hacia {solarSystemName}"
     },
     "1057343": {
         "en": "SARO Black Sites",
@@ -1244605,15 +1244521,15 @@
     },
     "1058267": {
         "en": "Header sorting is disabled",
-        "es": ""
+        "es": "La ordenación por encabezados está desactivada"
     },
     "1058268": {
         "en": "Header sorting enabled",
-        "es": ""
+        "es": "Ordenación por encabezados activada"
     },
     "1058269": {
         "en": "Click a column header to sort the overview by that column.\r\nWhen this option is disabled, clicking a header does not change the sort column or direction.",
-        "es": ""
+        "es": "Haz clic en el encabezado de una columna para ordenar la vista general según esa columna.\r\nSi esta opción está desactivada, al hacer clic en un encabezado no cambiarán la columna ni el sentido de ordenación."
     },
     "1058394": {
         "en": "SARO Mobile Observatory",
@@ -1244665,11 +1244581,11 @@
     },
     "1058458": {
         "en": "Add items listed in clipboard to filter",
-        "es": ""
+        "es": "Añadir artículos en el portapapeles al filtro"
     },
     "1058459": {
         "en": "Format example:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>You can also drag items and fittings into the window.",
-        "es": ""
+        "es": "Ejemplo de formato:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>También puedes arrastrar artículos y equipamientos a la ventana."
     },
     "1058497": {
         "en": "Rogue Drone Outbreak",
@@ -1245056,7 +1244972,7 @@
         "es": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "es": "Amarrgen de victoria"
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "es": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "es": "Ventaja corporativa"
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "es": "Destruye {[numeric]amount, useGrouping} acorazados de oficial de la Federación."
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "es": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "es": "La libertad tiene sus ventajas"
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "es": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "es": "Ventaja sin límites"
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "es": "Destruye {[numeric]amount, useGrouping} acorazados de oficial del Imperio."
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "es": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "es": "Mantén la fe"
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "es": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "es": "El Estado perdura"
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "es": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "es": "La libertad se mantiene firme"
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "es": "Defiende {[numeric]amount, useGrouping} complejos de guerra de facciones para la Federación Gallente."
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "es": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "es": "Cadenas rotas, filas intactas"
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "es": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "es": "Reza por el perdón"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "es": "Asesta el golpe definitivo a {[numeric]amount, useGrouping} capsulistas minmatarianos o de los Ángeles mientras estás alistado en las filas de Amarr."
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "es": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "es": "Adquisiciones agresivas"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "es": "Asesta el golpe definitivo a {[numeric]amount, useGrouping} capsulistas gallentes o guristas mientras estás alistado en las filas de Caldari."
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "es": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "es": "Diplomacia a cañonazos"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "es": "Asesta el golpe definitivo a {[numeric]amount, useGrouping} capsulistas caldaris o guristas mientras estás alistado en las filas de Gallente."
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "es": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "es": "Convierte a los opresores en chatarra"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "es": "Asesta el golpe definitivo a {[numeric]amount, useGrouping} capsulistas amarrianos o de los Ángeles mientras estás alistado en las filas de Minmatar."
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "es": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "es": "Halo y adiós"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "es": "Asesta el golpe definitivo a {[numeric]amount, useGrouping} capsulistas amarrianos o minmatarianos mientras estás alistado en las filas de los Ángeles."
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "es": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "es": "Mercenario"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "es": "Asesta el golpe definitivo a {[numeric]amount, useGrouping} capsulistas caldaris o gallentes mientras estás alistado en las filas de los Guristas."
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "es": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "es": "Compensación divina"
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "es": "Gana {[numeric]amount, useGrouping} puntos de lealtad para la 24.ª Cruzada Imperial."
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "es": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "es": "Rentabilidad de la lealtad"
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "es": "Gana {[numeric]amount, useGrouping} puntos de lealtad para el Protectorado del Estado."
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "es": "Beneficios de la unión"
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "es": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "es": "De la chatarra a la riqueza"
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "es": "Gana {[numeric]amount, useGrouping} puntos de lealtad para la Fuerza Tribal de Liberación."
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "es": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "es": "El crimen sí que sale rentable"
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "es": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "es": "En plan comando"
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "es": "Gana {[numeric]amount, useGrouping} puntos de lealtad para el Comando Guri."
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "es": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "es": "Elegidos para la destrucción"
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "es": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "es": "El acero no es rival"
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "es": "Destruye {[numeric]amount, useGrouping} no capsulistas de las naves de acero de Hakuzosu."
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "es": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "es": "Suprime a los supresores"
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "es": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "es": "La flota dorada"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "es": "Pilota {[numeric]amount, useGrouping} modelos distintos de naves de la Armada Amarr."
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "es": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "es": "Potencia de fuego ejecutiva"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "es": "Pilota {[numeric]amount, useGrouping} modelos distintos de naves de la Armada Caldari."
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "es": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "es": "Armada de la Federación"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "es": "Pilota {[numeric]amount, useGrouping} modelos distintos de naves de la Armada Gallente."
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "es": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "es": "Una flota desafiante"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "es": "Pilota {[numeric]amount, useGrouping} modelos distintos de naves de la Flota de la República."
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "es": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "es": "Legión angelical"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "es": "Pilota {[numeric]amount, useGrouping} modelos distintos de naves del Cártel de los Ángeles."
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "es": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "es": "Potencia de fuego a sangre fría"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "es": "Pilota {[numeric]amount, useGrouping} modelos distintos de naves guristas."
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "es": ""
     },
     "1059561": {
@@ -1246431,6 +1246347,38 @@
         "en": "A Dreadnought of the Caldari State",
         "es": "Superacorazado del Estado Caldari."
     },
+    "1060615": {
+        "en": "Station",
+        "es": ""
+    },
+    "1060618": {
+        "en": "Station docked at",
+        "es": ""
+    },
+    "1060623": {
+        "en": "Manifest Station",
+        "es": ""
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub",
+        "es": ""
+    },
+    "1060625": {
+        "en": "The Hub of Exordium",
+        "es": ""
+    },
+    "1060626": {
+        "en": "Dock at a Station",
+        "es": ""
+    },
+    "1060627": {
+        "en": "Dock at a station or structure",
+        "es": ""
+    },
+    "1060628": {
+        "en": "stations docked",
+        "es": ""
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "es": ""
@@ -1246517,6 +1246465,10 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "es": ""
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship",
         "es": ""
     }
 }

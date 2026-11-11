@@ -882041,7 +882041,7 @@
     },
     "515829": {
         "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "ru": "Система безопасности активов выполняет перенос активов из сооружения {structureLink} в системе {[location]solarsystemID.name, linkify}. Через {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} ({[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) активы можно будет вручную переместить в систему {[location]solarsystemID.name, linkify}.<br>Через {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} ({[datetime]assetSafetyFullTimestamp, date=short, time=short}) активы будут автоматически доставлены на станцию {[location]newStationID.name, linkify}. За возврат активов взымается плата."
+        "ru": "Активы из сооружения {structureLink} в звёздной системе {[location]solarsystemID.name, linkify} переносятся в систему безопасности. Через {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} ({[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) эти активы можно будет вручную переместить в систему {listOfSolarSystems}.<br>Через {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} ({[datetime]assetSafetyFullTimestamp, date=short, time=short}) они будут автоматически отправлены в систему {[location]newStationID.name, linkify}. За извлечение активов взимается плата."
     },
     "515830": {
         "en": "Report: items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} need your attention",
@@ -884437,7 +884437,7 @@
     },
     "516506": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
-        "ru": "Вы собираетесь перенести всю собственность корпорации <b>{corpName}</b> из сооружения «{[location]structureID.name}» в систему безопасности активов в звёздной системе «{[location]solarsystemID.name, linkify}». <br>Когда предметы окажутся в системе безопасности активов, их можно будет через пять дней вручную доставить в нужное место в той же звёздной системе. Через 20 дней предметы будут автоматически доставлены на ближайшую станцию.<br>Вы сможете забрать эти предметы за дополнительную плату. Стоимость процедуры возрастает, если предметы доставляются за пределы системы «{[location]solarsystemID.name, linkify}».<br>Хотите продолжить?"
+        "ru": "Вы собираетесь переместить активы корпорации <b>{corpName}</b> из сооружения {[location]structureID.name} в звёздной системе {[location]solarsystemID.name, linkify} в систему безопасности. <br>По прошествии 5 дней активы, помещённые в систему безопасности, можно отправить можно отправить на другой объект в той же звёздной системе. Через 20 дней предметы будут автоматически перевезены на ближайшую станцию.<br>За извлечение предметов взимается плата. Она увеличивается, если предметы доставлены за пределы системы {[location]solarsystemID.name, linkify}.<br>Вы точно хотите продолжить?"
     },
     "516507": {
         "en": "Move corp items to Asset Safety?",
@@ -933061,7 +933061,7 @@
     },
     "536323": {
         "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "ru": "Система безопасности активов выполняет перенос корпоративных активов из сооружения {structureLink} в системе {[location]solarsystemID.name, linkify}. Через {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} ({[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) активы можно будет вручную переместить в систему {[location]solarsystemID.name, linkify}. Управлять доставкой вручную могут только директора.<br>Через {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} ({[datetime]assetSafetyFullTimestamp, date=short, time=short}) активы будут автоматически доставлены на станцию {[location]newStationID.name, linkify}. За возврат активов взымается плата."
+        "ru": "Активы корпорации из сооружения {structureLink} в звёздной системе {[location]solarsystemID.name, linkify} переносятся в систему безопасности. Через {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} ({[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) эти активы можно будет вручную переместить в систему {listOfSolarSystems}. Управлять доставкой вручную могут только директора.<br>Через {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} ({[datetime]assetSafetyFullTimestamp, date=short, time=short}) активы будут автоматически отправлены в систему {[location]newStationID.name, linkify}. За извлечение активов взимается плата."
     },
     "536336": {
         "en": "Replay operation",
@@ -1063932,7 +1063932,7 @@
         "ru": "Counter-Curse"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "ru": "Этот фрегат модели Skybreaker принадлежит Специальному отделу правил и порядка (СОПП) и оснащён системами подсветки целей.\r\n\r\nЕго экипаж входит в команду, обеспечивающую сохранение бесполётной зоны вокруг тайного объекта СОПП, и наделён полномочиями ликвидировать любые подозрительные корабли."
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "ru": "Detainer Phobos"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "ru": "Этот крейсер модели Curse, принадлежащий Специальному отделу правил и порядка (СОПП), оснащён системами стазис-индукции и варп-глушения.\r\n\r\nЕго экипаж входит в команду, обеспечивающую сохранение бесполётной зоны вокруг тайного объекта СОПП, и наделён полномочиями ликвидировать любые подозрительные корабли."
     },
     "600478": {
@@ -1073918,90 +1073918,6 @@
     "623648": {
         "en": "Destroyed Vessel",
         "ru": "Уничтоженное судно"
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
-    },
-    "623673": {
-        "en": "Barren Asteroid",
-        "ru": "Безрудный астероид"
     },
     "623707": {
         "en": "Imperial Frigate",
@@ -1168177,7 +1168093,7 @@
     },
     "1010612": {
         "en": "Corporation - Freelance Jobs",
-        "ru": "Внешние заказы"
+        "ru": "Корпорация — внешние заказы"
     },
     "1010613": {
         "en": "View active and completed Freelance Jobs.",
@@ -1202272,7 +1202188,7 @@
         "ru": "Talwar Fleet Issue Blueprint"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "ru": "Gnosis Friendship League SKIN"
     },
     "1034348": {
@@ -1208752,12 +1208668,12 @@
         "ru": "Строительная площадка"
     },
     "1037736": {
-        "en": "Achievement",
-        "ru": "Достижение"
+        "en": "Complete Achievements",
+        "ru": "Получить достижения"
     },
     "1037737": {
-        "en": "List of Required Achievements",
-        "ru": "Список требуемых достижений"
+        "en": "Complete Achievements",
+        "ru": "Получить достижения"
     },
     "1037738": {
         "en": "achievements completed",
@@ -1212868,7 +1212784,7 @@
         "ru": "Пилот этого калдарского фрегата подчиняется секретному отделу Архивной палаты. Ему поручена охрана судов, проводящих тайные операции по передаче конфиденциальных данных в Галлентской Федерации."
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "ru": "Expired Imperial Defense Booster II"
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "ru": "Многократная лицензия на базовое нанопокрытие для создания окрасок. Нанопокрытие необходимо предварительно активировать и добавить в коллекцию окрасок-С. Не обладает связанной цифровой последовательностью, что позволяет использовать его неограниченное количество раз. Однако каждый цикл производства окраски с этим нанопокрытием требует применения <a href=showinfo:81350>магнитооптического секвенсора</a> (Kerr Sequencer) для генерации уникальных лицензий."
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "ru": "PL_PointLight_Green_01a"
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "ru": "Награда за задание кампании"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "ru": "Talman’s Ashimmu"
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "ru": "Модули, рекомендуемые для прохождения симуляции «Битва за Патор»."
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "ru": "Talman’s Ashimmu"
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "ru": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "ru": "Комплекс «Альфа»"
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "ru": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "ru": "Talman’s Ashimmu"
     },
     "1043979": {
@@ -1228088,7 +1228004,7 @@
         "ru": "Древняя матарская пословица"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "ru": "В ответ на угрозу завоевательных технологий в 128 году от ю. с. республиканский флот инициировал разработку нового линейного крейсера, который поможет получить преимущество в борьбе с объединениями, вовлечёнными в этот конфликт. Хотя КОНКОРД существенно ограничил применение завоевательных технологий, многие понимали, что избежать этого не удастся, и минматары решили действовать заранее. В результате на свет появился передовой корабль минматарского флота под названием Tornado Fleet Issue. Хотя он во многом превосходит классическую модель Tornado, скептики считают, что ему бесконечно далеко от сокрушительной мощи завоевательных технологий."
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "ru": "<font size=\"14\"><b>Экспертная система «Минматарский пилот»</b></font> Эта экспертная система даёт доступ к навыкам, позволяющим пилоту летать на минматарских судах 1 техноуровня, на минматарских флотских фрегатах, эсминцах, крейсерах, линейных крейсерах и линкорах, а также разблокирует соответствующие навыки поддержки. <b>Полученные временные навыки действуют в течение семи дней.</b> Экспертная система — это дистанционный искусственный интеллект ограниченного действия, предоставляющий определённые навыки на время его использования. Такие системы не теряются при уничтожении капсулы или смене клона, поскольку не зависят от них. <font size=\"14\"><b>Активация экспертной системы</b></font> Активация происходит автоматически, когда капсулёр использует соответствующий предмет. <i>Экспертные системы — это продукты консорциума «ПКН Интерстеллар», предоставляемые корпорациями, входящими в состав «ПКН Интерстеллар», и доступные посредством системы сверхсветовых коммуникаций через гиперсеть. По своей сути они являются ИИ ограниченного действия, созданными на основе технологии гелеобразного мозга. Экспертные системы используют нейронные каналы, образующиеся при освоении или инъекции навыков, поэтому они совместимы с интерфейсом корабля и капсулы, а также с их системами управления. Управление и коммуникация осуществляются в реальном времени по выделенным сверхсветовым каналам гиперсети консорциума «ПКН Интерстеллар».</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "ru": "Oracle Navy Issue Blueprint "
     },
     "1048034": {
@@ -1228853,11 +1228769,11 @@
     },
     "1048584": {
         "en": "Open Watchlist When Joining Fleet",
-        "ru": ""
+        "ru": "Открыть список отслеживания при вступлении во флот"
     },
     "1048586": {
         "en": "itemID",
-        "ru": ""
+        "ru": "ID предмета"
     },
     "1048592": {
         "en": "Rogue Edge Construction Site",
@@ -1228881,7 +1228797,7 @@
     },
     "1048600": {
         "en": "exact ID of an item",
-        "ru": ""
+        "ru": "полный ID предмета"
     },
     "1048601": {
         "en": "State Corridor Construction Site",
@@ -1228913,11 +1228829,11 @@
     },
     "1048692": {
         "en": "Do not show again.",
-        "ru": ""
+        "ru": "Больше не показывать."
     },
     "1048694": {
         "en": "Show Site Transmission",
-        "ru": ""
+        "ru": "Отобр. передачу из района"
     },
     "1048802": {
         "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
@@ -1230817,15 +1230733,15 @@
     },
     "1050125": {
         "en": "Memberships",
-        "ru": ""
+        "ru": "Членство"
     },
     "1050127": {
         "en": "Allow new roles",
-        "ru": ""
+        "ru": "Разрешить новые роли"
     },
     "1050130": {
         "en": "Remove All Roles",
-        "ru": ""
+        "ru": "Отказаться от всех ролей"
     },
     "1050131": {
         "en": "Non-Interactable ORE HISC-99 Ice Refinery",
@@ -1230833,11 +1230749,11 @@
     },
     "1050137": {
         "en": "Resign as CEO",
-        "ru": ""
+        "ru": "Покинуть пост президента"
     },
     "1050138": {
         "en": "(Enlisted since {date})",
-        "ru": ""
+        "ru": "(Зачисл. с {date})"
     },
     "1050141": {
         "en": "General",
@@ -1230853,19 +1230769,19 @@
     },
     "1050152": {
         "en": "Title",
-        "ru": ""
+        "ru": "Звание"
     },
     "1050205": {
         "en": "Your corporation is no longer permitted to grant you new roles.",
-        "ru": ""
+        "ru": "Вашей корпорации больше не разрешается назначать вас на новые роли."
     },
     "1050206": {
         "en": "Block New Roles?",
-        "ru": ""
+        "ru": "Запретить новые роли?"
     },
     "1050207": {
         "en": "Are you sure you want to block your corporation from granting you new roles?",
-        "ru": ""
+        "ru": "Вы точно хотите запретить вашей корпорации назначать вас на новые роли?"
     },
     "1050208": {
         "en": "Career Overview",
@@ -1230873,7 +1230789,7 @@
     },
     "1050211": {
         "en": "Service Length",
-        "ru": ""
+        "ru": "Срок службы"
     },
     "1050214": {
         "en": "Base Achievements",
@@ -1230889,15 +1230805,15 @@
     },
     "1050231": {
         "en": "via direct enlistment",
-        "ru": ""
+        "ru": "прямое зачисление"
     },
     "1050238": {
         "en": "Factional warfare enemies",
-        "ru": ""
+        "ru": "враги в межгосударственных войнах"
     },
     "1050239": {
         "en": "Open Enlistment Page",
-        "ru": ""
+        "ru": "Открыть страницу зачисления на службу"
     },
     "1050260": {
         "en": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
@@ -1230957,7 +1230873,7 @@
     },
     "1050282": {
         "en": "When enabled, your corporation can assign new roles to you.<br><br>To leave your corporation, you must first remove all assigned roles and complete a 24-hour corporate stasis period. Disable this option to prevent your corporation from assigning you new roles while you prepare to leave.",
-        "ru": ""
+        "ru": "Если возможность включена, ваша корпорация может назначать вас на новые роли.<br><br>Прежде чем выйти из корпорации, откажитесь от всех назначенных ролей и выждите 24 часа. Отключите эту возможность, чтобы корпорация не назначала вас на новые роли, пока вы готовитесь её покинуть."
     },
     "1050283": {
         "en": "Navigation",
@@ -1233100,7 +1233016,7 @@
         "ru": "Эта надстройка, при создании которой инженеры «Охотников за кровью» объединили амаррские и минматарские технологии, улучшает работу лазерных орудий, энергонейтрализаторов и модулей паразитной подзарядки. К сожалению, ради «грубой силы» разработчикам пришлось пожертвовать скоростью перезарядки накопителя. Кроме того, эта надстройка связывает между собой технологии «Тёмной крови»: чем больше модулей «Тёмной крови» установлено на корабль, тем лучше она работает.\r\n\r\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.\r\n\r\nНегативное влияние надстройки на ЦПУ можно снизить благодаря навыку <a href=showinfo:96100>«Синхронизация надстроек»</a>."
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "ru": "Basic 'Radiance' Cerebral Accelerator"
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "ru": "Такие нейроускорители производят и распространяют охотники за «Мёртвым жаром» совместно с «Союзом охотников за кровью». При использовании ненадолго ускоряет освоение навыков. Из-за нестабильности состава имеет небольшой срок хранения. Срок годности: до 10 ноября 128 года от ю. с. включительно."
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "ru": "Potent 'Radiance' Cerebral Accelerator"
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "ru": "Бонус при перегреве энергонейтрализаторов и модулей паразитной подзарядки"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "ru": "Extended 'Radiance' Cerebral Accelerator"
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "ru": "Бонус к добавочной дальности энергонейтрализаторов и модулей паразитной подзарядки"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "ru": "Harvest Anti-Disruptor Booster IV"
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+24% к сопротивляемости подавителям орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "ru": "Harvest Anti-Disruptor Booster I"
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+6% к сопротивляемости подавителям орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "ru": "Harvest Anti-Disruptor Booster II"
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+12% к сопротивляемости подавителям орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "ru": "Harvest Anti-Disruptor Booster III"
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+18% к сопротивляемости подавителям орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "ru": "Harvest Nosferatu Booster I"
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>-3% от времени цикла модуля паразитной подзарядки. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "ru": "Harvest Nosferatu Booster II"
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>-6% от времени цикла модуля паразитной подзарядки. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "ru": "Harvest Nosferatu Booster III"
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>-9% от времени цикла модуля паразитной подзарядки. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "ru": "Harvest Nosferatu Booster IV"
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "ru": "бонусы этой надстройки увеличиваются ровно на +1% за каждый модуль <b>«Тёмной крови»</b>, установленный на этот корабль"
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "ru": "Harvest Webifier Booster I"
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+1 км к дальности стазис-индуктора. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "ru": "Harvest Webifier Booster II"
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+2 км к дальности стазис-индуктора. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "ru": "Harvest Webifier Booster III"
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+3 км к дальности стазис-индуктора. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "ru": "Harvest Webifier Booster IV"
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+4 км к дальности стазис-индуктора. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "ru": "Harvest Damage Booster I"
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+3% к урону лазерных орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "ru": "Harvest Damage Booster II"
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "ru": "Эта надстройка, при создании которой инженеры «Охотников за кровью» объединили амаррские и минматарские технологии, улучшает работу лазерных орудий, энергонейтрализаторов и модулей паразитной подзарядки. К сожалению, ради «грубой силы» разработчикам пришлось пожертвовать скоростью перезарядки накопителя. Кроме того, эта надстройка связывает между собой технологии «Тёмной крови»: чем больше модулей «Тёмной крови» установлено на корабль, тем лучше она работает. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики. Негативное влияние надстройки на ЦПУ можно снизить благодаря навыку <a href=showinfo:96100>«Синхронизация надстроек»</a>."
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "ru": "Harvest Damage Booster III"
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "ru": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "ru": "Harvest Damage Booster IV"
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "ru": "Этот стимулятор разработан членами флотов «Охотников за кровью» и служит пиратам подспорьем в кровавых расправах. <b>+12% к урону лазерных орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "ru": "Tetrimon Anti-Drain Booster I"
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+6% к сопротивляемости средствам воздействия на накопитель. Базовая длительность: 2 часа.</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "ru": "Tetrimon Anti-Drain Booster II"
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "ru": "Эта надстройка, при создании которой инженеры «Охотников за кровью» объединили амаррские и минматарские технологии, улучшает работу лазерных орудий, энергонейтрализаторов и модулей паразитной подзарядки. К сожалению, ради «грубой силы» разработчикам пришлось пожертвовать скоростью перезарядки накопителя. Кроме того, эта надстройка связывает между собой технологии «Тёмной крови»: чем больше модулей «Тёмной крови» установлено на корабль, тем лучше она работает. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики. Негативное влияние надстройки на ЦПУ можно снизить благодаря навыку <a href=showinfo:96100>«Синхронизация надстроек»</a>."
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "ru": "Tetrimon Anti-Drain Booster III"
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+18% к сопротивляемости средствам воздействия на накопитель. Базовая длительность: 2 часа.</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "ru": "Tetrimon Anti-Drain Booster IV"
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "ru": "бонусы этой надстройки увеличиваются ровно на +1% за каждый модуль <b>«Тёмной крови»</b>, установленный на этот корабль"
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "ru": "Tetrimon Capacitor Booster I"
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "ru": "бонусы этой надстройки увеличиваются ровно на +1% за каждый модуль <b>«Тёмной крови»</b>, установленный на этот корабль"
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "ru": "Tetrimon Capacitor Booster II"
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+6% к ёмкости накопителя. Базовая длительность: 2 часа.</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "ru": "Tetrimon Capacitor Booster III"
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+9% к ёмкости накопителя. Базовая длительность: 2 часа.</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "ru": "Tetrimon Capacitor Booster IV"
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "ru": "Замедление перезарядки накопителя"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "ru": "Tetrimon Resistance Booster I"
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+2% к сопротивляемости брони. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "ru": "Tetrimon Resistance Booster II"
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+4% к сопротивляемости брони. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "ru": "Tetrimon Resistance Booster III"
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+6% к сопротивляемости брони. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "ru": "Tetrimon Resistance Booster IV"
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+8% к сопротивляемости брони. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "ru": "Tetrimon Precision Booster I"
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+3% к оптимальной дальности и скорости наведения лазерных орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "ru": "Tetrimon Precision Booster II"
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+6% к оптимальной дальности и скорости наведения лазерных орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "ru": "Tetrimon Precision Booster III"
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+9% к оптимальной дальности и скорости наведения лазерных орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "ru": "Tetrimon Precision Booster IV"
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "ru": "Этот стимулятор был разработан воинственными паладинами ордена св. Тетримона для борьбы с сектантами. <b>+12% к оптимальной дальности и скорости наведения лазерных орудий. Базовая длительность: 2 часа</b> <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "ru": "Chemal Tech Turret Booster I"
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "ru": "<b>+4% к урону турелей.</b> <b>+4% к скорости наведения турелей.</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "ru": "Chemal Tech Turret Booster II"
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "ru": "<b>+6% к урону турелей.</b> <b>+6% к скорости наведения турелей.</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "ru": "Chemal Tech Turret Booster III"
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "ru": "<b>+8% к урону турелей.</b> <b>+8% к скорости наведения турелей.</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "ru": "Chemal Tech Mining Booster I"
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "ru": "<b>+4% к объёму выработки буровых лазеров.</b> <b>+10% к оптимальной дальности буровых лазеров.</b>Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "ru": "Chemal Tech Mining Booster II"
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "ru": "<b>+8% к объёму выработки буровых лазеров.</b> <b>+15% к оптимальной дальности буровых лазеров.</b>Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "ru": "Chemal Tech Mining Booster III"
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "ru": "Эта надстройка, разработанная лучшими умами «Истинных созданий» путём инженерного ретроанализа амаррских и калдарских технологий, улучшает работу <a href=showinfo:3450>форсажных ускорителей</a> и лазерных орудий за счёт резкого повышения стоимости активации форсажных ускорителей. Кроме того, такая надстройка связывает между собой технологии «Истинных граждан Санши»: чем больше модулей «Истинных граждан» установлено на корабль, тем лучше она работает.\r\n\r\nВнимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики.\r\n\r\nНегативное влияние надстройки на ЦПУ можно снизить благодаря навыку <a href=showinfo:96100>«Синхронизация надстроек»</a>."
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "ru": "Chemal Tech Exploration Booster I"
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "ru": "<b>+4 к целостности вируса для анализатора данных</b> <b>+4% к чувствительности разведзондов</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "ru": "Chemal Tech Exploration Booster II"
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "ru": "<b>+6 к целостности вируса для анализатора данных</b> <b>+8% к чувствительности разведзондов</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "ru": "Chemal Tech Exploration Booster III"
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "ru": "<b>+8 к целостности вируса для анализатора данных</b> <b>+12% к чувствительности разведзондов</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "ru": "Chemal Tech Repair Booster I"
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "ru": "<b>-4% от времени цикла установки ремонта брони.</b> <b>-4% от времени цикла модуля накачки щитов.</b> Базовая длительность: 3 часа <b>Срок годности: до 10 ноября 128 года от ю. с.</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "ru": "Chemal Tech Repair Booster II"
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "ru": "Бонус к скорости форсажных ускорителей"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "ru": "Chemal Tech Repair Booster III"
     },
     "1051417": {
@@ -1238768,7 +1238684,7 @@
         "ru": "Aberrant Raspite"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "ru": "Аберрантные молекулы распита изменились под воздействием гиперпространства. Этот аномальный материал нужен Амаррской Империи для исследований энергетической эффективности технологий Скитальцев. Возьмите соответствующее задание кампании и доставьте минерал торговцу неподалёку от якорной станции имперского флота в системе <url=showinfo:5//30002974>Mehatoor</url>."
     },
     "1054676": {
@@ -1241789,11 +1241705,11 @@
     },
     "1056324": {
         "en": "{list}, or {lastItem}",
-        "ru": ""
+        "ru": "{list} или {lastItem}"
     },
     "1056325": {
         "en": "{A} or {B}",
-        "ru": ""
+        "ru": "{A} или {B}"
     },
     "1056326": {
         "en": "Expedition Distress Signal",
@@ -1241821,19 +1241737,19 @@
     },
     "1056334": {
         "en": "You are about to move all assets belonging to you in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "ru": ""
+        "ru": "Вы собираетесь переместить ваши активы из сооружения {[location]structureID.name} в звёздной системе {[location]solarsystemID.name, linkify} в систему безопасности. <br>По прошествии 5 дней активы, помещённые в систему безопасности, можно отправить в следующие системы: {destinationList}. Через 20 дней предметы будут автоматически перевезены в систему {[location]defaultSolarSystemID.name, linkify}.<br>За извлечение предметов взимается плата. Она увеличивается, если предметы доставлены не в эти системы: {destinationList}. {extraTaxText}<br>Вы точно хотите продолжить?"
     },
     "1056335": {
         "en": "Move items to Asset Safety?",
-        "ru": ""
+        "ru": "Переместить предметы в систему безопасности?"
     },
     "1056336": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "ru": ""
+        "ru": "Вы собираетесь переместить активы корпорации <b>{corpName}</b> из сооружения {[location]structureID.name} в звёздной системе {[location]solarsystemID.name, linkify} в систему безопасности. <br>По прошествии 5 дней активы, помещённые в систему безопасности, можно отправить в следующие системы: {destinationList}. Через 20 дней предметы будут автоматически перевезены в систему {[location]defaultSolarSystemID.name, linkify}.<br>За извлечение предметов взимается плата. Она увеличивается, если предметы доставлены не в эти системы: {destinationList}. {extraTaxText}<br>Вы точно хотите продолжить?"
     },
     "1056337": {
         "en": "Move corp items to Asset Safety?",
-        "ru": ""
+        "ru": "Переместить предметы корпорации в систему безопасности?"
     },
     "1056342": {
         "en": "Excellent. \r\n\r\nTo browse the available <b>Academy Ships</b>, select the AIR Academy Ships service in the station panel to your right. This service is available at every station within Exordium.",
@@ -1241853,11 +1241769,11 @@
     },
     "1056358": {
         "en": "{trainedSp} / {totalSp} SP",
-        "ru": ""
+        "ru": "{trainedSp} / {totalSp} СП"
     },
     "1056359": {
         "en": "Reset tag sequences",
-        "ru": ""
+        "ru": "Сбросить цепочки тегов"
     },
     "1056365": {
         "en": "Damning Punisher",
@@ -1242297,7 +1242213,7 @@
     },
     "1056478": {
         "en": "Please note that the fee in Zarzakh depends on the results of the Pirate Insurgency.",
-        "ru": ""
+        "ru": "Внимание! Сумма платы в Zarzakh зависит от итогов пиратской интервенции."
     },
     "1056479": {
         "en": "<b>Free pre-fitted ships available at any station in Exordium.</b>\r\n<UL>\r\n<LI>Free to use, no penalty for loss.</LI>\r\n<LI>No skill requirements, but still receive benefits from the skills you train.</LI>\r\n<LI>Ships come equipped with modules and charges.</LI>\r\n<LI>13 ships to choose from, swap freely to try out different styles.</LI>\r\n</UL>\r\n<b>Restrictions:</b>\r\n<UL><LI>Can only be flown in Exordium.</LI>\r\n<LI>Can only have one active Academy Ship at a time.</LI>\r\n<LI>Cannot be traded or reprocessed.</LI>\r\n<LI>Academy modules and charges can only be used with Academy Ships</LI>\r\n</UL>",
@@ -1242317,15 +1242233,15 @@
     },
     "1056498": {
         "en": "Brand Management ",
-        "ru": ""
+        "ru": "Бренд-менеджмент "
     },
     "1056499": {
         "en": "Corporation Ads",
-        "ru": ""
+        "ru": "Объявления корпорации"
     },
     "1056500": {
         "en": "Wallet - PLEX",
-        "ru": ""
+        "ru": "Кошелёк — плексы"
     },
     "1056502": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
@@ -1242649,7 +1242565,7 @@
     },
     "1056584": {
         "en": "Wallet - EverMarks",
-        "ru": ""
+        "ru": "Кошелёк: EverMarks"
     },
     "1056592": {
         "en": "Gila Penumbral Shadows SKIN",
@@ -1243893,7 +1243809,7 @@
     },
     "1057167": {
         "en": "Edit Expiry",
-        "ru": ""
+        "ru": "Редактировать срок"
     },
     "1057169": {
         "en": "SARO Ore Reserve",
@@ -1243985,19 +1243901,19 @@
     },
     "1057293": {
         "en": "Jumping to {solarSystemName}",
-        "ru": ""
+        "ru": "Прыжок в систему {solarSystemName}"
     },
     "1057294": {
         "en": "Preparing jump to {solarSystemName}",
-        "ru": ""
+        "ru": "Подготовка к прыжку в систему {solarSystemName}"
     },
     "1057295": {
         "en": "Bridging to {solarSystemName}",
-        "ru": ""
+        "ru": "Переброска в систему {solarSystemName}"
     },
     "1057296": {
         "en": "Preparing bridge to {solarSystemName}",
-        "ru": ""
+        "ru": "Подготовка к переброске в систему {solarSystemName}"
     },
     "1057343": {
         "en": "SARO Black Sites",
@@ -1244605,15 +1244521,15 @@
     },
     "1058267": {
         "en": "Header sorting is disabled",
-        "ru": ""
+        "ru": "Сортировка по заголовку выкл."
     },
     "1058268": {
         "en": "Header sorting enabled",
-        "ru": ""
+        "ru": "Сортировка по заголовку вкл."
     },
     "1058269": {
         "en": "Click a column header to sort the overview by that column.\r\nWhen this option is disabled, clicking a header does not change the sort column or direction.",
-        "ru": ""
+        "ru": "Нажмите на заголовок столбца, чтобы отсортировать обзор по этому столбцу.\r\nКогда функция отключена, нажатие на заголовок не меняет столбец и принцип сортировки."
     },
     "1058394": {
         "en": "SARO Mobile Observatory",
@@ -1244665,11 +1244581,11 @@
     },
     "1058458": {
         "en": "Add items listed in clipboard to filter",
-        "ru": ""
+        "ru": "Добавить в фильтр элементы из буфера обмена"
     },
     "1058459": {
         "en": "Format example:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>You can also drag items and fittings into the window.",
-        "ru": ""
+        "ru": "Пример формата:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>Кроме того, можно перетаскивать предметы и оснастки прямо в окно."
     },
     "1058497": {
         "en": "Rogue Drone Outbreak",
@@ -1245056,7 +1244972,7 @@
         "ru": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "ru": "Превосходство Империи"
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "ru": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "ru": "Корпоративное преимущество"
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "ru": "Уничтожьте линкоры галлентских командиров: {[numeric]amount, useGrouping}"
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "ru": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "ru": "Плюсы свободы"
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "ru": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "ru": "Привилегии независимости"
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "ru": "Уничтожьте линкоры амаррских командиров: {[numeric]amount, useGrouping}"
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "ru": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "ru": "Твёрдость веры"
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "ru": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "ru": "Несокрушимое государство"
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "ru": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "ru": "Незыблемая свобода"
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "ru": "Защитите комплексы Галлентской Федерации в межгосударственных войнах: {[numeric]amount, useGrouping}"
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "ru": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "ru": "Разорванные оковы, сплочённые ряды"
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "ru": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "ru": "Молите о пощаде"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "ru": "Нанесите решающий удар по капсулёрам Республики Минматар или картеля «ангелов» ({[numeric]amount, useGrouping}), состоя в амаррском ополчении"
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "ru": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "ru": "Кровавая сделка"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "ru": "Нанесите решающий удар по капсулёрам Галлентской Федерации или организации «Гуристас» ({[numeric]amount, useGrouping}), состоя в калдарском ополчении"
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "ru": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "ru": "Вооружённая дипломатия"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "ru": "Нанесите решающий удар по капсулёрам Государства Калдари или организации «Гуристас» ({[numeric]amount, useGrouping}), состоя в галлентском ополчении"
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "ru": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "ru": "Борьба с угнетателями"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "ru": "Нанесите решающий удар по капсулёрам Амаррской Империи или картеля «ангелов» ({[numeric]amount, useGrouping}), состоя в минматарском ополчении"
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "ru": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "ru": "Святая смерть"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "ru": "Нанесите решающий удар по капсулёрам Амаррской Империи или Республики Минматар ({[numeric]amount, useGrouping}), состоя в ополчении картеля «ангелов»"
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "ru": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "ru": "Наёмный убийца"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "ru": "Нанесите решающий удар по капсулёрам Государства Калдари или Галлентской Федерации ({[numeric]amount, useGrouping}), состоя в ополчении «Гуристас»"
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "ru": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "ru": "Дары Господни"
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "ru": "Заработайте {[numeric]amount, useGrouping} НБ в 24-м императорском миссионерском флоте"
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "ru": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "ru": "Плата за верность"
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "ru": "Заработайте {[numeric]amount, useGrouping} НБ в Охранном корпусе"
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "ru": "Награда за единство"
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "ru": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "ru": "Из грязи в князи"
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "ru": "Заработайте {[numeric]amount, useGrouping} НБ в Республиканской освободительной армии"
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "ru": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "ru": "Большой куш"
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "ru": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "ru": "Путь наверх"
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "ru": "Заработайте {[numeric]amount, useGrouping} НБ в «Спецотряде Гури»"
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "ru": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "ru": "Избранный убивать"
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "ru": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "ru": "Стальной кулак"
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "ru": "Уничтожьте {[numeric]amount, useGrouping} NPC из «Стальных воинов Хакудзосу»"
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "ru": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "ru": "Угнетение угнетателей"
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "ru": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "ru": "Золотой флот"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "ru": "Взойдите на борт уникальных кораблей имперского флота: {[numeric]amount, useGrouping}."
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "ru": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "ru": "Сильное руководство"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "ru": "Взойдите на борт уникальных кораблей калдарского флота: {[numeric]amount, useGrouping}."
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "ru": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "ru": "Галлентская армада"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "ru": "Взойдите на борт уникальных кораблей флота Федерации: {[numeric]amount, useGrouping}."
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "ru": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "ru": "Флот непокорных"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "ru": "Взойдите на борт уникальных кораблей республиканского флота: {[numeric]amount, useGrouping}."
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "ru": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "ru": "Легион ангелов"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "ru": "Взойдите на борт уникальных кораблей картеля «ангелов»: {[numeric]amount, useGrouping}."
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "ru": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "ru": "Хладнокровная сила"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "ru": "Взойдите на борт уникальных кораблей организации «Гуристас»: {[numeric]amount, useGrouping}."
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "ru": ""
     },
     "1059561": {
@@ -1246431,6 +1246347,38 @@
         "en": "A Dreadnought of the Caldari State",
         "ru": "Дредноут Государства Калдари"
     },
+    "1060615": {
+        "en": "Station",
+        "ru": ""
+    },
+    "1060618": {
+        "en": "Station docked at",
+        "ru": ""
+    },
+    "1060623": {
+        "en": "Manifest Station",
+        "ru": ""
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub",
+        "ru": ""
+    },
+    "1060625": {
+        "en": "The Hub of Exordium",
+        "ru": ""
+    },
+    "1060626": {
+        "en": "Dock at a Station",
+        "ru": ""
+    },
+    "1060627": {
+        "en": "Dock at a station or structure",
+        "ru": ""
+    },
+    "1060628": {
+        "en": "stations docked",
+        "ru": ""
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "ru": ""
@@ -1246517,6 +1246465,10 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "ru": ""
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship",
         "ru": ""
     }
 }

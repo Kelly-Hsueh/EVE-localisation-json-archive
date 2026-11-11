@@ -882041,7 +882041,7 @@
     },
     "515829": {
         "en": "Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "de": "Besitz von {structureLink} in {[location]solarsystemID.name, linkify} wird vom Besitzsicherheitssystem bewegt. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) kann der Besitz manuell an einen Ort in {[location]solarsystemID.name, linkify} geliefert werden.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyFullTimestamp, date=short, time=short}) wird der Besitz automatisch an {[location]newStationID.name, linkify} geliefert. Bei Abholung des Besitzes wird eine Gebühr fällig."
+        "de": "Besitz von {structureLink} in {[location]solarsystemID.name, linkify} wird durch das Besitzsicherheitssystem verlegt. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) kann der Besitz manuell an einen Ort in {listOfSolarSystems} geliefert werden.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyFullTimestamp, date=short, time=short}) wird der Besitz automatisch an {[location]newStationID.name, linkify} geliefert. Bei Abholung des Besitzes fällt eine Gebühr an."
     },
     "515830": {
         "en": "Report: items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} need your attention",
@@ -884437,7 +884437,7 @@
     },
     "516506": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to a location in the same system after 5 days. After 20 days, the items will be automatically delivered to a nearby station.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location outside of {[location]solarsystemID.name, linkify}.<br>Are you sure you want to continue?",
-        "de": "Sie sind im Begriff, den gesamten Besitz von <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} in die Besitzsicherheit zu verschieben. <br>Sobald sie sich in der Besitzsicherheit befinden, können Gegenstände nach 5 Tagen manuell zu einem Ort im selben System geliefert werden. Nach 20 Tagen werden die Gegenstände automatisch zu einer nahegelegenen Station geliefert.<br>Bei der Abholung von Gegenständen wird eine Gebühr fällig. Diese Gebühr fällt höher aus, wenn die Gegenstände an eine Position außerhalb von {[location]solarsystemID.name, linkify} versendet werden.<br>Sind Sie sicher, dass Sie fortfahren möchten?"
+        "de": "Sie sind dabei, den gesamten Besitz von <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} in die Besitzsicherheit zu verschieben. <br>Sobald sich Gegenstände in der Besitzsicherheit befinden, können sie nach 5 Tagen manuell an einen Ort im selben System geliefert werden. Nach 20 Tagen werden die Gegenstände automatisch an eine Station in der Nähe geliefert.<br>Für das Abholen von Gegenständen fällt eine Gebühr an. Diese Gebühr erhöht sich, wenn Gegenstände an einen Ort außerhalb von {[location]solarsystemID.name, linkify} geliefert werden.<br>Möchten Sie wirklich fortfahren?"
     },
     "516507": {
         "en": "Move corp items to Asset Safety?",
@@ -933061,7 +933061,7 @@
     },
     "536323": {
         "en": "Corporation Assets from {structureLink} in {[location]solarsystemID.name, linkify} are being moved by the Asset Safety system. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}), the assets can be manually delivered to a location in {listOfSolarSystems}. Control over manual delivery is only available to Directors.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (at {[datetime]assetSafetyFullTimestamp, date=short, time=short}), the assets will be automatically delivered to {[location]newStationID.name, linkify}. A fee will apply when retrieving the assets.",
-        "de": "Besitz der Corporation von {structureLink} in {[location]solarsystemID.name, linkify} wird vom Besitzsicherheitssystem bewegt. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) kann der Besitz manuell an einen Ort in {[location]solarsystemID.name, linkify} geliefert werden. Die Kontrolle über manuelle Lieferungen ist nur für Direktoren verfügbar.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyFullTimestamp, date=short, time=short}) wird der Besitz automatisch an {[location]newStationID.name, linkify} geliefert. Bei Abholung des Besitzes wird eine Gebühr fällig."
+        "de": "Besitz der Corporation von {structureLink} in {[location]solarsystemID.name, linkify} wird durch das Besitzsicherheitssystem verlegt. In {[timeinterval]assetSafetyDurationMinimum.writtenForm, from=day, to=hour} (am {[datetime]assetSafetyMinimumTimestamp, date=short, time=short}) kann der Besitz manuell an einen Ort in {listOfSolarSystems} geliefert werden. Kontrolle über manuelle Lieferung ist nur für Direktoren verfügbar.<br>In {[timeinterval]assetSafetyDurationFull.writtenForm, from=day, to=hour} (um {[datetime]assetSafetyFullTimestamp, date=short, time=short}) wird der Besitz automatisch an {[location]newStationID.name, linkify} geliefert. Bei Abholung des Besitzes fällt eine Gebühr an."
     },
     "536336": {
         "en": "Replay operation",
@@ -1063932,7 +1063932,7 @@
         "de": "Counter-Curse"
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "de": "Eine Fregatte der Skybreaker-Klasse unter dem Kommando der Special Affairs for Regulations & Order (SARO), ausgerüstet mit Zielmarkierern.\r\n\r\nDieses Schiff ist Teil eines Teams zur Durchsetzung der Flugverbotszone um eine geheime SARO-Anlage und hat den Befehl, alle unbefugten Schiffe zu vernichten."
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "de": "Detainer Phobos"
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "de": "Ein Kreuzer der Curse-Klasse unter dem Kommando der Special Affairs for Regulations & Order (SARO), ausgerüstet mit Stasisnetzen und Warpunterbrechern.\r\n\r\nDieses Schiff ist Teil eines Teams zur Durchsetzung der Flugverbotszone um eine geheime SARO-Anlage und hat den Befehl, alle unbefugten Schiffe zu vernichten."
     },
     "600478": {
@@ -1073918,90 +1073918,6 @@
     "623648": {
         "en": "Destroyed Vessel",
         "de": "Zerstörtes Schiff"
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
-    },
-    "623673": {
-        "en": "Barren Asteroid",
-        "de": "Tauber Asteroid"
     },
     "623707": {
         "en": "Imperial Frigate",
@@ -1168177,7 +1168093,7 @@
     },
     "1010612": {
         "en": "Corporation - Freelance Jobs",
-        "de": "Freelance-Aufträge"
+        "de": "Corporation – Freelance-Aufträge"
     },
     "1010613": {
         "en": "View active and completed Freelance Jobs.",
@@ -1202272,7 +1202188,7 @@
         "de": "Talwar Fleet Issue Blueprint"
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "de": "Gnosis Friendship League SKIN"
     },
     "1034348": {
@@ -1208752,12 +1208668,12 @@
         "de": "Baustelle"
     },
     "1037736": {
-        "en": "Achievement",
-        "de": "Erfolg"
+        "en": "Complete Achievements",
+        "de": "Schließen Sie Erfolge ab"
     },
     "1037737": {
-        "en": "List of Required Achievements",
-        "de": "Liste der erforderlichen Erfolge"
+        "en": "Complete Achievements",
+        "de": "Schließen Sie Erfolge ab"
     },
     "1037738": {
         "en": "achievements completed",
@@ -1212868,7 +1212784,7 @@
         "de": "Eine Fregatte, die unter dem geheimen House of Records des Staates der Caldari operiert. Sie hat die Aufgabe, verdeckte Operationen in der Föderation der Gallente zu schützen, die auf geheime Datentransfers abzielen."
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "de": "Expired Imperial Defense Booster II"
     },
     "1039648": {
@@ -1216552,7 +1216468,7 @@
         "de": "Eine Lizenz für die unbegrenzte Verwendung einer grundlegenden Nanobeschichtung in der SKIN-Sequenzierung, die einmal aktiviert und in Ihrer SKINR-Sammlung aufgenommen wurde. Die digitale Sequenz dieser Nanobeschichtung wurde nicht gebunden, was eine unbegrenzte Nutzung ermöglicht. Jedoch müssen Sie jedes Mal, wenn Sie ein Design mit dieser Nanobeschichtung sequenzieren, einen <a href=showinfo:81350>Kerr-Sequenzer</a> bereitstellen, um die einzigartigen SKIN-Lizenzen, die Sie erzeugen, zu binden."
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "de": "PL_PointLight_Green_01a"
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "de": "Kampagnenziel-Belohnung"
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "de": "Talman’s Ashimmu"
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "de": "Module, die für den Abschluss der Pator-Simulation empfohlen werden."
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "de": "Talman’s Ashimmu"
     },
     "1041884": {
@@ -1222528,7 +1222444,7 @@
         "de": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "de": "Complex Alpha"
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "de": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "de": "Talman’s Ashimmu"
     },
     "1043979": {
@@ -1228088,7 +1228004,7 @@
         "de": "Altes Matari-Sprichwort"
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "de": "Im Jahr YC128 stellte die Republic Fleet angesichts des Schreckgespensts der Eroberungstechnologie am Horizont eine Anfrage nach einem neuen Schlachtkreuzer, der den in diesem Konflikt erwarteten Einsatzteams einen Vorteil verschaffen könnte. Obwohl die Eroberungstechnologie durch eine Vereinbarung mit CONCORD eingeschränkt war, hielten viele ihren Einsatz für unvermeidlich, und die Minmatar wollten ihrer Befürchtung proaktiv begegnen. Das Ergebnis war die Tornado Fleet Issue, ein fortschrittliches Schiff der Republic Fleet. Trotz seiner beeindruckenden Verbesserungen gegenüber dem ursprünglichen Modell behaupteten Kritiker, dieses Schiff sei lediglich eine konventionelle Waffe, die der gewaltigen Macht der Eroberungsmaschinen in keiner Weise standhalten könne."
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "de": "<font size=\"14\"><b>Expertensystem für Minmatar-Piloten</b></font> Dieses Expertensystem ermöglicht es Kapselpiloten, durch Bereitstellung entsprechender Skills, verschiedene Minmatar Tech 1, sowie Navy-Fregatten, Zerstörer, Kreuzer, Schlachtkreuzer und Schlachtschiffe zu fliegen. Dazu gibt es Unterstützungsskills mit dem Fokus auf Minmatar. <b>Die durch dieses Expertensystem bereitgestellten temporären Skills sind sieben Tage lang gültig.</b> Ein Expertensystem ist eine entfernte, eingeschränkte künstliche Intelligenz, die Ihnen während der aktiven Mietdauer Zugang zu bestimmten Skills bietet. Da es unabhängig von Ihrem Klon und Ihrer Kapsel ist, geht ein aktives Expertensystem nicht bei Kapseltod oder Klonsprung verloren. <font size=\"14\"><b>Aktivierung eines Expertensystems</b></font> Die Aktivierung eines Expertensystems erfolgt automatisch bei Einlösung des Gegenstands durch den spezifischen Kapselpiloten, der den Dienst nutzen möchte. <i>Expertensysteme sind ein Produkt, das vom PKN Interstellar Consortium entwickelt und über das HyperNet Überlichtgeschwindigkeitskommunikationsnetzwerk bereitgestellt wird. Sie werden von den Mitgliedscorporations von PKN Interstellar vermarktet. Ein Expertensystem ist eine eingeschränkte KI, die auf künstlicher Gelhirn-Technologie basiert. Da das Expertensystem neuronale Pfade nutzt, die durch Skilltraining oder Skill-Injektion erstellt wurden, ist es mit Kapsel-Schiff-Interfaces und Kontrollsystemen kompatibel. Die Echtzeit-Kommando- und Kontrollkommunikation erfolgt über dedizierte Überlichtkanäle im HyperNet von PKN Interstellar.</i>"
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "de": "Oracle Navy Issue Blueprint "
     },
     "1048034": {
@@ -1228853,11 +1228769,11 @@
     },
     "1048584": {
         "en": "Open Watchlist When Joining Fleet",
-        "de": ""
+        "de": "Merkliste beim Flottenbeitritt öffnen"
     },
     "1048586": {
         "en": "itemID",
-        "de": ""
+        "de": "Gegenstands-ID"
     },
     "1048592": {
         "en": "Rogue Edge Construction Site",
@@ -1228881,7 +1228797,7 @@
     },
     "1048600": {
         "en": "exact ID of an item",
-        "de": ""
+        "de": "exakte ID eines Gegenstands"
     },
     "1048601": {
         "en": "State Corridor Construction Site",
@@ -1228913,11 +1228829,11 @@
     },
     "1048692": {
         "en": "Do not show again.",
-        "de": ""
+        "de": "Nicht wieder anzeigen."
     },
     "1048694": {
         "en": "Show Site Transmission",
-        "de": ""
+        "de": "Gebietsübertragung anzeigen"
     },
     "1048802": {
         "en": "Can fit <a href=showinfo:11578>Covert Ops Cloaking Device</a>",
@@ -1230817,15 +1230733,15 @@
     },
     "1050125": {
         "en": "Memberships",
-        "de": ""
+        "de": "Mitgliedschaften"
     },
     "1050127": {
         "en": "Allow new roles",
-        "de": ""
+        "de": "Neue Funktionen erlauben"
     },
     "1050130": {
         "en": "Remove All Roles",
-        "de": ""
+        "de": "Alle Funktionen entfernen"
     },
     "1050131": {
         "en": "Non-Interactable ORE HISC-99 Ice Refinery",
@@ -1230833,11 +1230749,11 @@
     },
     "1050137": {
         "en": "Resign as CEO",
-        "de": ""
+        "de": "Als CEO zurücktreten"
     },
     "1050138": {
         "en": "(Enlisted since {date})",
-        "de": ""
+        "de": "(Eingeschrieben seit {date})"
     },
     "1050141": {
         "en": "General",
@@ -1230853,19 +1230769,19 @@
     },
     "1050152": {
         "en": "Title",
-        "de": ""
+        "de": "Titel"
     },
     "1050205": {
         "en": "Your corporation is no longer permitted to grant you new roles.",
-        "de": ""
+        "de": "Ihre Corporation ist nicht mehr berechtigt, Ihnen neue Funktionen zuzuweisen."
     },
     "1050206": {
         "en": "Block New Roles?",
-        "de": ""
+        "de": "Neue Funktionen blockieren?"
     },
     "1050207": {
         "en": "Are you sure you want to block your corporation from granting you new roles?",
-        "de": ""
+        "de": "Sind Sie sicher, dass Sie Ihre Corporation daran hindern möchten, Ihnen neue Funktionen zuzuweisen?"
     },
     "1050208": {
         "en": "Career Overview",
@@ -1230873,7 +1230789,7 @@
     },
     "1050211": {
         "en": "Service Length",
-        "de": ""
+        "de": "Dienstzeit"
     },
     "1050214": {
         "en": "Base Achievements",
@@ -1230889,15 +1230805,15 @@
     },
     "1050231": {
         "en": "via direct enlistment",
-        "de": ""
+        "de": "über direkte Einberufung"
     },
     "1050238": {
         "en": "Factional warfare enemies",
-        "de": ""
+        "de": "Fraktionskrieg-Feinde"
     },
     "1050239": {
         "en": "Open Enlistment Page",
-        "de": ""
+        "de": "Einberufungsseite öffnen"
     },
     "1050260": {
         "en": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
@@ -1230957,7 +1230873,7 @@
     },
     "1050282": {
         "en": "When enabled, your corporation can assign new roles to you.<br><br>To leave your corporation, you must first remove all assigned roles and complete a 24-hour corporate stasis period. Disable this option to prevent your corporation from assigning you new roles while you prepare to leave.",
-        "de": ""
+        "de": "Bei Aktivierung kann Ihre Corporation Ihnen neue Funktionen zuweisen.<br><br>Um Ihre Corporation zu verlassen, müssen Sie zunächst alle zugewiesenen Funktionen entfernen und eine 24-stündige Pflichtwartezeit abschließen. Deaktivieren Sie diese Option, um zu verhindern, dass Ihre Corporation Ihnen während der Vorbereitung auf den Austritt neue Funktionen zuweist."
     },
     "1050283": {
         "en": "Navigation",
@@ -1233100,7 +1233016,7 @@
         "de": "Diese Modifikation wurde von Ingenieuren der Blood Raider aus kombinierten Amarr- und Minmatar-Synchronisatoren gefertigt und verbessert die Leistung von Energie-Nosferatus, Energieneutralisierern und Energiegeschütztürmen. Die brachiale Kombination, die diesen Synchronisierer antreibt, beeinträchtigt jedoch die Wiederaufladung des Energiespeichers erheblich. Sie integriert außerdem die Schnittstellen zwischen Dark Blood-Technologie. Je mehr Dark Blood-Module installiert sind, desto höher die Leistung.\r\n\r\nAbzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.\r\n\r\nDie CPU-Nachteile beim Ausrüsten dieser Modifikation können durch das Trainieren des Skills <a href=showinfo:96100>Synchronisierungsmodifizierung</a> verringert werden."
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "de": "Basic 'Radiance' Cerebral Accelerator"
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "de": "Dieser Gehirnbeschleuniger wurde von den Deathglow Hunters in Zusammenarbeit mit ihren Partnern im Bund der Blood Raider hergestellt und vertrieben. Wird er von einem Kapselpiloten verwendet, beschleunigt dieser Booster für kurze Zeit das Skill-Training. Dieser Gehirnbeschleuniger wurde mit flüchtigen Verbindungen hergestellt und ist daher nicht lange haltbar. Die Wirkung erlischt nach dem 10. November YC128."
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "de": "Potent 'Radiance' Cerebral Accelerator"
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "de": "Überhitzungsbonus für Nosferatus und Energieneutralisierer"
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "de": "Extended 'Radiance' Cerebral Accelerator"
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "de": "Bonus auf die Präzisionsabfall-Reichweite von Nosferatus und Energieneutralisierern"
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "de": "Harvest Anti-Disruptor Booster IV"
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+24 % Resistenz gegen Waffendisruptoren. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "de": "Harvest Anti-Disruptor Booster I"
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+6 % Resistenz gegen Waffendisruptoren. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "de": "Harvest Anti-Disruptor Booster II"
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+12 % Resistenz gegen Waffendisruptoren. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "de": "Harvest Anti-Disruptor Booster III"
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+18 % Resistenz gegen Waffendisruptoren. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "de": "Harvest Nosferatu Booster I"
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>-3 % Nosferatu-Modul-Durchlaufzeitbonus. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "de": "Harvest Nosferatu Booster II"
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>-6 % Nosferatu-Modul-Durchlaufzeitbonus. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "de": "Harvest Nosferatu Booster III"
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>-9 % Nosferatu-Modul-Durchlaufzeitbonus. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "de": "Harvest Nosferatu Booster IV"
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "de": "Die Boni dieser Modifikation erhöhen sich pauschal um +1 % für jedes auf diesem Schiff ausgerüstete <b>Dark Blood</b>-Modul"
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "de": "Harvest Webifier Booster I"
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+1 km Stasisnetz-Reichweite. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "de": "Harvest Webifier Booster II"
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+2 km Stasisnetz-Reichweite. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "de": "Harvest Webifier Booster III"
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+3 km Stasisnetz-Reichweite. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "de": "Harvest Webifier Booster IV"
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+4 km Stasisnetz-Reichweite. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "de": "Harvest Damage Booster I"
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+3 % Energiegeschützturm-Schaden. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "de": "Harvest Damage Booster II"
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "de": "Diese Modifikation wurde von Ingenieuren der Blood Raider aus kombinierten Amarr- und Minmatar-Synchronisatoren gefertigt und verbessert die Leistung von Energie-Nosferatus, Energieneutralisierern und Energiegeschütztürmen. Die brachiale Kombination, die diesen Synchronisierer antreibt, beeinträchtigt jedoch die Wiederaufladung des Energiespeichers erheblich. Sie integriert außerdem die Schnittstellen zwischen Dark Blood-Technologie. Je mehr Dark Blood-Module installiert sind, desto höher die Leistung. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt. Die CPU-Nachteile beim Ausrüsten dieser Modifikation können durch das Trainieren des Skills <a href=showinfo:96100>Synchronisierungsmodifizierung</a> verringert werden."
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "de": "Harvest Damage Booster III"
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "de": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "de": "Harvest Damage Booster IV"
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "de": "Dieser Booster wurde von den Sammelflotten der Blood Raiders entwickelt, um sie bei ihrer blutrünstigen Piraterie zu unterstützen. <b>+12 % Energiegeschützturm-Schaden. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "de": "Tetrimon Anti-Drain Booster I"
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+6 % Resistenz gegen Energiekriegsführung. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "de": "Tetrimon Anti-Drain Booster II"
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "de": "Diese Modifikation wurde von Ingenieuren der Blood Raider aus kombinierten Amarr- und Minmatar-Synchronisatoren gefertigt und verbessert die Leistung von Energie-Nosferatus, Energieneutralisierern und Energiegeschütztürmen. Die brachiale Kombination, die diesen Synchronisierer antreibt, beeinträchtigt jedoch die Wiederaufladung des Energiespeichers erheblich. Sie integriert außerdem die Schnittstellen zwischen Dark Blood-Technologie. Je mehr Dark Blood-Module installiert sind, desto höher die Leistung. Abzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt. Die CPU-Nachteile beim Ausrüsten dieser Modifikation können durch das Trainieren des Skills <a href=showinfo:96100>Synchronisierungsmodifizierung</a> verringert werden."
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "de": "Tetrimon Anti-Drain Booster III"
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+18 % Resistenz gegen Energiekriegsführung. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "de": "Tetrimon Anti-Drain Booster IV"
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "de": "Die Boni dieser Modifikation erhöhen sich pauschal um +1 % für jedes auf diesem Schiff ausgerüstete <b>Dark Blood</b>-Modul"
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "de": "Tetrimon Capacitor Booster I"
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "de": "Die Boni dieser Modifikation erhöhen sich pauschal um +1 % für jedes auf diesem Schiff ausgerüstete <b>Dark Blood</b>-Modul"
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "de": "Tetrimon Capacitor Booster II"
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+6 % Energiespeicherkapazität. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "de": "Tetrimon Capacitor Booster III"
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+9 % Energiespeicherkapazität. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "de": "Tetrimon Capacitor Booster IV"
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "de": "Abzug auf die Wiederaufladezeit des Energiespeichers"
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "de": "Tetrimon Resistance Booster I"
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+2 % Panzerungsresistenz. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "de": "Tetrimon Resistance Booster II"
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+4 % Panzerungsresistenz. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "de": "Tetrimon Resistance Booster III"
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+6 % Panzerungsresistenz. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "de": "Tetrimon Resistance Booster IV"
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+8 % Panzerungsresistenz. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "de": "Tetrimon Precision Booster I"
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+3 % optimale Reichweite und Nachführungsgeschwindigkeit von Energiegeschütztürmen. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "de": "Tetrimon Precision Booster II"
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+6 % optimale Reichweite und Nachführungsgeschwindigkeit von Energiegeschütztürmen. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "de": "Tetrimon Precision Booster III"
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+9 % optimale Reichweite und Nachführungsgeschwindigkeit von Energiegeschütztürmen. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "de": "Tetrimon Precision Booster IV"
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "de": "Dieser Booster wurde von den militanten Paladinen des Order of St. Tetrimon entwickelt, um sie bei ihrer Jagd auf Kultisten zu unterstützen. <b>+12 % optimale Reichweite und Nachführungsgeschwindigkeit von Energiegeschütztürmen. Grunddauer: 2 Stunden</b> <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "de": "Chemal Tech Turret Booster I"
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "de": "<b>+4 % Geschützturmschaden.</b> <b>+4 % Nachführungsgeschwindigkeit von Geschütztürmen.</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "de": "Chemal Tech Turret Booster II"
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "de": "<b>+6 % Geschützturmschaden.</b> <b>+6 % Nachführungsgeschwindigkeit von Geschütztürmen.</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "de": "Chemal Tech Turret Booster III"
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "de": "<b>+8 % Geschützturmschaden.</b> <b>+8 % Nachführungsgeschwindigkeit von Geschütztürmen.</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "de": "Chemal Tech Mining Booster I"
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "de": "<b>+4 % Ausbeute mit Bergbaulasern.</b> <b>+10 % optimale Reichweite für Bergbaulaser.</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "de": "Chemal Tech Mining Booster II"
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "de": "<b>+8 % Ausbeute mit Bergbaulasern.</b> <b>+15 % optimale Reichweite für Bergbaulaser.</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "de": "Chemal Tech Mining Booster III"
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "de": "Diese Modifikation wurde von den klügsten Köpfen von True Creations aus Amarr- und Caldari-Synchronisatoren rückentwickelt und verbessert die Leistung von <a href=showinfo:3450>Nachbrennern</a> und Energiegeschütztürmen. Die extremen Bedingungen ihres leistungsstarken Designs erhöhen jedoch die Aktivierungskosten von Nachbrennern erheblich. Sie integriert außerdem die Schnittstellen zwischen True Sansha-Technologie. Je mehr True Sansha-Module installiert sind, desto höher die Leistung.\r\n\r\nAbzug: Beim Einsatz mehrerer Module des gleichen oder eines ähnlichen Typs, welche dasselbe Attribut beeinflussen, wird deren Wirksamkeit für dieses Attribut eingeschränkt.\r\n\r\nDie CPU-Nachteile beim Ausrüsten dieser Modifikation können durch das Trainieren des Skills <a href=showinfo:96100>Synchronisierungsmodifizierung</a> verringert werden."
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "de": "Chemal Tech Exploration Booster I"
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "de": "<b>+4 Virenkohärenz von Datenanalysegeräten</b> <b>+4 % Stärke von Scansonden</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "de": "Chemal Tech Exploration Booster II"
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "de": "<b>+6 Virenkohärenz von Datenanalysegeräten</b> <b>+8 % Stärke von Scansonden</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "de": "Chemal Tech Exploration Booster III"
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "de": "<b>+8 Virenkohärenz von Datenanalysegeräten</b> <b>+12 % Stärke von Scansonden</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "de": "Chemal Tech Repair Booster I"
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "de": "<b>-4 % Durchlaufzeit für Panzerungsreparatursysteme.</b> <b>-4 % Durchlaufzeit für Schildbooster.</b> Grunddauer: 3 Stunden <b>Ablaufdatum: 10. November YC128</b>"
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "de": "Chemal Tech Repair Booster II"
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "de": "Nachbrenner-Geschwindigkeitsbonus"
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "de": "Chemal Tech Repair Booster III"
     },
     "1051417": {
@@ -1238768,7 +1238684,7 @@
         "de": "Aberrant Raspite"
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "de": "Anomale Moleküle des Raspit-Minerals, die durch hyperdimensionale Kräfte verändert wurden. Das Imperium der Amarr benötigt dieses anomale Material für seine Forschung zur Energieeffizienz der Drifter. Akzeptiert ihr Kampagnenziel und liefert dies bei ihrem Gegenstandshändler außerhalb des Ankerpunkts der Amarr Navy in <url=showinfo:5//30002974>Mehatoor</url> ab."
     },
     "1054676": {
@@ -1241789,11 +1241705,11 @@
     },
     "1056324": {
         "en": "{list}, or {lastItem}",
-        "de": ""
+        "de": "{list} oder {lastItem}"
     },
     "1056325": {
         "en": "{A} or {B}",
-        "de": ""
+        "de": "{A} oder {B}"
     },
     "1056326": {
         "en": "Expedition Distress Signal",
@@ -1241821,19 +1241737,19 @@
     },
     "1056334": {
         "en": "You are about to move all assets belonging to you in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "de": ""
+        "de": "Sie sind dabei, Ihren gesamten Besitz in {[location]structureID.name} in {[location]solarsystemID.name, linkify} in die Besitzsicherheit zu verschieben. <br>Sobald sich Gegenstände in der Besitzsicherheit befinden, können sie nach 5 Tagen manuell in eines folgenden Systeme geliefert werden: {destinationList}. Nach 20 Tagen werden die Gegenstände automatisch in das System {[location]defaultSolarSystemID.name, linkify} geliefert.<br>Für das Abholen von Gegenständen fällt eine Gebühr an. Diese Gebühr erhöht sich, wenn Gegenstände an einen anderen Ort als {destinationList} geliefert werden. {extraTaxText}<br>Möchten Sie wirklich fortfahren?"
     },
     "1056335": {
         "en": "Move items to Asset Safety?",
-        "de": ""
+        "de": "Gegenstände in die Besitzsicherheit verschieben?"
     },
     "1056336": {
         "en": "You are about to move all assets belonging to <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} to Asset Safety. <br>Once in Asset Safety, items can be manually delivered to any of the following systems after 5 days: {destinationList}. After 20 days, the items will be automatically delivered to {[location]defaultSolarSystemID.name, linkify}.<br>A fee will apply when retrieving any items. This fee is increased if items are delivered to a location other than {destinationList}. {extraTaxText}<br>Are you sure you want to continue?",
-        "de": ""
+        "de": "Sie sind dabei, den gesamten Besitz von <b>{corpName}</b> in {[location]structureID.name} in {[location]solarsystemID.name, linkify} in die Besitzsicherheit zu verschieben. <br>Sobald sich Gegenstände in der Besitzsicherheit befinden, können sie nach 5 Tagen manuell in eines der folgenden Systeme geliefert werden: {destinationList}. Nach 20 Tagen werden die Gegenstände automatisch in das System {[location]defaultSolarSystemID.name, linkify} geliefert.<br>Für das Abholen von Gegenständen fällt eine Gebühr an. Diese Gebühr erhöht sich, wenn Gegenstände an einen anderen Ort als {destinationList} geliefert werden. {extraTaxText}<br>Möchten Sie wirklich fortfahren?"
     },
     "1056337": {
         "en": "Move corp items to Asset Safety?",
-        "de": ""
+        "de": "Corporation-Gegenstände in die Besitzsicherheit verschieben?"
     },
     "1056342": {
         "en": "Excellent. \r\n\r\nTo browse the available <b>Academy Ships</b>, select the AIR Academy Ships service in the station panel to your right. This service is available at every station within Exordium.",
@@ -1241853,11 +1241769,11 @@
     },
     "1056358": {
         "en": "{trainedSp} / {totalSp} SP",
-        "de": ""
+        "de": "{trainedSp} / {totalSp} SP"
     },
     "1056359": {
         "en": "Reset tag sequences",
-        "de": ""
+        "de": "Markierungssequenzen zurücksetzen"
     },
     "1056365": {
         "en": "Damning Punisher",
@@ -1242297,7 +1242213,7 @@
     },
     "1056478": {
         "en": "Please note that the fee in Zarzakh depends on the results of the Pirate Insurgency.",
-        "de": ""
+        "de": "Bitte beachten Sie, dass die Gebühr in Zarzakh von den Ergebnissen der Piratenaufstands abhängt."
     },
     "1056479": {
         "en": "<b>Free pre-fitted ships available at any station in Exordium.</b>\r\n<UL>\r\n<LI>Free to use, no penalty for loss.</LI>\r\n<LI>No skill requirements, but still receive benefits from the skills you train.</LI>\r\n<LI>Ships come equipped with modules and charges.</LI>\r\n<LI>13 ships to choose from, swap freely to try out different styles.</LI>\r\n</UL>\r\n<b>Restrictions:</b>\r\n<UL><LI>Can only be flown in Exordium.</LI>\r\n<LI>Can only have one active Academy Ship at a time.</LI>\r\n<LI>Cannot be traded or reprocessed.</LI>\r\n<LI>Academy modules and charges can only be used with Academy Ships</LI>\r\n</UL>",
@@ -1242317,15 +1242233,15 @@
     },
     "1056498": {
         "en": "Brand Management ",
-        "de": ""
+        "de": "Brand Management "
     },
     "1056499": {
         "en": "Corporation Ads",
-        "de": ""
+        "de": "Corporation-Werbung"
     },
     "1056500": {
         "en": "Wallet - PLEX",
-        "de": ""
+        "de": "Konto – PLEX"
     },
     "1056502": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
@@ -1242649,7 +1242565,7 @@
     },
     "1056584": {
         "en": "Wallet - EverMarks",
-        "de": ""
+        "de": "Konto – EverMarks"
     },
     "1056592": {
         "en": "Gila Penumbral Shadows SKIN",
@@ -1243893,7 +1243809,7 @@
     },
     "1057167": {
         "en": "Edit Expiry",
-        "de": ""
+        "de": "Ablauf bearbeiten"
     },
     "1057169": {
         "en": "SARO Ore Reserve",
@@ -1243985,19 +1243901,19 @@
     },
     "1057293": {
         "en": "Jumping to {solarSystemName}",
-        "de": ""
+        "de": "Sprung zu {solarSystemName} eingeleitet"
     },
     "1057294": {
         "en": "Preparing jump to {solarSystemName}",
-        "de": ""
+        "de": "Sprung zu {solarSystemName} wird vorbereitet"
     },
     "1057295": {
         "en": "Bridging to {solarSystemName}",
-        "de": ""
+        "de": "Verbindung zu {solarSystemName} eingeleitet"
     },
     "1057296": {
         "en": "Preparing bridge to {solarSystemName}",
-        "de": ""
+        "de": "Verbindung zu {solarSystemName} wird vorbereitet"
     },
     "1057343": {
         "en": "SARO Black Sites",
@@ -1244605,15 +1244521,15 @@
     },
     "1058267": {
         "en": "Header sorting is disabled",
-        "de": ""
+        "de": "Header-Sortierung ist deaktiviert"
     },
     "1058268": {
         "en": "Header sorting enabled",
-        "de": ""
+        "de": "Header-Sortierung aktiviert"
     },
     "1058269": {
         "en": "Click a column header to sort the overview by that column.\r\nWhen this option is disabled, clicking a header does not change the sort column or direction.",
-        "de": ""
+        "de": "Klicken Sie den Header einer Spalte an, um die Übersicht nach dieser Spalte zu sortieren.\r\nWenn diese Option deaktiviert ist, ändert das Anklicken eines Headers weder die Sortierspalte noch die Sortierrichtung."
     },
     "1058394": {
         "en": "SARO Mobile Observatory",
@@ -1244665,11 +1244581,11 @@
     },
     "1058458": {
         "en": "Add items listed in clipboard to filter",
-        "de": ""
+        "de": "Gegenstände in der Zwischenablage zum Filter hinzufügen"
     },
     "1058459": {
         "en": "Format example:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>You can also drag items and fittings into the window.",
-        "de": ""
+        "de": "Formatbeispiel:<br>{[item]type1.name}<br>{[item]type2.name}<br><br>Sie können auch Gegenstände und Ausrüstung in das Fenster ziehen."
     },
     "1058497": {
         "en": "Rogue Drone Outbreak",
@@ -1245056,7 +1244972,7 @@
         "de": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "de": "Das Imperium schlägt zu"
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "de": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "de": "Corporation-Vorteil"
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "de": "Zerstören Sie {[numeric]amount, useGrouping} Schlachtschiffe von Föderations-Offizieren"
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "de": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "de": "Freiheit hat ihre Vorteile"
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "de": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "de": "Uneingeschränkter Vorteil"
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "de": "Zerstören Sie {[numeric]amount, useGrouping} Schlachtschiffe von imperialen Offizieren"
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "de": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "de": "Den Glauben bewahren"
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "de": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "de": "Der Staat bleibt bestehen"
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "de": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "de": "Freiheit bleibt standhaft"
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "de": "Verteidigen Sie {[numeric]amount, useGrouping} Fraktionskrieg-Komplexe für die Föderation der Gallente"
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "de": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "de": "Zerbrochene Ketten, ungebrochene Fronten"
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "de": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "de": "Um Vergebung beten"
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "de": "Versetzen Sie {[numeric]amount, useGrouping} Kapselpiloten der Minmatar oder Angels den finalen Schlag, während sie für die Amarr arbeiten"
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "de": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "de": "Aggressive Übernahmen"
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "de": "Versetzen Sie {[numeric]amount, useGrouping} Kapselpiloten der Gallente oder Guristas den finalen Schlag, während sie für die Caldari arbeiten"
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "de": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "de": "Blaster-Diplomatie"
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "de": "Versetzen Sie {[numeric]amount, useGrouping} Kapselpiloten der Caldari oder Guristas den finalen Schlag, während sie für die Gallente arbeiten"
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "de": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "de": "Die Unterdrücker verschrotten"
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "de": "Versetzen Sie {[numeric]amount, useGrouping} Kapselpiloten der Amarr oder Angels den finalen Schlag, während sie für die Minmatar arbeiten"
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "de": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "de": "Halo und auf Wiedersehen"
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "de": "Versetzen Sie {[numeric]amount, useGrouping} Kapselpiloten der Amarr oder Minmatar den finalen Schlag, während sie für die Angels arbeiten"
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "de": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "de": "Mietsoldat"
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "de": "Versetzen Sie {[numeric]amount, useGrouping} Kapselpiloten der Caldari oder Gallente den finalen Schlag, während sie für die Guristas arbeiten"
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "de": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "de": "Göttliche Entschädigung"
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "de": "Verdienen Sie {[numeric]amount, useGrouping} Loyalitätspunkte für den 24th Imperial Crusade"
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "de": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "de": "Loyalitätsrendite"
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "de": "Verdienen Sie {[numeric]amount, useGrouping} Loyalitätspunkte für das State Protectorate"
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "de": "Unionsvorteile"
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "de": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "de": "Von Rost zu Reichtum"
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "de": "Verdienen Sie {[numeric]amount, useGrouping} Loyalitätspunkte für die Tribal Liberation Force"
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "de": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "de": "Verbrechen zahlt sich wirklich aus"
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "de": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "de": "Kommando loyal"
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "de": "Verdienen Sie {[numeric]amount, useGrouping} Loyalitätspunkte für die Commando Guri"
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "de": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "de": "Zur Zerstörung auserwählt"
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "de": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "de": "Stahlbrecher"
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "de": "Zerstören Sie {[numeric]amount, useGrouping} Nicht-Kapselpiloten von Hakuzos Stahlschuppen"
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "de": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "de": "Die Unterdrücker unterdrücken"
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "de": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "de": "Die goldene Flotte"
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "de": "Betreten Sie {[numeric]amount, useGrouping} unterschiedliche Rümpfe der Amarr Navy."
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "de": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "de": "Exekutive Feuerkraft"
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "de": "Betreten Sie {[numeric]amount, useGrouping} unterschiedliche Rümpfe der Caldari Navy."
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "de": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "de": "Föderationsarmada"
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "de": "Betreten Sie {[numeric]amount, useGrouping} unterschiedliche Rümpfe der Gallente Navy."
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "de": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "de": "Eine Flotte des Widerstands"
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "de": "Betreten Sie {[numeric]amount, useGrouping} unterschiedliche Rümpfe der Republic Fleet."
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "de": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "de": "Engelslegion"
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "de": "Betreten Sie {[numeric]amount, useGrouping} unterschiedliche Rümpfe des Angel Cartel."
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "de": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "de": "Kaltblütige Feuerkraft"
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "de": "Betreten Sie {[numeric]amount, useGrouping} unterschiedliche Rümpfe der Guristas."
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "de": ""
     },
     "1059561": {
@@ -1246431,6 +1246347,38 @@
         "en": "A Dreadnought of the Caldari State",
         "de": "Ein Dreadnought des Staats der Caldari"
     },
+    "1060615": {
+        "en": "Station",
+        "de": ""
+    },
+    "1060618": {
+        "en": "Station docked at",
+        "de": ""
+    },
+    "1060623": {
+        "en": "Manifest Station",
+        "de": ""
+    },
+    "1060624": {
+        "en": "Visit the Manifest market hub",
+        "de": ""
+    },
+    "1060625": {
+        "en": "The Hub of Exordium",
+        "de": ""
+    },
+    "1060626": {
+        "en": "Dock at a Station",
+        "de": ""
+    },
+    "1060627": {
+        "en": "Dock at a station or structure",
+        "de": ""
+    },
+    "1060628": {
+        "en": "stations docked",
+        "de": ""
+    },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
         "de": ""
@@ -1246517,6 +1246465,10 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "de": ""
+    },
+    "1062198": {
+        "en": "Non Interactable Wrecked Prospector Ship",
         "de": ""
     }
 }
