@@ -24272,7 +24272,7 @@
         "it": "Inner Circle è il dipartimento principale di CONCORD. Le politiche di CONCORD sono discusse e decise negli incontri tenuti da Inner Circle, che solitamente sono chiusi al pubblico. Inizialmente i membri del circolo venivano nominati dagli imperi, ma ora sono dei dipendenti di CONCORD che fanno carriera. Così, la loro lealtà non è più vincolata ad alcun impero, ma piuttosto alla CONCORD stessa."
     },
     "61118": {
-        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identity as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
         "it": "La Intaki Bank ha fatto ottimi affari nell'ultimo decennio. Ovvero, da quando ha deciso di mantenere segreti e inaccessibili i nomi di tutti i conti. Tutti sanno che nella banca circola denaro sporco, ma l'opinione generale del Syndicate è che se la banca non fornisce questo servizio, allora lo farà qualcun altro."
     },
     "61119": {
@@ -704176,7 +704176,7 @@
         "it": ""
     },
     "263226": {
-        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari.",
+        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n\r\nThe Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>",
         "it": ""
     },
     "263227": {
@@ -1220924,7 +1220924,7 @@
         "it": ""
     },
     "1042960": {
-        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activition cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activation cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
         "it": ""
     },
     "1042962": {

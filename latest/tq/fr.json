@@ -24272,7 +24272,7 @@
         "fr": "Inner Circle est la plus haute autorité de CONCORD. C'est là que se décident les politiques de CONCORD, au cours de réunions généralement tenues à huis clos. Au début, les membres du cercle étaient désignés par les empires, mais aujourd'hui, ils sont sélectionnés parmi le personnel de CONCORD. Ainsi, ils ne prêtent plus allégeance à un quelconque empire, mais seulement à CONCORD."
     },
     "61118": {
-        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identity as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
         "fr": "Anciennement l'Intaki Bank, elle a été rebaptisée afin d'affirmer son identité au sein de cette région unique, s'éloignant de ses racines dans la Fédération Intaki après son intégration à l'État caldari en 128 après CY. Ce changement est le résultat de la campagne du corridor de l'État et des 17 079 capsuliers qui ont contribué à son succès.\r\n\r\nLa banque a encore davantage prospéré sous la supervision de l'État, notamment parce que le Tribunal des affaires caldari lui a accordé une dérogation spéciale pour maintenir sa politique d'anonymat des clients. Cette confidentialité est très utile aux intermédiaires commerciaux peu légitimes, mais elle aide également l'État et ses mégacorporations à gérer certaines de leurs propres affaires plus clandestines. "
     },
     "61119": {
@@ -704176,7 +704176,7 @@
         "fr": "Naga"
     },
     "263226": {
-        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari.",
+        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n\r\nThe Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>",
         "fr": "En 128 après CY, face à la nécessité de maintenir l'ordre au sein de Syndicate, une région hors de l'influence de CONCORD, la Caldari Navy avait besoin d'une nouvelle solution percutante qui établirait l'autorité de l'État par sa seule présence intimidante. Le Naga Navy Issue a ainsi été commandé en partenariat avec les mégacorporations de la Faction de la Montagne afin de garantir que la région récemment entrée sous son contrôle soit témoin de l'honneur et de la force intransigeants des Caldari."
     },
     "263227": {
@@ -1063933,7 +1063933,7 @@
     },
     "600475": {
         "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
-        "fr": "Une frégate de classe Skybreaker sous le commandement du Service d'Application des Réglementations et de l'Ordre (SARO). Elle est dotée de capacités de marquage de cible.\r\n\r\nCe vaisseau fait partie d'une équipe chargée de faire respecter la zone d'exclusion aérienne autour d'une installation SARO classifiée et est autorisé à abattre tout vaisseau non autorisé."
+        "fr": "Un croiseur de classe Curse sous le commandement du Service d'Application des Réglementations et de l'Ordre (SARO). Il est doté de capacités de perturbation d'armement et de neutralisation d'énergie.\r\n\r\nCe vaisseau fait partie d'une équipe chargée de faire respecter la zone d'exclusion aérienne autour d'une installation SARO classifiée et est autorisé à abattre tout vaisseau non autorisé."
     },
     "600476": {
         "en": "Detainer Phobos",
@@ -1063941,7 +1063941,7 @@
     },
     "600477": {
         "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
-        "fr": "Un croiseur de classe Curse sous le commandement du Service d'Application des Réglementations et de l'Ordre (SARO). Il est doté de capacités de génération de stase et d'inhibition de warp.\r\n\r\nCe vaisseau fait partie d'une équipe chargée de faire respecter la zone d'exclusion aérienne autour d'une installation SARO classifiée et est autorisé à abattre tout vaisseau non autorisé."
+        "fr": "Un croiseur de classe Phobos sous le commandement du Service d'Application des Réglementations et de l'Ordre (SARO). Il est doté de capacités de génération de stase et d'inhibition de warp.\r\n\r\nCe vaisseau fait partie d'une équipe chargée de faire respecter la zone d'exclusion aérienne autour d'une installation SARO classifiée et est autorisé à abattre tout vaisseau non autorisé."
     },
     "600478": {
         "en": "Tactical Talos",
@@ -1202189,7 +1202189,7 @@
     },
     "1034347": {
         "en": "Dragoon Navy Issue Corporation Emblem",
-        "fr": "SKIN Gnosis, édition Ligue de l'amitié"
+        "fr": "Emblème de corporation pour Dragoon Navy Issue"
     },
     "1034348": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1212785,7 +1212785,7 @@
     },
     "1039647": {
         "en": "HoR Crow",
-        "fr": "Booster de défenses de l'Empire II expiré"
+        "fr": "Crow de la HoR"
     },
     "1039648": {
         "en": "A frigate operating under the Caldari State’s clandestine House of Records. It is tasked with protecting covert operations inside the Gallente Federation that target classified data transfers.",
@@ -1216469,7 +1216469,7 @@
     },
     "1041178": {
         "en": "State Directive - Unlimited",
-        "fr": "PL_PointLight_Green_01a"
+        "fr": "Directive de l'État - Illimité"
     },
     "1041179": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.",
@@ -1217929,7 +1217929,7 @@
     },
     "1041778": {
         "en": "Imperial War Reserves Supply Package",
-        "fr": "Ashimmu de Talman"
+        "fr": "Pack d'approvisionnement des Réserves de guerre impériales"
     },
     "1041779": {
         "en": "A supply package that was procured and manufactured by the Imperial War Reserves corporation. Intended to deliver crucial military supplies to the Amarr Empire on the frontlines.\r\n\r\nThe Minmatar Republic will reward capsuleers who intercept these supply packages and bring them to Tribal Liberation Force stations in their loyalty point store.",
@@ -1218225,7 +1218225,7 @@
     },
     "1041878": {
         "en": "Supplies: Battle of Pator",
-        "fr": "Ashimmu de Talman"
+        "fr": "Ravitaillement : Bataille de Pator"
     },
     "1041884": {
         "en": "The fleet is diverting to you. We’re back on the advance across all fronts!",
@@ -1220924,7 +1220924,7 @@
         "fr": "Optimisateur de suivi 'Atonement' de l'Imperial Navy"
     },
     "1042960": {
-        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activition cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activation cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
         "fr": "Améliore la portée et augmente la vitesse de poursuite des tourelles. Ce module réduit également le coût d'activation des <b>tourelles à énergie</b>. Pénalité : utiliser plus d'un module de ce type ou plusieurs modules modifiant un même attribut du vaisseau fera l'objet d'une pénalité."
     },
     "1042962": {
@@ -1222445,7 +1222445,7 @@
     },
     "1043547": {
         "en": "Deimos Presidential Agent SKIN",
-        "fr": "Complexe Alpha"
+        "fr": "SKIN Deimos, édition Agent présidentiel"
     },
     "1043548": {
         "en": "The smallest of the tribes by far, the Starkmanir are masters of ancient warfare strategies and battle wisdom all but lost by the other tribes. These strategies provide the basis for a Starkmanir Strategic wing, a small force of extremely effective Starkmanir pilots that came together in response to the Warpath Conflict. Famed for their ability to establish tactical superiority even against much larger enemy fleets, the Warpath Stark are often underestimated but never outclassed.",
@@ -1222937,7 +1222937,7 @@
     },
     "1043769": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "fr": "de bonus à la puissance et à la durée des <a href=showinfo:20494>salves de commandement de blindage</a>"
+        "fr": "de bonus à la puissance et à la durée des <a href=showinfo:20494>salves de commandement de blindage</a> et <a href=showinfo:20495>salves de commandement d'informations</a>"
     },
     "1043771": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up time",
@@ -1222989,7 +1222989,7 @@
     },
     "1043784": {
         "en": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "fr": "de bonus à la puissance et à la durée des salves de <a href=showinfo:3350>commandement de bouclier</a>"
+        "fr": "de bonus à la puissance et à la durée des <a href=showinfo:3350>salves de commandement de bouclier</a> et <a href=showinfo:20495>salves de commandement d'informations</a>"
     },
     "1043786": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1223045,7 +1223045,7 @@
     },
     "1043799": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:3349>Skirmish Command</a> burst strength and duration",
-        "fr": "de bonus à la puissance et à la durée des <a href=showinfo:20494>salves de commandement de blindage</a>"
+        "fr": "de bonus à la puissance et à la durée des <a href=showinfo:20494>salves de commandement de blindage</a> et <a href=showinfo:3349>salves de commandement de guérilla</a>"
     },
     "1043801": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1223549,7 +1223549,7 @@
     },
     "1043978": {
         "en": "Cradle of Freedom - Unlimited",
-        "fr": "Ashimmu de Talman"
+        "fr": "Berceau de la liberté - Illimité"
     },
     "1043979": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide Alignment Sequencer to bind the unique SKIN licenses you are producing.",
@@ -1227393,23 +1227393,23 @@
     },
     "1047596": {
         "en": "All known objectives, including available, completed, and upcoming objectives.",
-        "fr": ""
+        "fr": "Tous les objectifs connus, y compris les objectifs disponibles, accomplis et à venir."
     },
     "1047597": {
         "en": "Objectives you are currently participating in.",
-        "fr": ""
+        "fr": "Objectifs auxquels vous participez actuellement."
     },
     "1047598": {
         "en": "Objectives that have been completed by the community and are no longer available for contribution.",
-        "fr": ""
+        "fr": "Objectifs accomplis par la communauté et auxquels il n'est plus possible de contribuer."
     },
     "1047599": {
         "en": "Objectives scheduled to become available in the near future.",
-        "fr": ""
+        "fr": "Objectifs prévus, qui seront bientôt disponibles."
     },
     "1047600": {
         "en": "Objectives that are currently active and open for contribution.",
-        "fr": ""
+        "fr": "Objectifs actuellement actifs et ouverts aux contributions."
     },
     "1047637": {
         "en": "Operation Avalon Hidden Combat POI Boss Spawner (DO NOT TRANSLATE)",
@@ -1228005,7 +1228005,7 @@
     },
     "1048030": {
         "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
-        "fr": "Alors que le spectre de la technologie de Conquête se profilait à l'horizon en 128 après CY, la Flotte de la République demanda un nouveau croiseur de bataille susceptible de donner un avantage aux équipes d'intervention qui pourraient devoir participer à ce conflit. Bien que la technologie de Conquête ait été restreinte par un accord avec CONCORD, beaucoup estimaient son utilisation inévitable, et les Minmatar voulaient anticiper cette menace.\r\n\r\nC'est ainsi qu'est né le Tornado Fleet Issue, un vaisseau avancé de la Flotte de la République. Malgré ses améliorations impressionnantes par rapport au modèle d'origine, selon ses détracteurs, il ne s'agissait là que d'une arme conventionnelle incapable d'égaler la formidable puissance des machines de Conquête."
+        "fr": "Alors que le spectre de la technologie de Conquête se profilait à l'horizon en 128 après CY, la Flotte de la République demanda un nouveau croiseur cuirassé susceptible de donner un avantage aux équipes d'intervention qui pourraient devoir participer à ce conflit. Bien que la technologie de Conquête ait été restreinte par un accord avec CONCORD, beaucoup estimaient son utilisation inévitable, et les Minmatar voulaient anticiper cette menace.\r\n\r\nC'est ainsi qu'est né le Tornado Fleet Issue, un vaisseau avancé de la Flotte de la République. Malgré ses améliorations impressionnantes par rapport au modèle d'origine, selon ses détracteurs, il ne s'agissait là que d'une arme conventionnelle incapable d'égaler la puissance prodigieuse des machines de Conquête."
     },
     "1048031": {
         "en": "Minmatar Pilot",
@@ -1228017,7 +1228017,7 @@
     },
     "1048033": {
         "en": "Oracle Navy Issue Blueprint",
-        "fr": "Plan de construction Oracle Navy Issue "
+        "fr": "Plan de construction Oracle Navy Issue"
     },
     "1048034": {
         "en": "Naga Navy Issue Blueprint",
@@ -1229289,7 +1229289,7 @@
     },
     "1049126": {
         "en": "Massive boost to speed for a very short time. The thrust that boosts the ship, and the corresponding maximum velocity bonus, are limited by the mass of the ship that uses this module. The sheer amount of energy needed to power this system means that it must permanently reserve a fraction of the capacitor output just to maintain the integrity of its warp containment field, and when activated it substantially increases the ship's EM footprint.\r\n\r\nPenalty: Max capacitor reduced.\r\n\r\nNote: Usually fit on Frigates and Destroyers.\r\n\r\nThis is a special AIR Academy version of a 5MN Microwarpdrive. It is provided free of charge to capsuleers within Exordium to assist with their training. It can only be used with Academy Ships.",
-        "fr": "Puissante accélération pendant un laps de temps très limité. La poussée appliquée au vaisseau et le bonus de vitesse maximale correspondant sont limités par la masse du vaisseau utilisant le module. La quantité phénoménale d'énergie nécessaire au fonctionnement de ce système exige d'allouer en permanence une fraction de l'énergie produite par le capaciteur au champ de confinement de warp, dans le seul but de maintenir son intégrité. L'énergie libérée une fois le module activé accroît excessivement l'empreinte EM du vaisseau.\r\n\r\nPénalité : réduit la puissance max du capaciteur.\r\n\r\nRemarque : module communément monté sur les frégates et destroyers.\r\n\r\nIl s'agit d'une version spéciale AIR Academy de propulseur de microwarp 5MN. Elle est fournie gratuitement aux capsuliers d'Exordium afin de les aider dans leur apprentissage. Elle ne peut être utilisée qu'avec les vaisseaux Academy."
+        "fr": ""
     },
     "1049127": {
         "en": "Academy Data Analyzer",
@@ -1238685,7 +1238685,7 @@
     },
     "1054675": {
         "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
-        "fr": "Molécules aberrantes du minéral raspite altérées par l'exposition à des forces hyperdimensionnelles. L'Empire amarr a besoin de la forme aberrante de ce matériau pour ses recherches sur l'efficacité énergétique des drifters. \r\n\r\nAcceptez son objectif de campagne et livrez cette ressource à son marchand d'objets à l'extérieur de l'ancrage de l'Amarr Navy à <url=showinfo:5//30002974>Mehatoor</url>."
+        "fr": "Molécules aberrantes du minéral raspite altérées par l'exposition à des forces hyperdimensionnelles. L'Empire amarr a besoin de la forme aberrante de ce matériau pour ses recherches sur l'efficacité énergétique des drifters. \r\n\r\nL'Empire amarr récompensera quiconque accepte son objectif de campagne et livre cette ressource à son marchand d'objets à l'extérieur de l'ancrage de l'Amarr Navy à <url=showinfo:5//30002974>Mehatoor</url>."
     },
     "1054676": {
         "en": "Aberrant Polycrase",
@@ -1239296,7 +1239296,7 @@
         "fr": "Livrez de la kangite aberrante"
     },
     "1055207": {
-        "en": "Deliver Stereo-Collaspe Signal",
+        "en": "Deliver Stereo-Collapse Signal",
         "fr": "Livrez des signaux d'effondrement stéréo"
     },
     "1055208": {
@@ -1239436,7 +1239436,7 @@
         "fr": "Livrer des télémétries renégates d'Anoikis à Intaki"
     },
     "1055253": {
-        "en": "Deliver Stereo-Collaspe Signal in Amo",
+        "en": "Deliver Stereo-Collapse Signal in Amo",
         "fr": "Livrez des signaux d'effondrement stéréo à Amo"
     },
     "1055254": {
@@ -1244973,7 +1244973,7 @@
     },
     "1059425": {
         "en": "Advantage of Faith",
-        "fr": "Amarré à la victoire"
+        "fr": "L'avantage de la foi"
     },
     "1059426": {
         "en": "Destroy {[numeric]amount, useGrouping} Republic Officer Battleships",
@@ -1244985,7 +1244985,7 @@
     },
     "1059429": {
         "en": "Advantage of Honor",
-        "fr": "Avantage corporatif"
+        "fr": "L'avantage de l'honneur"
     },
     "1059430": {
         "en": "Destroy {[numeric]amount, useGrouping} Federation Officer Battleships",
@@ -1244993,11 +1244993,11 @@
     },
     "1059431": {
         "en": "Even a hostile takeover must be executed with honor.",
-        "fr": ""
+        "fr": "Même une annexion hostile doit être exécutée avec honneur."
     },
     "1059432": {
         "en": "Advantage of Freedom",
-        "fr": "La liberté a ses avantages"
+        "fr": "L'avantage de la liberté"
     },
     "1059433": {
         "en": "Destroy {[numeric]amount, useGrouping} State Officer Battleships",
@@ -1245009,7 +1245009,7 @@
     },
     "1059435": {
         "en": "Advantage of Pride",
-        "fr": "Avantage débridé"
+        "fr": "L'avantage de la fierté"
     },
     "1059436": {
         "en": "Destroy {[numeric]amount, useGrouping} Imperial Officer Battleships",
@@ -1245017,11 +1245017,11 @@
     },
     "1059437": {
         "en": "Only those who have forsaken themselves call pride a sin.",
-        "fr": ""
+        "fr": "Seuls ceux qui se sont condamnés eux-mêmes qualifient la fierté de péché."
     },
     "1059449": {
         "en": "Defend the Faith",
-        "fr": "Gardez la foi"
+        "fr": "Défense de la foi"
     },
     "1059450": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Amarr Empire",
@@ -1245033,7 +1245033,7 @@
     },
     "1059452": {
         "en": "Defend the State",
-        "fr": "L'État demeure"
+        "fr": "Défense de l'État"
     },
     "1059453": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Caldari State",
@@ -1245045,7 +1245045,7 @@
     },
     "1059455": {
         "en": "Defend Freedom",
-        "fr": "La liberté tient bon"
+        "fr": "Défense de la liberté"
     },
     "1059457": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Gallente Federation",
@@ -1245053,11 +1245053,11 @@
     },
     "1059458": {
         "en": "At any cost.",
-        "fr": ""
+        "fr": "À tout prix."
     },
     "1059459": {
         "en": "Defend the Tribes",
-        "fr": "Chaînes brisées, lignes intactes"
+        "fr": "Défense des tribus"
     },
     "1059460": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Minmatar Republic",
@@ -1245069,11 +1245069,11 @@
     },
     "1059463": {
         "en": "Hunt for Retribution",
-        "fr": "Priez pour le pardon"
+        "fr": "Chasser pour la rétribution"
     },
     "1059464": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
-        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers minmatar ou angel en étant engagé avec les Amarr"
+        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers de la République minmatar ou du cartel Angel en étant engagé avec l'Empire amarr"
     },
     "1059465": {
         "en": "",
@@ -1245081,11 +1245081,11 @@
     },
     "1059466": {
         "en": "Hunt for Honor",
-        "fr": "Acquisitions agressives"
+        "fr": "Chasser pour l'honneur"
     },
     "1059467": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
-        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers gallente ou guristas tout en étant engagé avec les Caldari"
+        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers de la Fédération gallente ou des pirates Guristas en étant engagé avec l'État caldari"
     },
     "1059468": {
         "en": "",
@@ -1245093,11 +1245093,11 @@
     },
     "1059469": {
         "en": "Hunt for Justice",
-        "fr": "Diplomatie par le blaster"
+        "fr": "Chasser pour la justice"
     },
     "1059470": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
-        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers caldari ou guristas en étant engagé avec les Gallente"
+        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers de l'État caldari ou des pirates Guristas en étant engagé avec la Fédération gallente"
     },
     "1059471": {
         "en": "",
@@ -1245105,11 +1245105,11 @@
     },
     "1059473": {
         "en": "Hunt for Liberation",
-        "fr": "Balayez les oppresseurs"
+        "fr": "Chasser pour la libération"
     },
     "1059474": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
-        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers amarr ou angel en étant engagé avec les Minmatar"
+        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers de l'Empire amarr ou du cartel Angel en étant engagé avec la République minmatar"
     },
     "1059475": {
         "en": "",
@@ -1245117,23 +1245117,23 @@
     },
     "1059476": {
         "en": "Hunt for Dominion",
-        "fr": "Halo et goodbye"
+        "fr": "Chasser pour la domination"
     },
     "1059477": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
-        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers amarr ou minmatar en étant engagé avec les Angels"
+        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers de l'Empire amarr ou de la République minmatar en étant engagé avec le Cartel Angel"
     },
     "1059478": {
         "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
-        "fr": ""
+        "fr": "Une fois que vous avez reçu la marque des Angels, votre sort est scellé - Un témoin de l'accusation, deux jours avant sa disparition."
     },
     "1059479": {
         "en": "Hunt for Glory",
-        "fr": "Tueur à gage"
+        "fr": "Chasser pour la gloire"
     },
     "1059480": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
-        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers caldari ou gallente en étant engagé avec les Guristas"
+        "fr": "Portez le coup de grâce à {[numeric]amount, useGrouping} capsuliers de l'État caldari ou de la Fédération gallente en étant engagé avec les pirates guristas"
     },
     "1059481": {
         "en": "",
@@ -1245141,7 +1245141,7 @@
     },
     "1059482": {
         "en": "Crusade Loyalty",
-        "fr": "Compensation divine"
+        "fr": "La loyauté de la croisade"
     },
     "1059483": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the 24th Imperial Crusade",
@@ -1245149,11 +1245149,11 @@
     },
     "1059484": {
         "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
-        "fr": ""
+        "fr": "Le Seigneur nous a tant offert, et nous devons tout prendre. - Idonis Ardishapur"
     },
     "1059485": {
         "en": "Protectorate Loyalty",
-        "fr": "Retour de loyauté"
+        "fr": "La loyauté du Protectorat"
     },
     "1059486": {
         "en": "",
@@ -1245165,7 +1245165,7 @@
     },
     "1059488": {
         "en": "Union Loyalty",
-        "fr": "Avantages de l'Union"
+        "fr": "La loyauté de l'Union"
     },
     "1059489": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Federal Defense Union",
@@ -1245177,7 +1245177,7 @@
     },
     "1059491": {
         "en": "Liberation Loyalty",
-        "fr": "De la rouille à la richesse"
+        "fr": "La loyauté de la libération"
     },
     "1059492": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Tribal Liberation Force",
@@ -1245185,11 +1245185,11 @@
     },
     "1059493": {
         "en": "While some remain bound, none are truly free. - Matari proverb",
-        "fr": ""
+        "fr": "Tant que certains restent enchaînés, nul n'est vraiment libre. - Proverbe matari"
     },
     "1059494": {
         "en": "Malakim Loyalty",
-        "fr": "Le crime paie vraiment"
+        "fr": "La loyauté malakim"
     },
     "1059495": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Malakim Zealots",
@@ -1245201,7 +1245201,7 @@
     },
     "1059499": {
         "en": "Commando Loyalty",
-        "fr": "Commando volant"
+        "fr": "La loyauté des commandos"
     },
     "1059500": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Commando Guri",
@@ -1245209,11 +1245209,11 @@
     },
     "1059501": {
         "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
-        "fr": ""
+        "fr": "Respectez le 9e, et que tout le reste aille en enfer. - Graffiti laissé par un groupe d'abordage guristas."
     },
     "1059502": {
         "en": "Break the Chosen",
-        "fr": "Désigné pour la destruction"
+        "fr": "Brisez les élus"
     },
     "1059503": {
         "en": "Destroy {[numeric]amount, useGrouping} Zohar's Chosen non-capsuleers",
@@ -1245225,7 +1245225,7 @@
     },
     "1059511": {
         "en": "Break the Steelscale",
-        "fr": "Acier incomparable"
+        "fr": "Brisez les écailles d'acier"
     },
     "1059512": {
         "en": "Destroy {[numeric]amount, useGrouping} Hakuzosu's Steelscale non-capsuleers",
@@ -1245233,11 +1245233,11 @@
     },
     "1059513": {
         "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
-        "fr": ""
+        "fr": "Malgré toutes ces années de guerre, il y a une chose sur laquelle l'État et la Fédération peuvent s'entendre."
     },
     "1059522": {
         "en": "Break the Consortium",
-        "fr": "Éliminez les suppresseurs"
+        "fr": "Brisez le Consortium"
     },
     "1059523": {
         "en": "Destroy {[numeric]amount, useGrouping} Consortium Bulwark non-capsuleers",
@@ -1245249,11 +1245249,11 @@
     },
     "1059538": {
         "en": "Imperial Piloting",
-        "fr": "La flotte dorée"
+        "fr": "Pilotage impérial"
     },
     "1059539": {
         "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
-        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} coques uniques de l'Amarr Navy."
+        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} vaisseaux Navy Issue amarr uniques"
     },
     "1059540": {
         "en": "",
@@ -1245261,11 +1245261,11 @@
     },
     "1059546": {
         "en": "State Piloting",
-        "fr": "Puissance de feu exécutive"
+        "fr": "Pilotage de l'État"
     },
     "1059547": {
         "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
-        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} coques uniques de la Caldari Navy."
+        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} vaisseaux Navy Issue caldari uniques"
     },
     "1059548": {
         "en": "",
@@ -1245273,11 +1245273,11 @@
     },
     "1059549": {
         "en": "Federal Piloting",
-        "fr": "Armada de la Fédération"
+        "fr": "Pilotage fédéral"
     },
     "1059550": {
         "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
-        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} coques uniques de la Gallente Navy."
+        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} vaisseaux Navy Issue uniques de la Fédération"
     },
     "1059551": {
         "en": "",
@@ -1245285,11 +1245285,11 @@
     },
     "1059552": {
         "en": "Republic Piloting",
-        "fr": "Une flotte de défiance"
+        "fr": "Pilotage de la République"
     },
     "1059553": {
         "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
-        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} coques uniques Republic Fleet Issue."
+        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} vaisseaux Fleet Issue uniques de la République"
     },
     "1059554": {
         "en": "",
@@ -1245297,27 +1245297,27 @@
     },
     "1059555": {
         "en": "Cartel Piloting",
-        "fr": "Légion angélique"
+        "fr": "Pilotage du cartel"
     },
     "1059556": {
         "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
-        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} coques uniques du Cartel Angel."
+        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} vaisseaux uniques du Cartel Angel."
     },
     "1059557": {
         "en": "Become legion.",
-        "fr": ""
+        "fr": "Devenez légion."
     },
     "1059558": {
         "en": "Guristas Piloting",
-        "fr": "Puissance de feu de sang-froid"
+        "fr": "Pilotage guristas"
     },
     "1059559": {
         "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
-        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} coques uniques guristas."
+        "fr": "Embarquez à bord de {[numeric]amount, useGrouping} vaisseaux uniques des pirates guristas."
     },
     "1059560": {
         "en": "Cold-Blooded.",
-        "fr": ""
+        "fr": "De sang-froid."
     },
     "1059561": {
         "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
@@ -1246349,35 +1246349,35 @@
     },
     "1060615": {
         "en": "Station",
-        "fr": ""
+        "fr": "Station"
     },
     "1060618": {
         "en": "Station docked at",
-        "fr": ""
+        "fr": "Amarrage à la station"
     },
     "1060623": {
         "en": "Manifest Station",
-        "fr": ""
+        "fr": "Station de Manifest"
     },
     "1060624": {
         "en": "Visit the Manifest market hub",
-        "fr": ""
+        "fr": "Visitez le centre commercial de Manifest"
     },
     "1060625": {
         "en": "The Hub of Exordium",
-        "fr": ""
+        "fr": "Le pôle central d'Exordium"
     },
     "1060626": {
         "en": "Dock at a Station",
-        "fr": ""
+        "fr": "Amarrer à une station"
     },
     "1060627": {
         "en": "Dock at a station or structure",
-        "fr": ""
+        "fr": "Amarrez-vous à une station ou une structure"
     },
     "1060628": {
         "en": "stations docked",
-        "fr": ""
+        "fr": "stations amarrées"
     },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",

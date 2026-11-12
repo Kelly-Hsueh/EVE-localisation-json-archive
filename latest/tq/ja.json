@@ -24272,7 +24272,7 @@
         "ja": "インナーサークルはCONCORDの首脳部門だ。CONCORDの方針はインナーサークルの会合で議決されるが、この会合は通常非公開である。初めメンバーは各帝国が任命していたが、現在はCONCORD職員からの選抜式になっている。従って、インナーサークルはどの帝国の意向も受けず、CONCORD自体にのみ忠実である。"
     },
     "61118": {
-        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identity as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
         "ja": "かつては「インタキ銀行」と呼ばれていましたが、YC128年にカルダリ国家の支配下に入ったことを受け、連邦とインタキのつながりから離れ、この独特なリージョンの一部としての立場を反映した名称に改められました。この変更は、「連合コリドー」キャンペーンと、その成功に貢献した17,079人のカプセラによる成果です。\r\n\r\n連合の監督下に入ったことで、この銀行はさらに繁栄しました。その一因は、顧客の匿名性を守る方針について、カルダリ企業裁判所から特例を認められたことにあります。この匿名性は、表立っては活動できない商人たちにとって非常に都合がよいものですが、連合やそのメガコーポレーションが秘密裏に進める取引にも役立っています。"
     },
     "61119": {
@@ -704176,7 +704176,7 @@
         "ja": "ナーガ"
     },
     "263226": {
-        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari.",
+        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n\r\nThe Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>",
         "ja": "YC128年、CONCORDの手が及ばないシンジケートで治安維持を担うことになったカルダリ海軍は、新しく力強い解決策を必要としていた。威圧的な存在感だけで連合の権威を確立できるような戦力である。新たに支配下に置いたこの宙域に、カルダリの揺るぎない名誉と力を示すべく、山岳派のメガコーポレーションと共同でナーガ海軍仕様の開発が命じられた。"
     },
     "263227": {
@@ -1063933,7 +1063933,7 @@
     },
     "600475": {
         "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
-        "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるスカイブレイカー級フリゲート。ターゲットペインターを搭載している。\r\n\r\nこの艦は、SAROの機密施設周辺の飛行禁止区域を取り締まる部隊の一員であり、無許可の艦船を排除する権限を持つ。"
+        "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるカース級巡洋艦。兵器妨害とエネルギーニュートラライザーを搭載している。\r\n\r\nこの艦は、SAROの機密施設周辺の飛行禁止区域を取り締まる部隊の一員であり、無許可の艦船を排除する権限を持つ。"
     },
     "600476": {
         "en": "Detainer Phobos",
@@ -1063941,7 +1063941,7 @@
     },
     "600477": {
         "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
-        "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるカース級巡洋艦。ウェビファイアとワープスクランブラーを搭載している。\r\n\r\nこの艦は、SAROの機密施設周辺の飛行禁止区域を取り締まる部隊の一員であり、無許可の艦船を排除する権限を持つ。"
+        "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるフォボス級巡洋艦。ウェビファイアとワープスクランブラーを搭載している。\r\n\r\nこの艦は、SAROの機密施設周辺の飛行禁止区域を取り締まる部隊の一員であり、無許可の艦船を排除する権限を持つ。"
     },
     "600478": {
         "en": "Tactical Talos",
@@ -1202189,7 +1202189,7 @@
     },
     "1034347": {
         "en": "Dragoon Navy Issue Corporation Emblem",
-        "ja": "グノーシス用フレンドシップリーグSKIN"
+        "ja": "ドラグーン海軍仕様用コーポレーションエンブレム"
     },
     "1034348": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1212785,7 +1212785,7 @@
     },
     "1039647": {
         "en": "HoR Crow",
-        "ja": "期限切れ帝国防衛ブースターII"
+        "ja": "HoRクロウ"
     },
     "1039648": {
         "en": "A frigate operating under the Caldari State’s clandestine House of Records. It is tasked with protecting covert operations inside the Gallente Federation that target classified data transfers.",
@@ -1216469,7 +1216469,7 @@
     },
     "1041178": {
         "en": "State Directive - Unlimited",
-        "ja": "PL_PointLight_Green_01a"
+        "ja": "ステイト・ディレクティブ - 無制限"
     },
     "1041179": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.",
@@ -1217929,7 +1217929,7 @@
     },
     "1041778": {
         "en": "Imperial War Reserves Supply Package",
-        "ja": "タイマンのアシッムー"
+        "ja": "帝国戦時予備貯蔵補給品パッケージ"
     },
     "1041779": {
         "en": "A supply package that was procured and manufactured by the Imperial War Reserves corporation. Intended to deliver crucial military supplies to the Amarr Empire on the frontlines.\r\n\r\nThe Minmatar Republic will reward capsuleers who intercept these supply packages and bring them to Tribal Liberation Force stations in their loyalty point store.",
@@ -1218225,7 +1218225,7 @@
     },
     "1041878": {
         "en": "Supplies: Battle of Pator",
-        "ja": "タイマンのアシッムー"
+        "ja": "補給物資：パターの戦闘"
     },
     "1041884": {
         "en": "The fleet is diverting to you. We’re back on the advance across all fronts!",
@@ -1220924,7 +1220924,7 @@
         "ja": "帝国海軍「アトーンメント」トラッキングエンハンサー"
     },
     "1042960": {
-        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activition cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activation cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
         "ja": "タレットの射程と追跡速度を向上させる。\r\nこのモジュールは<b>エネルギータレット</b>の起動コストも削減する。\r\n\r\nペナルティ：艦船に同じタイプのモジュール、または同じ属性の類似モジュールを複数取り付けると、ペナルティが発生する。"
     },
     "1042962": {
@@ -1222445,7 +1222445,7 @@
     },
     "1043547": {
         "en": "Deimos Presidential Agent SKIN",
-        "ja": "複合施設アルファ"
+        "ja": "デイモス用大統領特務エージェントSKIN"
     },
     "1043548": {
         "en": "The smallest of the tribes by far, the Starkmanir are masters of ancient warfare strategies and battle wisdom all but lost by the other tribes. These strategies provide the basis for a Starkmanir Strategic wing, a small force of extremely effective Starkmanir pilots that came together in response to the Warpath Conflict. Famed for their ability to establish tactical superiority even against much larger enemy fleets, the Warpath Stark are often underestimated but never outclassed.",
@@ -1222937,7 +1222937,7 @@
     },
     "1043769": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "ja": "<a href=showinfo:20494>装甲戦コマンド</a>バーストの効果と持続時間にボーナス"
+        "ja": "<a href=showinfo:20494>装甲戦コマンド</a>と<a href=showinfo:20495>情報戦コマンド</a>バーストの効果と持続時間にボーナス"
     },
     "1043771": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up time",
@@ -1222989,7 +1222989,7 @@
     },
     "1043784": {
         "en": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "ja": "<a href=showinfo:3350>シールドコマンド</a>バーストの効果と持続時間にボーナス"
+        "ja": "<a href=showinfo:3350>シールドコマンド</a>と<a href=showinfo:20495>情報戦コマンド</a>バーストの効果と持続時間にボーナス"
     },
     "1043786": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1223045,7 +1223045,7 @@
     },
     "1043799": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:3349>Skirmish Command</a> burst strength and duration",
-        "ja": "<a href=showinfo:20494>装甲戦コマンド</a>バーストの効果と持続時間にボーナス"
+        "ja": "<a href=showinfo:20494>装甲戦コマンド</a>と<a href=showinfo:3349>機動戦コマンド</a>バーストの効果と持続時間にボーナス"
     },
     "1043801": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1223549,7 +1223549,7 @@
     },
     "1043978": {
         "en": "Cradle of Freedom - Unlimited",
-        "ja": "タイマンのアシッムー"
+        "ja": "クレードル・オブ・フリーダム - 無制限"
     },
     "1043979": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide Alignment Sequencer to bind the unique SKIN licenses you are producing.",
@@ -1227393,23 +1227393,23 @@
     },
     "1047596": {
         "en": "All known objectives, including available, completed, and upcoming objectives.",
-        "ja": ""
+        "ja": "参加可能、完了済み、今後登場予定のものを含む、すべての既知の目標。"
     },
     "1047597": {
         "en": "Objectives you are currently participating in.",
-        "ja": ""
+        "ja": "現在参加中の目標。"
     },
     "1047598": {
         "en": "Objectives that have been completed by the community and are no longer available for contribution.",
-        "ja": ""
+        "ja": "コミュニティによって達成され、貢献できなくなった目標。"
     },
     "1047599": {
         "en": "Objectives scheduled to become available in the near future.",
-        "ja": ""
+        "ja": "近日中に参加可能になる予定の目標。"
     },
     "1047600": {
         "en": "Objectives that are currently active and open for contribution.",
-        "ja": ""
+        "ja": "現在進行中で、貢献を受け付けている目標。"
     },
     "1047637": {
         "en": "Operation Avalon Hidden Combat POI Boss Spawner (DO NOT TRANSLATE)",
@@ -1228005,7 +1228005,7 @@
     },
     "1048030": {
         "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
-        "ja": "YC128年、「征服」技術の脅威が迫る中、共和国海軍は、来たる紛争への投入が見込まれる打撃部隊に優位性をもたらす新型巡洋戦艦の開発を要請した。「征服」技術はCONCORDとの合意によって制限されていたものの、実戦投入は避けられないと多くの者が考えており、ミンマターはその脅威を見据えて先手を打とうとしていた。\r\n\r\nその成果が、共和国海軍の高性能フリート艦艇、トルネード海軍仕様である。従来型から数々の改良を遂げた自慢の艦船であったが、征服エンジンの圧倒的な力には到底及ばない平凡な兵器だと批判する者もいた。"
+        "ja": "YC128年、「征服」技術の脅威が迫る中、共和国海軍は、来たる紛争への投入が見込まれる打撃部隊に優位性をもたらす新型巡洋戦艦の開発を要請した。「征服」技術はCONCORDとの合意によって制限されていたものの、実戦投入は避けられないと多くの者が考えており、ミンマターはその脅威を見据えて先手を打とうとしていた。\r\n\r\nその成果が、共和国海軍の高性能艦、トルネード海軍仕様である。従来型から数々の改良を遂げた自慢の艦船であったが、「征服」エンジンの圧倒的な力には到底及ばない、平凡な兵器にすぎないと批判する者もいた。"
     },
     "1048031": {
         "en": "Minmatar Pilot",
@@ -1238685,7 +1238685,7 @@
     },
     "1054675": {
         "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
-        "ja": "超次元の力にさらされて変質したラスパイト無機物の変異分子。アマー帝国は、ドリフターのエネルギー効率に関する研究のために、この変異鉱物を必要としている。\r\n\r\n帝国は自国のキャンペーン目標のため、<url=showinfo:5//30002974>メハトゥア</url>のアマー海軍係留拠点外にいるアイテムトレーダーにこれを届けた者に報酬を与える。"
+        "ja": "超次元の力にさらされて変質したラスパイト無機物の変異分子。アマー帝国は、ドリフターのエネルギー効率に関する研究のために、この変異鉱物を必要としている。\r\n\r\nアマー帝国は、キャンペーン目標を受諾し、<url=showinfo:5//30002974>メハトゥア</url>のアマー海軍係留拠点の外にいるアイテムトレーダーにこれを納品した者に報酬を与える。"
     },
     "1054676": {
         "en": "Aberrant Polycrase",
@@ -1239296,7 +1239296,7 @@
         "ja": "変異カンガイトを配送"
     },
     "1055207": {
-        "en": "Deliver Stereo-Collaspe Signal",
+        "en": "Deliver Stereo-Collapse Signal",
         "ja": "ステレオ・コラプス信号を配送"
     },
     "1055208": {
@@ -1239436,7 +1239436,7 @@
         "ja": "インタキにローグ・アノイキス遠隔測定データを配送"
     },
     "1055253": {
-        "en": "Deliver Stereo-Collaspe Signal in Amo",
+        "en": "Deliver Stereo-Collapse Signal in Amo",
         "ja": "アモにステレオ・コラプス信号を配送"
     },
     "1055254": {
@@ -1244973,7 +1244973,7 @@
     },
     "1059425": {
         "en": "Advantage of Faith",
-        "ja": "勝利のアマージン"
+        "ja": "信仰の優位"
     },
     "1059426": {
         "en": "Destroy {[numeric]amount, useGrouping} Republic Officer Battleships",
@@ -1244985,7 +1244985,7 @@
     },
     "1059429": {
         "en": "Advantage of Honor",
-        "ja": "企業の優位性"
+        "ja": "名誉の優位"
     },
     "1059430": {
         "en": "Destroy {[numeric]amount, useGrouping} Federation Officer Battleships",
@@ -1244993,11 +1244993,11 @@
     },
     "1059431": {
         "en": "Even a hostile takeover must be executed with honor.",
-        "ja": ""
+        "ja": "たとえ敵対的買収であろうと、名誉をもって遂行せねばならない。"
     },
     "1059432": {
         "en": "Advantage of Freedom",
-        "ja": "自由には利点がある"
+        "ja": "自由の優位"
     },
     "1059433": {
         "en": "Destroy {[numeric]amount, useGrouping} State Officer Battleships",
@@ -1245009,7 +1245009,7 @@
     },
     "1059435": {
         "en": "Advantage of Pride",
-        "ja": "束縛なき優位"
+        "ja": "誇りの優位"
     },
     "1059436": {
         "en": "Destroy {[numeric]amount, useGrouping} Imperial Officer Battleships",
@@ -1245017,11 +1245017,11 @@
     },
     "1059437": {
         "en": "Only those who have forsaken themselves call pride a sin.",
-        "ja": ""
+        "ja": "己を捨てた者だけが、誇りを罪と呼ぶのだ。"
     },
     "1059449": {
         "en": "Defend the Faith",
-        "ja": "信仰を守り抜け"
+        "ja": "信仰を守れ"
     },
     "1059450": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Amarr Empire",
@@ -1245033,7 +1245033,7 @@
     },
     "1059452": {
         "en": "Defend the State",
-        "ja": "連合は健在なり"
+        "ja": "連合を守れ"
     },
     "1059453": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Caldari State",
@@ -1245045,7 +1245045,7 @@
     },
     "1059455": {
         "en": "Defend Freedom",
-        "ja": "自由は揺るがず"
+        "ja": "自由を守れ"
     },
     "1059457": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Gallente Federation",
@@ -1245053,11 +1245053,11 @@
     },
     "1059458": {
         "en": "At any cost.",
-        "ja": ""
+        "ja": "いかなる犠牲を払ってでも。"
     },
     "1059459": {
         "en": "Defend the Tribes",
-        "ja": "断ち切られた鎖、途切れぬ戦線"
+        "ja": "部族を守れ"
     },
     "1059460": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Minmatar Republic",
@@ -1245069,11 +1245069,11 @@
     },
     "1059463": {
         "en": "Hunt for Retribution",
-        "ja": "赦しを祈れ"
+        "ja": "報復の狩り"
     },
     "1059464": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
-        "ja": "アマーに入隊中に、ミンマターまたはエンジェルのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
+        "ja": "アマー帝国への従軍中に、ミンマター共和国またはエンジェルカルテルに従軍するカプセラ{[numeric]amount, useGrouping}人にとどめを刺す。"
     },
     "1059465": {
         "en": "",
@@ -1245081,11 +1245081,11 @@
     },
     "1059466": {
         "en": "Hunt for Honor",
-        "ja": "敵対的買収"
+        "ja": "名誉の狩り"
     },
     "1059467": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
-        "ja": "カルダリに入隊中に、ガレンテまたはガリスタスのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
+        "ja": "カルダリ連合への従軍中に、ガレンテ連邦またはガリスタス海賊に従軍するカプセラ{[numeric]amount, useGrouping}人にとどめを刺す。"
     },
     "1059468": {
         "en": "",
@@ -1245093,11 +1245093,11 @@
     },
     "1059469": {
         "en": "Hunt for Justice",
-        "ja": "ブラスター外交"
+        "ja": "正義の狩り"
     },
     "1059470": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
-        "ja": "ガレンテに入隊中に、カルダリまたはガリスタスのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
+        "ja": "ガレンテ連邦への従軍中に、カルダリ連合またはガリスタス海賊に従軍するカプセラ{[numeric]amount, useGrouping}人にとどめを刺す。"
     },
     "1059471": {
         "en": "",
@@ -1245105,11 +1245105,11 @@
     },
     "1059473": {
         "en": "Hunt for Liberation",
-        "ja": "抑圧者をスクラップに"
+        "ja": "解放の狩り"
     },
     "1059474": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
-        "ja": "ミンマターに入隊中に、アマーまたはエンジェルのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
+        "ja": "ミンマター共和国への従軍中に、アマー帝国またはエンジェルカルテルに従軍するカプセラ{[numeric]amount, useGrouping}人にとどめを刺す。"
     },
     "1059475": {
         "en": "",
@@ -1245117,23 +1245117,23 @@
     },
     "1059476": {
         "en": "Hunt for Dominion",
-        "ja": "天使の輪とさようなら"
+        "ja": "支配の狩り"
     },
     "1059477": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
-        "ja": "エンジェルズに入隊中に、アマーまたはミンマターのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
+        "ja": "エンジェルカルテルへの従軍中に、アマー帝国またはミンマター共和国に従軍するカプセラ{[numeric]amount, useGrouping}人にとどめを刺す。"
     },
     "1059478": {
         "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
-        "ja": ""
+        "ja": "エンジェルズに目をつけられたが最後、その運命は決する――失踪の2日前の検察側証人"
     },
     "1059479": {
         "en": "Hunt for Glory",
-        "ja": "雇われ傭兵"
+        "ja": "栄光の狩り"
     },
     "1059480": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
-        "ja": "ガリスタスに入隊中に、カルダリまたはガレンテのカプセラ{[numeric]amount, useGrouping}人に最後の一撃を与える"
+        "ja": "ガリスタス海賊への従軍中に、カルダリ連合またはガレンテ連邦に従軍するカプセラ{[numeric]amount, useGrouping}人にとどめを刺す。"
     },
     "1059481": {
         "en": "",
@@ -1245141,7 +1245141,7 @@
     },
     "1059482": {
         "en": "Crusade Loyalty",
-        "ja": "神の報酬"
+        "ja": "聖戦への忠誠"
     },
     "1059483": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the 24th Imperial Crusade",
@@ -1245149,11 +1245149,11 @@
     },
     "1059484": {
         "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
-        "ja": ""
+        "ja": "主は我らに多くを授けられた。我らはそのすべてを手にせねばならぬ。――イドニス・アーディシャパー"
     },
     "1059485": {
         "en": "Protectorate Loyalty",
-        "ja": "忠誠の見返り"
+        "ja": "プロテクトレイトへの忠誠"
     },
     "1059486": {
         "en": "",
@@ -1245165,7 +1245165,7 @@
     },
     "1059488": {
         "en": "Union Loyalty",
-        "ja": "組合員特典"
+        "ja": "ユニオンへの忠誠"
     },
     "1059489": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Federal Defense Union",
@@ -1245177,7 +1245177,7 @@
     },
     "1059491": {
         "en": "Liberation Loyalty",
-        "ja": "錆から富へ"
+        "ja": "解放への忠誠"
     },
     "1059492": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Tribal Liberation Force",
@@ -1245185,11 +1245185,11 @@
     },
     "1059493": {
         "en": "While some remain bound, none are truly free. - Matari proverb",
-        "ja": ""
+        "ja": "囚われの者が一人でもいる限り、誰一人として真に自由ではない。――マター人の格言"
     },
     "1059494": {
         "en": "Malakim Loyalty",
-        "ja": "犯罪は割に合う"
+        "ja": "マラキムへの忠誠"
     },
     "1059495": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Malakim Zealots",
@@ -1245201,7 +1245201,7 @@
     },
     "1059499": {
         "en": "Commando Loyalty",
-        "ja": "コマンドー突撃"
+        "ja": "コマンドーへの忠誠"
     },
     "1059500": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Commando Guri",
@@ -1245209,11 +1245209,11 @@
     },
     "1059501": {
         "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
-        "ja": ""
+        "ja": "第9に敬意を払え、あとはクソ食らえだ。――ガリスタスの搭乗員が残した落書き"
     },
     "1059502": {
         "en": "Break the Chosen",
-        "ja": "破壊に選ばれし者"
+        "ja": "選ばれし者たちを打ち砕け"
     },
     "1059503": {
         "en": "Destroy {[numeric]amount, useGrouping} Zohar's Chosen non-capsuleers",
@@ -1245225,7 +1245225,7 @@
     },
     "1059511": {
         "en": "Break the Steelscale",
-        "ja": "鋼も歯が立たず"
+        "ja": "スティールスケイルを打ち砕け"
     },
     "1059512": {
         "en": "Destroy {[numeric]amount, useGrouping} Hakuzosu's Steelscale non-capsuleers",
@@ -1245233,11 +1245233,11 @@
     },
     "1059513": {
         "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
-        "ja": ""
+        "ja": "長きにわたる戦争を経てなお、カルダリ連合とガレンテ連邦が唯一同意できることがある。"
     },
     "1059522": {
         "en": "Break the Consortium",
-        "ja": "抑圧者を抑え込め"
+        "ja": "コンソーシアムを打ち砕け"
     },
     "1059523": {
         "en": "Destroy {[numeric]amount, useGrouping} Consortium Bulwark non-capsuleers",
@@ -1245249,11 +1245249,11 @@
     },
     "1059538": {
         "en": "Imperial Piloting",
-        "ja": "黄金艦隊"
+        "ja": "帝国パイロット"
     },
     "1059539": {
         "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
-        "ja": "アマー海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
+        "ja": "アマー海軍仕様の異なる艦船{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059540": {
         "en": "",
@@ -1245261,11 +1245261,11 @@
     },
     "1059546": {
         "en": "State Piloting",
-        "ja": "重役級の火力"
+        "ja": "連合パイロット"
     },
     "1059547": {
         "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
-        "ja": "カルダリ海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
+        "ja": "カルダリ海軍仕様の異なる艦船{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059548": {
         "en": "",
@@ -1245273,11 +1245273,11 @@
     },
     "1059549": {
         "en": "Federal Piloting",
-        "ja": "連邦大艦隊"
+        "ja": "連邦パイロット"
     },
     "1059550": {
         "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
-        "ja": "ガレンテ海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
+        "ja": "連邦海軍仕様の異なる艦船{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059551": {
         "en": "",
@@ -1245285,11 +1245285,11 @@
     },
     "1059552": {
         "en": "Republic Piloting",
-        "ja": "反骨の艦隊"
+        "ja": "共和国パイロット"
     },
     "1059553": {
         "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
-        "ja": "共和国海軍仕様の異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
+        "ja": "共和国海軍仕様の異なる艦船{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059554": {
         "en": "",
@@ -1245297,27 +1245297,27 @@
     },
     "1059555": {
         "en": "Cartel Piloting",
-        "ja": "天使の軍団"
+        "ja": "カルテルパイロット"
     },
     "1059556": {
         "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
-        "ja": "エンジェルカルテルの異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
+        "ja": "エンジェルカルテルの異なる艦船{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059557": {
         "en": "Become legion.",
-        "ja": ""
+        "ja": "部隊となれ。"
     },
     "1059558": {
         "en": "Guristas Piloting",
-        "ja": "冷血の火力"
+        "ja": "ガリスタスパイロット"
     },
     "1059559": {
         "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
-        "ja": "ガリスタスの異なる船体{[numeric]amount, useGrouping}種類に搭乗する。"
+        "ja": "ガリスタス海賊の異なる艦船{[numeric]amount, useGrouping}種類に搭乗する。"
     },
     "1059560": {
         "en": "Cold-Blooded.",
-        "ja": ""
+        "ja": "冷血であれ。"
     },
     "1059561": {
         "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
@@ -1246349,35 +1246349,35 @@
     },
     "1060615": {
         "en": "Station",
-        "ja": ""
+        "ja": "ステーション"
     },
     "1060618": {
         "en": "Station docked at",
-        "ja": ""
+        "ja": "入港したステーション"
     },
     "1060623": {
         "en": "Manifest Station",
-        "ja": ""
+        "ja": "マニフェスト・ステーション"
     },
     "1060624": {
         "en": "Visit the Manifest market hub",
-        "ja": ""
+        "ja": "マニフェストのマーケットハブを訪れる。"
     },
     "1060625": {
         "en": "The Hub of Exordium",
-        "ja": ""
+        "ja": "エグゾーディウムのハブ"
     },
     "1060626": {
         "en": "Dock at a Station",
-        "ja": ""
+        "ja": "ステーションに入港する"
     },
     "1060627": {
         "en": "Dock at a station or structure",
-        "ja": ""
+        "ja": "ステーションまたはストラクチャに入港する"
     },
     "1060628": {
         "en": "stations docked",
-        "ja": ""
+        "ja": "入港済みステーション"
     },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",

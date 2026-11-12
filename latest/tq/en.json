@@ -18204,7 +18204,7 @@
         "en": "Inner Circle is the top level department of CONCORD. The policies of CONCORD are discussed and decided on Inner Circle meetings, which are usually closed to the public. At first the members of the circle were nominated by the empires, but now they rise from the ranks of CONCORD employees. Thus, their loyalty is no longer bound to any one empire, but rather to CONCORD itself."
     },
     "61118": {
-        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. "
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identity as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. "
     },
     "61119": {
         "en": "In YC128, the Caldari State claimed sovereignty over the Syndicate region. In the months that followed, 17,079 capsuleers contributed to the success of their State Corridor campaign that sought to bring some semblance of honorable dealings and lawfulness to the region. \r\n\r\nDespite their best efforts, black market deals and illegal trafficking remain common. There are even those who have claimed the Caldari benefit from access to such illicit trading and do not want to shut it down."
@@ -528132,7 +528132,7 @@
         "en": "Naga"
     },
     "263226": {
-        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari."
+        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n\r\nThe Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>"
     },
     "263227": {
         "en": "Naga Blueprint"
@@ -915693,7 +915693,7 @@
         "en": "Imperial Navy 'Atonement' Tracking Enhancer"
     },
     "1042960": {
-        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activition cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized."
+        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activation cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized."
     },
     "1042962": {
         "en": "xer Qosh’s Modified Expanded Cargohold Blueprint"
@@ -929472,7 +929472,7 @@
         "en": "Deliver Aberrant Kangite"
     },
     "1055207": {
-        "en": "Deliver Stereo-Collaspe Signal"
+        "en": "Deliver Stereo-Collapse Signal"
     },
     "1055208": {
         "en": "Deliver Thermoelectric Flux Log"
@@ -929577,7 +929577,7 @@
         "en": "Deliver Rogue Anoikis Telemetry in Intaki"
     },
     "1055253": {
-        "en": "Deliver Stereo-Collaspe Signal in Amo"
+        "en": "Deliver Stereo-Collapse Signal in Amo"
     },
     "1055254": {
         "en": "<i>The heretical Disciples of Purity are ambushing research expeditions. Smite them and retrieve our prototypes.</i>\r\nSalvage wrecks in Ambushed Imperial Expeditions to recover <url=showinfo:97552>Hyperspherical Housing</url> then trade it at the Item Trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.\r\n\r\n<i>Ambushed Imperial Expeditions</i> can be found in Amarr High Sec and Low Sec. A higher concentration of them can be found in Bulwark Systems and systems occupied by the <a href=showinfo:30//500003>Amarr Empire</a> through <a href=\"localsvc:contentGroupID=35&method=AgencyOpenAndShow\">Factional Warfare</a> in the warzone.\r\nA smaller amount of <url=showinfo:97552>Hyperspherical Housing</url> may be able to be recovered from <i>SARO Lockups.</i> found in <url=show_on_map:119>SARO Black Sites</url>."

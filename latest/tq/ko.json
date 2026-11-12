@@ -24272,7 +24272,7 @@
         "ko": "이너 서클은 CONCORD의 최고위층 부서로, 이너 서클의 회의를 통해 CONCORD의 정책이 논의되고 결의됩니다. 이러한 회의는 대개 대중들에게 비공개로 진행됩니다. 처음에는 각 국가가 이 서클의 위원들을 임명했으나 현재는 CONCORD 직원이 승진을 통해 위원이 됩니다. 그렇다 보니 위원들의 충성심은 이제 그 어떤 제국도 아닌 CONCORD를 향합니다."
     },
     "61118": {
-        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identity as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
         "ko": "예전에는 인타키 은행으로 불렸으나 YC 128년에 칼다리 연합에 편입된 이후, 연방과 인타키 결속으로 형성된 정체성을 벗어나고 주변 지역의 특성을 받아들이기 위해 이름을 변경했습니다. 이는 17,079명의 캡슐리어의 지원으로 성공한 연합 회랑 시공 작전의 성공으로 이루어낸 결과입니다.\r\n\r\n은행은 칼다리에 편입된 이후 칼다리의 관리를 받아 크게 발전했습니다. 물론 칼다리 기업 재판소가 고객 익명성 보장 정책을 유지할 수 있게 특별 허가를 내준 것도 큰 역할을 했습니다. 이러한 개인정보 보호 정책은 합법적이지 않은 거래를 하는 사업자에게 크게 유용했지만, 칼다리와 메가코퍼레이션이 은밀하게 업무를 처리하는 데 큰 도움이 되기도 했습니다. "
     },
     "61119": {
@@ -704176,7 +704176,7 @@
         "ko": "나가"
     },
     "263226": {
-        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari.",
+        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n\r\nThe Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>",
         "ko": "YC 128년, 칼다리 해군은 CONCORD의 영향력이 미치지 않는 신디케이트 지역의 치안을 유지해야 하는 상황에 처합니다. 따라서 무력과 위압적인 존재감으로 국가의 권위를 확립할 새로운 전략이 필요했습니다. 새로 장악한 지역에 칼다리의 타협하지 않는 명예와 강인함을 각인시킬 수단으로 마운틴 팩션의 메가코퍼레이션과 협력해 나가 해군 에디션 개발 계획을 수립했습니다."
     },
     "263227": {
@@ -1063933,7 +1063933,7 @@
     },
     "600475": {
         "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
-        "ko": "질서유지특임대(SARO) 소속 스카이브레이커 프리깃입니다. 타겟 페인팅 장비를 장착했습니다.\r\n\r\nSARO 시설 주변 비행 금지 구역의 치안을 유지합니다. 허가를 받지 않은 모든 함선을 공격할 권한이 있습니다."
+        "ko": "질서유지특임대(SARO) 소속 커스 크루저입니다. 무기 교란 및 에너지 뉴트럴라이저 장비를 장착했습니다.\r\n\r\nSARO 시설 주변 비행 금지 구역의 치안을 유지합니다. 허가를 받지 않은 모든 함선을 공격할 권한이 있습니다."
     },
     "600476": {
         "en": "Detainer Phobos",
@@ -1063941,7 +1063941,7 @@
     },
     "600477": {
         "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
-        "ko": "질서유지특임대(SARO) 소속 커스 크루저입니다. 스테이시스 웹 및 워프 교란 장비를 장착했습니다.\r\n\r\nSARO 시설 주변 비행 금지 구역의 치안을 유지합니다. 허가를 받지 않은 모든 함선을 공격할 권한이 있습니다."
+        "ko": "질서유지특임대(SARO) 소속 포보스 크루저입니다. 스테이시스 웹 및 워프 교란 장비를 장착했습니다.\r\n\r\nSARO 시설 주변 비행 금지 구역의 치안을 유지합니다. 허가를 받지 않은 모든 함선을 공격할 권한이 있습니다."
     },
     "600478": {
         "en": "Tactical Talos",
@@ -1202189,7 +1202189,7 @@
     },
     "1034347": {
         "en": "Dragoon Navy Issue Corporation Emblem",
-        "ko": "그노시스 '우정 연합' SKIN"
+        "ko": "드라군 해군 에디션 코퍼레이션 문장"
     },
     "1034348": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1212785,7 +1212785,7 @@
     },
     "1039647": {
         "en": "HoR Crow",
-        "ko": "만료된 제국 방어 부스터 II"
+        "ko": "정보기록원 크로우"
     },
     "1039648": {
         "en": "A frigate operating under the Caldari State’s clandestine House of Records. It is tasked with protecting covert operations inside the Gallente Federation that target classified data transfers.",
@@ -1216469,7 +1216469,7 @@
     },
     "1041178": {
         "en": "State Directive - Unlimited",
-        "ko": "PL_PointLight_Green_01a"
+        "ko": "연합 이사회 - 무제한"
     },
     "1041179": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide <a href=showinfo:81348>Alignment Sequencer</a> to bind the unique SKIN licenses you are producing.",
@@ -1217929,7 +1217929,7 @@
     },
     "1041778": {
         "en": "Imperial War Reserves Supply Package",
-        "ko": "탈만의 아시무"
+        "ko": "제국 전시준비기관 지원 물품"
     },
     "1041779": {
         "en": "A supply package that was procured and manufactured by the Imperial War Reserves corporation. Intended to deliver crucial military supplies to the Amarr Empire on the frontlines.\r\n\r\nThe Minmatar Republic will reward capsuleers who intercept these supply packages and bring them to Tribal Liberation Force stations in their loyalty point store.",
@@ -1218225,7 +1218225,7 @@
     },
     "1041878": {
         "en": "Supplies: Battle of Pator",
-        "ko": "탈만의 아시무"
+        "ko": "보급물자: 파토르 전투"
     },
     "1041884": {
         "en": "The fleet is diverting to you. We’re back on the advance across all fronts!",
@@ -1220924,7 +1220924,7 @@
         "ko": "제국 해군 '속죄' 트래킹 향상장치"
     },
     "1042960": {
-        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activition cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activation cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
         "ko": "터렛의 사거리와 트래킹 속도가 증가합니다.\r\n<b>에너지 터렛</b>의 활성화 비용이 감소합니다.\r\n\r\n페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다."
     },
     "1042962": {
@@ -1222445,7 +1222445,7 @@
     },
     "1043547": {
         "en": "Deimos Presidential Agent SKIN",
-        "ko": "컴플렉스 알파"
+        "ko": "데이모스 '대통령 특사' SKIN"
     },
     "1043548": {
         "en": "The smallest of the tribes by far, the Starkmanir are masters of ancient warfare strategies and battle wisdom all but lost by the other tribes. These strategies provide the basis for a Starkmanir Strategic wing, a small force of extremely effective Starkmanir pilots that came together in response to the Warpath Conflict. Famed for their ability to establish tactical superiority even against much larger enemy fleets, the Warpath Stark are often underestimated but never outclassed.",
@@ -1222937,7 +1222937,7 @@
     },
     "1043769": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "ko": "<a href=showinfo:20494>장갑 버스트</a> 강도 및 지속시간 증가"
+        "ko": "<a href=showinfo:20494>장갑 버스트</a>, <a href=showinfo:20495>정보전 버스트</a> 강도 및 지속시간 증가"
     },
     "1043771": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up time",
@@ -1222989,7 +1222989,7 @@
     },
     "1043784": {
         "en": "bonus to <a href=showinfo:3350>Shield Command</a> and <a href=showinfo:20495>Information Command</a> burst strength and duration",
-        "ko": "<a href=showinfo:3350>실드 버스트</a> 강도 및 지속시간 증가"
+        "ko": "<a href=showinfo:3350>실드 버스트</a>, <a href=showinfo:20495>정보전 버스트</a> 강도 및 지속시간 증가"
     },
     "1043786": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1223045,7 +1223045,7 @@
     },
     "1043799": {
         "en": "bonus to <a href=showinfo:20494>Armored Command</a> and <a href=showinfo:3349>Skirmish Command</a> burst strength and duration",
-        "ko": "<a href=showinfo:20494>장갑 버스트</a> 강도 및 지속시간 증가"
+        "ko": "<a href=showinfo:20494>장갑 버스트</a>, <a href=showinfo:3349>스커미시 버스트</a> 강도 및 지속시간 증가"
     },
     "1043801": {
         "en": "reduction in <a href=showinfo:83465>Capital Micro Jump Drive</a> and <a href=showinfo:83485>Capital Micro Jump Field Generator</a> spool up",
@@ -1223549,7 +1223549,7 @@
     },
     "1043978": {
         "en": "Cradle of Freedom - Unlimited",
-        "ko": "탈만의 아시무"
+        "ko": "자유의 요람 - 무제한"
     },
     "1043979": {
         "en": "A license for the unlimited use of a pattern in SKIN sequencing, once activated and inside your SKINR collection.\r\n\r\nThe digital sequence of this pattern license has not been bound, allowing for its unlimited use. However, every time you sequence a design using this pattern you must provide Alignment Sequencer to bind the unique SKIN licenses you are producing.",
@@ -1227393,23 +1227393,23 @@
     },
     "1047596": {
         "en": "All known objectives, including available, completed, and upcoming objectives.",
-        "ko": ""
+        "ko": "모든 목표가 표시됩니다. 현재 진행할 수 있는 목표를 비롯해 완료된 목표와 앞으로 진행될 목표도 표시됩니다."
     },
     "1047597": {
         "en": "Objectives you are currently participating in.",
-        "ko": ""
+        "ko": "현재 참여한 목표입니다."
     },
     "1047598": {
         "en": "Objectives that have been completed by the community and are no longer available for contribution.",
-        "ko": ""
+        "ko": "커뮤니티가 완료한 목표입니다. 더이상 기여할 수 없습니다."
     },
     "1047599": {
         "en": "Objectives scheduled to become available in the near future.",
-        "ko": ""
+        "ko": "가까운 시일에 진행될 예정인 목표입니다."
     },
     "1047600": {
         "en": "Objectives that are currently active and open for contribution.",
-        "ko": ""
+        "ko": "현재 진행 중인 목표입니다. 기여할 수 있습니다."
     },
     "1047637": {
         "en": "Operation Avalon Hidden Combat POI Boss Spawner (DO NOT TRANSLATE)",
@@ -1228017,7 +1228017,7 @@
     },
     "1048033": {
         "en": "Oracle Navy Issue Blueprint",
-        "ko": "오라클 해군 에디션 블루프린트 "
+        "ko": "오라클 해군 에디션 블루프린트"
     },
     "1048034": {
         "en": "Naga Navy Issue Blueprint",
@@ -1239296,7 +1239296,7 @@
         "ko": "괴리형 켄자이트 배송"
     },
     "1055207": {
-        "en": "Deliver Stereo-Collaspe Signal",
+        "en": "Deliver Stereo-Collapse Signal",
         "ko": "일방형 붕괴 신호 배송"
     },
     "1055208": {
@@ -1239436,7 +1239436,7 @@
         "ko": "인타키로 로그 아노이키스 텔레메트리 배송"
     },
     "1055253": {
-        "en": "Deliver Stereo-Collaspe Signal in Amo",
+        "en": "Deliver Stereo-Collapse Signal in Amo",
         "ko": "애모로 일방형 붕괴 신호 배송"
     },
     "1055254": {
@@ -1244973,7 +1244973,7 @@
     },
     "1059425": {
         "en": "Advantage of Faith",
-        "ko": "부강한 아마르의 승리"
+        "ko": "운명의 혜택"
     },
     "1059426": {
         "en": "Destroy {[numeric]amount, useGrouping} Republic Officer Battleships",
@@ -1244985,7 +1244985,7 @@
     },
     "1059429": {
         "en": "Advantage of Honor",
-        "ko": "협동의 이점"
+        "ko": "명예의 혜택"
     },
     "1059430": {
         "en": "Destroy {[numeric]amount, useGrouping} Federation Officer Battleships",
@@ -1244993,11 +1244993,11 @@
     },
     "1059431": {
         "en": "Even a hostile takeover must be executed with honor.",
-        "ko": ""
+        "ko": "적대적 인수도 명예롭게 행하라."
     },
     "1059432": {
         "en": "Advantage of Freedom",
-        "ko": "자유는 자유의 이점이 있다"
+        "ko": "자유의 혜택"
     },
     "1059433": {
         "en": "Destroy {[numeric]amount, useGrouping} State Officer Battleships",
@@ -1245009,7 +1245009,7 @@
     },
     "1059435": {
         "en": "Advantage of Pride",
-        "ko": "풀려난 이점"
+        "ko": "자부심의 혜택"
     },
     "1059436": {
         "en": "Destroy {[numeric]amount, useGrouping} Imperial Officer Battleships",
@@ -1245017,11 +1245017,11 @@
     },
     "1059437": {
         "en": "Only those who have forsaken themselves call pride a sin.",
-        "ko": ""
+        "ko": "자신을 저버린 이들이 자부심을 죄악이라 부른다."
     },
     "1059449": {
         "en": "Defend the Faith",
-        "ko": "신념 준수"
+        "ko": "운명 수호"
     },
     "1059450": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Amarr Empire",
@@ -1245033,7 +1245033,7 @@
     },
     "1059452": {
         "en": "Defend the State",
-        "ko": "사라지지 않는 연합"
+        "ko": "연합 수호"
     },
     "1059453": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Caldari State",
@@ -1245045,7 +1245045,7 @@
     },
     "1059455": {
         "en": "Defend Freedom",
-        "ko": "굳건한 자유"
+        "ko": "자유 수호"
     },
     "1059457": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Gallente Federation",
@@ -1245053,11 +1245053,11 @@
     },
     "1059458": {
         "en": "At any cost.",
-        "ko": ""
+        "ko": "무슨 수를 쓰더라도"
     },
     "1059459": {
         "en": "Defend the Tribes",
-        "ko": "끊어진 사슬, 끊어지지 않은 선"
+        "ko": "부족 수호"
     },
     "1059460": {
         "en": "Defend {[numeric]amount, useGrouping} factional warfare complexes for the Minmatar Republic",
@@ -1245069,11 +1245069,11 @@
     },
     "1059463": {
         "en": "Hunt for Retribution",
-        "ko": "용서를 바라는 기도"
+        "ko": "해방을 위한 사냥"
     },
     "1059464": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
-        "ko": "아마르 소속으로 민마타 또는 엔젤 카르텔 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
+        "ko": "아마르 제국 소속으로 민마타 공화국 또는 엔젤 카르텔 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059465": {
         "en": "",
@@ -1245081,11 +1245081,11 @@
     },
     "1059466": {
         "en": "Hunt for Honor",
-        "ko": "공격적 인수"
+        "ko": "명예를 위한 사냥"
     },
     "1059467": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
-        "ko": "칼다리 소속으로 갈란테 또는 구리스타스 해적단 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
+        "ko": "칼다리 연합 소속으로 갈란테 연방 또는 구리스타스 해적단 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059468": {
         "en": "",
@@ -1245093,11 +1245093,11 @@
     },
     "1059469": {
         "en": "Hunt for Justice",
-        "ko": "블라스터 외교"
+        "ko": "정의를 위한 사냥"
     },
     "1059470": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
-        "ko": "갈란테 소속으로 칼다리 또는 구리스타스 해적단 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
+        "ko": "갈란테 연방 소속으로 칼다리 연합 또는 구리스타스 해적단 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059471": {
         "en": "",
@@ -1245105,11 +1245105,11 @@
     },
     "1059473": {
         "en": "Hunt for Liberation",
-        "ko": "억제기 폐기 처분"
+        "ko": "자유를 위한 사냥"
     },
     "1059474": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
-        "ko": "민마타 소속으로 아마르 또는 엔젤 카르텔 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
+        "ko": "민마타 공화국 소속으로 아마르 제국 또는 엔젤 카르텔 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059475": {
         "en": "",
@@ -1245117,23 +1245117,23 @@
     },
     "1059476": {
         "en": "Hunt for Dominion",
-        "ko": "작별의 후광"
+        "ko": "지배를 위한 사냥"
     },
     "1059477": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
-        "ko": "엔젤 카르텔 소속으로 아마르 또는 민마타 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
+        "ko": "엔젤 카르텔 소속으로 아마르 제국 또는 민마타 공화국 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059478": {
         "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
-        "ko": ""
+        "ko": "엔젤 카르텔의 목표가 되는 순간, 당신의 운명은 결정된 것이다. - 실종되기 이틀 전, 검찰 측 증인"
     },
     "1059479": {
         "en": "Hunt for Glory",
-        "ko": "살인 청부업자"
+        "ko": "영광을 위한 사냥"
     },
     "1059480": {
         "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
-        "ko": "구리스타스 해적단 소속으로 칼다리 또는 갈란테 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
+        "ko": "구리스타스 해적단 소속으로 칼다리 연합 또는 갈란테 연방 소속 캡슐리어에게 결정타 {[numeric]amount, useGrouping}회 가하기"
     },
     "1059481": {
         "en": "",
@@ -1245141,7 +1245141,7 @@
     },
     "1059482": {
         "en": "Crusade Loyalty",
-        "ko": "신성한 보상"
+        "ko": "성전의 충성"
     },
     "1059483": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the 24th Imperial Crusade",
@@ -1245149,11 +1245149,11 @@
     },
     "1059484": {
         "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
-        "ko": ""
+        "ko": "신께서 우리에게 많은 것을 베푸셨으니, 우리는 그 모든 것을 취할 것이다. - 이도니스 아르디샤퍼르"
     },
     "1059485": {
         "en": "Protectorate Loyalty",
-        "ko": "충성의 회귀"
+        "ko": "방위대의 충성"
     },
     "1059486": {
         "en": "",
@@ -1245165,7 +1245165,7 @@
     },
     "1059488": {
         "en": "Union Loyalty",
-        "ko": "연대의 혜택"
+        "ko": "연맹 충성"
     },
     "1059489": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Federal Defense Union",
@@ -1245177,7 +1245177,7 @@
     },
     "1059491": {
         "en": "Liberation Loyalty",
-        "ko": "먼지에서 부자까지"
+        "ko": "자유의 충성"
     },
     "1059492": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Tribal Liberation Force",
@@ -1245185,11 +1245185,11 @@
     },
     "1059493": {
         "en": "While some remain bound, none are truly free. - Matari proverb",
-        "ko": ""
+        "ko": "하나라도 묶여 있다면, 진정 자유로운 것이 아니다. - 마타르 속담"
     },
     "1059494": {
         "en": "Malakim Loyalty",
-        "ko": "범죄는 정말 이익이 된다"
+        "ko": "말라킴 충성"
     },
     "1059495": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Malakim Zealots",
@@ -1245201,7 +1245201,7 @@
     },
     "1059499": {
         "en": "Commando Loyalty",
-        "ko": "진격의 전대"
+        "ko": "코만도의 충성"
     },
     "1059500": {
         "en": "Earn {[numeric]amount, useGrouping} Loyalty Points for the Commando Guri",
@@ -1245209,11 +1245209,11 @@
     },
     "1059501": {
         "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
-        "ko": ""
+        "ko": "9번가가 최고다, 나머지는 엿이나 먹어라. - 구리스타스 강습 부대가 남긴 낙서"
     },
     "1059502": {
         "en": "Break the Chosen",
-        "ko": "선택받은 파괴자"
+        "ko": "선택받은 자 무너뜨리기"
     },
     "1059503": {
         "en": "Destroy {[numeric]amount, useGrouping} Zohar's Chosen non-capsuleers",
@@ -1245225,7 +1245225,7 @@
     },
     "1059511": {
         "en": "Break the Steelscale",
-        "ko": "상대가 없음"
+        "ko": "강철의 저울 깨뜨리기"
     },
     "1059512": {
         "en": "Destroy {[numeric]amount, useGrouping} Hakuzosu's Steelscale non-capsuleers",
@@ -1245233,11 +1245233,11 @@
     },
     "1059513": {
         "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
-        "ko": ""
+        "ko": "수년간 전쟁 중이지만, 칼다리 연합과 갈란테 연방이 동의하는 일이 하나는 있다."
     },
     "1059522": {
         "en": "Break the Consortium",
-        "ko": "억압자를 억압하라"
+        "ko": "컨소시엄 와해"
     },
     "1059523": {
         "en": "Destroy {[numeric]amount, useGrouping} Consortium Bulwark non-capsuleers",
@@ -1245249,7 +1245249,7 @@
     },
     "1059538": {
         "en": "Imperial Piloting",
-        "ko": "황금 함대"
+        "ko": "제국 파일럿"
     },
     "1059539": {
         "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
@@ -1245261,7 +1245261,7 @@
     },
     "1059546": {
         "en": "State Piloting",
-        "ko": "경영진의 화력"
+        "ko": "연합 파일럿"
     },
     "1059547": {
         "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
@@ -1245273,11 +1245273,11 @@
     },
     "1059549": {
         "en": "Federal Piloting",
-        "ko": "연방 함대"
+        "ko": "연방 파일럿"
     },
     "1059550": {
         "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
-        "ko": "갈란테 해군 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
+        "ko": "연방 해군 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
     },
     "1059551": {
         "en": "",
@@ -1245285,11 +1245285,11 @@
     },
     "1059552": {
         "en": "Republic Piloting",
-        "ko": "반격의 함대"
+        "ko": "공화국 파일럿"
     },
     "1059553": {
         "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
-        "ko": "공화국 함대 에디션 함선 {[numeric]amount, useGrouping}종 탑승"
+        "ko": "공화국 함대 에디션 함선 {[numeric]amount, useGrouping}종 탑승 "
     },
     "1059554": {
         "en": "",
@@ -1245297,7 +1245297,7 @@
     },
     "1059555": {
         "en": "Cartel Piloting",
-        "ko": "천사의 지역"
+        "ko": "카르텔 파일럿"
     },
     "1059556": {
         "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
@@ -1245305,11 +1245305,11 @@
     },
     "1059557": {
         "en": "Become legion.",
-        "ko": ""
+        "ko": "군단이 된 자"
     },
     "1059558": {
         "en": "Guristas Piloting",
-        "ko": "냉혈한의 화력"
+        "ko": "구리스타스 파일럿"
     },
     "1059559": {
         "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
@@ -1245317,7 +1245317,7 @@
     },
     "1059560": {
         "en": "Cold-Blooded.",
-        "ko": ""
+        "ko": "냉혈한"
     },
     "1059561": {
         "en": "Among their people, the practice of identifying and deifying savants has been part of Sani Sabik life for over a thousand years, but has in more recent times taken a back seat as the Blood Raiders in particular have widened their pursuits to the acquisition, inspection, and manipulation of blood, with this becoming their core focus.\r\n\r\nThe only remaining echoes of the lauding of savants are in the near worship of Omir Sarikusa and in the unstated but general belief among the Sani Sabik that each and every one of them is a savant of New Eden, having all in one way or another been the beneficiaries of the blood rituals.",
@@ -1246349,35 +1246349,35 @@
     },
     "1060615": {
         "en": "Station",
-        "ko": ""
+        "ko": "정거장"
     },
     "1060618": {
         "en": "Station docked at",
-        "ko": ""
+        "ko": "도킹된 정거장"
     },
     "1060623": {
         "en": "Manifest Station",
-        "ko": ""
+        "ko": "매니페스트 정거장"
     },
     "1060624": {
         "en": "Visit the Manifest market hub",
-        "ko": ""
+        "ko": "매니페스트 무역 허브 방문하기"
     },
     "1060625": {
         "en": "The Hub of Exordium",
-        "ko": ""
+        "ko": "엑조디엄의 중심지"
     },
     "1060626": {
         "en": "Dock at a Station",
-        "ko": ""
+        "ko": "정거장에 도킹"
     },
     "1060627": {
         "en": "Dock at a station or structure",
-        "ko": ""
+        "ko": "정거장 또는 구조물에 도킹"
     },
     "1060628": {
         "en": "stations docked",
-        "ko": ""
+        "ko": "도킹한 정거장"
     },
     "1060631": {
         "en": "This can be consumed when updating your portrait if it is in an accessible inventory location.",
