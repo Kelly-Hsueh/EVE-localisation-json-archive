@@ -44597,7 +44597,7 @@
     },
     "67191": {
         "en": "{[location]system.name} Traffic Control: you have been cleared for jump-in within {[timeinterval]expiration.writtenForm, from=second, to=second}.",
-        "ru": " Поступило сообщение от службы управления полетами системы {[location]system.name}: вам выдано разрешение на использование ворот (срок действия разрешения — {[timeinterval]expiration.writtenForm, from=second, to=second})."
+        "ru": "Поступило сообщение от службы управления полетами системы {[location]system.name}: вам выдано разрешение на использование ворот (срок действия разрешения — {[timeinterval]expiration.writtenForm, from=second, to=second})."
     },
     "67192": {
         "en": "<center>\r\n<h2>EVE Online</h2>\r\n<br>\r\n<p>Version: {version}.{[numeric]build} </p>\r\n<p>EVE is a product of Fenris Creations ehf.</p>\r\n<p>Copyright © Fenris Creations 1997-2026. All rights reserved.</p>\r\n<p>Please visit our homepage http://www.fenris.com/ for more information.</p>\r\n<p>For support, check out http://support.eveonline.com/</p>\r\n<h2>Credits</h2>\r\n<br>\r\n<p>Special thanks to all the people involved in the production of EVE, but first and foremost to the Fenris Creations staff members and their families.</p>\r\n    {EVECredits}\r\n    <br>\r\n    <br>\r\n    {VanguardCredits}\r\n    <br>\r\n    <br>\r\n    {CCPCredits}\r\n<p>\r\n<p><br>\r\n   <h3>This product includes the following software:</h3>\r\n<hr>\r\n<p>\r\n    Uses software that is based in part on the work of the Independent JPEG Group.<br>\r\n    Uses software that is based in part of the work of the PNG Development Group.<br>\r\n    Uses Zlib, general purpose data compression library, written by Jean-loup Gailly and Mark Adler.<br>\r\n    Uses ChartDirector by Advanced Software Engineering.<br>\r\n    Uses Wwise. Copyright © 2006-2009 Audiokinetic Inc. All rights reserved.<br>\r\n    Uses Granny Animation. Copyright © 1999-2008 by RAD Game Tools, Inc.<br>\r\n    Uses Simplygon® Copyright © 2009 Donya® Labs AB.<br>\r\n    Portions of this software are copyright © 2001-2008 Python Software Foundation, all rights reserved.<br>\r\n    Portions of this software are copyright © 2008 The FreeType Project, all rights reserved.<br>\r\n    This product includes software that is based in part of the work of the Xiph.Org Foundation. © 2005, Xiph.Org Foundation<br>\r\n    MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson.<br>\r\n    This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.<br>\r\n</p>",
@@ -319908,24 +319908,24 @@
         "ru": " Два дня назад секретный спецотряд Gallente проник на близлежащую ледовую планету и уничтожил там новенький командный центр. Мы думаем, что они сумели проникнуть туда, выдавая себя за гражданских наемных рабочих, отчасти благодаря тому, что системы идентификации персонала на тот момент еще не были подключены. Этот непростительный промах в работе службы безопасности позволил отряду из четырех человек проникнуть в крайне секретный участок, где находится управление противогармоническими стабилизаторами, которые, попросту говоря, позволяют удерживать комплекс в равновесии и безопасности, несмотря на чрезвычайно суровые условия планеты. Расположенные в стратегических точках заряды взрывчатки повредили стабилизаторы. Они вышли из строя, и весь командный центр провалился сквозь лед на океаническое дно, на глубину около двух километров. К счастью, основная масса рабочих должна была прибыть только через две недели, так что обошлось без особых жертв. Но финасовые и экономические потери просто чудовищны.  <br><br>\nТеперь вы понимаете всю серьезность этой ситуации. Мы позвали вас, поскольку мы рассчитываем на вашу помощь в этот критический для компании момент, грозящий нанести удар нашей фазе быстрой экспансии. Нам нужно, чтобы вы взялись как можно скорее перевезти отряд наших лучших десантников, специально обученных для работы в полярных условиях, с этой станции к указанному месту назначения. Оттуда их переправят на ледовую планету для обеспечения жесткого режима безопасности на всех командных центрах и комплексах. Этот печальный инцидент не удастся долго хранить в тайне, и нам нужно доказать высшему звену руководства, держателям акций и инвесторам, что мы полностью держим ситуацию со службой безопасности под контролем.  <br><br>\nНу как, {[character]player.name}, согласны ли вы нам помочь с доставкой полярных десантников на станцию, которую мы вам укажем?"
     },
     "144012": {
-        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point. ",
-        "ru": " Дочь высокопоставленного промышленника Caldari была похищена сегодня утром группой рабовладельцев из места, где она проводила каникулы. В обмен на ее жизнь они требуют доставить им крупную партию нашего самого редкого и самого дорогого металла, квантрия. На организацию спасательной операции нет времени, и у нас только один выход: немедленно доставить им выкуп.  Мы разберемся с этими преступниками после того, как получим нашу дочь обратно. Время важнее всего, и наша первоочередная задача — доставить груз на перевалочную станцию, откуда его перевезут в место встречи. "
+        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point.",
+        "ru": "Дочь высокопоставленного промышленника Caldari была похищена сегодня утром группой рабовладельцев из места, где она проводила каникулы. В обмен на ее жизнь они требуют доставить им крупную партию нашего самого редкого и самого дорогого металла, квантрия. На организацию спасательной операции нет времени, и у нас только один выход: немедленно доставить им выкуп.  Мы разберемся с этими преступниками после того, как получим нашу дочь обратно. Время важнее всего, и наша первоочередная задача — доставить груз на перевалочную станцию, откуда его перевезут в место встречи."
     },
     "144013": {
-        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there. ",
-        "ru": " Время поджимает, так что я буду краток.  Я Дочь одного из наиболее видных промышленников Caldari, генерального директора крупной корпорации по переработке металлолома, была похищена, пока она проводила каникулы со своими школьными подругами. Во время похищения она находилась в системе с низким уровнем безопасности, известной своими гедонистическими ночными клубами и в которой ей вообще-то быть не полагалось. По-видимому, девочки наврали про место, где они собирались проводить каникулы: все они назвали своим родителям другую систему в безопасном пространстве. Сегодня ранним утром мы получили отчаянный звонок от главы службы безопасности. Он рассказал, что по словам ее подруг, когда они все вышли на улицу после вечера, проведенного в баре, какие-то люди угрожающего вида схватили ее и бросили в стоящую возле выхода машину. <br><br>\nМы надеялись, что быть может, это был розыгрыш или недоразумение, что возможно, подруги что-то не так увидели или перепутали, но все наши страхи только подтвердились. С нами окольным путем связалась печально известная группа работорговцев. В качестве доказательства они передали нам последовательность ДНК нашей дочери.  Анализ последовательности неопровержимо доказал, что наша дочь у них в руках. <br><br>\nПохитители дали нам очень короткий срок для освобождения на их условиях. Они пригрозили, что по истечении этого срока они продадут ее в рабство, и я даже представить себе не хочу, что это означает. Как я и ожидал, в обмен на ее жизнь они требуют огромный выкуп. В частности, они требуют весь наш запас самого редкого и самого дорогого металла, квантрия. Он содержится только в проводке модулей РЭБ боевых разведывательных кораблей Caldari класса Rook. <br><br>\nОт вас мне нужно, чтобы вы срочно перевезли этот квантрий на указанную станцию, откуда его переправят на место встречи с работорговцами. Оттуда мы повезем его сами. "
+        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there.",
+        "ru": "Время поджимает, так что я буду краток.  Я Дочь одного из наиболее видных промышленников Caldari, генерального директора крупной корпорации по переработке металлолома, была похищена, пока она проводила каникулы со своими школьными подругами. Во время похищения она находилась в системе с низким уровнем безопасности, известной своими гедонистическими ночными клубами и в которой ей вообще-то быть не полагалось. По-видимому, девочки наврали про место, где они собирались проводить каникулы: все они назвали своим родителям другую систему в безопасном пространстве. Сегодня ранним утром мы получили отчаянный звонок от главы службы безопасности. Он рассказал, что по словам ее подруг, когда они все вышли на улицу после вечера, проведенного в баре, какие-то люди угрожающего вида схватили ее и бросили в стоящую возле выхода машину. <br><br>\nМы надеялись, что быть может, это был розыгрыш или недоразумение, что возможно, подруги что-то не так увидели или перепутали, но все наши страхи только подтвердились. С нами окольным путем связалась печально известная группа работорговцев. В качестве доказательства они передали нам последовательность ДНК нашей дочери.  Анализ последовательности неопровержимо доказал, что наша дочь у них в руках. <br><br>\nПохитители дали нам очень короткий срок для освобождения на их условиях. Они пригрозили, что по истечении этого срока они продадут ее в рабство, и я даже представить себе не хочу, что это означает. Как я и ожидал, в обмен на ее жизнь они требуют огромный выкуп. В частности, они требуют весь наш запас самого редкого и самого дорогого металла, квантрия. Он содержится только в проводке модулей РЭБ боевых разведывательных кораблей Caldari класса Rook. <br><br>\nОт вас мне нужно, чтобы вы срочно перевезли этот квантрий на указанную станцию, откуда его переправят на место встречи с работорговцами. Оттуда мы повезем его сами."
     },
     "144014": {
         "en": "Please, pilot, do make haste. The quantrium must be delivered as soon as possible. If we are even one minute late to the rendezvous, the slavers will assume we have involved the authorities, and we will never see the young girl again.",
-        "ru": "Пожалуйста, поспешите. Нужно доставить квантрий как можно скорее. Если мы опоздаем на встречу хотя бы на минуту, работорговцы заподозрят, что мы связались с властями, и мы никогда больше не увидим нашу дочурку. "
+        "ru": "Пожалуйста, поспешите. Нужно доставить квантрий как можно скорее. Если мы опоздаем на встречу хотя бы на минуту, работорговцы заподозрят, что мы связались с властями, и мы никогда больше не увидим нашу дочурку."
     },
     "144015": {
         "en": "The kidnappers have been listening to our comms, and have heard that you have chosen to quit. They have let us know that we will not see the executive's daughter again. I hope your reasons for quitting are worth the life of an innocent young girl.",
-        "ru": "Похитители подслушивали наш канал связи и узнали, что вы бросили задание на полпути. Они дали нам знать, что мы уже никогда не увидим девочку. Надеюсь, причины, по которым вы бросили задание, стоят жизни невинной маленькой девочки. "
+        "ru": "Похитители подслушивали наш канал связи и узнали, что вы бросили задание на полпути. Они дали нам знать, что мы уже никогда не увидим девочку. Надеюсь, причины, по которым вы бросили задание, стоят жизни невинной маленькой девочки."
     },
     "144016": {
-        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life! ",
-        "ru": " Мы на вас рассчитывали. Вы были нашей единственной надеждой на возвращение дочери директора. Надеюсь, воспоминания о вашей позорной трусости будут преследовать вас весь остаток жизни."
+        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life!",
+        "ru": "Мы на вас рассчитывали. Вы были нашей единственной надеждой на возвращение дочери директора. Надеюсь, воспоминания о вашей позорной трусости будут преследовать вас весь остаток жизни."
     },
     "144017": {
         "en": "We just got word from the hotel security staff – the executive's daughter was returned to them safe and sound, as the kidnappers promised!  We owe you a debt I hope we can repay one day! We will not forget you!",
@@ -321104,24 +321104,24 @@
         "ru": " Да-да, мы в общем-то были уверены, что это вполне рядовое задание, и мы рады, что оказались правы. Удачи в космосе, пилот."
     },
     "144311": {
-        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point. ",
-        "ru": " Дочь высокопоставленного промышленника Caldari была похищена сегодня утром группой рабовладельцев из места, где она проводила каникулы. В обмен на ее жизнь они требуют доставить им крупную партию нашего самого редкого и самого дорогого металла, квантрия. На организацию спасательной операции нет времени, и у нас только один выход: немедленно доставить им выкуп.  Мы разберемся с этими преступниками после того, как получим нашу дочь обратно. Время важнее всего, и наша первоочередная задача — доставить груз на перевалочную станцию, откуда его перевезут в место встречи. "
+        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point.",
+        "ru": "Дочь высокопоставленного промышленника Caldari была похищена сегодня утром группой рабовладельцев из места, где она проводила каникулы. В обмен на ее жизнь они требуют доставить им крупную партию нашего самого редкого и самого дорогого металла, квантрия. На организацию спасательной операции нет времени, и у нас только один выход: немедленно доставить им выкуп.  Мы разберемся с этими преступниками после того, как получим нашу дочь обратно. Время важнее всего, и наша первоочередная задача — доставить груз на перевалочную станцию, откуда его перевезут в место встречи."
     },
     "144312": {
-        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there. ",
-        "ru": " Время поджимает, так что я буду краток.  Я Дочь одного из наиболее видных промышленников Caldari, генерального директора крупной корпорации по переработке металлолома, была похищена, пока она проводила каникулы со своими школьными подругами. Во время похищения она находилась в системе с низким уровнем безопасности, известной своими гедонистическими ночными клубами и в которой ей вообще-то быть не полагалось. По-видимому, девочки наврали про место, где они собирались проводить каникулы: все они назвали своим родителям другую систему в безопасном пространстве. Сегодня ранним утром мы получили отчаянный звонок от главы службы безопасности. Он рассказал, что по словам ее подруг, когда они все вышли на улицу после вечера, проведенного в баре, какие-то люди угрожающего вида схватили ее и бросили в стоящую возле выхода машину. <br><br>\nМы надеялись, что быть может, это был розыгрыш или недоразумение, что возможно, подруги что-то не так увидели или перепутали, но все наши страхи только подтвердились. С нами окольным путем связалась печально известная группа работорговцев. В качестве доказательства они передали нам последовательность ДНК нашей дочери.  Анализ последовательности неопровержимо доказал, что наша дочь у них в руках. <br><br>\nПохитители дали нам очень короткий срок для освобождения на их условиях. Они пригрозили, что по истечении этого срока они продадут ее в рабство, и я даже представить себе не хочу, что это означает. Как я и ожидал, в обмен на ее жизнь они требуют огромный выкуп. В частности, они требуют весь наш запас самого редкого и самого дорогого металла, квантрия. Он содержится только в проводке модулей РЭБ боевых разведывательных кораблей Caldari класса Rook. <br><br>\nОт вас мне нужно, чтобы вы срочно перевезли этот квантрий на указанную станцию, откуда его переправят на место встречи с работорговцами. Оттуда мы повезем его сами. "
+        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there.",
+        "ru": "Время поджимает, так что я буду краток.  Я Дочь одного из наиболее видных промышленников Caldari, генерального директора крупной корпорации по переработке металлолома, была похищена, пока она проводила каникулы со своими школьными подругами. Во время похищения она находилась в системе с низким уровнем безопасности, известной своими гедонистическими ночными клубами и в которой ей вообще-то быть не полагалось. По-видимому, девочки наврали про место, где они собирались проводить каникулы: все они назвали своим родителям другую систему в безопасном пространстве. Сегодня ранним утром мы получили отчаянный звонок от главы службы безопасности. Он рассказал, что по словам ее подруг, когда они все вышли на улицу после вечера, проведенного в баре, какие-то люди угрожающего вида схватили ее и бросили в стоящую возле выхода машину. <br><br>\nМы надеялись, что быть может, это был розыгрыш или недоразумение, что возможно, подруги что-то не так увидели или перепутали, но все наши страхи только подтвердились. С нами окольным путем связалась печально известная группа работорговцев. В качестве доказательства они передали нам последовательность ДНК нашей дочери.  Анализ последовательности неопровержимо доказал, что наша дочь у них в руках. <br><br>\nПохитители дали нам очень короткий срок для освобождения на их условиях. Они пригрозили, что по истечении этого срока они продадут ее в рабство, и я даже представить себе не хочу, что это означает. Как я и ожидал, в обмен на ее жизнь они требуют огромный выкуп. В частности, они требуют весь наш запас самого редкого и самого дорогого металла, квантрия. Он содержится только в проводке модулей РЭБ боевых разведывательных кораблей Caldari класса Rook. <br><br>\nОт вас мне нужно, чтобы вы срочно перевезли этот квантрий на указанную станцию, откуда его переправят на место встречи с работорговцами. Оттуда мы повезем его сами."
     },
     "144313": {
         "en": "Please, pilot, do make haste. The quantrium must be delivered as soon as possible. If we are even one minute late to the rendezvous, the slavers will assume we have involved the authorities, and we will never see the young girl again.",
-        "ru": "Пожалуйста, поспешите. Нужно доставить квантрий как можно скорее. Если мы опоздаем на встречу хотя бы на минуту, работорговцы заподозрят, что мы связались с властями, и мы никогда больше не увидим нашу дочурку. "
+        "ru": "Пожалуйста, поспешите. Нужно доставить квантрий как можно скорее. Если мы опоздаем на встречу хотя бы на минуту, работорговцы заподозрят, что мы связались с властями, и мы никогда больше не увидим нашу дочурку."
     },
     "144314": {
         "en": "The kidnappers have been listening to our comms, and have heard that you have chosen to quit. They have let us know that we will not see the executive's daughter again. I hope your reasons for quitting are worth the life of an innocent young girl.",
-        "ru": "Похитители подслушивали наш канал связи и узнали, что вы бросили задание на полпути. Они дали нам знать, что мы уже никогда не увидим девочку. Надеюсь, причины, по которым вы бросили задание, стоят жизни невинной маленькой девочки. "
+        "ru": "Похитители подслушивали наш канал связи и узнали, что вы бросили задание на полпути. Они дали нам знать, что мы уже никогда не увидим девочку. Надеюсь, причины, по которым вы бросили задание, стоят жизни невинной маленькой девочки."
     },
     "144315": {
-        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life! ",
-        "ru": " Мы на вас рассчитывали. Вы были нашей единственной надеждой на возвращение дочери директора. Надеюсь, воспоминания о вашей позорной трусости будут преследовать вас весь остаток жизни."
+        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life!",
+        "ru": "Мы на вас рассчитывали. Вы были нашей единственной надеждой на возвращение дочери директора. Надеюсь, воспоминания о вашей позорной трусости будут преследовать вас весь остаток жизни."
     },
     "144316": {
         "en": "We just got word from the hotel security staff – the executive's daughter was returned to them safe and sound, as the kidnappers promised!  We owe you a debt I hope we can repay one day! We will not forget you!",
@@ -321648,12 +321648,12 @@
         "ru": "В свете последних политических событий на мировой арене мы наращиваем темпы выпуска продукции, необходимой для увеличения нашей военной мощи. Чем больше объемы производства, тем больше нам нужно минералов. Я хочу, чтобы вы доставили на один из наших производственных объектов партию {[item]objectiveTypeID.quantityName, quantity=objectiveQuantity}. Вне всякого сомнения, ваша помощь будет по достоинству оценена другими представителями корпорации."
     },
     "144462": {
-        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure. ",
-        "ru": "Спасибо, что согласились нам помочь. Квантрий будет доставлен к вам на склад. Вам уже дано разрешение на внеочередной выход из дока. "
+        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure.",
+        "ru": "Спасибо, что согласились нам помочь. Квантрий будет доставлен к вам на склад. Вам уже дано разрешение на внеочередной выход из дока."
     },
     "144463": {
-        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure. ",
-        "ru": "Спасибо, что согласились нам помочь. Квантрий будет доставлен к вам на склад. Вам уже дано разрешение на внеочередной выход из дока. "
+        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure.",
+        "ru": "Спасибо, что согласились нам помочь. Квантрий будет доставлен к вам на склад. Вам уже дано разрешение на внеочередной выход из дока."
     },
     "144464": {
         "en": "Ah, {[character]player.name}! It <i>is</i> good to see there are freelancers who still maintain some loyalty to the Federation. It pleases me greatly that capsuleers like yourself still prove willing to help us out at need. Anyway, if you are looking for something to do, I know a little job that might just mix profit with pleasure.<br><br>The Serpentis are setting up a little shop in this area where they are training their fighters, intending to bring them into the tournament. Now, we aren't afraid of a little competition, but these fighters aren't <i>all-natural,</i> if you know what I mean. We're going to need them kidnapped and brought back here. Chances are you're going to find the substance the Serps have been feeding their fighters as well, and I know some people who are very interested to see it recovered. Purely for research, of course. I wouldn't dream of touching the stuff myself.... <br><br>OK, OK, so maybe years ago when I was younger I might have tried some, but everyone experiments a little. No harm in that. Right? Just don't let me find out that you've kept a little for yourself. I need ... I mean, I want it all. To give to our researchers, of course. Ahem. Yes. <br><br>So, well, before you go ... listen, I would appreciate it if you could keep this matter to yourself. I'm sure you'll agree that not everybody needs to know about this, hm?",
@@ -836801,7 +836801,7 @@
     },
     "500746": {
         "en": "Navigation Support",
-        "ru": "Основы эксплуатации штатных бортовых двигателей "
+        "ru": "Основы эксплуатации штатных бортовых двигателей"
     },
     "500747": {
         "en": "This certificate represents a level of competence with ship propulsion. It is mainly used to minimize travel time on vessels without module slots. This is a good skillset for capsuleers looking to maximize general navigation performance.",
@@ -882620,8 +882620,8 @@
         "ru": "Этот стационар-тюнинг-модуль второй техкатегории позволяет повысить эффективность работы систем переработки льда в целях увеличения их производительности на сооружениях, созданных по проектам консорциума «Апвелл».\n\n\n\nСТАЦИОНАР — это проприетарная система: её название представляет собой акроним центрального компонента системы. Стационарный автономный центральный инженерно-организующий наносборщик «Апвелл» содержит интегрированный шаблон программного обеспечения, линию наносборщиков и достаточное количество наномассы для сборки различных модулей технического обслуживания, модулей и тюнинг-модулей для сооружений, которые устанавливаются в подходящие разъёмы на сооружениях, сконструированных по проектам консорциума «Апвелл».\n\n\n\nВнимание: одновременно сооружение можно оснастить только одним модификатором этого типа, независимо от вариаций техкатегории."
     },
     "515988": {
-        "en": "Items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} are being moved by the asset safety system. This will take {[timeinterval]assetSafetyDuration.writtenForm, from=day, to=hour} and cost {iskValue}, after which they will become available at {[location]newStructureID.name, linkinfo=newStructureShowInfoData}. ",
-        "ru": "Активы, находившиеся по адресу {[location]structureID.name, linkinfo=structureShowInfoData} в планетной системе {[location]solarsystemID.name, linkify} подлежат доставке системой безопасности активов. Этот процесс будет стоить {iskValue} и займёт {[timeinterval]assetSafetyDuration.writtenForm, from=day, to=hour}; после истечения этого срока они будут размещены по адресу {[location]newStructureID.name, linkinfo=newStructureShowInfoData}. "
+        "en": "Items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} are being moved by the asset safety system. This will take {[timeinterval]assetSafetyDuration.writtenForm, from=day, to=hour} and cost {iskValue}, after which they will become available at {[location]newStructureID.name, linkinfo=newStructureShowInfoData}.",
+        "ru": "Активы, находившиеся по адресу {[location]structureID.name, linkinfo=structureShowInfoData} в планетной системе {[location]solarsystemID.name, linkify} подлежат доставке системой безопасности активов. Этот процесс будет стоить {iskValue} и займёт {[timeinterval]assetSafetyDuration.writtenForm, from=day, to=hour}; после истечения этого срока они будут размещены по адресу {[location]newStructureID.name, linkinfo=newStructureShowInfoData}."
     },
     "515989": {
         "en": "Cannot activate the {[item]fighterTypeID.name} {[messageid]abilityNameID} ability as it is restricted by your current safety settings.",
@@ -925616,8 +925616,8 @@
         "ru": "basic_weather"
     },
     "532663": {
-        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be <b>{weekday} at {reinforcementHour} (up to +/- 3 hours)</b>.<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged. ",
-        "ru": "Изменено время укрепления для следующих сооружений:<br>{listOfStructureLinks}<br><br>Новое время укрепления: <b>{weekday} в {reinforcementHour} (до +/- 3 часов)</b>.<br>Новое время укрепления вступит в силу {[datetime]timestamp, date=short, time=short} или в ближайший подходящий момент после этого, когда сооружение не будет повреждено. "
+        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be <b>{weekday} at {reinforcementHour} (up to +/- 3 hours)</b>.<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged.",
+        "ru": "Изменено время укрепления для следующих сооружений:<br>{listOfStructureLinks}<br><br>Новое время укрепления: <b>{weekday} в {reinforcementHour} (до +/- 3 часов)</b>.<br>Новое время укрепления вступит в силу {[datetime]timestamp, date=short, time=short} или в ближайший подходящий момент после этого, когда сооружение не будет повреждено."
     },
     "532664": {
         "en": "Reinforcement times changed for {[numeric]numStructures} {[numeric]numStructures -> \"structure\", \"structures\"}",
@@ -949796,8 +949796,8 @@
         "ru": "Сооружение {[location]structureID.name, linkinfo=structureShowInfoData} включено в системе {[location]solarsystemID.name, linkify}, и его служебный модуль можно запустить."
     },
     "543570": {
-        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be at {reinforcementHour} (up to +/- 3 hours).<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged. ",
-        "ru": "Изменено время укрепления для следующих сооружений:<br>{listOfStructureLinks}<br><br>Новое время укрепления: {reinforcementHour} (до +/- 3 часов).<br>Новое время укрепления вступит в силу {[datetime]timestamp, date=short, time=short} или в ближайший подходящий момент после этого, когда сооружение не будет повреждено. "
+        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be at {reinforcementHour} (up to +/- 3 hours).<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged.",
+        "ru": "Изменено время укрепления для следующих сооружений:<br>{listOfStructureLinks}<br><br>Новое время укрепления: {reinforcementHour} (до +/- 3 часов).<br>Новое время укрепления вступит в силу {[datetime]timestamp, date=short, time=short} или в ближайший подходящий момент после этого, когда сооружение не будет повреждено."
     },
     "543572": {
         "en": "{[location]structureID.name, linkinfo=structureShowInfoData} belonging to {ownerCorpName, linkinfo=ownerCorpLinkData} is being removed in {[location]solarsystemID.name, linkify} for the next {[timeinterval]timeLeft.writtenForm, from=day, to=minute}, during which it will still be vulnerable to attack.",
@@ -1015988,8 +1015988,8 @@
         "ru": "Campaign Trail Turba Waypoint"
     },
     "575636": {
-        "en": "This tower marks a waypoint in the Gallente Election YC128 Campaign Trail.\r\n",
-        "ru": "Эта башня — контрольная точка в галлентской предвыборной гонке 128 г. от ю. с.\r\n"
+        "en": "This tower marks a waypoint in the Gallente Election YC128 Campaign Trail.",
+        "ru": "Эта башня — контрольная точка в галлентской предвыборной гонке 128 г. от ю. с."
     },
     "575641": {
         "en": "This filament allows a fleet containing a single capsuleer to enter an Abyssal Proving Ground for a fight to the death against one other capsuleer.\r\nThe ships allowed to enter this proving ground event are the <b>Malediction, Crow, Ares, Stiletto, Crusader, Raptor, Taranis, and Claw.</b>\r\n<b>All ships within this proving ground will receive a bonus that doubles their maximum velocity.</b>\r\n\r\nPilots equipped with modules or implants with a meta level higher than <b>5</b> will not be able to enter this proving ground.\r\n\r\nThe proving ground event accessed through this filament will be accessible from March 12th to 16th, YC123",
@@ -1101880,7 +1101880,7 @@
         "ru": "Прямое зачисление, новые межзвёздные кораблепускатели, событие «Теневая война» и эмблемы"
     },
     "648488": {
-        "en": "Join Factional Warfare without leaving your corp or alliance with Direct Enlistment ",
+        "en": "Join Factional Warfare without leaving your corp or alliance with Direct Enlistment",
         "ru": "Участвуйте в межгосударственных войнах, не покидая корпорации или альянса, посредством прямого зачисления на службу"
     },
     "648489": {
@@ -1106160,8 +1106160,8 @@
         "ru": "Эта лицензия на использование нанопокрытия приобретена для {[numeric]numStructures} {[numeric]numStructures-> \"сооружения\", \"сооруж.\"} корпорации."
     },
     "660010": {
-        "en": "Nanocoating Induction License has been purchased by {characterName, linkinfo=characterLinkData} for {[numeric]numStructures} corporation {[numeric]numStructures-> \"structure\", \"structures\"}, at a cost of {[numeric]lpAmount, useGrouping, decimalPlaces=0} EverMarks from the corporation LP wallet.\r\n<br>\r\nThe license is activated at {[datetime]issuedAt, date=medium, time=short} and is valid for {[timeinterval]duration.writtenForm, from=day, to=hour} from the date of purchase.\r\n",
-        "ru": "{characterName, linkinfo=characterLinkData} приобретает лицензию на использование нанопокрытия для {[numeric]numStructures} {[numeric]numStructures-> \"сооружения\", \"сооруж.\"} корпорации, сняв {[numeric]lpAmount, useGrouping, decimalPlaces=0} EverMarks с корпоративного счёта НБ. <br> Лицензия активируется {[datetime]issuedAt, date=medium, time=short} и будет действовать в течение {[timeinterval]duration.writtenForm, from=day, to=hour} со дня покупки.\r\n"
+        "en": "Nanocoating Induction License has been purchased by {characterName, linkinfo=characterLinkData} for {[numeric]numStructures} corporation {[numeric]numStructures-> \"structure\", \"structures\"}, at a cost of {[numeric]lpAmount, useGrouping, decimalPlaces=0} EverMarks from the corporation LP wallet.\r\n<br>\r\nThe license is activated at {[datetime]issuedAt, date=medium, time=short} and is valid for {[timeinterval]duration.writtenForm, from=day, to=hour} from the date of purchase.",
+        "ru": "{characterName, linkinfo=characterLinkData} приобретает лицензию на использование нанопокрытия для {[numeric]numStructures} {[numeric]numStructures-> \"сооружения\", \"сооруж.\"} корпорации, сняв {[numeric]lpAmount, useGrouping, decimalPlaces=0} EverMarks с корпоративного счёта НБ. <br> Лицензия активируется {[datetime]issuedAt, date=medium, time=short} и будет действовать в течение {[timeinterval]duration.writtenForm, from=day, to=hour} со дня покупки."
     },
     "660011": {
         "en": "License Status Unknown",
@@ -1109884,7 +1109884,7 @@
         "ru": "Legatus Bane вошёл в осадный режим, чтобы открыть стрельбу копьевидными лучами."
     },
     "663407": {
-        "en": "The Arbiter Karura has entered siege mode to carry out that lance attack. ",
+        "en": "The Arbiter Karura has entered siege mode to carry out that lance attack.",
         "ru": "Чтобы провести атаку копьелучевым орудием, Arbiter Karura вошёл в осадный режим."
     },
     "663408": {
@@ -1113796,8 +1113796,8 @@
         "ru": "Не пропустите ни одного боя с GalNet"
     },
     "666033": {
-        "en": "Tournament runs 12-13 and 19-20 Aug ",
-        "ru": "Турнир проходит 12–13 и 19–20 августа "
+        "en": "Tournament runs 12-13 and 19-20 Aug",
+        "ru": "Турнир проходит 12–13 и 19–20 августа"
     },
     "666034": {
         "en": "Watch New Eden’s capsuleer aces go head-to-head",
@@ -1116540,8 +1116540,8 @@
         "ru": "Ваш последний корабль был уничтожен в пылу сражения, но АМИ снабдит вас новым судном."
     },
     "669692": {
-        "en": "Your next adventure will hopefully prove less explosive. We have a lead on the attack on the cloning facility, and we want you to follow up on it. ",
-        "ru": "Надеюсь, ваше следующее приключение не будет таким «взрывным». У нас появилась зацепка в деле о нападении на центр клонирования, и мы хотим, чтобы вы её проверили. "
+        "en": "Your next adventure will hopefully prove less explosive. We have a lead on the attack on the cloning facility, and we want you to follow up on it.",
+        "ru": "Надеюсь, ваше следующее приключение не будет таким «взрывным». У нас появилась зацепка в деле о нападении на центр клонирования, и мы хотим, чтобы вы её проверили."
     },
     "669693": {
         "en": "We’ve debriefed the civilians you saved and have learned that moments before the attack they lost contact with one of our research facilities. \r\n\r\nThat facility is in orbit around this solar system’s sun. What do you say, up for a little reconnaissance?",
@@ -1116664,8 +1116664,8 @@
         "ru": "Это буровой модуль. Правда, в этом районе нет астероидов, так что непонятно, зачем он тут понадобился. Нужно забрать его и передать мисс Калитрикс."
     },
     "669819": {
-        "en": "Unusable in Zarzakh ",
-        "ru": "Нельзя использовать в Zarzakh "
+        "en": "Unusable in Zarzakh",
+        "ru": "Нельзя использовать в Zarzakh"
     },
     "669820": {
         "en": "This equipment cannot function within Zarzakh due to violent gravitational instabilities in the system.",
@@ -1117648,7 +1117648,7 @@
         "ru": "Выберите сторону в «Кровавой жатве»: уникальные горячие точки и районы взлома ждут вас."
     },
     "679072": {
-        "en": "Scavenge wrecked rivals for improved loot drops. ",
+        "en": "Scavenge wrecked rivals for improved loot drops.",
         "ru": "Обыскивайте обломки вражеских судов и получайте больше добычи."
     },
     "679073": {
@@ -1139528,7 +1139528,7 @@
         "ru": "ВЛАСТВУЙТЕ В ПРЕОБРАЖЁННЫХ «НУЛЯХ», СОЗДАВАЙТЕ ОКРАСКИ, РАЗВИВАЙТЕ КОРПОРАЦИЮ И ДОСТИГАЙТЕ БОЛЬШЕГО."
     },
     "722653": {
-        "en": "Seize control in nullsec with new resources, structures, ships, and encounters. ",
+        "en": "Seize control in nullsec with new resources, structures, ships, and encounters.",
         "ru": "Усильте влияние в «нулях»: вас ждут новые ресурсы, сооружения, корабли и события."
     },
     "722654": {
@@ -1139536,7 +1139536,7 @@
         "ru": "Раскройте свой творческий потенциал: проектируйте и производите окраски для кораблей."
     },
     "722655": {
-        "en": "Strengthen your corporation with new project types and earn more with enhanced AIR Daily Goals. ",
+        "en": "Strengthen your corporation with new project types and earn more with enhanced AIR Daily Goals.",
         "ru": "Развивайте свою корпорацию: стремитесь к большему с улучшенными целями АМИ и опробуйте новые виды проектов."
     },
     "722658": {
@@ -1140960,15 +1140960,15 @@
         "ru": "НАЙДИТЕ ИДЕАЛЬНУЮ ОКРАСКУ В НОВОМ ТОРГОВОМ ШТАБЕ «ПАРАГОНА» "
     },
     "723607": {
-        "en": "Discover and acquire a variety of unique ship SKINs sequenced by capsuleers. ",
+        "en": "Discover and acquire a variety of unique ship SKINs sequenced by capsuleers.",
         "ru": "Покупайте уникальные окраски для кораблей, созданные капсулёрами."
     },
     "723608": {
-        "en": "Leverage your artistic skills to build a design empire and earn an impressive income.   ",
-        "ru": "Пробудите свои творческие способности и станьте преуспевающим дизайнером.  "
+        "en": "Leverage your artistic skills to build a design empire and earn an impressive income.",
+        "ru": "Пробудите свои творческие способности и станьте преуспевающим дизайнером."
     },
     "723609": {
-        "en": "Keep checking the Paragon Hub to discover the latest SKINs available. ",
+        "en": "Keep checking the Paragon Hub to discover the latest SKINs available.",
         "ru": "Загляните в штаб «Парагона» и оцените новый ассортимент окрасок."
     },
     "723623": {
@@ -1143649,7 +1143649,7 @@
     },
     "725151": {
         "en": "You caught a fish! \r\n\r\nIt has been frozen for an indeterminable period of time and its structure warped by the abyssal environment in ways that are difficult to determine, so it has no nutritional or monetary value.",
-        "ru": "Вы поймали рыбу! Неизвестно, как долго она находится в замороженном состоянии, и Бездна изменила её до неузнаваемости. Есть её нельзя да и продать невозможно. "
+        "ru": "Вы поймали рыбу! Неизвестно, как долго она находится в замороженном состоянии, и Бездна изменила её до неузнаваемости. Есть её нельзя да и продать невозможно."
     },
     "725152": {
         "en": "Frozen Ryba",
@@ -1146096,8 +1146096,8 @@
         "ru": "Vigilance Spire Wreck"
     },
     "726706": {
-        "en": "Vigilance Spire Vulnerable: Attack ",
-        "ru": "Vigilance Spire уязвимо: атаковать "
+        "en": "Vigilance Spire Vulnerable: Attack",
+        "ru": "Vigilance Spire уязвимо: атаковать"
     },
     "726713": {
         "en": "Chosen duration:",
@@ -1152152,8 +1152152,8 @@
         "ru": "Президент Якуш Роден"
     },
     "731123": {
-        "en": "Unity is the Federation's greatest defense. ",
-        "ru": "Единство — лучшая защита Федерации. "
+        "en": "Unity is the Federation's greatest defense.",
+        "ru": "Единство — лучшая защита Федерации."
     },
     "731124": {
         "en": "Inner Zone shipping marketing, paraphrasing Old Man Darieux",
@@ -1152208,8 +1152208,8 @@
         "ru": "Апасет Орвеньор, директор Федеральной разведслужбы"
     },
     "731137": {
-        "en": "Sometimes justice is won in the shadows. ",
-        "ru": "Порой справедливость торжествует в тени. "
+        "en": "Sometimes justice is won in the shadows.",
+        "ru": "Порой справедливость торжествует в тени."
     },
     "731138": {
         "en": "Unknown Gallente soldier",
@@ -1154228,8 +1154228,8 @@
         "ru": "Калдарская пословица"
     },
     "869348": {
-        "en": "Loyalty is the cement that turns loose rock into an unassailable wall. ",
-        "ru": "Верность — это цемент, который превращает камни в неприступную стену. "
+        "en": "Loyalty is the cement that turns loose rock into an unassailable wall.",
+        "ru": "Верность — это цемент, который превращает камни в неприступную стену."
     },
     "869349": {
         "en": "Unknown Caldari pilot.",
@@ -1154412,8 +1154412,8 @@
         "ru": "Калдарская пословица"
     },
     "869394": {
-        "en": "Loyalty is the cement that turns loose rock into an unassailable wall. ",
-        "ru": "Верность — это цемент, который превращает камни в неприступную стену. "
+        "en": "Loyalty is the cement that turns loose rock into an unassailable wall.",
+        "ru": "Верность — это цемент, который превращает камни в неприступную стену."
     },
     "869395": {
         "en": "Unknown Caldari pilot",
@@ -1154588,8 +1154588,8 @@
         "ru": "Девиз раатских дуэлянтов"
     },
     "869445": {
-        "en": "Let those without honor stay their blade. ",
-        "ru": "Пусть лишённые чести сложат свои клинки. "
+        "en": "Let those without honor stay their blade.",
+        "ru": "Пусть лишённые чести сложат свои клинки."
     },
     "869446": {
         "en": "Excerpt from Mediations on the Way: Book of the Forest",
@@ -1154740,8 +1154740,8 @@
         "ru": "Девиз раатских дуэлянтов"
     },
     "869483": {
-        "en": "Let those without honor stay their blade. ",
-        "ru": "Пусть лишённые чести сложат свои клинки. "
+        "en": "Let those without honor stay their blade.",
+        "ru": "Пусть лишённые чести сложат свои клинки."
     },
     "869484": {
         "en": "Excerpt from Mediations on the Way: Book of the Forest",
@@ -1154924,8 +1154924,8 @@
         "ru": "Президент Атонен Осмон"
     },
     "869529": {
-        "en": "Our legacy is one of strength. ",
-        "ru": "Наша история — это история силы. "
+        "en": "Our legacy is one of strength.",
+        "ru": "Наша история — это история силы."
     },
     "869530": {
         "en": "Fleet Admiral Mininela Erinen",
@@ -1155036,8 +1155036,8 @@
         "ru": "Президент Атонен Осмон"
     },
     "869557": {
-        "en": "Our legacy is one of strength. ",
-        "ru": "Наша история — это история силы. "
+        "en": "Our legacy is one of strength.",
+        "ru": "Наша история — это история силы."
     },
     "869558": {
         "en": "Fleet Admiral Mininela Erinen",
@@ -1156636,8 +1156636,8 @@
         "ru": "Афоризм времён Минматарской Империи"
     },
     "870623": {
-        "en": "The road to our future is paved with innovation. ",
-        "ru": "Дорога в будущее вымощена открытиями. "
+        "en": "The road to our future is paved with innovation.",
+        "ru": "Дорога в будущее вымощена открытиями."
     },
     "870624": {
         "en": "Sebiestor Chief Acassa Midular",
@@ -1159584,8 +1159584,8 @@
         "ru": "Оминен Син"
     },
     "871994": {
-        "en": "Honor is a lie told by the feeble to convince the strong to give up. ",
-        "ru": "Честь придумали слабаки, чтобы убедить сильных сдаться. "
+        "en": "Honor is a lie told by the feeble to convince the strong to give up.",
+        "ru": "Честь придумали слабаки, чтобы убедить сильных сдаться."
     },
     "871995": {
         "en": "Jirai 'Fatal' Laitanen",
@@ -1159600,8 +1159600,8 @@
         "ru": "Кораку Косаками по прозвищу «Кролик»"
     },
     "871998": {
-        "en": "Get back up, go again. Don't stop until they break, or you do. ",
-        "ru": "Если вы упали, встаньте и бейтесь, пока вы не сломите врага… или он — вас. "
+        "en": "Get back up, go again. Don't stop until they break, or you do.",
+        "ru": "Если вы упали, встаньте и бейтесь, пока вы не сломите врага… или он — вас."
     },
     "871999": {
         "en": "Jirai 'Fatal' Laitanen",
@@ -1159624,8 +1159624,8 @@
         "ru": "Тральд Вукенда"
     },
     "872004": {
-        "en": "Faster than judgement, slicker than sin. ",
-        "ru": "Быстрее правосудия, коварнее греха. "
+        "en": "Faster than judgement, slicker than sin.",
+        "ru": "Быстрее правосудия, коварнее греха."
     },
     "872005": {
         "en": "Xavier Khun",
@@ -1159648,8 +1159648,8 @@
         "ru": "Автор неизвестен (запись проигрывалась игрушкой из дома жертвы)"
     },
     "872010": {
-        "en": "Ferocity is the fastest path to terror. ",
-        "ru": "Жестокость — кратчайший путь к террору. "
+        "en": "Ferocity is the fastest path to terror.",
+        "ru": "Жестокость — кратчайший путь к террору."
     },
     "872011": {
         "en": "Hakim Stormare",
@@ -1159740,8 +1159740,8 @@
         "ru": "Призы для победителя от президента В. Сальвадора Сарпати"
     },
     "872035": {
-        "en": "Visualize the result you want, then obstruct any other possible outcome. ",
-        "ru": "Представьте себе желаемый результат, а затем исключите любой другой исход. "
+        "en": "Visualize the result you want, then obstruct any other possible outcome.",
+        "ru": "Представьте себе желаемый результат, а затем исключите любой другой исход."
     },
     "872036": {
         "en": "To the Victor, the Spoils by CEO V. Salvador Sarpati",
@@ -1159756,8 +1159756,8 @@
         "ru": "Игиль Сарпати"
     },
     "872039": {
-        "en": "I will show them how the game is really played. ",
-        "ru": "Я покажу им, как нужно играть в эту игру. "
+        "en": "I will show them how the game is really played.",
+        "ru": "Я покажу им, как нужно играть в эту игру."
     },
     "872040": {
         "en": "CEO V. Salvador Sarpati",
@@ -1160564,12 +1160564,12 @@
         "ru": "До 7 января в Новом Эдеме проходят зимние испытания для капсулёров!"
     },
     "872381": {
-        "en": "Brave the Volatile Ice Storms and take on hacking, combat, or mining sites for amazing rewards. ",
-        "ru": "Ныряйте в ледяные бури и отправляйтесь в горячие точки, районы добычи и взлома за ценными трофеями. "
+        "en": "Brave the Volatile Ice Storms and take on hacking, combat, or mining sites for amazing rewards.",
+        "ru": "Ныряйте в ледяные бури и отправляйтесь в горячие точки, районы добычи и взлома за ценными трофеями."
     },
     "872382": {
-        "en": "Take flight every day to claim powerful presents and upgrade to Omega to unlock even more. ",
-        "ru": "Ежедневно заходите в игру за отличными подарками и получайте ещё больше призов с омега-статусом. "
+        "en": "Take flight every day to claim powerful presents and upgrade to Omega to unlock even more.",
+        "ru": "Ежедневно заходите в игру за отличными подарками и получайте ещё больше призов с омега-статусом."
     },
     "872383": {
         "en": "Secure up to 650,000 Skill Points, 26,500 EverMarks, stunning SKINs, design elements, and more!",
@@ -1161948,8 +1161948,8 @@
         "ru": "Предметы перемещены в окно «Выдача предметов».<br>*Когда вы забираете очки навыков, они <b>автоматически начисляются</b> вашему персонажу."
     },
     "896460": {
-        "en": " <b>Automatically applied</b> to character.",
-        "ru": " <b>Автоматически применяется</b> к персонажу."
+        "en": "<b>Automatically applied</b> to character.",
+        "ru": "<b>Автоматически применяется</b> к персонажу."
     },
     "896467": {
         "en": "Load From Clipboard",
@@ -1162212,7 +1162212,7 @@
         "ru": "Отправляйтесь в нестабильные ледяные бури за испытаниями и наградами, среди которых — до 100 плексов."
     },
     "1004939": {
-        "en": "Get up to 20% off Omega in the NES and 20% off PLEX plus free SKINs in the EVE store until 24. Dec! ",
+        "en": "Get up to 20% off Omega in the NES and 20% off PLEX plus free SKINs in the EVE store until 24. Dec!",
         "ru": "Сэкономьте до 20% на омега-статусе и до 20% на наборах с плексами и окрасками в магазине EVE Online до 24.12!"
     },
     "1004940": {
@@ -1163644,8 +1163644,8 @@
         "ru": "Время вышло, капитан! Скитальцы скорее взорвут свои коллекции, чем отдадут их нам. Передайте всю свою добычу Службе безопасности Республики, и мы выплатим вам достойное вознаграждение. В следующий раз удача будет на нашей стороне."
     },
     "1008386": {
-        "en": "Captain, the State successfully completed a strike against Drifter infrastructure despite significant losses. Now our service people need extraction. Additionally, the target Drifter structure shows signs of critical instability.\r\n\r\nSalvage the Battle Wreckage and retrieve any Military Stasis Pods before the structure explodes. ",
-        "ru": "Капитан, силы Государства провели успешную атаку на инфраструктуру Скитальцев, хотя и понесли большие потери. Теперь нужно эвакуировать наших работников. Кроме того, сооружение Скитальцев демонстрирует признаки критической нестабильности. Демонтируйте обломки на поле боя и достаньте армейские стазис-капсулы до того, как сооружение взорвётся. "
+        "en": "Captain, the State successfully completed a strike against Drifter infrastructure despite significant losses. Now our service people need extraction. Additionally, the target Drifter structure shows signs of critical instability.\r\n\r\nSalvage the Battle Wreckage and retrieve any Military Stasis Pods before the structure explodes.",
+        "ru": "Капитан, силы Государства провели успешную атаку на инфраструктуру Скитальцев, хотя и понесли большие потери. Теперь нужно эвакуировать наших работников. Кроме того, сооружение Скитальцев демонстрирует признаки критической нестабильности. Демонтируйте обломки на поле боя и достаньте армейские стазис-капсулы до того, как сооружение взорвётся."
     },
     "1008387": {
         "en": "The operation ahead has terminated, but the Drifter Crisis is fought on many fronts. I hope we can count on you.",
@@ -1164456,8 +1164456,8 @@
         "ru": "Выполняйте задания и попадите в район исхода, чтобы вывести систему из кризиса."
     },
     "1008675": {
-        "en": "Accessible for Tech I ships up to battlecruisers. ",
-        "ru": "Доступно для судов 1-го техноуровня вплоть до линейных крейсеров. "
+        "en": "Accessible for Tech I ships up to battlecruisers.",
+        "ru": "Доступно для судов 1-го техноуровня вплоть до линейных крейсеров."
     },
     "1008676": {
         "en": "Expand Your Horizons and Prosper",
@@ -1171188,12 +1171188,12 @@
         "ru": "Выполняйте задания, чтобы помочь вашей фракции выбиться в лидеры и заполучить w-систему Скитальцев."
     },
     "1011839": {
-        "en": "Contribute with combat, hacking, manufacturing, and fleet-based opportunities. ",
-        "ru": "Вас ждут бои, задачи по взлому и производству, а также операции в составе флота. "
+        "en": "Contribute with combat, hacking, manufacturing, and fleet-based opportunities.",
+        "ru": "Вас ждут бои, задачи по взлому и производству, а также операции в составе флота."
     },
     "1011840": {
-        "en": "Take on challenges and log in daily for rewards including PLEX, SKINs, design components & more. ",
-        "ru": "Участвуйте в испытаниях и получайте ежедневные подарки: плексы, окраски, декоративные элементы и пр. "
+        "en": "Take on challenges and log in daily for rewards including PLEX, SKINs, design components & more.",
+        "ru": "Участвуйте в испытаниях и получайте ежедневные подарки: плексы, окраски, декоративные элементы и пр."
     },
     "1011847": {
         "en": "Env_Triglavian_S3",
@@ -1178508,12 +1178508,12 @@
         "ru": "Гнев тиранов обрушился на Новый Эдем: Скитальцы начинают контрнаступление! "
     },
     "1014709": {
-        "en": "Labyrinth Complex and Nexus Point sites are now appearing in highsec and lowsec, respectively. ",
-        "ru": "Ищите районы комплекса-лабиринта и центрального узла в пространстве с высоким и низким уровнями безопасности соответственно. "
+        "en": "Labyrinth Complex and Nexus Point sites are now appearing in highsec and lowsec, respectively.",
+        "ru": "Ищите районы комплекса-лабиринта и центрального узла в пространстве с высоким и низким уровнями безопасности соответственно."
     },
     "1014710": {
-        "en": "Extra rewards are now available on the seasonal track. ",
-        "ru": "На сезонной шкале теперь доступны новые награды. "
+        "en": "Extra rewards are now available on the seasonal track.",
+        "ru": "На сезонной шкале теперь доступны новые награды."
     },
     "1014711": {
         "en": "This is your last chance to secure the Drifter wormhole systems for the five occupying factions.",
@@ -1181996,8 +1181996,8 @@
         "ru": "Заклятый враг авангарда"
     },
     "1017998": {
-        "en": "Join the fight in space or on the ground!\r\n\r\nVanguard have been deployed to uncover Upwell secrets so that capsuleers can ambush Unlisted Squall convoys. The Sealed Projects Crates retrieved from those convoys can be traded at Deathless Wraith Traders to unlock rewards. ",
-        "ru": "Участвуйте в битвах на земле и в космосе! Бойцам авангарда поручено раскрыть секретные данные «Апвелл», которые позволят капсулёрам выслеживать незарегистрированные конвои Squall. Опломбированные контейнеры проектов, украденные у таких конвоев, можно продавать торговцам «Бессмертных призраков», чтобы получить доступ к различным наградам. "
+        "en": "Join the fight in space or on the ground!\r\n\r\nVanguard have been deployed to uncover Upwell secrets so that capsuleers can ambush Unlisted Squall convoys. The Sealed Projects Crates retrieved from those convoys can be traded at Deathless Wraith Traders to unlock rewards.",
+        "ru": "Участвуйте в битвах на земле и в космосе! Бойцам авангарда поручено раскрыть секретные данные «Апвелл», которые позволят капсулёрам выслеживать незарегистрированные конвои Squall. Опломбированные контейнеры проектов, украденные у таких конвоев, можно продавать торговцам «Бессмертных призраков», чтобы получить доступ к различным наградам."
     },
     "1017999": {
         "en": "Vanguard Nemesis",
@@ -1184100,16 +1184100,16 @@
         "ru": "Важные изменения на основе отзывов капсулёров."
     },
     "1019047": {
-        "en": "Ships and modules rebalanced, cracking open the meta and rewarding bold strategies. ",
-        "ru": "Изменения баланса судов и модулей открывают пространство для новых тактик. "
+        "en": "Ships and modules rebalanced, cracking open the meta and rewarding bold strategies.",
+        "ru": "Изменения баланса судов и модулей открывают пространство для новых тактик."
     },
     "1019048": {
-        "en": "New freelance jobs, including “destroy capsuleer”. ",
-        "ru": "Новые внешние заказы, в том числе «Уничтожение корабля капсулёра». "
+        "en": "New freelance jobs, including “destroy capsuleer”.",
+        "ru": "Новые внешние заказы, в том числе «Уничтожение корабля капсулёра»."
     },
     "1019049": {
-        "en": "Wormholes and Pochven exploration enhanced. ",
-        "ru": "Новые червоточины и исследовательские возможности в Почвени. "
+        "en": "Wormholes and Pochven exploration enhanced.",
+        "ru": "Новые червоточины и исследовательские возможности в Почвени."
     },
     "1019056": {
         "en": "Erratic Ore Mining Crystal Type A I Blueprint",
@@ -1187460,8 +1187460,8 @@
         "ru": "Карта поделена на секторы. Выберите сектор <b>The Forge</b>, чтобы увидеть его границы."
     },
     "1022033": {
-        "en": "Each region contains groups of stars called constellations.\r\n\r\nSelect the <b>Kimotoro</b> constellation to zoom in on it.\r\n\r\n",
-        "ru": "В каждом секторе есть группы звёзд. Они называются созвездиями. Выберите созвездие <b>Kimotoro</b>, чтобы рассмотреть его.\r\n\r\n"
+        "en": "Each region contains groups of stars called constellations.\r\n\r\nSelect the <b>Kimotoro</b> constellation to zoom in on it.",
+        "ru": "В каждом секторе есть группы звёзд. Они называются созвездиями. Выберите созвездие <b>Kimotoro</b>, чтобы рассмотреть его."
     },
     "1022034": {
         "en": "Inside each constellation are the star systems themselves.\r\n\r\nSelect <b>Jita</b> - the busiest trade hub in New Eden.",
@@ -1187768,8 +1187768,8 @@
         "ru": "На звёздной карте отображается множество полезных сведений. В качестве примера выберите группу фильтров <b>«Услуги»</b>, а затем отыщите в ней фильтр <b>«Отсеки для клонов»</b>."
     },
     "1022112": {
-        "en": "The legend will help you interpret the data by explaining what each color or icon represents. \r\n\r\nHover over individual systems to see their precise data.\r\n",
-        "ru": "Изучите легенду карты, чтобы понять, что значит тот или иной цвет или значок. Наведите курсор на систему, чтобы посмотреть сведения о ней.\r\n"
+        "en": "The legend will help you interpret the data by explaining what each color or icon represents. \r\n\r\nHover over individual systems to see their precise data.",
+        "ru": "Изучите легенду карты, чтобы понять, что значит тот или иной цвет или значок. Наведите курсор на систему, чтобы посмотреть сведения о ней."
     },
     "1022176": {
         "en": "Rough Element",
@@ -1188084,8 +1188084,8 @@
         "ru": "Брат Жак Келуз"
     },
     "1022407": {
-        "en": "<b>3D mode</b> grants an immersive starfield view. \r\n\r\nSelect the button to toggle the view mode. ",
-        "ru": "<b>Трёхмерный вид</b> показывает космос во всей его красе. Пользуйтесь этой кнопкой, чтобы переключать режимы карты. "
+        "en": "<b>3D mode</b> grants an immersive starfield view. \r\n\r\nSelect the button to toggle the view mode.",
+        "ru": "<b>Трёхмерный вид</b> показывает космос во всей его красе. Пользуйтесь этой кнопкой, чтобы переключать режимы карты."
     },
     "1022408": {
         "en": "PLEX wallet currently unavailable. Please try again later.",
@@ -1188928,8 +1188928,8 @@
         "ru": "Мы здесь, чтобы узнать правду. Чем бы ОРЭ и «Апвелл» тут ни занимались, у вас есть долг перед Сарнаи. Почему вы так уверены, что ей не хотелось бы, чтобы мир обо всём узнал?"
     },
     "1022817": {
-        "en": "Because she died trying to bury it. It's dangerous information in the wrong hands.\r\n\r\nYou have to trust me. Honor her sacrifice, destroy that structure. ",
-        "ru": "Потому что она умерла, пытаясь избавиться от доказательств. Если эти данные попадут не в те руки, жди беды. Прошу, поверьте мне. Уничтожьте сооружение. Сарнаи желала бы этого. "
+        "en": "Because she died trying to bury it. It's dangerous information in the wrong hands.\r\n\r\nYou have to trust me. Honor her sacrifice, destroy that structure.",
+        "ru": "Потому что она умерла, пытаясь избавиться от доказательств. Если эти данные попадут не в те руки, жди беды. Прошу, поверьте мне. Уничтожьте сооружение. Сарнаи желала бы этого."
     },
     "1022818": {
         "en": "Automatically generated effect",
@@ -1198121,7 +1198121,7 @@
     },
     "1030869": {
         "en": "\"With a barely perceptible saw-like edge, miners lucky enough to notice III-Grade, or serrated, <a href=showinfo:82163>hezorime</a> will be rewarded for their diligence with an additional 10% yield of minerals.\r\n \r\nSerrated hezorime deposits may be found in null security space asteroid anomalies.\r\n \r\nThis material is compressed and a much more compact form of the original material.\"",
-        "ru": "«<a href=showinfo:82163>Гезорим</a> 3-го уровня, прозванный в народе зазубренным, имеет едва заметную кромку, напоминающую лезвие пилы. Бурильщики, которым удалось её разглядеть, — настоящие счастливчики, ведь из такого сырья можно извлечь на 10% больше полезных минералов. Скопления зазубренного гезорима встречаются в астероидных аномалиях внутри пространства с нулевым уровнем безопасности. Это сжатая и намного более компактная форма исходного материала».\r\n"
+        "ru": "«<a href=showinfo:82163>Гезорим</a> 3-го уровня, прозванный в народе зазубренным, имеет едва заметную кромку, напоминающую лезвие пилы. Бурильщики, которым удалось её разглядеть, — настоящие счастливчики, ведь из такого сырья можно извлечь на 10% больше полезных минералов. Скопления зазубренного гезорима встречаются в астероидных аномалиях внутри пространства с нулевым уровнем безопасности. Это сжатая и намного более компактная форма исходного материала»."
     },
     "1030870": {
         "en": "Compressed Hezorime IV-Grade",
@@ -1201249,11 +1201249,11 @@
     },
     "1032272": {
         "en": "Increased Cryo Tech drops from Yoiul LADs.",
-        "ru": "Повышен шанс выпадения криотехнологий с йольских ГАДов.  "
+        "ru": "Повышен шанс выпадения криотехнологий с йольских ГАДов."
     },
     "1032273": {
         "en": "More seasonal rewards added, including PLEX, Skill Points & more.",
-        "ru": "Добавлены новые зимние награды: плексы, очки навыков и не только.  "
+        "ru": "Добавлены новые зимние награды: плексы, очки навыков и не только."
     },
     "1032274": {
         "en": "Succubus has received a balance update.",
@@ -1201877,7 +1201877,7 @@
     },
     "1034167": {
         "en": "This Fabricator has deactivated due to a lack of threat detection.",
-        "ru": "Сборщик отключился, поскольку перестал видеть цель. "
+        "ru": "Сборщик отключился, поскольку перестал видеть цель."
     },
     "1034168": {
         "en": "That Fabricator has been destroyed. Loot it to recover the assets produced. \r\n\r\nThere is no shame in surviving, Captain. Perhaps next time, you will be able to go the distance.",
@@ -1202204,16 +1202204,16 @@
         "ru": "Эмблемы «Парагона» подчеркнут индивидуальность вашего корабля. Эти наноголографические проекции получат доступ к вашим личным данным и украсят ваш любимый корабль важными для вас символами. Благодаря новой облачной синхронизации ИИ эти эмблемы никуда не исчезнут даже во время варп-прыжка. Посетите ближайшего агента ИРИС и примите участие в последних мероприятиях «Парагона», чтобы открыть новые эмблемы уже сегодня. «Парагон». Вы достойны лучшего. ВНИМАНИЕ: после покупки эмблемы загружаются автоматически. Дарение и обмен невозможны. Корпорация «Парагон» не несёт ответственности за неудачные сделки."
     },
     "1034351": {
-        "en": "Corax Navy Issue Corporation Emblem ",
-        "ru": "Corax Navy Issue Corporation Emblem "
+        "en": "Corax Navy Issue Corporation Emblem",
+        "ru": "Corax Navy Issue Corporation Emblem"
     },
     "1034352": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
         "ru": "Эмблемы «Парагона» подчеркнут индивидуальность вашего корабля. Эти наноголографические проекции получат доступ к вашим личным данным и украсят ваш любимый корабль важными для вас символами. Благодаря новой облачной синхронизации ИИ эти эмблемы никуда не исчезнут даже во время варп-прыжка. Посетите ближайшего агента ИРИС и примите участие в последних мероприятиях «Парагона», чтобы открыть новые эмблемы уже сегодня. «Парагон». Вы достойны лучшего. ВНИМАНИЕ: после покупки эмблемы загружаются автоматически. Дарение и обмен невозможны. Корпорация «Парагон» не несёт ответственности за неудачные сделки."
     },
     "1034353": {
-        "en": "Corax Navy Issue Alliance Emblem ",
-        "ru": "Corax Navy Issue Alliance Emblem "
+        "en": "Corax Navy Issue Alliance Emblem",
+        "ru": "Corax Navy Issue Alliance Emblem"
     },
     "1034354": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1202236,16 +1202236,16 @@
         "ru": "Эмблемы «Парагона» подчеркнут индивидуальность вашего корабля. Эти наноголографические проекции получат доступ к вашим личным данным и украсят ваш любимый корабль важными для вас символами. Благодаря новой облачной синхронизации ИИ эти эмблемы никуда не исчезнут даже во время варп-прыжка. Посетите ближайшего агента ИРИС и примите участие в последних мероприятиях «Парагона», чтобы открыть новые эмблемы уже сегодня. «Парагон». Вы достойны лучшего. ВНИМАНИЕ: после покупки эмблемы загружаются автоматически. Дарение и обмен невозможны. Корпорация «Парагон» не несёт ответственности за неудачные сделки."
     },
     "1034359": {
-        "en": "Talwar Fleet Issue Corporation Emblem ",
-        "ru": "Talwar Fleet Issue Corporation Emblem "
+        "en": "Talwar Fleet Issue Corporation Emblem",
+        "ru": "Talwar Fleet Issue Corporation Emblem"
     },
     "1034360": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
         "ru": "Эмблемы «Парагона» подчеркнут индивидуальность вашего корабля. Эти наноголографические проекции получат доступ к вашим личным данным и украсят ваш любимый корабль важными для вас символами. Благодаря новой облачной синхронизации ИИ эти эмблемы никуда не исчезнут даже во время варп-прыжка. Посетите ближайшего агента ИРИС и примите участие в последних мероприятиях «Парагона», чтобы открыть новые эмблемы уже сегодня. «Парагон». Вы достойны лучшего. ВНИМАНИЕ: после покупки эмблемы загружаются автоматически. Дарение и обмен невозможны. Корпорация «Парагон» не несёт ответственности за неудачные сделки."
     },
     "1034361": {
-        "en": "Talwar Fleet Issue Alliance Emblem ",
-        "ru": "Talwar Fleet Issue Alliance Emblem "
+        "en": "Talwar Fleet Issue Alliance Emblem",
+        "ru": "Talwar Fleet Issue Alliance Emblem"
     },
     "1034362": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1202576,8 +1202576,8 @@
         "ru": "Expired Federation Electronics Booster I"
     },
     "1034721": {
-        "en": "This booster has been produced by the Gallente Federation to assist capsuleers with their military campaign war efforts.\r\n\r\n<b>\r\n+12% to ship Sensor Strength\r\n+2% Scan Probe Strength\r\n+2% Scan Resolution\r\n+4% Mining Critical Success Chance. \r\nBase Duration: 2 Hours<b>\r\n\r\n<b>Expiry date: November 10th YC128</b> ",
-        "ru": "Этот стимулятор предназначен для пилотов, участвующих в военной кампании Галлентской Федерации. <b>+12% к чувствительности бортовых сенсоров, +2% к чувствительности разведзондов, +2% к эффективности сканирования, +4% к вероятности крит. удара при бурении. Базовая длительность: 2 часа.<b> <b>Срок годности: до 10 ноября 128 г. от ю. с. включительно.</b> "
+        "en": "This booster has been produced by the Gallente Federation to assist capsuleers with their military campaign war efforts.\r\n\r\n<b>\r\n+12% to ship Sensor Strength\r\n+2% Scan Probe Strength\r\n+2% Scan Resolution\r\n+4% Mining Critical Success Chance. \r\nBase Duration: 2 Hours<b>\r\n\r\n<b>Expiry date: November 10th YC128</b>",
+        "ru": "Этот стимулятор предназначен для пилотов, участвующих в военной кампании Галлентской Федерации. <b>+12% к чувствительности бортовых сенсоров, +2% к чувствительности разведзондов, +2% к эффективности сканирования, +4% к вероятности крит. удара при бурении. Базовая длительность: 2 часа.<b> <b>Срок годности: до 10 ноября 128 г. от ю. с. включительно.</b>"
     },
     "1034722": {
         "en": "Expired Republic Electronics Booster I",
@@ -1203973,7 +1203973,7 @@
     },
     "1035558": {
         "en": "A frigate of the Amarr Empire.",
-        "ru": "Фрегат Амаррской Империи. "
+        "ru": "Фрегат Амаррской Империи."
     },
     "1035559": {
         "en": "Imperial Coercer",
@@ -1205752,8 +1205752,8 @@
         "ru": "Такие залежи вельдспара в основном встречаются в секторе Exordium. В них много примесей, а полезных минералов на 50% меньше, чем в других месторождениях Нового Эдема. Вельдспар — самая распространённая руда в центральном сегменте известной вселенной. Он содержит большое количество повсеместно используемого тритания, поэтому спрос на него никогда не падает. Перед вами — сжатая и намного более компактная форма исходного материала."
     },
     "1036179": {
-        "en": "Scordite 0-Grade ",
-        "ru": "Scordite 0-Grade "
+        "en": "Scordite 0-Grade",
+        "ru": "Scordite 0-Grade"
     },
     "1036180": {
         "en": "This low purity cluster of Scordite offers 50% lower yield than those typically found throughout wider New Eden. It is most commonly located within the region of Exordium.\r\n\r\nScordite is amongst the most common ore types in the central regions of known universe. It can be reprocessed into both Tritanium and Pyerite making it desirable for those starting their mining careers.",
@@ -1207816,7 +1207816,7 @@
         "ru": ""
     },
     "1037294": {
-        "en": "FW Complex - Moderate NVY-3 - Occupier Spawner (DO NOT TRANSLATE) ",
+        "en": "FW Complex - Moderate NVY-3 - Occupier Spawner (DO NOT TRANSLATE)",
         "ru": ""
     },
     "1037307": {
@@ -1208236,8 +1208236,8 @@
         "ru": "Gallente Tactical Relay"
     },
     "1037466": {
-        "en": "This structure acts as a relay station for the Gallente Federation's operations in this structure, collecting, receiving and transmitting battlefield intelligence. ",
-        "ru": "Это ретрансляционная станция для операций Галлентской Федерации в данной области. Она получает, собирает и передаёт данные военной разведки. "
+        "en": "This structure acts as a relay station for the Gallente Federation's operations in this structure, collecting, receiving and transmitting battlefield intelligence.",
+        "ru": "Это ретрансляционная станция для операций Галлентской Федерации в данной области. Она получает, собирает и передаёт данные военной разведки."
     },
     "1037467": {
         "en": "Minmatar Tactical Relay",
@@ -1209928,20 +1209928,20 @@
         "ru": ""
     },
     "1038429": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92569>Raspite Crystals</a>\r\n",
-        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92569>кристаллами распита</a>.\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92569>Raspite Crystals</a>",
+        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92569>кристаллами распита</a>."
     },
     "1038430": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n",
-        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92572>кристаллами кангита</a>.\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>",
+        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92572>кристаллами кангита</a>."
     },
     "1038431": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n",
-        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92571>кристаллами муассанита</a>.\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>",
+        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92571>кристаллами муассанита</a>."
     },
     "1038432": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92570>Polycrase Crystals</a>\r\n",
-        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92570>кристаллами поликраза</a>.\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92570>Polycrase Crystals</a>",
+        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92570>кристаллами поликраза</a>."
     },
     "1038433": {
         "en": "Occupied Inactive Imperial Research Relay",
@@ -1209956,8 +1209956,8 @@
         "ru": "Occupied Inactive State Research Relay"
     },
     "1038436": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Polycrase Crystals</a>\r\n\r\nCapsuleers enlisted with the Gallente Federation may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n",
-        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92572>кристаллами поликраза</a>. Используя анализатор данных, капсулёры из галлентского ополчения могут захватить это сооружение, пока оно не работает.\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Polycrase Crystals</a>\r\n\r\nCapsuleers enlisted with the Gallente Federation may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "ru": "Этот ретранслятор научных данных сейчас бездействует, но его можно активировать <a href=showinfo:92572>кристаллами поликраза</a>. Используя анализатор данных, капсулёры из галлентского ополчения могут захватить это сооружение, пока оно не работает."
     },
     "1038437": {
         "en": "Occupied Inactive Federation Research Relay",
@@ -1211372,8 +1211372,8 @@
         "ru": "Этот стимулятор произведён Республикой Минматар для помощи в проведении тайных исследовательских операций. <b>+4% к скорости корабля, +6% к скорости хода в варп-режиме, -6% от энергопотребления микроварп-ускорителей. Базовая длительность: 2 часа.</b> <b>Годен до 9 июня 128 г. от ю. с. включительно</b>"
     },
     "1039075": {
-        "en": "Expired State Damage Booster I ",
-        "ru": "State Damage Booster I "
+        "en": "Expired State Damage Booster I",
+        "ru": "State Damage Booster I"
     },
     "1039076": {
         "en": "This booster has been produced by the Caldari State to assist with their covert research operations.\r\n\r\n<b>+2% Hybrid Turret Damage. +2% Missile Damage. Base Duration: 2 Hours.</b>\r\n\r\n<b>Expiry date: June 9th YC128</b>",
@@ -1211532,7 +1211532,7 @@
         "ru": "Eris Pride of the Federation SKIN"
     },
     "1039126": {
-        "en": "Gallente Tenzin Plinth (DO NOT TRANSLATE) ",
+        "en": "Gallente Tenzin Plinth (DO NOT TRANSLATE)",
         "ru": ""
     },
     "1039127": {
@@ -1211872,8 +1211872,8 @@
         "ru": "Этот стимулятор произведён Государством Калдари для помощи в проведении тайных исследовательских операций. <b>-8% от инертности корабля, +12% к скорости хода в варп-режиме, -12% от энергопотребления форсажных ускорителей. Базовая длительность: 2 часа.</b> <b>Годен до 9 июня 128 г. от ю. с. включительно</b>"
     },
     "1039232": {
-        "en": "Expired State Application Booster II ",
-        "ru": "State Application Booster II "
+        "en": "Expired State Application Booster II",
+        "ru": "State Application Booster II"
     },
     "1039233": {
         "en": "This booster has been produced by the Caldari State to assist with their covert research operations.\r\n\r\n<b>+6% Hybrid Turret Tracking Speed. -6% Missile Explosion Radius. Base Duration: 2 Hours.</b>\r\n\r\n<b>Expiry date: June 9th YC128</b>",
@@ -1212304,11 +1212304,11 @@
         "ru": "Поддержите своего кандидата, определите будущее Федерации и получите щедрые награды."
     },
     "1039370": {
-        "en": "Face combat, mining, exploration, and FW challenges, or the new Rampant Drone Fabricator.  ",
+        "en": "Face combat, mining, exploration, and FW challenges, or the new Rampant Drone Fabricator.",
         "ru": "Сражайтесь, бурите, исследуйте, участвуйте в МВ и боритесь с новым грозным производителем дронов."
     },
     "1039371": {
-        "en": "Unlock amazing rewards, including PLEX, new hybrid drones, a campaign bus, and much more.  ",
+        "en": "Unlock amazing rewards, including PLEX, new hybrid drones, a campaign bus, and much more.",
         "ru": "Получайте потрясающие награды: плексы, новых гибридных дронов, автобус кампании и многое другое."
     },
     "1039372": {
@@ -1213236,8 +1213236,8 @@
         "ru": "Минуту, капитан. На вашем корабле не хватает рекомендуемых модулей для прохождения этой симуляции. Советую установить орудийную систему, анализатор данных и модуль подсветки целей. Часть этого оборудования можно обнаружить в контейнерах «Припасы: битва за Патор»."
     },
     "1039778": {
-        "en": "Captain, do you copy? Fleet is in position, hidden in the shadow of Pator IX. \r\n\r\nHack those turrets, and we’ll be able to warp in. ",
-        "ru": "Как слышно, капитан? Наш флот прячется в тени планеты Патор IX. Взломайте турели, и мы сможем переместиться на место. "
+        "en": "Captain, do you copy? Fleet is in position, hidden in the shadow of Pator IX. \r\n\r\nHack those turrets, and we’ll be able to warp in.",
+        "ru": "Как слышно, капитан? Наш флот прячется в тени планеты Патор IX. Взломайте турели, и мы сможем переместиться на место."
     },
     "1039779": {
         "en": "Hey there, looking for a refresh?\r\n<br><br>\r\nThe Gallente have invited you to join them in a simulation of the Liberation of Intaki. Travel to the simulation site and follow the instructions to fight for freedom side by side with the Federation.",
@@ -1213932,8 +1213932,8 @@
         "ru": "Imperial Providence"
     },
     "1040169": {
-        "en": "A freighter of the Amarr Empire. ",
-        "ru": "Фрейтер Амаррской Империи. "
+        "en": "A freighter of the Amarr Empire.",
+        "ru": "Фрейтер Амаррской Империи."
     },
     "1040170": {
         "en": "State Charon",
@@ -1219312,8 +1219312,8 @@
         "ru": "Basic Capsuleer Day XXIII Cerebral Accelerator"
     },
     "1042285": {
-        "en": "When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after June 9, YC128. ",
-        "ru": "При использовании этот стимулятор на непродолжительное время ускоряет освоение навыков. Из-за нестабильности состава он недолго сохраняет свои свойства. Срок годности: до 9 июня 128 года от ю. с. включительно. "
+        "en": "When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after June 9, YC128.",
+        "ru": "При использовании этот стимулятор на непродолжительное время ускоряет освоение навыков. Из-за нестабильности состава он недолго сохраняет свои свойства. Срок годности: до 9 июня 128 года от ю. с. включительно."
     },
     "1042287": {
         "en": "Expired Extended Capsuleer Day XXIII Cerebral Accelerator",
@@ -1219688,8 +1219688,8 @@
         "ru": "HoloDungeon_Planet_Intaki_01a "
     },
     "1042507": {
-        "en": "HoloDungeon_Planet_Matar_01a ",
-        "ru": "HoloDungeon_Planet_Matar_01a "
+        "en": "HoloDungeon_Planet_Matar_01a",
+        "ru": "HoloDungeon_Planet_Matar_01a"
     },
     "1042508": {
         "en": "Claim Rewards",
@@ -1220452,7 +1220452,7 @@
         "ru": "«Докажите верность направления, иначе — ликвидация. Всё остальное — правда». (Кресник Сварог)"
     },
     "1042805": {
-        "en": "Personal Progress",
+        "en": "Your contribution to Global Progress",
         "ru": "Личный прогресс"
     },
     "1042806": {
@@ -1221037,7 +1221037,7 @@
     },
     "1043017": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043018": {
         "en": "Rebellion Stabber",
@@ -1221053,7 +1221053,7 @@
     },
     "1043021": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043022": {
         "en": "Rebellion Maelstrom",
@@ -1221061,7 +1221061,7 @@
     },
     "1043023": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043024": {
         "en": "Federation Imicus",
@@ -1221101,7 +1221101,7 @@
     },
     "1043033": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043034": {
         "en": "Imperial Harbinger",
@@ -1221109,7 +1221109,7 @@
     },
     "1043035": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043036": {
         "en": "Imperial Armageddon",
@@ -1221117,7 +1221117,7 @@
     },
     "1043037": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043038": {
         "en": "State Moa",
@@ -1221125,7 +1221125,7 @@
     },
     "1043039": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043040": {
         "en": "Rebellion Slasher",
@@ -1221149,7 +1221149,7 @@
     },
     "1043045": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043046": {
         "en": "State Raven",
@@ -1221157,7 +1221157,7 @@
     },
     "1043047": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043048": {
         "en": "Federation Vexor",
@@ -1221165,7 +1221165,7 @@
     },
     "1043049": {
         "en": "",
-        "ru": " ( copy )"
+        "ru": "( copy )"
     },
     "1043050": {
         "en": "AIR Holo-Drone Actors",
@@ -1222316,8 +1222316,8 @@
         "ru": ""
     },
     "1043513": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. ",
-        "ru": "Содержит чертёж прототипа бурового дрона Pluto на 5 прогонов. "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone.",
+        "ru": "Содержит чертёж прототипа бурового дрона Pluto на 5 прогонов."
     },
     "1043514": {
         "en": "Prototype 'Pluto' Mining Drone Blueprint Crate",
@@ -1224432,8 +1224432,8 @@
         "ru": "Suspect Scout Navy Military Beacon"
     },
     "1045522": {
-        "en": "This beacon marks a scout military location. The entry gate is configured to admit Tech I and empire faction navy ships of Frigate size.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules. Additionally, it will provide all capsuleers with a suspect timer when they activate the acceleration gate. ",
-        "ru": "Этот маяк обозначает зону военной разведки. Конфигурация ворот рассчитана на фрегаты, включая суда 1-го техноуровня, а также флотские корабли держав. Система безопасности не позволяет активировать эти разгонные ворота, если корабль оснащён модулями стабилизации варп-ядра. Кроме того, при активации этих ворот все капсулёры получают статус нарушителей. "
+        "en": "This beacon marks a scout military location. The entry gate is configured to admit Tech I and empire faction navy ships of Frigate size.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules. Additionally, it will provide all capsuleers with a suspect timer when they activate the acceleration gate.",
+        "ru": "Этот маяк обозначает зону военной разведки. Конфигурация ворот рассчитана на фрегаты, включая суда 1-го техноуровня, а также флотские корабли держав. Система безопасности не позволяет активировать эти разгонные ворота, если корабль оснащён модулями стабилизации варп-ядра. Кроме того, при активации этих ворот все капсулёры получают статус нарушителей."
     },
     "1045523": {
         "en": "Imperial Intelligence Exfil",
@@ -1224544,8 +1224544,8 @@
         "ru": "Я генеральный директор Хейка Ториго и представляю Государство Калдари. Система АМИ сообщила о вашем скором прилёте. Мы всегда рады достойным кандидатам."
     },
     "1045658": {
-        "en": "Welcome to Crucible, the Caldari Embassy constellation in Exordium.\r\n\r\nI have no doubt that you will be suitably impressed by the honor and discipline our megacorporations have imposed here. ",
-        "ru": "Добро пожаловать в Crucible, посольское созвездие Государства Калдари в секторе Exordium. Не сомневаюсь, что достоинство и организованность, которые демонстрируют наши мегакорпорации, произведут на вас должное впечатление. "
+        "en": "Welcome to Crucible, the Caldari Embassy constellation in Exordium.\r\n\r\nI have no doubt that you will be suitably impressed by the honor and discipline our megacorporations have imposed here.",
+        "ru": "Добро пожаловать в Crucible, посольское созвездие Государства Калдари в секторе Exordium. Не сомневаюсь, что достоинство и организованность, которые демонстрируют наши мегакорпорации, произведут на вас должное впечатление."
     },
     "1045659": {
         "en": "Capsuleer, this is Vice Admiral Foriana Revelli. We got word you are on your way over to Gallente space.\r\n\r\nI’ll put some quafe on ice for you, see you soon.",
@@ -1224564,8 +1224564,8 @@
         "ru": "Это созвездие Strokar, пристанище минматарских кланов в секторе Exordium. Если проявите к Республике должное уважение, наши племена обеспечат вам радушный приём."
     },
     "1045665": {
-        "en": "Captain, confirming your arrival at Caldari Prime orbital point gamma. \r\n\r\nPinging dispatch, let's get some clarity on the status of the megacorp transports near your position. ",
-        "ru": "Капитан, подтверждаю ваше прибытие в пункт «Гамма» на орбите Caldari Prime. Диспетчер, уточните статус транспортов мегакорпораций рядом с вашей позицией. "
+        "en": "Captain, confirming your arrival at Caldari Prime orbital point gamma. \r\n\r\nPinging dispatch, let's get some clarity on the status of the megacorp transports near your position.",
+        "ru": "Капитан, подтверждаю ваше прибытие в пункт «Гамма» на орбите Caldari Prime. Диспетчер, уточните статус транспортов мегакорпораций рядом с вашей позицией."
     },
     "1045666": {
         "en": "Receiving your transmission, Admiral. \r\n\r\nTransports have suffered a warp malfunction en route to the main fleet. Repairs are underway.",
@@ -1224584,8 +1224584,8 @@
         "ru": "Вы отлично справились со своими обязанностями, капитан. Пусть эти галлентские шавки воют от безысходности!"
     },
     "1045670": {
-        "en": "The remaining transports are entering warp. They send you their deepest gratitude. ",
-        "ru": "Оставшиеся транспорты входят в варп-режим. Мы чрезвычайно вам признательны. "
+        "en": "The remaining transports are entering warp. They send you their deepest gratitude.",
+        "ru": "Оставшиеся транспорты входят в варп-режим. Мы чрезвычайно вам признательны."
     },
     "1045671": {
         "en": "Each Caldari saved is a victory, each loss an honored sacrifice.",
@@ -1224664,8 +1224664,8 @@
         "ru": "Если это наш последний бой, выдержим его с честью."
     },
     "1045690": {
-        "en": "The Fedration will pay for this. ",
-        "ru": "Галленты за это заплатят. "
+        "en": "The Fedration will pay for this.",
+        "ru": "Галленты за это заплатят."
     },
     "1045691": {
         "en": "As long as the Caldari live, we will never be conquered.",
@@ -1224680,8 +1224680,8 @@
         "ru": "Не теряйте надежду. У меня есть план. Пусть галленты почувствуют, что это такое, когда на твой дом нападают."
     },
     "1045694": {
-        "en": "As all seemed lost, Admiral Yakiya Tovil-Toba prepared to make the ultimate sacrifice for all Caldari. ",
-        "ru": "Когда уже казалось, что всё потеряно, адмирал Якия Товил-Тоба решил пожертвовать жизнью ради калдарского народа. "
+        "en": "As all seemed lost, Admiral Yakiya Tovil-Toba prepared to make the ultimate sacrifice for all Caldari.",
+        "ru": "Когда уже казалось, что всё потеряно, адмирал Якия Товил-Тоба решил пожертвовать жизнью ради калдарского народа."
     },
     "1045695": {
         "en": "Is that madman plotting a collision course for Gallente Prime? Forget those miscreants, go after him!",
@@ -1225320,8 +1225320,8 @@
         "ru": "Малодушные минматары устроили засаду. Но ничего, долго они не протянут. Услышь меня, Господи! Обрушь свой неистовый гнев на этих мятежных невежд, заставь их молить о быстром конце!"
     },
     "1046152": {
-        "en": "First positions have been successfully held, but orbital fleet support has got us pinned down. ",
-        "ru": "Нам удалось удержать первые позиции, но орбитальная поддержка флота нас блокирует. "
+        "en": "First positions have been successfully held, but orbital fleet support has got us pinned down.",
+        "ru": "Нам удалось удержать первые позиции, но орбитальная поддержка флота нас блокирует."
     },
     "1046153": {
         "en": "Guerilla forces have made a break for it across the Mioaran islands, we’re finally gaining some ground.",
@@ -1225340,16 +1225340,16 @@
         "ru": "Это было быстро! Видимо, Господь не расслышал амаррцев сквозь вашу стрельбу. Линкоры, пора уничтожить суперКАР лорда-губернатора и положить оккупации конец."
     },
     "1046157": {
-        "en": "That took everything we had, but finally, the Lord Governor and his supercarrier have been defeated. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours! ",
-        "ru": "Мы уничтожили суперКАР лорда-губернатора, пусть это и стоило нам всего. Остатки вражеского флота обращаются в бегство. Это победа! Матар наш! "
+        "en": "That took everything we had, but finally, the Lord Governor and his supercarrier have been defeated. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours!",
+        "ru": "Мы уничтожили суперКАР лорда-губернатора, пусть это и стоило нам всего. Остатки вражеского флота обращаются в бегство. Это победа! Матар наш!"
     },
     "1046158": {
-        "en": "The Lord Governor and his supercarrier have been defeated. A quicker death than he deserved, thanks to your expert piloting, Captain. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours! ",
-        "ru": "СуперКАР уничтожен. Вы показали себя настоящим профи, капитан, хотя лорд-губернатор не заслужил роскоши умереть быстро. Остатки вражеского флота обращаются в бегство. Это победа! Матар наш! "
+        "en": "The Lord Governor and his supercarrier have been defeated. A quicker death than he deserved, thanks to your expert piloting, Captain. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours!",
+        "ru": "СуперКАР уничтожен. Вы показали себя настоящим профи, капитан, хотя лорд-губернатор не заслужил роскоши умереть быстро. Остатки вражеского флота обращаются в бегство. Это победа! Матар наш!"
     },
     "1046159": {
-        "en": "A hard battle, hard fought, thanks to you, Captain. The Lord Governor and his supercarrier have been defeated.\r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours! ",
-        "ru": "Это была тяжёлая битва, но с вашей помощью, капитан, мы всё-таки уничтожили суперКАР лорда-губернатора. Остатки вражеского флота обращаются в бегство. Это победа! Матар наш! "
+        "en": "A hard battle, hard fought, thanks to you, Captain. The Lord Governor and his supercarrier have been defeated.\r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours!",
+        "ru": "Это была тяжёлая битва, но с вашей помощью, капитан, мы всё-таки уничтожили суперКАР лорда-губернатора. Остатки вражеского флота обращаются в бегство. Это победа! Матар наш!"
     },
     "1046160": {
         "en": "Making swift progress across the Eyniletti Plains. Half these Imperials are dead before they even know we’ve arrived!",
@@ -1225452,8 +1225452,8 @@
         "ru": "Начинаю сближение. Для меня было честью знать вас."
     },
     "1046185": {
-        "en": "The Gallente flag flies over Intaki once more! The people of Intaki have our planet back. Thank you, Captain. ",
-        "ru": "Над Интаки снова развевается галлентский флаг! Планета вернулась к их исконным хозяевам. Спасибо, капитан! "
+        "en": "The Gallente flag flies over Intaki once more! The people of Intaki have our planet back. Thank you, Captain.",
+        "ru": "Над Интаки снова развевается галлентский флаг! Планета вернулась к их исконным хозяевам. Спасибо, капитан!"
     },
     "1046186": {
         "en": "Attack Group Alpha, weapons free. Engage and destroy every Caldari Navy hostile you see.",
@@ -1227704,8 +1227704,8 @@
         "ru": "Soaring Volatile Booster"
     },
     "1047825": {
-        "en": "<b>+16% Missile Flight Time. Base duration: 3.5 minutes.</b>\r\n\r\nThis booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>. ",
-        "ru": "<b>+16% ко времени полёта ракет. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b> "
+        "en": "<b>+16% Missile Flight Time. Base duration: 3.5 minutes.</b>\r\n\r\nThis booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.",
+        "ru": "<b>+16% ко времени полёта ракет. Базовая длительность: 3 минуты 30 секунд.</b> Стимулятор содержит нестабильные компоненты и перестанет действовать <b>27 июля 128 года от ю. с.</b>"
     },
     "1047826": {
         "en": "Expired Hallowed Volatile Booster",
@@ -1230248,8 +1230248,8 @@
         "ru": "Medium Federation Navy Synchronizer"
     },
     "1049948": {
-        "en": "Developed by the Federation Navy, this rig improves hybrid turret, armor repair, and structure hitpoints. It also integrates the pathways between Federation Navy technology. This unlocks even greater performance the more Federation Navy modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawback of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill.\r\n\r\n",
-        "ru": "Эта надстройка, разработанная флотом Федерации, усиливает гибридные орудия и модули ремонта брони, а также повышает прочность корпуса. Кроме того, она связывает между собой технологии галлентского производства: чем больше модулей флота Федерации установлено на корабль, тем лучше она работает. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики. Негативное влияние надстройки на ЦПУ можно снизить благодаря навыку <a href=showinfo:96100>«Синхронизация надстроек»</a>.\r\n\r\n"
+        "en": "Developed by the Federation Navy, this rig improves hybrid turret, armor repair, and structure hitpoints. It also integrates the pathways between Federation Navy technology. This unlocks even greater performance the more Federation Navy modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawback of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill.",
+        "ru": "Эта надстройка, разработанная флотом Федерации, усиливает гибридные орудия и модули ремонта брони, а также повышает прочность корпуса. Кроме того, она связывает между собой технологии галлентского производства: чем больше модулей флота Федерации установлено на корабль, тем лучше она работает. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики. Негативное влияние надстройки на ЦПУ можно снизить благодаря навыку <a href=showinfo:96100>«Синхронизация надстроек»</a>."
     },
     "1049949": {
         "en": "Large Federation Navy Synchronizer",
@@ -1232348,8 +1232348,8 @@
         "ru": "бонус к урону стандартных гибридных орудий"
     },
     "1050786": {
-        "en": "bonus to hybrid falloff ",
-        "ru": "бонус к добавочной дальности гибридных орудий "
+        "en": "bonus to hybrid falloff",
+        "ru": "бонус к добавочной дальности гибридных орудий"
     },
     "1050787": {
         "en": "bonus to mining critical hit chance",
@@ -1238812,8 +1238812,8 @@
         "ru": "Drifter Containment Crystal (Amarr)"
     },
     "1054807": {
-        "en": "Placeholder Item for November path to conquest campaign ",
-        "ru": "Предмет для ноябрьской кампании «Путь к завоеванию» (заполнитель) "
+        "en": "Placeholder Item for November path to conquest campaign",
+        "ru": "Предмет для ноябрьской кампании «Путь к завоеванию» (заполнитель)"
     },
     "1054814": {
         "en": "Drifter Containment Crystal (Caldari) ",
@@ -1238860,8 +1238860,8 @@
         "ru": "Rogue Anoikis Telemetry"
     },
     "1054829": {
-        "en": "The Federation will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Federation Navy Anchorage in <url=showinfo:5//30003788>Intaki</url>.\r\n\r\nCollected by Rogue Drones that have infested Anoikis, this telemetry includes evidence of hyperspace fluctuations. Mapping these could help identify the details of the Emergent Artifact’s manifestation. ",
-        "ru": "Галлентская Федерация наградит всякого, кто примет задание кампании и доставит этот предмет соответствующему торговцу неподалёку от якорной станции флота Федерации в системе <url=showinfo:5//30003788>Intaki</url>. Эти телеметрические данные, собранные восставшими дронами из Аноикиса, позволяют определить эпизоды гиперпространственных флуктуаций. Составление карты таких флуктуаций даст дополнительную информацию о появлении эмерджентного артефакта. "
+        "en": "The Federation will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Federation Navy Anchorage in <url=showinfo:5//30003788>Intaki</url>.\r\n\r\nCollected by Rogue Drones that have infested Anoikis, this telemetry includes evidence of hyperspace fluctuations. Mapping these could help identify the details of the Emergent Artifact’s manifestation.",
+        "ru": "Галлентская Федерация наградит всякого, кто примет задание кампании и доставит этот предмет соответствующему торговцу неподалёку от якорной станции флота Федерации в системе <url=showinfo:5//30003788>Intaki</url>. Эти телеметрические данные, собранные восставшими дронами из Аноикиса, позволяют определить эпизоды гиперпространственных флуктуаций. Составление карты таких флуктуаций даст дополнительную информацию о появлении эмерджентного артефакта."
     },
     "1054830": {
         "en": "Stereo-Collapse Signal",
@@ -1239060,11 +1239060,11 @@
         "ru": "Изменения в переброске флотов, обновление пиратских интервенций, баланса кораблей и многое другое."
     },
     "1054993": {
-        "en": "Ansiblex jump bridges are now limited by alliance membership, capacitor charge, and distance.  ",
-        "ru": "Гипермосты «Ансиблекс» теперь ограничены членством в альянсе, зарядом накопителя и расстоянием.  "
+        "en": "Ansiblex jump bridges are now limited by alliance membership, capacitor charge, and distance.",
+        "ru": "Гипермосты «Ансиблекс» теперь ограничены членством в альянсе, зарядом накопителя и расстоянием."
     },
     "1054994": {
-        "en": "New battlecruiser Insurgency site and greater control over how fast and far an Insurgency spreads.  ",
+        "en": "New battlecruiser Insurgency site and greater control over how fast and far an Insurgency spreads.",
         "ru": "Новый район интервенции для линейных крейсеров и больше контроля над её скоростью и охватом."
     },
     "1054995": {
@@ -1239564,7 +1239564,7 @@
         "ru": ""
     },
     "1055364": {
-        "en": "Totality Day Celebration Crate ",
+        "en": "Totality Day Celebration Crate",
         "ru": ""
     },
     "1055365": {
@@ -1241632,11 +1241632,11 @@
         "ru": "Заслужите новый атакующий линейный крейсер «Охотников за кровью» Akoman и офицерские модули."
     },
     "1056276": {
-        "en": "New and returning combat sites, plus hacking sites, both with chance encounters.  ",
+        "en": "New and returning combat sites, plus hacking sites, both with chance encounters.",
         "ru": "Новые и уже знакомые горячие точки, а также районы взлома — везде возможны неожиданные встречи."
     },
     "1056277": {
-        "en": "Seasonal track and daily login rewards, plus 90% loot drop outside highsec. ",
+        "en": "Seasonal track and daily login rewards, plus 90% loot drop outside highsec.",
         "ru": "Награды сезонной шкалы и ежедневные награды за вход, а также 90- процентный шанс выпадения добычи за пределами систем с высоким уровнем безопасности."
     },
     "1056300": {
@@ -1241796,8 +1241796,8 @@
         "ru": "Crippling Incursus"
     },
     "1056370": {
-        "en": "An Incursus-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Incursus принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "An Incursus-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Incursus принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056371": {
         "en": "Hellir Rifter",
@@ -1241876,32 +1241876,32 @@
         "ru": "Crippling Ares"
     },
     "1056392": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056393": {
         "en": "Crippling Ares",
         "ru": "Crippling Ares"
     },
     "1056394": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056395": {
         "en": "Crippling Ares",
         "ru": "Crippling Ares"
     },
     "1056396": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056397": {
         "en": "Crippling Ares",
         "ru": "Crippling Ares"
     },
     "1056398": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Ares принадлежит «Превосходству Галленции» и оснащён системами варп-подавления. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056399": {
         "en": "Hellir Stiletto",
@@ -1242028,8 +1242028,8 @@
         "ru": "Errant Taranis"
     },
     "1056430": {
-        "en": "A Taranis-class frigate under the command of the Gallentia Primacy. It is tasked with violence.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Taranis принадлежит «Превосходству Галленции», а его команде поручено расправляться со всеми врагами без разбору. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "A Taranis-class frigate under the command of the Gallentia Primacy. It is tasked with violence.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Taranis принадлежит «Превосходству Галленции», а его команде поручено расправляться со всеми врагами без разбору. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056431": {
         "en": "Wrathful Retribution",
@@ -1242052,8 +1242052,8 @@
         "ru": "Errant Enyo"
     },
     "1056436": {
-        "en": "An Enyo-class frigate under the command of the Gallentia Primacy. It is fitted for balance and flexibility.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ru": "Этот фрегат модели Enyo принадлежит «Превосходству Галленции» и обладает гибким функционалом. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд. "
+        "en": "An Enyo-class frigate under the command of the Gallentia Primacy. It is fitted for balance and flexibility.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ru": "Этот фрегат модели Enyo принадлежит «Превосходству Галленции» и обладает гибким функционалом. Члены организации яростно критикуют курс Федерации на изучение технологий восставших дронов, полагая, что это только ослабит галлентов и испортит их генофонд."
     },
     "1056437": {
         "en": "Atgeir Wolf",
@@ -1243504,11 +1243504,11 @@
         "ru": "Особая версия {shiptype} от Академии АМИ для помощи в обучении. Корабль предоставляется бесплатно, но не может покидать пределов Exordium, быть продан или переработан."
     },
     "1056969": {
-        "en": "Vanguard PTC LowSec SARO Spawner (DO NOT TRANSLATE) ",
+        "en": "Vanguard PTC LowSec SARO Spawner (DO NOT TRANSLATE)",
         "ru": ""
     },
     "1056970": {
-        "en": "Path to Conquest SARO  LowSec combat site boss spawner (DO NOT TRANSLATE) ",
+        "en": "Path to Conquest SARO  LowSec combat site boss spawner (DO NOT TRANSLATE)",
         "ru": ""
     },
     "1056976": {
@@ -1243656,7 +1243656,7 @@
         "ru": "Эта внушительная система повышает мощь двигателя за счёт вместимости грузового отсека. В данной версии предусмотрен активный режим. Наниты Скитальцев меняют модуль, временно предоставляя дополнительные преимущества. Внимание! Установка на борт корабля двух и более модулей, влияющих на одну и ту же характеристику, приведёт к снижению эффективности их действия в отношении данной характеристики."
     },
     "1057038": {
-        "en": "Active Speed Boost Amount",
+        "en": "Active Speed Boost Multiplier",
         "ru": "Показатель активного ускорения"
     },
     "1057039": {
@@ -1243676,7 +1243676,7 @@
         "ru": "Доставить предмет(ы) торговцу"
     },
     "1057044": {
-        "en": "Active Shield Booster Amount",
+        "en": "Active Shield Boost Bonus Multiplier",
         "ru": "Показатель активного усиления модуля накачки щитов"
     },
     "1057045": {
@@ -1243708,7 +1243708,7 @@
         "ru": "Торговец, у которого можно обменять предметы"
     },
     "1057058": {
-        "en": "Active Drone and Fighter Maximum Velocity Bonus",
+        "en": "Drone and Fighter Maximum Velocity Bonus Multiplier",
         "ru": "Активный бонус к максимальной скорости истребителей и дронов"
     },
     "1057061": {
@@ -1243804,7 +1243804,7 @@
         "ru": "Бонус к скорости активной перезарядки накопителя"
     },
     "1057166": {
-        "en": "Active Capacitor recharge rate bonus",
+        "en": "Active Recharge Rate Multiplier",
         "ru": "Бонус к скорости активной перезарядки накопителя"
     },
     "1057167": {
@@ -1246352,7 +1246352,7 @@
         "ru": "Станция"
     },
     "1060618": {
-        "en": "Station docked at",
+        "en": "stations docked at",
         "ru": "В доке станции"
     },
     "1060623": {
@@ -1246360,23 +1246360,23 @@
         "ru": "Станция в Manifest"
     },
     "1060624": {
-        "en": "Visit the Manifest market hub",
+        "en": "Dock at the Manifest V - AIR Laboratories Trade Center station",
         "ru": "Посетите торговый узел в Manifest"
     },
     "1060625": {
-        "en": "The Hub of Exordium",
+        "en": "Fly, trade, profit, repeat",
         "ru": "Центральный узел Экзордиума"
     },
     "1060626": {
-        "en": "Dock at a Station",
+        "en": "Dock at station or structure",
         "ru": "Войдите в док на станции"
     },
     "1060627": {
-        "en": "Dock at a station or structure",
+        "en": "Dock at station or structure",
         "ru": "Войдите в док станции или сооружения"
     },
     "1060628": {
-        "en": "stations docked",
+        "en": "stations docked at",
         "ru": "посещены доки станций"
     },
     "1060631": {
@@ -1246469,6 +1246469,42 @@
     },
     "1062198": {
         "en": "Non Interactable Wrecked Prospector Ship",
+        "ru": ""
+    },
+    "1063006": {
+        "en": "Active Recharge Rate Multiplier",
+        "ru": ""
+    },
+    "1063007": {
+        "en": "While this module is active its passive effect is vastly increased in effectiveness",
+        "ru": ""
+    },
+    "1063008": {
+        "en": "Active Shield Boost Bonus Multiplier",
+        "ru": ""
+    },
+    "1063009": {
+        "en": "While this module is active its passive effect is vastly increased in effectiveness",
+        "ru": ""
+    },
+    "1063010": {
+        "en": "Drone and Fighter Maximum Velocity Bonus Multiplier",
+        "ru": ""
+    },
+    "1063011": {
+        "en": "While this module is active its passive effect is vastly increased in effectiveness",
+        "ru": ""
+    },
+    "1063012": {
+        "en": "Active Speed Boost Multiplier",
+        "ru": ""
+    },
+    "1063013": {
+        "en": "While this module is active its passive effect is vastly increased in effectiveness",
+        "ru": ""
+    },
+    "1063051": {
+        "en": "Capacitor recharge rate bonus",
         "ru": ""
     }
 }
