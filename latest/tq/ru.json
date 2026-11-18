@@ -84616,7 +84616,7 @@
         "ru": "Задержка до 5 минут"
     },
     "77886": {
-        "en": "You have no assets in the region.",
+        "en": "You have no assets in the region",
         "ru": "В пределах сектора личных активов не обнаружено."
     },
     "77887": {
@@ -129712,7 +129712,7 @@
         "ru": "Эти программы, изначально использовавшиеся для взлома систем безопасности группой хакеров, называвших себя «Фендалианский Коллектив», способны изменять принципы работы некоторых модулей путем их программной перепрошивки. Области применения этой технологии оказались весьма широкими; подростки, которые ее изобрели, теперь возглавляют собственные исследовательские лаборатории.\n\nЭтот скрипт может быть загружен в помехопостановщики наводке орудий; он усиливает влияние помехопостановщика на скорость наводки, но при этом приходится жертвовать влиянием на оптимальную дальность."
     },
     "90785": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
         "ru": "Эти программы, изначально использовавшиеся для взлома систем безопасности группой хакеров, называвших себя «Фендалианский Коллектив», способны изменять принципы работы некоторых модулей путем их программной перепрошивки. Области применения этой технологии оказались весьма широкими; подростки, которые ее изобрели, теперь возглавляют собственные исследовательские лаборатории.¶\r\n¶\r\n¶\r\n¶\r\nЭту программу можно загрузить в усилитель для систем обнаружения цели (Sensor Booster) или ретранслятор систем обнаружения целей (Remote Sensor Booster), чтобы увеличить скорость прицеливания за счет уменьшения силы сенсоров и максимальной дальности прицеливания."
     },
     "90786": {
@@ -141864,7 +141864,7 @@
         "ru": "Челнок организации Guristas."
     },
     "93894": {
-        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded Interbus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
+        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded InterBus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
         "ru": "Консорциум «ИнтерБас» поручил лабораториям Дюволль разработать для них усовершенствованный транспортный челнок в 106 году по юлайскому летоисчилению.  Результатом работы инженеров стало эту судно, великолепно сочетающее компактные размеры с удивительной грузоподъёмностью. Оно идеально справляется с основной задачей «ИнтерБаса» — транспортировкой грузов. Проект был засекречен в течение нескольких лет, однако уже в 111 году консорциум стал нанимать пилотов-капсулёров, чтобы те поспособствовали росту популярности «ИнтерБаса» в Новом Эдеме.  Однако этот корабль не каждый день увидишь в космосе, для многих он остается, скорее, предметом коллекционирования."
     },
     "93895": {
@@ -147540,7 +147540,7 @@
         "ru": "Этот комплекс выкрашен в цвета красной гаммы, типичные для верфей Roden."
     },
     "95378": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
         "ru": "Изначально этот набор скриптов применялся группой молодых хакеров «Фендалийское сообщество» для взлома самого надёжного защитного ПО. Он позволяет модифицировать работу модулей путём прямой установки программ в их прошивку. Естественно, подобная технология не избежала внимания крупных корпораций и государственных структур, и вот теперь ребята, когда-то написавшие этот код, возглавляют собственные исследовательские отделы. Этот скрипт можно загрузить в бортовой варп-заградитель и направить его действие на какой-либо один корабль — почти аналогично стандартному варп-подавителю. Это позволит модулю сбивать с курса корабли любого размера, в том числе и те, что при обычных условиях невосприимчивы к воздействию средств электронной борьбы."
     },
     "95379": {
@@ -673524,7 +673524,7 @@
         "ru": "Следующее окно в группе"
     },
     "237151": {
-        "en": "Force fade from black",
+        "en": "Force Fade from Black",
         "ru": "Выход из «черного экрана»"
     },
     "237152": {
@@ -676268,7 +676268,7 @@
         "ru": "Созвездие"
     },
     "238053": {
-        "en": "chosen executor",
+        "en": "Chosen Executor",
         "ru": "выбранный руководитель"
     },
     "238054": {
@@ -681676,7 +681676,7 @@
         "ru": "Максимальная дальность действия систем захвата целей"
     },
     "239609": {
-        "en": "Join fleet",
+        "en": "Join Fleet",
         "ru": "Присоединиться к флоту"
     },
     "239610": {
@@ -711560,7 +711560,7 @@
         "ru": "Metropolis"
     },
     "267763": {
-        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy.  In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx.  This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
+        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy. In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx. This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
         "ru": "Давно известный факт: там, где находится правительство, будут собираться и его подданные, усиленно питая бюрократическую машину. Республика не стала в этом исключением. Разместив парламент и департамент юстиции в созвездии Gedur, она обеспечила к нему огромный приток граждан. А поскольку людям нужна поддержка, за ними устремились некоторые из крупнейших матарских корпораций, разместив в этом секторе свои офисы и превратив его в оживлённый центр, не уступающий Metropolis."
     },
     "267764": {
@@ -849756,7 +849756,7 @@
         "ru": "Цвета под пилотируемый корабль"
     },
     "504803": {
-        "en": "New Mail Recieved",
+        "en": "New Mail Received",
         "ru": "Получена новая почта"
     },
     "504809": {
@@ -879972,7 +879972,7 @@
         "ru": "ECCM Script"
     },
     "515287": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
         "ru": "Эти программы, изначально использовавшиеся для взлома систем безопасности группой хакеров, называвших себя «Фендалианский Коллектив», способны изменять принципы работы некоторых модулей путем их программной перепрошивки. Области применения этой технологии оказались весьма широкими; подростки, которые ее изобрели, теперь возглавляют собственные исследовательские лаборатории.\n\n\n\nЭту программу можно загрузить в усилитель для систем обнаружения цели (Sensor Booster) или ретранслятор систем обнаружения целей (Remote Sensor Booster), чтобы увеличить силу сенсоров за счет уменьшения скорости и максимальной дальности прицеливания"
     },
     "515288": {
@@ -938836,7 +938836,7 @@
         "ru": "Параметры передачи информации"
     },
     "538329": {
-        "en": "Drag icon into chat to share this filter with others.",
+        "en": "Drag icon into chat to share this filter with others",
         "ru": "Перетащите значок в окно чата, чтобы поделиться фильтром с другими."
     },
     "538330": {
@@ -969392,11 +969392,11 @@
         "ru": "Срок действия предложения гиперсети истёк!"
     },
     "553525": {
-        "en": "A HyperNet offer for {type_link}  you are taking part in has finished",
+        "en": "A HyperNet offer for {type_link} you are taking part in has finished.",
         "ru": "Предложение гиперсети для наименования «{type_link}», в котором вы принимали участие, реализовано"
     },
     "553526": {
-        "en": "A HyperNet offer for {type_link}  you are interested in has expired. Tickets price have been refunded and the item returned to its owner",
+        "en": "A HyperNet offer for {type_link} you are interested in has expired. Ticket prices have been refunded and the item returned to its owner.",
         "ru": "Предложение гиперсети для наименования «{type_link}», которым вы интересовались, более не действительно. Стоимость заявок была возвращена, а предмет вернулся к своему владельцу"
     },
     "553527": {
@@ -1139848,7 +1139848,7 @@
         "ru": "Подъёмнику не удалось добыть ресурсы"
     },
     "722789": {
-        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used when unlimited design elements when turning a design into a ship SKIN in SKINR.",
+        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used with unlimited design elements when turning a design into a ship SKIN in SKINR.",
         "ru": "Это контейнер с наградой за достижение новой вехи на шкале прогресса АМИ за месяц. Он содержит секвенсоры, которые используются инструментом «Окраска-С» при создании окрасок кораблей из многоразовых декоративных элементов."
     },
     "722790": {
@@ -1187056,7 +1187056,7 @@
         "ru": "Abyssal Deep Core Mining Laser"
     },
     "1021716": {
-        "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+        "en": "A basic mining laser for mining deep core ore such as mercoxit. Very inefficient but does get the job done... eventually",
         "ru": "Это базовый лазер для добычи руды, залегающей на большой глубине, к примеру, меркоцита. Он малоэффективен и очень медлителен, но свои задачи выполняет."
     },
     "1021718": {
@@ -1243260,8 +1243260,8 @@
         "ru": "Этот линкор модели Marshal принадлежит Специальному отделу правил и порядка, а управляет им капитан, командующий местными силами подразделения.\r\n\r\nОн сделает всё возможное для защиты репутации СОПП."
     },
     "1056851": {
-        "en": "Imperial Navy Stasis Webifier",
-        "ru": "Imperial Navy Stasis Webifier"
+        "en": "Compact Imperial Navy Stasis Webifier",
+        "ru": ""
     },
     "1056852": {
         "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
@@ -1243960,8 +1243960,8 @@
         "ru": "Imperial Navy Warp Scrambler Blueprint"
     },
     "1057373": {
-        "en": "Imperial Navy Stasis Webifier Blueprint",
-        "ru": "Imperial Navy Stasis Webifier Blueprint"
+        "en": "Compact Imperial Navy Stasis Webifier Blueprint",
+        "ru": ""
     },
     "1057381": {
         "en": "Komel Oliphantine",
@@ -1246506,5 +1246506,17 @@
     "1063051": {
         "en": "Capacitor recharge rate bonus",
         "ru": ""
+    },
+    "1063124": {
+        "en": "Imperial Navy Stasis Webifier",
+        "ru": "Imperial Navy Stasis Webifier"
+    },
+    "1063125": {
+        "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
+        "ru": "Уменьшает максимальную скорость корабля при помощи энергетических микро-потоков, которые временно опутывают цель, замедляя её. В 128 году от ю. с. 14 161 капсулёр принял участие в кампании «Священный торжок». Именно благодаря экономическим реформам, проведённым в рамках этой кампании, имперский флот смог проспонсировать разработку собственной версии стазис-индуктора."
+    },
+    "1063128": {
+        "en": "Imperial Navy Stasis Webifier Blueprint",
+        "ru": "Imperial Navy Stasis Webifier Blueprint"
     }
 }

@@ -84616,7 +84616,7 @@
         "ko": "업데이트: 5분 전"
     },
     "77886": {
-        "en": "You have no assets in the region.",
+        "en": "You have no assets in the region",
         "ko": "해당 지역에 자산이 없습니다."
     },
     "77887": {
@@ -129712,7 +129712,7 @@
         "ko": "펜달리안 컬렉티브`라고 불리우는 청소년 해커 집단이 첨단 보안 시스템을 뚫기 위해 사용했던 스크립트에서 유래하였습니다. 스크립트 팩은 회로를 우회하기 위한 복잡한 코드로 이루어져 있어 모듈의 성능을 사용자의 설정에 따라 조정할 수 있습니다. 대형 군수산업체에서 스크립트 팩의 잠재성을 눈여겨 보아 펜달리안 컬렉티브 멤버들을 고용하였고 현재 이들은 관련 연구분야의 수석 개발자로 활동하고 있습니다. <br><br>트래킹 디스럽터 모듈에 장착 가능하며, 장착 시 트래킹 속도가 증가하는 반면 최적사거리가 감소합니다."
     },
     "90785": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
         "ko": "펜달리안 컬렉티브`라고 불리우는 청소년 해커 집단이 첨단 보안 시스템을 뚫기 위해 사용했던 스크립트에서 유래하였습니다. 스크립트 팩은 회로를 우회하기 위한 복잡한 코드로 이루어져 있어 모듈의 성능을 사용자의 설정에 따라 조정할 수 있습니다. 대형 군수산업체에서 스크립트 팩의 잠재성을 눈여겨 보아 펜달리안 컬렉티브 멤버들을 고용하였고 현재 이들은 관련 연구분야의 수석 개발자로 활동하고 있습니다. <br><br>센서 부스터 또는 원격 센서 부스터 모듈에 장착이 가능하며, 장착 시 타겟팅 속도가 증가하는 반면 타겟팅 거리 및 센서 강도가 감소합니다."
     },
     "90786": {
@@ -141864,7 +141864,7 @@
         "ko": "구리스타스가 사용하는 칼다리 셔틀입니다."
     },
     "93894": {
-        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded Interbus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
+        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded InterBus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
         "ko": "YC 106년, 인터버스에서 듀볼레 연구소에 셔틀 제작을 의뢰했습니다. 그 결과 탄생한 것이 인터버스 셔틀입니다. 소형 함선임에도 불구하고 매우 큰 화물실을 가진 이 기종은 다양한 운송 서비스를 제공해야 하는 인터버스에 최적화되었다고 볼 수 있습니다. <br><br>수년동안 이 함선은 극비에 부쳐져왔으나, YC 111년, 증대하는 캡슐리어 인구에게 인터버스를 각인시키기 위한 프로그램의 일환으로 일부 캡슐리어들에게 한정 판매하며 공식적으로 공개되었습니다. 그러나 여전히 항로에서 자주 볼 수 없는 함선이기 떄문에 수집가들 사이에 가치가 높습니다."
     },
     "93895": {
@@ -147540,7 +147540,7 @@
         "ko": "로덴 쉽야드의 상징인 붉은 도색이 칠해져 있습니다."
     },
     "95378": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
         "ko": "펜달리안 컬렉티브`라고 불리우는 청소년 해커 집단이 첨단 보안 시스템을 뚫기 위해 사용했던 스크립트에서 유래하였습니다. 스크립트 팩은 회로를 우회하기 위한 복잡한 코드로 이루어져 있어 모듈의 성능을 사용자의 설정에 따라 조정할 수 있습니다. 대형 군수산업체에서 스크립트 팩의 잠재성을 눈여겨 보아 펜달리안 컬렉티브 멤버들을 고용하였고 현재 이들은 관련 연구분야의 수석 개발자로 활동하고 있습니다. <br><br>워프 디스럽션 필드 생성기에 탑재가능한 스크립트 팩으로, 일반적인 워프 디스럽터와 동일하게 하나의 대상에 워프 디스럽션 효과를 집중합니다. 하지만 스크립트를 장착하면 함선급 및 크기를 막론하고 디스럽션이 가능하며 통상적으로 전자전에 면역인 함선들의 워프 장치까지 방해할 수 있습니다."
     },
     "95379": {
@@ -673524,7 +673524,7 @@
         "ko": "다음 창"
     },
     "237151": {
-        "en": "Force fade from black",
+        "en": "Force Fade from Black",
         "ko": "화면에서 빠져나오기"
     },
     "237152": {
@@ -676268,7 +676268,7 @@
         "ko": "성좌"
     },
     "238053": {
-        "en": "chosen executor",
+        "en": "Chosen Executor",
         "ko": "대상"
     },
     "238054": {
@@ -681676,7 +681676,7 @@
         "ko": "최대 타겟팅 거리"
     },
     "239609": {
-        "en": "Join fleet",
+        "en": "Join Fleet",
         "ko": "함대 가입"
     },
     "239610": {
@@ -711560,7 +711560,7 @@
         "ko": "메트로폴리스"
     },
     "267763": {
-        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy.  In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx.  This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
+        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy. In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx. This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
         "ko": "정부가 있는 곳엔 당연히 통치의 대상도 있으며 그에 따라 관료주의가 더 빠르게 성장한다는 것은 문명사회의 공공연한 사실입니다. 공화국 역시 예외가 아니었기에 게더 성좌에 의회와 법무부를 설립함으로써 급격한 인구 증가를 유도했습니다. 급증한 인구를 부양할 목적으로 몇몇 마타리 메가코퍼레이션이 이곳을 본부로 삼고 있으며, 이들은 마치 거대한 메트로폴리스처럼 기능하여 지역의 활발한 활동에 보탬이 되고 있습니다."
     },
     "267764": {
@@ -849756,7 +849756,7 @@
         "ko": "탑승한 함선의 UI 테마로 설정"
     },
     "504803": {
-        "en": "New Mail Recieved",
+        "en": "New Mail Received",
         "ko": "새로운 메일 수령함"
     },
     "504809": {
@@ -879972,7 +879972,7 @@
         "ko": "ECCM 스크립트"
     },
     "515287": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
         "ko": "펜달리안 컬렉티브`라고 불리우는 청소년 해커 집단이 첨단 보안 시스템을 뚫기 위해 사용했던 스크립트에서 유래하였습니다. 스크립트 팩은 회로를 우회하기 위한 복잡한 코드로 이루어져 있어 모듈의 성능을 사용자의 설정에 따라 조정할 수 있습니다. 대형 군수산업체에서 스크립트 팩의 잠재성을 눈여겨 보아 펜달리안 컬렉티브 멤버들을 고용하였고 현재 이들은 관련 연구분야의 수석 개발자로 활동하고 있습니다. <br><br>센서 부스터 또는 원격 센서 부스터 모듈에 장착이 가능하며, 장착 시 센서 강도가 증가하는 반면 타겟팅 거리 및 속도가 감소합니다."
     },
     "515288": {
@@ -938836,7 +938836,7 @@
         "ko": "설정 가져오는 중"
     },
     "538329": {
-        "en": "Drag icon into chat to share this filter with others.",
+        "en": "Drag icon into chat to share this filter with others",
         "ko": "해당 필터를 다른 사람들과 공유하려면 아이콘을 채팅창으로 끌어놓으십시오."
     },
     "538330": {
@@ -969392,11 +969392,11 @@
         "ko": "하이퍼넷 오퍼 종료"
     },
     "553525": {
-        "en": "A HyperNet offer for {type_link}  you are taking part in has finished",
+        "en": "A HyperNet offer for {type_link} you are taking part in has finished.",
         "ko": "현재 참가한 {type_link} - 오퍼가 종료되었습니다."
     },
     "553526": {
-        "en": "A HyperNet offer for {type_link}  you are interested in has expired. Tickets price have been refunded and the item returned to its owner",
+        "en": "A HyperNet offer for {type_link} you are interested in has expired. Ticket prices have been refunded and the item returned to its owner.",
         "ko": "{type_link}에 대한 하이퍼넷 오퍼가 만료되었습니다. 티켓 비용은 환불될 예정이며 아이템은 소유주에게 전송됩니다."
     },
     "553527": {
@@ -1139848,7 +1139848,7 @@
         "ko": "스카이훅 추출 실패"
     },
     "722789": {
-        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used when unlimited design elements when turning a design into a ship SKIN in SKINR.",
+        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used with unlimited design elements when turning a design into a ship SKIN in SKINR.",
         "ko": "AIR 월간 진행도 보상입니다.<BR><BR>함선 SKIN을 제작할 때 필요한 각인기가 들어 있습니다."
     },
     "722790": {
@@ -1187056,7 +1187056,7 @@
         "ko": "어비설 딥코어 채굴 레이저"
     },
     "1021716": {
-        "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+        "en": "A basic mining laser for mining deep core ore such as mercoxit. Very inefficient but does get the job done... eventually",
         "ko": "딥코어 채굴에 사용되는 기본형 채굴 레이저로 메르코시트와 같은 광석을 추출하는데 사용됩니다. 효율성이 매우 낮지만... 어쨌든 작동은 합니다."
     },
     "1021718": {
@@ -1243260,8 +1243260,8 @@
         "ko": "질서유지특임대(SARO) 소속 마샬 배틀쉽입니다.\r\n\r\nSARO의 지휘관이 운용합니다. 지역 SARO 부대 지휘관은 어떤 위험을 무릅쓰더라도 SARO의 권위를 지키려 할 것입니다."
     },
     "1056851": {
-        "en": "Imperial Navy Stasis Webifier",
-        "ko": "제국 해군 스테이시스 웹 생성기"
+        "en": "Compact Imperial Navy Stasis Webifier",
+        "ko": ""
     },
     "1056852": {
         "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
@@ -1243960,8 +1243960,8 @@
         "ko": "제국 해군 워프 스크램블러 블루프린트"
     },
     "1057373": {
-        "en": "Imperial Navy Stasis Webifier Blueprint",
-        "ko": "제국 해군 스테이시스 웹 생성기 블루프린트"
+        "en": "Compact Imperial Navy Stasis Webifier Blueprint",
+        "ko": ""
     },
     "1057381": {
         "en": "Komel Oliphantine",
@@ -1246506,5 +1246506,17 @@
     "1063051": {
         "en": "Capacitor recharge rate bonus",
         "ko": ""
+    },
+    "1063124": {
+        "en": "Imperial Navy Stasis Webifier",
+        "ko": "제국 해군 스테이시스 웹 생성기"
+    },
+    "1063125": {
+        "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
+        "ko": "마이크로 에너지 파동을 발사함으로써 대상 함선의 움직임을 방해하고 최대 속도를 감소시킵니다.\r\n\r\nYC 128년, 14,161명의 캡슐리어가 축복받은 거래소 작전 계획에 기여합니다. 제국 해군은 작전 성과로 거둔 경제 개혁을 바탕으로 새로운 스테이시스 웹 생성기 운용 함선을 개발할 자금을 마련할 수 있었습니다."
+    },
+    "1063128": {
+        "en": "Imperial Navy Stasis Webifier Blueprint",
+        "ko": "제국 해군 스테이시스 웹 생성기 블루프린트"
     }
 }

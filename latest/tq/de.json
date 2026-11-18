@@ -84616,7 +84616,7 @@
         "de": "5 Minuten verzögert"
     },
     "77886": {
-        "en": "You have no assets in the region.",
+        "en": "You have no assets in the region",
         "de": "Sie haben keinen Besitz in dieser Region."
     },
     "77887": {
@@ -129712,7 +129712,7 @@
         "de": "Diese Skripte wurden ursprünglich von einer jugendlichen Hackergruppe namens \"The Fendahlian Collective\" verwendet, um an High-Tech-Sicherheitsfirmware vorbeizukommen. Sie enthalten einen komplexen Code, der die inneren Abläufe bestimmter Modulen verändert, indem er direkte Befehle in die Firmware eingibt. Die Einsatzmöglichkeiten dieser Technologie blieben den großen Corporations nicht verborgen, und die Jugendlichen, die sie entwickelt hatten, leiten nun ihre eigenen Forschungsabteilungen.\n\nDieses Script kann in ein Nachführungsstörer-Modul geladen werden, um die Nachführgeschwindigkeit des Moduls auf Kosten seiner optimalen Reichweite zu erhöhen."
     },
     "90785": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
         "de": "Diese Scripts wurden ursprünglich von einer jugendlichen Hackergruppe namens \"The Fendahlian Collective\" verwendet, um an High-Tech-Sicherheitsfirmware vorbeizukommen. Sie enthalten einen komplexen Code, der die inneren Abläufe bestimmter Module verändert, indem er direkte Befehle in die Firmware eingibt. Die Einsatzmöglichkeiten dieser Technologie blieben den großen Corporations nicht verborgen, und die Jugendlichen, die sie entwickelt hatten, leiten nun ihre eigenen Forschungsabteilungen.\n\n\n\nDieses Script kann in ein Sensorbooster- oder Sensorfernbooster-Modul geladen werden, um die den Bonus auf die Zielerfassungsgeschwindigkeit des Moduls auf Kosten der Boni auf die Zielerfassungsreichweite und Sensorstärke zu erhöhen."
     },
     "90786": {
@@ -141864,7 +141864,7 @@
         "de": "Caldari Shuttle, das auf die Guristas Organisation zugelassen ist."
     },
     "93894": {
-        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded Interbus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
+        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded InterBus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
         "de": "Interbus beauftragte Duvolle Laboratories im Jahrs YC 106 damit, ihnen ein verbessertes Shuttle zu entwerfen. Das Ergebnis war dieses Schiff, welches eine kompakte Größe mit einem überraschend großen Frachtraum kombiniert - ideal für Mehrzwecktransporte, auf die Interbus spezialisiert ist.\n\nDas Schiff blieb für viele Jahre ein sorgsam gehütetes Geheimnis von Interbus, aber in YC111 wurde ausgewählten Kapselpiloten als Teil eines umfassenden Programms der Zugriff darauf gewährt, um die Interbus-Marke unter der wachsenden Kapselpiloten-Bevölkerung bekannter zu machen. Trotzdem bleibt es auf den Weltraumrouten ein sehr seltener Anblick und wird von vielen als wertvolles Sammlerobjekt angesehen."
     },
     "93895": {
@@ -147540,7 +147540,7 @@
         "de": "Diese Einrichtung trägt das für Roden Schiffswerften typische rote Farbschema."
     },
     "95378": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
         "de": "Diese Scripts wurden ursprünglich von einer jugendlichen Hackergruppe namens „The Fendahlian Collective“ verwendet, um an High-Tech-Sicherheitsfirmware vorbeizukommen. Sie enthalten einen komplexen Code, der die inneren Abläufe bestimmter Module verändert, indem er direkte Befehle in die Firmware eingibt. Die Einsatzmöglichkeiten dieser Technologie blieben den großen Corporations nicht verborgen, und die Jugendlichen, die sie entwickelt hatten, leiten nun ihre eigenen Forschungsabteilungen. Dieses Skript kann in einen Warpstörfeldgenerator geladen werden, um seinen Effekt wie bei einem gewöhnlichen Warpstörer auf ein einzelnes Schiff zu lenken. Dadurch kann das Modul Schiffe jeder Größe stören, einschließlich solcher, die für gewöhnlich immun gegen alle Arten der elektronischen Kriegsführung sind."
     },
     "95379": {
@@ -673524,7 +673524,7 @@
         "de": "Nächstes Fenster aus dem Stapel"
     },
     "237151": {
-        "en": "Force fade from black",
+        "en": "Force Fade from Black",
         "de": "Rückkehr zum Spiel erzwingen"
     },
     "237152": {
@@ -676268,7 +676268,7 @@
         "de": "Konstellation"
     },
     "238053": {
-        "en": "chosen executor",
+        "en": "Chosen Executor",
         "de": "Ausgewählter Exekutor"
     },
     "238054": {
@@ -681676,7 +681676,7 @@
         "de": "Max. Zielaufschaltungsreichweite"
     },
     "239609": {
-        "en": "Join fleet",
+        "en": "Join Fleet",
         "de": "Flotte beitreten"
     },
     "239610": {
@@ -711560,7 +711560,7 @@
         "de": "Metropolis"
     },
     "267763": {
-        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy.  In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx.  This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
+        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy. In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx. This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
         "de": "Seit Langem ist es eine feste Regel für jede Zivilisation, dass sich dort, wo der Regierungssitz liegt, auch viele Untertanen aufhalten, um die Hallen der Bürokratie zu füllen. In dieser Hinsicht ist die Republik keine Ausnahme, und durch die Niederlassung des Parlaments und des Justizministeriums in der Gedur-Konstellation garantierte man einen starken Bevölkerungszufluss. Diese Bevölkerung braucht Unterstützung, also haben hier auch einige der größten Matari-Corporations ihr Hauptquartier. Dadurch strotzt die Region nur so vor Geschäftigkeit – einer großen Metropole gar nicht so unähnlich."
     },
     "267764": {
@@ -849756,7 +849756,7 @@
         "de": "Farbschema an aktives Schiff anpassen"
     },
     "504803": {
-        "en": "New Mail Recieved",
+        "en": "New Mail Received",
         "de": "Neue Nachricht erhalten"
     },
     "504809": {
@@ -879972,7 +879972,7 @@
         "de": "ECCM Script"
     },
     "515287": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
         "de": "Diese Scripts wurden ursprünglich von einer jugendlichen Hackergruppe namens \"The Fendahlian Collective\" verwendet, um an High-Tech-Sicherheitsfirmware vorbeizukommen. Sie enthalten einen komplexen Code, der die inneren Abläufe bestimmter Module verändert, indem er direkte Befehle in die Firmware eingibt. Die Einsatzmöglichkeiten dieser Technologie blieben den großen Corporations nicht verborgen, und die Jugendlichen, die sie entwickelt hatten, leiten nun ihre eigenen Forschungsabteilungen.\n\n\n\nDieses Script kann in ein Sensorbooster- oder Sensorfernbooster-Modul geladen werden, um die den Bonus auf die Sensorstärke des Moduls auf Kosten der Boni auf die Zielerfassungsreichweite und Zielerfassungsgeschwindigkeit zu erhöhen."
     },
     "515288": {
@@ -938836,7 +938836,7 @@
         "de": "Lade Einstellungen"
     },
     "538329": {
-        "en": "Drag icon into chat to share this filter with others.",
+        "en": "Drag icon into chat to share this filter with others",
         "de": "Symbol in den Chat ziehen, um diesen Filter mit anderen zu teilen."
     },
     "538330": {
@@ -969392,11 +969392,11 @@
         "de": "HyperNet-Angebot abgelaufen!"
     },
     "553525": {
-        "en": "A HyperNet offer for {type_link}  you are taking part in has finished",
+        "en": "A HyperNet offer for {type_link} you are taking part in has finished.",
         "de": "Ein HyperNet-Angebot für {type_link}, an dem Sie teilnehmen, ist beendet."
     },
     "553526": {
-        "en": "A HyperNet offer for {type_link}  you are interested in has expired. Tickets price have been refunded and the item returned to its owner",
+        "en": "A HyperNet offer for {type_link} you are interested in has expired. Ticket prices have been refunded and the item returned to its owner.",
         "de": "Ein HyperNet-Angebot für {type_link}, an dem Sie interessiert sind, ist abgelaufen. Ticketpreise wurden zurückerstattet und der Gegenstand an den Besitzer zurückgegeben"
     },
     "553527": {
@@ -1139848,7 +1139848,7 @@
         "de": "Skyhook-Förderung fehlgeschlagen"
     },
     "722789": {
-        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used when unlimited design elements when turning a design into a ship SKIN in SKINR.",
+        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used with unlimited design elements when turning a design into a ship SKIN in SKINR.",
         "de": "Eine Belohnung für das Erreichen eines Meilensteins im monatlichen AIR-Fortschritt. Diese Kiste enthält Sequenzer, die ohne Begrenzung von Designelementen bei der Umwandlung eines Designs in einen Schiff-SKIN im SKINR verwendet werden können."
     },
     "722790": {
@@ -1187056,7 +1187056,7 @@
         "de": "Abyssal Deep Core Mining Laser"
     },
     "1021716": {
-        "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+        "en": "A basic mining laser for mining deep core ore such as mercoxit. Very inefficient but does get the job done... eventually",
         "de": "Ein einfacher Bergbaulaser für den Abbau von Erzen, die im tiefen Inneren von Asteroiden verborgen sind, wie zum Beispiel Mercoxit. Der Laser ist ziemlich ineffizient, aber erledigt seine Arbeit... früher oder später."
     },
     "1021718": {
@@ -1243260,8 +1243260,8 @@
         "de": "Ein Schlachtschiff der Marshal-Klasse unter dem Kommando der Special Affairs for Regulations & Order (SARO).\r\n\r\nDieses Schiff wird von einem SARO-Captain pilotiert. Als Kommandant der örtlichen SARO-Streitkräfte wird er alles Nötige tun, um die Autorität von SARO aufrechtzuerhalten."
     },
     "1056851": {
-        "en": "Imperial Navy Stasis Webifier",
-        "de": "Imperial Navy Stasis Webifier"
+        "en": "Compact Imperial Navy Stasis Webifier",
+        "de": ""
     },
     "1056852": {
         "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
@@ -1243960,8 +1243960,8 @@
         "de": "Imperial Navy Warp Scrambler Blueprint"
     },
     "1057373": {
-        "en": "Imperial Navy Stasis Webifier Blueprint",
-        "de": "Imperial Navy Stasis Webifier Blueprint"
+        "en": "Compact Imperial Navy Stasis Webifier Blueprint",
+        "de": ""
     },
     "1057381": {
         "en": "Komel Oliphantine",
@@ -1246506,5 +1246506,17 @@
     "1063051": {
         "en": "Capacitor recharge rate bonus",
         "de": ""
+    },
+    "1063124": {
+        "en": "Imperial Navy Stasis Webifier",
+        "de": "Imperial Navy Stasis Webifier"
+    },
+    "1063125": {
+        "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
+        "de": "Reduziert die Höchstgeschwindigkeit eines Schiffes mittels Mikro-Energieströmen, die auf wirksame Weise das Ziel zeitweilig umschließen und es dadurch verlangsamen. Im Jahr YC128 trugen 14.161 Kapselpiloten zur Kampagne „Gesegneter Austausch“ bei. Dank der Wirtschaftsreformen dieser Kampagne konnte die Imperial Navy die Entwicklung ihrer eigenen Stasisnetz-Version finanzieren."
+    },
+    "1063128": {
+        "en": "Imperial Navy Stasis Webifier Blueprint",
+        "de": "Imperial Navy Stasis Webifier Blueprint"
     }
 }

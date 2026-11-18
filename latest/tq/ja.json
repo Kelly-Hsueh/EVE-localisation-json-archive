@@ -84616,7 +84616,7 @@
         "ja": "5 分前の情報"
     },
     "77886": {
-        "en": "You have no assets in the region.",
+        "en": "You have no assets in the region",
         "ja": "リージョン内に所有資産はありません。"
     },
     "77887": {
@@ -129712,7 +129712,7 @@
         "ja": "元々は少年ハッカーグループ「フェンダリアンコレクティブ」が高度なセキュリティファームウェアをハックするために使用したスクリプトセット。ファームウェアに直接コマンドを書き込むことで一部のモジュールの動作を変更する、複雑なコードである。これほどの技術を駆使してのけた腕は一流の専門家にもひけをとるものではなく、考案者の少年たちは今や自ら研究部門を率いる身だ。\n\nこのスクリプトをトラッキング妨害モジュールにロードすると、最適射程距離効果が低下する代わりに、追跡速度効果が強化される。"
     },
     "90785": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
         "ja": "元々は若いハッカー集団「レンダーリアン・コレクティブ」が当時存在した高度なセキュリティファームウェアを破壊するために使用した一連のスクリプトであり、ファームウェアに直接コマンドを挿入することで特定のモジュールの挙動を変更させる複雑なコードが含まれている。主要な組織はこの技術を今でも応用しており、開発に寄与した少年たちは今では自分たちの研究施設を持つ身となった。このスクリプトをセンサーブースターあるいはリモートセンサーブースターモジュールに装備すれば、ターゲット範囲およびセンサー強度のボーナスと引き換えにモジュールの捕捉速度が拡大する。"
     },
     "90786": {
@@ -141864,7 +141864,7 @@
         "ja": "ガリスタス所属のカルダリシャトル。"
     },
     "93894": {
-        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded Interbus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
+        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded InterBus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
         "ja": "YC106年、インターバスは上位機種の宇宙船を開発するためにデュボーレ研究所を設立した。その結果完成したのが、コンパクトな外形にもかかわらず非常に大きなカーゴホールドを備えた、インターバスが専門とする多目的輸送に最適なこの艦船である。この船は長年、インターバスの厳重機密とされてきたが、YC111年、増加するカプセラの間でインターバスのブランド認知度を上げるため、雇用計画の一部として、カプセラ・パイロットの受け入れが自由化された。しかし、宇宙広しといえども目撃例は少なく、多くにとって高価なコレクターズアイテムと考えられている。"
     },
     "93895": {
@@ -147540,7 +147540,7 @@
         "ja": "この施設の特徴的な赤い配色はローデン造船所のものだ。"
     },
     "95378": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
         "ja": "元々は少年ハッカーグループ「フェンダリアンコレクティブ」が高度なセキュリティファームウェアの内部を覗くために使用したスクリプトのセット。ファームウェアに直接コマンドを書き込むことで一部のモジュールの動作を変更する、複雑なコードである。これほどの技術を駆使してのけた腕は一流の専門家にもひけをとるものではなく、考案者の少年たちは今や自ら研究部門を率いる身だ。\r\n\nこのスクリプトをワープ妨害フィールド発生器にロードすると、通常のワープ妨害器のように効果を一隻の船に絞り込むことができる。これにより、対象艦船のサイズを問わず、通常なら電子戦兵器が効かない船にさえワープスクランブルが可能になる。"
     },
     "95379": {
@@ -673524,7 +673524,7 @@
         "ja": "次のスタックウィンドウ"
     },
     "237151": {
-        "en": "Force fade from black",
+        "en": "Force Fade from Black",
         "ja": "ゲームを強制的にログオフ"
     },
     "237152": {
@@ -676268,7 +676268,7 @@
         "ja": "コンステレーション"
     },
     "238053": {
-        "en": "chosen executor",
+        "en": "Chosen Executor",
         "ja": "選ばれし執行者"
     },
     "238054": {
@@ -681676,7 +681676,7 @@
         "ja": "最大ターゲット範囲"
     },
     "239609": {
-        "en": "Join fleet",
+        "en": "Join Fleet",
         "ja": "フリートに参加"
     },
     "239610": {
@@ -711560,7 +711560,7 @@
         "ja": "メトロポリス"
     },
     "267763": {
-        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy.  In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx.  This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
+        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy. In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx. This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
         "ja": "文明に古くからつきものの事実として、政府のあるところ、そこに問題が持ちこまれ、それを処理する官僚機構が発達するものだ。共和国もまた例外ではなく、ゲダーコンステレーションに議会と司法局が設置された時点で、そこに大量の人口が流れこむことは決まったも同然だった。この人口を支えるための人々も必要であり、マター系の大規模コーポレーションの一部はここに本社を置いた。これにより、このリージョンはメトロポリスのような大都会とは別の大賑わいを見せることになった。"
     },
     "267764": {
@@ -849756,7 +849756,7 @@
         "ja": "アクティブな艦船のマッチテーマ"
     },
     "504803": {
-        "en": "New Mail Recieved",
+        "en": "New Mail Received",
         "ja": "新しいメールを受信"
     },
     "504809": {
@@ -879972,7 +879972,7 @@
         "ja": "ECCMスクリプト"
     },
     "515287": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
         "ja": "元々は若いハッカー集団「レンダーリアン・コレクティブ」が当時存在した高度なセキュリティファームウェアを破壊するために使用した一連のスクリプトであり、ファームウェアに直接コマンドを挿入することで特定のモジュールの挙動を変更させる複雑なコードが含まれている。主要な組織はこの技術を今でも応用しており、開発に寄与した少年たちは今では自分たちの研究施設を持つ身となった。このスクリプトをセンサーブースターあるいはリモートセンサーブースターモジュールに装備すれば、ターゲット範囲および捕捉速度のボーナスと引き換えにモジュールのセンサー強度が上昇する。"
     },
     "515288": {
@@ -938836,7 +938836,7 @@
         "ja": "設定を取得中"
     },
     "538329": {
-        "en": "Drag icon into chat to share this filter with others.",
+        "en": "Drag icon into chat to share this filter with others",
         "ja": "アイコンをチャットにドラッグすると、このフィルターを他者と共有できます。"
     },
     "538330": {
@@ -969392,11 +969392,11 @@
         "ja": "ハイパーネットオファーの期限が切れました！"
     },
     "553525": {
-        "en": "A HyperNet offer for {type_link}  you are taking part in has finished",
+        "en": "A HyperNet offer for {type_link} you are taking part in has finished.",
         "ja": "あなたが参加している{type_link}のハイパーネットオファーは終了しました。"
     },
     "553526": {
-        "en": "A HyperNet offer for {type_link}  you are interested in has expired. Tickets price have been refunded and the item returned to its owner",
+        "en": "A HyperNet offer for {type_link} you are interested in has expired. Ticket prices have been refunded and the item returned to its owner.",
         "ja": "あなたが興味を示していた{type_link}のハイパーネットオファーは終了しました。チケット代金は返金され、アイテムは所有者に返却されました。"
     },
     "553527": {
@@ -1139848,7 +1139848,7 @@
         "ja": "スカイフックの抽出が失敗しました"
     },
     "722789": {
-        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used when unlimited design elements when turning a design into a ship SKIN in SKINR.",
+        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used with unlimited design elements when turning a design into a ship SKIN in SKINR.",
         "ja": "AIRの月間進捗のマイルストーンを達成したことに対する報酬。\r\n\r\nこの箱には、SKINRで無制限のデザイン要素を使ってデザインを艦船用SKINにする際に必要となるシーケンサーが入っている。"
     },
     "722790": {
@@ -1187056,7 +1187056,7 @@
         "ja": "アビサルディープコア採鉱レーザー"
     },
     "1021716": {
-        "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+        "en": "A basic mining laser for mining deep core ore such as mercoxit. Very inefficient but does get the job done... eventually",
         "ja": "標準タイプの採掘レーザー。メロコキサイトなどのディープコア採掘に用られる。作業効率は非常に悪いが... 時間をかければ成果は得られる。"
     },
     "1021718": {
@@ -1243260,8 +1243260,8 @@
         "ja": "「規制及び秩序のための特別任務部隊（SARO）」の指揮下にあるマーシャル級戦艦。\r\n\r\nSARO大佐が操縦する。現地SARO部隊の司令官であり、SAROの権威を維持するためならどんな手段も辞さない。"
     },
     "1056851": {
-        "en": "Imperial Navy Stasis Webifier",
-        "ja": "帝国海軍仕様ステイシスウェビファイヤー"
+        "en": "Compact Imperial Navy Stasis Webifier",
+        "ja": ""
     },
     "1056852": {
         "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
@@ -1243960,8 +1243960,8 @@
         "ja": "帝国海軍仕様ワープスクランブラーの設計図"
     },
     "1057373": {
-        "en": "Imperial Navy Stasis Webifier Blueprint",
-        "ja": "帝国海軍仕様ステイシスウェビファイヤーの設計図"
+        "en": "Compact Imperial Navy Stasis Webifier Blueprint",
+        "ja": ""
     },
     "1057381": {
         "en": "Komel Oliphantine",
@@ -1246506,5 +1246506,17 @@
     "1063051": {
         "en": "Capacitor recharge rate bonus",
         "ja": ""
+    },
+    "1063124": {
+        "en": "Imperial Navy Stasis Webifier",
+        "ja": "帝国海軍仕様ステイシスウェビファイヤー"
+    },
+    "1063125": {
+        "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
+        "ja": "マイクロエネルギー流で標的を一時的に絡め取ることで、艦船の最高速度を低下させる。\r\n\r\nYC128年、14,161人のカプセラが「祝福の取引所」キャンペーンに参加した。このキャンペーンによる経済改革のおかげで、帝国海軍は独自仕様のステイシスウェビファイヤーを開発する資金を確保できた。"
+    },
+    "1063128": {
+        "en": "Imperial Navy Stasis Webifier Blueprint",
+        "ja": "帝国海軍仕様ステイシスウェビファイヤーの設計図"
     }
 }

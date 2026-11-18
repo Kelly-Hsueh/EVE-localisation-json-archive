@@ -84616,7 +84616,7 @@
         "zh": "信息延迟5分钟"
     },
     "77886": {
-        "en": "You have no assets in the region.",
+        "en": "You have no assets in the region",
         "zh": "该星域内没有你的资产。"
     },
     "77887": {
@@ -129712,7 +129712,7 @@
         "zh": "这玩意儿一开始是为一群自称为“范达连帮”的青少年骇客所用，以期破解高科技安全固件。这些脚本通过在固件中插入指令可以改变那些固件的运作方式。现在随着那帮小子的成长，他们已将儿时的发明运用到了他们现在各自牵头的科研部门里。\n\n该脚本可用在索敌扰断装备上，以提高装备跟踪速度的效果，不过这样做会降低其最佳射程。"
     },
     "90785": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
         "zh": "这玩意儿一开始是为一群自称为“范达连帮”的青少年骇客所用，以期破解高科技安全固件。这些脚本通过在固件中插入指令可以改变那些固件的运作方式。现在随着那帮小子的成长，他们已将儿时的发明运用到了他们现在各自牵头的科研部门里。\n\n\n\n该脚本可用在感应增强器或远程感应增强器上，以增加装备的锁定速度加成数值，不过这样做会降低其锁定距离和感应强度加成数值。"
     },
     "90786": {
@@ -141864,7 +141864,7 @@
         "zh": "注册在古斯塔斯名下的加达里穿梭机。"
     },
     "93894": {
-        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded Interbus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
+        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded InterBus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
         "zh": "YC106年，星际捷运委托度沃勒实验室为他们设计一艘升级版本的穿梭机。它的主要特点是在保证了较小体积的前提下，最大限度的扩展了货柜容量，延续了星际捷运一贯的多用途运输需求。\n\n这艘船多年来一直是星际捷运的秘密装备，但是在YC111年，为了扩大企业影响力，作为外延计划的一部分，一些选中的克隆飞行员可以购买和驾驶这种飞行器。即便如此，它的数量依然非常的稀少，并且逐渐成为争相收藏的宝贝。"
     },
     "93895": {
@@ -147540,7 +147540,7 @@
         "zh": "这座设施有着红色的外表，这是莱登船业设施所具有的典型特征。"
     },
     "95378": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
         "zh": "这玩意儿一开始是为一群自称为“范达连帮”的青少年骇客所用，以期破解高科技安全固件。这些脚本通过在固件中插入指令可以改变那些固件的运作方式。现在随着那帮小子的成长，他们已将儿时的发明运用到了他们现在各自牵头的科研部门里。\n\n\n\n该脚本能用于跃迁干扰力场发生器，就像标准的跃迁干扰器一样，会将干扰效果集中在单条舰船上，即使平日对电子战免疫的舰船也不能幸免。"
     },
     "95379": {
@@ -673524,7 +673524,7 @@
         "zh": "下一个堆叠窗口"
     },
     "237151": {
-        "en": "Force fade from black",
+        "en": "Force Fade from Black",
         "zh": "强制结束黑屏"
     },
     "237152": {
@@ -676268,7 +676268,7 @@
         "zh": "星座"
     },
     "238053": {
-        "en": "chosen executor",
+        "en": "Chosen Executor",
         "zh": "选定的执行者"
     },
     "238054": {
@@ -681676,7 +681676,7 @@
         "zh": "锁定范围上限"
     },
     "239609": {
-        "en": "Join fleet",
+        "en": "Join Fleet",
         "zh": "加入舰队"
     },
     "239610": {
@@ -711560,7 +711560,7 @@
         "zh": "美特伯里斯"
     },
     "267763": {
-        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy.  In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx.  This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
+        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy. In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx. This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
         "zh": "关于文明的一个长期既定事实是，只要有政府机构的地方，它的臣民就会在那里集中起来，成为官僚主义机器加速运转的燃料。  在这方面，米玛塔尔共和国也不例外，当议会和司法部在戈多洱星座落成之后，这确实带来了大量人口流入。  这些人口当然有各种需要，于是一些最大的玛塔利集团在这设立了总公司，使该星域热闹非凡，与美特伯里斯相差不远。"
     },
     "267764": {
@@ -849756,7 +849756,7 @@
         "zh": "按当前舰船匹配主题"
     },
     "504803": {
-        "en": "New Mail Recieved",
+        "en": "New Mail Received",
         "zh": "收到新邮件"
     },
     "504809": {
@@ -879972,7 +879972,7 @@
         "zh": "ECCM脚本"
     },
     "515287": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
         "zh": "这玩意儿一开始是为一群自称为“范达连帮”的青少年骇客所用，以期破解高科技安全固件。这些脚本通过在固件中插入指令可以改变那些固件的运作方式。现在随着那帮小子的成长，他们已将儿时的发明运用到了他们现在各自牵头的科研部门里。\n\n\n\n该脚本可用在感应增强器或远程感应增强器上，以增加装备的感应强度加成数值，不过这样做会降低其锁定距离和锁定速度加成数值。"
     },
     "515288": {
@@ -938836,7 +938836,7 @@
         "zh": "正在获取设置"
     },
     "538329": {
-        "en": "Drag icon into chat to share this filter with others.",
+        "en": "Drag icon into chat to share this filter with others",
         "zh": "将这个过滤条件拖到聊天栏里可以分享给其他人。"
     },
     "538330": {
@@ -969392,11 +969392,11 @@
         "zh": "超网订单已过期！"
     },
     "553525": {
-        "en": "A HyperNet offer for {type_link}  you are taking part in has finished",
+        "en": "A HyperNet offer for {type_link} you are taking part in has finished.",
         "zh": "你参与的{type_link}的超网订单  已经结束"
     },
     "553526": {
-        "en": "A HyperNet offer for {type_link}  you are interested in has expired. Tickets price have been refunded and the item returned to its owner",
+        "en": "A HyperNet offer for {type_link} you are interested in has expired. Ticket prices have been refunded and the item returned to its owner.",
         "zh": "你感兴趣的{type_link}的超网订单  已经过期。购买金额已返还，物品已归还其所有者"
     },
     "553527": {
@@ -1139848,7 +1139848,7 @@
         "zh": "天钩提取失败"
     },
     "722789": {
-        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used when unlimited design elements when turning a design into a ship SKIN in SKINR.",
+        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used with unlimited design elements when turning a design into a ship SKIN in SKINR.",
         "zh": "达成星空会每月进度里程碑后获得的奖励。宝箱内含序列器，可将在SKINR中使用无限设计元素的设计变为舰船涂装。"
     },
     "722790": {
@@ -1187056,7 +1187056,7 @@
         "zh": "深渊深层地核采矿激光器"
     },
     "1021716": {
-        "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+        "en": "A basic mining laser for mining deep core ore such as mercoxit. Very inefficient but does get the job done... eventually",
         "zh": "一种用于开采基腹断岩之类的深层地核矿石的基础采矿激光器。效率非常低，但至少能完成开采。"
     },
     "1021718": {
@@ -1243260,8 +1243260,8 @@
         "zh": "一艘隶属于法规与秩序特别事务局（法序局）的元帅级战列舰。这艘舰船由一名法序局上尉驾驶。作为当地法序局部队的指挥官，他们将不惜一切代价维护法序局的权威。"
     },
     "1056851": {
-        "en": "Imperial Navy Stasis Webifier",
-        "zh": "帝国海军停滞缠绕光束"
+        "en": "Compact Imperial Navy Stasis Webifier",
+        "zh": ""
     },
     "1056852": {
         "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
@@ -1243960,8 +1243960,8 @@
         "zh": "帝国海军跃迁扰频器蓝图"
     },
     "1057373": {
-        "en": "Imperial Navy Stasis Webifier Blueprint",
-        "zh": "帝国海军停滞缠绕光束蓝图"
+        "en": "Compact Imperial Navy Stasis Webifier Blueprint",
+        "zh": ""
     },
     "1057381": {
         "en": "Komel Oliphantine",
@@ -1246506,5 +1246506,17 @@
     "1063051": {
         "en": "Capacitor recharge rate bonus",
         "zh": ""
+    },
+    "1063124": {
+        "en": "Imperial Navy Stasis Webifier",
+        "zh": "帝国海军停滞缠绕光束"
+    },
+    "1063125": {
+        "en": "Reduces the maximum speed of a ship by employing micro energy streams that effectively entangle the target temporarily, thereby slowing it down.\r\n\r\nIn YC128, 14,161 capsuleers contributed to the Blessed Exchange campaign. It is thanks to that campaign’s economic reforms that the Imperial Navy was able to finance the development of its own Stasis Webifier version.",
+        "zh": "通过发射微能量流暂时缠住目标舰船，从而降低舰船的最大速度，使其减速。YC128年，共有14,161名克隆飞行员参与了“神圣交易”活动。正是得益于该活动推行的经济改革，帝国海军才得以资助自主研发停滞缠绕光束装置。"
+    },
+    "1063128": {
+        "en": "Imperial Navy Stasis Webifier Blueprint",
+        "zh": "帝国海军停滞缠绕光束蓝图"
     }
 }
