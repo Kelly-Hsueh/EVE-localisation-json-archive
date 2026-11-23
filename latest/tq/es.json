@@ -1246353,7 +1246353,7 @@
     },
     "1060618": {
         "en": "stations docked at",
-        "es": "Estación en la que estás acoplado"
+        "es": "estaciones en la que estás acoplado"
     },
     "1060623": {
         "en": "Manifest Station",
@@ -1246361,19 +1246361,19 @@
     },
     "1060624": {
         "en": "Dock at the Manifest V - AIR Laboratories Trade Center station",
-        "es": "Visita el centro mercantil de Manifest."
+        "es": "Acopla la nave en la estación del centro de comercio de AIR Laboratories de Manifest V."
     },
     "1060625": {
         "en": "Fly, trade, profit, repeat",
-        "es": "El centro mercantil de Exordium"
+        "es": "Vuela, comercia, haz negocio y repite."
     },
     "1060626": {
         "en": "Dock at station or structure",
-        "es": "Acopla en una estación"
+        "es": "Acoplar la nave en una estación o estructura"
     },
     "1060627": {
         "en": "Dock at station or structure",
-        "es": "Acopla la nave en una estación o estructura."
+        "es": "Acoplar la nave en una estación o estructura"
     },
     "1060628": {
         "en": "stations docked at",
@@ -1246414,6 +1246414,98 @@
     "1060639": {
         "en": "{skillLink} skill must be trained to overheat modules.",
         "es": "Debes entrenar la habilidad {skillLink} para poder sobrecalentar módulos."
+    },
+    "1060876": {
+        "en": "Empyrean Outlaws",
+        "es": ""
+    },
+    "1060877": {
+        "en": "Empyrean Outlaws",
+        "es": ""
+    },
+    "1060878": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060879": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060880": {
+        "en": "Succubus Empyrean Outlaws SKIN",
+        "es": ""
+    },
+    "1060881": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060882": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060883": {
+        "en": "Phantasm Empyrean Outlaws SKIN",
+        "es": ""
+    },
+    "1060884": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060885": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060886": {
+        "en": "Nightmare Empyrean Outlaws SKIN",
+        "es": ""
+    },
+    "1060887": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060888": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060889": {
+        "en": "Immolator Empyrean Outlaws SKIN",
+        "es": ""
+    },
+    "1060890": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060891": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060892": {
+        "en": "Zirnitra Empyrean Outlaws SKIN",
+        "es": ""
+    },
+    "1060893": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060894": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060895": {
+        "en": "Drekavac Empyrean Outlaws SKIN",
+        "es": ""
+    },
+    "1060896": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060897": {
+        "en": "<i>In chaos, opportunity. In death, profit. Take what's yours, burn the rest.</i>\r\n \r\nCapsuleer pirates are among the most feared predators of New Eden’s space lanes, posing a deadly threat to almost any non-capsuleer traffic and a serious problem for all but the most experienced loyalist and law-abiding capsuleers. Capsuleers, the so-called “Empyreans”, are considered a disruptive element by many but the outlaws among them can reach levels of notoriety that are usually the preserve of major corporation or alliance leaders.",
+        "es": ""
+    },
+    "1060898": {
+        "en": "Kikimora Empyrean Outlaws SKIN",
+        "es": ""
     },
     "1060914": {
         "en": "Learn more about Academy Ships",
@@ -1246465,6 +1246557,106 @@
     },
     "1061546": {
         "en": "Tornado Fleet Issue Stark Strategist SKIN",
+        "es": ""
+    },
+    "1061687": {
+        "en": "Copper Lightning",
+        "es": ""
+    },
+    "1061688": {
+        "en": "Copper Lightning",
+        "es": ""
+    },
+    "1061689": {
+        "en": "Copper Lightning",
+        "es": ""
+    },
+    "1061690": {
+        "en": "Copper Lightning",
+        "es": ""
+    },
+    "1061691": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061692": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061693": {
+        "en": "Malediction Copper Lightning SKIN",
+        "es": ""
+    },
+    "1061694": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061695": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061696": {
+        "en": "Gaia Copper Lightning SKIN",
+        "es": ""
+    },
+    "1061697": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061698": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061699": {
+        "en": "Ibis Copper Lightning SKIN",
+        "es": ""
+    },
+    "1061700": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061701": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061702": {
+        "en": "Pioneer Copper Lightning SKIN",
+        "es": ""
+    },
+    "1061703": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061704": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061705": {
+        "en": "Orthrus Copper Lightning SKIN",
+        "es": ""
+    },
+    "1061706": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061707": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061708": {
+        "en": "Barghest Copper Lightning SKIN",
+        "es": ""
+    },
+    "1061709": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061710": {
+        "en": "From a strong field, replete with many veteran players, the Mind Clash 101st Worlds Championships was won by Roj \"Copper Lightning\" Tarnagan in October YC123. The Gallente Prime Champion and multiple winner of the Federation Cup triumphed over the 99th Worlds Champion, Nadia \"Silver Bear\" Tanaka, in a final that was closely followed by audiences across New Eden, though especially keenly in the Federation and State.\r\n\r\nA nanocoating marking the victory of Roj Tarnagan was swiftly commissioned for sale to an eager market of Mind Clash fans, as has become common practice in recent years. With capsuleers a significant demographic among the most dedicated Mind Clash followers, the Copper Lightning nanocoating is expected to be popular among fans of this complex, mentally-demanding neuro-holographic sport.",
+        "es": ""
+    },
+    "1061711": {
+        "en": "Gnosis Copper Lightning SKIN",
         "es": ""
     },
     "1062198": {
