@@ -1014689,7 +1014689,7 @@
     },
     "575221": {
         "en": "<b><url=showinfo:5//30000146>Saisio</url>: Journey of Katia Sae</b><br>Warp to the Journey of Katia Sae<br><i>In the unending dark of space, there are a few bright lights to which we can reliably turn for guidance and inspiration. Katia Sae is one such beacon, a shining example of what we can all aspire towards. She exemplifies the attitude of a true explorer: friendly to all in her travels, neutral and never initiating aggression, and very, very hard to catch.</i>",
-        "ko": " <b><url=showinfo:5//30000146>사이시오</url>: Katia Sae의 여정</b><br>Katia Sae의 여정으로 워프<br><i>우주는 끝없는 어둠으로 가득하지만, 그 안에서도 희망의 빛을 발견할 수 있다는 점에서 위안을 얻습니다. Katia Sae는 인류를 밝히는 등대로 세상의 귀감이 되었던 인물입니다. 그녀는 누구에게나 다정하고 우호적인 태도를 유지했으며 다른 이에게 함부로 무력을 행사하지 않았습니다. 무엇보다 그녀의 발자취를 추적하는 것이 상당히 어려웠다는 점에서 그녀의 탐험가로서의 자질이 가장 빛났습니다.</i>"
+        "ko": "<b><url=showinfo:5//30000146>사이시오</url>: Katia Sae의 여정</b><br>Katia Sae의 여정으로 워프<br><i>우주는 끝없는 어둠으로 가득하지만, 그 안에서도 희망의 빛을 발견할 수 있다는 점에서 위안을 얻습니다. Katia Sae는 인류를 밝히는 등대로 세상의 귀감이 되었던 인물입니다. 그녀는 누구에게나 다정하고 우호적인 태도를 유지했으며 다른 이에게 함부로 무력을 행사하지 않았습니다. 무엇보다 그녀의 발자취를 추적하는 것이 상당히 어려웠다는 점에서 그녀의 탐험가로서의 자질이 가장 빛났습니다.</i>"
     },
     "575222": {
         "en": "Jakanerva",
@@ -1105496,7 +1105496,7 @@
         "ko": "역대 캡슐리어의 날 의상 상자"
     },
     "659125": {
-        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel. ",
+        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel.",
         "ko": "과거에 출시된 캡슐리어의 날 의상이 무작위로 들어 있는 상자입니다."
     },
     "659126": {
@@ -1125788,8 +1125788,8 @@
         "ko": "<b>필라멘트 제작 III</b><br><i>탐사 또는 거래소를 통해 획득한 자원과 블루프린트를 사용하여 말살 전기 필라멘트 또는 재난 감마 필라멘트를 제작하십시오. 제작이 완료된 필라멘트는 직접 사용하거나 거래소를 통해 판매할 수 있습니다.</i>"
     },
     "708597": {
-        "en": " Filament Construction IV",
-        "ko": " 필라멘트 제작 IV"
+        "en": "Filament Construction IV",
+        "ko": "필라멘트 제작 IV"
     },
     "708598": {
         "en": "Calamitous Filament Manufactured",
@@ -1127356,8 +1127356,8 @@
         "ko": "집행관 커리어 상자"
     },
     "709549": {
-        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.\r\n\r\n",
-        "ko": "뉴에덴에서 집행관은 각종 임무를 맡아 ISK를 보상으로 받습니다. 집행관의 활동에 맞춘 함선 SKIN을 제공하는 번들입니다.\r\n\r\n"
+        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.",
+        "ko": "뉴에덴에서 집행관은 각종 임무를 맡아 ISK를 보상으로 받습니다. 집행관의 활동에 맞춘 함선 SKIN을 제공하는 번들입니다."
     },
     "709550": {
         "en": "Soldier Career Crate",
@@ -1138768,8 +1138768,8 @@
         "ko": "각인기 선물 세트"
     },
     "722219": {
-        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process. ",
-        "ko": "파라곤이 SKINR 확장을 기념해 준비한 선물입니다. 각인 생성에 필요한 각인기가 들어 있습니다. "
+        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process.",
+        "ko": "파라곤이 SKINR 확장을 기념해 준비한 선물입니다. 각인 생성에 필요한 각인기가 들어 있습니다."
     },
     "722221": {
         "en": "Equinox Expansion",
@@ -1164256,8 +1164256,8 @@
         "ko": "드리프터가 활발하게 활동하는 웜홀을 관측해 수집한 텔레미터 데이터입니다. 데이터를 분석한 결과 웜홀에 대한 연구보다 웜홀을 통해 관측할 수 있는 하이퍼스페이스의 연결 상태를 연구한 것으로 보입니다.\r\n\r\n전체 스펙트럼 분석을 포함한 모든 데이터를 제한 없이 수록했습니다."
     },
     "1008622": {
-        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated. ",
-        "ko": "웜홀 연구기지를 보호하거나 하이퍼스페이스 텔레미터를 회수하기 위해 파괴하십시오. "
+        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated.",
+        "ko": "웜홀 연구기지를 보호하거나 하이퍼스페이스 텔레미터를 회수하기 위해 파괴하십시오."
     },
     "1008623": {
         "en": "Protect or Destroy Outpost",
@@ -1166448,8 +1166448,8 @@
         "ko": "연구기지 습격자가 입힌 피해"
     },
     "1009605": {
-        "en": "Deal damage to ships attacking the Wormhole Research Outpost. ",
-        "ko": "웜홀 연구기지를 공격하는 함선에 피해를 입히세요. "
+        "en": "Deal damage to ships attacking the Wormhole Research Outpost.",
+        "ko": "웜홀 연구기지를 공격하는 함선에 피해를 입히세요."
     },
     "1009637": {
         "en": "Large Veldspar Deposit",
@@ -1169840,8 +1169840,8 @@
         "ko": "<i>심판: 슬리퍼 제련소 또는 심판: 슬리퍼 주조 공장 사이트에서 유토피아 사가리스 배틀쉽을 파괴하십시오.</i>"
     },
     "1011387": {
-        "en": "(initial)Home Guard: Reconnaissance 1/3 ",
-        "ko": "(초기)국토 방위: 정찰 1/3 "
+        "en": "(initial)Home Guard: Reconnaissance 1/3",
+        "ko": "(초기)국토 방위: 정찰 1/3"
     },
     "1011388": {
         "en": "Reckoning Relic Site Entered",
@@ -1169852,8 +1169852,8 @@
         "ko": "<i>하이 시큐리티 지역의 심판: 슬리퍼 저장고 또는 로우 및 널 시큐리티 지역의 심판: 드리프터 비축고에 진입하십시오. 사이트는 프로브 스캐너로 찾을 수 있으며 완료하려면 유물 분석기가 필요합니다. 단독으로 도전할 수 있는 사이트입니다.</i>"
     },
     "1011390": {
-        "en": "(initial)Home Guard: Reconnaissance 2/3 ",
-        "ko": "(초기)국토 방위: 정찰 2/3 "
+        "en": "(initial)Home Guard: Reconnaissance 2/3",
+        "ko": "(초기)국토 방위: 정찰 2/3"
     },
     "1011391": {
         "en": "Sleeper Relics Hacked",
@@ -1169864,8 +1169864,8 @@
         "ko": "<i>심판: 슬리퍼 저장고 또는 심판: 드리프터 비축고 사이트에서 파괴된 슬리퍼 저장고, 보존된 슬리퍼 저장고, 드리프터 컬렉션, 고급 드리프터 컬렉션을 해킹하십시오.</i>"
     },
     "1011393": {
-        "en": "(initial)Home Guard: Reconnaissance 3/3 ",
-        "ko": "(초기)국토 방위: 정찰 3/3 "
+        "en": "(initial)Home Guard: Reconnaissance 3/3",
+        "ko": "(초기)국토 방위: 정찰 3/3"
     },
     "1011394": {
         "en": "More Sleeper Relics Hacked",
@@ -1183268,8 +1183268,8 @@
         "ko": "임무 완수"
     },
     "1018560": {
-        "en": " <i>As a Vanguard, complete 5 assignments.</i>",
-        "ko": " <i>Vanguard로 5가지 임무 완수하기</i>"
+        "en": "<i>As a Vanguard, complete 5 assignments.</i>",
+        "ko": "<i>Vanguard로 5가지 임무 완수하기</i>"
     },
     "1018583": {
         "en": "Vanguard Entities",
@@ -1202196,8 +1202196,8 @@
         "ko": "파라곤 문장으로 함선을 취향에 맞게 꾸며 보세요.\r\n\r\n데이터베이스에 등록된 개인 정보를 활용하여 나노홀로그래픽 문장을 함선에 새길 수 있습니다. 또한 클라우드 기반의 AI 동기화 시스템을 도입하여 워프 시에도 문장이 비활성화되지 않습니다.\r\n\r\n문장을 구매하려면 가까운 IRIS를 방문해주세요.\r\n\r\n파라곤, 더 나은 내일\r\n\r\n주의: 문장은 구매 후 자동으로 등록되며 다른 캡슐리어와 거래할 수 없습니다. 파라곤 코퍼레이션은 무단 거래 행위 중 발생하는 모든 손해 및 파손에 대해 책임지지 않습니다."
     },
     "1034349": {
-        "en": "Dragoon Navy Issue Alliance Emblem ",
-        "ko": "드라군 해군 에디션 얼라이언스 문장 "
+        "en": "Dragoon Navy Issue Alliance Emblem",
+        "ko": "드라군 해군 에디션 얼라이언스 문장"
     },
     "1034350": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1202732,8 +1202732,8 @@
         "ko": "아마르 제국이 군사 작전을 지원하려 제작한 부스터입니다.\r\n\r\n<b>폭발 저항력 실드, 장갑 및 선체 저항력 6% 증가\r\n키네틱 저항력 실드, 장갑 및 선체 저항력 3% 증가\r\n데이터 및 유물 분석기 바이러스 결합도 12 증가\r\n채굴, 아이스 및 가스 하베스팅 손실 확률 12% 감소\r\n기본 지속시간: 2시간<b>\r\n\r\n<b>만료일: YC 128년 11월 10일</b>"
     },
     "1034847": {
-        "en": "Expired State Defense Booster II ",
-        "ko": "만료된 연합 방어 부스터 II "
+        "en": "Expired State Defense Booster II",
+        "ko": "만료된 연합 방어 부스터 II"
     },
     "1034848": {
         "en": "This booster has been produced by the Caldari State to assist capsuleers with their military campaign war efforts.\r\n\r\n<b>+4% bonus to Thermal Shield, Armor and Hull Resistances\r\n+2% bonus to Kinetic Shield, Armor and Hull Resistances\r\n+8 bonus to Data and Relic Analyzer Virus Coherence\r\n+8% reduction to Mining, Ice and Gas harvesting residue probability. \r\nBase Duration: 2 Hours<b>\r\n\r\n<b>Expiry date: November 10th YC128</b>",
@@ -1209964,16 +1209964,16 @@
         "ko": "비활성화된 연방 연구시설 점령함"
     },
     "1038438": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
-        "ko": "연구 시설이 가동되지 않습니다. <a href=showinfo:92571>모이사나이트 크리스탈</a>을 제공하면 가동을 시작할 수 있습니다.\r\n\r\n칼다리 연합 소속 캡슐리어는 데이터 분석기를 활용해 시설의 통제권을 탈취해 가동할 수 있습니다.\r\n\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "ko": "연구 시설이 가동되지 않습니다. <a href=showinfo:92571>모이사나이트 크리스탈</a>을 제공하면 가동을 시작할 수 있습니다.\r\n\r\n칼다리 연합 소속 캡슐리어는 데이터 분석기를 활용해 시설의 통제권을 탈취해 가동할 수 있습니다."
     },
     "1038439": {
         "en": "Occupied Inactive Republic Research Relay",
         "ko": "비활성화된 공화국 연구시설 점령함"
     },
     "1038440": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
-        "ko": "연구 시설이 가동되지 않습니다. <a href=showinfo:92572>켄자이트 크리스탈</a>을 제공하면 가동을 시작할 수 있습니다.\r\n\r\n아마르 제국 소속 캡슐리어는 데이터 분석기를 활용해 시설의 통제권을 탈취해 가동할 수 있습니다.\r\n\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "ko": "연구 시설이 가동되지 않습니다. <a href=showinfo:92572>켄자이트 크리스탈</a>을 제공하면 가동을 시작할 수 있습니다.\r\n\r\n아마르 제국 소속 캡슐리어는 데이터 분석기를 활용해 시설의 통제권을 탈취해 가동할 수 있습니다."
     },
     "1038441": {
         "en": "AIR Trade Center",
@@ -1222336,16 +1222336,16 @@
         "ko": "프로토타입 '플루토' 채굴 드론 블루프린트 상자"
     },
     "1043518": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. \r\n ",
-        "ko": "5회 사용할 수 있는 프로토타입 '플루토' 채굴 드론 블루프린트가 들어 있습니다. 갈란테 연방의 '로그 엣지' 작전 중 모이사나이트를 운송한 보상으로 제공됩니다. \r\n "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
+        "ko": "5회 사용할 수 있는 프로토타입 '플루토' 채굴 드론 블루프린트가 들어 있습니다. 갈란테 연방의 '로그 엣지' 작전 중 모이사나이트를 운송한 보상으로 제공됩니다."
     },
     "1043519": {
         "en": "Prototype 'Pluto' Ice Harvesting Drone Blueprint Crate",
         "ko": "프로토타입 '플루토' 아이스 채굴 드론 블루프린트 상자"
     },
     "1043520": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. ",
-        "ko": "5회 사용할 수 있는 프로토타입 '플루토' 채굴 드론 블루프린트가 들어 있습니다. 갈란테 연방의 '로그 엣지' 작전 중 모이사나이트를 운송한 보상으로 제공됩니다. "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
+        "ko": "5회 사용할 수 있는 프로토타입 '플루토' 채굴 드론 블루프린트가 들어 있습니다. 갈란테 연방의 '로그 엣지' 작전 중 모이사나이트를 운송한 보상으로 제공됩니다."
     },
     "1043521": {
         "en": "Prototype 'Pluto' Mining Drone Blueprint Crate",
@@ -1239576,7 +1239576,7 @@
         "ko": ""
     },
     "1055379": {
-        "en": "Totality Day Celebration Crate ",
+        "en": "Totality Day Celebration Crate",
         "ko": ""
     },
     "1055380": {
@@ -1239996,8 +1239996,8 @@
         "ko": "유물 분석기로 촉발기를 해킹해 사이트의 통신 시설 전력을 복구해야 합니다. 통신 시설에서 <url=showinfo:97547>일방형 붕괴 신호</url>를 찾을 수 있습니다.\r\n\r\n주의: 사이트 내부가 매우 불안정합니다. 통신 시설을 가동하면 운송 및 정밀 제조 촉발기가 폭발해 해당 구역에 진입할 수 없습니다."
     },
     "1055574": {
-        "en": "CH26: Destroy Tetrimon NPCs Initial ",
-        "ko": "CH26: 테트리몬 NPC 처치 초회 "
+        "en": "CH26: Destroy Tetrimon NPCs Initial",
+        "ko": "CH26: 테트리몬 NPC 처치 초회"
     },
     "1055575": {
         "en": "Tetrimon Ship Destroyed",
@@ -1240216,8 +1240216,8 @@
         "ko": "<i>다음 사이트에서 테트리몬 네트워크 노드 또는 허브 40회 해킹하기:<br>- 테트리몬 네트워크 노드<br>- 테트리몬 네트워크 허브</i>"
     },
     "1055643": {
-        "en": "CH26: Destroy Blood Raider NPCs Initial ",
-        "ko": "CH26: 블러드 레이더 NPC 처치 초회 "
+        "en": "CH26: Destroy Blood Raider NPCs Initial",
+        "ko": "CH26: 블러드 레이더 NPC 처치 초회"
     },
     "1055644": {
         "en": "Blood Raider Ship Destroyed",
@@ -1241988,8 +1241988,8 @@
         "ko": "퇴행의 마울러스"
     },
     "1056420": {
-        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "ko": "갈렌티아 프라이머시 소속 마울러스 프리깃입니다. 스테이시스 웹 기능을 활용합니다.\r\n\r\n갈렌티아 프라이머시는 연방의 로그 드론 기술 개발을 혐오합니다. 갈란테의 순수성을 훼손하는 나약한 행위로 여기기 때문입니다. "
+        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "ko": "갈렌티아 프라이머시 소속 마울러스 프리깃입니다. 스테이시스 웹 기능을 활용합니다.\r\n\r\n갈렌티아 프라이머시는 연방의 로그 드론 기술 개발을 혐오합니다. 갈란테의 순수성을 훼손하는 나약한 행위로 여기기 때문입니다."
     },
     "1056421": {
         "en": "Weaver Vigil",

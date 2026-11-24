@@ -1105496,7 +1105496,7 @@
         "fr": "Caisse de vêtements historique du Jour des Capsuliers"
     },
     "659125": {
-        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel. ",
+        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel.",
         "fr": "Cette caisse contient un élément aléatoire de la tenue historique du Jour des Capsuliers."
     },
     "659126": {
@@ -1118329,7 +1118329,7 @@
     },
     "695560": {
         "en": "Upon opening, you will receive <b>Agency Support Drop</b> plus one of the following:\r\n\r\n<b>a random GalNet StreamCast Unit SKIN</b>\r\n<b>19th Tier Overseer's Personal Effects</b>\r\n<b>23rd Tier Overseer's Personal Effects</b>\r\n<b>PLEX</b>",
-        "fr": "À l'ouverture, vous recevrez <b>Délirium de soutien de l'Agence</b> ainsi qu'un des éléments suivants : \r\n\r\n<b>un SKIN Unité StreamCast du GalNet aléatoire</b> \r\n<b>Effets personnels du surveillant 19e rang</b>\r\n<b>Effets personnels du surveillant 23e rang</b>\r\n <b>PLEX</b> "
+        "fr": "À l'ouverture, vous recevrez <b>Délirium de soutien de l'Agence</b> ainsi qu'un des éléments suivants : \r\n\r\n<b>un SKIN Unité StreamCast du GalNet aléatoire</b> \r\n<b>Effets personnels du surveillant 19e rang</b>\r\n<b>Effets personnels du surveillant 23e rang</b>\r\n <b>PLEX</b>"
     },
     "695563": {
         "en": "Reward per point of damage",
@@ -1125788,8 +1125788,8 @@
         "fr": "<b>Production de filament III</b><br><i>En utilisant les matériaux et les plans que vous avez obtenus grâce à vos propres efforts d'exploration et sur le marché, fabriquez un filament électrique annihilé ou un filament gamma désastreux. Une fois la fabrication terminée, vous pouvez soit utiliser ce filament vous-même, soit le vendre à quelqu'un d'autre via le marché.</i>"
     },
     "708597": {
-        "en": " Filament Construction IV",
-        "fr": " Production de filament IV"
+        "en": "Filament Construction IV",
+        "fr": "Production de filament IV"
     },
     "708598": {
         "en": "Calamitous Filament Manufactured",
@@ -1127356,8 +1127356,8 @@
         "fr": "Caisse de carrière d'exécuteur"
     },
     "709549": {
-        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.\r\n\r\n",
-        "fr": "La vie d'un exécuteur à New Eden implique d'accepter des missions et de gagner des ISK par tous les moyens possibles. Cette caisse renferme un SKIN de vaisseau inspirant.\r\n\r\n"
+        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.",
+        "fr": "La vie d'un exécuteur à New Eden implique d'accepter des missions et de gagner des ISK par tous les moyens possibles. Cette caisse renferme un SKIN de vaisseau inspirant."
     },
     "709550": {
         "en": "Soldier Career Crate",
@@ -1138768,8 +1138768,8 @@
         "fr": "Kit de bienvenue de fixateurs de séquence"
     },
     "722219": {
-        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process. ",
-        "fr": "Un pack de bienvenue de Paragon invitant les capsuliers de tous horizons à essayer le nouvel outil SKINR avec un ensemble gratuit de fixateurs de séquence utilisés dans le processus de séquençage. "
+        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process.",
+        "fr": "Un pack de bienvenue de Paragon invitant les capsuliers de tous horizons à essayer le nouvel outil SKINR avec un ensemble gratuit de fixateurs de séquence utilisés dans le processus de séquençage."
     },
     "722221": {
         "en": "Equinox Expansion",
@@ -1164256,8 +1164256,8 @@
         "fr": "Les données de télémétrie sont recueillies grâce à l'observation des trous de ver liés à l'activité des Drifters. Les données ne semblent pas concerner le trou de ver lui-même, mais plutôt les connexions hyperspatiales qui peuvent être observées à travers celui-ci. Ces données n'ont pas été limitées dans leur portée et l'intégralité du spectre analytique a été incluse."
     },
     "1008622": {
-        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated. ",
-        "fr": "Protégez l'avant-poste de recherche sur les trous de ver ou détruisez-le pour récupérer toute donnée de télémétrie hyperspatiale générée. "
+        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated.",
+        "fr": "Protégez l'avant-poste de recherche sur les trous de ver ou détruisez-le pour récupérer toute donnée de télémétrie hyperspatiale générée."
     },
     "1008623": {
         "en": "Protect or Destroy Outpost",
@@ -1166448,8 +1166448,8 @@
         "fr": "Dégâts infligés aux assaillants de l'avant-poste de recherche"
     },
     "1009605": {
-        "en": "Deal damage to ships attacking the Wormhole Research Outpost. ",
-        "fr": "Infligez des dégâts aux vaisseaux attaquant l'avant-poste de recherche sur les trous de ver. "
+        "en": "Deal damage to ships attacking the Wormhole Research Outpost.",
+        "fr": "Infligez des dégâts aux vaisseaux attaquant l'avant-poste de recherche sur les trous de ver."
     },
     "1009637": {
         "en": "Large Veldspar Deposit",
@@ -1169840,8 +1169840,8 @@
         "fr": "<i>Détruisez un cuirassé Sagaris utopique dans Représailles : Forge sleeper ou Représailles : Fonderie sleeper.</i>"
     },
     "1011387": {
-        "en": "(initial)Home Guard: Reconnaissance 1/3 ",
-        "fr": "(initial)Garde nationale : Reconnaissance 1/3 "
+        "en": "(initial)Home Guard: Reconnaissance 1/3",
+        "fr": "(initial)Garde nationale : Reconnaissance 1/3"
     },
     "1011388": {
         "en": "Reckoning Relic Site Entered",
@@ -1169852,8 +1169852,8 @@
         "fr": "<i>Entrez sur un site de Représailles : Réserve sleeper dans l'espace de haute sécurité ou Représailles : Stock drifter dans l'espace de sécurité basse ou nulle. Un scanner de sondes est nécessaire pour localiser ces sites et un analyseur de reliques pour les achever. Ce défi est adapté aux capsuliers seuls.</i>"
     },
     "1011390": {
-        "en": "(initial)Home Guard: Reconnaissance 2/3 ",
-        "fr": "(initial)Garde nationale : Reconnaissance 2/3 "
+        "en": "(initial)Home Guard: Reconnaissance 2/3",
+        "fr": "(initial)Garde nationale : Reconnaissance 2/3"
     },
     "1011391": {
         "en": "Sleeper Relics Hacked",
@@ -1169864,8 +1169864,8 @@
         "fr": "<i>Piratez des dépôts sleeper en ruines, des dépôts sleeper préservés, des collections drifter ou des collections drifter exemplaires trouvées sur les sites Représailles : Réserve sleeper ou Représailles : Stock drifter.</i>"
     },
     "1011393": {
-        "en": "(initial)Home Guard: Reconnaissance 3/3 ",
-        "fr": "(initial)Garde nationale : Reconnaissance 3/3 "
+        "en": "(initial)Home Guard: Reconnaissance 3/3",
+        "fr": "(initial)Garde nationale : Reconnaissance 3/3"
     },
     "1011394": {
         "en": "More Sleeper Relics Hacked",
@@ -1183268,8 +1183268,8 @@
         "fr": "Mission accomplie"
     },
     "1018560": {
-        "en": " <i>As a Vanguard, complete 5 assignments.</i>",
-        "fr": " <i>En tant que Vanguard, accomplissez 5 missions.</i>"
+        "en": "<i>As a Vanguard, complete 5 assignments.</i>",
+        "fr": "<i>En tant que Vanguard, accomplissez 5 missions.</i>"
     },
     "1018583": {
         "en": "Vanguard Entities",
@@ -1202196,8 +1202196,8 @@
         "fr": "Les emblèmes de Paragon apportent une nouvelle dimension à la personnalisation de votre vaisseau. En accédant à vos données d'identité enregistrées, ces projections nanoholographiques ornent vos vaisseaux favoris avec des symboles qui ont de l'importance pour vous. Désormais, grâce à l'utilisation des dernières avancées en matière de synchronisation IA basée sur le cloud, les emblèmes restent stables même en warp. Consultez l'IRIS la plus proche et participez aux dernières initiatives de Paragon pour déverrouiller de nouveaux emblèmes dès aujourd'hui. Paragon ; soyez plus. AVERTISSEMENT : les emblèmes sont automatiquement injectés lors de l'achat et ne peuvent être transférés ou échangés entre capsuliers. La corporation Paragon n'accepte aucune responsabilité pour les échecs de tentatives de transfert."
     },
     "1034349": {
-        "en": "Dragoon Navy Issue Alliance Emblem ",
-        "fr": "Emblème d'alliance pour Dragoon Navy Issue "
+        "en": "Dragoon Navy Issue Alliance Emblem",
+        "fr": "Emblème d'alliance pour Dragoon Navy Issue"
     },
     "1034350": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1202732,8 +1202732,8 @@
         "fr": "Ce booster a été produit par l'Empire amarr pour aider les capsuliers dans leur participation à l'effort de guerre de la campagne. <b>+6 % de bonus aux résistances explosives du bouclier, du blindage et de la coque +3 % de bonus aux résistances cinétiques du bouclier, du blindage et de la coque +12 de bonus à la résistance virale de l'analyseur de reliques et de données +12 % de réduction de la probabilité de résidus pour le laser d'extraction minière, le collecteur de glace et le collecteur de nuages de gaz. Durée de base : 2 heures<b> <b>Date d'expiration : 10 novembre 128 après CY</b>"
     },
     "1034847": {
-        "en": "Expired State Defense Booster II ",
-        "fr": "Booster de défenses de l'État II expiré "
+        "en": "Expired State Defense Booster II",
+        "fr": "Booster de défenses de l'État II expiré"
     },
     "1034848": {
         "en": "This booster has been produced by the Caldari State to assist capsuleers with their military campaign war efforts.\r\n\r\n<b>+4% bonus to Thermal Shield, Armor and Hull Resistances\r\n+2% bonus to Kinetic Shield, Armor and Hull Resistances\r\n+8 bonus to Data and Relic Analyzer Virus Coherence\r\n+8% reduction to Mining, Ice and Gas harvesting residue probability. \r\nBase Duration: 2 Hours<b>\r\n\r\n<b>Expiry date: November 10th YC128</b>",
@@ -1209964,16 +1209964,16 @@
         "fr": "Relais de recherche inactif de la Fédération occupé"
     },
     "1038438": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
-        "fr": "Ce relais de recherche est actuellement inactif. Il peut être activé en lui fournissant des <a href=showinfo:92571>cristaux de moissanite</a> Les capsuliers engagés pour l'État caldari pourraient prendre le contrôle de cette structure en utilisant un analyseur de données, si elle reste inactive.\r\n\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "fr": "Ce relais de recherche est actuellement inactif. Il peut être activé en lui fournissant des <a href=showinfo:92571>cristaux de moissanite</a> Les capsuliers engagés pour l'État caldari pourraient prendre le contrôle de cette structure en utilisant un analyseur de données, si elle reste inactive."
     },
     "1038439": {
         "en": "Occupied Inactive Republic Research Relay",
         "fr": "Relais de recherche inactif de la République occupé"
     },
     "1038440": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
-        "fr": "Ce relais de recherche est actuellement inactif. Il peut être activé en lui fournissant des <a href=showinfo:92572>cristaux de kangite</a> Les capsuliers engagés pour l'Empire amarr pourraient prendre le contrôle de cette structure en utilisant un analyseur de données, si elle reste inactive.\r\n\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "fr": "Ce relais de recherche est actuellement inactif. Il peut être activé en lui fournissant des <a href=showinfo:92572>cristaux de kangite</a> Les capsuliers engagés pour l'Empire amarr pourraient prendre le contrôle de cette structure en utilisant un analyseur de données, si elle reste inactive."
     },
     "1038441": {
         "en": "AIR Trade Center",
@@ -1222336,16 +1222336,16 @@
         "fr": "Caisse de plan de construction Prototype de drone d'extraction 'Pluto'"
     },
     "1043518": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. \r\n ",
-        "fr": "Contient un plan de construction limité à 5 utilisations pour le Prototype de drone d'extraction 'Pluto'. Offert en récompense pour avoir livré de la moissanite à la Fédération gallente durant l'opération « Rogue Edge ». \r\n "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
+        "fr": "Contient un plan de construction limité à 5 utilisations pour le Prototype de drone d'extraction 'Pluto'. Offert en récompense pour avoir livré de la moissanite à la Fédération gallente durant l'opération « Rogue Edge »."
     },
     "1043519": {
         "en": "Prototype 'Pluto' Ice Harvesting Drone Blueprint Crate",
         "fr": "Caisse de plan de construction Prototype de drone collecteur de glace 'Pluto'"
     },
     "1043520": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. ",
-        "fr": "Contient un plan de construction limité à 5 utilisations pour le Prototype de drone d'extraction 'Pluto'. Offert en récompense pour avoir livré de la moissanite à la Fédération gallente durant l'opération « Rogue Edge ». "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
+        "fr": "Contient un plan de construction limité à 5 utilisations pour le Prototype de drone d'extraction 'Pluto'. Offert en récompense pour avoir livré de la moissanite à la Fédération gallente durant l'opération « Rogue Edge »."
     },
     "1043521": {
         "en": "Prototype 'Pluto' Mining Drone Blueprint Crate",
@@ -1239576,7 +1239576,7 @@
         "fr": ""
     },
     "1055379": {
-        "en": "Totality Day Celebration Crate ",
+        "en": "Totality Day Celebration Crate",
         "fr": ""
     },
     "1055380": {
@@ -1239996,8 +1239996,8 @@
         "fr": "Pirater cet initiateur à l'aide d'un analyseur de reliques mettra en ligne la section communications de ce site. C'est dans cette section que vous pourriez trouver des <url=showinfo:97547>signaux d'effondrement stéréo</url>.\r\n\r\nAVERTISSEMENT : ce site est extrêmement instable. Pirater cet initiateur fera exploser les initiateurs d'ingénierie et de logistique, rendant ces sections inaccessibles."
     },
     "1055574": {
-        "en": "CH26: Destroy Tetrimon NPCs Initial ",
-        "fr": "MP26 : Détruisez les NPC Tetrimon - Initial "
+        "en": "CH26: Destroy Tetrimon NPCs Initial",
+        "fr": "MP26 : Détruisez les NPC Tetrimon - Initial"
     },
     "1055575": {
         "en": "Tetrimon Ship Destroyed",
@@ -1240216,8 +1240216,8 @@
         "fr": "<i>Piratez 40 nœuds réseau ou pôles réseau tetrimon trouvés sur les sites suivants :<br>- Nœud réseau Tetrimon<br>- Pôle réseau Tetrimon</i>"
     },
     "1055643": {
-        "en": "CH26: Destroy Blood Raider NPCs Initial ",
-        "fr": "MP26 : Détruisez des NPC blood raider - Initial "
+        "en": "CH26: Destroy Blood Raider NPCs Initial",
+        "fr": "MP26 : Détruisez des NPC blood raider - Initial"
     },
     "1055644": {
         "en": "Blood Raider Ship Destroyed",
@@ -1241988,8 +1241988,8 @@
         "fr": "Maulus de régression"
     },
     "1056420": {
-        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
-        "fr": "Une frégate de classe Maulus sous le commandement de la Primauté gallente. Elle est chargée de la génération de stase.\r\n\r\nLa Primauté gallente exècre le développement de la technologie des drones renégats par la Fédération, y voyant un chemin vers la faiblesse et une dilution de la pureté gallente. "
+        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
+        "fr": "Une frégate de classe Maulus sous le commandement de la Primauté gallente. Elle est chargée de la génération de stase.\r\n\r\nLa Primauté gallente exècre le développement de la technologie des drones renégats par la Fédération, y voyant un chemin vers la faiblesse et une dilution de la pureté gallente."
     },
     "1056421": {
         "en": "Weaver Vigil",

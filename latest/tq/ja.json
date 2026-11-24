@@ -1105496,7 +1105496,7 @@
         "ja": "カプセラデー歴史的アパレル箱"
     },
     "659125": {
-        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel. ",
+        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel.",
         "ja": "この箱にはランダムなカプセラデーの歴史的アパレルが含まれている"
     },
     "659126": {
@@ -1125788,8 +1125788,8 @@
         "ja": "<b>フィラメントの製造 III</b><br><i>自身が行った探検やマーケットを通じて手に入れた資源と設計図を使い、アナイアレイテッド電気フィラメントまたはディザストラス・ガンマフィラメントを製造する。製造が完了したフィラメントは自分で使うことも可能だし、マーケットを使って売却することもできる。</i>"
     },
     "708597": {
-        "en": " Filament Construction IV",
-        "ja": " フィラメントの製造 IV"
+        "en": "Filament Construction IV",
+        "ja": "フィラメントの製造 IV"
     },
     "708598": {
         "en": "Calamitous Filament Manufactured",
@@ -1127356,8 +1127356,8 @@
         "ja": "エンフォーサー・キャリア箱"
     },
     "709549": {
-        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.\r\n\r\n",
-        "ja": "ニューエデンにおけるエンフォーサーの生業とは、対応できるジョブを引き受け、ISKを稼ぐことである。この箱には見る者の心を揺さぶる艦船用SKINが入っている。\r\n"
+        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.",
+        "ja": "ニューエデンにおけるエンフォーサーの生業とは、対応できるジョブを引き受け、ISKを稼ぐことである。この箱には見る者の心を揺さぶる艦船用SKINが入っている。"
     },
     "709550": {
         "en": "Soldier Career Crate",
@@ -1138768,8 +1138768,8 @@
         "ja": "シーケンスバインダー・ウェルカムパッケージ"
     },
     "722219": {
-        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process. ",
-        "ja": "パラゴンが配布している体験パック。同社はニューエデン中のカプセラに新たなSKINRを体験するよう呼びかけており、シーケンシングプロセスで使用するシーケンスバインダーのセットを無料配布しています。 "
+        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process.",
+        "ja": "パラゴンが配布している体験パック。同社はニューエデン中のカプセラに新たなSKINRを体験するよう呼びかけており、シーケンシングプロセスで使用するシーケンスバインダーのセットを無料配布しています。"
     },
     "722221": {
         "en": "Equinox Expansion",
@@ -1164256,8 +1164256,8 @@
         "ja": "ドリフターの活動に関連するワームホールを観測して得られたテレメトリデータ。ワームホールそのものではなく、それを通して観測できるさらなるハイパースペース接続に主眼を置いたデータのようだ。\r\n\r\nこのデータは範囲に制限がかけられておらず、あらゆる分析結果が含まれている。"
     },
     "1008622": {
-        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated. ",
-        "ja": "ワームホール研究アウトポストを防衛せよ。または破壊して、生成されたハイパースペースのテレメトリデーを回収せよ。 "
+        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated.",
+        "ja": "ワームホール研究アウトポストを防衛せよ。または破壊して、生成されたハイパースペースのテレメトリデーを回収せよ。"
     },
     "1008623": {
         "en": "Protect or Destroy Outpost",
@@ -1166448,8 +1166448,8 @@
         "ja": "研究アウトポストの襲撃者に与えたダメージ"
     },
     "1009605": {
-        "en": "Deal damage to ships attacking the Wormhole Research Outpost. ",
-        "ja": "ワームホール研究アウトポストを攻撃している艦船にダメージを与える。 "
+        "en": "Deal damage to ships attacking the Wormhole Research Outpost.",
+        "ja": "ワームホール研究アウトポストを攻撃している艦船にダメージを与える。"
     },
     "1009637": {
         "en": "Large Veldspar Deposit",
@@ -1168009,7 +1168009,7 @@
     },
     "1010490": {
         "en": "Contains a festival launcher module and commemorative Capsuleer Day XXII fireworks.(DO NOT TRANSLATE)",
-        "ja": "Contains a festival launcher module and commemorative Capsuleer Day XXII fireworks.(DO NOT TRANSLATE) "
+        "ja": "Contains a festival launcher module and commemorative Capsuleer Day XXII fireworks.(DO NOT TRANSLATE)"
     },
     "1010491": {
         "en": "This crate contains two randomly selected Capsuleer Day XXII boosters, including a guaranteed Tier 3 booster.",
@@ -1169840,8 +1169840,8 @@
         "ja": "<i>「レコニング：スリーパーの工場」または「レコニング：スリーパーの鋳造所」でユートピアン・サガリスの戦艦を1隻撃沈する。</i>"
     },
     "1011387": {
-        "en": "(initial)Home Guard: Reconnaissance 1/3 ",
-        "ja": "（初期）ホームガード：偵察1/3 "
+        "en": "(initial)Home Guard: Reconnaissance 1/3",
+        "ja": "（初期）ホームガード：偵察1/3"
     },
     "1011388": {
         "en": "Reckoning Relic Site Entered",
@@ -1169852,8 +1169852,8 @@
         "ja": "<i>ハイセキュリティ宙域の「レコニング：スリーパーの保存所」サイト、もしくはロー/ゼロセキュリティ宙域の「レコニング：ドリフターの備蓄所」サイトに進入せよ。これらサイトの位置特定にはプローブスキャナー、完了するには遺物アナライザーが必要となる。ソロのカプセラに適したチャレンジ。</i>"
     },
     "1011390": {
-        "en": "(initial)Home Guard: Reconnaissance 2/3 ",
-        "ja": "（初期）ホームガード：偵察2/3 "
+        "en": "(initial)Home Guard: Reconnaissance 2/3",
+        "ja": "（初期）ホームガード：偵察2/3"
     },
     "1011391": {
         "en": "Sleeper Relics Hacked",
@@ -1169864,8 +1169864,8 @@
         "ja": "<i>「レコニング：スリーパーの保存所」や「レコニング：ドリフターの備蓄所」の各サイトで見つかる崩壊したスリーパーの貯蔵庫、状態が良好なスリーパーの貯蔵庫、ドリフターの収集物、またはドリフターの高級収集物をハッキングする。</i>"
     },
     "1011393": {
-        "en": "(initial)Home Guard: Reconnaissance 3/3 ",
-        "ja": "（初期）ホームガード：偵察3/3 "
+        "en": "(initial)Home Guard: Reconnaissance 3/3",
+        "ja": "（初期）ホームガード：偵察3/3"
     },
     "1011394": {
         "en": "More Sleeper Relics Hacked",
@@ -1183268,8 +1183268,8 @@
         "ja": "完了した任務"
     },
     "1018560": {
-        "en": " <i>As a Vanguard, complete 5 assignments.</i>",
-        "ja": " <i>ヴァンガードとして、5つの任務を完了せよ。</i>"
+        "en": "<i>As a Vanguard, complete 5 assignments.</i>",
+        "ja": "<i>ヴァンガードとして、5つの任務を完了せよ。</i>"
     },
     "1018583": {
         "en": "Vanguard Entities",
@@ -1184993,7 +1184993,7 @@
     },
     "1019439": {
         "en": "Non-interactable Upwell Research Complex Wreck (DO NOT TRANSLATE)",
-        "ja": "Non-interactable Upwell Research Complex Wreck (DO NOT TRANSLATE) "
+        "ja": "Non-interactable Upwell Research Complex Wreck (DO NOT TRANSLATE)"
     },
     "1019441": {
         "en": "Mobile Phase Anchors",
@@ -1202196,8 +1202196,8 @@
         "ja": "パラゴンのエンブレムにより、新世代の艦船のカスタマイズが可能に。\r\n\r\nこれらのナノホログラフィックプロジェクション技術は、登録した識別データにアクセスすることでお気に入りの艦船を自身にまつわるシンボルによって装飾するものです。最新のクラウドベースAI同期技術を活用することで、ワープ中の安定的なエンブレム維持さえも可能となりました。\r\n\r\n最寄りのIRISを訪ね、パラゴンの最新の取り組みに参加して新たなエンブレムをアンロックしてください。\r\n\r\nパラゴン、さらなる豊かさを求めて。\r\n\r\n警告：エンブレムは購入時に自動注入され、カプセラ間での移譲、トレードを行うことはできません。移譲を試みて失敗した場合、パラゴンコーポレーションは一切責任を負いません。"
     },
     "1034349": {
-        "en": "Dragoon Navy Issue Alliance Emblem ",
-        "ja": "ドラグーン海軍仕様用アライアンスエンブレム "
+        "en": "Dragoon Navy Issue Alliance Emblem",
+        "ja": "ドラグーン海軍仕様用アライアンスエンブレム"
     },
     "1034350": {
         "en": "Emblems by Paragon bring new light to your ship personalization.\r\n\r\nBy accessing your registered identity data, these nanoholographic projections emblazon your favorite vessels with symbols that matter to you. And now, by utilizing the latest in cloud-based AI synchronization, emblems remain stable even during warp.\r\n\r\nVisit your nearest IRIS and take part in Paragon's latest initiatives to unlock new emblems today.\r\n\r\nParagon; be more.\r\n\r\nWARNING: Emblems are auto-injected on purchases and cannot be transferred or traded between capsuleers. The Paragon corporation accepts no liability for failed transfer attempts.",
@@ -1202732,7 +1202732,7 @@
         "ja": "このブースターは、カプセラによる軍事作戦を支援するためにアマー帝国によって生産された。\r\n\r\n<b>エクスプローシブシールド、アーマーと船体のレジスタンスに6%のボーナス\r\nキネティックシールド、アーマーと船体のレジスタンスに3%のボーナス\r\nデータ・遺物アナライザーのウイルスコヒーレンスへのボーナス+12\r\n採掘、アイス、ガス採掘時の残留物率が12%減少。 \r\n基本持続時間：2時間<b>\r\n\r\n<b>有効期限：YC128年11月10日</b>"
     },
     "1034847": {
-        "en": "Expired State Defense Booster II ",
+        "en": "Expired State Defense Booster II",
         "ja": "期限切れ連合防衛ブースターII"
     },
     "1034848": {
@@ -1204205,7 +1204205,7 @@
     },
     "1035647": {
         "en": "Amarr FW Mission Dungeon NPC Spawner - Frigates 5 Points (DO NOT TRANSLATE)",
-        "ja": "Amarr FW Mission Dungeon NPC Spawner - Frigates 5 Points (DO NOT TRANSLATE) "
+        "ja": "Amarr FW Mission Dungeon NPC Spawner - Frigates 5 Points (DO NOT TRANSLATE)"
     },
     "1035648": {
         "en": "Amarr FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points (DO NOT TRANSLATE)",
@@ -1204213,7 +1204213,7 @@
     },
     "1035649": {
         "en": "Amarr FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE)",
-        "ja": "Amarr FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE) "
+        "ja": "Amarr FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE)"
     },
     "1035650": {
         "en": "Amarr FW Mission Dungeon NPC Spawner - Mission Couriers 8 Points Mixed (DO NOT TRANSLATE)",
@@ -1205489,7 +1205489,7 @@
     },
     "1036091": {
         "en": "Gallente FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Weak (DO NOT TRANSLATE)",
-        "ja": "Gallente FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Weak (DO NOT TRANSLATE) "
+        "ja": "Gallente FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Weak (DO NOT TRANSLATE)"
     },
     "1036093": {
         "en": "Gallente FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE)",
@@ -1205645,11 +1205645,11 @@
     },
     "1036136": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 5 Points (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 5 Points (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 5 Points (DO NOT TRANSLATE)"
     },
     "1036137": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 10 Points (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 10 Points (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 10 Points (DO NOT TRANSLATE)"
     },
     "1036138": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Frigates 20 Points (DO NOT TRANSLATE)",
@@ -1205657,7 +1205657,7 @@
     },
     "1036139": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Frigate Sector Commander Boss (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Frigate Sector Commander Boss (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Frigate Sector Commander Boss (DO NOT TRANSLATE)"
     },
     "1036140": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Frigate Fleet Commander Boss (DO NOT TRANSLATE)",
@@ -1205669,11 +1205669,11 @@
     },
     "1036142": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 3 Points Strong (DO NOT TRANSLATE)"
     },
     "1036143": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 8 Points Mixed (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 8 Points Mixed (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 8 Points Mixed (DO NOT TRANSLATE)"
     },
     "1036144": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Mission Couriers 14 Points Mixed (DO NOT TRANSLATE)",
@@ -1205689,7 +1205689,7 @@
     },
     "1036147": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 10 Points (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 10 Points (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser 10 Points (DO NOT TRANSLATE)"
     },
     "1036148": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser Sector Commander Boss (DO NOT TRANSLATE)",
@@ -1205697,7 +1205697,7 @@
     },
     "1036149": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser Field Commander Boss (DO NOT TRANSLATE)",
-        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser Field Commander Boss (DO NOT TRANSLATE) "
+        "ja": "Minmatar FW Mission Dungeon NPC Spawner - Cruiser Field Commander Boss (DO NOT TRANSLATE)"
     },
     "1036150": {
         "en": "Minmatar FW Mission Dungeon NPC Spawner - Battlecruiser 1 Point (DO NOT TRANSLATE)",
@@ -1207549,7 +1207549,7 @@
     },
     "1037121": {
         "en": "Horde Mode - Spawner 256 (DO NOT TRANSLATE)",
-        "ja": "Horde Mode - Spawner 256 (DO NOT TRANSLATE) "
+        "ja": "Horde Mode - Spawner 256 (DO NOT TRANSLATE)"
     },
     "1037123": {
         "en": "Solemn",
@@ -1209964,16 +1209964,16 @@
         "ja": "占領された連邦の研究中継施設（停止中）"
     },
     "1038438": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
-        "ja": "この研究中継施設は現在停止中です。<a href=showinfo:92571>モアサナイト結晶</a>を供給することで再稼働できます。\r\n\r\n停止状態が続いている場合、カルダリ連合に所属しているカプセラは、データアナライザーモジュールを使ってこの施設を管理下に置くことができます。\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "ja": "この研究中継施設は現在停止中です。<a href=showinfo:92571>モアサナイト結晶</a>を供給することで再稼働できます。\r\n\r\n停止状態が続いている場合、カルダリ連合に所属しているカプセラは、データアナライザーモジュールを使ってこの施設を管理下に置くことができます。"
     },
     "1038439": {
         "en": "Occupied Inactive Republic Research Relay",
         "ja": "占領された共和国の研究中継施設（停止中）"
     },
     "1038440": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
-        "ja": "この研究中継施設は現在停止中です。<a href=showinfo:92572>カンガイト結晶</a>を供給することで再稼働できます。\r\n\r\n停止状態が続いている場合、アマー帝国に所属しているカプセラは、データアナライザーモジュールを使ってこの施設を管理下に置くことができます。\r\n"
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
+        "ja": "この研究中継施設は現在停止中です。<a href=showinfo:92572>カンガイト結晶</a>を供給することで再稼働できます。\r\n\r\n停止状態が続いている場合、アマー帝国に所属しているカプセラは、データアナライザーモジュールを使ってこの施設を管理下に置くことができます。"
     },
     "1038441": {
         "en": "AIR Trade Center",
@@ -1222336,16 +1222336,16 @@
         "ja": "プロトタイプ「プルート」採掘専門ドローン設計図箱"
     },
     "1043518": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. \r\n ",
-        "ja": "プロトタイプ「プルート」採掘専門ドローンの5回限りの設計図が含まれている。軍事作戦「ローグエッジ」中にモアサナイトをガレンテ連邦に届けた報酬として贈られる。  "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
+        "ja": "プロトタイプ「プルート」採掘専門ドローンの5回限りの設計図が含まれている。軍事作戦「ローグエッジ」中にモアサナイトをガレンテ連邦に届けた報酬として贈られる。"
     },
     "1043519": {
         "en": "Prototype 'Pluto' Ice Harvesting Drone Blueprint Crate",
         "ja": "プロトタイプ「プルート」アイス採掘専門ドローン設計図箱"
     },
     "1043520": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. ",
-        "ja": "プロトタイプ「プルート」採掘専門ドローンの5回限りの設計図が含まれている。軍事作戦「ローグエッジ」中にモアサナイトをガレンテ連邦に届けた報酬として贈られる。 "
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
+        "ja": "プロトタイプ「プルート」採掘専門ドローンの5回限りの設計図が含まれている。軍事作戦「ローグエッジ」中にモアサナイトをガレンテ連邦に届けた報酬として贈られる。"
     },
     "1043521": {
         "en": "Prototype 'Pluto' Mining Drone Blueprint Crate",
@@ -1226261,7 +1226261,7 @@
     },
     "1046813": {
         "en": "Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)",
-        "ja": "Vanguard Operation Avalon Roamer (DO NOT TRANASLATE) "
+        "ja": "Vanguard Operation Avalon Roamer (DO NOT TRANASLATE)"
     },
     "1046814": {
         "en": "Vanguard Operation Avalon Roamer",
@@ -1231949,7 +1231949,7 @@
     },
     "1050631": {
         "en": "Non Interactable Serpentis Barrier (Do not translate)",
-        "ja": "Non Interactable Serpentis Barrier (Do not translate) "
+        "ja": "Non Interactable Serpentis Barrier (Do not translate)"
     },
     "1050633": {
         "en": "Non Interactable Serpentis Fence (Do not translate)",
@@ -1239576,7 +1239576,7 @@
         "ja": ""
     },
     "1055379": {
-        "en": "Totality Day Celebration Crate ",
+        "en": "Totality Day Celebration Crate",
         "ja": ""
     },
     "1055380": {
@@ -1239996,7 +1239996,7 @@
         "ja": "遺物アナライザーを使ってこのイニシエーターをハッキングすると、サイトの通信セクションが起動する。<url=showinfo:97547>ステレオ・コラプス信号</url>は、このセクションで見つかる可能性がある。\r\n\r\n警告：このサイトは極めて不安定です。このイニシエーターをハッキングすると、電気工学およびロジスティックのイニシエーターが爆発し、それらのセクションにアクセスできなくなります。"
     },
     "1055574": {
-        "en": "CH26: Destroy Tetrimon NPCs Initial ",
+        "en": "CH26: Destroy Tetrimon NPCs Initial",
         "ja": "CH26：テトリモンNPCを撃破する（初回）"
     },
     "1055575": {
@@ -1240216,7 +1240216,7 @@
         "ja": "<i>以下のサイトにあるテトリモン・ネットワークノードまたはハブを40個ハッキングする：<br>- テトリモン・ネットワークノード<br>- テトリモン・ネットワークハブ</i>"
     },
     "1055643": {
-        "en": "CH26: Destroy Blood Raider NPCs Initial ",
+        "en": "CH26: Destroy Blood Raider NPCs Initial",
         "ja": "CH26：ブラッドレイダーズNPCを撃破する（初回）"
     },
     "1055644": {
@@ -1241988,7 +1241988,7 @@
         "ja": "リグレッシブ・マウルス"
     },
     "1056420": {
-        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "ja": "ガレンティア・プライマシーの指揮下にあるマウルス級フリゲート。ウェビファイア任務を担っている。\r\n\r\nガレンティア・プライマシーは、連邦によるローグドローン技術の開発を嫌悪している。彼らはそれを弱体化につながる行為であり、ガレンテの純粋性を損なうものと見なしている。"
     },
     "1056421": {
@@ -1242065,7 +1242065,7 @@
     },
     "1056439": {
         "en": "PTC Waylaid Expedition Spawner (Do not translate)",
-        "ja": "PTC Waylaid Expedition Spawner (Do not translate) "
+        "ja": "PTC Waylaid Expedition Spawner (Do not translate)"
     },
     "1056440": {
         "en": "Ambushed Imperial Expedition",
@@ -1243877,7 +1243877,7 @@
     },
     "1057220": {
         "en": "This monument has been erected to honor the 14,161 Capsuleers who helped make the Empire's \"Blessed Exchange\" military campaign a success. Special tribute is paid to the first 10 capsuleers who were awarded with the \"Deacon of the Exchange\" title.\r\n\r\n<url=showinfo:1377//559883966>ceyriot</url>\r\n<url=showinfo:1377//191810045>Yiri Yovazi</url>\r\n<url=showinfo:1377//2117221019>Ylanah Stoner</url>\r\n<url=showinfo:1377//1489210444>Medory</url>\r\n<url=showinfo:1377//822435284>Cognak</url>\r\n<url=showinfo:1377//95959654>Andrius Uhad</url>\r\n<url=showinfo:1377//2124365965>SeraphRadiance</url>\r\n<url=showinfo:1377//2119218053>Gnaeus Tranquillus</url>\r\n<url=showinfo:1377//2113037823>Acetai Agittain</url>\r\n<url=showinfo:1377//757066055>Gaun Arel</url>\r\n\r\nAdditionally, Capital Marshal Sirdan xer Qosh has left a special marking honoring the following 10 capsuleers who contributed the most amount of individual progress to the campaign.\r\n\r\n<url=showinfo:1377//2117221019>Ylanah Stoner</url>\r\n<url=showinfo:1377//757066055>Gaun Arel</url>\r\n<url=showinfo:1377//1614570939>Urad Gula</url>\r\n<url=showinfo:1377//2113037823>Acetai Agittain</url>\r\n<url=showinfo:1377//2113068986>Kirreniem Nakrar</url>\r\n<url=showinfo:1377//2124407015>serranocaldari</url>\r\n<url=showinfo:1377//1592503651>Captain Aramus</url>\r\n<url=showinfo:1377//2122826667>Blast Phlegmy</url>\r\n<url=showinfo:1377//95959654>Andrius Uhad</url>\r\n<url=showinfo:1377//1196059795>smokieakm</url>",
-        "ja": "この記念碑は、帝国の軍事作戦「祝福の取引所」の成功に貢献した14,161人のカプセラを称えて建立された。特に、「交換のディーコン」の称号を授与された最初の10人のカプセラに敬意を表している。\r\n\r\n<url=showinfo:1377//559883966>ceyriot</url> \r\n<url=showinfo:1377//191810045>Yiri Yovazi</url> \r\n<url=showinfo:1377//2117221019>Ylanah Stoner</url> \r\n<url=showinfo:1377//1489210444>Medory</url> \r\n<url=showinfo:1377//822435284>Cognak</url> \r\n<url=showinfo:1377//95959654>Andrius Uhad</url> \r\n<url=showinfo:1377//2124365965>SeraphRadiance</url> \r\n<url=showinfo:1377//2119218053>Gnaeus Tranquillus</url> \r\n<url=showinfo:1377//2113037823>Acetai Agittain</url> \r\n<url=showinfo:1377//757066055>Gaun Arel</url> \r\n\r\nさらに、大元帥シルダン・ゼル・クオシュは、キャンペーンで個人として最も多くの進捗を積み上げた以下の10人のカプセラを称え、特別な刻印を残している。\r\n\r\n<url=showinfo:1377//2117221019>Ylanah Stoner</url> \r\n<url=showinfo:1377//757066055>Gaun Arel</url> \r\n<url=showinfo:1377//1614570939>Urad Gula</url> \r\n<url=showinfo:1377//2113037823>Acetai Agittain</url> \r\n<url=showinfo:1377//2113068986>Kirreniem Nakrar</url> \r\n<url=showinfo:1377//2124407015>serranocaldari</url> \r\n<url=showinfo:1377//1592503651>Captain Aramus</url> \r\n<url=showinfo:1377//2122826667>Blast Phlegmy</url> \r\n<url=showinfo:1377//95959654>Andrius Uhad</url> \r\n<url=showinfo:1377//1196059795>smokieakm</url> "
+        "ja": "この記念碑は、帝国の軍事作戦「祝福の取引所」の成功に貢献した14,161人のカプセラを称えて建立された。特に、「交換のディーコン」の称号を授与された最初の10人のカプセラに敬意を表している。\r\n\r\n<url=showinfo:1377//559883966>ceyriot</url> \r\n<url=showinfo:1377//191810045>Yiri Yovazi</url> \r\n<url=showinfo:1377//2117221019>Ylanah Stoner</url> \r\n<url=showinfo:1377//1489210444>Medory</url> \r\n<url=showinfo:1377//822435284>Cognak</url> \r\n<url=showinfo:1377//95959654>Andrius Uhad</url> \r\n<url=showinfo:1377//2124365965>SeraphRadiance</url> \r\n<url=showinfo:1377//2119218053>Gnaeus Tranquillus</url> \r\n<url=showinfo:1377//2113037823>Acetai Agittain</url> \r\n<url=showinfo:1377//757066055>Gaun Arel</url> \r\n\r\nさらに、大元帥シルダン・ゼル・クオシュは、キャンペーンで個人として最も多くの進捗を積み上げた以下の10人のカプセラを称え、特別な刻印を残している。\r\n\r\n<url=showinfo:1377//2117221019>Ylanah Stoner</url> \r\n<url=showinfo:1377//757066055>Gaun Arel</url> \r\n<url=showinfo:1377//1614570939>Urad Gula</url> \r\n<url=showinfo:1377//2113037823>Acetai Agittain</url> \r\n<url=showinfo:1377//2113068986>Kirreniem Nakrar</url> \r\n<url=showinfo:1377//2124407015>serranocaldari</url> \r\n<url=showinfo:1377//1592503651>Captain Aramus</url> \r\n<url=showinfo:1377//2122826667>Blast Phlegmy</url> \r\n<url=showinfo:1377//95959654>Andrius Uhad</url> \r\n<url=showinfo:1377//1196059795>smokieakm</url>"
     },
     "1057222": {
         "en": "SARO Surveillance Outpost",
