@@ -116776,83 +116776,83 @@
         "zh": "操控舰船的基本技能。每升一级，所有飞船的灵活性提升2%。"
     },
     "87338": {
-        "en": "Skill at operating Gallente frigates.",
+        "en": "Skill for the operation of Gallente frigates.",
         "zh": "操作盖伦特护卫舰的技能。"
     },
     "87339": {
-        "en": "Skill at operating Minmatar frigates.",
+        "en": "Skill for the operation of Minmatar frigates.",
         "zh": "操作米玛塔尔护卫舰的技能。"
     },
     "87340": {
-        "en": "Skill at operating Caldari frigates.",
+        "en": "Skill for the operation of Caldari frigates.",
         "zh": "操作加达里护卫舰的技能。"
     },
     "87341": {
-        "en": "Skill at operating Amarr frigates.",
+        "en": "Skill for the operation of Amarr frigates.",
         "zh": "操作艾玛护卫舰的技能。"
     },
     "87342": {
-        "en": "Skill at operating Gallente cruisers.",
+        "en": "Skill for the operation of Gallente cruisers.",
         "zh": "操作盖伦特巡洋舰的技能。"
     },
     "87343": {
-        "en": "Skill at operating Minmatar cruisers.",
+        "en": "Skill for the operation of Minmatar cruisers.",
         "zh": "操作米玛塔尔巡洋舰的技能。"
     },
     "87344": {
-        "en": "Skill at operating Caldari cruisers.",
+        "en": "Skill for the operation of Caldari cruisers.",
         "zh": "操作加达里巡洋舰的技能。"
     },
     "87345": {
-        "en": "Skill at operating Amarr cruisers.",
+        "en": "Skill for the operation of Amarr cruisers.",
         "zh": "操作艾玛巡洋舰的技能。"
     },
     "87346": {
-        "en": "Skill at operating Gallente battleships.",
+        "en": "Skill for the operation of Gallente battleships.",
         "zh": "操作盖伦特战列舰的技能。"
     },
     "87347": {
-        "en": "Skill at operating Minmatar battleships.",
+        "en": "Skill for the operation of Minmatar battleships.",
         "zh": "操作米玛塔尔战列舰的技能。"
     },
     "87348": {
-        "en": "Skill at operating Caldari battleships.",
+        "en": "Skill for the operation of Caldari battleships.",
         "zh": "操作加达里战列舰的技能。"
     },
     "87349": {
-        "en": "Skill at operating Amarr battleships.",
+        "en": "Skill for the operation of Amarr battleships.",
         "zh": "操作艾玛战列舰的技能。"
     },
     "87350": {
-        "en": "Skill at operating Gallente hauler ships.",
+        "en": "Skill for the operation of Gallente hauler ships.",
         "zh": "操作盖伦特运载舰的技能。"
     },
     "87351": {
-        "en": "Skill at operating Minmatar hauler ships.",
+        "en": "Skill for the operation of Minmatar hauler ships.",
         "zh": "操作米玛塔尔运载舰的技能。"
     },
     "87352": {
-        "en": "Skill at operating Caldari hauler ships.",
+        "en": "Skill for the operation of Caldari hauler ships.",
         "zh": "操作加达里运载舰的技能。"
     },
     "87353": {
-        "en": "Skill at operating Amarr hauler ships.",
+        "en": "Skill for the operation of Amarr hauler ships.",
         "zh": "操作艾玛运载舰的技能。"
     },
     "87354": {
-        "en": "Skill at operating Gallente titans.",
+        "en": "Skill for the operation of Gallente titans.",
         "zh": "操作盖伦特泰坦的技能。"
     },
     "87355": {
-        "en": "Skill at operating Minmatar titans.",
+        "en": "Skill for the operation of Minmatar titans.",
         "zh": "操作米玛塔尔泰坦的技能。"
     },
     "87356": {
-        "en": "Skill at operating Caldari titans.",
+        "en": "Skill for the operation of Caldari titans.",
         "zh": "操作加达里泰坦的技能。"
     },
     "87357": {
-        "en": "Skill at operating Amarr titans.",
+        "en": "Skill for the operation of Amarr titans.",
         "zh": "操作艾玛泰坦的技能。"
     },
     "87358": {
@@ -118784,11 +118784,11 @@
         "zh": "这种电池盒载有大量电力能源，其用途是作为紧急情况下的备用能源。"
     },
     "87847": {
-        "en": "Skill at operating Jovian hauler ships.",
+        "en": "Skill for the operation of Jovian hauler ships.",
         "zh": "操作朱庇特运载舰的技能。"
     },
     "87848": {
-        "en": "Skill at operating jove battleships.",
+        "en": "Skill for the operation of jove battleships.",
         "zh": "操作朱庇特战列舰的技能。"
     },
     "87849": {
@@ -119072,7 +119072,7 @@
         "zh": "该装备使用纳米级装配器来修复对舰船装甲造成的损伤。"
     },
     "87920": {
-        "en": "Skill at operating mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
+        "en": "Skill for the operation of mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
         "zh": "操作需要深核开采法研究的采矿激光器的技能。每升一级，当开采基腹断岩时，危险云团的形成几率减少10%。"
     },
     "87921": {
@@ -119560,7 +119560,7 @@
         "zh": "操作驱逐舰的技能。"
     },
     "88048": {
-        "en": "Skill at operating Battlecruisers. Can not be trained on Trial Accounts.",
+        "en": "Skill for the operation of Battlecruisers. Can not be trained on Trial Accounts.",
         "zh": "操作战列巡洋舰的技能。"
     },
     "88049": {
@@ -124112,7 +124112,7 @@
         "zh": "这是把形状怪异的混沌逻辑钥匙。拥有者是天使军事复合体里的监察官。它可以打开加速轨道一小段时间，然后自行销毁。"
     },
     "89195": {
-        "en": "Skill at operating ORE Mining Barges.",
+        "en": "Skill for the operation of ORE Mining Barges.",
         "zh": "操作外空联合矿业采矿驳船的技能。"
     },
     "89196": {
@@ -125548,8 +125548,8 @@
         "zh": "用于战争和自卫的个人武器和装备。"
     },
     "89626": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 15% bonus to the strength of all Talisman implant secondary effects",
-        "zh": "血袭者科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n主要效果：感知属性值增加4\n\n次要效果：需要“电容散发系统研究”技能的装备的循环时间缩短1%\n\n套件效果：所有“护符”植入体次要效果增加15%"
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 15% bonus to the strength of all Talisman implant secondary effects",
+        "zh": "血袭者科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：需要“电容散发系统研究”技能的装备的循环时间缩短1%\r\n\r\n套件效果：所有“护符”植入体次要效果增加15%"
     },
     "89627": {
         "en": "This memory augmentation has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Memory\r\n\r\nSecondary Effect: 2% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 15% bonus to the strength of all Talisman implant secondary effects",
@@ -126048,28 +126048,28 @@
         "zh": "这个马刺是一种身份识别物品。"
     },
     "89775": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加4\n\n次要效果：舰船信号半径减少1%\n\n套件效果：所有“圣光”植入体次要效果增加15%"
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：舰船信号半径减少1%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加15%"
     },
     "89776": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种记忆增强体做了专门修改，以便于他们的精英官员使用。\n\n主要效果：记忆属性值增加4\n\n次要效果：舰船信号半径减少1.25%\n\n套件效果：所有“圣光”植入体次要效果增加15%"
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种记忆增强体做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：记忆属性值增加4\r\n\r\n次要效果：舰船信号半径减少1.25%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加15%"
     },
     "89777": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种脑控次处理器做了专门修改，以便于他们的精英官员使用。 \n\n\n\n主要效果：智力属性值增加4\n\n\n\n次要效果：舰船信号半径减少1.75%\n\n\n\n套件效果：所有“圣光”植入体次要效果增加15%"
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种脑控次处理器做了专门修改，以便于他们的精英官员使用。 \r\n\r\n\r\n\r\n主要效果：智力属性值增加4\r\n\r\n\r\n\r\n次要效果：舰船信号半径减少1.75%\r\n\r\n\r\n\r\n套件效果：所有“圣光”植入体次要效果增加15%"
     },
     "89778": {
         "en": "This cybernetic subprocessor has been modified by underworld scientists for use by elite pirate officers. It provides increasing armor hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n</b>Primary Effect:</b> +4 bonus to Intelligence\r\n</b>Secondary Effect:</b> 4% bonus to armor HP\r\n</b>Set Effect:</b> 15% bonus to the strength of all Amulet implant secondary effects",
         "zh": "不法科学家对这种脑控次处理器做了专门修改，以便于精英海盗官员使用。与其他属于同一套装的植入体搭配使用时可以提高装甲值加成。\n\n\n\n</b>主要效果：</b>智力属性值增加4\n\n</b>次要效果：</b>装甲值提高4%\n\n</b>套件效果：</b>所有“辟邪”植入体次要效果增加15%"
     },
     "89779": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种社交适应芯片做了专门修改，以便于他们的精英官员使用。\n\n主要效果：魅力属性值增加4\n\n次要效果：舰船信号半径减少2%\n\n套件效果：所有“圣光”植入体次要效果增加15%"
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种社交适应芯片做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：魅力属性值增加4\r\n\r\n次要效果：舰船信号半径减少2%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加15%"
     },
     "89780": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Willpower\r\n\r\nSecondary Effect: 1.50% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：毅力属性值增加4\n\n\n\n次要效果：舰船信号半径减少1.50%\n\n\n\n套件效果：所有“圣光”植入体次要效果增加15%"
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.50% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：毅力属性值增加4\r\n\r\n\r\n\r\n次要效果：舰船信号半径减少1.50%\r\n\r\n\r\n\r\n套件效果：所有“圣光”植入体次要效果增加15%"
     },
     "89781": {
         "en": "The causative agent of an infectious disease, the viral agent is a parasite with a noncellular structure composed mainly of nucleic acid within a protein coat.",
@@ -126080,35 +126080,35 @@
         "zh": "该通行卡由秘密公民兹纳·凯撒私人持有。非法占有此物品会导致很严重的罚金和至少一年的有期徒刑。\n\n- 统合部安全局"
     },
     "89783": {
-        "en": "Skill at operating Amarr freighters.",
+        "en": "Skill for the operation of Amarr freighters.",
         "zh": "操作艾玛货舰的技能。"
     },
     "89784": {
-        "en": "Skill at operating Amarr dreadnoughts.",
+        "en": "Skill for the operation of Amarr dreadnoughts.",
         "zh": "操作艾玛无畏舰的技能。"
     },
     "89785": {
-        "en": "Skill at operating Caldari freighters.",
+        "en": "Skill for the operation of Caldari freighters.",
         "zh": "操作加达里货舰的技能。"
     },
     "89786": {
-        "en": "Skill at operating Gallente freighters.",
+        "en": "Skill for the operation of Gallente freighters.",
         "zh": "操作盖伦特货舰的技能。"
     },
     "89787": {
-        "en": "Skill at operating Minmatar freighters.",
+        "en": "Skill for the operation of Minmatar freighters.",
         "zh": "操作米玛塔尔货舰的技能。"
     },
     "89788": {
-        "en": "Skill at operating Caldari dreadnoughts.",
+        "en": "Skill for the operation of Caldari dreadnoughts.",
         "zh": "操作加达里无畏舰的技能。"
     },
     "89789": {
-        "en": "Skill at operating Gallente dreadnoughts.",
+        "en": "Skill for the operation of Gallente dreadnoughts.",
         "zh": "操作盖伦特无畏舰的技能。"
     },
     "89790": {
-        "en": "Skill at operating Minmatar dreadnoughts.",
+        "en": "Skill for the operation of Minmatar dreadnoughts.",
         "zh": "操作米玛塔尔无畏舰的技能。"
     },
     "89791": {
@@ -126892,32 +126892,32 @@
         "zh": "一小块由半导体组成的晶片，是集成电路的基板。"
     },
     "89991": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3\n\n次要效果：舰船信号半径减少1%\n\n套件效果：所有“圣光”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3\r\n\r\n次要效果：舰船信号半径减少1%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加10%"
     },
     "89992": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种记忆增强体做了专门修改，以便于他们的精英官员使用。\n\n主要效果：记忆属性值增加3\n\n次要效果：舰船信号半径减少1.25%\n\n套件效果：所有“圣光”植入体次要效果增加10%"
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种记忆增强体做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：记忆属性值增加3\r\n\r\n次要效果：舰船信号半径减少1.25%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加10%"
     },
     "89993": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +3 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种脑控次处理器做了专门修改，以便于他们的精英官员使用。 \n\n主要效果：智力属性值增加3\n\n次要效果：舰船信号半径减少1.5%\n\n套件效果：所有“圣光”植入体次要效果增加10%"
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +3 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种脑控次处理器做了专门修改，以便于他们的精英官员使用。 \r\n\r\n主要效果：智力属性值增加3\r\n\r\n次要效果：舰船信号半径减少1.5%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加10%"
     },
     "89994": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种社交适应芯片做了专门修改，以便于他们的精英官员使用。\n\n主要效果：魅力属性值增加3\n\n次要效果：舰船信号半径减少2%\n\n套件效果：所有“圣光”植入体次要效果增加10%"
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种社交适应芯片做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：魅力属性值增加3\r\n\r\n次要效果：舰船信号半径减少2%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加10%"
     },
     "89995": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\n\n主要效果：毅力属性值增加3\n\n次要效果：舰船信号半径减少1.75%\n\n套件效果：所有“圣光”植入体次要效果增加10%"
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：毅力属性值增加3\r\n\r\n次要效果：舰船信号半径减少1.75%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加10%"
     },
     "89996": {
         "en": "This cybernetic subprocessor has been modified by underworld scientists for use by elite pirate officers. It provides increasing armor hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Intelligence\r\n<b>Secondary Effect:</b> 4% bonus to armor HP\r\n<b>Set Effect:</b> 10% bonus to the strength of all Amulet implant secondary effects",
         "zh": "不法科学家对这种脑控次处理器做了专门修改，以便于精英海盗官员使用。与其他属于同一套装的植入体搭配使用时可以提高装甲值加成。\n\n\n\n<b>主要效果：</b>智力属性值增加3\n\n<b>次要效果：</b>装甲值提高4%\n\n<b>套件效果：</b>所有“辟邪”植入体次要效果增加10%"
     },
     "89997": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 10% bonus to the strength of all Talisman implant secondary effects",
-        "zh": "血袭者科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3\n\n次要效果：需要“电容散发系统研究”技能的装备的循环时间缩短1%\n\n套件效果：所有“护符”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 10% bonus to the strength of all Talisman implant secondary effects",
+        "zh": "血袭者科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3\r\n\r\n次要效果：需要“电容散发系统研究”技能的装备的循环时间缩短1%\r\n\r\n套件效果：所有“护符”植入体次要效果增加10%"
     },
     "89998": {
         "en": "This memory augmentation has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Memory\r\n\r\nSecondary Effect: 2% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 10% bonus to the strength of all Talisman implant secondary effects",
@@ -127912,19 +127912,19 @@
         "zh": "走私犯，尤其是天蛇走私犯使用的轨道通行钥匙，可以锁上他们的非法物品储藏处或者他们的个人领域。"
     },
     "90255": {
-        "en": "Skill at operating Amarr carriers.",
+        "en": "Skill for the operation of Amarr carriers.",
         "zh": "操作艾玛航空母舰的技能。"
     },
     "90256": {
-        "en": "Skill at operating Caldari carriers.",
+        "en": "Skill for the operation of Caldari carriers.",
         "zh": "操作加达里航空母舰的技能。"
     },
     "90257": {
-        "en": "Skill at operating Gallente carriers.",
+        "en": "Skill for the operation of Gallente carriers.",
         "zh": "操作盖伦特航空母舰的技能。"
     },
     "90258": {
-        "en": "Skill at operating Minmatar carriers.",
+        "en": "Skill for the operation of Minmatar carriers.",
         "zh": "操作米玛塔尔航空母舰的技能。"
     },
     "90259": {
@@ -129268,7 +129268,7 @@
         "zh": "大型联盟锦标赛铜牌。没有飞行员是冲着它来的，也没有人为拥有它而骄傲。有人称铜牌者是优秀者中最差的，但尽管他们最终失败，在之前的战斗中还是取得了不少胜利。他们也许没有光环，但不缺少荣誉和尊敬。"
     },
     "90668": {
-        "en": "Skill at operating Capital Industrial Ships.",
+        "en": "Skill for the operation of Capital Industrial Ships.",
         "zh": "操作旗舰级工业舰的技能。"
     },
     "90669": {
@@ -130056,24 +130056,24 @@
         "zh": "增加炮台的射程和跟踪速度。\r\n\r\n注：在一艘舰船上使用多个这类装备或多个与该装备作用一致的类似装备将削弱实际使用效果。"
     },
     "90871": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
-        "zh": "莫德团科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3 \n\n次要效果：ECM、远程感应抑阻器、武器扰断器和目标标记装置的最佳射程增加1%\n\n套件效果：所有“百夫长”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect: </b> 10% bonus to the strength of all Centurion implant secondary effects",
+        "zh": "莫德团科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n次要效果：ECM、远程感应抑阻器、武器扰断器和目标标记装置的最佳射程增加1%\r\n\r\n套件效果：所有“百夫长”植入体次要效果增加10%"
     },
     "90872": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 10% bonus to the strength of all Edge implant secondary effects",
-        "zh": "辛迪加科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3 \n\n次要效果：增效剂副作用减少1%\n\n套件效果：所有“强势”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 10% bonus to the strength of all Edge implant secondary effects",
+        "zh": "辛迪加科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n次要效果：增效剂副作用减少1%\r\n\r\n套件效果：所有“强势”植入体次要效果增加10%"
     },
     "90873": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 10% bonus to the strength of all Harvest implant secondary effects",
-        "zh": "外空联合矿业科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3 \n\n次要效果：所有采矿激光器的范围增加1%\n\n套件效果：所有“采集”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 10% bonus to the strength of all Harvest implant secondary effects",
+        "zh": "外空联合矿业科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n次要效果：所有采矿激光器的范围增加1%\r\n\r\n套件效果：所有“采集”植入体次要效果增加10%"
     },
     "90874": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 10% bonus to the strength of all Nomad implant secondary effects",
-        "zh": "图克尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3 \n\n次要效果：灵活性提高1%\n\n套件效果：所有“游牧者”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nomad implant secondary effects",
+        "zh": "图克尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n次要效果：灵活性提高1%\r\n\r\n套件效果：所有“游牧者”植入体次要效果增加10%"
     },
     "90875": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 10% bonus to the strength of all Virtue implant secondary effects",
-        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3 \n\n次要效果：探针扫描强度提高1%\n\n套件效果：所有“美德”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 10% bonus to the strength of all Virtue implant secondary effects",
+        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n次要效果：探针扫描强度提高1%\r\n\r\n套件效果：所有“美德”植入体次要效果增加10%"
     },
     "90876": {
         "en": "This memory augmentation has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Memory \n\nSecondary Effect: 2% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
@@ -131608,8 +131608,8 @@
         "zh": "他们对强壮体格的追求胜过一切，从头到脚都是骇人的横肉。"
     },
     "91261": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
-        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加4\n\n次要效果：护盾回充增量提高1%\n\n套件效果：所有“水晶”植入体次要效果增加15%\n\n注：对旗舰级装备不起作用。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：护盾回充增量提高1%\r\n\r\n套件效果：所有“水晶”植入体次要效果增加15%\r\n\r\n注：对旗舰级装备不起作用。"
     },
     "91262": {
         "en": "This memory augmentation has been modified by Guristas scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Memory\r\n\r\nSecondary Effect: 2% bonus to shield boost amount\r\n\r\nSet Effect: 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
@@ -131632,7 +131632,7 @@
         "zh": "操作电子干扰系统的技能。每升一级，ECM和ECM脉冲波装备的电容消耗减少5%。\r\n\r\n注意：此技能不对旗舰级装备产生作用。"
     },
     "91267": {
-        "en": "Skill at operating industrial command ships.",
+        "en": "Skill for the operation of industrial command ships.",
         "zh": "操作工业指挥舰的技能。"
     },
     "91268": {
@@ -131888,8 +131888,8 @@
         "zh": "这块机械硬件已经超出了它的使用寿命，可以被回收了。很多空间站的维护部门通过回收这些没用的金属来重新制成新的金属板用于空间站的外壳维护。大多数空间站的管理层都认为这是一种节约成本的有效方法，而尽量不在这些上面花费功夫去开采和提炼。尽管如此，这些金属垃圾还是很难满足需求。\n\n\n\n与其他可回收物品不一样的是，该物品的回收产量不受“碎铁处理技术”影响。"
     },
     "91331": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
-        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3 \n\n次要效果：护盾回充增量提高1%\n\n套件效果：所有“水晶”植入体次要效果增加10%\n\n注：对旗舰级装备不起作用。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n次要效果：护盾回充增量提高1%\r\n\r\n套件效果：所有“水晶”植入体次要效果增加10%\r\n\r\n注：对旗舰级装备不起作用。"
     },
     "91332": {
         "en": "This memory augmentation has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Memory \r\n\r\nSecondary Effect: 2% bonus to shield boost amount\r\n\r\nSet Effect: 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
@@ -131908,8 +131908,8 @@
         "zh": "古斯塔斯科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\n\n主要效果：毅力属性值增加3\n\n次要效果：护盾回充增量提高3%\n\n套件效果：所有“水晶”植入体次要效果增加10%\n\n注：对旗舰级装备不起作用。"
     },
     "91336": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Snake implant secondary effects",
-        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英走私者使用。 \n\n主要效果：感知属性值增加3\n\n次要效果：最大速度提高0.5%\n\n套件效果：所有“蝰蛇”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Snake implant secondary effects",
+        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英走私者使用。 \r\n\r\n主要效果：感知属性值增加3\r\n\r\n次要效果：最大速度提高0.5%\r\n\r\n套件效果：所有“蝰蛇”植入体次要效果增加10%"
     },
     "91337": {
         "en": "This memory augmentation has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\nPrimary Effect: +3 bonus to Memory\r\n\r\nSecondary Effect: 0.625% bonus to maximum velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Snake implant secondary effects",
@@ -131928,8 +131928,8 @@
         "zh": "天蛇科学家对这种神经增效体做了专门修改，以便于他们的精英走私者使用。\n\n主要效果：毅力属性值增加3\n\n次要效果：最大速度提高0.75%\n\n套件效果：所有“蝰蛇”植入体次要效果增加10%"
     },
     "91341": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Snake implant secondary effects",
-        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英走私者使用。\n\n主要效果：感知属性值增加4\n\n次要效果：最大速度提高0.5%\n\n套件效果：所有“蝰蛇”植入体次要效果增加15%"
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Snake implant secondary effects",
+        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英走私者使用。\r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：最大速度提高0.5%\r\n\r\n套件效果：所有“蝰蛇”植入体次要效果增加15%"
     },
     "91342": {
         "en": "This memory augmentation has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +4 bonus to Memory\r\n\r\nSecondary Effect: 0.625% bonus to maximum velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Snake implant secondary effects",
@@ -132304,7 +132304,7 @@
         "zh": "用于生产高级船体和子系统的三级科技构件。"
     },
     "91436": {
-        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>",
+        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
         "zh": "每届联赛过后将由上一届的冠军传递给新一届的冠军。阿西娜杯可以说是新伊甸中最为有价值的奖励了。荣耀和名誉都将尽收于它的获得者手中，想要拿到这个奖杯就必须同对手们在有史以来最血腥，残酷和刺激的联赛战场上一决雌雄。<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url>YC107年第一届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url>YC107年第二届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url>YC108年第三届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url>YC109年第四届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url>YC110年第五届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC111年第六届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC111年第七届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC112年第八届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url>YC113年第九届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url>YC114年第十届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC115年第十一届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url>YC116 年第十二届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC117年第十三届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url>YC118年第十四届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url>YC119年第十五届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url>YC120年第十六届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url>YC123年第十七届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH.HONOR.LIGHT.</url>YC124年第十八届联盟锦标赛冠军</div> <div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url>YC125年第十九届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url>YC126年第二十届联盟锦标赛冠军</div><div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url>YC127年第二十一届联盟锦标赛冠军</div>"
     },
     "91437": {
@@ -133592,7 +133592,7 @@
         "zh": "用于生产高级船体和子系统的三级科技构件。"
     },
     "91768": {
-        "en": "Skill at operating Amarr Strategic Cruisers.",
+        "en": "Skill for the operation of Amarr Strategic Cruisers.",
         "zh": "操作艾玛巡洋舰的技能。"
     },
     "91769": {
@@ -136724,36 +136724,36 @@
         "zh": "为采矿船的集成采矿勘测器升级的芯片组，可提供更优越的小行星信息，并提高获得最佳采矿结果的几率。提高采矿激光器和冰块采集器的暴击成功率和暴击成功加成收益。降低采矿激光器、冰块收集器和气体云收集器残留物的概率。通过添加有关扫描小行星中剩余矿石数量的信息，增强采矿船上的集成采矿勘测器。"
     },
     "92557": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's radar sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
-        "zh": "艾玛科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加4\n\n次要效果：舰船的雷达感应强度提高1%\n\n套件效果：所有高级“圣杯”植入体次要效果增加15%。套件效果不与低级“圣杯”植入体叠加"
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's radar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
+        "zh": "艾玛科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：舰船的雷达感应强度提高1%\r\n\r\n套件效果：所有高级“圣杯”植入体次要效果增加15%。套件效果不与低级“圣杯”植入体叠加"
     },
     "92558": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to ship's Ladar sensor strength\n\nSet Effect: 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
-        "zh": "米玛塔尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n主要效果：感知属性值增加4\n\n次要效果：舰船的光雷达感应强度提高1%\n\n套件效果：所有高级“豺狼”植入体次要效果增加15%。套件效果不与低级“豺狼”植入体叠加"
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's Ladar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
+        "zh": "米玛塔尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：舰船的光雷达感应强度提高1%\r\n\r\n套件效果：所有高级“豺狼”植入体次要效果增加15%。套件效果不与低级“豺狼”植入体叠加"
     },
     "92559": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of radar sensor strength to piloted ship",
-        "zh": "艾玛科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：舰船的雷达感应强度增加1"
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of radar sensor strength to piloted ship",
+        "zh": "艾玛科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：舰船的雷达感应强度增加1"
     },
     "92560": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of ladar sensor strength to piloted ship",
-        "zh": "米玛塔尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：舰船的光雷达感应强度增加1"
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of ladar sensor strength to piloted ship",
+        "zh": "米玛塔尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：舰船的光雷达感应强度增加1"
     },
     "92561": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of magnetometric sensor strength to piloted ship",
-        "zh": "盖伦特科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：舰船的磁力感应强度增加1"
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of magnetometric sensor strength to piloted ship",
+        "zh": "盖伦特科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：舰船的磁力感应强度增加1"
     },
     "92562": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of gravimetric sensor strength to piloted ship",
-        "zh": "加达里科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：舰船的引力感应强度增加1"
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of gravimetric sensor strength to piloted ship",
+        "zh": "加达里科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：舰船的引力感应强度增加1"
     },
     "92563": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's magnetometric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
-        "zh": "盖伦特科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n主要效果：感知属性值增加4\n\n次要效果：舰船的磁力感应强度提高1%\n\n套件效果：所有高级“马刺”植入体次要效果增加15%。套件效果不与低级“马刺”植入体叠加"
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's magnetometric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
+        "zh": "盖伦特科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：舰船的磁力感应强度提高1%\r\n\r\n套件效果：所有高级“马刺”植入体次要效果增加15%。套件效果不与低级“马刺”植入体叠加"
     },
     "92564": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's gravimetric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
-        "zh": "加达里科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \n\n主要效果：感知属性值增加4\n\n次要效果：舰船的引力感应强度提高1%\n\n套件效果：所有高级“魔爪”植入体次要效果增加15%。套件效果不与低级“魔爪”植入体叠加"
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's gravimetric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
+        "zh": "加达里科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。 \r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：舰船的引力感应强度提高1%\r\n\r\n套件效果：所有高级“魔爪”植入体次要效果增加15%。套件效果不与低级“魔爪”植入体叠加"
     },
     "92565": {
         "en": "This memory augmentation has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Memory\r\n\r\nSecondary Effect: 2% bonus to ship's radar sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
@@ -138496,15 +138496,15 @@
         "zh": "这个电子通行证是由教程代理人提供用于克隆飞行员训练课程所使用的。它可以用于开启采矿地点训练场中的加速轨道，以此来找到存放“目标证据”的货柜。目标证据是用来证明飞行员已经找到特定类型的训练目标的实物证据。这个通行证只能用于开启<b>采矿地点</b>训练场里的加速轨道。"
     },
     "93035": {
-        "en": "Skill at operating Caldari Strategic Cruisers.",
+        "en": "Skill for the operation of Caldari Strategic Cruisers.",
         "zh": "操作加达里战略巡洋舰的技能。"
     },
     "93036": {
-        "en": "Skill at operating Gallente Strategic Cruisers.",
+        "en": "Skill for the operation of Gallente Strategic Cruisers.",
         "zh": "操作盖伦特战略巡洋舰的技能。"
     },
     "93037": {
-        "en": "Skill at operating Minmatar Strategic Cruisers.",
+        "en": "Skill for the operation of Minmatar Strategic Cruisers.",
         "zh": "操作米玛塔尔战略巡洋舰的技能。"
     },
     "93038": {
@@ -141592,7 +141592,7 @@
         "zh": "这是一个出了故障无法工作，正被波特克公司召回的接口芯片。"
     },
     "93826": {
-        "en": "Skill at operating ORE hauler ships.",
+        "en": "Skill for the operation of ORE hauler ships.",
         "zh": "操作联合矿业运载舰的技能。"
     },
     "93827": {
@@ -147960,7 +147960,7 @@
         "zh": "凡晶石和其他小行星矿石的开采推动着宇宙经济的发展。<P>要开采一颗小行星的矿藏，就要先接近它，然后使用采矿激光器提取矿石并装入货柜舱。</P>"
     },
     "95483": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "zh": "这座神秘的古斯塔斯军事复合体名唤“迷阵”。那些胆敢深入其中的人，大多都没能活着出来，而那些侥幸生还的人，如今都成了古斯塔斯的劳工。 <br> 虽然从未得到证实，但据传这个复合体最深处的区域正是“亡命”本人的巢穴。<br> DED威胁评估：致命（10/10） "
     },
     "95484": {
@@ -149668,7 +149668,7 @@
         "zh": "这个死亡空间复合体曾是一个大型采矿集团的工作场所。它现在被多如蝗虫的自由无人机占领，它们不知疲倦地试图挖掘出那些隐藏在废墟深处的曾经价值不菲的矿石。<P>DED威胁评估：不安全(3/10)</P>"
     },
     "95912": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "zh": "这座神秘的古斯塔斯军事复合体名唤“迷阵”。那些胆敢深入其中的人，大多都没能活着出来，而那些侥幸生还的人，如今都成了古斯塔斯的劳工。 <br> 虽然从未得到证实，但据传这个复合体最深处的区域正是“亡命”本人的巢穴。<br> DED威胁评估：致命（10/10） "
     },
     "95913": {
@@ -149944,7 +149944,7 @@
         "zh": "皮特管教所由一个叫迪沃克·汉姆菲的前艾玛军官运营。他以前看管的罪犯通常叫他“狂人迪沃克”或“狂叫的迪沃克”。他是个有着严酷自制力的战术家。在结束了艾玛皇家海军的延期服役后，他决定去私营部门经商。<p>DED威胁评估等级：8/10"
     },
     "95981": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "zh": "这座神秘的古斯塔斯军事复合体名唤“迷阵”。那些胆敢深入其中的人，大多都没能活着出来，而那些侥幸生还的人，如今都成了古斯塔斯的劳工。 <br> 虽然从未得到证实，但据传这个复合体最深处的区域正是“亡命”本人的巢穴。<br> DED威胁评估：致命（10/10） "
     },
     "95982": {
@@ -247668,7 +247668,7 @@
         "zh": "监狱正在被关闭。没有巨额的投入，血袭者就别想再收复这座监狱。 <br><br>\n当然，在堡垒正要垮台时，安放在牢房里的紧急防范设备将所有的囚犯都处死了。但与珍贵的势力装备比起来，死一千个艾玛异教徒又算得了什么？"
     },
     "125148": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "zh": "堡垒已被摧毁。所有的洗脑研究工作都已被捣毁。<br> 那些介于自由人和忠实劳工之间的灵魂，终于重获自由。我认为，这算得上是一场苦乐参半的胜利。<br> 让我们去捞些战利品吧。"
     },
     "125149": {
@@ -247716,8 +247716,8 @@
         "zh": "官员已经败下阵来。没了那位强力人物，剩下的天蛇基本上就没什么威胁了。 <br><br>\n别忘了看看他们的残骸里是否含有好东西。"
     },
     "125160": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
-        "zh": "萨沙爱国者公爵被消灭了。大约再过18秒，萨沙的密钥就会被切换，然后萨沙的信号也会成为一堆垃圾数据。<br><br>\n现在让我们瞧瞧萨沙爱国者公爵的残骸中是否包含有趣的物品吧。"
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "zh": "萨沙爱国者公爵被消灭了。大约再过18秒，萨沙的密钥就会被切换，然后萨沙的信号也会成为一堆垃圾数据。<br><br>\r\n现在让我们瞧瞧萨沙爱国者公爵的残骸中是否包含有趣的物品吧。"
     },
     "125161": {
         "en": "You have destroyed the Dark Blood Hunter. His wreck should prove quite profitable.<br><br>\r\n\r\n",
@@ -247748,7 +247748,7 @@
         "zh": "监狱正在被关闭。没有巨额的投入，血袭者就别想再收复这座监狱。 <br><br>\n当然，在堡垒正要垮台时，安放在牢房里的紧急防范设备将所有的囚犯都处死了。但与珍贵的势力装备比起来，死一千个艾玛异教徒又算得了什么？"
     },
     "125168": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "zh": "堡垒已被摧毁。所有的洗脑研究工作都已被捣毁。<br> 那些介于自由人和忠实劳工之间的灵魂，终于重获自由。我认为，这算得上是一场苦乐参半的胜利。<br> 让我们去捞些战利品吧。"
     },
     "125169": {
@@ -247764,8 +247764,8 @@
         "zh": "古斯塔斯指挥官被消灭了。本地的古斯塔斯指挥设施会因急于要找接替领袖而乱作一团的。<br><br>\n看起来古斯塔斯经常留不住领导啊。"
     },
     "125173": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
-        "zh": "萨沙爱国者公爵被消灭了。大约再过18秒，萨沙的密钥就会被切换，然后萨沙的信号也会成为一堆垃圾数据。<br><br>\n现在让我们瞧瞧萨沙爱国者公爵的残骸中是否包含有趣的物品吧。"
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "zh": "萨沙爱国者公爵被消灭了。大约再过18秒，萨沙的密钥就会被切换，然后萨沙的信号也会成为一堆垃圾数据。<br><br>\r\n现在让我们瞧瞧萨沙爱国者公爵的残骸中是否包含有趣的物品吧。"
     },
     "125174": {
         "en": "The next pocket is a busy place. I'm reading the engine wash signatures of Serpentis ships, but also private industrial and hauler firms. One trail has a 12 percent likelihood of belonging to a Federation Senator's luxury liner. <br><br>\r\nLuckily for the senator, we aren't the <a href=showinfo:2//1000107>Scope</a>.",
@@ -757968,7 +757968,7 @@
         "zh": "采矿护卫舰操作"
     },
     "283318": {
-        "en": "Skill at operating ORE Mining Frigates.",
+        "en": "Skill for the operation of ORE Mining Frigates.",
         "zh": "操纵外空联合矿业采矿护卫舰的技能。"
     },
     "283319": {
@@ -766260,7 +766260,7 @@
         "zh": "艾玛驱逐舰操作"
     },
     "286678": {
-        "en": "Skill at operating Amarr destroyers.",
+        "en": "Skill for the operation of Amarr destroyers.",
         "zh": "操作艾玛驱逐舰的技能。"
     },
     "286679": {
@@ -766268,7 +766268,7 @@
         "zh": "加达里驱逐舰操作"
     },
     "286680": {
-        "en": "Skill at operating Caldari destroyers.",
+        "en": "Skill for the operation of Caldari destroyers.",
         "zh": "操作加达里驱逐舰的技能。"
     },
     "286681": {
@@ -766276,7 +766276,7 @@
         "zh": "盖伦特驱逐舰操作"
     },
     "286682": {
-        "en": "Skill at operating Gallente destroyers.",
+        "en": "Skill for the operation of Gallente destroyers.",
         "zh": "操作盖伦特驱逐舰的技能。"
     },
     "286683": {
@@ -766284,7 +766284,7 @@
         "zh": "米玛塔尔驱逐舰操作"
     },
     "286684": {
-        "en": "Skill at operating Minmatar destroyers.",
+        "en": "Skill for the operation of Minmatar destroyers.",
         "zh": "操作米玛塔尔驱逐舰的技能。"
     },
     "286685": {
@@ -766292,7 +766292,7 @@
         "zh": "艾玛战列巡洋舰操作"
     },
     "286686": {
-        "en": "Skill at operating Amarr battlecruisers.",
+        "en": "Skill for the operation of Amarr battlecruisers.",
         "zh": "操作艾玛战列巡洋舰的技能。"
     },
     "286687": {
@@ -766300,7 +766300,7 @@
         "zh": "加达里战列巡洋舰操作"
     },
     "286688": {
-        "en": "Skill at operating Caldari battlecruisers.",
+        "en": "Skill for the operation of Caldari battlecruisers.",
         "zh": "操作加达里战列巡洋舰的技能。"
     },
     "286689": {
@@ -766308,7 +766308,7 @@
         "zh": "盖伦特战列巡洋舰操作"
     },
     "286690": {
-        "en": "Skill at operating Gallente battlecruisers.",
+        "en": "Skill for the operation of Gallente battlecruisers.",
         "zh": "操作盖伦特战列巡洋舰的技能。"
     },
     "286691": {
@@ -766316,7 +766316,7 @@
         "zh": "米玛塔尔战列巡洋舰操作"
     },
     "286692": {
-        "en": "Skill at operating Minmatar battlecruisers.",
+        "en": "Skill for the operation of Minmatar battlecruisers.",
         "zh": "操作米玛塔尔战列巡洋舰的技能。"
     },
     "286693": {
@@ -776604,8 +776604,8 @@
         "zh": "高级统御—阿尔法型"
     },
     "292377": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 15% bonus to the strength of all Ascendancy implant secondary effects",
-        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加4\n\n次要效果：跃迁速度提高1%\n\n套件效果：所有“统御”植入体次要效果增加15%"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 15% bonus to the strength of all Ascendancy implant secondary effects",
+        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加4\r\n\r\n次要效果：跃迁速度提高1%\r\n\r\n套件效果：所有“统御”植入体次要效果增加15%"
     },
     "292381": {
         "en": "Ascendancy Set bonus",
@@ -777312,8 +777312,8 @@
         "zh": "中级统御—阿尔法型"
     },
     "292631": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 10% bonus to the strength of all Ascendancy implant secondary effects",
-        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加3\n\n次要效果：跃迁速度提高1%\n\n套件效果：所有“统御”植入体次要效果增加10%"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 10% bonus to the strength of all Ascendancy implant secondary effects",
+        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加3\r\n\r\n次要效果：跃迁速度提高1%\r\n\r\n套件效果：所有“统御”植入体次要效果增加10%"
     },
     "292632": {
         "en": "Mid-grade Ascendancy Alpha Blueprint",
@@ -785292,8 +785292,8 @@
         "zh": "低级百夫长—阿尔法型"
     },
     "295556": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 2.5% bonus to the strength of all Centurion implant secondary effects",
-        "zh": "莫德团科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2 \n\n次要效果：ECM、远程感应抑阻器、武器扰断器和目标标记装置的最佳射程增加1%\n\n套件效果：所有“百夫长”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Centurion implant secondary effects",
+        "zh": "莫德团科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n次要效果：ECM、远程感应抑阻器、武器扰断器和目标标记装置的最佳射程增加1%\r\n\r\n套件效果：所有“百夫长”植入体次要效果增加2.5%"
     },
     "295557": {
         "en": "Low-grade Centurion Beta",
@@ -785340,8 +785340,8 @@
         "zh": "低级水晶—阿尔法型"
     },
     "295568": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
-        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2 \n\n次要效果：护盾回充增量提高1%\n\n套件效果：所有“水晶”植入体次要效果增加2.5%\n\n注意：不对旗舰级装备产生效果。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n次要效果：护盾回充增量提高1%\r\n\r\n套件效果：所有“水晶”植入体次要效果增加2.5%\r\n\r\n注意：不对旗舰级装备产生效果。"
     },
     "295569": {
         "en": "Low-grade Crystal Beta",
@@ -785388,8 +785388,8 @@
         "zh": "低级强势–阿尔法型"
     },
     "295580": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 2.5% bonus to the strength of all Edge implant secondary effects",
-        "zh": "辛迪加科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2 \n\n次要效果：增效剂副作用减少1%\n\n套件效果：所有“强势”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Edge implant secondary effects",
+        "zh": "辛迪加科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n次要效果：增效剂副作用减少1%\r\n\r\n套件效果：所有“强势”植入体次要效果增加2.5%"
     },
     "295581": {
         "en": "Low-grade Edge Beta",
@@ -785436,40 +785436,40 @@
         "zh": "低级圣光—阿尔法型"
     },
     "295592": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2\n\n次要效果：飞船信号半径减少1%\n\n套件效果：所有“圣光”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2\r\n\r\n次要效果：飞船信号半径减少1%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加2.5%"
     },
     "295593": {
         "en": "Low-grade Halo Beta",
         "zh": "低级圣光—贝它型"
     },
     "295594": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种记忆增强体做了专门修改，以便于他们的精英官员使用。\n\n主要效果：记忆属性值增加2\n\n次要效果：飞船信号半径减少1.25% \n\n套件效果：所有“圣光”植入体次要效果增加2.5%"
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种记忆增强体做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：记忆属性值增加2\r\n\r\n次要效果：飞船信号半径减少1.25% \r\n\r\n套件效果：所有“圣光”植入体次要效果增加2.5%"
     },
     "295595": {
         "en": "Low-grade Halo Delta",
         "zh": "低级圣光—德尔塔型"
     },
     "295596": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种脑控次处理器做了专门修改，以便于他们的精英官员使用。 \n\n主要效果：智力属性值增加2\n\n次要效果：飞船信号半径减少1.5% \n\n套件效果：所有“圣光”植入体次要效果增加2.5%"
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种脑控次处理器做了专门修改，以便于他们的精英官员使用。 \r\n\r\n主要效果：智力属性值增加2\r\n\r\n次要效果：飞船信号半径减少1.5% \r\n\r\n套件效果：所有“圣光”植入体次要效果增加2.5%"
     },
     "295597": {
         "en": "Low-grade Halo Epsilon",
         "zh": "低级圣光—伊普西隆型"
     },
     "295598": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种社交适应芯片做了专门修改，以便于他们的精英官员使用。\n\n主要效果：魅力属性值增加2\n\n次要效果：飞船信号半径减少2%\n\n套件效果：所有“圣光”植入体次要效果增加2.5%"
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种社交适应芯片做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：魅力属性值增加2\r\n\r\n次要效果：飞船信号半径减少2%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加2.5%"
     },
     "295599": {
         "en": "Low-grade Halo Gamma",
         "zh": "低级圣光—伽玛型"
     },
     "295600": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
-        "zh": "天使科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\n\n主要效果：毅力属性值增加2\n\n次要效果：飞船信号半径减少1.75%\n\n套件效果：所有“圣光”植入体次要效果增加2.5%"
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
+        "zh": "天使科学家对这种神经增效体做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：毅力属性值增加2\r\n\r\n次要效果：飞船信号半径减少1.75%\r\n\r\n套件效果：所有“圣光”植入体次要效果增加2.5%"
     },
     "295601": {
         "en": "Low-grade Halo Omega",
@@ -785484,8 +785484,8 @@
         "zh": "低级采集—阿尔法型"
     },
     "295604": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 2.5% bonus to the strength of all Harvest implant secondary effects",
-        "zh": "外空联合矿业科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2 \n\n次要效果：所有采矿激光器的范围增加1%\n\n套件效果：所有“采集”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Harvest implant secondary effects",
+        "zh": "外空联合矿业科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n次要效果：所有采矿激光器的范围增加1%\r\n\r\n套件效果：所有“采集”植入体次要效果增加2.5%"
     },
     "295605": {
         "en": "Low-grade Harvest Beta",
@@ -785532,8 +785532,8 @@
         "zh": "低级游牧者—阿尔法型"
     },
     "295616": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nomad implant secondary effects",
-        "zh": "图克尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2 \n\n次要效果：灵活性提高1%\n\n套件效果：所有“游牧者”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nomad implant secondary effects",
+        "zh": "图克尔科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n次要效果：灵活性提高1%\r\n\r\n套件效果：所有“游牧者”植入体次要效果增加2.5%"
     },
     "295617": {
         "en": "Low-grade Nomad Beta",
@@ -785628,8 +785628,8 @@
         "zh": "低级蝰蛇—阿尔法型"
     },
     "295640": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 5% bonus to the strength of all Snake implant secondary effects",
-        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英走私者使用。 \n\n主要效果：感知属性值增加2\n\n次要效果：最大速度提高0.5%\n\n套件效果：所有“蝰蛇”植入体次要效果增加5%"
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 5% bonus to the strength of all Snake implant secondary effects",
+        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英走私者使用。 \r\n\r\n主要效果：感知属性值增加2\r\n\r\n次要效果：最大速度提高0.5%\r\n\r\n套件效果：所有“蝰蛇”植入体次要效果增加5%"
     },
     "295641": {
         "en": "Low-grade Snake Beta",
@@ -785676,8 +785676,8 @@
         "zh": "低级护符—阿尔法型"
     },
     "295652": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 2.5% bonus to the strength of all Talisman implant secondary effects",
-        "zh": "血袭者科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2\n\n次要效果：需要“电容散发系统研究”技能的装备的循环时间缩短1%\n\n套件效果：所有“护符”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Talisman implant secondary effects",
+        "zh": "血袭者科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2\r\n\r\n次要效果：需要“电容散发系统研究”技能的装备的循环时间缩短1%\r\n\r\n套件效果：所有“护符”植入体次要效果增加2.5%"
     },
     "295653": {
         "en": "Low-grade Talisman Beta",
@@ -785724,8 +785724,8 @@
         "zh": "低级美德—阿尔法型"
     },
     "295664": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 2.5% bonus to the strength of all Virtue implant secondary effects",
-        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n主要效果：感知属性值增加2 \n\n次要效果：探针扫描强度提高1%\n\n套件效果：所有“美德”植入体次要效果增加2.5%"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Virtue implant secondary effects",
+        "zh": "姐妹会科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n次要效果：探针扫描强度提高1%\r\n\r\n套件效果：所有“美德”植入体次要效果增加2.5%"
     },
     "295665": {
         "en": "Low-grade Virtue Beta",
@@ -790156,7 +790156,7 @@
         "zh": "外空联合矿业货舰操作"
     },
     "297304": {
-        "en": "Skill at operating ORE freighters.",
+        "en": "Skill for the operation of ORE freighters.",
         "zh": "操作外空联合矿业货舰的技能。"
     },
     "297305": {
@@ -792092,7 +792092,7 @@
         "zh": "艾玛战术驱逐舰操作"
     },
     "297975": {
-        "en": "Skill at operating Amarr Tactical Destroyers.",
+        "en": "Skill for the operation of Amarr Tactical Destroyers.",
         "zh": "操作艾玛战术驱逐舰的技能。"
     },
     "297977": {
@@ -797120,7 +797120,7 @@
         "zh": "米玛塔尔战术驱逐舰操作"
     },
     "299898": {
-        "en": "Skill at operating Minmatar Tactical Destroyers.",
+        "en": "Skill for the operation of Minmatar Tactical Destroyers.",
         "zh": "操作米玛塔尔战术驱逐舰的技能。"
     },
     "299899": {
@@ -815460,7 +815460,7 @@
         "zh": "加达里战术驱逐舰操作"
     },
     "308775": {
-        "en": "Skill at operating Caldari Tactical Destroyers.",
+        "en": "Skill for the operation of Caldari Tactical Destroyers.",
         "zh": "操作加达里战术驱逐舰的技能。"
     },
     "308776": {
@@ -815700,7 +815700,7 @@
         "zh": "盖伦特战术驱逐舰操作"
     },
     "308864": {
-        "en": "Skill at operating Gallente Tactical Destroyers.",
+        "en": "Skill for the operation of Gallente Tactical Destroyers.",
         "zh": "操作盖伦特战术驱逐舰的技能。"
     },
     "308865": {
@@ -876096,7 +876096,7 @@
         "zh": "艾玛战力辅助舰操作"
     },
     "514115": {
-        "en": "Skill at operating Amarr force auxiliaries.",
+        "en": "Skill for the operation of Amarr force auxiliaries.",
         "zh": "操作艾玛战力辅助舰的技能。"
     },
     "514116": {
@@ -876104,7 +876104,7 @@
         "zh": "加达里战力辅助舰操作"
     },
     "514117": {
-        "en": "Skill at operating Caldari force auxiliaries.",
+        "en": "Skill for the operation of Caldari force auxiliaries.",
         "zh": "操作加达里战力辅助舰的技能。"
     },
     "514118": {
@@ -876112,7 +876112,7 @@
         "zh": "盖伦特战力辅助舰操作"
     },
     "514119": {
-        "en": "Skill at operating Gallente force auxiliaries.",
+        "en": "Skill for the operation of Gallente force auxiliaries.",
         "zh": "操作盖伦特战力辅助舰的技能。"
     },
     "514120": {
@@ -876120,7 +876120,7 @@
         "zh": "米玛塔尔战力辅助舰操作"
     },
     "514121": {
-        "en": "Skill at operating Minmatar force auxiliaries.",
+        "en": "Skill for the operation of Minmatar force auxiliaries.",
         "zh": "操作米玛塔尔战力辅助舰的技能。"
     },
     "514126": {
@@ -887776,8 +887776,8 @@
         "zh": "低级阿斯克雷—阿尔法型"
     },
     "517547": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
-        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加2 \n\n\n\n次要效果：装甲维修器维修量增加1%\n\n\n\n套件效果：所有阿斯克雷植入体次要效果增加2.5%\n\n\n\n注：对旗舰级装备不起作用。"
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2 \r\n\r\n\r\n\r\n次要效果：装甲维修器维修量增加1%\r\n\r\n\r\n\r\n套件效果：所有阿斯克雷植入体次要效果增加2.5%\r\n\r\n\r\n\r\n注：对旗舰级装备不起作用。"
     },
     "517548": {
         "en": "Atron Serpentis SKIN",
@@ -888044,8 +888044,8 @@
         "zh": "中级阿斯克雷—阿尔法型"
     },
     "517614": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
-        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加3 \n\n\n\n次要效果：装甲维修器维修量增加1%\n\n\n\n套件效果：所有阿斯克雷植入体次要效果增加10%\n\n\n\n注：对旗舰级装备不起作用。"
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加3 \r\n\r\n\r\n\r\n次要效果：装甲维修器维修量增加1%\r\n\r\n\r\n\r\n套件效果：所有阿斯克雷植入体次要效果增加10%\r\n\r\n\r\n\r\n注：对旗舰级装备不起作用。"
     },
     "517615": {
         "en": "Mid-grade Asklepian Beta",
@@ -888092,8 +888092,8 @@
         "zh": "高级阿斯克雷—阿尔法型"
     },
     "517626": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
-        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加4 \n\n\n\n次要效果：装甲维修器维修量增加1%\n\n\n\n套件效果：所有阿斯克雷植入体次要效果增加15%\n\n\n\n注：对旗舰级装备不起作用。"
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "zh": "天蛇科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加4 \r\n\r\n\r\n\r\n次要效果：装甲维修器维修量增加1%\r\n\r\n\r\n\r\n套件效果：所有阿斯克雷植入体次要效果增加15%\r\n\r\n\r\n\r\n注：对旗舰级装备不起作用。"
     },
     "517627": {
         "en": "High-grade Asklepian Beta",
@@ -930172,7 +930172,7 @@
         "zh": "先驱者护卫舰操作"
     },
     "535262": {
-        "en": "Skill at operating Precursor Frigates.",
+        "en": "Skill for the operation of Precursor Frigates.",
         "zh": "操作先驱者护卫舰的技能。"
     },
     "535263": {
@@ -930180,7 +930180,7 @@
         "zh": "先驱者巡洋舰操作"
     },
     "535264": {
-        "en": "Skill at operating Precursor Cruisers.",
+        "en": "Skill for the operation of Precursor Cruisers.",
         "zh": "操作先驱者巡洋舰的技能。"
     },
     "535265": {
@@ -930188,7 +930188,7 @@
         "zh": "先驱者战列舰操作"
     },
     "535266": {
-        "en": "Skill at operating Precursor Battleships.",
+        "en": "Skill for the operation of Precursor Battleships.",
         "zh": "操作先驱者战列舰的技能。"
     },
     "535267": {
@@ -949396,11 +949396,11 @@
         "zh": "过期的促进工业 效能-50 魅惑增效剂"
     },
     "543408": {
-        "en": "Skill at operating Precursor Destroyers",
+        "en": "Skill for the operation of Precursor Destroyers",
         "zh": "操作先驱者驱逐舰的技能"
     },
     "543409": {
-        "en": "Skill at operating Precursor Battlecruisers.",
+        "en": "Skill for the operation of Precursor Battlecruisers.",
         "zh": "操作先驱者战列巡洋舰的技能。"
     },
     "543410": {
@@ -964848,8 +964848,8 @@
         "zh": "中级仿生 - 欧米伽型"
     },
     "551815": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
-        "zh": "这款视觉滤镜是由统合部的武器技术专家对标准型克隆飞行员植入体进行改造而来，通过对三神裔武器技术逆向工程后加以模仿，提高了武器威力，但最大粒子束输出有所降低。\n\n\n\n不过，宇宙中的克隆飞行员群体中一直传言称研制这种植入体的科研小组由理性思维社团主导，并在所谓的“受限性人工智能”领域颇有所长。这种植入体可能基于受限性人工智能技术，这就进一步提出了所谓的“仿生”的本质到底是什么的问题。\n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：熵能分解者的最大伤害输出提高1%\n\n\n\n三级效果：熵能分解者每循环的伤害提高系数降低33%\n\n\n\n套件效果：所有“仿生”植入体次要效果增加20%"
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "zh": "这款视觉滤镜是由统合部的武器技术专家对标准型克隆飞行员植入体进行改造而来，通过对三神裔武器技术逆向工程后加以模仿，提高了武器威力，但最大粒子束输出有所降低。\r\n\r\n\r\n\r\n不过，宇宙中的克隆飞行员群体中一直传言称研制这种植入体的科研小组由理性思维社团主导，并在所谓的“受限性人工智能”领域颇有所长。这种植入体可能基于受限性人工智能技术，这就进一步提出了所谓的“仿生”的本质到底是什么的问题。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：熵能分解者的最大伤害输出提高1%\r\n\r\n\r\n\r\n三级效果：熵能分解者每循环的伤害提高系数降低33%\r\n\r\n\r\n\r\n套件效果：所有“仿生”植入体次要效果增加20%"
     },
     "551816": {
         "en": "This memory augmentation is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Memory\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
@@ -965332,8 +965332,8 @@
         "zh": "共享"
     },
     "552091": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1.25% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
-        "zh": "这款视觉滤镜是由统合部的武器技术专家对标准型克隆飞行员植入体进行改造而来，通过对三神裔武器技术逆向工程后加以模仿，提高了武器威力，但最大粒子束输出有所降低。\n\n\n\n不过，宇宙中的克隆飞行员群体中一直传言称研制这种植入体的科研小组由理性思维社团主导，并在所谓的“受限性人工智能”领域颇有所长。这种植入体可能基于受限性人工智能技术，这就进一步提出了所谓的“仿生”的本质到底是什么的问题。\n\n\n\n主要效果：感知属性值增加3\n\n\n\n次要效果：熵能分解者的最大伤害输出提高1.25%\n\n\n\n三级效果：熵能分解者每循环的伤害提高系数降低0.33%\n\n\n\n套件效果：所有“仿生”植入体次要效果增加20%"
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1.25% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "zh": "这款视觉滤镜是由统合部的武器技术专家对标准型克隆飞行员植入体进行改造而来，通过对三神裔武器技术逆向工程后加以模仿，提高了武器威力，但最大粒子束输出有所降低。\r\n\r\n\r\n\r\n不过，宇宙中的克隆飞行员群体中一直传言称研制这种植入体的科研小组由理性思维社团主导，并在所谓的“受限性人工智能”领域颇有所长。这种植入体可能基于受限性人工智能技术，这就进一步提出了所谓的“仿生”的本质到底是什么的问题。\r\n\r\n\r\n\r\n主要效果：感知属性值增加3\r\n\r\n\r\n\r\n次要效果：熵能分解者的最大伤害输出提高1.25%\r\n\r\n\r\n\r\n三级效果：熵能分解者每循环的伤害提高系数降低0.33%\r\n\r\n\r\n\r\n套件效果：所有“仿生”植入体次要效果增加20%"
     },
     "552092": {
         "en": "This memory augmentation is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Memory\r\n\r\nSecondary Effect: 1.75% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
@@ -966200,8 +966200,8 @@
         "zh": "高级仿生- 阿尔法型"
     },
     "552377": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
-        "zh": "这款视觉滤镜是由统合部的武器技术专家对标准型克隆飞行员植入体进行改造而来，通过对三神裔武器技术逆向工程后加以模仿，提高了武器威力，但最大粒子束输出有所降低。\n\n\n\n不过，宇宙中的克隆飞行员群体中一直传言称研制这种植入体的科研小组由理性思维社团主导，并在所谓的“受限性人工智能”领域颇有所长。这种植入体可能基于受限性人工智能技术，这就进一步提出了所谓的“仿生”的本质到底是什么的问题。\n\n\n\n主要效果：感知属性值增加4\n\n\n\n次要效果：熵能分解者的最大伤害输出提高1.5%\n\n\n\n三级效果：熵能分解者每循环的伤害提高系数降低0.33%\n\n\n\n套件效果：所有“仿生”植入体次要效果增加20%"
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1.5% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "zh": "这款视觉滤镜是由统合部的武器技术专家对标准型克隆飞行员植入体进行改造而来，通过对三神裔武器技术逆向工程后加以模仿，提高了武器威力，但最大粒子束输出有所降低。\r\n\r\n\r\n\r\n不过，宇宙中的克隆飞行员群体中一直传言称研制这种植入体的科研小组由理性思维社团主导，并在所谓的“受限性人工智能”领域颇有所长。这种植入体可能基于受限性人工智能技术，这就进一步提出了所谓的“仿生”的本质到底是什么的问题。\r\n\r\n\r\n\r\n主要效果：感知属性值增加4\r\n\r\n\r\n\r\n次要效果：熵能分解者的最大伤害输出提高1.5%\r\n\r\n\r\n\r\n三级效果：熵能分解者每循环的伤害提高系数降低0.33%\r\n\r\n\r\n\r\n套件效果：所有“仿生”植入体次要效果增加20%"
     },
     "552378": {
         "en": "High-grade Mimesis Beta",
@@ -966528,7 +966528,7 @@
         "zh": "操作旗舰级先驱者武器的技能。每升一级，旗舰级先驱者武器的伤害提升5%。"
     },
     "552502": {
-        "en": "Skill at operating precursor dreadnoughts.",
+        "en": "Skill for the operation of precursor dreadnoughts.",
         "zh": "操作先驱者无畏舰的技能。"
     },
     "552509": {
@@ -974128,8 +974128,8 @@
         "zh": "中级极乐 - 阿尔法型"
     },
     "555287": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 10% bonus to the strength of all Nirvana implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\n\n\n\n主要效果：感知属性值增加3\n\n\n\n次要效果：护盾值提高1%\n\n\n\n套件效果：所有“极乐”植入体次要效果增加10%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nirvana implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\r\n\r\n\r\n\r\n主要效果：感知属性值增加3\r\n\r\n\r\n\r\n次要效果：护盾值提高1%\r\n\r\n\r\n\r\n套件效果：所有“极乐”植入体次要效果增加10%"
     },
     "555288": {
         "en": "Mid-grade Nirvana Beta",
@@ -974200,8 +974200,8 @@
         "zh": "高级极乐 - 阿尔法型"
     },
     "555305": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 15% bonus to the strength of all Nirvana implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\n\n\n\n主要效果：感知属性值增加4\n\n\n\n次要效果：护盾值提高1%\n\n\n\n套件效果：所有“极乐”植入体次要效果增加15%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 15% bonus to the strength of all Nirvana implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\r\n\r\n\r\n\r\n主要效果：感知属性值增加4\r\n\r\n\r\n\r\n次要效果：护盾值提高1%\r\n\r\n\r\n\r\n套件效果：所有“极乐”植入体次要效果增加15%"
     },
     "555306": {
         "en": "High-grade Nirvana Beta",
@@ -974692,16 +974692,16 @@
         "zh": "低级极乐 - 阿尔法型"
     },
     "556160": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：护盾值提高1%\n\n\n\n套件效果：所有“极乐”植入体次要效果增加2.5%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：护盾值提高1%\r\n\r\n\r\n\r\n套件效果：所有“极乐”植入体次要效果增加2.5%"
     },
     "556161": {
         "en": "Low-grade Nirvana Alpha",
         "zh": "低级极乐 - 阿尔法型"
     },
     "556162": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：护盾值提高1%\n\n\n\n套件效果：所有“极乐”植入体次要效果增加2.5%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高护盾值加成。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：护盾值提高1%\r\n\r\n\r\n\r\n套件效果：所有“极乐”植入体次要效果增加2.5%"
     },
     "556163": {
         "en": "Guardians Gala VIP",
@@ -975756,7 +975756,7 @@
         "zh": "高级救世 - 阿尔法型"
     },
     "559003": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 15% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 15% bonus to the strength of all Savior implant secondary effects",
         "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。主要效果：感知加成+4 次要效果：非旗舰级远程装甲维修器和远程护盾回充增量器的循环时间和电容器激活成本降低1% 套装效果：所有“救世”植入体次要效果的强度增加15%"
     },
     "559010": {
@@ -975816,7 +975816,7 @@
         "zh": "中级救世 - 阿尔法型"
     },
     "559024": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 10% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 10% bonus to the strength of all Savior implant secondary effects",
         "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。主要效果：感知加成+3 次要效果：非旗舰级远程装甲维修器和远程护盾回充增量器的循环时间和电容器激活成本降低1% 套装效果：所有“救世”植入体次要效果的强度增加10%"
     },
     "559025": {
@@ -975864,7 +975864,7 @@
         "zh": "低级救世 - 阿尔法型"
     },
     "559036": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 2.5% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Savior implant secondary effects",
         "zh": "天使科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。主要效果：感知加成+2 次要效果：非旗舰级远程装甲维修器和远程护盾回充增量器的循环时间和电容器激活成本降低1% 套装效果：所有“救世”植入体次要效果的强度增加2.5%"
     },
     "559037": {
@@ -981556,8 +981556,8 @@
         "zh": "高级九头蛇 - 阿尔法型"
     },
     "562530": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
-        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加4\n\n\n\n次要效果：无人机跟踪速度、无人机最佳射程、无人机失准范围、导弹飞行时间和导弹爆炸速度提高1%\n\n\n\n套件效果：所有“九头蛇”植入体次要效果增加15%\n\n\n\n注：对铁骑舰载机无效。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加4\r\n\r\n\r\n\r\n次要效果：无人机跟踪速度、无人机最佳射程、无人机失准范围、导弹飞行时间和导弹爆炸速度提高1%\r\n\r\n\r\n\r\n套件效果：所有“九头蛇”植入体次要效果增加15%\r\n\r\n\r\n\r\n注：对铁骑舰载机无效。"
     },
     "562531": {
         "en": "High-grade Hydra Beta",
@@ -981624,8 +981624,8 @@
         "zh": "中级九头蛇 - 阿尔法型"
     },
     "562547": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
-        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加3\n\n\n\n次要效果：无人机跟踪速度、无人机最佳射程、无人机失准范围、导弹飞行时间和导弹爆炸速度提高1%\n\n\n\n套件效果：所有“九头蛇”植入体次要效果增加10%\n\n\n\n注：对铁骑舰载机无效。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加3\r\n\r\n\r\n\r\n次要效果：无人机跟踪速度、无人机最佳射程、无人机失准范围、导弹飞行时间和导弹爆炸速度提高1%\r\n\r\n\r\n\r\n套件效果：所有“九头蛇”植入体次要效果增加10%\r\n\r\n\r\n\r\n注：对铁骑舰载机无效。"
     },
     "562548": {
         "en": "Mid-grade Hydra Beta",
@@ -981672,8 +981672,8 @@
         "zh": "低级九头蛇 - 阿尔法型"
     },
     "562559": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
-        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：无人机跟踪速度、无人机最佳射程、无人机失准范围、导弹飞行时间和导弹爆炸速度提高1%\n\n\n\n套件效果：所有“九头蛇”植入体次要效果增加2.5%\n\n\n\n注：对铁骑舰载机无效。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "zh": "古斯塔斯科学家对这种视觉滤镜做了专门修改，以便于他们的精英官员使用。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：无人机跟踪速度、无人机最佳射程、无人机失准范围、导弹飞行时间和导弹爆炸速度提高1%\r\n\r\n\r\n\r\n套件效果：所有“九头蛇”植入体次要效果增加2.5%\r\n\r\n\r\n\r\n注：对铁骑舰载机无效。"
     },
     "562560": {
         "en": "Low-grade Hydra Beta",
@@ -1009392,8 +1009392,8 @@
         "zh": "低级销魂 - 阿尔法型"
     },
     "573194": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 2.5% bonus to the strength of all Rapture implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高电容回充速率。\n\n\n\n主要效果：感知属性值增加2\n\n\n\n次要效果：电容回充时间减少1%\n\n\n\n套件效果：所有“销魂”植入体次要效果增加2.5%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Rapture implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高电容回充速率。\r\n\r\n\r\n\r\n主要效果：感知属性值增加2\r\n\r\n\r\n\r\n次要效果：电容回充时间减少1%\r\n\r\n\r\n\r\n套件效果：所有“销魂”植入体次要效果增加2.5%"
     },
     "573195": {
         "en": "Low-grade Rapture Beta",
@@ -1009448,8 +1009448,8 @@
         "zh": "中级销魂 - 阿尔法型"
     },
     "573208": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 10% bonus to the strength of all Rapture implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高电容回充速率。\n\n\n\n主要效果：感知属性值增加3\n\n\n\n次要效果：电容回充时间减少1%\n\n\n\n套件效果：所有“销魂”植入体次要效果增加10%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 10% bonus to the strength of all Rapture implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高电容回充速率。\r\n\r\n\r\n\r\n主要效果：感知属性值增加3\r\n\r\n\r\n\r\n次要效果：电容回充时间减少1%\r\n\r\n\r\n\r\n套件效果：所有“销魂”植入体次要效果增加10%"
     },
     "573209": {
         "en": "Mid-grade Rapture Beta",
@@ -1009496,8 +1009496,8 @@
         "zh": "高级销魂 - 阿尔法型"
     },
     "573220": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 15% bonus to the strength of all Rapture implant secondary effects",
-        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高电容回充速率。\n\n\n\n主要效果：感知属性值增加4\n\n\n\n次要效果：电容回充时间减少1%\n\n\n\n套件效果：所有“销魂”植入体次要效果增加15%"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 15% bonus to the strength of all Rapture implant secondary effects",
+        "zh": "这款视觉滤镜使用了萨沙的技术进行研发，专供萨沙和其关联势力的精英飞行员使用。与其他属于同一套装的植入体搭配使用时可以提高电容回充速率。\r\n\r\n\r\n\r\n主要效果：感知属性值增加4\r\n\r\n\r\n\r\n次要效果：电容回充时间减少1%\r\n\r\n\r\n\r\n套件效果：所有“销魂”植入体次要效果增加15%"
     },
     "573221": {
         "en": "High-grade Rapture Beta",
@@ -1108596,7 +1108596,7 @@
         "zh": "枪骑兵级无畏舰"
     },
     "662253": {
-        "en": "Skill at operating Lancer Dreadnoughts.",
+        "en": "Skill for the operation of Lancer Dreadnoughts.",
         "zh": "操作枪骑兵级无畏舰的技能。"
     },
     "662254": {
@@ -1126320,7 +1126320,7 @@
         "zh": "昇威运载舰"
     },
     "709034": {
-        "en": "Skill at operating Upwell Consortium haulers.",
+        "en": "Skill for the operation of Upwell Consortium haulers.",
         "zh": "操作昇威财团运载舰的技能。"
     },
     "709039": {
@@ -1126472,7 +1126472,7 @@
         "zh": "昇威货舰"
     },
     "709102": {
-        "en": "Skill at operating Upwell freighters.",
+        "en": "Skill for the operation of Upwell freighters.",
         "zh": "操作昇威货舰的技能。"
     },
     "709105": {
@@ -1170020,7 +1170020,7 @@
         "zh": "低级分裂阿尔法型"
     },
     "1011441": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "zh": "昇威财团对这种视觉滤镜做了专门修改，以便于他们的精英安全专家使用。主要效果：感知加成+2 次要效果：舰船装配的数据分析仪和遗迹分析仪的病毒同步率额外+1"
     },
     "1011442": {
@@ -1170068,7 +1170068,7 @@
         "zh": "中级分裂阿尔法型"
     },
     "1011453": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "zh": "昇威财团对这种视觉滤镜做了专门修改，以便于他们的精英安全专家使用。主要效果：感知加成+3 次要效果：舰船装配的数据分析仪和遗迹分析仪的病毒同步率额外+2"
     },
     "1011454": {
@@ -1180320,7 +1180320,7 @@
         "zh": "采矿驱逐舰"
     },
     "1016659": {
-        "en": "Skill at operating ORE Mining Destroyers",
+        "en": "Skill for the operation of ORE Mining Destroyers",
         "zh": "操作联合矿业采矿驱逐舰的技能"
     },
     "1016660": {
@@ -1181588,7 +1181588,7 @@
         "zh": "远征指挥舰"
     },
     "1017837": {
-        "en": "Skill at operating expedition command ships.",
+        "en": "Skill for the operation of expedition command ships.",
         "zh": "操作远征指挥舰的技能。"
     },
     "1017838": {
@@ -1221636,7 +1221636,7 @@
         "zh": "指挥航母"
     },
     "1043213": {
-        "en": "Skill at operating Command Carriers.",
+        "en": "Skill for the operation of Command Carriers.",
         "zh": "操作指挥航母的技能。"
     },
     "1043214": {
@@ -1244804,7 +1244804,7 @@
         "zh": "对舰船造成伤害的克隆飞行员，或者其所属的组织（军团、联盟、势力）。"
     },
     "1058621": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "zh": "征服打捞器"
     },
     "1058622": {
@@ -1244812,19 +1244812,19 @@
         "zh": "这个特殊的扫描器可以探测到舰船残骸中是否有可回收的物品。"
     },
     "1058623": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "zh": "征服打捞器"
     },
     "1058624": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "zh": "征服打捞器"
     },
     "1058625": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "zh": "征服打捞器"
     },
     "1058626": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "zh": "征服打捞器"
     },
     "1058627": {
@@ -1246710,5 +1246710,33 @@
     "1063128": {
         "en": "Imperial Navy Stasis Webifier Blueprint",
         "zh": "帝国海军停滞缠绕光束蓝图"
+    },
+    "1063517": {
+        "en": "22nd Alliance Tournament: Deteriorated",
+        "zh": ""
+    },
+    "1063518": {
+        "en": "<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
+        "zh": ""
+    },
+    "1065084": {
+        "en": "Military Campaigns - Update!",
+        "zh": "军事行动更新！"
+    },
+    "1065085": {
+        "en": "Four objectives available. Gather and spend tokens on rare apparel, boosters, new modules & SKINs.",
+        "zh": "四项目标现已全部开放。收集忠诚凭证，兑换稀有服饰、增效剂、全新装备和涂装。"
+    },
+    "1065086": {
+        "en": "Complete achievements for up to 1.2M SP, Penumbral Shadows SKINs, and titles.",
+        "zh": "完成各项成就，最高可获得 120 万技能点、日月半影涂装和头衔等奖励。 "
+    },
+    "1065097": {
+        "en": "Run special SARO Black Sites for extra campaign drops. Find them with the map's Activity filter.",
+        "zh": "挑战特殊的法序局秘密地点，获取额外掉落的军事行动物品。使用地图上的“活动”筛选 器即可找到这些地点。"
+    },
+    "1065098": {
+        "en": "Now more sites, each dropping more items, and you earn more. Open Theaters of War to join the race!",
+        "zh": "现已新增更多行动地点、更多掉落物品，奖励也更加丰厚！打开“战区”，加入这场竞逐！"
     }
 }

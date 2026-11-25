@@ -116776,83 +116776,83 @@
         "it": ""
     },
     "87338": {
-        "en": "Skill at operating Gallente frigates.",
+        "en": "Skill for the operation of Gallente frigates.",
         "it": ""
     },
     "87339": {
-        "en": "Skill at operating Minmatar frigates.",
+        "en": "Skill for the operation of Minmatar frigates.",
         "it": ""
     },
     "87340": {
-        "en": "Skill at operating Caldari frigates.",
+        "en": "Skill for the operation of Caldari frigates.",
         "it": ""
     },
     "87341": {
-        "en": "Skill at operating Amarr frigates.",
+        "en": "Skill for the operation of Amarr frigates.",
         "it": ""
     },
     "87342": {
-        "en": "Skill at operating Gallente cruisers.",
+        "en": "Skill for the operation of Gallente cruisers.",
         "it": ""
     },
     "87343": {
-        "en": "Skill at operating Minmatar cruisers.",
+        "en": "Skill for the operation of Minmatar cruisers.",
         "it": ""
     },
     "87344": {
-        "en": "Skill at operating Caldari cruisers.",
+        "en": "Skill for the operation of Caldari cruisers.",
         "it": ""
     },
     "87345": {
-        "en": "Skill at operating Amarr cruisers.",
+        "en": "Skill for the operation of Amarr cruisers.",
         "it": ""
     },
     "87346": {
-        "en": "Skill at operating Gallente battleships.",
+        "en": "Skill for the operation of Gallente battleships.",
         "it": ""
     },
     "87347": {
-        "en": "Skill at operating Minmatar battleships.",
+        "en": "Skill for the operation of Minmatar battleships.",
         "it": ""
     },
     "87348": {
-        "en": "Skill at operating Caldari battleships.",
+        "en": "Skill for the operation of Caldari battleships.",
         "it": ""
     },
     "87349": {
-        "en": "Skill at operating Amarr battleships.",
+        "en": "Skill for the operation of Amarr battleships.",
         "it": ""
     },
     "87350": {
-        "en": "Skill at operating Gallente hauler ships.",
+        "en": "Skill for the operation of Gallente hauler ships.",
         "it": ""
     },
     "87351": {
-        "en": "Skill at operating Minmatar hauler ships.",
+        "en": "Skill for the operation of Minmatar hauler ships.",
         "it": ""
     },
     "87352": {
-        "en": "Skill at operating Caldari hauler ships.",
+        "en": "Skill for the operation of Caldari hauler ships.",
         "it": ""
     },
     "87353": {
-        "en": "Skill at operating Amarr hauler ships.",
+        "en": "Skill for the operation of Amarr hauler ships.",
         "it": ""
     },
     "87354": {
-        "en": "Skill at operating Gallente titans.",
+        "en": "Skill for the operation of Gallente titans.",
         "it": ""
     },
     "87355": {
-        "en": "Skill at operating Minmatar titans.",
+        "en": "Skill for the operation of Minmatar titans.",
         "it": ""
     },
     "87356": {
-        "en": "Skill at operating Caldari titans.",
+        "en": "Skill for the operation of Caldari titans.",
         "it": ""
     },
     "87357": {
-        "en": "Skill at operating Amarr titans.",
+        "en": "Skill for the operation of Amarr titans.",
         "it": ""
     },
     "87358": {
@@ -118784,11 +118784,11 @@
         "it": ""
     },
     "87847": {
-        "en": "Skill at operating Jovian hauler ships.",
+        "en": "Skill for the operation of Jovian hauler ships.",
         "it": ""
     },
     "87848": {
-        "en": "Skill at operating jove battleships.",
+        "en": "Skill for the operation of jove battleships.",
         "it": ""
     },
     "87849": {
@@ -119072,7 +119072,7 @@
         "it": ""
     },
     "87920": {
-        "en": "Skill at operating mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
+        "en": "Skill for the operation of mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
         "it": ""
     },
     "87921": {
@@ -119560,7 +119560,7 @@
         "it": ""
     },
     "88048": {
-        "en": "Skill at operating Battlecruisers. Can not be trained on Trial Accounts.",
+        "en": "Skill for the operation of Battlecruisers. Can not be trained on Trial Accounts.",
         "it": ""
     },
     "88049": {
@@ -124112,7 +124112,7 @@
         "it": ""
     },
     "89195": {
-        "en": "Skill at operating ORE Mining Barges.",
+        "en": "Skill for the operation of ORE Mining Barges.",
         "it": ""
     },
     "89196": {
@@ -125548,7 +125548,7 @@
         "it": ""
     },
     "89626": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 15% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 15% bonus to the strength of all Talisman implant secondary effects",
         "it": ""
     },
     "89627": {
@@ -126048,15 +126048,15 @@
         "it": ""
     },
     "89775": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89776": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89777": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89778": {
@@ -126064,11 +126064,11 @@
         "it": ""
     },
     "89779": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89780": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Willpower\r\n\r\nSecondary Effect: 1.50% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.50% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89781": {
@@ -126080,35 +126080,35 @@
         "it": ""
     },
     "89783": {
-        "en": "Skill at operating Amarr freighters.",
+        "en": "Skill for the operation of Amarr freighters.",
         "it": ""
     },
     "89784": {
-        "en": "Skill at operating Amarr dreadnoughts.",
+        "en": "Skill for the operation of Amarr dreadnoughts.",
         "it": ""
     },
     "89785": {
-        "en": "Skill at operating Caldari freighters.",
+        "en": "Skill for the operation of Caldari freighters.",
         "it": ""
     },
     "89786": {
-        "en": "Skill at operating Gallente freighters.",
+        "en": "Skill for the operation of Gallente freighters.",
         "it": ""
     },
     "89787": {
-        "en": "Skill at operating Minmatar freighters.",
+        "en": "Skill for the operation of Minmatar freighters.",
         "it": ""
     },
     "89788": {
-        "en": "Skill at operating Caldari dreadnoughts.",
+        "en": "Skill for the operation of Caldari dreadnoughts.",
         "it": ""
     },
     "89789": {
-        "en": "Skill at operating Gallente dreadnoughts.",
+        "en": "Skill for the operation of Gallente dreadnoughts.",
         "it": ""
     },
     "89790": {
-        "en": "Skill at operating Minmatar dreadnoughts.",
+        "en": "Skill for the operation of Minmatar dreadnoughts.",
         "it": ""
     },
     "89791": {
@@ -126892,23 +126892,23 @@
         "it": ""
     },
     "89991": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89992": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89993": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +3 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +3 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89994": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89995": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89996": {
@@ -126916,7 +126916,7 @@
         "it": ""
     },
     "89997": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 10% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 10% bonus to the strength of all Talisman implant secondary effects",
         "it": ""
     },
     "89998": {
@@ -127912,19 +127912,19 @@
         "it": ""
     },
     "90255": {
-        "en": "Skill at operating Amarr carriers.",
+        "en": "Skill for the operation of Amarr carriers.",
         "it": ""
     },
     "90256": {
-        "en": "Skill at operating Caldari carriers.",
+        "en": "Skill for the operation of Caldari carriers.",
         "it": ""
     },
     "90257": {
-        "en": "Skill at operating Gallente carriers.",
+        "en": "Skill for the operation of Gallente carriers.",
         "it": ""
     },
     "90258": {
-        "en": "Skill at operating Minmatar carriers.",
+        "en": "Skill for the operation of Minmatar carriers.",
         "it": ""
     },
     "90259": {
@@ -129268,7 +129268,7 @@
         "it": ""
     },
     "90668": {
-        "en": "Skill at operating Capital Industrial Ships.",
+        "en": "Skill for the operation of Capital Industrial Ships.",
         "it": ""
     },
     "90669": {
@@ -130056,23 +130056,23 @@
         "it": ""
     },
     "90871": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect: </b> 10% bonus to the strength of all Centurion implant secondary effects",
         "it": ""
     },
     "90872": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 10% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 10% bonus to the strength of all Edge implant secondary effects",
         "it": ""
     },
     "90873": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 10% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 10% bonus to the strength of all Harvest implant secondary effects",
         "it": ""
     },
     "90874": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 10% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nomad implant secondary effects",
         "it": ""
     },
     "90875": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 10% bonus to the strength of all Virtue implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 10% bonus to the strength of all Virtue implant secondary effects",
         "it": ""
     },
     "90876": {
@@ -131608,7 +131608,7 @@
         "it": ""
     },
     "91261": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "91262": {
@@ -131632,7 +131632,7 @@
         "it": ""
     },
     "91267": {
-        "en": "Skill at operating industrial command ships.",
+        "en": "Skill for the operation of industrial command ships.",
         "it": ""
     },
     "91268": {
@@ -131888,7 +131888,7 @@
         "it": ""
     },
     "91331": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "91332": {
@@ -131908,7 +131908,7 @@
         "it": ""
     },
     "91336": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Snake implant secondary effects",
         "it": ""
     },
     "91337": {
@@ -131928,7 +131928,7 @@
         "it": ""
     },
     "91341": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Snake implant secondary effects",
         "it": ""
     },
     "91342": {
@@ -132304,7 +132304,7 @@
         "it": ""
     },
     "91436": {
-        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>",
+        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
         "it": ""
     },
     "91437": {
@@ -133592,7 +133592,7 @@
         "it": ""
     },
     "91768": {
-        "en": "Skill at operating Amarr Strategic Cruisers.",
+        "en": "Skill for the operation of Amarr Strategic Cruisers.",
         "it": ""
     },
     "91769": {
@@ -136724,35 +136724,35 @@
         "it": ""
     },
     "92557": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's radar sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's radar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
         "it": ""
     },
     "92558": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to ship's Ladar sensor strength\n\nSet Effect: 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's Ladar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
         "it": ""
     },
     "92559": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of radar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of radar sensor strength to piloted ship",
         "it": ""
     },
     "92560": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of ladar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of ladar sensor strength to piloted ship",
         "it": ""
     },
     "92561": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of magnetometric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of magnetometric sensor strength to piloted ship",
         "it": ""
     },
     "92562": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of gravimetric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of gravimetric sensor strength to piloted ship",
         "it": ""
     },
     "92563": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's magnetometric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's magnetometric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
         "it": ""
     },
     "92564": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's gravimetric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's gravimetric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
         "it": ""
     },
     "92565": {
@@ -138496,15 +138496,15 @@
         "it": ""
     },
     "93035": {
-        "en": "Skill at operating Caldari Strategic Cruisers.",
+        "en": "Skill for the operation of Caldari Strategic Cruisers.",
         "it": ""
     },
     "93036": {
-        "en": "Skill at operating Gallente Strategic Cruisers.",
+        "en": "Skill for the operation of Gallente Strategic Cruisers.",
         "it": ""
     },
     "93037": {
-        "en": "Skill at operating Minmatar Strategic Cruisers.",
+        "en": "Skill for the operation of Minmatar Strategic Cruisers.",
         "it": ""
     },
     "93038": {
@@ -141592,7 +141592,7 @@
         "it": ""
     },
     "93826": {
-        "en": "Skill at operating ORE hauler ships.",
+        "en": "Skill for the operation of ORE hauler ships.",
         "it": ""
     },
     "93827": {
@@ -147960,7 +147960,7 @@
         "it": ""
     },
     "95483": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95484": {
@@ -149668,7 +149668,7 @@
         "it": ""
     },
     "95912": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95913": {
@@ -149944,7 +149944,7 @@
         "it": ""
     },
     "95981": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95982": {
@@ -247668,7 +247668,7 @@
         "it": ""
     },
     "125148": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "it": ""
     },
     "125149": {
@@ -247716,7 +247716,7 @@
         "it": ""
     },
     "125160": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
         "it": ""
     },
     "125161": {
@@ -247748,7 +247748,7 @@
         "it": ""
     },
     "125168": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "it": ""
     },
     "125169": {
@@ -247764,7 +247764,7 @@
         "it": ""
     },
     "125173": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
         "it": ""
     },
     "125174": {
@@ -757968,7 +757968,7 @@
         "it": ""
     },
     "283318": {
-        "en": "Skill at operating ORE Mining Frigates.",
+        "en": "Skill for the operation of ORE Mining Frigates.",
         "it": ""
     },
     "283319": {
@@ -766260,7 +766260,7 @@
         "it": ""
     },
     "286678": {
-        "en": "Skill at operating Amarr destroyers.",
+        "en": "Skill for the operation of Amarr destroyers.",
         "it": ""
     },
     "286679": {
@@ -766268,7 +766268,7 @@
         "it": ""
     },
     "286680": {
-        "en": "Skill at operating Caldari destroyers.",
+        "en": "Skill for the operation of Caldari destroyers.",
         "it": ""
     },
     "286681": {
@@ -766276,7 +766276,7 @@
         "it": ""
     },
     "286682": {
-        "en": "Skill at operating Gallente destroyers.",
+        "en": "Skill for the operation of Gallente destroyers.",
         "it": ""
     },
     "286683": {
@@ -766284,7 +766284,7 @@
         "it": ""
     },
     "286684": {
-        "en": "Skill at operating Minmatar destroyers.",
+        "en": "Skill for the operation of Minmatar destroyers.",
         "it": ""
     },
     "286685": {
@@ -766292,7 +766292,7 @@
         "it": ""
     },
     "286686": {
-        "en": "Skill at operating Amarr battlecruisers.",
+        "en": "Skill for the operation of Amarr battlecruisers.",
         "it": ""
     },
     "286687": {
@@ -766300,7 +766300,7 @@
         "it": ""
     },
     "286688": {
-        "en": "Skill at operating Caldari battlecruisers.",
+        "en": "Skill for the operation of Caldari battlecruisers.",
         "it": ""
     },
     "286689": {
@@ -766308,7 +766308,7 @@
         "it": ""
     },
     "286690": {
-        "en": "Skill at operating Gallente battlecruisers.",
+        "en": "Skill for the operation of Gallente battlecruisers.",
         "it": ""
     },
     "286691": {
@@ -766316,7 +766316,7 @@
         "it": ""
     },
     "286692": {
-        "en": "Skill at operating Minmatar battlecruisers.",
+        "en": "Skill for the operation of Minmatar battlecruisers.",
         "it": ""
     },
     "286693": {
@@ -776604,7 +776604,7 @@
         "it": ""
     },
     "292377": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 15% bonus to the strength of all Ascendancy implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 15% bonus to the strength of all Ascendancy implant secondary effects",
         "it": ""
     },
     "292381": {
@@ -777312,7 +777312,7 @@
         "it": ""
     },
     "292631": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 10% bonus to the strength of all Ascendancy implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 10% bonus to the strength of all Ascendancy implant secondary effects",
         "it": ""
     },
     "292632": {
@@ -785292,7 +785292,7 @@
         "it": ""
     },
     "295556": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 2.5% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Centurion implant secondary effects",
         "it": ""
     },
     "295557": {
@@ -785340,7 +785340,7 @@
         "it": ""
     },
     "295568": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "295569": {
@@ -785388,7 +785388,7 @@
         "it": ""
     },
     "295580": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 2.5% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Edge implant secondary effects",
         "it": ""
     },
     "295581": {
@@ -785436,7 +785436,7 @@
         "it": ""
     },
     "295592": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295593": {
@@ -785444,7 +785444,7 @@
         "it": ""
     },
     "295594": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295595": {
@@ -785452,7 +785452,7 @@
         "it": ""
     },
     "295596": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295597": {
@@ -785460,7 +785460,7 @@
         "it": ""
     },
     "295598": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295599": {
@@ -785468,7 +785468,7 @@
         "it": ""
     },
     "295600": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295601": {
@@ -785484,7 +785484,7 @@
         "it": ""
     },
     "295604": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 2.5% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Harvest implant secondary effects",
         "it": ""
     },
     "295605": {
@@ -785532,7 +785532,7 @@
         "it": ""
     },
     "295616": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nomad implant secondary effects",
         "it": ""
     },
     "295617": {
@@ -785628,7 +785628,7 @@
         "it": ""
     },
     "295640": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 5% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 5% bonus to the strength of all Snake implant secondary effects",
         "it": ""
     },
     "295641": {
@@ -785676,7 +785676,7 @@
         "it": ""
     },
     "295652": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 2.5% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Talisman implant secondary effects",
         "it": ""
     },
     "295653": {
@@ -785724,7 +785724,7 @@
         "it": ""
     },
     "295664": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 2.5% bonus to the strength of all Virtue implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Virtue implant secondary effects",
         "it": ""
     },
     "295665": {
@@ -790156,7 +790156,7 @@
         "it": ""
     },
     "297304": {
-        "en": "Skill at operating ORE freighters.",
+        "en": "Skill for the operation of ORE freighters.",
         "it": ""
     },
     "297305": {
@@ -792092,7 +792092,7 @@
         "it": ""
     },
     "297975": {
-        "en": "Skill at operating Amarr Tactical Destroyers.",
+        "en": "Skill for the operation of Amarr Tactical Destroyers.",
         "it": ""
     },
     "297977": {
@@ -797120,7 +797120,7 @@
         "it": ""
     },
     "299898": {
-        "en": "Skill at operating Minmatar Tactical Destroyers.",
+        "en": "Skill for the operation of Minmatar Tactical Destroyers.",
         "it": ""
     },
     "299899": {
@@ -815460,7 +815460,7 @@
         "it": ""
     },
     "308775": {
-        "en": "Skill at operating Caldari Tactical Destroyers.",
+        "en": "Skill for the operation of Caldari Tactical Destroyers.",
         "it": ""
     },
     "308776": {
@@ -815700,7 +815700,7 @@
         "it": ""
     },
     "308864": {
-        "en": "Skill at operating Gallente Tactical Destroyers.",
+        "en": "Skill for the operation of Gallente Tactical Destroyers.",
         "it": ""
     },
     "308865": {
@@ -876096,7 +876096,7 @@
         "it": ""
     },
     "514115": {
-        "en": "Skill at operating Amarr force auxiliaries.",
+        "en": "Skill for the operation of Amarr force auxiliaries.",
         "it": ""
     },
     "514116": {
@@ -876104,7 +876104,7 @@
         "it": ""
     },
     "514117": {
-        "en": "Skill at operating Caldari force auxiliaries.",
+        "en": "Skill for the operation of Caldari force auxiliaries.",
         "it": ""
     },
     "514118": {
@@ -876112,7 +876112,7 @@
         "it": ""
     },
     "514119": {
-        "en": "Skill at operating Gallente force auxiliaries.",
+        "en": "Skill for the operation of Gallente force auxiliaries.",
         "it": ""
     },
     "514120": {
@@ -876120,7 +876120,7 @@
         "it": ""
     },
     "514121": {
-        "en": "Skill at operating Minmatar force auxiliaries.",
+        "en": "Skill for the operation of Minmatar force auxiliaries.",
         "it": ""
     },
     "514126": {
@@ -887776,7 +887776,7 @@
         "it": ""
     },
     "517547": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "517548": {
@@ -888044,7 +888044,7 @@
         "it": ""
     },
     "517614": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "517615": {
@@ -888092,7 +888092,7 @@
         "it": ""
     },
     "517626": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "517627": {
@@ -930172,7 +930172,7 @@
         "it": ""
     },
     "535262": {
-        "en": "Skill at operating Precursor Frigates.",
+        "en": "Skill for the operation of Precursor Frigates.",
         "it": ""
     },
     "535263": {
@@ -930180,7 +930180,7 @@
         "it": ""
     },
     "535264": {
-        "en": "Skill at operating Precursor Cruisers.",
+        "en": "Skill for the operation of Precursor Cruisers.",
         "it": ""
     },
     "535265": {
@@ -930188,7 +930188,7 @@
         "it": ""
     },
     "535266": {
-        "en": "Skill at operating Precursor Battleships.",
+        "en": "Skill for the operation of Precursor Battleships.",
         "it": ""
     },
     "535267": {
@@ -949396,11 +949396,11 @@
         "it": ""
     },
     "543408": {
-        "en": "Skill at operating Precursor Destroyers",
+        "en": "Skill for the operation of Precursor Destroyers",
         "it": ""
     },
     "543409": {
-        "en": "Skill at operating Precursor Battlecruisers.",
+        "en": "Skill for the operation of Precursor Battlecruisers.",
         "it": ""
     },
     "543410": {
@@ -964848,7 +964848,7 @@
         "it": ""
     },
     "551815": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "it": ""
     },
     "551816": {
@@ -965332,7 +965332,7 @@
         "it": ""
     },
     "552091": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1.25% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1.25% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "it": ""
     },
     "552092": {
@@ -966200,7 +966200,7 @@
         "it": ""
     },
     "552377": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1.5% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "it": ""
     },
     "552378": {
@@ -966528,7 +966528,7 @@
         "it": ""
     },
     "552502": {
-        "en": "Skill at operating precursor dreadnoughts.",
+        "en": "Skill for the operation of precursor dreadnoughts.",
         "it": ""
     },
     "552509": {
@@ -974128,7 +974128,7 @@
         "it": ""
     },
     "555287": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 10% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "555288": {
@@ -974200,7 +974200,7 @@
         "it": ""
     },
     "555305": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 15% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 15% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "555306": {
@@ -974692,7 +974692,7 @@
         "it": ""
     },
     "556160": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "556161": {
@@ -974700,7 +974700,7 @@
         "it": ""
     },
     "556162": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "556163": {
@@ -975756,7 +975756,7 @@
         "it": ""
     },
     "559003": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 15% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 15% bonus to the strength of all Savior implant secondary effects",
         "it": ""
     },
     "559010": {
@@ -975816,7 +975816,7 @@
         "it": ""
     },
     "559024": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 10% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 10% bonus to the strength of all Savior implant secondary effects",
         "it": ""
     },
     "559025": {
@@ -975864,7 +975864,7 @@
         "it": ""
     },
     "559036": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 2.5% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Savior implant secondary effects",
         "it": ""
     },
     "559037": {
@@ -981556,7 +981556,7 @@
         "it": ""
     },
     "562530": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "it": ""
     },
     "562531": {
@@ -981624,7 +981624,7 @@
         "it": ""
     },
     "562547": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "it": ""
     },
     "562548": {
@@ -981672,7 +981672,7 @@
         "it": ""
     },
     "562559": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "it": ""
     },
     "562560": {
@@ -1009392,7 +1009392,7 @@
         "it": ""
     },
     "573194": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 2.5% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Rapture implant secondary effects",
         "it": ""
     },
     "573195": {
@@ -1009448,7 +1009448,7 @@
         "it": ""
     },
     "573208": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 10% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 10% bonus to the strength of all Rapture implant secondary effects",
         "it": ""
     },
     "573209": {
@@ -1009496,7 +1009496,7 @@
         "it": ""
     },
     "573220": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 15% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 15% bonus to the strength of all Rapture implant secondary effects",
         "it": ""
     },
     "573221": {
@@ -1108596,7 +1108596,7 @@
         "it": ""
     },
     "662253": {
-        "en": "Skill at operating Lancer Dreadnoughts.",
+        "en": "Skill for the operation of Lancer Dreadnoughts.",
         "it": ""
     },
     "662254": {
@@ -1126320,7 +1126320,7 @@
         "it": ""
     },
     "709034": {
-        "en": "Skill at operating Upwell Consortium haulers.",
+        "en": "Skill for the operation of Upwell Consortium haulers.",
         "it": ""
     },
     "709039": {
@@ -1126472,7 +1126472,7 @@
         "it": ""
     },
     "709102": {
-        "en": "Skill at operating Upwell freighters.",
+        "en": "Skill for the operation of Upwell freighters.",
         "it": ""
     },
     "709105": {
@@ -1170020,7 +1170020,7 @@
         "it": ""
     },
     "1011441": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "it": ""
     },
     "1011442": {
@@ -1170068,7 +1170068,7 @@
         "it": ""
     },
     "1011453": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "it": ""
     },
     "1011454": {
@@ -1180320,7 +1180320,7 @@
         "it": ""
     },
     "1016659": {
-        "en": "Skill at operating ORE Mining Destroyers",
+        "en": "Skill for the operation of ORE Mining Destroyers",
         "it": ""
     },
     "1016660": {
@@ -1181588,7 +1181588,7 @@
         "it": ""
     },
     "1017837": {
-        "en": "Skill at operating expedition command ships.",
+        "en": "Skill for the operation of expedition command ships.",
         "it": ""
     },
     "1017838": {
@@ -1221636,7 +1221636,7 @@
         "it": ""
     },
     "1043213": {
-        "en": "Skill at operating Command Carriers.",
+        "en": "Skill for the operation of Command Carriers.",
         "it": ""
     },
     "1043214": {

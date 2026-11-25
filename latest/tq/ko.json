@@ -116776,83 +116776,83 @@
         "ko": "함선 운용을 위한 스킬입니다. 매 레벨마다 함선 기동성 2% 증가"
     },
     "87338": {
-        "en": "Skill at operating Gallente frigates.",
+        "en": "Skill for the operation of Gallente frigates.",
         "ko": "갈란테 프리깃을 운용하기 위한 스킬입니다."
     },
     "87339": {
-        "en": "Skill at operating Minmatar frigates.",
+        "en": "Skill for the operation of Minmatar frigates.",
         "ko": "민마타 프리깃을 운용하기 위한 스킬입니다."
     },
     "87340": {
-        "en": "Skill at operating Caldari frigates.",
+        "en": "Skill for the operation of Caldari frigates.",
         "ko": "칼다리 프리깃을 운용하기 위한 스킬입니다."
     },
     "87341": {
-        "en": "Skill at operating Amarr frigates.",
+        "en": "Skill for the operation of Amarr frigates.",
         "ko": "아마르 프리깃 운용을 위한 스킬입니다."
     },
     "87342": {
-        "en": "Skill at operating Gallente cruisers.",
+        "en": "Skill for the operation of Gallente cruisers.",
         "ko": "갈란테 크루저를 운용하기 위한 스킬입니다."
     },
     "87343": {
-        "en": "Skill at operating Minmatar cruisers.",
+        "en": "Skill for the operation of Minmatar cruisers.",
         "ko": "민마타 크루저를 운용하기 위한 스킬입니다."
     },
     "87344": {
-        "en": "Skill at operating Caldari cruisers.",
+        "en": "Skill for the operation of Caldari cruisers.",
         "ko": "칼다리 크루저를 운용하기 위한 스킬입니다."
     },
     "87345": {
-        "en": "Skill at operating Amarr cruisers.",
+        "en": "Skill for the operation of Amarr cruisers.",
         "ko": "아마르 크루저 운용을 위한 스킬입니다."
     },
     "87346": {
-        "en": "Skill at operating Gallente battleships.",
+        "en": "Skill for the operation of Gallente battleships.",
         "ko": "갈란테 배틀쉽을 운용하기 위한 스킬입니다."
     },
     "87347": {
-        "en": "Skill at operating Minmatar battleships.",
+        "en": "Skill for the operation of Minmatar battleships.",
         "ko": "민마타 배틀쉽을 운용하기 위한 스킬입니다."
     },
     "87348": {
-        "en": "Skill at operating Caldari battleships.",
+        "en": "Skill for the operation of Caldari battleships.",
         "ko": "칼다리 배틀쉽을 운용하기 위한 스킬입니다."
     },
     "87349": {
-        "en": "Skill at operating Amarr battleships.",
+        "en": "Skill for the operation of Amarr battleships.",
         "ko": "아마르 배틀쉽을 운용하기 위한 스킬입니다."
     },
     "87350": {
-        "en": "Skill at operating Gallente hauler ships.",
+        "en": "Skill for the operation of Gallente hauler ships.",
         "ko": "갈란테 운반선을 운용하기 위한 스킬입니다."
     },
     "87351": {
-        "en": "Skill at operating Minmatar hauler ships.",
+        "en": "Skill for the operation of Minmatar hauler ships.",
         "ko": "민마타 운반선 운용을 위한 스킬입니다."
     },
     "87352": {
-        "en": "Skill at operating Caldari hauler ships.",
+        "en": "Skill for the operation of Caldari hauler ships.",
         "ko": "칼다리 운반선을 운용하기 위한 스킬입니다."
     },
     "87353": {
-        "en": "Skill at operating Amarr hauler ships.",
+        "en": "Skill for the operation of Amarr hauler ships.",
         "ko": "아마르 운반선을 운용하기 위한 스킬입니다."
     },
     "87354": {
-        "en": "Skill at operating Gallente titans.",
+        "en": "Skill for the operation of Gallente titans.",
         "ko": "갈란테 타이탄 운용을 위한 스킬입니다."
     },
     "87355": {
-        "en": "Skill at operating Minmatar titans.",
+        "en": "Skill for the operation of Minmatar titans.",
         "ko": "민마타 타이탄을 운용하기 위한 스킬입니다."
     },
     "87356": {
-        "en": "Skill at operating Caldari titans.",
+        "en": "Skill for the operation of Caldari titans.",
         "ko": "칼다리 타이탄을 운용하기 위한 스킬입니다."
     },
     "87357": {
-        "en": "Skill at operating Amarr titans.",
+        "en": "Skill for the operation of Amarr titans.",
         "ko": "아마르 타이탄 운용을 위한 스킬입니다."
     },
     "87358": {
@@ -118784,11 +118784,11 @@
         "ko": "상당량의 전력이 충전된 비상용 배터리입니다."
     },
     "87847": {
-        "en": "Skill at operating Jovian hauler ships.",
+        "en": "Skill for the operation of Jovian hauler ships.",
         "ko": "조브 운반선을 운반하기 위한 스킬입니다."
     },
     "87848": {
-        "en": "Skill at operating jove battleships.",
+        "en": "Skill for the operation of jove battleships.",
         "ko": "조브 배틀쉽 운용을 위한 스킬입니다."
     },
     "87849": {
@@ -119072,7 +119072,7 @@
         "ko": "나노 어셈블러를 통해 대상 함선의 장갑을 수리합니다."
     },
     "87920": {
-        "en": "Skill at operating mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
+        "en": "Skill for the operation of mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
         "ko": "딥코어 채굴 레이저를 운용하기 위한 스킬입니다. 매 레벨마다 메르코시트 채굴 시 유독성 구름이 발생할 확률이 10% 감소합니다."
     },
     "87921": {
@@ -119560,7 +119560,7 @@
         "ko": "디스트로이어를 운용하기 위한 스킬입니다."
     },
     "88048": {
-        "en": "Skill at operating Battlecruisers. Can not be trained on Trial Accounts.",
+        "en": "Skill for the operation of Battlecruisers. Can not be trained on Trial Accounts.",
         "ko": "배틀크루저 운용을 위한 스킬입니다. 체험용 계정으로는 배울 수 없습니다."
     },
     "88049": {
@@ -124112,7 +124112,7 @@
         "ko": "기이한 형태의 카오스 로직 출입키입니다. 엔젤 군사시설의 오버시어가 소지하고 있었습니다. 사용 시 짧은 시간 동안 게이트가 개방되며 이후 암호키는 자동으로 폐기됩니다."
     },
     "89195": {
-        "en": "Skill at operating ORE Mining Barges.",
+        "en": "Skill for the operation of ORE Mining Barges.",
         "ko": "ORE 채광선 운용을 위한 스킬입니다."
     },
     "89196": {
@@ -125548,7 +125548,7 @@
         "ko": "개인용 무기와 장비입니다. 전투 및 개인 방어 용도로 모두 쓰입니다."
     },
     "89626": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 15% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 15% bonus to the strength of all Talisman implant secondary effects",
         "ko": "블러드 레이더 과학자들이 엘리트 장교를 위해 별도로 개발한 시각 필터입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 캐패시터 전송 시스템 스킬을 요구하는 모듈의 사이클 시간 1% 감소<br><br>세트 효과: 탈리스만 임플란트 보조 효과 15% 증가"
     },
     "89627": {
@@ -126048,15 +126048,15 @@
         "ko": "신분 확인에 사용되는 물품입니다."
     },
     "89775": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ko": "이 시각 필터는 엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 함선 시그니처 반경 1% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 15% 증가"
     },
     "89776": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 기억력 증진 임플란트입니다. <br><br>주 효과: 기억력+4<br><br>보조 효과: 함선 시그니처 반경 1.25% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 15% 증가"
     },
     "89777": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 서브프로세서입니다. <br><br>주 효과: 지능+4<br><br>보조 효과: 함선 시그니처 반경 1.75% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 15% 증가"
     },
     "89778": {
@@ -126064,11 +126064,11 @@
         "ko": "암흑가의 과학자들이 해적 장교 전용으로 개량한 서브프로세서입니다. 동일한 종류의 임플란트 세트와 함께 장착할 경우 장갑 내구도를 증가시키는 보너스가 부여됩니다. <br><br></b>주 효과:</b> 지능 +4 <br><br></b>보조 효과:</b> 장갑 내구도 4% 증가 <br><br></b>세트 효과:</b> 아뮬렛 임플란트 보조 효과 15% 증가"
     },
     "89779": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ko": "이 사회적응성 칩은 엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 카리스마+4<br><br>보조 효과: 함선 시그니처 반경 2% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 15% 증가"
     },
     "89780": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Willpower\r\n\r\nSecondary Effect: 1.50% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.50% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 신경 부스터입니다. <br><br>주 효과: 정신력+4<br><br>보조 효과: 함선 시그니처 반경 1.50% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 15% 증가"
     },
     "89781": {
@@ -126080,35 +126080,35 @@
         "ko": "츠나 퀘이세의 소유물입니다. 불법 소지 시 벌금과 함께 징역 1년 이하의 처벌을 받을 수 있습니다.<br><br>- CONCORD"
     },
     "89783": {
-        "en": "Skill at operating Amarr freighters.",
+        "en": "Skill for the operation of Amarr freighters.",
         "ko": "아마르 프레이터 운용을 위한 스킬입니다."
     },
     "89784": {
-        "en": "Skill at operating Amarr dreadnoughts.",
+        "en": "Skill for the operation of Amarr dreadnoughts.",
         "ko": "아마르 드레드노트 운용을 위한 스킬입니다."
     },
     "89785": {
-        "en": "Skill at operating Caldari freighters.",
+        "en": "Skill for the operation of Caldari freighters.",
         "ko": "칼다리 프레이터를 운용하기 위한 스킬입니다."
     },
     "89786": {
-        "en": "Skill at operating Gallente freighters.",
+        "en": "Skill for the operation of Gallente freighters.",
         "ko": "갈란테 프레이터를 운용하기 위한 스킬입니다."
     },
     "89787": {
-        "en": "Skill at operating Minmatar freighters.",
+        "en": "Skill for the operation of Minmatar freighters.",
         "ko": "민마타 프레이터를 운용하기 위한 스킬입니다."
     },
     "89788": {
-        "en": "Skill at operating Caldari dreadnoughts.",
+        "en": "Skill for the operation of Caldari dreadnoughts.",
         "ko": "칼다리 드레드노트를 운용하기 위한 스킬입니다."
     },
     "89789": {
-        "en": "Skill at operating Gallente dreadnoughts.",
+        "en": "Skill for the operation of Gallente dreadnoughts.",
         "ko": "갈란테 드레드노트를 운용하기 위한 스킬입니다."
     },
     "89790": {
-        "en": "Skill at operating Minmatar dreadnoughts.",
+        "en": "Skill for the operation of Minmatar dreadnoughts.",
         "ko": "민마타 드레드노트를 운용하기 위한 스킬입니다."
     },
     "89791": {
@@ -126892,23 +126892,23 @@
         "ko": "집적회로를 만드는 데 사용되는 반도체용 규소 웨이퍼입니다."
     },
     "89991": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ko": "이 시각 필터는 엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 함선 시그니처 반경 1% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 10% 증가"
     },
     "89992": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 기억력 증진 임플란트입니다. <br><br>주 효과: 기억력+3<br><br>보조 효과: 함선 시그니처 반경 1.25% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 10% 증가"
     },
     "89993": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +3 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +3 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 서브프로세서입니다. <br><br>주 효과: 지능+3<br><br>보조 효과: 함선 시그니처 반경 1.5% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 10% 증가"
     },
     "89994": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ko": "이 사회적응성 칩은 엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 카리스마+3<br><br>보조 효과: 함선 시그니처 반경 2% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 10% 증가"
     },
     "89995": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 신경 부스터입니다. <br><br>주 효과: 정신력 +3<br><br>보조 효과: 함선 시그니처 반경 1.75% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 10% 증가"
     },
     "89996": {
@@ -126916,7 +126916,7 @@
         "ko": "암흑가의 과학자들이 해적 장교 전용으로 개발한 서브프로세서입니다. 동일한 종류의 임플란트 세트와 함께 장착할 경우 장갑 내구도를 증가시키는 보너스가 부여됩니다. <br><br><b>주 효과:</b> 지능 +3 <br><br><b>보조 효과:</b> 장갑 내구도 4% 증가 <br><br><b>세트 효과:</b> 아뮬렛 임플란트 보조 효과 10% 증가"
     },
     "89997": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 10% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 10% bonus to the strength of all Talisman implant secondary effects",
         "ko": "블러드 레이더 과학자들이 엘리트 장교를 위해 별도로 개발한 시각 필터입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 캐패시터 전송 시스템 스킬을 요구하는 모듈의 사이클 시간 1% 감소<br><br>세트 효과: 탈리스만 임플란트 보조 효과 10% 증가"
     },
     "89998": {
@@ -127912,19 +127912,19 @@
         "ko": "서펜티스에 고용된 밀수업자들이 사용하는 게이트 출입키입니다. 밀수품을 숨기거나 외부인의 출입을 막고 싶을 때 사용합니다."
     },
     "90255": {
-        "en": "Skill at operating Amarr carriers.",
+        "en": "Skill for the operation of Amarr carriers.",
         "ko": "아마르 캐리어 운용을 위한 스킬입니다."
     },
     "90256": {
-        "en": "Skill at operating Caldari carriers.",
+        "en": "Skill for the operation of Caldari carriers.",
         "ko": "칼다리 캐리어를 운용하기 위한 스킬입니다."
     },
     "90257": {
-        "en": "Skill at operating Gallente carriers.",
+        "en": "Skill for the operation of Gallente carriers.",
         "ko": "갈란테 캐리어 운용을 위한 스킬입니다."
     },
     "90258": {
-        "en": "Skill at operating Minmatar carriers.",
+        "en": "Skill for the operation of Minmatar carriers.",
         "ko": "민마타 캐리어를 운용하기 위한 스킬입니다."
     },
     "90259": {
@@ -129268,7 +129268,7 @@
         "ko": "얼라이언스 토너먼트 동메달입니다. 참가자 중 그 어느 누구도 동메달을 우러러보거나 목표로 삼지 않고 최고가 아니면 의미가 없다 하지만 전체 중 3등 안에 들어야만 얻을 수 있는 징표입니다. 당사자의 아쉬움이 담긴 명예와 경의의 메달입니다."
     },
     "90668": {
-        "en": "Skill at operating Capital Industrial Ships.",
+        "en": "Skill for the operation of Capital Industrial Ships.",
         "ko": "캐피탈 인더스트리얼을 운용하기 위한 스킬입니다."
     },
     "90669": {
@@ -130056,23 +130056,23 @@
         "ko": "터렛의 사거리와 트래킹 속도가 증가합니다. <br><br>페널티: 동일한 속성의 모듈 여러 개를 장착할 경우 페널티가 부여됩니다."
     },
     "90871": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect: </b> 10% bonus to the strength of all Centurion implant secondary effects",
         "ko": "이 시각 필터는 모르두 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: ECM, 원격 센서 댐프너, 무기 디스럽터 및 타겟 페인터 최적사거리 1% 증가<br><br>세트 효과: 센츄리온 임플란트 보조 효과 10% 증가"
     },
     "90872": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 10% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 10% bonus to the strength of all Edge implant secondary effects",
         "ko": "이 시각 필터는 신디케이트 과학자들이 개량한 엘리트 장교 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 부스터 부작용 1% 감소<br><br>세트 효과: 엣지 임플란트 보조 효과 10% 증가"
     },
     "90873": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 10% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 10% bonus to the strength of all Harvest implant secondary effects",
         "ko": "이 시각 필터는 ORE 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 채굴 레이저 사거리 1% 증가<br><br>세트 효과: 하베스트 임플란트 보조 효과 10% 증가"
     },
     "90874": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 10% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nomad implant secondary effects",
         "ko": "이 시각 필터는 터커 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 함선 기동성 1% 증가<br><br>세트 효과: 노마드 임플란트 보조 효과 10% 증가"
     },
     "90875": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 10% bonus to the strength of all Virtue implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 10% bonus to the strength of all Virtue implant secondary effects",
         "ko": "이 시각 필터는 시스터 오브 이브 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 프로브 스캔 강도 1% 증가<br><br>세트 효과: 버츄 임플란트 보조 효과 10% 증가"
     },
     "90876": {
@@ -131608,7 +131608,7 @@
         "ko": "이들은 그 무엇보다 육체적인 능력을 높이 사는 자들입니다. 직접 마주하고 있으면 조금 겁이 납니다."
     },
     "91261": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ko": "이 시각 필터는 구리스타스 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 실드 회복률 1% 증가<br><br>세트 효과: 크리스탈 임플란트 보조 효과 15% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "91262": {
@@ -131632,7 +131632,7 @@
         "ko": "ECM 재밍 시스템 스킬입니다. 매 레벨마다 ECM과 ECM 버스트 시스템의 캐패시터 사용량 5% 감소 <br><br>참고: 캐피탈급 모듈에는 적용되지 않습니다."
     },
     "91267": {
-        "en": "Skill at operating industrial command ships.",
+        "en": "Skill for the operation of industrial command ships.",
         "ko": "인더스트리얼 커맨드쉽 운용을 위한 스킬입니다."
     },
     "91268": {
@@ -131888,7 +131888,7 @@
         "ko": "수명을 다한 기계 하드웨어로 재활용될 일만 남았습니다. 많은 정거장에서 고철을 재활용하여 강철 판을 만들어서 닳거나 손상된 정거장 외피를 교체합니다 매번 보수 할 때마다 사용할 수 있을 만큼 고철이 충분히 공급되는 것은 아니지만, 대부분의 정거장 관리자들은 비용을 들여 채굴 원정대를 보내기보다는 비용 효율성이 높은 재활용 금속을 사용하는 것을 선호합니다. <br><br>다른 아이템들보다 고철 정제 스킬로 더 많은 산출량을 얻는 것은 아닙니다."
     },
     "91331": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ko": "이 시각 필터는 구리스타스 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 실드 회복률 1% 증가<br><br>세트 효과: 크리스탈 임플란트 보조 효과 10% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "91332": {
@@ -131908,7 +131908,7 @@
         "ko": "구리스타스 과학자들이 엘리트 장교를 위해 별도로 개발한 신경 부스터입니다. <br><br>주 효과: 정신력 +3<br><br>보조 효과: 실드 회복률 3% 증가<br><br>세트 효과: 크리스탈 임플란트 보조 효과 10% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "91336": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Snake implant secondary effects",
         "ko": "이 시각 필터는 서펜티스 과학자들이 개량한 밀수업자 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 함선 최대 속도 0.5% 증가<br><br>세트 효과: 스네이크 임플란트 보조 효과 10% 증가"
     },
     "91337": {
@@ -131928,7 +131928,7 @@
         "ko": "서펜티스 과학자들이 밀수업자를 위해 별도로 개발한 신경 부스터입니다. <br><br>주 효과: 정신력 +3<br><br>보조 효과: 함선 최대 속도 0.75% 증가<br><br>세트 효과: 스네이크 임플란트 보조 효과 10% 증가"
     },
     "91341": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Snake implant secondary effects",
         "ko": "이 시각 필터는 서펜티스 과학자들이 개량한 밀수업자 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 함선 최대 속도 0.5% 증가<br><br>세트 효과: 스네이크 임플란트 보조 효과 15% 증가"
     },
     "91342": {
@@ -132304,7 +132304,7 @@
         "ko": "상급 선체 및 서브시스템 제조에 사용되는 테크 III 부품입니다."
     },
     "91436": {
-        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>",
+        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
         "ko": "매 토너먼트마다 승자에게 쥐어지는 얼라이언스 토너먼트 우승컵은 뉴에덴의 파일럿들이 가장 탐내는 상품일 것입니다.\r\n\r\n역사상 가장 가혹하면서도 흥분되는 이 토너먼트에서 벌어지는 치열한 경쟁에서 승리한 팀만이 이 우승컵을 쥘 수 있는 명예와 영광을 누릴 수 있습니다.\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> 107년 - 제1회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> 107년 - 제2회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> 108년 - 제3회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> 109년 - 제4회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> 110년 - 제5회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> 111년 - 제6회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> 111년 - 제7회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> 112년 - 제8회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> 113년 - 제9회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> 114년 - 제10회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> 115년 - 제11회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> 116년 - 제12회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> 117년 - 제13회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> 118년 - 제14회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> 119년 - 제15회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> 120년 - 제16회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> 123년 - 제17회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> 124년 - 제18회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> 125년 - 제19회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> 126년 - 제20회 얼라이언스 토너먼트 우승팀</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> 127년 - 제21회 얼라이언스 토너먼트 우승팀</div>"
     },
     "91437": {
@@ -133592,7 +133592,7 @@
         "ko": "상급 선체 및 서브시스템 제조에 사용되는 테크 III 부품입니다."
     },
     "91768": {
-        "en": "Skill at operating Amarr Strategic Cruisers.",
+        "en": "Skill for the operation of Amarr Strategic Cruisers.",
         "ko": "아마르 전략 크루저 운용을 위한 스킬입니다."
     },
     "91769": {
@@ -136724,35 +136724,35 @@
         "ko": "채굴 함선에 탑재된 채굴 탐사선을 업그레이드합니다. 소행성의 상세한 정보를 확인할 수 있으며 채굴 산출량을 최적화합니다.\r\n\r\n채굴 레이저 및 아이스 채굴기의 대량 채굴 확률과 추가 산출량이 증가합니다.\r\n채굴 레이저, 아이스 채굴기, 가스 하베스터의 손실 확률이 감소합니다.\r\n채굴 함선에 탑재된 채굴 탐사선이 스캔한 소행성에 남아 있는 광물의 양을 표시할 수 있습니다."
     },
     "92557": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's radar sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's radar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
         "ko": "이 시각 필터는 아마르 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 함선의 레이더 센서 강도 1% 증가<br><br>세트 효과: 상급 그레일 임플란트 보조 효과 15% 증가 하급 그레일 임플란트와 세트 효과가 중첩되지 않습니다."
     },
     "92558": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to ship's Ladar sensor strength\n\nSet Effect: 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's Ladar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
         "ko": "이 시각 필터는 민마타 과학자들이 개량한 엘리트 장교 전용 장비입니다.<br><br>주 효과: 지각력+4<br><br>보조 효과: 함선의 라이다 센서 강도 1% 증가<br><br>세트 효과: 상급 자칼 임플란트 보조 효과 15% 증가 하급 자칼 임플란트와 세트 효과가 중첩되지 않습니다."
     },
     "92559": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of radar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of radar sensor strength to piloted ship",
         "ko": "이 시각 필터는 아마르 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선의 레이더 센서 강도 +1"
     },
     "92560": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of ladar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of ladar sensor strength to piloted ship",
         "ko": "이 시각 필터는 민마타 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선의 라이다 센서 강도 +1"
     },
     "92561": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of magnetometric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of magnetometric sensor strength to piloted ship",
         "ko": "이 시각 필터는 갈란테 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선의 자기장 센서 강도 +1"
     },
     "92562": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of gravimetric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of gravimetric sensor strength to piloted ship",
         "ko": "이 시각 필터는 칼다리 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선의 중력장 센서 강도 +1"
     },
     "92563": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's magnetometric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's magnetometric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
         "ko": "이 시각 필터는 갈란테 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 함선의 자기장 센서 강도 1% 증가<br><br>세트 효과: 상급 스펄 임플란트 보조 효과 15% 증가 하급 스펄 임플란트와 세트 효과가 중첩되지 않습니다."
     },
     "92564": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's gravimetric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's gravimetric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
         "ko": "이 시각 필터는 칼다리 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 함선의 중력장 센서 강도 1% 증가<br><br>세트 효과: 상급 탈론 임플란트 보조 효과 15% 증가 하급 탈론 임플란트와 효과가 중첩되지 않습니다."
     },
     "92565": {
@@ -138496,15 +138496,15 @@
         "ko": "캡슐리어 훈련 프로그램의 과정에서 튜토리얼 에이전트에게 받은 전자 출입키입니다. 채광 사이트 훈련지 내부의 액셀레이션 게이트를 잠금 해제하는데 사용됩니다. 액셀레이션 게이트를 타고 들어가면 \"탐사 증명서\"가 들어있는 컨테이너를 발견할 수 있습니다. \"탐사 증명서\"는 캡슐리어가 특정 사이트를 발견했다는 증거물입니다. <br><br><b>채광</b> 사이트 내부의 액셀레이션 게이트에만 사용 가능한 출입키입니다."
     },
     "93035": {
-        "en": "Skill at operating Caldari Strategic Cruisers.",
+        "en": "Skill for the operation of Caldari Strategic Cruisers.",
         "ko": "칼다리 전략 크루저를 운용하기 위한 스킬입니다."
     },
     "93036": {
-        "en": "Skill at operating Gallente Strategic Cruisers.",
+        "en": "Skill for the operation of Gallente Strategic Cruisers.",
         "ko": "갈란테 전략 크루저를 운용하기 위한 스킬입니다."
     },
     "93037": {
-        "en": "Skill at operating Minmatar Strategic Cruisers.",
+        "en": "Skill for the operation of Minmatar Strategic Cruisers.",
         "ko": "민마타 전략 크루저를 운용하기 위한 스킬입니다."
     },
     "93038": {
@@ -141592,7 +141592,7 @@
         "ko": "더이상 작동하지 않는 구식 인터페이스로 포텍 코퍼레이션에 의해 회수되고 있습니다."
     },
     "93826": {
-        "en": "Skill at operating ORE hauler ships.",
+        "en": "Skill for the operation of ORE hauler ships.",
         "ko": "ORE 운반선을 운용하기 위한 스킬입니다."
     },
     "93827": {
@@ -147960,7 +147960,7 @@
         "ko": "벨드스파를 비롯한 광물들은 우주의 경제를 움직이는 주요 자원입니다. <P>소행성에서 광물을 얻기 위해서는 가까이 접근 후 채굴 레이저를 사용하여 광석을 채굴한 뒤 화물실에 저장하십시오.</P>"
     },
     "95483": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "ko": "\"메이즈\"라고 명명된 이 비밀스러운 군사시설은 구리스타스 소유의 기지입니다. 이곳을 패기롭게 침입한 사람들 중 대부분은 자신의 무용담에 대해 자랑할 수 없는 운명을 맞이하였고, 목숨을 부지한 이들은 구리스타스를 위해 강제노역을 하는 처지가 되었습니다.\r\n<br>\r\n확인된 적은 없지만, 페이탈이 이 시설 제일 안쪽에서 살고 있다는 루머가 떠돌고 있습니다.<br>\r\n\r\nDED 위협분석보고서: 치명적 위험 (10/10) "
     },
     "95484": {
@@ -149668,7 +149668,7 @@
         "ko": "이 데드스페이스 컴플렉스는 한때 거대 채굴사의 작업장이었으나 현재는 스트레인 로그 드론이 점령하여 폐허 깊은곳에 남아있는 광물들을 쉬지않고 채굴하고 있습니다.<P> DED 위협분석보고서: 경계 (3/10)</P>"
     },
     "95912": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "ko": "\"메이즈\"라고 명명된 이 비밀스러운 군사시설은 구리스타스 소유의 기지입니다. 이곳을 패기롭게 침입한 사람들 중 대부분은 자신의 무용담에 대해 자랑할 수 없는 운명을 맞이하였고, 목숨을 부지한 이들은 구리스타스를 위해 강제노역을 하는 처지가 되었습니다.\r\n<br>\r\n확인된 적은 없지만, 페이탈이 이 시설 제일 안쪽에서 살고 있다는 루머가 떠돌고 있습니다.<br>\r\n\r\nDED 위협분석보고서: 치명적 위험 (10/10) "
     },
     "95913": {
@@ -149944,7 +149944,7 @@
         "ko": "피스 형벌 시설은 왕년에 \"미치광이 디와크\"로 불리던 아마르 퇴역 함장 디와크 험프리에 의해 운영되고 있습니다. 그는 엄격한 훈련을 받은 전술가입니다. 아마르군에서의 장기 복무 이후, 그는 민간 영역에서 사업을 추진했습니다.<p> DED 위협분석보고서: 심각한 위험 (8/10)"
     },
     "95981": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "ko": "\"메이즈\"라고 명명된 이 비밀스러운 군사시설은 구리스타스 소유의 기지입니다. 이곳을 패기롭게 침입한 사람들 중 대부분은 자신의 무용담에 대해 자랑할 수 없는 운명을 맞이하였고, 목숨을 부지한 이들은 구리스타스를 위해 강제노역을 하는 처지가 되었습니다.\r\n<br>\r\n확인된 적은 없지만, 페이탈이 이 시설 제일 안쪽에서 살고 있다는 루머가 떠돌고 있습니다.<br>\r\n\r\nDED 위협분석보고서: 치명적 위험 (10/10) "
     },
     "95982": {
@@ -247668,7 +247668,7 @@
         "ko": "수감시설 폐쇄. 교도소를 재점령하면 블러드 레이더에게 수십 억 ISK의 손해를 입힙니다.<br><br>안전장치가 수감 시설의 모든 수감자를 처형한다 한들, 희귀 팩션 모듈 하나만 얻을 수 있다면 수천 아마르 이단자들의 목숨쯤이야 아무것도 아니지 않겠습니까?"
     },
     "125148": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "ko": "바스티온 제거됨. 모든 변환 연구 시설이 파괴되었습니다.<br>\r\n자유의지를 가진 인간과 트루 슬레이브 사이에 갇혀있던 영혼들이 해방되었습니다. 뒷맛이 쓴 승리로군요.<br>\r\n노략질을 시작하자."
     },
     "125149": {
@@ -247716,8 +247716,8 @@
         "ko": "빅보스가 격추되었습니다. 스네이크들은 저 커다란 함선 없이는 애를 좀 먹을 겁니다.<br><br>잔해에서 쓸 만한 것들을 찾아보는 것을 잊지 마세요. "
     },
     "125160": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
-        "ko": "아크듀크가 제거되었습니다. 약 18초 안에 네이션 보안키가 재생성되며, 기존의 네이션 신호는 정크 데이터로 보내집니다.<br><br>아크듀크의 잔해에 쓸만한 것이 있는지 찾아보십시오.\n"
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "ko": "아크듀크가 제거되었습니다. 약 18초 안에 네이션 보안키가 재생성되며, 기존의 네이션 신호는 정크 데이터로 보내집니다.<br><br>아크듀크의 잔해에 쓸만한 것이 있는지 찾아보십시오.\r\n"
     },
     "125161": {
         "en": "You have destroyed the Dark Blood Hunter. His wreck should prove quite profitable.<br><br>\r\n\r\n",
@@ -247748,7 +247748,7 @@
         "ko": "수감시설 폐쇄. 교도소를 재점령하면 블러드 레이더에게 수십 억 ISK의 손해를 입힙니다.<br><br>안전장치가 수감 시설의 모든 수감자를 처형한다 한들, 희귀 팩션 모듈 하나만 얻을 수 있다면 수천 아마르 이단자들의 목숨쯤이야 아무것도 아니지 않겠습니까?"
     },
     "125168": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "ko": "바스티온 제거됨. 모든 변환 연구 시설이 파괴되었습니다.<br>\r\n자유의지를 가진 인간과 트루 슬레이브 사이에 갇혀있던 영혼들이 해방되었습니다. 뒷맛이 쓴 승리로군요.<br>\r\n노략질을 시작하자."
     },
     "125169": {
@@ -247764,8 +247764,8 @@
         "ko": "구리스타스 지휘관이 제거되었습니다. 이 지역의 구리스타스는 새로운 우두머리를 뽑는 동안 지휘체계가 혼란스러울겁니다.<br><br>아무래도 구리스타스에서 장기집권하는 우두머리는 없는 모양입니다."
     },
     "125173": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
-        "ko": "아크듀크가 제거되었습니다. 약 18초 안에 네이션 보안키가 재생성되며, 기존의 네이션 신호는 정크 데이터로 보내집니다.<br><br>아크듀크의 잔해에 쓸만한 것이 있는지 찾아보십시오.\n"
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "ko": "아크듀크가 제거되었습니다. 약 18초 안에 네이션 보안키가 재생성되며, 기존의 네이션 신호는 정크 데이터로 보내집니다.<br><br>아크듀크의 잔해에 쓸만한 것이 있는지 찾아보십시오.\r\n"
     },
     "125174": {
         "en": "The next pocket is a busy place. I'm reading the engine wash signatures of Serpentis ships, but also private industrial and hauler firms. One trail has a 12 percent likelihood of belonging to a Federation Senator's luxury liner. <br><br>\r\nLuckily for the senator, we aren't the <a href=showinfo:2//1000107>Scope</a>.",
@@ -757968,7 +757968,7 @@
         "ko": "채굴 프리깃"
     },
     "283318": {
-        "en": "Skill at operating ORE Mining Frigates.",
+        "en": "Skill for the operation of ORE Mining Frigates.",
         "ko": "ORE 채굴 프리깃 운용을 위한 스킬입니다."
     },
     "283319": {
@@ -766260,7 +766260,7 @@
         "ko": "아마르 디스트로이어"
     },
     "286678": {
-        "en": "Skill at operating Amarr destroyers.",
+        "en": "Skill for the operation of Amarr destroyers.",
         "ko": "아마르 디스트로이어 운용을 위한 스킬입니다."
     },
     "286679": {
@@ -766268,7 +766268,7 @@
         "ko": "칼다리 디스트로이어"
     },
     "286680": {
-        "en": "Skill at operating Caldari destroyers.",
+        "en": "Skill for the operation of Caldari destroyers.",
         "ko": "칼다리 디스트로이어를 운용하기 위한 스킬입니다."
     },
     "286681": {
@@ -766276,7 +766276,7 @@
         "ko": "갈란테 디스트로이어"
     },
     "286682": {
-        "en": "Skill at operating Gallente destroyers.",
+        "en": "Skill for the operation of Gallente destroyers.",
         "ko": "갈란테 디스트로이어를 운용하기 위한 스킬입니다."
     },
     "286683": {
@@ -766284,7 +766284,7 @@
         "ko": "민마타 디스트로이어"
     },
     "286684": {
-        "en": "Skill at operating Minmatar destroyers.",
+        "en": "Skill for the operation of Minmatar destroyers.",
         "ko": "민마타 디스트로이어를 운용하기 위한 스킬입니다."
     },
     "286685": {
@@ -766292,7 +766292,7 @@
         "ko": "아마르 배틀크루저"
     },
     "286686": {
-        "en": "Skill at operating Amarr battlecruisers.",
+        "en": "Skill for the operation of Amarr battlecruisers.",
         "ko": "아마르 배틀크루저 운용을 위한 스킬입니다."
     },
     "286687": {
@@ -766300,7 +766300,7 @@
         "ko": "칼다리 배틀크루저"
     },
     "286688": {
-        "en": "Skill at operating Caldari battlecruisers.",
+        "en": "Skill for the operation of Caldari battlecruisers.",
         "ko": "칼다리 배틀크루저를 운용하기 위한 스킬입니다."
     },
     "286689": {
@@ -766308,7 +766308,7 @@
         "ko": "갈란테 배틀크루저"
     },
     "286690": {
-        "en": "Skill at operating Gallente battlecruisers.",
+        "en": "Skill for the operation of Gallente battlecruisers.",
         "ko": "갈란테 배틀크루저를 운용하기 위한 스킬입니다."
     },
     "286691": {
@@ -766316,7 +766316,7 @@
         "ko": "민마타 배틀크루저"
     },
     "286692": {
-        "en": "Skill at operating Minmatar battlecruisers.",
+        "en": "Skill for the operation of Minmatar battlecruisers.",
         "ko": "민마타 배틀크루저를 운용하기 위한 스킬입니다."
     },
     "286693": {
@@ -776604,7 +776604,7 @@
         "ko": "상급 어센던시 알파"
     },
     "292377": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 15% bonus to the strength of all Ascendancy implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 15% bonus to the strength of all Ascendancy implant secondary effects",
         "ko": "이 시각 필터는 시스터 오브 이브 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 함선 워프 속도 1% 증가<br><br>세트 효과: 어센던시 임플란트 보조 효과 15% 증가"
     },
     "292381": {
@@ -777312,7 +777312,7 @@
         "ko": "중급 어센던시 알파"
     },
     "292631": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 10% bonus to the strength of all Ascendancy implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 10% bonus to the strength of all Ascendancy implant secondary effects",
         "ko": "이 시각 필터는 시스터 오브 이브 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 함선 워프 속도 1% 증가<br><br>세트 효과: 어센던시 임플란트 보조 효과 10% 증가"
     },
     "292632": {
@@ -785292,7 +785292,7 @@
         "ko": "하급 센츄리온 알파"
     },
     "295556": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 2.5% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Centurion implant secondary effects",
         "ko": "이 시각 필터는 모르두 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: ECM, 원격 센서 댐프너, 무기 디스럽터 및 타겟 페인터 최적사거리 1% 증가<br><br>세트 효과: 센츄리온 임플란트 보조 효과 2.5% 증가"
     },
     "295557": {
@@ -785340,7 +785340,7 @@
         "ko": "하급 크리스탈 알파"
     },
     "295568": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ko": "이 시각 필터는 구리스타스 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 실드 회복률 1% 증가<br><br>세트 효과: 크리스탈 임플란트 보조 효과 2.5% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "295569": {
@@ -785388,7 +785388,7 @@
         "ko": "하급 엣지 알파"
     },
     "295580": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 2.5% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Edge implant secondary effects",
         "ko": "이 시각 필터는 신디케이트 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 부스터 부작용 1% 감소<br><br>세트 효과: 엣지 임플란트 보조 효과 2.5% 증가"
     },
     "295581": {
@@ -785436,7 +785436,7 @@
         "ko": "하급 헤일로 알파"
     },
     "295592": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ko": "이 시각 필터는 엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선 시그니처 반경 1% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 2.5% 증가"
     },
     "295593": {
@@ -785444,7 +785444,7 @@
         "ko": "하급 헤일로 베타"
     },
     "295594": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 기억력 증진 임플란트입니다. <br><br>주 효과: 기억력+2<br><br>보조 효과: 함선 시그니처 반경 1.25% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 2.5% 증가"
     },
     "295595": {
@@ -785452,7 +785452,7 @@
         "ko": "하급 헤일로 델타"
     },
     "295596": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 서브프로세서입니다. <br><br>주 효과: 지능+2<br><br>보조 효과: 함선 시그니처 반경 1.5% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 2.5% 증가"
     },
     "295597": {
@@ -785460,7 +785460,7 @@
         "ko": "하급 헤일로 엡실론"
     },
     "295598": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ko": "이 사회적응성 칩은 엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 카리스마+2<br><br>보조 효과: 함선 시그니처 반경 2% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 2.5% 증가"
     },
     "295599": {
@@ -785468,7 +785468,7 @@
         "ko": "하급 헤일로 감마"
     },
     "295600": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 엘리트 장교를 위해 별도로 개발한 신경 부스터입니다. <br><br>주 효과: 정신력 +2<br><br>보조 효과: 함선 시그니처 반경 1.75% 감소<br><br>세트 효과: 헤일로 임플란트 보조 효과 2.5% 증가"
     },
     "295601": {
@@ -785484,7 +785484,7 @@
         "ko": "하급 하베스트 알파"
     },
     "295604": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 2.5% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Harvest implant secondary effects",
         "ko": "이 시각 필터는 ORE 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 채굴 레이저 사거리 1% 증가<br><br>세트 효과: 하베스트 임플란트 보조 효과 2.5% 증가"
     },
     "295605": {
@@ -785532,7 +785532,7 @@
         "ko": "하급 노마드 알파"
     },
     "295616": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nomad implant secondary effects",
         "ko": "이 시각 필터는 터커 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선 기동성 1% 증가<br><br>세트 효과: 노마드 임플란트 보조 효과 2.5% 증가"
     },
     "295617": {
@@ -785628,7 +785628,7 @@
         "ko": "하급 스네이크 알파"
     },
     "295640": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 5% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 5% bonus to the strength of all Snake implant secondary effects",
         "ko": "이 시각 필터는 서펜티스 과학자들이 개량한 밀수업자 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 함선 최대 속도 0.5% 증가<br><br>세트 효과: 스네이크 임플란트 보조 효과 5% 증가"
     },
     "295641": {
@@ -785676,7 +785676,7 @@
         "ko": "하급 탈리스만 알파"
     },
     "295652": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 2.5% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Talisman implant secondary effects",
         "ko": "블러드 레이더 과학자들이 엘리트 장교를 위해 별도로 개발한 시각 필터입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 캐패시터 전송 시스템 스킬을 요구하는 모듈의 사이클 시간 1% 감소<br><br>세트 효과: 탈리스만 임플란트 보조 효과 2.5% 증가"
     },
     "295653": {
@@ -785724,7 +785724,7 @@
         "ko": "하급 버츄 알파"
     },
     "295664": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 2.5% bonus to the strength of all Virtue implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Virtue implant secondary effects",
         "ko": "이 시각 필터는 시스터 오브 이브 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 프로브 스캔 강도 1% 증가<br><br>세트 효과: 버츄 임플란트 보조 효과 2.5% 증가"
     },
     "295665": {
@@ -790156,7 +790156,7 @@
         "ko": "ORE 프레이터"
     },
     "297304": {
-        "en": "Skill at operating ORE freighters.",
+        "en": "Skill for the operation of ORE freighters.",
         "ko": "ORE 프레이터 운용을 위한 스킬입니다."
     },
     "297305": {
@@ -792092,7 +792092,7 @@
         "ko": "아마르 전술 디스트로이어"
     },
     "297975": {
-        "en": "Skill at operating Amarr Tactical Destroyers.",
+        "en": "Skill for the operation of Amarr Tactical Destroyers.",
         "ko": "아마르 전술 디스트로이어 운용을 위한 스킬입니다."
     },
     "297977": {
@@ -797120,7 +797120,7 @@
         "ko": "민마타 전술 디스트로이어"
     },
     "299898": {
-        "en": "Skill at operating Minmatar Tactical Destroyers.",
+        "en": "Skill for the operation of Minmatar Tactical Destroyers.",
         "ko": "민마타 전술 디스트로이어를 운용하기 위한 스킬입니다."
     },
     "299899": {
@@ -815460,7 +815460,7 @@
         "ko": "칼다리 전술 디스트로이어"
     },
     "308775": {
-        "en": "Skill at operating Caldari Tactical Destroyers.",
+        "en": "Skill for the operation of Caldari Tactical Destroyers.",
         "ko": "칼다리 전술 디스트로이어를 운용하기 위한 스킬입니다."
     },
     "308776": {
@@ -815700,7 +815700,7 @@
         "ko": "갈란테 전술 디스트로이어"
     },
     "308864": {
-        "en": "Skill at operating Gallente Tactical Destroyers.",
+        "en": "Skill for the operation of Gallente Tactical Destroyers.",
         "ko": "갈란테 전술 디스트로이어를 운용하기 위한 스킬입니다."
     },
     "308865": {
@@ -876096,7 +876096,7 @@
         "ko": "아마르 포스 악실리아"
     },
     "514115": {
-        "en": "Skill at operating Amarr force auxiliaries.",
+        "en": "Skill for the operation of Amarr force auxiliaries.",
         "ko": "아마르 포스 악실리아 함선 운용을 위한 스킬입니다."
     },
     "514116": {
@@ -876104,7 +876104,7 @@
         "ko": "칼다리 포스 악실리아"
     },
     "514117": {
-        "en": "Skill at operating Caldari force auxiliaries.",
+        "en": "Skill for the operation of Caldari force auxiliaries.",
         "ko": "칼다리 포스 악실리아 운용을 위한 스킬입니다."
     },
     "514118": {
@@ -876112,7 +876112,7 @@
         "ko": "갈란테 포스 악실리아"
     },
     "514119": {
-        "en": "Skill at operating Gallente force auxiliaries.",
+        "en": "Skill for the operation of Gallente force auxiliaries.",
         "ko": "갈란테 포스 악실리아를 운용하기 위한 스킬입니다."
     },
     "514120": {
@@ -876120,7 +876120,7 @@
         "ko": "민마타 포스 악실리아"
     },
     "514121": {
-        "en": "Skill at operating Minmatar force auxiliaries.",
+        "en": "Skill for the operation of Minmatar force auxiliaries.",
         "ko": "민마타 포스 악실리아를 운용하기 위한 스킬입니다."
     },
     "514126": {
@@ -887776,7 +887776,7 @@
         "ko": "하급 아스클레피안 알파"
     },
     "517547": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ko": "이 시각 필터는 서펜티스 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 장갑수리 효율 1% 증가<br><br>세트 효과: 아스클레피안 임플란트 보조 효과 2.5% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "517548": {
@@ -888044,7 +888044,7 @@
         "ko": "중급 아스클레피안 알파"
     },
     "517614": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ko": "이 시각 필터는 서펜티스 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 장갑수리 효율 1% 증가<br><br>세트 효과: 아스클레피안 임플란트 보조 효과 10% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "517615": {
@@ -888092,7 +888092,7 @@
         "ko": "상급 아스클레피안 알파"
     },
     "517626": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ko": "이 시각 필터는 서펜티스 과학자들이 개량한 엘리트 장교 전용 장비입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 장갑수리 효율 1% 증가<br><br>세트 효과: 아스클레피안 임플란트 보조 효과 15% 증가<br><br>참고: 캐피탈급 모듈에는 효과가 적용되지 않습니다."
     },
     "517627": {
@@ -930172,7 +930172,7 @@
         "ko": "프리커서 프리깃"
     },
     "535262": {
-        "en": "Skill at operating Precursor Frigates.",
+        "en": "Skill for the operation of Precursor Frigates.",
         "ko": "프리커서 프리깃 운용을 위한 스킬입니다."
     },
     "535263": {
@@ -930180,7 +930180,7 @@
         "ko": "프리커서 크루저"
     },
     "535264": {
-        "en": "Skill at operating Precursor Cruisers.",
+        "en": "Skill for the operation of Precursor Cruisers.",
         "ko": "프리커서 크루저 운용을 위한 스킬입니다."
     },
     "535265": {
@@ -930188,7 +930188,7 @@
         "ko": "프리커서 배틀쉽"
     },
     "535266": {
-        "en": "Skill at operating Precursor Battleships.",
+        "en": "Skill for the operation of Precursor Battleships.",
         "ko": "프리커서 배틀쉽 운용을 위한 스킬입니다."
     },
     "535267": {
@@ -949396,11 +949396,11 @@
         "ko": "만료된 임페투스 포텐시-50 글래모렉스 부스터"
     },
     "543408": {
-        "en": "Skill at operating Precursor Destroyers",
+        "en": "Skill for the operation of Precursor Destroyers",
         "ko": "프리커서 디스트로이어 운용을 위한 스킬입니다."
     },
     "543409": {
-        "en": "Skill at operating Precursor Battlecruisers.",
+        "en": "Skill for the operation of Precursor Battlecruisers.",
         "ko": "프리커서 배틀크루저 운용을 위한 스킬입니다."
     },
     "543410": {
@@ -964848,7 +964848,7 @@
         "ko": "중급 미메시스 오메가"
     },
     "551815": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "ko": "이 시각 필터는 CONCORD 무기 기술자들이 일반 캡슐리어 임플란트 설계를 개선해 DED 인벤토리에 등재한 제품입니다. 역설계된 트리글라비안 무기의 화력 강화 메커니즘을 모방하였으며, 강력한 만큼 최대 출력치까지 도달하는 데 긴 충전 시간이 필요합니다.<br><br>캡슐리어 사이에 떠도는 풍문에 따르면, 깨어있는 자들의 사회 내 소위 \"제한적 인공 지능(RAI)\" 분야의 특수 전문가 집단이 임플란트 개발에 개입했다고 합니다. 이 임플란트가 RAI 기술에 근거하고 있다는 가능성이 대두되자 임플란트에 든 \"미메시스\"의 정체에 대한 의문이 제기되고 있습니다.<br><br>주 효과: 지각력 2 증가<br><br>보조 효과: 엔트로픽 분열기 최대 피해량 1% 증가<br><br>패널티: 엔트로픽 분열기 사이클당 데미지 증가량 0.33% 감소<br><br>세트 효과: 미메시스 임플란트 보조 효과 20% 증가"
     },
     "551816": {
@@ -965332,7 +965332,7 @@
         "ko": "공유"
     },
     "552091": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1.25% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1.25% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "ko": "이 시각 필터는 CONCORD 무기 기술자들이 일반 캡슐리어 임플란트 설계를 개선해 DED 인벤토리에 등재한 제품입니다. 역설계된 트리글라비안 무기의 화력 강화 메커니즘을 모방하였으며, 강력한 만큼 최대 출력치까지 도달하는 데 긴 충전 시간이 필요합니다.<br><br>캡슐리어 사이에 떠도는 풍문에 따르면, 깨어있는 자들의 사회 내 소위 \"제한적 인공 지능(RAI)\" 분야의 특수 전문가 집단이 임플란트 개발에 개입했다고 합니다. 이 임플란트가 RAI 기술에 근거하고 있다는 가능성이 대두되자 임플란트에 든 \"미메시스\"의 정체에 대한 의문이 제기되고 있습니다.<br><br>주 효과: 지각력 3 증가<br><br>보조 효과: 엔트로픽 분열기 최대 피해량 1.25% 증가<br><br>패널티: 엔트로픽 분열기 사이클당 데미지 증가량 0.33% 감소<br><br>세트 효과: 미메시스 임플란트 보조 효과 20% 증가"
     },
     "552092": {
@@ -966200,7 +966200,7 @@
         "ko": "상급 미메시스 알파"
     },
     "552377": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1.5% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "ko": "이 시각 필터는 CONCORD 무기 기술자들이 일반 캡슐리어 임플란트 설계를 개선해 DED 인벤토리에 등재한 제품입니다. 역설계된 트리글라비안 무기의 화력 강화 메커니즘을 모방하였으며, 강력한 만큼 최대 출력치까지 도달하는 데 긴 충전 시간이 필요합니다.<br><br>캡슐리어 사이에 떠도는 풍문에 따르면, 깨어있는 자들의 사회 내 소위 \"제한적 인공 지능(RAI)\" 분야의 특수 전문가 집단이 임플란트 개발에 개입했다고 합니다. 이 임플란트가 RAI 기술에 근거하고 있다는 가능성이 대두되자 임플란트에 든 \"미메시스\"의 정체에 대한 의문이 제기되고 있습니다.<br><br>주 효과: 지각력 4 증가<br><br>보조 효과: 엔트로픽 분열기 최대 피해량 1.5% 증가<br><br>패널티: 엔트로픽 분열기 사이클당 데미지 증가량 0.33% 감소<br><br>세트 효과: 미메시스 임플란트 보조 효과 20% 증가"
     },
     "552378": {
@@ -966528,7 +966528,7 @@
         "ko": "캐피탈 프리커서 무기를 운용하기 위한 스킬입니다. 매 레벨마다 캐피탈 프리커서 무기 피해량 5% 증가"
     },
     "552502": {
-        "en": "Skill at operating precursor dreadnoughts.",
+        "en": "Skill for the operation of precursor dreadnoughts.",
         "ko": "프리커서 드레드노트 운용을 위한 스킬입니다."
     },
     "552509": {
@@ -974128,7 +974128,7 @@
         "ko": "중급 니르바나 알파"
     },
     "555287": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 10% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nirvana implant secondary effects",
         "ko": "산샤 네이션에 의해 개발된 시각 필터로 산샤 소속 파일럿들이 주로 사용합니다. 다른 임플란트 세트와 함께 장착할 경우 실드 내구도를 증가시키는 보너스가 부여됩니다. <br><br><b>주 효과:</b>지각력 +3 <br><br><b>보조 효과:</b> 실드 내구도 1% 증가 <br><br><b>세트 효과:</b> 니르바나 임플란트 보조 효과 10% 증가"
     },
     "555288": {
@@ -974200,7 +974200,7 @@
         "ko": "상급 니르바나 알파"
     },
     "555305": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 15% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 15% bonus to the strength of all Nirvana implant secondary effects",
         "ko": "산샤 네이션에 의해 개발된 시각 필터로 산샤 소속 파일럿들이 주로 사용합니다. 다른 임플란트 세트와 함께 장착할 경우 실드 내구도를 증가시키는 보너스가 부여됩니다. <br><br><b>주 효과:</b>지각력 +4 <br><br><b>보조 효과:</b> 실드 내구도 1% 증가 <br><br><b>세트 효과:</b> 니르바나 임플란트 보조 효과 15% 증가"
     },
     "555306": {
@@ -974692,7 +974692,7 @@
         "ko": "하급 니르바나 알파"
     },
     "556160": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
         "ko": "산샤 네이션의 기술로 개발된 것으로 추정되는 시각 필터입니다. 산샤 네이션의 엘리트 파일럿들 그리고 산샤와 친밀한 팩션들이 주로 사용합니다. 다른 임플란트 세트와 함께 장착할 경우 실드 내구도 증가 보너스가 부여됩니다.<br><br>주 효과: 지각력 +2<br><br>보조 효과: 실드 내구도 1% 증가<br><br>세트 효과: 니르바나 임플란트 보조 효과 2.5% 증가"
     },
     "556161": {
@@ -974700,7 +974700,7 @@
         "ko": "하급 니르바나 알파"
     },
     "556162": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
         "ko": "산샤 네이션의 기술로 개발된 것으로 추정되는 시각 필터입니다. 산샤 네이션의 엘리트 파일럿들 그리고 산샤와 친밀한 팩션들이 주로 사용합니다. 다른 임플란트 세트와 함께 장착할 경우 실드 내구도 증가 보너스가 부여됩니다.<br><br>주 효과: 지각력 +2<br><br>보조 효과: 실드 내구도 1% 증가<br><br>세트 효과: 니르바나 임플란트 보조 효과 2.5% 증가"
     },
     "556163": {
@@ -975756,7 +975756,7 @@
         "ko": "상급 세이비어 알파"
     },
     "559003": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 15% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 15% bonus to the strength of all Savior implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 시각 필터입니다.\r\n\r\n주 효과: 지각력 4 증가\r\n\r\n보조 효과: 서브캐피탈급 원격 장갑 수리장치 및 원격 실드 부스터 사이클 시간 및 캐패시터 사용량 1% 감소\r\n\r\n세트 효과: 세이비어 임플란트 보조 효과 15% 증가"
     },
     "559010": {
@@ -975816,7 +975816,7 @@
         "ko": "중급 세이비어 알파"
     },
     "559024": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 10% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 10% bonus to the strength of all Savior implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 시각 필터입니다.\r\n\r\n주 효과: 지각력 3 증가\r\n\r\n보조 효과: 서브캐피탈급 원격 장갑 수리장치 및 원격 실드 부스터 사이클 시간 및 캐패시터 사용량 1% 감소\r\n\r\n세트 효과: 세이비어 임플란트 보조 효과 10% 증가"
     },
     "559025": {
@@ -975864,7 +975864,7 @@
         "ko": "하급 세이비어 알파"
     },
     "559036": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 2.5% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Savior implant secondary effects",
         "ko": "엔젤 카르텔 과학자들이 개량한 엘리트 장교 전용 시각 필터입니다.\r\n\r\n주 효과: 지각력 2 증가\r\n\r\n보조 효과: 서브캐피탈급 원격 장갑 수리장치 및 원격 실드 부스터 사이클 시간 및 캐패시터 사용량 1% 감소\r\n\r\n세트 효과: 세이비어 임플란트 보조 효과 2.5% 증가"
     },
     "559037": {
@@ -981556,7 +981556,7 @@
         "ko": "상급 히드라 알파"
     },
     "562530": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "ko": "구리스타스 과학자들이 엘리트 장교를 위해 별도로 개발한 시각 필터입니다. <br><br>주 효과: 지각력+4<br><br>보조 효과: 드론 트래킹 속도, 드론 최적사거리, 드론 유효사거리, 미사일 비행시간, 미사일 폭발 속도 1% 증가<br><br>세트 효과: 히드라 임플란트 보조 효과 15% 증가<br><br>참고: 파이터에는 효과가 적용되지 않습니다."
     },
     "562531": {
@@ -981624,7 +981624,7 @@
         "ko": "중급 히드라 알파"
     },
     "562547": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "ko": "구리스타스 과학자들이 엘리트 장교를 위해 별도로 개발한 시각 필터입니다. <br><br>주 효과: 지각력+3<br><br>보조 효과: 드론 트래킹 속도, 드론 최적사거리, 드론 유효사거리, 미사일 비행시간, 미사일 폭발 속도 1% 증가<br><br>세트 효과: 히드라 임플란트 보조 효과 10% 증가<br><br>참고: 파이터에는 효과가 적용되지 않습니다."
     },
     "562548": {
@@ -981672,7 +981672,7 @@
         "ko": "하급 히드라 알파"
     },
     "562559": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "ko": "구리스타스 과학자들이 엘리트 장교를 위해 별도로 개발한 시각 필터입니다. <br><br>주 효과: 지각력+2<br><br>보조 효과: 드론 트래킹 속도, 드론 최적사거리, 드론 유효사거리, 미사일 비행시간, 미사일 폭발 속도 1% 증가<br><br>세트 효과: 히드라 임플란트 보조 효과 2.5% 증가<br><br>참고: 파이터에는 효과가 적용되지 않습니다."
     },
     "562560": {
@@ -1009392,7 +1009392,7 @@
         "ko": "하급 랩쳐 알파"
     },
     "573194": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 2.5% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Rapture implant secondary effects",
         "ko": "산샤 네이션 기술로 개발된 시각 필터입니다. 산샤 네이션 소속의 정예 파일럿을 비롯한 동맹 팩션에서 주로 사용됩니다. 다른 임플란트 세트와 함께 장착할 경우 캐패시터 충전 속도가 개선됩니다.<br><br>주 효과: 지각력 +2<br><br>보조 효과: 캐패시터 충전 속도 1% 감소<br><br>세트 효과: 랩쳐 임플란트 보조 효과 2.5% 증가"
     },
     "573195": {
@@ -1009448,7 +1009448,7 @@
         "ko": "중급 랩쳐 알파"
     },
     "573208": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 10% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 10% bonus to the strength of all Rapture implant secondary effects",
         "ko": "산샤 네이션 기술로 개발된 시각 필터입니다. 산샤 네이션 소속의 정예 파일럿을 비롯한 동맹 팩션에서 주로 사용됩니다. 다른 임플란트 세트와 함께 장착할 경우 캐패시터 충전 속도가 개선됩니다.<br><br>주 효과: 지각력 +3<br><br>보조 효과: 캐패시터 충전 속도 1% 감소<br><br>세트 효과: 랩쳐 임플란트 보조 효과 10% 증가"
     },
     "573209": {
@@ -1009496,7 +1009496,7 @@
         "ko": "상급 랩쳐 알파"
     },
     "573220": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 15% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 15% bonus to the strength of all Rapture implant secondary effects",
         "ko": "산샤 네이션 기술로 개발된 시각 필터입니다. 산샤 네이션 소속의 정예 파일럿을 비롯한 동맹 팩션에서 주로 사용됩니다. 다른 임플란트 세트와 함께 장착할 경우 캐패시터 충전 속도가 개선됩니다.<br><br>주 효과: 지각력 +4<br><br>보조 효과: 캐패시터 충전 속도 1% 감소<br><br>세트 효과: 랩쳐 임플란트 보조 효과 15% 증가"
     },
     "573221": {
@@ -1108596,7 +1108596,7 @@
         "ko": "랜서 드레드노트"
     },
     "662253": {
-        "en": "Skill at operating Lancer Dreadnoughts.",
+        "en": "Skill for the operation of Lancer Dreadnoughts.",
         "ko": "랜서 드레드노트를 운용하기 위한 스킬입니다."
     },
     "662254": {
@@ -1126320,7 +1126320,7 @@
         "ko": "업웰 운반선"
     },
     "709034": {
-        "en": "Skill at operating Upwell Consortium haulers.",
+        "en": "Skill for the operation of Upwell Consortium haulers.",
         "ko": "업웰 컨소시엄 운반선 운용을 위한 스킬입니다."
     },
     "709039": {
@@ -1126472,7 +1126472,7 @@
         "ko": "업웰 프레이터"
     },
     "709102": {
-        "en": "Skill at operating Upwell freighters.",
+        "en": "Skill for the operation of Upwell freighters.",
         "ko": "업웰 컨소시엄 프레이터 운용을 위한 스킬입니다."
     },
     "709105": {
@@ -1170020,7 +1170020,7 @@
         "ko": "하급 웨지 알파"
     },
     "1011441": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "ko": "업웰 컨소시엄이 개량한 엘리트 보안 전문가 전용 시각 필터입니다.\r\n\r\n주 효과: 지각력 2 증가\r\n\r\n보조 효과: 데이터 및 유물 분석기의 바이러스 결합도 1 증가"
     },
     "1011442": {
@@ -1170068,7 +1170068,7 @@
         "ko": "중급 웨지 알파"
     },
     "1011453": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "ko": "업웰 컨소시엄이 개량한 엘리트 보안 전문가 전용 시각 필터입니다.\r\n\r\n주 효과: 지각력 3 증가\r\n\r\n보조 효과: 데이터 및 유물 분석기의 바이러스 결합도 2 증가"
     },
     "1011454": {
@@ -1180320,7 +1180320,7 @@
         "ko": "채굴 디스트로이어"
     },
     "1016659": {
-        "en": "Skill at operating ORE Mining Destroyers",
+        "en": "Skill for the operation of ORE Mining Destroyers",
         "ko": "ORE 채굴 디스트로이어 운용을 위한 스킬입니다."
     },
     "1016660": {
@@ -1181588,7 +1181588,7 @@
         "ko": "탐사 커맨드쉽"
     },
     "1017837": {
-        "en": "Skill at operating expedition command ships.",
+        "en": "Skill for the operation of expedition command ships.",
         "ko": "탐사 커맨드쉽 운용을 위한 스킬입니다."
     },
     "1017838": {
@@ -1221636,7 +1221636,7 @@
         "ko": "커맨드 캐리어"
     },
     "1043213": {
-        "en": "Skill at operating Command Carriers.",
+        "en": "Skill for the operation of Command Carriers.",
         "ko": "커맨드 캐리어 함선 운용을 위한 스킬입니다."
     },
     "1043214": {
@@ -1244804,7 +1244804,7 @@
         "ko": "함선에 가장 큰 피해를 입힌 캡슐리어 또는 해당 캡슐리어가 소속된 코퍼레이션, 얼라이언스, 팩션을 표시합니다."
     },
     "1058621": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ko": "정복전 샐비저"
     },
     "1058622": {
@@ -1244812,19 +1244812,19 @@
         "ko": "함선 잔해를 조사하기 위해 사용되는 샐비징 특화 스캐너입니다."
     },
     "1058623": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ko": "정복전 샐비저"
     },
     "1058624": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ko": "정복전 샐비저"
     },
     "1058625": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ko": "정복전 샐비저"
     },
     "1058626": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ko": "정복전 샐비저"
     },
     "1058627": {
@@ -1246710,5 +1246710,33 @@
     "1063128": {
         "en": "Imperial Navy Stasis Webifier Blueprint",
         "ko": "제국 해군 스테이시스 웹 생성기 블루프린트"
+    },
+    "1063517": {
+        "en": "22nd Alliance Tournament: Deteriorated",
+        "ko": ""
+    },
+    "1063518": {
+        "en": "<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
+        "ko": ""
+    },
+    "1065084": {
+        "en": "Military Campaigns - Update!",
+        "ko": "군사 작전 - 업데이트! "
+    },
+    "1065085": {
+        "en": "Four objectives available. Gather and spend tokens on rare apparel, boosters, new modules & SKINs.",
+        "ko": "네 가지 목표를 수행할 수 있습니다. 토큰을 모아 희귀 의상, 부스터, 신규 모듈, 신규 SKIN 을 차지하세요. "
+    },
+    "1065086": {
+        "en": "Complete achievements for up to 1.2M SP, Penumbral Shadows SKINs, and titles.",
+        "ko": "업적을 달성하고 최대 120 만 스킬 포인트, 월식의 그림자 SKIN, 칭호 등을 획득하세요. "
+    },
+    "1065097": {
+        "en": "Run special SARO Black Sites for extra campaign drops. Find them with the map's Activity filter.",
+        "ko": "특수 SARO 블랙 사이트에서 추가 작전 계획 아이템을 획득하세요. 지도의 활동 필터를 활용해 찾을 수 있습니다."
+    },
+    "1065098": {
+        "en": "Now more sites, each dropping more items, and you earn more. Open Theaters of War to join the race!",
+        "ko": "더 많은 사이트, 더 많은 드롭 아이템으로 더 많은 수익을 올리세요. 전쟁 영역 창을 열고 경쟁에 참여하세요! "
     }
 }

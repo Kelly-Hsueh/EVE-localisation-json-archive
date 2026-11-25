@@ -116776,83 +116776,83 @@
         "ja": "宇宙船の基本操作スキル。スキルレベル上昇ごとに全ての船の機動性が2%上昇。"
     },
     "87338": {
-        "en": "Skill at operating Gallente frigates.",
+        "en": "Skill for the operation of Gallente frigates.",
         "ja": "ガレンテフリゲートを操作するためのスキル。"
     },
     "87339": {
-        "en": "Skill at operating Minmatar frigates.",
+        "en": "Skill for the operation of Minmatar frigates.",
         "ja": "ミンマターフリゲートを操作するためのスキル。"
     },
     "87340": {
-        "en": "Skill at operating Caldari frigates.",
+        "en": "Skill for the operation of Caldari frigates.",
         "ja": "カルダリフリゲートを操作するためのスキル。"
     },
     "87341": {
-        "en": "Skill at operating Amarr frigates.",
+        "en": "Skill for the operation of Amarr frigates.",
         "ja": "アマーフリゲートを操作するためのスキル。"
     },
     "87342": {
-        "en": "Skill at operating Gallente cruisers.",
+        "en": "Skill for the operation of Gallente cruisers.",
         "ja": "ガレンテ巡洋艦を操作するためのスキル。"
     },
     "87343": {
-        "en": "Skill at operating Minmatar cruisers.",
+        "en": "Skill for the operation of Minmatar cruisers.",
         "ja": "ミンマター巡洋艦を操作するためのスキル。"
     },
     "87344": {
-        "en": "Skill at operating Caldari cruisers.",
+        "en": "Skill for the operation of Caldari cruisers.",
         "ja": "カルダリ巡洋艦を操作するためのスキル。"
     },
     "87345": {
-        "en": "Skill at operating Amarr cruisers.",
+        "en": "Skill for the operation of Amarr cruisers.",
         "ja": "アマー巡洋艦を操作するためのスキル。"
     },
     "87346": {
-        "en": "Skill at operating Gallente battleships.",
+        "en": "Skill for the operation of Gallente battleships.",
         "ja": "ガレンテ戦艦を操作するスキル。"
     },
     "87347": {
-        "en": "Skill at operating Minmatar battleships.",
+        "en": "Skill for the operation of Minmatar battleships.",
         "ja": "ミンマター戦艦を操作するスキル。"
     },
     "87348": {
-        "en": "Skill at operating Caldari battleships.",
+        "en": "Skill for the operation of Caldari battleships.",
         "ja": "カルダリ戦艦を操作するスキル。"
     },
     "87349": {
-        "en": "Skill at operating Amarr battleships.",
+        "en": "Skill for the operation of Amarr battleships.",
         "ja": "アマー戦艦を操作するスキル。"
     },
     "87350": {
-        "en": "Skill at operating Gallente hauler ships.",
+        "en": "Skill for the operation of Gallente hauler ships.",
         "ja": "ガレンテハウラーを操作するためのスキル。"
     },
     "87351": {
-        "en": "Skill at operating Minmatar hauler ships.",
+        "en": "Skill for the operation of Minmatar hauler ships.",
         "ja": "ミンマターハウラーを操作するためのスキル。"
     },
     "87352": {
-        "en": "Skill at operating Caldari hauler ships.",
+        "en": "Skill for the operation of Caldari hauler ships.",
         "ja": "カルダリハウラーを操作するためのスキル。"
     },
     "87353": {
-        "en": "Skill at operating Amarr hauler ships.",
+        "en": "Skill for the operation of Amarr hauler ships.",
         "ja": "アマーハウラーを操作するためのスキル。"
     },
     "87354": {
-        "en": "Skill at operating Gallente titans.",
+        "en": "Skill for the operation of Gallente titans.",
         "ja": "ガレンテタイタンを操作するスキル。"
     },
     "87355": {
-        "en": "Skill at operating Minmatar titans.",
+        "en": "Skill for the operation of Minmatar titans.",
         "ja": "ミンマタータイタンを操作するスキル。"
     },
     "87356": {
-        "en": "Skill at operating Caldari titans.",
+        "en": "Skill for the operation of Caldari titans.",
         "ja": "カルダリタイタンを操作するスキル。"
     },
     "87357": {
-        "en": "Skill at operating Amarr titans.",
+        "en": "Skill for the operation of Amarr titans.",
         "ja": "アマータイタンを操作するスキル。"
     },
     "87358": {
@@ -118784,11 +118784,11 @@
         "ja": "大量の電力を貯え、非常の際に予備の電池として使用できるバッテリーカートリッジ。"
     },
     "87847": {
-        "en": "Skill at operating Jovian hauler ships.",
+        "en": "Skill for the operation of Jovian hauler ships.",
         "ja": "ジョビのハウラーを操作するためのスキル。"
     },
     "87848": {
-        "en": "Skill at operating jove battleships.",
+        "en": "Skill for the operation of jove battleships.",
         "ja": "ジョビ戦艦を操作するためのスキル。"
     },
     "87849": {
@@ -119072,7 +119072,7 @@
         "ja": "このモジュールは、アーマーにダメージを受けた船を対象として、ナノアセンブラーを使用しダメージを修復する。"
     },
     "87920": {
-        "en": "Skill at operating mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
+        "en": "Skill for the operation of mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
         "ja": "ディープコア採掘を必要とする採掘レーザーを操作するためのスキル。スキルレベル上昇ごとにメロコキサイトの採掘中にダメージを受ける確率が10%減少。"
     },
     "87921": {
@@ -119560,7 +119560,7 @@
         "ja": "駆逐艦を操作するスキル。"
     },
     "88048": {
-        "en": "Skill at operating Battlecruisers. Can not be trained on Trial Accounts.",
+        "en": "Skill for the operation of Battlecruisers. Can not be trained on Trial Accounts.",
         "ja": "巡洋戦艦を操作するためのスキル。トライアルアカウントでは習得不可。"
     },
     "88049": {
@@ -124112,7 +124112,7 @@
         "ja": "奇妙な形をしたカオス理論ベースのキーカード。エンジェル軍事作戦複合施設の管理責任者が所持していたもの。同ポケット内で短時間ゲートを開くのに使用できるが、使用後は自動的に破壊されるようになっている。"
     },
     "89195": {
-        "en": "Skill at operating ORE Mining Barges.",
+        "en": "Skill for the operation of ORE Mining Barges.",
         "ja": "ORE採掘艦の操縦スキル。"
     },
     "89196": {
@@ -125548,7 +125548,7 @@
         "ja": "個人用の武器。戦闘にも、護身用にも利用される。"
     },
     "89626": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 15% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 15% bonus to the strength of all Talisman implant secondary effects",
         "ja": "ブラッドレイダーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が4ポイント増加第2効果：キャパシタエミッションシステムスキルを必要とするモジュールの起動時間が1%減少 セット効果：全てのタリスマンインプラントの第2効果が15%増加"
     },
     "89627": {
@@ -126048,28 +126048,28 @@
         "ja": "IDとして利用される。"
     },
     "89775": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した接眼レンズフィルター。第1効果：知覚が4ポイント増加第2効果：艦船のシグネチャ半径が1%減少セット効果：全てのハロインプラントの第2効果が15%増加"
     },
     "89776": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したメモリーアグメンテーション。第1効果：記憶力が4ポイント増加第2効果：艦船のシグネチャ半径が1.25%減少セット効果：全てのハロインプラントの第2効果が15%増加"
     },
     "89777": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "ja": "エンジェルの科学者がエリート士官向けに改良したサイバネティックサブプロセッサ。 \n\n\n\n第1効果：知性が4ポイント増加\n\n\n\n第2効果：艦船のシグネチャ半径が1.75%減少\n\n\n\nセット効果：全てのハロインプラントの第2効果が15%増加"
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "ja": "エンジェルの科学者がエリート士官向けに改良したサイバネティックサブプロセッサ。 \r\n\r\n\r\n\r\n第1効果：知性が4ポイント増加\r\n\r\n\r\n\r\n第2効果：艦船のシグネチャ半径が1.75%減少\r\n\r\n\r\n\r\nセット効果：全てのハロインプラントの第2効果が15%増加"
     },
     "89778": {
         "en": "This cybernetic subprocessor has been modified by underworld scientists for use by elite pirate officers. It provides increasing armor hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n</b>Primary Effect:</b> +4 bonus to Intelligence\r\n</b>Secondary Effect:</b> 4% bonus to armor HP\r\n</b>Set Effect:</b> 15% bonus to the strength of all Amulet implant secondary effects",
         "ja": "海賊のエリート幹部向けに裏社会の科学者が改修を加えたサイバネティックサブプロセッサ。同じセットの他インプラントと併用することでアーマーHPボーナスが増加する。\n\n\n\n</b>第1効果：</b>知性が4ポイント増加\n\n</b>第2効果：</b>アーマーHPが4%増加\n\n</b>セット効果：</b>全てのアミュレットインプラントの第2効果が15%増加"
     },
     "89779": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したソーシャル適応チップ。第1効果：カリスマが4ポイント増加第2効果：艦船のシグネチャ半径が2%減少セット効果：全てのハロインプラントの第2効果が15%増加"
     },
     "89780": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Willpower\r\n\r\nSecondary Effect: 1.50% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
-        "ja": "エンジェルの科学者がエリート士官向けに改良した神経系ブースト。\n\n\n\n第1効果：精神力が4ポイント増加\n\n\n\n第2効果：艦船のシグネチャ半径が1.50%減少\n\n\n\nセット効果：全てのハロインプラントの第2効果が15%増加"
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.50% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
+        "ja": "エンジェルの科学者がエリート士官向けに改良した神経系ブースト。\r\n\r\n\r\n\r\n第1効果：精神力が4ポイント増加\r\n\r\n\r\n\r\n第2効果：艦船のシグネチャ半径が1.50%減少\r\n\r\n\r\n\r\nセット効果：全てのハロインプラントの第2効果が15%増加"
     },
     "89781": {
         "en": "The causative agent of an infectious disease, the viral agent is a parasite with a noncellular structure composed mainly of nucleic acid within a protein coat.",
@@ -126080,35 +126080,35 @@
         "ja": "このキーカードの所有者は民間人のツナ・カイセである。このアイテムを違法に所持する者には、高額の罰金と1年以上の懲役が科される。\n\n- CONCORDセキュリティ"
     },
     "89783": {
-        "en": "Skill at operating Amarr freighters.",
+        "en": "Skill for the operation of Amarr freighters.",
         "ja": "アマー超大型輸送艦を操作するスキル。"
     },
     "89784": {
-        "en": "Skill at operating Amarr dreadnoughts.",
+        "en": "Skill for the operation of Amarr dreadnoughts.",
         "ja": "アマー攻城艦を操作するスキル。"
     },
     "89785": {
-        "en": "Skill at operating Caldari freighters.",
+        "en": "Skill for the operation of Caldari freighters.",
         "ja": "カルダリ超大型輸送艦を操作するスキル。"
     },
     "89786": {
-        "en": "Skill at operating Gallente freighters.",
+        "en": "Skill for the operation of Gallente freighters.",
         "ja": "ガレンテ超大型輸送艦を操作するスキル。"
     },
     "89787": {
-        "en": "Skill at operating Minmatar freighters.",
+        "en": "Skill for the operation of Minmatar freighters.",
         "ja": "ミンマター超大型輸送艦を操作するスキル。"
     },
     "89788": {
-        "en": "Skill at operating Caldari dreadnoughts.",
+        "en": "Skill for the operation of Caldari dreadnoughts.",
         "ja": "カルダリ攻城艦を操作するスキル。"
     },
     "89789": {
-        "en": "Skill at operating Gallente dreadnoughts.",
+        "en": "Skill for the operation of Gallente dreadnoughts.",
         "ja": "ガレンテ攻城艦を操作するスキル。"
     },
     "89790": {
-        "en": "Skill at operating Minmatar dreadnoughts.",
+        "en": "Skill for the operation of Minmatar dreadnoughts.",
         "ja": "ミンマター攻城艦を操作するスキル。"
     },
     "89791": {
@@ -126892,23 +126892,23 @@
         "ja": "集積回路の素材となる、小型の半導体ウエハー。"
     },
     "89991": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した視覚フィルタ。第1効果：知覚が3ポイント増加第2効果：艦船のシグネチャ半径が1%減少セット効果：全てのハロインプラントの第2効果が10%増加"
     },
     "89992": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したメモリーアグメンテーション。第1効果：記憶力が3ポイント増加第2効果：艦船のシグネチャ半径が1.25%減少セット効果：全てのハロインプラントの第2効果が10%増加"
     },
     "89993": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +3 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +3 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したサイバネティックサブプロセッサ。第1効果：知性が3ポイント増加第2効果：艦船のシグネチャ半径が1.5%減少セット効果：全てのハロインプラントの第2効果が10%増加"
     },
     "89994": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したソーシャル適応チップ。第1効果：カリスマが3ポイント増加第2効果：艦船のシグネチャ半径が2%減少セット効果：全てのハロインプラントの第2効果が10%増加"
     },
     "89995": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した神経系ブースト。第1効果：精神力が3ポイント増加第2効果：艦船のシグネチャ半径が1.75%減少セット効果：全てのハロインプラントの第2効果が10%増加"
     },
     "89996": {
@@ -126916,7 +126916,7 @@
         "ja": "海賊のエリート幹部向けに裏社会の科学者が改修を加えたサイバネティックサブプロセッサ。同じセットの他インプラントと併用することでアーマーHPボーナスが増加する。\n\n\n\n<b>第1効果：</b> 知性が3ポイント増加\n\n<b>第2効果：</b> アーマーHPが4%増加\n\n<b>セット効果：</b>全てのアミュレットインプラントの第2効果が10%増加"
     },
     "89997": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 10% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 10% bonus to the strength of all Talisman implant secondary effects",
         "ja": "ブラッドレイダーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が3ポイント増加第2効果：キャパシタエミッションシステムスキルを必要とするモジュールの起動時間が1%減少セット効果：全てのタリスマンインプラントの第2効果が10％増加"
     },
     "89998": {
@@ -127912,19 +127912,19 @@
         "ja": "サーペンティスの傘下で活動する密輸業者が使用するマスターキーで、違法物資の隠し場所や外部に知られたくないエリアに通じるゲート内に、部外者が立ち入らないようになっている。"
     },
     "90255": {
-        "en": "Skill at operating Amarr carriers.",
+        "en": "Skill for the operation of Amarr carriers.",
         "ja": "アマーの艦載機母艦を操作するスキル。"
     },
     "90256": {
-        "en": "Skill at operating Caldari carriers.",
+        "en": "Skill for the operation of Caldari carriers.",
         "ja": "カルダリの艦載機母艦を操作するスキル。"
     },
     "90257": {
-        "en": "Skill at operating Gallente carriers.",
+        "en": "Skill for the operation of Gallente carriers.",
         "ja": "ガレンテの艦載機母艦を操作するスキル。"
     },
     "90258": {
-        "en": "Skill at operating Minmatar carriers.",
+        "en": "Skill for the operation of Minmatar carriers.",
         "ja": "ミンマターの艦載機母艦を操作するスキル。"
     },
     "90259": {
@@ -129268,7 +129268,7 @@
         "ja": "偉大なるアライアンストーナメントブロンズメダル。始めからこのメダルを狙っているカプセラもいなければ、このメダルを喜ぶ者もいない。メダルの獲得者を「勝者の中の敗者」と呼ぶ者もいるが、敗北の中にも手にした勝利がある。このメダルの獲得者は、栄光は得られなくても名誉と尊敬を得ることができる。"
     },
     "90668": {
-        "en": "Skill at operating Capital Industrial Ships.",
+        "en": "Skill for the operation of Capital Industrial Ships.",
         "ja": "採掘支援母艦を操縦するスキル。"
     },
     "90669": {
@@ -130056,24 +130056,24 @@
         "ja": "タレットの射程と追跡速度を向上させる。  \n\nペナルティ:同一のモジュール、または同じ属性のモジュールを複数取り付けると、一つ追加するごとにモジュールの効果が低下する。"
     },
     "90871": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect: </b> 10% bonus to the strength of all Centurion implant secondary effects",
         "ja": "モードゥの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが3 ポイント増加 第2効果： ECM、リモートセンサーダンパー、兵器妨害器、ターゲットペインターの最適射程距離が1％拡大 セット効果： 全てのセンチュリオンインプラントの第2効果が10%増加。"
     },
     "90872": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 10% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 10% bonus to the strength of all Edge implant secondary effects",
         "ja": "シンジケートの科学者がエリート士官用に改良した接眼レンズフィルター。第第1効果：知覚が3ポイント増加第2効果：ブースターの副作用が1%減少セット効果：全てのエッジインプラントの第二効果が10%増加"
     },
     "90873": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 10% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 10% bonus to the strength of all Harvest implant secondary effects",
         "ja": "ORE社の科学者がエリート士官用に改良した接眼レンズフィルター。第第1効果：知覚が3ポイント増加第2効果：全ての採掘レーザーの射程が1%増加セット効果：全てのハーベストインプラントの第2効果が10%増加"
     },
     "90874": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 10% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nomad implant secondary effects",
         "ja": "サッカーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が3ポイント増加第2効果：機動性が1%増加セット効果：全てのノマッドインプラントの第2効果が10%増加"
     },
     "90875": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 10% bonus to the strength of all Virtue implant secondary effects",
-        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\n\n第1効果：知覚が3ポイント増加\n\n第2効果：プローブのスキャン強度が1%増加\n\nセット効果：バーチュインプラントの第2効果が10%増加"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 10% bonus to the strength of all Virtue implant secondary effects",
+        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\r\n\r\n第1効果：知覚が3ポイント増加\r\n\r\n第2効果：プローブのスキャン強度が1%増加\r\n\r\nセット効果：バーチュインプラントの第2効果が10%増加"
     },
     "90876": {
         "en": "This memory augmentation has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Memory \n\nSecondary Effect: 2% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
@@ -131608,7 +131608,7 @@
         "ja": "肉体的な勇猛さを何よりも大事にし、たくましい肉体を見ると怖じ気づくことがある。"
     },
     "91261": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ja": "ガリスタスの科学者がエリート士官向けに改良した接眼レンズフィルター。第1効果：知覚が4ポイント増加第2効果：シールドブースト量が1%増加セット効果：全てのクリスタルインプラントの第2効果が15%増加注：キャピタルサイズのモジュールには無効。"
     },
     "91262": {
@@ -131632,7 +131632,7 @@
         "ja": "ECM ジャミングシステムを操作するためのスキル。スキルレベル上昇ごとに ECM システムと ECM バーストシステムのキャパシタ消費が 5% 減少する。\n\n注 : 母艦級のモジュールには適用されない。"
     },
     "91267": {
-        "en": "Skill at operating industrial command ships.",
+        "en": "Skill for the operation of industrial command ships.",
         "ja": "指揮型輸送艦を操作するスキル。"
     },
     "91268": {
@@ -131888,7 +131888,7 @@
         "ja": "寿命を全うし、リサイクルする以外使い道のなくなったハードウェア。多くのステーションのメンテナンス部門はこの種のスクラップをリサイクルしてスティールプレートを製造しており、ステーション本体のプレートが劣化したときの交換用としている。わざわざ採掘部隊を派遣して鉱石を確保するよりも大幅にコストを削減できるが、スクラップの供給が需要に追いつかないのが現状である。\r\n\nなお、このアイテムがスクラップメタル処理スキルから受ける影響は他のリサイクルアイテムと変わらない。"
     },
     "91331": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ja": "ガリスタスの科学者がエリート士官向けに改良した接眼レンズフィルター。第1効果：知覚が3ポイント増加第2効果：シールドブースト量が1%増加セット効果：全てのクリスタルインプラントの第2効果が10%増加注：キャピタルサイズのモジュールには無効。"
     },
     "91332": {
@@ -131908,7 +131908,7 @@
         "ja": "ガリスタスの科学者がエリート士官向けに改良した神経系ブースト。第1効果：精神力が3ポイント増加第2効果：シールドが3%増加セット効果：全てのクリスタルインプラントの第2効果が10%増加注：キャピタルサイズのモジュールには無効。"
     },
     "91336": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Snake implant secondary effects",
         "ja": "サーペンティスの科学者がエリート密輸業者向けに改良した接眼レンズフィルタ。第1効果：知覚が3ポイント増加第2効果：最高速度が0.5%上昇セット効果：全てのスネークインプラントの第2効果が10%増加"
     },
     "91337": {
@@ -131928,7 +131928,7 @@
         "ja": "サーペンティスの科学者が精鋭の密輸業者向けに改良した神経系ブースト。第1効果：精神力が3ポイント増加 第2効果： 最大速度が0.75％上昇 セット効果： 全てのスネークインプラントの第2効果が10%増加。"
     },
     "91341": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Snake implant secondary effects",
         "ja": "サーペンティスの科学者がエリート密輸業者向けに改良した接眼レンズフィルタ。第1効果：知覚が4ポイント増加第2効果：最高速度が0.5%上昇セット効果：全てのスネークインプラントの第2効果が15%増加"
     },
     "91342": {
@@ -132304,7 +132304,7 @@
         "ja": "高性能船体とサブシステムの製造に使用する T3部品。"
     },
     "91436": {
-        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>",
+        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
         "ja": "トーナメントの優勝者に引き継がれる、権威あるアライアンス優勝杯。ニューエデンで多くの人々が手にしたいと願っている最高の褒章かもしれない。\r\n\r\n手にした者には栄光と名声が待っているが、これを手に入れるためには極めて過酷で残忍で激しいこのトーナメントで、立ちはだかるエリートコンバットチームの数々に勝利しなければならない。 \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url>YC 107年 - 第1回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url>YC 107年 - 第2回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url>YC 108年 - 第3回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url>YC 109年 - 第4回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url>YC 110年 - 第5回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC 111年 - 第6回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC 111年 - 第7回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC 112年 - 第8回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url>YC 113年 - 第9回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url>YC 114年 - 第10回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC 115年 - 第11回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url>YC 116年 - 第12回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url>YC 117年 - 第13回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url>YC 118年 - 第14回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url>YC 119年 - 第15回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url>YC 120年 - 第16回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url>YC 123年 - 第17回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOUR. LIGHT.</url>YC 124年 - 第18回アライアンス・トーナメントの勝者</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity</url>YC 125年 - 第19回アライアンス・トーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url>YC 126年 - 第20回アライアンストーナメント優勝</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url>YC 127年 - 第21回アライアンストーナメント優勝</div>"
     },
     "91437": {
@@ -133592,7 +133592,7 @@
         "ja": "高性能船体とサブシステムの製造に使用する T3部品。"
     },
     "91768": {
-        "en": "Skill at operating Amarr Strategic Cruisers.",
+        "en": "Skill for the operation of Amarr Strategic Cruisers.",
         "ja": "アマー戦略的巡洋艦を操縦するスキル。"
     },
     "91769": {
@@ -136724,35 +136724,35 @@
         "ja": "採掘艦に搭載される採掘サーベイヤー用の強化型チップセット。アステロイドの情報収集能力を大幅に向上させ、最高の採掘成果を挙げられる可能性を高める。\r\n\r\n採掘レーザーとアイス採掘機のクリティカル率とクリティカル発生時の採掘量ボーナスが増加する。\r\n採掘レーザー、アイス採掘機、ガス雲採取機の残留物率を低下させる。\r\nスキャンしたアステロイドに残っている鉱石の量に関する情報を追加し、採掘艦に搭載されている採掘サーベイヤーを強化する。"
     },
     "92557": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's radar sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's radar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
         "ja": "アマーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が4ポイント増加第2効果：艦船の電波センサー強度が1%ポイント増加セット効果：全てのハイグレードグレイルインプラントの第2効果が15%増加。セット効果はローグレードグレイルインプラントとは加算されない"
     },
     "92558": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to ship's Ladar sensor strength\n\nSet Effect: 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
-        "ja": "ミンマターの科学者がエリート士官用に改良した接眼レンズフィルター。\n\t\t\n第1効果：パーセプションが4ポイント増加\n\n第2効果：艦船の光学センサー強度が1%増加\n\nセット効果：全てのハイグレードジャッカルインプラントの第2効果が15%増加。セット効果はローグレードジャッカルインプラントとは加算されない"
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's Ladar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
+        "ja": "ミンマターの科学者がエリート士官用に改良した接眼レンズフィルター。\r\n\t\t\r\n第1効果：パーセプションが4ポイント増加\r\n\r\n第2効果：艦船の光学センサー強度が1%増加\r\n\r\nセット効果：全てのハイグレードジャッカルインプラントの第2効果が15%増加。セット効果はローグレードジャッカルインプラントとは加算されない"
     },
     "92559": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of radar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of radar sensor strength to piloted ship",
         "ja": "アマーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが2 ポイント増加 第2効果： 有人艦船のレーダーセンサー強度が1ポイント増加"
     },
     "92560": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of ladar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of ladar sensor strength to piloted ship",
         "ja": "ミンマターの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが2 ポイント増加 第2効果： 有人艦船の光学センサー強度が1ポイント増加"
     },
     "92561": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of magnetometric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of magnetometric sensor strength to piloted ship",
         "ja": "ガレンテの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが2 ポイント増加 第2効果： 有人艦船の磁気センサー強度が1ポイント増加"
     },
     "92562": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of gravimetric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of gravimetric sensor strength to piloted ship",
         "ja": "カルダリの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが2 ポイント増加 第2効果： 有人艦船の重力センサー強度が1ポイント増加"
     },
     "92563": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's magnetometric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's magnetometric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
         "ja": "ガレンテの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が4ポイント増加第2効果：艦船の磁力センサー強度が1%増加セット効果：全てのハイグレードスプールインプラントの第2効果が15%増加。セット効果はローグレードスプールインプラントとは加算されない"
     },
     "92564": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's gravimetric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's gravimetric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
         "ja": "カルダリの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が4ポイント増加第2効果：艦船の重力センサー強度が1%増加 セット効果：全てのハイグレードタロンインプラントの第2効果が15%増加。セット効果はローグレードタロンインプラントとは加算されない"
     },
     "92565": {
@@ -138496,15 +138496,15 @@
         "ja": "この電子パスキーはカプセラトレーニングプログラムで使用するためにチュートリアルエージェントから受け取ったものだ。鉱石サイトトレーニングエリア内のアクセラレーションゲートのロックを解除するために使う。その先にあるコンテナに『発見の証拠』という書類が入っている。『発見の証拠』はそのカプセラが指定された種類のサイトを見つけてきたという証拠になる。\r\n\n<b>鉱石</b>サイト内のアクセラレーションゲートのロックを解除する専用パスキー。"
     },
     "93035": {
-        "en": "Skill at operating Caldari Strategic Cruisers.",
+        "en": "Skill for the operation of Caldari Strategic Cruisers.",
         "ja": "カルダリ戦略的巡洋艦を操作するスキル。"
     },
     "93036": {
-        "en": "Skill at operating Gallente Strategic Cruisers.",
+        "en": "Skill for the operation of Gallente Strategic Cruisers.",
         "ja": "ガレンテ戦略的巡洋艦を操作するスキル。"
     },
     "93037": {
-        "en": "Skill at operating Minmatar Strategic Cruisers.",
+        "en": "Skill for the operation of Minmatar Strategic Cruisers.",
         "ja": "ミンマター戦略的巡洋艦を操作するスキル。"
     },
     "93038": {
@@ -141592,7 +141592,7 @@
         "ja": "ポーテックコーポレーションがリコールしている正常に動作しない廃止されたインターフェイス。"
     },
     "93826": {
-        "en": "Skill at operating ORE hauler ships.",
+        "en": "Skill for the operation of ORE hauler ships.",
         "ja": "OREハウラーを操作するためのスキル。"
     },
     "93827": {
@@ -147960,7 +147960,7 @@
         "ja": "ベルドスパーや他のアステロイドでの採掘が、銀河の経済活動を支えている。\r\n<P>アステロイドで採掘するには、まず接近し、採掘レーザーを使ってカーゴホールドに鉱石を取り込む。</P>"
     },
     "95483": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "ja": "「迷路」は、このガリスタの謎めいた軍事複合施設の名称である。内部へあえて足を踏み入れた者の大半は生きて帰れず、今も生きている者は、ガリスタスの労働者として働かされている。\r\n<br>\r\n確証はないが、この複合施設の最深部には、フェイタル本人が住んでいるという噂がある。<br>\r\n\r\nDED脅威の評価：絶望的（10/10）"
     },
     "95484": {
@@ -149668,7 +149668,7 @@
         "ja": "かつては巨大採掘コーポレーションの作業場だったデッドスペースコンプレックス。現在ではその遺跡にはびこるローグドローンが、今でも奥深くに眠っている貴重な鉱石を露天掘りしている。\r\n<P>\r\nDED脅威の評価: 安全でない（3/10）</P>"
     },
     "95912": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "ja": "「迷路」は、このガリスタの謎めいた軍事複合施設の名称である。内部へあえて足を踏み入れた者の大半は生きて帰れず、今も生きている者は、ガリスタスの労働者として働かされている。\r\n<br>\r\n確証はないが、この複合施設の最深部には、フェイタル本人が住んでいるという噂がある。<br>\r\n\r\nDED脅威の評価：絶望的（10/10）"
     },
     "95913": {
@@ -149944,7 +149944,7 @@
         "ja": "ピスの刑事複合施設は、以前アマーで艦長をやっていたディーヴァクホンフリーによって運営されている。彼は以前、捕虜たちから「狂気のディーヴァク」または「金切り声のディーヴァク」と呼ばれていた。彼は厳しい訓練を受けた戦術家だ。アマー帝国軍に長期間務めた後、彼は民間セクターでのビジネスを始める決心をした。<p>\r\n\nDED脅威の評価レベル: （8/10）"
     },
     "95981": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "ja": "「迷路」は、このガリスタの謎めいた軍事複合施設の名称である。内部へあえて足を踏み入れた者の大半は生きて帰れず、今も生きている者は、ガリスタスの労働者として働かされている。\r\n<br>\r\n確証はないが、この複合施設の最深部には、フェイタル本人が住んでいるという噂がある。<br>\r\n\r\nDED脅威の評価：絶望的（10/10）"
     },
     "95982": {
@@ -247668,7 +247668,7 @@
         "ja": "刑務所施設は閉鎖された。ブラッドレイダーが刑務所複合施設を立て直すには何十億ISKという大金がかかるだろう。 <br><br>\r\n確かに、要塞の陥落と同時に付属の監房に備え付けられた安全装置が作動して囚人は全員処刑された。だが、希少な勢力モジュールを入手することに比べて、数千人のアマー異端者たちが何の意味を持つというんだ。"
     },
     "125148": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "ja": "バスチオンを排除した。思想転向の研究はすべて破壊された。<br>\r\n自由意志を持つ人間とトゥルースレイブの狭間に囚われていた魂は、解き放たれた。ほろ苦い勝利と言えるだろう。<br>\r\n戦利品をいただきに行こう。"
     },
     "125149": {
@@ -247716,8 +247716,8 @@
         "ja": "大ボスを撃沈。サーペンティスも、あのでかぶつ抜きで全員を忙しくさせておくのは大変だろうな。 <br><br>\r\n残骸を調べるのを忘れるな、何かいい物が拾えるかもしれないぞ。"
     },
     "125160": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
-        "ja": "アークドゥークを撃破した。約18秒後に、サンシャ国のセキュリティキーが作動し、サンシャ国の通信をすべてジャンクデータに書き換える。<br><br>\n\nでは、アークドゥークの残骸から何か面白いものが拾えるか見てみよう。"
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "ja": "アークドゥークを撃破した。約18秒後に、サンシャ国のセキュリティキーが作動し、サンシャ国の通信をすべてジャンクデータに書き換える。<br><br>\r\n\r\nでは、アークドゥークの残骸から何か面白いものが拾えるか見てみよう。"
     },
     "125161": {
         "en": "You have destroyed the Dark Blood Hunter. His wreck should prove quite profitable.<br><br>\r\n\r\n",
@@ -247748,7 +247748,7 @@
         "ja": "刑務所施設は閉鎖された。ブラッドレイダーが刑務所複合施設を立て直すには何十億ISKという大金がかかるだろう。 <br><br>\r\n確かに、要塞の陥落と同時に付属の監房に備え付けられた安全装置が作動して囚人は全員処刑された。だが、希少な勢力モジュールを入手することに比べて、数千人のアマー異端者たちが何の意味を持つというんだ。"
     },
     "125168": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "ja": "バスチオンを排除した。思想転向の研究はすべて破壊された。<br>\r\n自由意志を持つ人間とトゥルースレイブの狭間に囚われていた魂は、解き放たれた。ほろ苦い勝利と言えるだろう。<br>\r\n戦利品をいただきに行こう。"
     },
     "125169": {
@@ -247764,8 +247764,8 @@
         "ja": "ガリスタスのチーフはこれで終わりだ。何とかして新しい指揮官を立てるまでの間は、現地のガリスタスの指揮系統は混乱状態に陥るだろう。<br><br>\r\n どうやらガリスタスは指揮官を維持するのが下手なようだ。"
     },
     "125173": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
-        "ja": "アークドゥークを撃破した。約18秒後に、サンシャ国のセキュリティキーが作動し、サンシャ国の通信をすべてジャンクデータに書き換える。<br><br>\n\nでは、アークドゥークの残骸から何か面白いものが拾えるか見てみよう。"
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "ja": "アークドゥークを撃破した。約18秒後に、サンシャ国のセキュリティキーが作動し、サンシャ国の通信をすべてジャンクデータに書き換える。<br><br>\r\n\r\nでは、アークドゥークの残骸から何か面白いものが拾えるか見てみよう。"
     },
     "125174": {
         "en": "The next pocket is a busy place. I'm reading the engine wash signatures of Serpentis ships, but also private industrial and hauler firms. One trail has a 12 percent likelihood of belonging to a Federation Senator's luxury liner. <br><br>\r\nLuckily for the senator, we aren't the <a href=showinfo:2//1000107>Scope</a>.",
@@ -757968,7 +757968,7 @@
         "ja": "採掘用フリゲート"
     },
     "283318": {
-        "en": "Skill at operating ORE Mining Frigates.",
+        "en": "Skill for the operation of ORE Mining Frigates.",
         "ja": "ORE採掘フリゲートの操縦スキル。"
     },
     "283319": {
@@ -766260,7 +766260,7 @@
         "ja": "アマー駆逐艦"
     },
     "286678": {
-        "en": "Skill at operating Amarr destroyers.",
+        "en": "Skill for the operation of Amarr destroyers.",
         "ja": "アマー駆逐艦を操作するためのスキル。"
     },
     "286679": {
@@ -766268,7 +766268,7 @@
         "ja": "カルダリ駆逐艦"
     },
     "286680": {
-        "en": "Skill at operating Caldari destroyers.",
+        "en": "Skill for the operation of Caldari destroyers.",
         "ja": "カルダリ駆逐艦を操作するためのスキル。"
     },
     "286681": {
@@ -766276,7 +766276,7 @@
         "ja": "ガレンテ駆逐艦"
     },
     "286682": {
-        "en": "Skill at operating Gallente destroyers.",
+        "en": "Skill for the operation of Gallente destroyers.",
         "ja": "ガレンテ駆逐艦を操作するためのスキル。"
     },
     "286683": {
@@ -766284,7 +766284,7 @@
         "ja": "ミンマター駆逐艦"
     },
     "286684": {
-        "en": "Skill at operating Minmatar destroyers.",
+        "en": "Skill for the operation of Minmatar destroyers.",
         "ja": "ミンマター駆逐艦を操作するためのスキル。"
     },
     "286685": {
@@ -766292,7 +766292,7 @@
         "ja": "アマー巡洋戦艦"
     },
     "286686": {
-        "en": "Skill at operating Amarr battlecruisers.",
+        "en": "Skill for the operation of Amarr battlecruisers.",
         "ja": "アマー巡洋戦艦をするスキル。"
     },
     "286687": {
@@ -766300,7 +766300,7 @@
         "ja": "カルダリ巡洋戦艦"
     },
     "286688": {
-        "en": "Skill at operating Caldari battlecruisers.",
+        "en": "Skill for the operation of Caldari battlecruisers.",
         "ja": "カルダリ巡洋戦艦を操作するスキル。"
     },
     "286689": {
@@ -766308,7 +766308,7 @@
         "ja": "ガレンテ巡洋戦艦"
     },
     "286690": {
-        "en": "Skill at operating Gallente battlecruisers.",
+        "en": "Skill for the operation of Gallente battlecruisers.",
         "ja": "ガレンテ巡洋戦艦を操作するスキル。"
     },
     "286691": {
@@ -766316,7 +766316,7 @@
         "ja": "ミンマター巡洋戦艦"
     },
     "286692": {
-        "en": "Skill at operating Minmatar battlecruisers.",
+        "en": "Skill for the operation of Minmatar battlecruisers.",
         "ja": "ミンマター巡洋戦艦を操作するスキル。"
     },
     "286693": {
@@ -776604,8 +776604,8 @@
         "ja": "ハイグレードアセンダンシーアルファ"
     },
     "292377": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 15% bonus to the strength of all Ascendancy implant secondary effects",
-        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\n\n第1効果：知覚が4ポイント増加\n\n第2効果：ワープ速度に1%のボーナス\n\nセット効果：全てのアセンダンシーインプラントの第2効果が15%増加"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 15% bonus to the strength of all Ascendancy implant secondary effects",
+        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\r\n\r\n第1効果：知覚が4ポイント増加\r\n\r\n第2効果：ワープ速度に1%のボーナス\r\n\r\nセット効果：全てのアセンダンシーインプラントの第2効果が15%増加"
     },
     "292381": {
         "en": "Ascendancy Set bonus",
@@ -777312,8 +777312,8 @@
         "ja": "ミディアムグレードアセンダンシーアルファ"
     },
     "292631": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 10% bonus to the strength of all Ascendancy implant secondary effects",
-        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\n\n第1効果：知覚が+3ポイント増加\n\n第2効果：ワープ速度に1%のボーナス\n\nセット効果：全てのアセンダンシーインプラントの第2効果が10%増加"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 10% bonus to the strength of all Ascendancy implant secondary effects",
+        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\r\n\r\n第1効果：知覚が+3ポイント増加\r\n\r\n第2効果：ワープ速度に1%のボーナス\r\n\r\nセット効果：全てのアセンダンシーインプラントの第2効果が10%増加"
     },
     "292632": {
         "en": "Mid-grade Ascendancy Alpha Blueprint",
@@ -785292,7 +785292,7 @@
         "ja": "ローグレードセンチュリオンアルファ"
     },
     "295556": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 2.5% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Centurion implant secondary effects",
         "ja": "モードゥの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが2ポイント増加 第2効果： ECM、リモートセンサーダンパー、兵器妨害器、ターゲットペインターの最適射程距離が1％拡大 セット効果： 全てのセンチュリオンインプラントの第2効果が2.5%増加。"
     },
     "295557": {
@@ -785340,7 +785340,7 @@
         "ja": "ローグレードクリスタルアルファ"
     },
     "295568": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ja": "ガリスタスの科学者がエリート士官向けに改良した接眼レンズフィルター。第1効果：知覚が2ポイント増加第2効果：シールドブースト量が1%増加セット効果:全てのクリスタルインプラントの第2効果が2.5%増加1注：キャピタルサイズのモジュールには無効。"
     },
     "295569": {
@@ -785388,7 +785388,7 @@
         "ja": "ローグレードエッジアルファ"
     },
     "295580": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 2.5% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Edge implant secondary effects",
         "ja": "シンジケートの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が2ポイント増加第2効果：ブースターの副作用が1%減少セット効果：全てのエッジインプラントの第2効果が2.5%増加"
     },
     "295581": {
@@ -785436,7 +785436,7 @@
         "ja": "ローグレードハロアルファ"
     },
     "295592": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した接眼レンズフィルター。第1効果：知覚が2ポイント増加第2効果：艦船のシグネチャ半径が1%減少セット効果：全てのハロインプラントの第2効果が2.5%増加。"
     },
     "295593": {
@@ -785444,7 +785444,7 @@
         "ja": "ローグレードハロベータ"
     },
     "295594": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したメモリーアグメンテーション。第1効果：記憶力が2ポイント増加第2効果：艦船のシグネチャ半径が1.25%減少セット効果：全てのハロインプラントの第2効果が2.5%増加。"
     },
     "295595": {
@@ -785452,7 +785452,7 @@
         "ja": "ローグレードハロデルタ"
     },
     "295596": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したサイバネティックサブプロセッサ。第1効果：知性が2ポイント増加第2効果：艦船のシグネチャ半径が1.5%減少セット効果：全てのハロインプラントの第2効果が2.5%増加。"
     },
     "295597": {
@@ -785460,7 +785460,7 @@
         "ja": "ローグレードハロイプシロン"
     },
     "295598": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良したソーシャル適応チップ。第1効果：カリスマが2ポイント増加第2効果：艦船のシグネチャ半径が2%減少セット効果：全てのハロインプラントの第2効果が2.5%増加"
     },
     "295599": {
@@ -785468,7 +785468,7 @@
         "ja": "ローグレードハロガンマ"
     },
     "295600": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した神経系ブースト。第1効果：精神力が2ポイント増加第2効果：艦船のシグネチャ半径が1.75%減少セット効果：全てのハロインプラントの第2効果が2.5%増加"
     },
     "295601": {
@@ -785484,7 +785484,7 @@
         "ja": "ローグレードハーベストアルファ"
     },
     "295604": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 2.5% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Harvest implant secondary effects",
         "ja": "ORE社の科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が2ポイント増加第2効果：全ての採掘レーザーの射程が1%増加セット効果：全てのハーベストインプラントの第2効果が2.5%増加"
     },
     "295605": {
@@ -785532,7 +785532,7 @@
         "ja": "ローグレードノマッドアルファ"
     },
     "295616": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nomad implant secondary effects",
         "ja": "サッカーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が2ポイント増加第2効果：機動性が1%増加セット効果：全てのノマッドインプラントの第2効果が2.5%増加"
     },
     "295617": {
@@ -785628,7 +785628,7 @@
         "ja": "ローグレードスネークアルファ"
     },
     "295640": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 5% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 5% bonus to the strength of all Snake implant secondary effects",
         "ja": "サーペンティスの科学者がエリート密輸業者向けに改良した接眼レンズフィルタ。第1効果：知覚が2ポイント増加第2効果：最高速度が0.5%上昇セット効果：全てのスネークインプラントの第2効果が5%増加"
     },
     "295641": {
@@ -785676,7 +785676,7 @@
         "ja": "ローグレードタリスマンアルファ"
     },
     "295652": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 2.5% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Talisman implant secondary effects",
         "ja": "ブラッドレイダーの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：知覚が2ポイント増加第2効果：キャパシタエミッションシステムスキルを必要とするモジュールの起動時間が1%減少セット効果：全てのタリスマンインプラントの第2効果が2.5%増加"
     },
     "295653": {
@@ -785724,8 +785724,8 @@
         "ja": "ローグレードバーチュアルファ"
     },
     "295664": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 2.5% bonus to the strength of all Virtue implant secondary effects",
-        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\n\n第1効果：知覚が+2ポイント増加\n\n第2効果：プローブのスキャン強度が1%増加\n\nセット効果：バーチュインプラントの第2効果が2.5%増加"
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Virtue implant secondary effects",
+        "ja": "シスターズオブイブの科学者が上級幹部向けに改良した接眼レンズフィルター。\r\n\r\n第1効果：知覚が+2ポイント増加\r\n\r\n第2効果：プローブのスキャン強度が1%増加\r\n\r\nセット効果：バーチュインプラントの第2効果が2.5%増加"
     },
     "295665": {
         "en": "Low-grade Virtue Beta",
@@ -790156,7 +790156,7 @@
         "ja": "ORE超大型輸送艦"
     },
     "297304": {
-        "en": "Skill at operating ORE freighters.",
+        "en": "Skill for the operation of ORE freighters.",
         "ja": "ORE超大型輸送艦を操作するスキル"
     },
     "297305": {
@@ -792092,7 +792092,7 @@
         "ja": "アマー戦術駆逐艦"
     },
     "297975": {
-        "en": "Skill at operating Amarr Tactical Destroyers.",
+        "en": "Skill for the operation of Amarr Tactical Destroyers.",
         "ja": "アマー戦術駆逐艦を操作するためのスキル。"
     },
     "297977": {
@@ -797120,7 +797120,7 @@
         "ja": "ミンマター戦術駆逐艦"
     },
     "299898": {
-        "en": "Skill at operating Minmatar Tactical Destroyers.",
+        "en": "Skill for the operation of Minmatar Tactical Destroyers.",
         "ja": "ミンマター戦術駆逐艦を操作するためのスキル。"
     },
     "299899": {
@@ -815460,7 +815460,7 @@
         "ja": "カルダリ戦術駆逐艦"
     },
     "308775": {
-        "en": "Skill at operating Caldari Tactical Destroyers.",
+        "en": "Skill for the operation of Caldari Tactical Destroyers.",
         "ja": "カルダリ戦術駆逐艦を操作するためのスキル。"
     },
     "308776": {
@@ -815700,7 +815700,7 @@
         "ja": "ガレンテ戦術駆逐艦"
     },
     "308864": {
-        "en": "Skill at operating Gallente Tactical Destroyers.",
+        "en": "Skill for the operation of Gallente Tactical Destroyers.",
         "ja": "ガレンテ戦術駆逐艦を操作するためのスキル。"
     },
     "308865": {
@@ -876096,7 +876096,7 @@
         "ja": "アマー軍事力補強"
     },
     "514115": {
-        "en": "Skill at operating Amarr force auxiliaries.",
+        "en": "Skill for the operation of Amarr force auxiliaries.",
         "ja": "アマー軍の増援部隊を操作するスキル。"
     },
     "514116": {
@@ -876104,7 +876104,7 @@
         "ja": "カルダリ軍事力補強"
     },
     "514117": {
-        "en": "Skill at operating Caldari force auxiliaries.",
+        "en": "Skill for the operation of Caldari force auxiliaries.",
         "ja": "カルダリ軍の増援部隊を操作するスキル。"
     },
     "514118": {
@@ -876112,7 +876112,7 @@
         "ja": "ガレンテ軍事力補強"
     },
     "514119": {
-        "en": "Skill at operating Gallente force auxiliaries.",
+        "en": "Skill for the operation of Gallente force auxiliaries.",
         "ja": "ガレンテ軍の増援部隊を操作するスキル。"
     },
     "514120": {
@@ -876120,7 +876120,7 @@
         "ja": "ミンマター軍事力補強"
     },
     "514121": {
-        "en": "Skill at operating Minmatar force auxiliaries.",
+        "en": "Skill for the operation of Minmatar force auxiliaries.",
         "ja": "ミンマター軍の増援部隊を操作するスキル。"
     },
     "514126": {
@@ -887776,7 +887776,7 @@
         "ja": "ローグレードアスクレピアンアルファ"
     },
     "517547": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ja": "サーペンティスの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが2ポイント増加 第2効果： アーマーリペア量が1%上昇 セット効果： 全てのアスクレピオス・インプラントの第2効果が2.5%増加 備考： 超大型モジュールには効果なし。"
     },
     "517548": {
@@ -888044,7 +888044,7 @@
         "ja": "ミドルグレードアスクレピアンアルファ"
     },
     "517614": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ja": "サーペンティスの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが3 ポイント増加 第2効果： アーマーリペア量が1%上昇 セット効果： 全てのアスクレピオス・インプラントの第2効果が10%増加 備考： 超大型モジュールには効果なし。"
     },
     "517615": {
@@ -888092,7 +888092,7 @@
         "ja": "ハイグレードアスクレピアンアルファ"
     },
     "517626": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "ja": "サーペンティスの科学者がエリート士官用に改良した接眼レンズフィルター。第1効果：パーセプションが4 ポイント増加 第2効果： アーマーリペア量が1%上昇 セット効果： 全てのアスクレピオス・インプラントの第2効果が15%増加 備考： 超大型モジュールには効果なし。"
     },
     "517627": {
@@ -930172,7 +930172,7 @@
         "ja": "プリカーサーフリゲート"
     },
     "535262": {
-        "en": "Skill at operating Precursor Frigates.",
+        "en": "Skill for the operation of Precursor Frigates.",
         "ja": "プリカーサーフリゲートを操作するためのスキル。"
     },
     "535263": {
@@ -930180,7 +930180,7 @@
         "ja": "プリカーサー巡洋艦"
     },
     "535264": {
-        "en": "Skill at operating Precursor Cruisers.",
+        "en": "Skill for the operation of Precursor Cruisers.",
         "ja": "プリカーサー巡洋艦を操作するためのスキル。"
     },
     "535265": {
@@ -930188,7 +930188,7 @@
         "ja": "プリカーサー戦艦"
     },
     "535266": {
-        "en": "Skill at operating Precursor Battleships.",
+        "en": "Skill for the operation of Precursor Battleships.",
         "ja": "プリカーサー戦艦を操作するためのスキル。"
     },
     "535267": {
@@ -949396,11 +949396,11 @@
         "ja": "期限切れインペタス・ポテンシー-50・グラモウレックスブースター"
     },
     "543408": {
-        "en": "Skill at operating Precursor Destroyers",
+        "en": "Skill for the operation of Precursor Destroyers",
         "ja": "プリカーサー駆逐艦を操作するためのスキル。"
     },
     "543409": {
-        "en": "Skill at operating Precursor Battlecruisers.",
+        "en": "Skill for the operation of Precursor Battlecruisers.",
         "ja": "プリカーサー巡洋戦艦を操作するためのスキル。"
     },
     "543410": {
@@ -964848,8 +964848,8 @@
         "ja": "ミディアムグレード・ミメシス・オメガ"
     },
     "551815": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
-        "ja": "DEDの目録によると、この接眼フィルターは、CONCORD兵器技術者による標準的なカプセラインプラントテンプレートの改造版で、その制御ルーチンは、粒子流量の出力最大化に時間がかかるようになるのと引き換えに火力を向上させるという、トリグラビアン兵器からリバースエンジニアリングされた理論の模倣である。\n\nしかし、ニューエデンのカプセラ、トランスヒューマン、ワイヤーヘッドのコミュニティの間では、これらのインプラントを作った研究開発グループは、いわゆる「制限された人工知能」の専門知識を持ったコンシャスソウト学会のチームが主導しているという噂が根強くある。これらのインプラントがRAI技術に基づいている可能性は、オーグメンテーションに関与する「ミメシス」の性質について、驚くべき疑問を投げかけている。\n\n第1効果： 知覚が2ポイント増加\n\n第2効果：エントロピックディスインテグレーターの最大ダメージ出力が1%増加\n\n第3効果：エントロピックディスインテグレーターの1サイクルごとのダメージ乗数に-33%のペナルティ付与\n\nセット効果：全てのミメシスインプラントの第2効果が20%増加"
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "ja": "DEDの目録によると、この接眼フィルターは、CONCORD兵器技術者による標準的なカプセラインプラントテンプレートの改造版で、その制御ルーチンは、粒子流量の出力最大化に時間がかかるようになるのと引き換えに火力を向上させるという、トリグラビアン兵器からリバースエンジニアリングされた理論の模倣である。\r\n\r\nしかし、ニューエデンのカプセラ、トランスヒューマン、ワイヤーヘッドのコミュニティの間では、これらのインプラントを作った研究開発グループは、いわゆる「制限された人工知能」の専門知識を持ったコンシャスソウト学会のチームが主導しているという噂が根強くある。これらのインプラントがRAI技術に基づいている可能性は、オーグメンテーションに関与する「ミメシス」の性質について、驚くべき疑問を投げかけている。\r\n\r\n第1効果： 知覚が2ポイント増加\r\n\r\n第2効果：エントロピックディスインテグレーターの最大ダメージ出力が1%増加\r\n\r\n第3効果：エントロピックディスインテグレーターの1サイクルごとのダメージ乗数に-33%のペナルティ付与\r\n\r\nセット効果：全てのミメシスインプラントの第2効果が20%増加"
     },
     "551816": {
         "en": "This memory augmentation is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Memory\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
@@ -965332,8 +965332,8 @@
         "ja": "共有中"
     },
     "552091": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1.25% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
-        "ja": "DEDの目録によると、この接眼フィルターは、CONCORD兵器技術者による標準的なカプセラインプラントテンプレートの改造版で、その制御ルーチンは、粒子流量の出力最大化に時間がかかるようになるのと引き換えに火力を向上させるという、トリグラビアン兵器からリバースエンジニアリングされた理論の模倣である。\n\nしかし、ニューエデンのカプセラ、トランスヒューマン、ワイヤーヘッドのコミュニティの間では、これらのインプラントを作った研究開発グループは、いわゆる「制限された人工知能」の専門知識を持ったコンシャスソウト学会のチームが主導しているという噂が根強くある。これらのインプラントがRAI技術に基づいている可能性は、オーグメンテーションに関与する「ミメシス」の性質について、驚くべき疑問を投げかけている。\n\n第1効果： 知覚が3ポイント増加\n\n第2効果：エントロピックディスインテグレーターの最大ダメージ出力が1.25%増加\n\n第3効果：エントロピックディスインテグレーターの1サイクルごとのダメージ乗数に0.33%のペナルティ付与\n\nセット効果：全てのミメシスインプラントの第2効果が20%増加"
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1.25% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "ja": "DEDの目録によると、この接眼フィルターは、CONCORD兵器技術者による標準的なカプセラインプラントテンプレートの改造版で、その制御ルーチンは、粒子流量の出力最大化に時間がかかるようになるのと引き換えに火力を向上させるという、トリグラビアン兵器からリバースエンジニアリングされた理論の模倣である。\r\n\r\nしかし、ニューエデンのカプセラ、トランスヒューマン、ワイヤーヘッドのコミュニティの間では、これらのインプラントを作った研究開発グループは、いわゆる「制限された人工知能」の専門知識を持ったコンシャスソウト学会のチームが主導しているという噂が根強くある。これらのインプラントがRAI技術に基づいている可能性は、オーグメンテーションに関与する「ミメシス」の性質について、驚くべき疑問を投げかけている。\r\n\r\n第1効果： 知覚が3ポイント増加\r\n\r\n第2効果：エントロピックディスインテグレーターの最大ダメージ出力が1.25%増加\r\n\r\n第3効果：エントロピックディスインテグレーターの1サイクルごとのダメージ乗数に0.33%のペナルティ付与\r\n\r\nセット効果：全てのミメシスインプラントの第2効果が20%増加"
     },
     "552092": {
         "en": "This memory augmentation is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Memory\r\n\r\nSecondary Effect: 1.75% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
@@ -966200,8 +966200,8 @@
         "ja": "ハイグレード・ミメシス・アルファ"
     },
     "552377": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
-        "ja": "DEDの目録によると、この接眼フィルターは、CONCORD兵器技術者による標準的なカプセラインプラントテンプレートの改造版で、その制御ルーチンは、粒子流量の出力最大化に時間がかかるようになるのと引き換えに火力を向上させるという、トリグラビアン兵器からリバースエンジニアリングされた理論の模倣である。\n\nしかし、ニューエデンのカプセラ、トランスヒューマン、ワイヤーヘッドのコミュニティの間では、これらのインプラントを作った研究開発グループは、いわゆる「制限された人工知能（RAI）」の専門知識を持ったコンシャスソウト学会のチームが主導しているという噂が根強くある。これらのインプラントがRAI技術に基づいている可能性は、アグメンテーションに関与する「ミメシス」の性質について、驚くべき疑問を投げかけている。\n\n第1効果：知覚が4ポイント増加\n\n第2効果：エントロピックディスインテグレーターの最大ダメージ出力が1.5%増加\n\n第3効果：エントロピックディスインテグレーターの1サイクルごとのダメージ乗数に0.33%のペナルティ付与\n\nセット効果：全てのミメシスインプラントの第2効果が20%増加"
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1.5% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "ja": "DEDの目録によると、この接眼フィルターは、CONCORD兵器技術者による標準的なカプセラインプラントテンプレートの改造版で、その制御ルーチンは、粒子流量の出力最大化に時間がかかるようになるのと引き換えに火力を向上させるという、トリグラビアン兵器からリバースエンジニアリングされた理論の模倣である。\r\n\r\nしかし、ニューエデンのカプセラ、トランスヒューマン、ワイヤーヘッドのコミュニティの間では、これらのインプラントを作った研究開発グループは、いわゆる「制限された人工知能（RAI）」の専門知識を持ったコンシャスソウト学会のチームが主導しているという噂が根強くある。これらのインプラントがRAI技術に基づいている可能性は、アグメンテーションに関与する「ミメシス」の性質について、驚くべき疑問を投げかけている。\r\n\r\n第1効果：知覚が4ポイント増加\r\n\r\n第2効果：エントロピックディスインテグレーターの最大ダメージ出力が1.5%増加\r\n\r\n第3効果：エントロピックディスインテグレーターの1サイクルごとのダメージ乗数に0.33%のペナルティ付与\r\n\r\nセット効果：全てのミメシスインプラントの第2効果が20%増加"
     },
     "552378": {
         "en": "High-grade Mimesis Beta",
@@ -966528,7 +966528,7 @@
         "ja": "超大型プリカーサー兵器の使用。レベルが上がるごとに超大型プリカーサー兵器の与ダメージが5%増加。"
     },
     "552502": {
-        "en": "Skill at operating precursor dreadnoughts.",
+        "en": "Skill for the operation of precursor dreadnoughts.",
         "ja": "プリカーサー攻城艦を操作するためのスキル。"
     },
     "552509": {
@@ -974128,8 +974128,8 @@
         "ja": "ミディアムグレード・ニルヴァーナ・アルファ"
     },
     "555287": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 10% bonus to the strength of all Nirvana implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\n第1効果： 知覚が3ポイント増加\r\n\n第2効果：シールドHPが1%増加\r\n\nセット効果：全てのニルヴァーナインプラントの第2効果が10%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nirvana implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\r\n第1効果： 知覚が3ポイント増加\r\n\r\n第2効果：シールドHPが1%増加\r\n\r\nセット効果：全てのニルヴァーナインプラントの第2効果が10%増加"
     },
     "555288": {
         "en": "Mid-grade Nirvana Beta",
@@ -974200,8 +974200,8 @@
         "ja": "ハイグレード・ニルヴァーナ・アルファ"
     },
     "555305": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 15% bonus to the strength of all Nirvana implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\n第1効果：知覚が4ポイント増加\r\n\n第2効果：シールドHPが1%増加\r\n\nセット効果：全てのニルヴァーナインプラントの第2効果が15%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 15% bonus to the strength of all Nirvana implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\r\n第1効果：知覚が4ポイント増加\r\n\r\n第2効果：シールドHPが1%増加\r\n\r\nセット効果：全てのニルヴァーナインプラントの第2効果が15%増加"
     },
     "555306": {
         "en": "High-grade Nirvana Beta",
@@ -974692,16 +974692,16 @@
         "ja": "ローグレード・ニルヴァーナアルファ"
     },
     "556160": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\n第1効果： 知覚が2ポイント増加\r\n\n第2効果：シールドHPが1%増加\r\n\nセット効果：全てのニルヴァナインプラントの第2効果が2.5%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\r\n第1効果： 知覚が2ポイント増加\r\n\r\n第2効果：シールドHPが1%増加\r\n\r\nセット効果：全てのニルヴァナインプラントの第2効果が2.5%増加"
     },
     "556161": {
         "en": "Low-grade Nirvana Alpha",
         "ja": "ローグレード・ニルヴァーナアルファ"
     },
     "556162": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\n第1効果： 知覚が2ポイント増加\r\n\n第2効果：シールドHPが1%増加\r\n\nセット効果：全てのニルヴァナインプラントの第2効果が2.5%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでシールドHPが増加する。\r\n\r\n第1効果： 知覚が2ポイント増加\r\n\r\n第2効果：シールドHPが1%増加\r\n\r\nセット効果：全てのニルヴァナインプラントの第2効果が2.5%増加"
     },
     "556163": {
         "en": "Guardians Gala VIP",
@@ -975756,7 +975756,7 @@
         "ja": "ハイグレード・セイビアーアルファ"
     },
     "559003": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 15% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 15% bonus to the strength of all Savior implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した視覚フィルター。\r\n\r\n第1効果：知覚が4ポイント増加\r\n\r\n第2効果：キャピタル未満のリモートアーマーリペアラとリモートシールドブースターの、サイクル時間と起動時のキャパシタコストを1%減少させる\r\n\r\nセット効果：全てのセイビアーインプラントの第2効果が15%増加"
     },
     "559010": {
@@ -975816,7 +975816,7 @@
         "ja": "ミディアムグレード・セイビアーアルファ"
     },
     "559024": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 10% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 10% bonus to the strength of all Savior implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した視覚フィルター。\r\n\r\n第1効果：知覚が3ポイント増加\r\n\r\n第2効果：キャピタル未満のリモートアーマーリペアラとリモートシールドブースターの、サイクル時間と起動時のキャパシタコストを1%減少させる\r\n\r\nセット効果：全てのセイビアーインプラントの第2効果が10%増加"
     },
     "559025": {
@@ -975864,7 +975864,7 @@
         "ja": "ローグレード・セイビアーアルファ"
     },
     "559036": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 2.5% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Savior implant secondary effects",
         "ja": "エンジェルの科学者がエリート士官向けに改良した視覚フィルター。\r\n\r\n第1効果：知覚が2ポイント増加\r\n\r\n第2効果：キャピタル未満のリモートアーマーリペアラとリモートシールドブースターの、サイクル時間と起動時のキャパシタコストを1%減少させる\r\n\r\nセット効果：全てのセイビアーインプラントの第2効果が2.5%増加"
     },
     "559037": {
@@ -981556,8 +981556,8 @@
         "ja": "ハイグレード・ハイドラ・アルファ"
     },
     "562530": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
-        "ja": "ガリスタスの科学者がエリート士官向けに改良した視覚フィルタ。\r\n\n第1効果：知覚が4ポイント増加\r\n\n第2効果：ドローンの追跡速度、ドローンの最適射程距離、ドローンの減衰距離、ミサイルの飛行時間、ミサイルの爆発速度に1%のボーナスを与える\r\n\nセット効果：全てのハイドラインプラントの第2効果が15%増加\r\n\n注：艦載戦闘機には無効"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "ja": "ガリスタスの科学者がエリート士官向けに改良した視覚フィルタ。\r\n\r\n第1効果：知覚が4ポイント増加\r\n\r\n第2効果：ドローンの追跡速度、ドローンの最適射程距離、ドローンの減衰距離、ミサイルの飛行時間、ミサイルの爆発速度に1%のボーナスを与える\r\n\r\nセット効果：全てのハイドラインプラントの第2効果が15%増加\r\n\r\n注：艦載戦闘機には無効"
     },
     "562531": {
         "en": "High-grade Hydra Beta",
@@ -981624,8 +981624,8 @@
         "ja": "ミディアムグレード・ハイドラ・アルファ"
     },
     "562547": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
-        "ja": "ガリスタスの科学者がエリート士官向けに改良した視覚フィルタ。\r\n\n第1効果：知覚が3ポイント増加\r\n\n第2効果: ドローンのトラッキング速度、ドローンの最適射程距離、ドローンの精度低下範囲、ミサイルの飛行時間、ミサイルの爆発速度に1%のボーナスを与える\r\n\nセット効果：全てのハイドラインプラントの第2効果が10%増加\r\n\n注：艦載戦闘機には無効。"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "ja": "ガリスタスの科学者がエリート士官向けに改良した視覚フィルタ。\r\n\r\n第1効果：知覚が3ポイント増加\r\n\r\n第2効果: ドローンのトラッキング速度、ドローンの最適射程距離、ドローンの精度低下範囲、ミサイルの飛行時間、ミサイルの爆発速度に1%のボーナスを与える\r\n\r\nセット効果：全てのハイドラインプラントの第2効果が10%増加\r\n\r\n注：艦載戦闘機には無効。"
     },
     "562548": {
         "en": "Mid-grade Hydra Beta",
@@ -981672,8 +981672,8 @@
         "ja": "ローグレード・ハイドラ・アルファ"
     },
     "562559": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
-        "ja": "ガリスタスの科学者がエリート士官向けに改良した視覚フィルタ。\r\n\n第1効果：知覚が2ポイント増加\r\n\n第2効果: ドローンのトラッキング速度、ドローンの最適射程距離、ドローンの精度低下範囲、ミサイルの飛行時間、ミサイルの爆発速度に1%のボーナスを与える\r\n\nセット効果：全てのハイドラインプラントの第2効果が2.5%増加\r\n\n注：艦載戦闘機には無効"
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "ja": "ガリスタスの科学者がエリート士官向けに改良した視覚フィルタ。\r\n\r\n第1効果：知覚が2ポイント増加\r\n\r\n第2効果: ドローンのトラッキング速度、ドローンの最適射程距離、ドローンの精度低下範囲、ミサイルの飛行時間、ミサイルの爆発速度に1%のボーナスを与える\r\n\r\nセット効果：全てのハイドラインプラントの第2効果が2.5%増加\r\n\r\n注：艦載戦闘機には無効"
     },
     "562560": {
         "en": "Low-grade Hydra Beta",
@@ -1009392,8 +1009392,8 @@
         "ja": "ローグレード・ラプチャー・アルファ"
     },
     "573194": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 2.5% bonus to the strength of all Rapture implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでキャパシタ充電速度が上昇する。\n\n\n\n第1効果：知覚が2ポイント増加\n\n\n\n第2効果：キャパシタのリチャージ時間が1%短縮。\n\n\n\nセット効果：全てのラプチャーインプラントの第2効果が2.5%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Rapture implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでキャパシタ充電速度が上昇する。\r\n\r\n\r\n\r\n第1効果：知覚が2ポイント増加\r\n\r\n\r\n\r\n第2効果：キャパシタのリチャージ時間が1%短縮。\r\n\r\n\r\n\r\nセット効果：全てのラプチャーインプラントの第2効果が2.5%増加"
     },
     "573195": {
         "en": "Low-grade Rapture Beta",
@@ -1009448,8 +1009448,8 @@
         "ja": "ミディアムグレード・ラプチャー・アルファ"
     },
     "573208": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 10% bonus to the strength of all Rapture implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでキャパシタ充電速度が上昇する。\n\n\n\n第1効果：知覚が3ポイント増加\n\n\n\n第2効果：キャパシタのリチャージ時間が1%短縮。\n\n\n\nセット効果：全てのラプチャーインプラントの第2効果が10%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 10% bonus to the strength of all Rapture implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでキャパシタ充電速度が上昇する。\r\n\r\n\r\n\r\n第1効果：知覚が3ポイント増加\r\n\r\n\r\n\r\n第2効果：キャパシタのリチャージ時間が1%短縮。\r\n\r\n\r\n\r\nセット効果：全てのラプチャーインプラントの第2効果が10%増加"
     },
     "573209": {
         "en": "Mid-grade Rapture Beta",
@@ -1009496,8 +1009496,8 @@
         "ja": "ハイグレード・ラプチャー・アルファ"
     },
     "573220": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 15% bonus to the strength of all Rapture implant secondary effects",
-        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでキャパシタ充電速度が上昇する。\n\n\n\n第1効果：知覚が4ポイント増加\n\n\n\n第2効果：キャパシタのリチャージ時間が1%短縮。\n\n\n\nセット効果：全てのラプチャーインプラントの第2効果が15%増加"
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 15% bonus to the strength of all Rapture implant secondary effects",
+        "ja": "サンシャ国の技術を流用して作られたと考えられる接眼レンズフィルター。国家や関連組織のエリートパイロットが使用すると思われる。同じセットの他インプラントと併用することでキャパシタ充電速度が上昇する。\r\n\r\n\r\n\r\n第1効果：知覚が4ポイント増加\r\n\r\n\r\n\r\n第2効果：キャパシタのリチャージ時間が1%短縮。\r\n\r\n\r\n\r\nセット効果：全てのラプチャーインプラントの第2効果が15%増加"
     },
     "573221": {
         "en": "High-grade Rapture Beta",
@@ -1108596,7 +1108596,7 @@
         "ja": "ランサー攻城艦"
     },
     "662253": {
-        "en": "Skill at operating Lancer Dreadnoughts.",
+        "en": "Skill for the operation of Lancer Dreadnoughts.",
         "ja": "ランサー攻城艦を操縦するためのスキル。"
     },
     "662254": {
@@ -1126320,7 +1126320,7 @@
         "ja": "アップウェルのハウラー"
     },
     "709034": {
-        "en": "Skill at operating Upwell Consortium haulers.",
+        "en": "Skill for the operation of Upwell Consortium haulers.",
         "ja": "アップウェル・コンソーシアムのハウラーを操作するためのスキル。"
     },
     "709039": {
@@ -1126472,7 +1126472,7 @@
         "ja": "アップウェルの超大型輸送艦"
     },
     "709102": {
-        "en": "Skill at operating Upwell freighters.",
+        "en": "Skill for the operation of Upwell freighters.",
         "ja": "アップウェルの超大型輸送艦を操作するためのスキル。"
     },
     "709105": {
@@ -1170020,7 +1170020,7 @@
         "ja": "ローグレード・ウェッジ・アルファ"
     },
     "1011441": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "ja": "アップウェル・コンソーシアムがエリートセキュリティ専門家向けに改良した視覚フィルター。\r\n\r\n第1効果：知覚が2ポイント増加\r\n\r\n第2効果：搭乗中の艦船に装備されているデータ・遺物アナライザーのウイルスコヒーレンスを、さらに1ポイント増加させる"
     },
     "1011442": {
@@ -1170068,7 +1170068,7 @@
         "ja": "ミディアムグレード・ウェッジ・アルファ"
     },
     "1011453": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "ja": "アップウェル・コンソーシアムがエリートセキュリティ専門家向けに改良した視覚フィルター。\r\n\r\n第1効果：知覚が3ポイント増加\r\n\r\n第2効果：搭乗中の艦船に装備されているデータ・遺物アナライザーのウイルスコヒーレンスを、さらに2ポイント増加させる"
     },
     "1011454": {
@@ -1180320,7 +1180320,7 @@
         "ja": "採掘用駆逐艦"
     },
     "1016659": {
-        "en": "Skill at operating ORE Mining Destroyers",
+        "en": "Skill for the operation of ORE Mining Destroyers",
         "ja": "OREの採掘用駆逐艦の操縦スキル"
     },
     "1016660": {
@@ -1181588,7 +1181588,7 @@
         "ja": "指揮型探査船"
     },
     "1017837": {
-        "en": "Skill at operating expedition command ships.",
+        "en": "Skill for the operation of expedition command ships.",
         "ja": "指揮型探査船を操縦するためのスキル。"
     },
     "1017838": {
@@ -1221636,7 +1221636,7 @@
         "ja": "指揮型艦載機母艦"
     },
     "1043213": {
-        "en": "Skill at operating Command Carriers.",
+        "en": "Skill for the operation of Command Carriers.",
         "ja": "指揮型艦載機母艦の操作スキル"
     },
     "1043214": {
@@ -1244804,7 +1244804,7 @@
         "ja": "艦船にダメージを与えたカプセラ、またはそのカプセラが所属している必要のある組織（コーポレーション、アライアンス、勢力）。"
     },
     "1058621": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ja": "「征服」サルベージャー"
     },
     "1058622": {
@@ -1244812,19 +1244812,19 @@
         "ja": "艦船の残骸からサルベージ可能なアイテムを探知するための専用スキャナー。"
     },
     "1058623": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ja": "「征服」サルベージャー"
     },
     "1058624": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ja": "「征服」サルベージャー"
     },
     "1058625": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ja": "「征服」サルベージャー"
     },
     "1058626": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "ja": "「征服」サルベージャー"
     },
     "1058627": {
@@ -1246710,5 +1246710,33 @@
     "1063128": {
         "en": "Imperial Navy Stasis Webifier Blueprint",
         "ja": "帝国海軍仕様ステイシスウェビファイヤーの設計図"
+    },
+    "1063517": {
+        "en": "22nd Alliance Tournament: Deteriorated",
+        "ja": ""
+    },
+    "1063518": {
+        "en": "<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
+        "ja": ""
+    },
+    "1065084": {
+        "en": "Military Campaigns - Update!",
+        "ja": "軍事キャンペーン - アップデート！ "
+    },
+    "1065085": {
+        "en": "Four objectives available. Gather and spend tokens on rare apparel, boosters, new modules & SKINs.",
+        "ja": "4 つの目標が利用可能。トークンを集めてレアなアパレル、ブースター、新モジュール、 SKIN を入手！ "
+    },
+    "1065086": {
+        "en": "Complete achievements for up to 1.2M SP, Penumbral Shadows SKINs, and titles.",
+        "ja": "実績達成で最大 120 万 SP、ペナンブラルシャドウ SKIN、称号を獲得しよう。"
+    },
+    "1065097": {
+        "en": "Run special SARO Black Sites for extra campaign drops. Find them with the map's Activity filter.",
+        "ja": " 特別な SARO ブラックサイトで追加キャンペーンドロップを獲得。マップのアクティビ ティフィルターを使おう。"
+    },
+    "1065098": {
+        "en": "Now more sites, each dropping more items, and you earn more. Open Theaters of War to join the race!",
+        "ja": "サイトとアイテムが増加して稼ぎが向上。「シアターズ・オブ・ウォー」を開いて参戦！ "
     }
 }
