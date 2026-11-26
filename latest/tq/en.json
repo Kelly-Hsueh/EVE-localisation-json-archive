@@ -837618,7 +837618,7 @@
         "en": "Soldiers band together to fight other capsuleers in the lawless reaches beyond high security space."
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets."
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets."
     },
     "669890": {
         "en": "Industrialists turn a profit by harvesting the materials and building the machines that make life in space possible."
@@ -927498,7 +927498,7 @@
         "en": "Remote Shield Boost"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp."
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp"
     },
     "1053139": {
         "en": ""
@@ -931956,7 +931956,7 @@
         "en": "Raspite Offerings"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore"
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore."
     },
     "1056624": {
         "en": ""
@@ -931995,7 +931995,7 @@
         "en": "Raspite Mountain"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n"
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n"
     },
     "1056643": {
         "en": ""
@@ -935039,6 +935039,90 @@
     "1063518": {
         "en": "<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>"
     },
+    "1064554": {
+        "en": "Frost Thorn"
+    },
+    "1064555": {
+        "en": "Frost Thorn"
+    },
+    "1064556": {
+        "en": "Frost Thorn"
+    },
+    "1064557": {
+        "en": "Frost Thorn"
+    },
+    "1064558": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064559": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064560": {
+        "en": "Oracle Navy Issue Frost Thorn SKIN"
+    },
+    "1064561": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064562": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064563": {
+        "en": "Coercer Navy Issue Frost Thorn SKIN"
+    },
+    "1064564": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064565": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064566": {
+        "en": "Naga Navy Issue Frost Thorn SKIN"
+    },
+    "1064567": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064568": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064569": {
+        "en": "Cormorant Navy Issue Frost Thorn SKIN"
+    },
+    "1064570": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064571": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064572": {
+        "en": "Talos Navy Issue Frost Thorn SKIN"
+    },
+    "1064573": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064574": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064575": {
+        "en": "Catalyst Navy Issue Frost Thorn SKIN"
+    },
+    "1064576": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064577": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064578": {
+        "en": "Tornado Fleet Issue Frost Thorn SKIN"
+    },
+    "1064579": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064580": {
+        "en": "Black ice and frozen crimson veins encase this hull, sealing it in a winter that never thaws. The Frost Thorn nanocoating remembers every kill: with each victory, thorns of ice break through the frozen plating and flare a brilliant blue, until a fully awakened Frost Thorn leaves a trail of frost in its wake."
+    },
+    "1064581": {
+        "en": "Thrasher Fleet Issue Frost Thorn SKIN"
+    },
     "1065084": {
         "en": "Military Campaigns - Update!"
     },
@@ -935053,5 +935137,95 @@
     },
     "1065098": {
         "en": "Now more sites, each dropping more items, and you earn more. Open Theaters of War to join the race!"
+    },
+    "1065099": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065100": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065101": {
+        "en": "Sigil Mabebu Exchange SKIN"
+    },
+    "1065102": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065103": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065104": {
+        "en": "Impel Mabebu Exchange SKIN"
+    },
+    "1065105": {
+        "en": "Mabebu Exchange (Caldari Primary)"
+    },
+    "1065106": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065107": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065108": {
+        "en": "Badger Mabebu Exchange SKIN"
+    },
+    "1065109": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065110": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065111": {
+        "en": "Crane Mabebu Exchange SKIN"
+    },
+    "1065112": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065113": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065114": {
+        "en": "Iteron Mark V Mabebu Exchange SKIN"
+    },
+    "1065115": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065116": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065117": {
+        "en": "Nereus Mabebu Exchange SKIN"
+    },
+    "1065127": {
+        "en": "Mabebu Exchange (Minmatar Primary)"
+    },
+    "1065128": {
+        "en": "Mabebu Exchange (Upwell Freighter)"
+    },
+    "1065132": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065133": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065134": {
+        "en": "Prowler Mabebu Exchange SKIN"
+    },
+    "1065135": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065136": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065137": {
+        "en": "Wreathe Mabebu Exchange SKIN"
+    },
+    "1065138": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065139": {
+        "en": "Hardworking people make the goods we consume and provide the services we need to keep our economy alive. I’d rather be smart than hardworking.\r\n- Unknown day trader."
+    },
+    "1065140": {
+        "en": "Avalanche Mabebu Exchange SKIN"
     }
 }

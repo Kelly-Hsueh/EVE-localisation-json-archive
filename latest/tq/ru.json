@@ -1116824,7 +1116824,7 @@
         "ru": "Солдаты объединяются вместе, чтобы сражаться с другими капсулёрами в опасных системах Нового Эдема, где царит настоящее беззаконие."
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "ru": "Исследователи изучают самые укромные уголки Нового Эдема. Они взламывают различные системы и раскрывают множество тайн."
     },
     "669890": {
@@ -1236664,7 +1236664,7 @@
         "ru": "Дистанционная накачка щита"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "ru": "Восстановите {amount} ед. прочности щита другого судна с помощью модуля дистанционной накачки щитов"
     },
     "1053139": {
@@ -1242608,7 +1242608,7 @@
         "ru": "Распит в дар"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "ru": "Добудьте {[numeric]amount, useGrouping} ед. распита."
     },
     "1056624": {
@@ -1242660,7 +1242660,7 @@
         "ru": "Горы распита"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "ru": "Добудьте {[numeric]amount, useGrouping} ед. распита.\r\n"
     },
     "1056643": {

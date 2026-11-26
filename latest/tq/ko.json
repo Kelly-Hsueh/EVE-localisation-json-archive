@@ -1116824,7 +1116824,7 @@
         "ko": "군인은 전투조직을 결성해 하이 시큐리티 너머의 무법지대에서 다른 캡슐리어를 사냥합니다."
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "ko": "탐험가는 탐사와 해킹 위주로 활동하며 우주 곳곳에 숨겨진 비밀을 밝혀냅니다."
     },
     "669890": {
@@ -1236664,7 +1236664,7 @@
         "ko": "원격 실드 부스터"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "ko": "다른 캡슐리어에게 원격 실드 부스터로 실드 {amount} 회복하기"
     },
     "1053139": {
@@ -1242608,7 +1242608,7 @@
         "ko": "라스파이트 공물"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "ko": "라스파이트 광물 {[numeric]amount, useGrouping}유닛 채굴하기"
     },
     "1056624": {
@@ -1242660,7 +1242660,7 @@
         "ko": "라스파이트 산"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "ko": "라스파이트 광물 {[numeric]amount, useGrouping}유닛 채굴하기\r\n"
     },
     "1056643": {

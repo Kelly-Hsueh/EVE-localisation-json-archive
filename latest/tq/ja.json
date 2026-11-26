@@ -1116824,7 +1116824,7 @@
         "ja": "兵士たちは団結し、ハイセキュリティ宙域の外に広がる無法地帯で他のカプセラと戦います。"
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "ja": "探検家は星団の隠れた部分を調査しています。システムをハッキングして秘密を明らかにしているのです。"
     },
     "669890": {
@@ -1236664,7 +1236664,7 @@
         "ja": "リモートシールドブースト"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "ja": "リモートシールドブースターを使用して、他のカプセラのシールドを{amount}HP増加させる。"
     },
     "1053139": {
@@ -1242608,7 +1242608,7 @@
         "ja": "ラスパイトの奉納"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "ja": "ラスパイト鉱石を{[numeric]amount, useGrouping}ユニット採掘する。"
     },
     "1056624": {
@@ -1242660,7 +1242660,7 @@
         "ja": "ラスパイトの山"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "ja": "ラスパイト鉱石を{[numeric]amount, useGrouping}ユニット採掘する。"
     },
     "1056643": {

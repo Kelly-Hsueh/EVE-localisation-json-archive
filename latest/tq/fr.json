@@ -1116824,7 +1116824,7 @@
         "fr": "Les soldats s'unissent pour combattre d'autres capsuliers dans les confins anarchiques au-delà de l'espace de haute sécurité."
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "fr": "Les explorateurs sondent les recoins cachés de la galaxie : ils piratent des systèmes et révèlent des secrets."
     },
     "669890": {
@@ -1236664,7 +1236664,7 @@
         "fr": "Boost de bouclier à distance"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "fr": "Utilisez un booster de bouclier à distance pour augmenter le bouclier d'un autre capsulier de {amount} PV."
     },
     "1053139": {
@@ -1242608,7 +1242608,7 @@
         "fr": "Offrandes de raspite"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "fr": "Extrayez {[numeric]amount, useGrouping} unités de minerai de raspite"
     },
     "1056624": {
@@ -1242660,7 +1242660,7 @@
         "fr": "Montagne de raspite"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "fr": "Extrayez {[numeric]amount, useGrouping} unités de minerai de raspite\r\n"
     },
     "1056643": {

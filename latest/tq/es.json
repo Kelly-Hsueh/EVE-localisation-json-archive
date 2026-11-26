@@ -1116824,7 +1116824,7 @@
         "es": "Los soldados se unen para luchar contra otros capsulistas en las zonas anárquicas más allá del espacio de seguridad alta."
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "es": "Los exploradores investigan los rincones ocultos del cúmulo, hackeando sistemas y descubriendo secretos."
     },
     "669890": {
@@ -1236664,7 +1236664,7 @@
         "es": "Potenciación de escudo remoto"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "es": "Usa un potenciador de escudo remoto para potenciar el escudo de otro capsulista en {amount} PV."
     },
     "1053139": {
@@ -1242608,7 +1242608,7 @@
         "es": "Oferta de raspita"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "es": "Extrae {[numeric]amount, useGrouping} unidades de mena de raspita."
     },
     "1056624": {
@@ -1242660,7 +1242660,7 @@
         "es": "Montaña de raspita"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "es": "Extrae {[numeric]amount, useGrouping} unidades de mena de raspita."
     },
     "1056643": {

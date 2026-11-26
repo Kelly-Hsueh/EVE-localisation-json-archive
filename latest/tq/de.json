@@ -1116824,7 +1116824,7 @@
         "de": "Soldaten schließen sich zusammen, um andere Kapselpiloten in den gesetzlosen Weiten jenseits des Hochsicherheitsraums zu bekämpfen."
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "de": "Entdecker untersuchen die verborgenen Ecken des Clusters, hacken Systeme und entdecken Geheimnisse."
     },
     "669890": {
@@ -1236664,7 +1236664,7 @@
         "de": "Schildfernboost"
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "de": "Verwenden Sie einen Schildfernbooster, um den Schild eines anderen Kapselpiloten um {amount} HP zu verstärken."
     },
     "1053139": {
@@ -1242608,7 +1242608,7 @@
         "de": "Raspit-Spenden"
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "de": "Bauen Sie {[numeric]amount, useGrouping} Einheiten Raspit-Erz ab."
     },
     "1056624": {
@@ -1242660,7 +1242660,7 @@
         "de": "Raspit-Berg"
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "de": "Bauen Sie {[numeric]amount, useGrouping} Einheiten Raspit-Erz ab.\r\n"
     },
     "1056643": {
