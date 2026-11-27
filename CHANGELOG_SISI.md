@@ -4,6 +4,7 @@ Full per-build details live under `changelog/sisi/`. This file is a lightweight 
 
 | Date | Build | Added | Modified | Removed |
 |------|-------|-------|----------|---------|
+| 2026-11-27 | [3747624](changelog/sisi/2026-Q4/3747624.md) | 76 | 4313 | 21 |
 | 2026-11-06 | [3678022](changelog/sisi/2026-Q4/3678022.md) | 2933 | 981 | 136 |
 | 2026-10-07 | [3590715](changelog/sisi/2026-Q4/3590715.md) | 630 | 23 | 14 |
 | 2026-10-03 | [3573966](changelog/sisi/2026-Q4/3573966.md) | 28747 | 11964 | 1521 |

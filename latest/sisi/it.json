@@ -24272,7 +24272,7 @@
         "it": "Inner Circle è il dipartimento principale di CONCORD. Le politiche di CONCORD sono discusse e decise negli incontri tenuti da Inner Circle, che solitamente sono chiusi al pubblico. Inizialmente i membri del circolo venivano nominati dagli imperi, ma ora sono dei dipendenti di CONCORD che fanno carriera. Così, la loro lealtà non è più vincolata ad alcun impero, ma piuttosto alla CONCORD stessa."
     },
     "61118": {
-        "en": "Formerly the Intaki Bank, it was renamed to embrace its identy as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
+        "en": "Formerly the Intaki Bank, it was renamed to embrace its identity as part of the unique region, moving away from its Federation-Intaki roots after being brought into the Caldari State in YC128. This change was the result of the State Corridor campaign and the 17,079 capsuleers who contributed to its success.\r\n\r\nThe bank has thrived even more under State oversight, partly as it was given special dispensation by the Caldari Business Tribunal to maintain its policy of client anonymity. This privacy is very useful to less-than-legitimate business dealers, but it also helps the State and its megacorporations handle some of their own more clandestine affairs. ",
         "it": "La Intaki Bank ha fatto ottimi affari nell'ultimo decennio. Ovvero, da quando ha deciso di mantenere segreti e inaccessibili i nomi di tutti i conti. Tutti sanno che nella banca circola denaro sporco, ma l'opinione generale del Syndicate è che se la banca non fornisce questo servizio, allora lo farà qualcun altro."
     },
     "61119": {
@@ -84616,7 +84616,7 @@
         "it": ""
     },
     "77886": {
-        "en": "You have no assets in the region.",
+        "en": "You have no assets in the region",
         "it": ""
     },
     "77887": {
@@ -116776,83 +116776,83 @@
         "it": ""
     },
     "87338": {
-        "en": "Skill at operating Gallente frigates.",
+        "en": "Skill for the operation of Gallente frigates.",
         "it": ""
     },
     "87339": {
-        "en": "Skill at operating Minmatar frigates.",
+        "en": "Skill for the operation of Minmatar frigates.",
         "it": ""
     },
     "87340": {
-        "en": "Skill at operating Caldari frigates.",
+        "en": "Skill for the operation of Caldari frigates.",
         "it": ""
     },
     "87341": {
-        "en": "Skill at operating Amarr frigates.",
+        "en": "Skill for the operation of Amarr frigates.",
         "it": ""
     },
     "87342": {
-        "en": "Skill at operating Gallente cruisers.",
+        "en": "Skill for the operation of Gallente cruisers.",
         "it": ""
     },
     "87343": {
-        "en": "Skill at operating Minmatar cruisers.",
+        "en": "Skill for the operation of Minmatar cruisers.",
         "it": ""
     },
     "87344": {
-        "en": "Skill at operating Caldari cruisers.",
+        "en": "Skill for the operation of Caldari cruisers.",
         "it": ""
     },
     "87345": {
-        "en": "Skill at operating Amarr cruisers.",
+        "en": "Skill for the operation of Amarr cruisers.",
         "it": ""
     },
     "87346": {
-        "en": "Skill at operating Gallente battleships.",
+        "en": "Skill for the operation of Gallente battleships.",
         "it": ""
     },
     "87347": {
-        "en": "Skill at operating Minmatar battleships.",
+        "en": "Skill for the operation of Minmatar battleships.",
         "it": ""
     },
     "87348": {
-        "en": "Skill at operating Caldari battleships.",
+        "en": "Skill for the operation of Caldari battleships.",
         "it": ""
     },
     "87349": {
-        "en": "Skill at operating Amarr battleships.",
+        "en": "Skill for the operation of Amarr battleships.",
         "it": ""
     },
     "87350": {
-        "en": "Skill at operating Gallente hauler ships.",
+        "en": "Skill for the operation of Gallente hauler ships.",
         "it": ""
     },
     "87351": {
-        "en": "Skill at operating Minmatar hauler ships.",
+        "en": "Skill for the operation of Minmatar hauler ships.",
         "it": ""
     },
     "87352": {
-        "en": "Skill at operating Caldari hauler ships.",
+        "en": "Skill for the operation of Caldari hauler ships.",
         "it": ""
     },
     "87353": {
-        "en": "Skill at operating Amarr hauler ships.",
+        "en": "Skill for the operation of Amarr hauler ships.",
         "it": ""
     },
     "87354": {
-        "en": "Skill at operating Gallente titans.",
+        "en": "Skill for the operation of Gallente titans.",
         "it": ""
     },
     "87355": {
-        "en": "Skill at operating Minmatar titans.",
+        "en": "Skill for the operation of Minmatar titans.",
         "it": ""
     },
     "87356": {
-        "en": "Skill at operating Caldari titans.",
+        "en": "Skill for the operation of Caldari titans.",
         "it": ""
     },
     "87357": {
-        "en": "Skill at operating Amarr titans.",
+        "en": "Skill for the operation of Amarr titans.",
         "it": ""
     },
     "87358": {
@@ -118784,11 +118784,11 @@
         "it": ""
     },
     "87847": {
-        "en": "Skill at operating Jovian hauler ships.",
+        "en": "Skill for the operation of Jovian hauler ships.",
         "it": ""
     },
     "87848": {
-        "en": "Skill at operating jove battleships.",
+        "en": "Skill for the operation of jove battleships.",
         "it": ""
     },
     "87849": {
@@ -119072,7 +119072,7 @@
         "it": ""
     },
     "87920": {
-        "en": "Skill at operating mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
+        "en": "Skill for the operation of mining lasers requiring Deep Core Mining. 10% reduction per skill level to the chance of a damage cloud forming while mining Mercoxit.",
         "it": ""
     },
     "87921": {
@@ -119560,7 +119560,7 @@
         "it": ""
     },
     "88048": {
-        "en": "Skill at operating Battlecruisers. Can not be trained on Trial Accounts.",
+        "en": "Skill for the operation of Battlecruisers. Can not be trained on Trial Accounts.",
         "it": ""
     },
     "88049": {
@@ -124112,7 +124112,7 @@
         "it": ""
     },
     "89195": {
-        "en": "Skill at operating ORE Mining Barges.",
+        "en": "Skill for the operation of ORE Mining Barges.",
         "it": ""
     },
     "89196": {
@@ -125548,7 +125548,7 @@
         "it": ""
     },
     "89626": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 15% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 15% bonus to the strength of all Talisman implant secondary effects",
         "it": ""
     },
     "89627": {
@@ -126048,15 +126048,15 @@
         "it": ""
     },
     "89775": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89776": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89777": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89778": {
@@ -126064,11 +126064,11 @@
         "it": ""
     },
     "89779": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89780": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Willpower\r\n\r\nSecondary Effect: 1.50% reduction in ship's signature radius\r\n\r\nSet Effect: 15% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.50% reduction in ship's signature radius\r\n<b>Set Effect:</b> 15% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89781": {
@@ -126080,35 +126080,35 @@
         "it": ""
     },
     "89783": {
-        "en": "Skill at operating Amarr freighters.",
+        "en": "Skill for the operation of Amarr freighters.",
         "it": ""
     },
     "89784": {
-        "en": "Skill at operating Amarr dreadnoughts.",
+        "en": "Skill for the operation of Amarr dreadnoughts.",
         "it": ""
     },
     "89785": {
-        "en": "Skill at operating Caldari freighters.",
+        "en": "Skill for the operation of Caldari freighters.",
         "it": ""
     },
     "89786": {
-        "en": "Skill at operating Gallente freighters.",
+        "en": "Skill for the operation of Gallente freighters.",
         "it": ""
     },
     "89787": {
-        "en": "Skill at operating Minmatar freighters.",
+        "en": "Skill for the operation of Minmatar freighters.",
         "it": ""
     },
     "89788": {
-        "en": "Skill at operating Caldari dreadnoughts.",
+        "en": "Skill for the operation of Caldari dreadnoughts.",
         "it": ""
     },
     "89789": {
-        "en": "Skill at operating Gallente dreadnoughts.",
+        "en": "Skill for the operation of Gallente dreadnoughts.",
         "it": ""
     },
     "89790": {
-        "en": "Skill at operating Minmatar dreadnoughts.",
+        "en": "Skill for the operation of Minmatar dreadnoughts.",
         "it": ""
     },
     "89791": {
@@ -126892,23 +126892,23 @@
         "it": ""
     },
     "89991": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89992": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89993": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +3 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +3 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89994": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89995": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 10% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 10% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "89996": {
@@ -126916,7 +126916,7 @@
         "it": ""
     },
     "89997": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 10% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 10% bonus to the strength of all Talisman implant secondary effects",
         "it": ""
     },
     "89998": {
@@ -127912,19 +127912,19 @@
         "it": ""
     },
     "90255": {
-        "en": "Skill at operating Amarr carriers.",
+        "en": "Skill for the operation of Amarr carriers.",
         "it": ""
     },
     "90256": {
-        "en": "Skill at operating Caldari carriers.",
+        "en": "Skill for the operation of Caldari carriers.",
         "it": ""
     },
     "90257": {
-        "en": "Skill at operating Gallente carriers.",
+        "en": "Skill for the operation of Gallente carriers.",
         "it": ""
     },
     "90258": {
-        "en": "Skill at operating Minmatar carriers.",
+        "en": "Skill for the operation of Minmatar carriers.",
         "it": ""
     },
     "90259": {
@@ -129268,7 +129268,7 @@
         "it": ""
     },
     "90668": {
-        "en": "Skill at operating Capital Industrial Ships.",
+        "en": "Skill for the operation of Capital Industrial Ships.",
         "it": ""
     },
     "90669": {
@@ -129712,7 +129712,7 @@
         "it": ""
     },
     "90785": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's locking speed bonus at the expense of the targeting range and sensor strength bonuses.",
         "it": ""
     },
     "90786": {
@@ -130056,23 +130056,23 @@
         "it": ""
     },
     "90871": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 10% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect: </b> 10% bonus to the strength of all Centurion implant secondary effects",
         "it": ""
     },
     "90872": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 10% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 10% bonus to the strength of all Edge implant secondary effects",
         "it": ""
     },
     "90873": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 10% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 10% bonus to the strength of all Harvest implant secondary effects",
         "it": ""
     },
     "90874": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 10% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nomad implant secondary effects",
         "it": ""
     },
     "90875": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 10% bonus to the strength of all Virtue implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 10% bonus to the strength of all Virtue implant secondary effects",
         "it": ""
     },
     "90876": {
@@ -131608,7 +131608,7 @@
         "it": ""
     },
     "91261": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "91262": {
@@ -131632,7 +131632,7 @@
         "it": ""
     },
     "91267": {
-        "en": "Skill at operating industrial command ships.",
+        "en": "Skill for the operation of industrial command ships.",
         "it": ""
     },
     "91268": {
@@ -131888,7 +131888,7 @@
         "it": ""
     },
     "91331": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "91332": {
@@ -131908,7 +131908,7 @@
         "it": ""
     },
     "91336": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Snake implant secondary effects",
         "it": ""
     },
     "91337": {
@@ -131928,7 +131928,7 @@
         "it": ""
     },
     "91341": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Snake implant secondary effects",
         "it": ""
     },
     "91342": {
@@ -132304,7 +132304,7 @@
         "it": ""
     },
     "91436": {
-        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>",
+        "en": "Passed on to the winners after every tournament, the magnificent Alliance Tournament cup is perhaps the most coveted prize in New Eden.\r\n\r\nGlory and fame await the holders, who had to defeat the competition posed by the elite combat teams of their opponents in the one of the most gruelling, bloody and exciting tournaments in existence. \r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 1st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 107 - 2nd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//632866070>Band of Brothers</url> Year 108 - 3rd Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1399057309>HUN Reloaded</url> Year 109 - 4th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//1438160193>Ev0ke</url> Year 110 - 5th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 6th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 111 - 7th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 112 - 8th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 113 - 9th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99001968>Verge of Collapse</url> Year 114 - 10th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 115 - 11th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004300>The Camel Empire</url> Year 116 - 12th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//386292982>Pandemic Legion</url> Year 117 - 13th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 118 - 14th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 119 - 15th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99006468>VYDRA RELOLDED</url> Year 120 - 16th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//551692893>HYDRA RELOADED</url> Year 123 - 17th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99011706>TRUTH. HONOR. LIGHT.</url> Year 124 - 18th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99003581>Fraternity.</url> Year 125 - 19th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 126 - 20th Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99004357>The Tuskers Co.</url> Year 127 - 21st Alliance Tournament Winners</div>\r\n\r\n<div style=\"text-align:center;\"><url=showinfo:16159//99012929>Deteriorated</url> Year 128 - 22nd Alliance Tournament Winners</div>",
         "it": ""
     },
     "91437": {
@@ -133592,7 +133592,7 @@
         "it": ""
     },
     "91768": {
-        "en": "Skill at operating Amarr Strategic Cruisers.",
+        "en": "Skill for the operation of Amarr Strategic Cruisers.",
         "it": ""
     },
     "91769": {
@@ -136724,35 +136724,35 @@
         "it": ""
     },
     "92557": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's radar sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's radar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Grail implant secondary effects. Set effect not cumulative with low-grade Grail implants",
         "it": ""
     },
     "92558": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to ship's Ladar sensor strength\n\nSet Effect: 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's Ladar sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Jackal implant secondary effects. Set effect not cumulative with low-grade Jackal implants",
         "it": ""
     },
     "92559": {
-        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of radar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Amarr scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of radar sensor strength to piloted ship",
         "it": ""
     },
     "92560": {
-        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of ladar sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Minmatar scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of ladar sensor strength to piloted ship",
         "it": ""
     },
     "92561": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of magnetometric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of magnetometric sensor strength to piloted ship",
         "it": ""
     },
     "92562": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of gravimetric sensor strength to piloted ship",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of gravimetric sensor strength to piloted ship",
         "it": ""
     },
     "92563": {
-        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's magnetometric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
+        "en": "This ocular filter has been modified by Gallente scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's magnetometric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Spur implant secondary effects. Set effect not cumulative with low-grade Spur implants",
         "it": ""
     },
     "92564": {
-        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to ship's gravimetric sensor strength\r\n\r\nSet Effect: 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
+        "en": "This ocular filter has been modified by Caldari scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to ship's gravimetric sensor strength\r\n<b>Set Effect:</b> 15% bonus to the strength of all high-grade Talon implant secondary effects. Set effect not cumulative with low-grade Talon implants",
         "it": ""
     },
     "92565": {
@@ -138496,15 +138496,15 @@
         "it": ""
     },
     "93035": {
-        "en": "Skill at operating Caldari Strategic Cruisers.",
+        "en": "Skill for the operation of Caldari Strategic Cruisers.",
         "it": ""
     },
     "93036": {
-        "en": "Skill at operating Gallente Strategic Cruisers.",
+        "en": "Skill for the operation of Gallente Strategic Cruisers.",
         "it": ""
     },
     "93037": {
-        "en": "Skill at operating Minmatar Strategic Cruisers.",
+        "en": "Skill for the operation of Minmatar Strategic Cruisers.",
         "it": ""
     },
     "93038": {
@@ -141592,7 +141592,7 @@
         "it": ""
     },
     "93826": {
-        "en": "Skill at operating ORE hauler ships.",
+        "en": "Skill for the operation of ORE hauler ships.",
         "it": ""
     },
     "93827": {
@@ -141864,7 +141864,7 @@
         "it": ""
     },
     "93894": {
-        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded Interbus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
+        "en": "InterBus commissioned Duvolle Laboratories to design them an upgraded shuttlecraft in YC 106. The result was this vessel, which combines compact size with a surprisingly large cargo hold - ideal for the multipurpose transportation that InterBus specializes in.\r\n\r\nThe ship remained a closely-guarded InterBus asset for many years, but in YC111 it was made available to select capsuleer pilots as part of an outreach programme intended to raise awareness of the InterBus brand among the growing capsuleer population. It remains, however, a very rare sight among the spacelanes and is considered by many to be a valuable collector's item.",
         "it": ""
     },
     "93895": {
@@ -147540,7 +147540,7 @@
         "it": ""
     },
     "95378": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a warp disruption field generator to focus its effect upon a single ship much like a standard warp disruptor. This allows the module to disrupt ships of any size, including ships normally immune to all forms of electronic warfare.",
         "it": ""
     },
     "95379": {
@@ -147960,7 +147960,7 @@
         "it": ""
     },
     "95483": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95484": {
@@ -149668,7 +149668,7 @@
         "it": ""
     },
     "95912": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95913": {
@@ -149944,7 +149944,7 @@
         "it": ""
     },
     "95981": {
-        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n<br>\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.<br>\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
+        "en": "\"The Maze\" is the name of this mysterious Gurista military complex. Most of those who have dared venture inside have not lived to tell about it, and those who are still alive are now labour workers for the Gurista.\r\n\r\nAlthough never confirmed, the deepest pockets of this complex are rumored to be the home of Fatal himself.\r\n\r\nDED Threat Assessment: Critical (10 of 10) ",
         "it": ""
     },
     "95982": {
@@ -247668,7 +247668,7 @@
         "it": ""
     },
     "125148": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "it": ""
     },
     "125149": {
@@ -247716,7 +247716,7 @@
         "it": ""
     },
     "125160": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
         "it": ""
     },
     "125161": {
@@ -247748,7 +247748,7 @@
         "it": ""
     },
     "125168": {
-        "en": "Bastion eliminated. All conversion research has been destroyed.<br>\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.<br>\r\nLet's get some loot.",
+        "en": "Bastion eliminated. All conversion research has been destroyed.\r\nThe souls trapped between free-willed human and True Slave have been released. I believe this qualifies as a bitter-sweet victory.\r\nLet's get some loot.",
         "it": ""
     },
     "125169": {
@@ -247764,7 +247764,7 @@
         "it": ""
     },
     "125173": {
-        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.<br><br>\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
+        "en": "The Archduke is eliminated. In approximately 18 seconds, the Nation security key will attempt to cycle and the Nation signal will be rendered into junk data.\r\nNow let's see if the Archduke dropped anything fun in its wreck.\r\n",
         "it": ""
     },
     "125174": {
@@ -319908,11 +319908,11 @@
         "it": ""
     },
     "144012": {
-        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point. ",
+        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point.",
         "it": ""
     },
     "144013": {
-        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there. ",
+        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there.",
         "it": ""
     },
     "144014": {
@@ -319924,7 +319924,7 @@
         "it": ""
     },
     "144016": {
-        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life! ",
+        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life!",
         "it": ""
     },
     "144017": {
@@ -321104,11 +321104,11 @@
         "it": ""
     },
     "144311": {
-        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point. ",
+        "en": "The daughter of a Caldari executive was kidnapped this morning by a group of slavers while she was on holiday. They are demanding we provide them a large quantity of our rarest and most expensive metal, quantrium, in exchange for her life. There is no time to mount a rescue operation, so our only choice is to provide this shipment immediately. We will deal with those criminals once the girl has been released to us. However, time is of the essence, and our primary mission now is to deliver this shipment to a transshipment station for further transportation to the slavers' designated rendezvous point.",
         "it": ""
     },
     "144312": {
-        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there. ",
+        "en": "Time is a factor here, so I will get to the point. The daughter of a prominent Caldari industrialist, CEO of a large scrap metal corporation, was kidnapped while she was on holiday with her school classmates. At the time of her abduction, she was in a lowsec system she should not have been in, one well known for its hedonistic night life.  Apparently, the girls each told a bit of a fib to their parents, indicating they were traveling to a much safer, highsec destination resort. Well, early this morning we received an urgent call from the executive's chief of security telling us that the daughter had been grabbed and thrown into a vehicle by some dangerous-looking men outside a bar after a night of drinking. <br><br>\nWhile we had hoped it was part of some prank or a misunderstanding as to what the girls really saw, our worst fears have been realized. We have been contacted, through a circuitous channel, by a notorious band of slavers. As proof of life, they have transmitted the daughter's DNA sequence to us. Analysis of this information has verified her identity. <br><br>\nThe kidnappers have given us a very short window in which we can secure the girl's safe release, after which they will sell her into slavery – and I don't want to even imagine what horrors that might entail. As expected, they are demanding a very large payoff in exchange for her life. Specifically, they want our entire stockpile of our rarest and most expensive metal, quantrium – one found only in the wiring of electronic countermeasures (ECM) equipment of the Caldari Navy's Rook-class combat reconnaissance ships. <br><br>\nWhat I need you to do is to quickly move this quantrium to the designated station for transshipment to the slavers' rendezvous point. We will take it from there.",
         "it": ""
     },
     "144313": {
@@ -321120,7 +321120,7 @@
         "it": ""
     },
     "144315": {
-        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life! ",
+        "en": "We were counting on you. You were our only hope for the safe return of the CEO's daughter. I hope your cowardice here today will haunt you for the rest of your miserable life!",
         "it": ""
     },
     "144316": {
@@ -321648,11 +321648,11 @@
         "it": ""
     },
     "144462": {
-        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure. ",
+        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure.",
         "it": ""
     },
     "144463": {
-        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure. ",
+        "en": "Thank you for agreeing to help us. We will have the quantrium moved into your item hangar as soon as possible. You have already been cleared for emergency departure.",
         "it": ""
     },
     "144464": {
@@ -673524,7 +673524,7 @@
         "it": ""
     },
     "237151": {
-        "en": "Force fade from black",
+        "en": "Force Fade from Black",
         "it": ""
     },
     "237152": {
@@ -676268,7 +676268,7 @@
         "it": "Costellazione"
     },
     "238053": {
-        "en": "chosen executor",
+        "en": "Chosen Executor",
         "it": ""
     },
     "238054": {
@@ -681676,7 +681676,7 @@
         "it": ""
     },
     "239609": {
-        "en": "Join fleet",
+        "en": "Join Fleet",
         "it": ""
     },
     "239610": {
@@ -704176,7 +704176,7 @@
         "it": ""
     },
     "263226": {
-        "en": "Faced with the prospect of maintaining order in Syndicate in YC128, a region beyond the reach of CONCORD, the Caldari Navy needed a new hard-hitting solution that would establish State authority through its intimidating presence alone. The Naga Navy Issue was commissioned in partnership with the megacorporations of the Mountain faction to ensure that the newly controlled region would witness the uncompromisable honor and strength of the Caldari.",
+        "en": "The Naga was designed in YC 109 by <a href=showinfo:2//1000043>Corporate Police Force</a> as an anti-<a href=showinfo:30//500010>Guristas</a> ship, sacrificing the usual robust <a href=showinfo:2//1000035>Caldari Navy</a> standards in favor of supporting battleship-class weaponry. It was rejected by <a href=showinfo:2//1000005>Hyasyoda</a> management for being overspecialized.\r\n\r\nThe Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series <i>CPF Blue</i>). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both <a href=showinfo:2//1000010>Kaalakiota</a> and <a href=showinfo:2//1000019>Ishukone</a>",
         "it": ""
     },
     "263227": {
@@ -711560,7 +711560,7 @@
         "it": ""
     },
     "267763": {
-        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy.  In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx.  This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
+        "en": "It has long been an established fact of civilization that wherever a seat of government lies, then so will a concentration of its subjects, the better to fuel the halls of bureaucracy. In this, the Republic has been no exception and in locating their Parliament and Justice Department in the Gedur constellation, they guaranteed a huge population influx. This population needs supporting, and so some of the largest Matari corporations also have their head offices here, making the region bustle with activity, not unlike a large Metropolis.",
         "it": ""
     },
     "267764": {
@@ -757968,7 +757968,7 @@
         "it": ""
     },
     "283318": {
-        "en": "Skill at operating ORE Mining Frigates.",
+        "en": "Skill for the operation of ORE Mining Frigates.",
         "it": ""
     },
     "283319": {
@@ -766260,7 +766260,7 @@
         "it": ""
     },
     "286678": {
-        "en": "Skill at operating Amarr destroyers.",
+        "en": "Skill for the operation of Amarr destroyers.",
         "it": ""
     },
     "286679": {
@@ -766268,7 +766268,7 @@
         "it": ""
     },
     "286680": {
-        "en": "Skill at operating Caldari destroyers.",
+        "en": "Skill for the operation of Caldari destroyers.",
         "it": ""
     },
     "286681": {
@@ -766276,7 +766276,7 @@
         "it": ""
     },
     "286682": {
-        "en": "Skill at operating Gallente destroyers.",
+        "en": "Skill for the operation of Gallente destroyers.",
         "it": ""
     },
     "286683": {
@@ -766284,7 +766284,7 @@
         "it": ""
     },
     "286684": {
-        "en": "Skill at operating Minmatar destroyers.",
+        "en": "Skill for the operation of Minmatar destroyers.",
         "it": ""
     },
     "286685": {
@@ -766292,7 +766292,7 @@
         "it": ""
     },
     "286686": {
-        "en": "Skill at operating Amarr battlecruisers.",
+        "en": "Skill for the operation of Amarr battlecruisers.",
         "it": ""
     },
     "286687": {
@@ -766300,7 +766300,7 @@
         "it": ""
     },
     "286688": {
-        "en": "Skill at operating Caldari battlecruisers.",
+        "en": "Skill for the operation of Caldari battlecruisers.",
         "it": ""
     },
     "286689": {
@@ -766308,7 +766308,7 @@
         "it": ""
     },
     "286690": {
-        "en": "Skill at operating Gallente battlecruisers.",
+        "en": "Skill for the operation of Gallente battlecruisers.",
         "it": ""
     },
     "286691": {
@@ -766316,7 +766316,7 @@
         "it": ""
     },
     "286692": {
-        "en": "Skill at operating Minmatar battlecruisers.",
+        "en": "Skill for the operation of Minmatar battlecruisers.",
         "it": ""
     },
     "286693": {
@@ -776604,7 +776604,7 @@
         "it": ""
     },
     "292377": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +4 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 15% bonus to the strength of all Ascendancy implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 15% bonus to the strength of all Ascendancy implant secondary effects",
         "it": ""
     },
     "292381": {
@@ -777312,7 +777312,7 @@
         "it": ""
     },
     "292631": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +3 bonus to Perception\n\nSecondary Effect: 1% bonus to warp speed\n\nSet Effect: 10% bonus to the strength of all Ascendancy implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to warp speed\r\n<b>Set Effect:</b> 10% bonus to the strength of all Ascendancy implant secondary effects",
         "it": ""
     },
     "292632": {
@@ -785292,7 +785292,7 @@
         "it": ""
     },
     "295556": {
-        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\n\nSet Effect: 2.5% bonus to the strength of all Centurion implant secondary effects",
+        "en": "This ocular filter has been modified by Mordus scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to optimal range of ECM, Remote Sensor Dampers, Weapon Disruptors and Target Painters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Centurion implant secondary effects",
         "it": ""
     },
     "295557": {
@@ -785340,7 +785340,7 @@
         "it": ""
     },
     "295568": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to shield boost amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to shield boost amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Crystal implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "295569": {
@@ -785388,7 +785388,7 @@
         "it": ""
     },
     "295580": {
-        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% reduction to booster side effects\r\n\r\nSet Effect: 2.5% bonus to the strength of all Edge implant secondary effects",
+        "en": "This ocular filter has been modified by Syndicate scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% reduction to booster side effects\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Edge implant secondary effects",
         "it": ""
     },
     "295581": {
@@ -785436,7 +785436,7 @@
         "it": ""
     },
     "295592": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295593": {
@@ -785444,7 +785444,7 @@
         "it": ""
     },
     "295594": {
-        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Memory\r\n\r\nSecondary Effect: 1.25% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This memory augmentation has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Memory\r\n<b>Secondary Effect:</b> 1.25% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295595": {
@@ -785452,7 +785452,7 @@
         "it": ""
     },
     "295596": {
-        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\nPrimary Effect: +2 Bonus to Intelligence\r\n\r\nSecondary Effect: 1.5% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This cybernetic subprocessor has been modified by Angel scientists for use by their elite officers. \r\n\r\n<b>Primary Effect:</b> +2 Bonus to Intelligence\r\n<b>Secondary Effect:</b> 1.5% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295597": {
@@ -785460,7 +785460,7 @@
         "it": ""
     },
     "295598": {
-        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Charisma\r\n\r\nSecondary Effect: 2% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This social adaptation chip has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Charisma\r\n<b>Secondary Effect:</b> 2% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295599": {
@@ -785468,7 +785468,7 @@
         "it": ""
     },
     "295600": {
-        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Willpower\r\n\r\nSecondary Effect: 1.75% reduction in ship's signature radius\r\n\r\nSet Effect: 2.5% bonus to the strength of all Halo implant secondary effects",
+        "en": "This neural boost has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Willpower\r\n<b>Secondary Effect:</b> 1.75% reduction in ship's signature radius\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Halo implant secondary effects",
         "it": ""
     },
     "295601": {
@@ -785484,7 +785484,7 @@
         "it": ""
     },
     "295604": {
-        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to the range to all mining lasers\r\n\r\nSet Effect: 2.5% bonus to the strength of all Harvest implant secondary effects",
+        "en": "This ocular filter has been modified by ORE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to the range to all mining lasers\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Harvest implant secondary effects",
         "it": ""
     },
     "295605": {
@@ -785532,7 +785532,7 @@
         "it": ""
     },
     "295616": {
-        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to agility\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nomad implant secondary effects",
+        "en": "This ocular filter has been modified by Thukker scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to agility\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nomad implant secondary effects",
         "it": ""
     },
     "295617": {
@@ -785628,7 +785628,7 @@
         "it": ""
     },
     "295640": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 0.5% bonus to maximum velocity\r\n\r\nSet Effect: 5% bonus to the strength of all Snake implant secondary effects",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite smugglers. \r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 0.5% bonus to maximum velocity\r\n<b>Set Effect:</b> 5% bonus to the strength of all Snake implant secondary effects",
         "it": ""
     },
     "295641": {
@@ -785676,7 +785676,7 @@
         "it": ""
     },
     "295652": {
-        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n\r\nSet Effect: 2.5% bonus to the strength of all Talisman implant secondary effects",
+        "en": "This ocular filter has been modified by Blood Raider scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the duration of modules requiring the Capacitor Emission Systems skill\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Talisman implant secondary effects",
         "it": ""
     },
     "295653": {
@@ -785724,7 +785724,7 @@
         "it": ""
     },
     "295664": {
-        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\n\nPrimary Effect: +2 bonus to Perception \n\nSecondary Effect: 1% bonus to scan strength of probes\n\nSet Effect: 2.5% bonus to the strength of all Virtue implant secondary effects",
+        "en": "This ocular filter has been modified by Sisters of EVE scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to scan strength of probes\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Virtue implant secondary effects",
         "it": ""
     },
     "295665": {
@@ -790156,7 +790156,7 @@
         "it": ""
     },
     "297304": {
-        "en": "Skill at operating ORE freighters.",
+        "en": "Skill for the operation of ORE freighters.",
         "it": ""
     },
     "297305": {
@@ -792092,7 +792092,7 @@
         "it": ""
     },
     "297975": {
-        "en": "Skill at operating Amarr Tactical Destroyers.",
+        "en": "Skill for the operation of Amarr Tactical Destroyers.",
         "it": ""
     },
     "297977": {
@@ -797120,7 +797120,7 @@
         "it": ""
     },
     "299898": {
-        "en": "Skill at operating Minmatar Tactical Destroyers.",
+        "en": "Skill for the operation of Minmatar Tactical Destroyers.",
         "it": ""
     },
     "299899": {
@@ -815460,7 +815460,7 @@
         "it": ""
     },
     "308775": {
-        "en": "Skill at operating Caldari Tactical Destroyers.",
+        "en": "Skill for the operation of Caldari Tactical Destroyers.",
         "it": ""
     },
     "308776": {
@@ -815700,7 +815700,7 @@
         "it": ""
     },
     "308864": {
-        "en": "Skill at operating Gallente Tactical Destroyers.",
+        "en": "Skill for the operation of Gallente Tactical Destroyers.",
         "it": ""
     },
     "308865": {
@@ -849756,7 +849756,7 @@
         "it": ""
     },
     "504803": {
-        "en": "New Mail Recieved",
+        "en": "New Mail Received",
         "it": ""
     },
     "504809": {
@@ -876096,7 +876096,7 @@
         "it": ""
     },
     "514115": {
-        "en": "Skill at operating Amarr force auxiliaries.",
+        "en": "Skill for the operation of Amarr force auxiliaries.",
         "it": ""
     },
     "514116": {
@@ -876104,7 +876104,7 @@
         "it": ""
     },
     "514117": {
-        "en": "Skill at operating Caldari force auxiliaries.",
+        "en": "Skill for the operation of Caldari force auxiliaries.",
         "it": ""
     },
     "514118": {
@@ -876112,7 +876112,7 @@
         "it": ""
     },
     "514119": {
-        "en": "Skill at operating Gallente force auxiliaries.",
+        "en": "Skill for the operation of Gallente force auxiliaries.",
         "it": ""
     },
     "514120": {
@@ -876120,7 +876120,7 @@
         "it": ""
     },
     "514121": {
-        "en": "Skill at operating Minmatar force auxiliaries.",
+        "en": "Skill for the operation of Minmatar force auxiliaries.",
         "it": ""
     },
     "514126": {
@@ -879972,7 +879972,7 @@
         "it": ""
     },
     "515287": {
-        "en": "Originally used by the adolescent hacker group 'The Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
+        "en": "Originally used by the adolescent hacker group The 'Fendahlian Collective' to break past high tech security firmware, these script packs contain intricate code which modify the inherent behavior of certain modules by directly inserting commands into the firmware. The applications of such technology was not lost on the major players and the kids who invented it now head their own research divisions.\r\n\r\nThis script can be loaded into a sensor booster or remote sensor booster module to increase the module's sensor strength bonus at the expense of the targeting range and locking speed bonuses.",
         "it": ""
     },
     "515288": {
@@ -882620,7 +882620,7 @@
         "it": ""
     },
     "515988": {
-        "en": "Items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} are being moved by the asset safety system. This will take {[timeinterval]assetSafetyDuration.writtenForm, from=day, to=hour} and cost {iskValue}, after which they will become available at {[location]newStructureID.name, linkinfo=newStructureShowInfoData}. ",
+        "en": "Items from {[location]structureID.name, linkinfo=structureShowInfoData} in {[location]solarsystemID.name, linkify} are being moved by the asset safety system. This will take {[timeinterval]assetSafetyDuration.writtenForm, from=day, to=hour} and cost {iskValue}, after which they will become available at {[location]newStructureID.name, linkinfo=newStructureShowInfoData}.",
         "it": ""
     },
     "515989": {
@@ -887776,7 +887776,7 @@
         "it": ""
     },
     "517547": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "517548": {
@@ -888044,7 +888044,7 @@
         "it": ""
     },
     "517614": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 10% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "517615": {
@@ -888092,7 +888092,7 @@
         "it": ""
     },
     "517626": {
-        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 bonus to Perception \r\n\r\nSecondary Effect: 1% bonus to armor repair amount\r\n\r\nSet Effect: 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
+        "en": "This ocular filter has been modified by Serpentis scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception \r\n<b>Secondary Effect:</b> 1% bonus to armor repair amount\r\n<b>Set Effect:</b> 15% bonus to the strength of all Asklepian implant secondary effects\r\n\r\nNote: Has no effect on capital sized modules.",
         "it": ""
     },
     "517627": {
@@ -925616,7 +925616,7 @@
         "it": ""
     },
     "532663": {
-        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be <b>{weekday} at {reinforcementHour} (up to +/- 3 hours)</b>.<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged. ",
+        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be <b>{weekday} at {reinforcementHour} (up to +/- 3 hours)</b>.<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged.",
         "it": ""
     },
     "532664": {
@@ -930172,7 +930172,7 @@
         "it": ""
     },
     "535262": {
-        "en": "Skill at operating Precursor Frigates.",
+        "en": "Skill for the operation of Precursor Frigates.",
         "it": ""
     },
     "535263": {
@@ -930180,7 +930180,7 @@
         "it": ""
     },
     "535264": {
-        "en": "Skill at operating Precursor Cruisers.",
+        "en": "Skill for the operation of Precursor Cruisers.",
         "it": ""
     },
     "535265": {
@@ -930188,7 +930188,7 @@
         "it": ""
     },
     "535266": {
-        "en": "Skill at operating Precursor Battleships.",
+        "en": "Skill for the operation of Precursor Battleships.",
         "it": ""
     },
     "535267": {
@@ -938836,7 +938836,7 @@
         "it": ""
     },
     "538329": {
-        "en": "Drag icon into chat to share this filter with others.",
+        "en": "Drag icon into chat to share this filter with others",
         "it": ""
     },
     "538330": {
@@ -949396,11 +949396,11 @@
         "it": ""
     },
     "543408": {
-        "en": "Skill at operating Precursor Destroyers",
+        "en": "Skill for the operation of Precursor Destroyers",
         "it": ""
     },
     "543409": {
-        "en": "Skill at operating Precursor Battlecruisers.",
+        "en": "Skill for the operation of Precursor Battlecruisers.",
         "it": ""
     },
     "543410": {
@@ -949796,7 +949796,7 @@
         "it": ""
     },
     "543570": {
-        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be at {reinforcementHour} (up to +/- 3 hours).<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged. ",
+        "en": "The following structures have had their reinforcement times changed:<br>{listOfStructureLinks}<br><br>The new reinforcements times will be at {reinforcementHour} (up to +/- 3 hours).<br>The structure will change to the new reinforcement time at {[datetime]timestamp, date=short, time=short}, or at the next possible time after that when the structure is undamaged.",
         "it": ""
     },
     "543572": {
@@ -964848,7 +964848,7 @@
         "it": ""
     },
     "551815": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> -33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "it": ""
     },
     "551816": {
@@ -965332,7 +965332,7 @@
         "it": ""
     },
     "552091": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1.25% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1.25% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "it": ""
     },
     "552092": {
@@ -966200,7 +966200,7 @@
         "it": ""
     },
     "552377": {
-        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1.5% bonus to maximum damage output of entropic disintegrators\r\n\r\nTertiary Effect: 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
+        "en": "This ocular filter is listed in the DED inventory as a modification by CONCORD weapons technologists of standard capsuleer implant templates with control routines that mimic methods of enhancing the firepower of reverse-engineered Triglavian weaponry, at the cost of a slower build up to maximum particle stream output.\r\n\r\nHowever, persistent rumors among New Eden's capsuleer, transhuman and wirehead communities suggest that the research and development group that created these implants was lead by a Society of Conscious Thought team with special expertise in so-called \"restricted artificial intelligences\". The possibility that these implants are based on RAI technology raises startling questions about the nature of the \"mimesis\" involved in these augmentations.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1.5% bonus to maximum damage output of entropic disintegrators\r\n<b>Tertiary Effect:</b> 0.33% penalty to damage multiplier increase per cycle of entropic disintegrators\r\n\r\nSet Effect: 20% bonus to the strength of all Mimesis implant secondary effects",
         "it": ""
     },
     "552378": {
@@ -966528,7 +966528,7 @@
         "it": ""
     },
     "552502": {
-        "en": "Skill at operating precursor dreadnoughts.",
+        "en": "Skill for the operation of precursor dreadnoughts.",
         "it": ""
     },
     "552509": {
@@ -969392,11 +969392,11 @@
         "it": ""
     },
     "553525": {
-        "en": "A HyperNet offer for {type_link}  you are taking part in has finished",
+        "en": "A HyperNet offer for {type_link} you are taking part in has finished.",
         "it": ""
     },
     "553526": {
-        "en": "A HyperNet offer for {type_link}  you are interested in has expired. Tickets price have been refunded and the item returned to its owner",
+        "en": "A HyperNet offer for {type_link} you are interested in has expired. Ticket prices have been refunded and the item returned to its owner.",
         "it": ""
     },
     "553527": {
@@ -974128,7 +974128,7 @@
         "it": ""
     },
     "555287": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 10% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 10% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "555288": {
@@ -974200,7 +974200,7 @@
         "it": ""
     },
     "555305": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 15% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 15% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "555306": {
@@ -974692,7 +974692,7 @@
         "it": ""
     },
     "556160": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "556161": {
@@ -974700,7 +974700,7 @@
         "it": ""
     },
     "556162": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% bonus to shield hitpoints\r\n\r\nSet Effect: 2.5% bonus to the strength of all Nirvana implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of Nation and related factions. It provides increasing shield hitpoint bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% bonus to shield hitpoints\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Nirvana implant secondary effects",
         "it": ""
     },
     "556163": {
@@ -975756,7 +975756,7 @@
         "it": ""
     },
     "559003": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 15% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 15% bonus to the strength of all Savior implant secondary effects",
         "it": ""
     },
     "559010": {
@@ -975816,7 +975816,7 @@
         "it": ""
     },
     "559024": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 10% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 10% bonus to the strength of all Savior implant secondary effects",
         "it": ""
     },
     "559025": {
@@ -975864,7 +975864,7 @@
         "it": ""
     },
     "559036": {
-        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n\r\nSet Effect: 2.5% bonus to the strength of all Savior implant secondary effects",
+        "en": "This ocular filter has been modified by Angel scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction in the cycle time and capacitor activation cost of subcapital remote armor repairers and remote shield boosters\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Savior implant secondary effects",
         "it": ""
     },
     "559037": {
@@ -981556,7 +981556,7 @@
         "it": ""
     },
     "562530": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +4 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +4 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 15% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "it": ""
     },
     "562531": {
@@ -981624,7 +981624,7 @@
         "it": ""
     },
     "562547": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 10% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "it": ""
     },
     "562548": {
@@ -981672,7 +981672,7 @@
         "it": ""
     },
     "562559": {
-        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effects: 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n\r\nSet Effect: 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
+        "en": "This ocular filter has been modified by Guristas scientists for use by their elite officers.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effects:</b> 1% bonus to drone tracking speed, drone optimal range, drone falloff range, missile flight time, and missile explosion velocity\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Hydra implant secondary effects\r\n\r\nNote: Has no effect on fighters",
         "it": ""
     },
     "562560": {
@@ -1009392,7 +1009392,7 @@
         "it": ""
     },
     "573194": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +2 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 2.5% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +2 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 2.5% bonus to the strength of all Rapture implant secondary effects",
         "it": ""
     },
     "573195": {
@@ -1009448,7 +1009448,7 @@
         "it": ""
     },
     "573208": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +3 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 10% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +3 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 10% bonus to the strength of all Rapture implant secondary effects",
         "it": ""
     },
     "573209": {
@@ -1009496,7 +1009496,7 @@
         "it": ""
     },
     "573220": {
-        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\nPrimary Effect: +4 bonus to Perception\r\n\r\nSecondary Effect: 1% reduction to capacitor recharge time\r\n\r\nSet Effect: 15% bonus to the strength of all Rapture implant secondary effects",
+        "en": "This ocular filter appears to have been developed using Sansha's Nation technology and is likely to be used by elite pilots of the Nation and related factions. It provides increasing capacitor recharge rate bonuses when plugged in alongside other implants from the same set.\r\n\r\n<b>Primary Effect:</b> +4 bonus to Perception\r\n<b>Secondary Effect:</b> 1% reduction to capacitor recharge time\r\n<b>Set Effect:</b> 15% bonus to the strength of all Rapture implant secondary effects",
         "it": ""
     },
     "573221": {
@@ -1015988,7 +1015988,7 @@
         "it": ""
     },
     "575636": {
-        "en": "This tower marks a waypoint in the Gallente Election YC128 Campaign Trail.\r\n",
+        "en": "This tower marks a waypoint in the Gallente Election YC128 Campaign Trail.",
         "it": ""
     },
     "575641": {
@@ -1063932,7 +1063932,7 @@
         "it": ""
     },
     "600475": {
-        "en": "A Skybreaker-class frigate under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with target painting capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with weapon disruption and energy neutralization capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600476": {
@@ -1063940,7 +1063940,7 @@
         "it": ""
     },
     "600477": {
-        "en": "A Curse-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
+        "en": "A Phobos-class cruiser under the command of the Special Affairs for Regulations & Order (SARO). It is fitted with webifying and warp scrambling capabilities.\r\n\r\nThis ship is part of a team charged with enforcing the no-fly zone around a classified SARO facility and has the authority to put down any unauthorized vessels.",
         "it": ""
     },
     "600478": {
@@ -1073917,90 +1073917,6 @@
     },
     "623648": {
         "en": "Destroyed Vessel",
-        "it": ""
-    },
-    "623653": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623654": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623655": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623656": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623657": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623658": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623659": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623660": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623661": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623662": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623663": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623664": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623665": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623666": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623667": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623668": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623669": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623670": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623671": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623672": {
-        "en": "Barren Asteroid",
-        "it": ""
-    },
-    "623673": {
-        "en": "Barren Asteroid",
         "it": ""
     },
     "623707": {
@@ -1101964,7 +1101880,7 @@
         "it": ""
     },
     "648488": {
-        "en": "Join Factional Warfare without leaving your corp or alliance with Direct Enlistment ",
+        "en": "Join Factional Warfare without leaving your corp or alliance with Direct Enlistment",
         "it": ""
     },
     "648489": {
@@ -1105580,7 +1105496,7 @@
         "it": ""
     },
     "659125": {
-        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel. ",
+        "en": "This crate contains a random piece of Historic Capsuleer Day Apparel.",
         "it": ""
     },
     "659126": {
@@ -1106244,7 +1106160,7 @@
         "it": ""
     },
     "660010": {
-        "en": "Nanocoating Induction License has been purchased by {characterName, linkinfo=characterLinkData} for {[numeric]numStructures} corporation {[numeric]numStructures-> \"structure\", \"structures\"}, at a cost of {[numeric]lpAmount, useGrouping, decimalPlaces=0} EverMarks from the corporation LP wallet.\r\n<br>\r\nThe license is activated at {[datetime]issuedAt, date=medium, time=short} and is valid for {[timeinterval]duration.writtenForm, from=day, to=hour} from the date of purchase.\r\n",
+        "en": "Nanocoating Induction License has been purchased by {characterName, linkinfo=characterLinkData} for {[numeric]numStructures} corporation {[numeric]numStructures-> \"structure\", \"structures\"}, at a cost of {[numeric]lpAmount, useGrouping, decimalPlaces=0} EverMarks from the corporation LP wallet.\r\n<br>\r\nThe license is activated at {[datetime]issuedAt, date=medium, time=short} and is valid for {[timeinterval]duration.writtenForm, from=day, to=hour} from the date of purchase.",
         "it": ""
     },
     "660011": {
@@ -1108680,7 +1108596,7 @@
         "it": ""
     },
     "662253": {
-        "en": "Skill at operating Lancer Dreadnoughts.",
+        "en": "Skill for the operation of Lancer Dreadnoughts.",
         "it": ""
     },
     "662254": {
@@ -1109968,7 +1109884,7 @@
         "it": ""
     },
     "663407": {
-        "en": "The Arbiter Karura has entered siege mode to carry out that lance attack. ",
+        "en": "The Arbiter Karura has entered siege mode to carry out that lance attack.",
         "it": ""
     },
     "663408": {
@@ -1113880,7 +1113796,7 @@
         "it": ""
     },
     "666033": {
-        "en": "Tournament runs 12-13 and 19-20 Aug ",
+        "en": "Tournament runs 12-13 and 19-20 Aug",
         "it": ""
     },
     "666034": {
@@ -1116624,7 +1116540,7 @@
         "it": ""
     },
     "669692": {
-        "en": "Your next adventure will hopefully prove less explosive. We have a lead on the attack on the cloning facility, and we want you to follow up on it. ",
+        "en": "Your next adventure will hopefully prove less explosive. We have a lead on the attack on the cloning facility, and we want you to follow up on it.",
         "it": ""
     },
     "669693": {
@@ -1116748,7 +1116664,7 @@
         "it": ""
     },
     "669819": {
-        "en": "Unusable in Zarzakh ",
+        "en": "Unusable in Zarzakh",
         "it": ""
     },
     "669820": {
@@ -1116908,7 +1116824,7 @@
         "it": ""
     },
     "669889": {
-        "en": "Explorers investigate the cluster’s hidden corners; hacking systems and uncovering secrets.",
+        "en": "Explorers investigate the cluster’s hidden corners, hacking systems and uncovering secrets.",
         "it": ""
     },
     "669890": {
@@ -1117732,7 +1117648,7 @@
         "it": ""
     },
     "679072": {
-        "en": "Scavenge wrecked rivals for improved loot drops. ",
+        "en": "Scavenge wrecked rivals for improved loot drops.",
         "it": ""
     },
     "679073": {
@@ -1125872,7 +1125788,7 @@
         "it": ""
     },
     "708597": {
-        "en": " Filament Construction IV",
+        "en": "Filament Construction IV",
         "it": ""
     },
     "708598": {
@@ -1126404,7 +1126320,7 @@
         "it": ""
     },
     "709034": {
-        "en": "Skill at operating Upwell Consortium haulers.",
+        "en": "Skill for the operation of Upwell Consortium haulers.",
         "it": ""
     },
     "709039": {
@@ -1126556,7 +1126472,7 @@
         "it": ""
     },
     "709102": {
-        "en": "Skill at operating Upwell freighters.",
+        "en": "Skill for the operation of Upwell freighters.",
         "it": ""
     },
     "709105": {
@@ -1127440,7 +1127356,7 @@
         "it": ""
     },
     "709549": {
-        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.\r\n\r\n",
+        "en": "The life of an Enforcer in New Eden means taking jobs and making ISK where you can. This crate contains an inspirational ship SKIN.",
         "it": ""
     },
     "709550": {
@@ -1138852,7 +1138768,7 @@
         "it": ""
     },
     "722219": {
-        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process. ",
+        "en": "A welcome package from Paragon inviting Capsuleers from all over to try out the new SKINR tool with a set of free Sequence Binders used in the Sequencing process.",
         "it": ""
     },
     "722221": {
@@ -1139612,7 +1139528,7 @@
         "it": ""
     },
     "722653": {
-        "en": "Seize control in nullsec with new resources, structures, ships, and encounters. ",
+        "en": "Seize control in nullsec with new resources, structures, ships, and encounters.",
         "it": ""
     },
     "722654": {
@@ -1139620,7 +1139536,7 @@
         "it": ""
     },
     "722655": {
-        "en": "Strengthen your corporation with new project types and earn more with enhanced AIR Daily Goals. ",
+        "en": "Strengthen your corporation with new project types and earn more with enhanced AIR Daily Goals.",
         "it": ""
     },
     "722658": {
@@ -1139932,7 +1139848,7 @@
         "it": ""
     },
     "722789": {
-        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used when unlimited design elements when turning a design into a ship SKIN in SKINR.",
+        "en": "A reward for achieving a milestone in the AIR monthly progress.\r\n\r\nThis crate contains sequencers that can be used with unlimited design elements when turning a design into a ship SKIN in SKINR.",
         "it": ""
     },
     "722790": {
@@ -1141044,15 +1140960,15 @@
         "it": ""
     },
     "723607": {
-        "en": "Discover and acquire a variety of unique ship SKINs sequenced by capsuleers. ",
+        "en": "Discover and acquire a variety of unique ship SKINs sequenced by capsuleers.",
         "it": ""
     },
     "723608": {
-        "en": "Leverage your artistic skills to build a design empire and earn an impressive income.   ",
+        "en": "Leverage your artistic skills to build a design empire and earn an impressive income.",
         "it": ""
     },
     "723609": {
-        "en": "Keep checking the Paragon Hub to discover the latest SKINs available. ",
+        "en": "Keep checking the Paragon Hub to discover the latest SKINs available.",
         "it": ""
     },
     "723623": {
@@ -1146180,7 +1146096,7 @@
         "it": ""
     },
     "726706": {
-        "en": "Vigilance Spire Vulnerable: Attack ",
+        "en": "Vigilance Spire Vulnerable: Attack",
         "it": ""
     },
     "726713": {
@@ -1152236,7 +1152152,7 @@
         "it": ""
     },
     "731123": {
-        "en": "Unity is the Federation's greatest defense. ",
+        "en": "Unity is the Federation's greatest defense.",
         "it": ""
     },
     "731124": {
@@ -1152292,7 +1152208,7 @@
         "it": ""
     },
     "731137": {
-        "en": "Sometimes justice is won in the shadows. ",
+        "en": "Sometimes justice is won in the shadows.",
         "it": ""
     },
     "731138": {
@@ -1154312,7 +1154228,7 @@
         "it": ""
     },
     "869348": {
-        "en": "Loyalty is the cement that turns loose rock into an unassailable wall. ",
+        "en": "Loyalty is the cement that turns loose rock into an unassailable wall.",
         "it": ""
     },
     "869349": {
@@ -1154496,7 +1154412,7 @@
         "it": ""
     },
     "869394": {
-        "en": "Loyalty is the cement that turns loose rock into an unassailable wall. ",
+        "en": "Loyalty is the cement that turns loose rock into an unassailable wall.",
         "it": ""
     },
     "869395": {
@@ -1154672,7 +1154588,7 @@
         "it": ""
     },
     "869445": {
-        "en": "Let those without honor stay their blade. ",
+        "en": "Let those without honor stay their blade.",
         "it": ""
     },
     "869446": {
@@ -1154824,7 +1154740,7 @@
         "it": ""
     },
     "869483": {
-        "en": "Let those without honor stay their blade. ",
+        "en": "Let those without honor stay their blade.",
         "it": ""
     },
     "869484": {
@@ -1155008,7 +1154924,7 @@
         "it": ""
     },
     "869529": {
-        "en": "Our legacy is one of strength. ",
+        "en": "Our legacy is one of strength.",
         "it": ""
     },
     "869530": {
@@ -1155120,7 +1155036,7 @@
         "it": ""
     },
     "869557": {
-        "en": "Our legacy is one of strength. ",
+        "en": "Our legacy is one of strength.",
         "it": ""
     },
     "869558": {
@@ -1156720,7 +1156636,7 @@
         "it": ""
     },
     "870623": {
-        "en": "The road to our future is paved with innovation. ",
+        "en": "The road to our future is paved with innovation.",
         "it": ""
     },
     "870624": {
@@ -1159668,7 +1159584,7 @@
         "it": ""
     },
     "871994": {
-        "en": "Honor is a lie told by the feeble to convince the strong to give up. ",
+        "en": "Honor is a lie told by the feeble to convince the strong to give up.",
         "it": ""
     },
     "871995": {
@@ -1159684,7 +1159600,7 @@
         "it": ""
     },
     "871998": {
-        "en": "Get back up, go again. Don't stop until they break, or you do. ",
+        "en": "Get back up, go again. Don't stop until they break, or you do.",
         "it": ""
     },
     "871999": {
@@ -1159708,7 +1159624,7 @@
         "it": ""
     },
     "872004": {
-        "en": "Faster than judgement, slicker than sin. ",
+        "en": "Faster than judgement, slicker than sin.",
         "it": ""
     },
     "872005": {
@@ -1159732,7 +1159648,7 @@
         "it": ""
     },
     "872010": {
-        "en": "Ferocity is the fastest path to terror. ",
+        "en": "Ferocity is the fastest path to terror.",
         "it": ""
     },
     "872011": {
@@ -1159824,7 +1159740,7 @@
         "it": ""
     },
     "872035": {
-        "en": "Visualize the result you want, then obstruct any other possible outcome. ",
+        "en": "Visualize the result you want, then obstruct any other possible outcome.",
         "it": ""
     },
     "872036": {
@@ -1159840,7 +1159756,7 @@
         "it": ""
     },
     "872039": {
-        "en": "I will show them how the game is really played. ",
+        "en": "I will show them how the game is really played.",
         "it": ""
     },
     "872040": {
@@ -1160648,11 +1160564,11 @@
         "it": ""
     },
     "872381": {
-        "en": "Brave the Volatile Ice Storms and take on hacking, combat, or mining sites for amazing rewards. ",
+        "en": "Brave the Volatile Ice Storms and take on hacking, combat, or mining sites for amazing rewards.",
         "it": ""
     },
     "872382": {
-        "en": "Take flight every day to claim powerful presents and upgrade to Omega to unlock even more. ",
+        "en": "Take flight every day to claim powerful presents and upgrade to Omega to unlock even more.",
         "it": ""
     },
     "872383": {
@@ -1162032,7 +1161948,7 @@
         "it": ""
     },
     "896460": {
-        "en": " <b>Automatically applied</b> to character.",
+        "en": "<b>Automatically applied</b> to character.",
         "it": ""
     },
     "896467": {
@@ -1162296,7 +1162212,7 @@
         "it": ""
     },
     "1004939": {
-        "en": "Get up to 20% off Omega in the NES and 20% off PLEX plus free SKINs in the EVE store until 24. Dec! ",
+        "en": "Get up to 20% off Omega in the NES and 20% off PLEX plus free SKINs in the EVE store until 24. Dec!",
         "it": ""
     },
     "1004940": {
@@ -1163728,7 +1163644,7 @@
         "it": ""
     },
     "1008386": {
-        "en": "Captain, the State successfully completed a strike against Drifter infrastructure despite significant losses. Now our service people need extraction. Additionally, the target Drifter structure shows signs of critical instability.\r\n\r\nSalvage the Battle Wreckage and retrieve any Military Stasis Pods before the structure explodes. ",
+        "en": "Captain, the State successfully completed a strike against Drifter infrastructure despite significant losses. Now our service people need extraction. Additionally, the target Drifter structure shows signs of critical instability.\r\n\r\nSalvage the Battle Wreckage and retrieve any Military Stasis Pods before the structure explodes.",
         "it": ""
     },
     "1008387": {
@@ -1164340,7 +1164256,7 @@
         "it": ""
     },
     "1008622": {
-        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated. ",
+        "en": "Protect the Wormhole Research Outpost or destroy it to recover any Hyperspace Telemetry generated.",
         "it": ""
     },
     "1008623": {
@@ -1164540,7 +1164456,7 @@
         "it": ""
     },
     "1008675": {
-        "en": "Accessible for Tech I ships up to battlecruisers. ",
+        "en": "Accessible for Tech I ships up to battlecruisers.",
         "it": ""
     },
     "1008676": {
@@ -1166532,7 +1166448,7 @@
         "it": ""
     },
     "1009605": {
-        "en": "Deal damage to ships attacking the Wormhole Research Outpost. ",
+        "en": "Deal damage to ships attacking the Wormhole Research Outpost.",
         "it": ""
     },
     "1009637": {
@@ -1169924,7 +1169840,7 @@
         "it": ""
     },
     "1011387": {
-        "en": "(initial)Home Guard: Reconnaissance 1/3 ",
+        "en": "(initial)Home Guard: Reconnaissance 1/3",
         "it": ""
     },
     "1011388": {
@@ -1169936,7 +1169852,7 @@
         "it": ""
     },
     "1011390": {
-        "en": "(initial)Home Guard: Reconnaissance 2/3 ",
+        "en": "(initial)Home Guard: Reconnaissance 2/3",
         "it": ""
     },
     "1011391": {
@@ -1169948,7 +1169864,7 @@
         "it": ""
     },
     "1011393": {
-        "en": "(initial)Home Guard: Reconnaissance 3/3 ",
+        "en": "(initial)Home Guard: Reconnaissance 3/3",
         "it": ""
     },
     "1011394": {
@@ -1170104,7 +1170020,7 @@
         "it": ""
     },
     "1011441": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +2 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +2 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 1 point of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "it": ""
     },
     "1011442": {
@@ -1170152,7 +1170068,7 @@
         "it": ""
     },
     "1011453": {
-        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\nPrimary Effect: +3 Bonus to Perception\r\n\r\nSecondary Effect: Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
+        "en": "This ocular filter has been modified by the Upwell Consortium for use by their elite security experts.\r\n\r\n<b>Primary Effect:</b> +3 Bonus to Perception\r\n<b>Secondary Effect:</b> Adds an additional 2 points of Virus Coherence for Data and Relic Analyzers fitted to piloted ship",
         "it": ""
     },
     "1011454": {
@@ -1171272,11 +1171188,11 @@
         "it": ""
     },
     "1011839": {
-        "en": "Contribute with combat, hacking, manufacturing, and fleet-based opportunities. ",
+        "en": "Contribute with combat, hacking, manufacturing, and fleet-based opportunities.",
         "it": ""
     },
     "1011840": {
-        "en": "Take on challenges and log in daily for rewards including PLEX, SKINs, design components & more. ",
+        "en": "Take on challenges and log in daily for rewards including PLEX, SKINs, design components & more.",
         "it": ""
     },
     "1011847": {
@@ -1178592,11 +1178508,11 @@
         "it": ""
     },
     "1014709": {
-        "en": "Labyrinth Complex and Nexus Point sites are now appearing in highsec and lowsec, respectively. ",
+        "en": "Labyrinth Complex and Nexus Point sites are now appearing in highsec and lowsec, respectively.",
         "it": ""
     },
     "1014710": {
-        "en": "Extra rewards are now available on the seasonal track. ",
+        "en": "Extra rewards are now available on the seasonal track.",
         "it": ""
     },
     "1014711": {
@@ -1180404,7 +1180320,7 @@
         "it": ""
     },
     "1016659": {
-        "en": "Skill at operating ORE Mining Destroyers",
+        "en": "Skill for the operation of ORE Mining Destroyers",
         "it": ""
     },
     "1016660": {
@@ -1181672,7 +1181588,7 @@
         "it": ""
     },
     "1017837": {
-        "en": "Skill at operating expedition command ships.",
+        "en": "Skill for the operation of expedition command ships.",
         "it": ""
     },
     "1017838": {
@@ -1182080,7 +1181996,7 @@
         "it": ""
     },
     "1017998": {
-        "en": "Join the fight in space or on the ground!\r\n\r\nVanguard have been deployed to uncover Upwell secrets so that capsuleers can ambush Unlisted Squall convoys. The Sealed Projects Crates retrieved from those convoys can be traded at Deathless Wraith Traders to unlock rewards. ",
+        "en": "Join the fight in space or on the ground!\r\n\r\nVanguard have been deployed to uncover Upwell secrets so that capsuleers can ambush Unlisted Squall convoys. The Sealed Projects Crates retrieved from those convoys can be traded at Deathless Wraith Traders to unlock rewards.",
         "it": ""
     },
     "1017999": {
@@ -1183352,7 +1183268,7 @@
         "it": ""
     },
     "1018560": {
-        "en": " <i>As a Vanguard, complete 5 assignments.</i>",
+        "en": "<i>As a Vanguard, complete 5 assignments.</i>",
         "it": ""
     },
     "1018583": {
@@ -1184184,15 +1184100,15 @@
         "it": ""
     },
     "1019047": {
-        "en": "Ships and modules rebalanced, cracking open the meta and rewarding bold strategies. ",
+        "en": "Ships and modules rebalanced, cracking open the meta and rewarding bold strategies.",
         "it": ""
     },
     "1019048": {
-        "en": "New freelance jobs, including “destroy capsuleer”. ",
+        "en": "New freelance jobs, including “destroy capsuleer”.",
         "it": ""
     },
     "1019049": {
-        "en": "Wormholes and Pochven exploration enhanced. ",
+        "en": "Wormholes and Pochven exploration enhanced.",
         "it": ""
     },
     "1019056": {
@@ -1187140,7 +1187056,7 @@
         "it": ""
     },
     "1021716": {
-        "en": "A basic mining laser for deep core mining ore such as mercoxit. Very inefficient but does get the job done ... eventually",
+        "en": "A basic mining laser for mining deep core ore such as mercoxit. Very inefficient but does get the job done... eventually",
         "it": ""
     },
     "1021718": {
@@ -1187544,7 +1187460,7 @@
         "it": ""
     },
     "1022033": {
-        "en": "Each region contains groups of stars called constellations.\r\n\r\nSelect the <b>Kimotoro</b> constellation to zoom in on it.\r\n\r\n",
+        "en": "Each region contains groups of stars called constellations.\r\n\r\nSelect the <b>Kimotoro</b> constellation to zoom in on it.",
         "it": ""
     },
     "1022034": {
@@ -1187852,7 +1187768,7 @@
         "it": ""
     },
     "1022112": {
-        "en": "The legend will help you interpret the data by explaining what each color or icon represents. \r\n\r\nHover over individual systems to see their precise data.\r\n",
+        "en": "The legend will help you interpret the data by explaining what each color or icon represents. \r\n\r\nHover over individual systems to see their precise data.",
         "it": ""
     },
     "1022176": {
@@ -1188168,7 +1188084,7 @@
         "it": ""
     },
     "1022407": {
-        "en": "<b>3D mode</b> grants an immersive starfield view. \r\n\r\nSelect the button to toggle the view mode. ",
+        "en": "<b>3D mode</b> grants an immersive starfield view. \r\n\r\nSelect the button to toggle the view mode.",
         "it": ""
     },
     "1022408": {
@@ -1189012,7 +1188928,7 @@
         "it": ""
     },
     "1022817": {
-        "en": "Because she died trying to bury it. It's dangerous information in the wrong hands.\r\n\r\nYou have to trust me. Honor her sacrifice, destroy that structure. ",
+        "en": "Because she died trying to bury it. It's dangerous information in the wrong hands.\r\n\r\nYou have to trust me. Honor her sacrifice, destroy that structure.",
         "it": ""
     },
     "1022818": {
@@ -1202272,7 +1202188,7 @@
         "it": ""
     },
     "1034347": {
-        "en": "Gnosis Friendship League SKIN",
+        "en": "Dragoon Navy Issue Corporation Emblem",
         "it": ""
     },
     "1034348": {
@@ -1202280,7 +1202196,7 @@
         "it": ""
     },
     "1034349": {
-        "en": "Dragoon Navy Issue Alliance Emblem ",
+        "en": "Dragoon Navy Issue Alliance Emblem",
         "it": ""
     },
     "1034350": {
@@ -1202288,7 +1202204,7 @@
         "it": ""
     },
     "1034351": {
-        "en": "Corax Navy Issue Corporation Emblem ",
+        "en": "Corax Navy Issue Corporation Emblem",
         "it": ""
     },
     "1034352": {
@@ -1202296,7 +1202212,7 @@
         "it": ""
     },
     "1034353": {
-        "en": "Corax Navy Issue Alliance Emblem ",
+        "en": "Corax Navy Issue Alliance Emblem",
         "it": ""
     },
     "1034354": {
@@ -1202320,7 +1202236,7 @@
         "it": ""
     },
     "1034359": {
-        "en": "Talwar Fleet Issue Corporation Emblem ",
+        "en": "Talwar Fleet Issue Corporation Emblem",
         "it": ""
     },
     "1034360": {
@@ -1202328,7 +1202244,7 @@
         "it": ""
     },
     "1034361": {
-        "en": "Talwar Fleet Issue Alliance Emblem ",
+        "en": "Talwar Fleet Issue Alliance Emblem",
         "it": ""
     },
     "1034362": {
@@ -1202660,7 +1202576,7 @@
         "it": ""
     },
     "1034721": {
-        "en": "This booster has been produced by the Gallente Federation to assist capsuleers with their military campaign war efforts.\r\n\r\n<b>\r\n+12% to ship Sensor Strength\r\n+2% Scan Probe Strength\r\n+2% Scan Resolution\r\n+4% Mining Critical Success Chance. \r\nBase Duration: 2 Hours<b>\r\n\r\n<b>Expiry date: November 10th YC128</b> ",
+        "en": "This booster has been produced by the Gallente Federation to assist capsuleers with their military campaign war efforts.\r\n\r\n<b>\r\n+12% to ship Sensor Strength\r\n+2% Scan Probe Strength\r\n+2% Scan Resolution\r\n+4% Mining Critical Success Chance. \r\nBase Duration: 2 Hours<b>\r\n\r\n<b>Expiry date: November 10th YC128</b>",
         "it": ""
     },
     "1034722": {
@@ -1202816,7 +1202732,7 @@
         "it": ""
     },
     "1034847": {
-        "en": "Expired State Defense Booster II ",
+        "en": "Expired State Defense Booster II",
         "it": ""
     },
     "1034848": {
@@ -1205836,7 +1205752,7 @@
         "it": ""
     },
     "1036179": {
-        "en": "Scordite 0-Grade ",
+        "en": "Scordite 0-Grade",
         "it": ""
     },
     "1036180": {
@@ -1207900,7 +1207816,7 @@
         "it": ""
     },
     "1037294": {
-        "en": "FW Complex - Moderate NVY-3 - Occupier Spawner (DO NOT TRANSLATE) ",
+        "en": "FW Complex - Moderate NVY-3 - Occupier Spawner (DO NOT TRANSLATE)",
         "it": ""
     },
     "1037307": {
@@ -1208320,7 +1208236,7 @@
         "it": ""
     },
     "1037466": {
-        "en": "This structure acts as a relay station for the Gallente Federation's operations in this structure, collecting, receiving and transmitting battlefield intelligence. ",
+        "en": "This structure acts as a relay station for the Gallente Federation's operations in this structure, collecting, receiving and transmitting battlefield intelligence.",
         "it": ""
     },
     "1037467": {
@@ -1208752,11 +1208668,11 @@
         "it": ""
     },
     "1037736": {
-        "en": "Achievement",
+        "en": "Complete Achievements",
         "it": ""
     },
     "1037737": {
-        "en": "List of Required Achievements",
+        "en": "Complete Achievements",
         "it": ""
     },
     "1037738": {
@@ -1210012,19 +1209928,19 @@
         "it": ""
     },
     "1038429": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92569>Raspite Crystals</a>\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92569>Raspite Crystals</a>",
         "it": ""
     },
     "1038430": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>",
         "it": ""
     },
     "1038431": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>",
         "it": ""
     },
     "1038432": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92570>Polycrase Crystals</a>\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92570>Polycrase Crystals</a>",
         "it": ""
     },
     "1038433": {
@@ -1210040,7 +1209956,7 @@
         "it": ""
     },
     "1038436": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Polycrase Crystals</a>\r\n\r\nCapsuleers enlisted with the Gallente Federation may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Polycrase Crystals</a>\r\n\r\nCapsuleers enlisted with the Gallente Federation may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
         "it": ""
     },
     "1038437": {
@@ -1210048,7 +1209964,7 @@
         "it": ""
     },
     "1038438": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92571>Moissanite Crystals</a>\r\n\r\nCapsuleers enlisted with the Caldari State may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
         "it": ""
     },
     "1038439": {
@@ -1210056,7 +1209972,7 @@
         "it": ""
     },
     "1038440": {
-        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.\r\n\r\n",
+        "en": "This research relay is currently inactive. It can be activated by providing the relay with<a href=showinfo:92572>Kangite Crystals</a>\r\n\r\nCapsuleers enlisted with the Amarr Empire may be able to seize control of this structure by using a Data Analyzer module if it remains inactive.",
         "it": ""
     },
     "1038441": {
@@ -1211456,7 +1211372,7 @@
         "it": ""
     },
     "1039075": {
-        "en": "Expired State Damage Booster I ",
+        "en": "Expired State Damage Booster I",
         "it": ""
     },
     "1039076": {
@@ -1211616,7 +1211532,7 @@
         "it": ""
     },
     "1039126": {
-        "en": "Gallente Tenzin Plinth (DO NOT TRANSLATE) ",
+        "en": "Gallente Tenzin Plinth (DO NOT TRANSLATE)",
         "it": ""
     },
     "1039127": {
@@ -1211956,7 +1211872,7 @@
         "it": ""
     },
     "1039232": {
-        "en": "Expired State Application Booster II ",
+        "en": "Expired State Application Booster II",
         "it": ""
     },
     "1039233": {
@@ -1212388,11 +1212304,11 @@
         "it": ""
     },
     "1039370": {
-        "en": "Face combat, mining, exploration, and FW challenges, or the new Rampant Drone Fabricator.  ",
+        "en": "Face combat, mining, exploration, and FW challenges, or the new Rampant Drone Fabricator.",
         "it": ""
     },
     "1039371": {
-        "en": "Unlock amazing rewards, including PLEX, new hybrid drones, a campaign bus, and much more.  ",
+        "en": "Unlock amazing rewards, including PLEX, new hybrid drones, a campaign bus, and much more.",
         "it": ""
     },
     "1039372": {
@@ -1212868,7 +1212784,7 @@
         "it": ""
     },
     "1039647": {
-        "en": "Expired Imperial Defense Booster II",
+        "en": "HoR Crow",
         "it": ""
     },
     "1039648": {
@@ -1213320,7 +1213236,7 @@
         "it": ""
     },
     "1039778": {
-        "en": "Captain, do you copy? Fleet is in position, hidden in the shadow of Pator IX. \r\n\r\nHack those turrets, and we’ll be able to warp in. ",
+        "en": "Captain, do you copy? Fleet is in position, hidden in the shadow of Pator IX. \r\n\r\nHack those turrets, and we’ll be able to warp in.",
         "it": ""
     },
     "1039779": {
@@ -1214016,7 +1213932,7 @@
         "it": ""
     },
     "1040169": {
-        "en": "A freighter of the Amarr Empire. ",
+        "en": "A freighter of the Amarr Empire.",
         "it": ""
     },
     "1040170": {
@@ -1216552,7 +1216468,7 @@
         "it": ""
     },
     "1041178": {
-        "en": "PL_PointLight_Green_01a",
+        "en": "State Directive - Unlimited",
         "it": ""
     },
     "1041179": {
@@ -1218012,7 +1217928,7 @@
         "it": ""
     },
     "1041778": {
-        "en": "Talman’s Ashimmu",
+        "en": "Imperial War Reserves Supply Package",
         "it": ""
     },
     "1041779": {
@@ -1218308,7 +1218224,7 @@
         "it": ""
     },
     "1041878": {
-        "en": "Talman’s Ashimmu",
+        "en": "Supplies: Battle of Pator",
         "it": ""
     },
     "1041884": {
@@ -1219396,7 +1219312,7 @@
         "it": ""
     },
     "1042285": {
-        "en": "When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after June 9, YC128. ",
+        "en": "When consumed by a capsuleer, this booster will increase the rate at which they train skills for a short time.\r\n\r\nVolatile compounds were used to create this cerebral accelerator, limiting its shelf life. It will cease to function after June 9, YC128.",
         "it": ""
     },
     "1042287": {
@@ -1219772,7 +1219688,7 @@
         "it": ""
     },
     "1042507": {
-        "en": "HoloDungeon_Planet_Matar_01a ",
+        "en": "HoloDungeon_Planet_Matar_01a",
         "it": ""
     },
     "1042508": {
@@ -1220536,7 +1220452,7 @@
         "it": ""
     },
     "1042805": {
-        "en": "Personal Progress",
+        "en": "Your contribution to Global Progress",
         "it": ""
     },
     "1042806": {
@@ -1221008,7 +1220924,7 @@
         "it": ""
     },
     "1042960": {
-        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activition cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
+        "en": "Enhances the range and improves the tracking speed of turrets.\r\nThis module also lowers the activation cost of <b>energy turrets</b>.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.",
         "it": ""
     },
     "1042962": {
@@ -1221720,7 +1221636,7 @@
         "it": ""
     },
     "1043213": {
-        "en": "Skill at operating Command Carriers.",
+        "en": "Skill for the operation of Command Carriers.",
         "it": ""
     },
     "1043214": {
@@ -1222400,7 +1222316,7 @@
         "it": ""
     },
     "1043513": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. ",
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone.",
         "it": ""
     },
     "1043514": {
@@ -1222420,7 +1222336,7 @@
         "it": ""
     },
     "1043518": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. \r\n ",
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
         "it": ""
     },
     "1043519": {
@@ -1222428,7 +1222344,7 @@
         "it": ""
     },
     "1043520": {
-        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'. ",
+        "en": "Contains a 5-run blueprint for the Prototype 'Pluto' Mining Drone. Rewarded for delivering Moissanite to the Gallente Federation during operation 'rogue edge'.",
         "it": ""
     },
     "1043521": {
@@ -1222528,7 +1222444,7 @@
         "it": ""
     },
     "1043547": {
-        "en": "Complex Alpha",
+        "en": "Deimos Presidential Agent SKIN",
         "it": ""
     },
     "1043548": {
@@ -1223632,7 +1223548,7 @@
         "it": ""
     },
     "1043978": {
-        "en": "Talman’s Ashimmu",
+        "en": "Cradle of Freedom - Unlimited",
         "it": ""
     },
     "1043979": {
@@ -1224516,7 +1224432,7 @@
         "it": ""
     },
     "1045522": {
-        "en": "This beacon marks a scout military location. The entry gate is configured to admit Tech I and empire faction navy ships of Frigate size.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules. Additionally, it will provide all capsuleers with a suspect timer when they activate the acceleration gate. ",
+        "en": "This beacon marks a scout military location. The entry gate is configured to admit Tech I and empire faction navy ships of Frigate size.\r\n\r\nThe security features installed in this acceleration gate will prevent activation by any ship that is fitted with warp core stabilizer modules. Additionally, it will provide all capsuleers with a suspect timer when they activate the acceleration gate.",
         "it": ""
     },
     "1045523": {
@@ -1224628,7 +1224544,7 @@
         "it": ""
     },
     "1045658": {
-        "en": "Welcome to Crucible, the Caldari Embassy constellation in Exordium.\r\n\r\nI have no doubt that you will be suitably impressed by the honor and discipline our megacorporations have imposed here. ",
+        "en": "Welcome to Crucible, the Caldari Embassy constellation in Exordium.\r\n\r\nI have no doubt that you will be suitably impressed by the honor and discipline our megacorporations have imposed here.",
         "it": ""
     },
     "1045659": {
@@ -1224648,7 +1224564,7 @@
         "it": ""
     },
     "1045665": {
-        "en": "Captain, confirming your arrival at Caldari Prime orbital point gamma. \r\n\r\nPinging dispatch, let's get some clarity on the status of the megacorp transports near your position. ",
+        "en": "Captain, confirming your arrival at Caldari Prime orbital point gamma. \r\n\r\nPinging dispatch, let's get some clarity on the status of the megacorp transports near your position.",
         "it": ""
     },
     "1045666": {
@@ -1224668,7 +1224584,7 @@
         "it": ""
     },
     "1045670": {
-        "en": "The remaining transports are entering warp. They send you their deepest gratitude. ",
+        "en": "The remaining transports are entering warp. They send you their deepest gratitude.",
         "it": ""
     },
     "1045671": {
@@ -1224748,7 +1224664,7 @@
         "it": ""
     },
     "1045690": {
-        "en": "The Fedration will pay for this. ",
+        "en": "The Fedration will pay for this.",
         "it": ""
     },
     "1045691": {
@@ -1224764,7 +1224680,7 @@
         "it": ""
     },
     "1045694": {
-        "en": "As all seemed lost, Admiral Yakiya Tovil-Toba prepared to make the ultimate sacrifice for all Caldari. ",
+        "en": "As all seemed lost, Admiral Yakiya Tovil-Toba prepared to make the ultimate sacrifice for all Caldari.",
         "it": ""
     },
     "1045695": {
@@ -1225404,7 +1225320,7 @@
         "it": ""
     },
     "1046152": {
-        "en": "First positions have been successfully held, but orbital fleet support has got us pinned down. ",
+        "en": "First positions have been successfully held, but orbital fleet support has got us pinned down.",
         "it": ""
     },
     "1046153": {
@@ -1225424,15 +1225340,15 @@
         "it": ""
     },
     "1046157": {
-        "en": "That took everything we had, but finally, the Lord Governor and his supercarrier have been defeated. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours! ",
+        "en": "That took everything we had, but finally, the Lord Governor and his supercarrier have been defeated. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours!",
         "it": ""
     },
     "1046158": {
-        "en": "The Lord Governor and his supercarrier have been defeated. A quicker death than he deserved, thanks to your expert piloting, Captain. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours! ",
+        "en": "The Lord Governor and his supercarrier have been defeated. A quicker death than he deserved, thanks to your expert piloting, Captain. \r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours!",
         "it": ""
     },
     "1046159": {
-        "en": "A hard battle, hard fought, thanks to you, Captain. The Lord Governor and his supercarrier have been defeated.\r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours! ",
+        "en": "A hard battle, hard fought, thanks to you, Captain. The Lord Governor and his supercarrier have been defeated.\r\n\r\nThe remaining fleet is routing. The day is ours! Matar is ours!",
         "it": ""
     },
     "1046160": {
@@ -1225536,7 +1225452,7 @@
         "it": ""
     },
     "1046185": {
-        "en": "The Gallente flag flies over Intaki once more! The people of Intaki have our planet back. Thank you, Captain. ",
+        "en": "The Gallente flag flies over Intaki once more! The people of Intaki have our planet back. Thank you, Captain.",
         "it": ""
     },
     "1046186": {
@@ -1227788,7 +1227704,7 @@
         "it": ""
     },
     "1047825": {
-        "en": "<b>+16% Missile Flight Time. Base duration: 3.5 minutes.</b>\r\n\r\nThis booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>. ",
+        "en": "<b>+16% Missile Flight Time. Base duration: 3.5 minutes.</b>\r\n\r\nThis booster has been manufactured using volatile compounds and will expire on <b>July 27th, YC128</b>.",
         "it": ""
     },
     "1047826": {
@@ -1228088,7 +1228004,7 @@
         "it": ""
     },
     "1048030": {
-        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Balttlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
+        "en": "With the specter of Conquest technology on the horizon in YC128, the Republic Fleet issued a request for a new Battlecruiser that might help provide some edge to the strike teams expected to be a part of that conflict. Though Conquest technology had been restricted by agreement with CONCORD, many felt that its deployment was inevitable, and the Minmatar wished to be proactive in their fear.\r\n\r\nThe result was the Tornado Fleet Issue, an advanced Republic Fleet vessel. Despite its proud suite of improvements over the original model, detractors claimed that this vessel was merely a conventional weapon that could in no way match the awesome power of the Conquest Engines.",
         "it": ""
     },
     "1048031": {
@@ -1228100,7 +1228016,7 @@
         "it": ""
     },
     "1048033": {
-        "en": "Oracle Navy Issue Blueprint ",
+        "en": "Oracle Navy Issue Blueprint",
         "it": ""
     },
     "1048034": {
@@ -1230332,7 +1230248,7 @@
         "it": ""
     },
     "1049948": {
-        "en": "Developed by the Federation Navy, this rig improves hybrid turret, armor repair, and structure hitpoints. It also integrates the pathways between Federation Navy technology. This unlocks even greater performance the more Federation Navy modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawback of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill.\r\n\r\n",
+        "en": "Developed by the Federation Navy, this rig improves hybrid turret, armor repair, and structure hitpoints. It also integrates the pathways between Federation Navy technology. This unlocks even greater performance the more Federation Navy modules are installed.\r\n\r\nPenalty: Using more than one type of this module or similar modules that affect the same attribute on the ship will be penalized.\r\n\r\nThe CPU drawback of fitting this rig may be reduced by training the <a href=showinfo:96100>Synchronization Rigging</a> skill.",
         "it": ""
     },
     "1049949": {
@@ -1232432,7 +1232348,7 @@
         "it": ""
     },
     "1050786": {
-        "en": "bonus to hybrid falloff ",
+        "en": "bonus to hybrid falloff",
         "it": ""
     },
     "1050787": {
@@ -1233100,7 +1233016,7 @@
         "it": ""
     },
     "1051285": {
-        "en": "Basic 'Radiance' Cerebral Accelerator",
+        "en": "Expired Basic 'Radiance' Cerebral Accelerator",
         "it": ""
     },
     "1051286": {
@@ -1233108,7 +1233024,7 @@
         "it": ""
     },
     "1051288": {
-        "en": "Potent 'Radiance' Cerebral Accelerator",
+        "en": "Expired Potent 'Radiance' Cerebral Accelerator",
         "it": ""
     },
     "1051289": {
@@ -1233124,7 +1233040,7 @@
         "it": ""
     },
     "1051293": {
-        "en": "Extended 'Radiance' Cerebral Accelerator",
+        "en": "Expired Extended 'Radiance' Cerebral Accelerator",
         "it": ""
     },
     "1051294": {
@@ -1233140,7 +1233056,7 @@
         "it": ""
     },
     "1051297": {
-        "en": "Harvest Anti-Disruptor Booster IV",
+        "en": "Expired Harvest Anti-Disruptor Booster IV",
         "it": ""
     },
     "1051298": {
@@ -1233148,7 +1233064,7 @@
         "it": ""
     },
     "1051299": {
-        "en": "Harvest Anti-Disruptor Booster I",
+        "en": "Expired Harvest Anti-Disruptor Booster I",
         "it": ""
     },
     "1051300": {
@@ -1233156,7 +1233072,7 @@
         "it": ""
     },
     "1051301": {
-        "en": "Harvest Anti-Disruptor Booster II",
+        "en": "Expired Harvest Anti-Disruptor Booster II",
         "it": ""
     },
     "1051302": {
@@ -1233164,7 +1233080,7 @@
         "it": ""
     },
     "1051303": {
-        "en": "Harvest Anti-Disruptor Booster III",
+        "en": "Expired Harvest Anti-Disruptor Booster III",
         "it": ""
     },
     "1051304": {
@@ -1233172,7 +1233088,7 @@
         "it": ""
     },
     "1051305": {
-        "en": "Harvest Nosferatu Booster I",
+        "en": "Expired Harvest Nosferatu Booster I",
         "it": ""
     },
     "1051306": {
@@ -1233180,7 +1233096,7 @@
         "it": ""
     },
     "1051307": {
-        "en": "Harvest Nosferatu Booster II",
+        "en": "Expired Harvest Nosferatu Booster II",
         "it": ""
     },
     "1051308": {
@@ -1233188,7 +1233104,7 @@
         "it": ""
     },
     "1051309": {
-        "en": "Harvest Nosferatu Booster III",
+        "en": "Expired Harvest Nosferatu Booster III",
         "it": ""
     },
     "1051310": {
@@ -1233196,7 +1233112,7 @@
         "it": ""
     },
     "1051311": {
-        "en": "Harvest Nosferatu Booster IV",
+        "en": "Expired Harvest Nosferatu Booster IV",
         "it": ""
     },
     "1051312": {
@@ -1233228,7 +1233144,7 @@
         "it": ""
     },
     "1051319": {
-        "en": "Harvest Webifier Booster I",
+        "en": "Expired Harvest Webifier Booster I",
         "it": ""
     },
     "1051320": {
@@ -1233236,7 +1233152,7 @@
         "it": ""
     },
     "1051321": {
-        "en": "Harvest Webifier Booster II",
+        "en": "Expired Harvest Webifier Booster II",
         "it": ""
     },
     "1051322": {
@@ -1233244,7 +1233160,7 @@
         "it": ""
     },
     "1051323": {
-        "en": "Harvest Webifier Booster III",
+        "en": "Expired Harvest Webifier Booster III",
         "it": ""
     },
     "1051324": {
@@ -1233252,7 +1233168,7 @@
         "it": ""
     },
     "1051325": {
-        "en": "Harvest Webifier Booster IV",
+        "en": "Expired Harvest Webifier Booster IV",
         "it": ""
     },
     "1051326": {
@@ -1233260,7 +1233176,7 @@
         "it": ""
     },
     "1051327": {
-        "en": "Harvest Damage Booster I",
+        "en": "Expired Harvest Damage Booster I",
         "it": ""
     },
     "1051328": {
@@ -1233268,7 +1233184,7 @@
         "it": ""
     },
     "1051329": {
-        "en": "Harvest Damage Booster II",
+        "en": "Expired Harvest Damage Booster II",
         "it": ""
     },
     "1051330": {
@@ -1233284,7 +1233200,7 @@
         "it": ""
     },
     "1051333": {
-        "en": "Harvest Damage Booster III",
+        "en": "Expired Harvest Damage Booster III",
         "it": ""
     },
     "1051334": {
@@ -1233296,7 +1233212,7 @@
         "it": ""
     },
     "1051336": {
-        "en": "Harvest Damage Booster IV",
+        "en": "Expired Harvest Damage Booster IV",
         "it": ""
     },
     "1051337": {
@@ -1233304,7 +1233220,7 @@
         "it": ""
     },
     "1051338": {
-        "en": "Tetrimon Anti-Drain Booster I",
+        "en": "Expired Tetrimon Anti-Drain Booster I",
         "it": ""
     },
     "1051339": {
@@ -1233312,7 +1233228,7 @@
         "it": ""
     },
     "1051340": {
-        "en": "Tetrimon Anti-Drain Booster II",
+        "en": "Expired Tetrimon Anti-Drain Booster II",
         "it": ""
     },
     "1051341": {
@@ -1233328,7 +1233244,7 @@
         "it": ""
     },
     "1051344": {
-        "en": "Tetrimon Anti-Drain Booster III",
+        "en": "Expired Tetrimon Anti-Drain Booster III",
         "it": ""
     },
     "1051345": {
@@ -1233336,7 +1233252,7 @@
         "it": ""
     },
     "1051346": {
-        "en": "Tetrimon Anti-Drain Booster IV",
+        "en": "Expired Tetrimon Anti-Drain Booster IV",
         "it": ""
     },
     "1051347": {
@@ -1233368,7 +1233284,7 @@
         "it": ""
     },
     "1051354": {
-        "en": "Tetrimon Capacitor Booster I",
+        "en": "Expired Tetrimon Capacitor Booster I",
         "it": ""
     },
     "1051355": {
@@ -1233400,7 +1233316,7 @@
         "it": ""
     },
     "1051362": {
-        "en": "Tetrimon Capacitor Booster II",
+        "en": "Expired Tetrimon Capacitor Booster II",
         "it": ""
     },
     "1051363": {
@@ -1233408,7 +1233324,7 @@
         "it": ""
     },
     "1051364": {
-        "en": "Tetrimon Capacitor Booster III",
+        "en": "Expired Tetrimon Capacitor Booster III",
         "it": ""
     },
     "1051365": {
@@ -1233416,7 +1233332,7 @@
         "it": ""
     },
     "1051366": {
-        "en": "Tetrimon Capacitor Booster IV",
+        "en": "Expired Tetrimon Capacitor Booster IV",
         "it": ""
     },
     "1051367": {
@@ -1233428,7 +1233344,7 @@
         "it": ""
     },
     "1051369": {
-        "en": "Tetrimon Resistance Booster I",
+        "en": "Expired Tetrimon Resistance Booster I",
         "it": ""
     },
     "1051370": {
@@ -1233436,7 +1233352,7 @@
         "it": ""
     },
     "1051371": {
-        "en": "Tetrimon Resistance Booster II",
+        "en": "Expired Tetrimon Resistance Booster II",
         "it": ""
     },
     "1051372": {
@@ -1233444,7 +1233360,7 @@
         "it": ""
     },
     "1051373": {
-        "en": "Tetrimon Resistance Booster III",
+        "en": "Expired Tetrimon Resistance Booster III",
         "it": ""
     },
     "1051374": {
@@ -1233452,7 +1233368,7 @@
         "it": ""
     },
     "1051375": {
-        "en": "Tetrimon Resistance Booster IV",
+        "en": "Expired Tetrimon Resistance Booster IV",
         "it": ""
     },
     "1051376": {
@@ -1233460,7 +1233376,7 @@
         "it": ""
     },
     "1051377": {
-        "en": "Tetrimon Precision Booster I",
+        "en": "Expired Tetrimon Precision Booster I",
         "it": ""
     },
     "1051378": {
@@ -1233468,7 +1233384,7 @@
         "it": ""
     },
     "1051379": {
-        "en": "Tetrimon Precision Booster II",
+        "en": "Expired Tetrimon Precision Booster II",
         "it": ""
     },
     "1051380": {
@@ -1233476,7 +1233392,7 @@
         "it": ""
     },
     "1051381": {
-        "en": "Tetrimon Precision Booster III",
+        "en": "Expired Tetrimon Precision Booster III",
         "it": ""
     },
     "1051382": {
@@ -1233484,7 +1233400,7 @@
         "it": ""
     },
     "1051383": {
-        "en": "Tetrimon Precision Booster IV",
+        "en": "Expired Tetrimon Precision Booster IV",
         "it": ""
     },
     "1051384": {
@@ -1233492,7 +1233408,7 @@
         "it": ""
     },
     "1051387": {
-        "en": "Chemal Tech Turret Booster I",
+        "en": "Expired Chemal Tech Turret Booster I",
         "it": ""
     },
     "1051388": {
@@ -1233500,7 +1233416,7 @@
         "it": ""
     },
     "1051389": {
-        "en": "Chemal Tech Turret Booster II",
+        "en": "Expired Chemal Tech Turret Booster II",
         "it": ""
     },
     "1051390": {
@@ -1233508,7 +1233424,7 @@
         "it": ""
     },
     "1051393": {
-        "en": "Chemal Tech Turret Booster III",
+        "en": "Expired Chemal Tech Turret Booster III",
         "it": ""
     },
     "1051394": {
@@ -1233516,7 +1233432,7 @@
         "it": ""
     },
     "1051397": {
-        "en": "Chemal Tech Mining Booster I",
+        "en": "Expired Chemal Tech Mining Booster I",
         "it": ""
     },
     "1051398": {
@@ -1233524,7 +1233440,7 @@
         "it": ""
     },
     "1051399": {
-        "en": "Chemal Tech Mining Booster II",
+        "en": "Expired Chemal Tech Mining Booster II",
         "it": ""
     },
     "1051400": {
@@ -1233532,7 +1233448,7 @@
         "it": ""
     },
     "1051401": {
-        "en": "Chemal Tech Mining Booster III",
+        "en": "Expired Chemal Tech Mining Booster III",
         "it": ""
     },
     "1051402": {
@@ -1233548,7 +1233464,7 @@
         "it": ""
     },
     "1051405": {
-        "en": "Chemal Tech Exploration Booster I",
+        "en": "Expired Chemal Tech Exploration Booster I",
         "it": ""
     },
     "1051406": {
@@ -1233556,7 +1233472,7 @@
         "it": ""
     },
     "1051407": {
-        "en": "Chemal Tech Exploration Booster II",
+        "en": "Expired Chemal Tech Exploration Booster II",
         "it": ""
     },
     "1051408": {
@@ -1233564,7 +1233480,7 @@
         "it": ""
     },
     "1051409": {
-        "en": "Chemal Tech Exploration Booster III",
+        "en": "Expired Chemal Tech Exploration Booster III",
         "it": ""
     },
     "1051410": {
@@ -1233572,7 +1233488,7 @@
         "it": ""
     },
     "1051411": {
-        "en": "Chemal Tech Repair Booster I",
+        "en": "Expired Chemal Tech Repair Booster I",
         "it": ""
     },
     "1051412": {
@@ -1233580,7 +1233496,7 @@
         "it": ""
     },
     "1051413": {
-        "en": "Chemal Tech Repair Booster II",
+        "en": "Expired Chemal Tech Repair Booster II",
         "it": ""
     },
     "1051414": {
@@ -1233592,7 +1233508,7 @@
         "it": ""
     },
     "1051416": {
-        "en": "Chemal Tech Repair Booster III",
+        "en": "Expired Chemal Tech Repair Booster III",
         "it": ""
     },
     "1051417": {
@@ -1236748,7 +1236664,7 @@
         "it": ""
     },
     "1053138": {
-        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp.",
+        "en": "Use a Remote Shield Booster to boost another capsuleer’s shield by {amount} hp",
         "it": ""
     },
     "1053139": {
@@ -1238768,7 +1238684,7 @@
         "it": ""
     },
     "1054675": {
-        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nAccepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
+        "en": "Aberrant molecules of Raspite mineral that have been altered by exposure to hyperdimensional forces. The Amarr Empire needs this aberrant material for their research into Drifter energy efficiency. \r\n\r\nThe Amarr Empire will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Amarr Navy Anchorage in <url=showinfo:5//30002974>Mehatoor</url>.",
         "it": ""
     },
     "1054676": {
@@ -1238896,7 +1238812,7 @@
         "it": ""
     },
     "1054807": {
-        "en": "Placeholder Item for November path to conquest campaign ",
+        "en": "Placeholder Item for November path to conquest campaign",
         "it": ""
     },
     "1054814": {
@@ -1238944,7 +1238860,7 @@
         "it": ""
     },
     "1054829": {
-        "en": "The Federation will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Federation Navy Anchorage in <url=showinfo:5//30003788>Intaki</url>.\r\n\r\nCollected by Rogue Drones that have infested Anoikis, this telemetry includes evidence of hyperspace fluctuations. Mapping these could help identify the details of the Emergent Artifact’s manifestation. ",
+        "en": "The Federation will reward anyone who accepts their campaign objective and delivers this to their item trader outside the Federation Navy Anchorage in <url=showinfo:5//30003788>Intaki</url>.\r\n\r\nCollected by Rogue Drones that have infested Anoikis, this telemetry includes evidence of hyperspace fluctuations. Mapping these could help identify the details of the Emergent Artifact’s manifestation.",
         "it": ""
     },
     "1054830": {
@@ -1239144,11 +1239060,11 @@
         "it": ""
     },
     "1054993": {
-        "en": "Ansiblex jump bridges are now limited by alliance membership, capacitor charge, and distance.  ",
+        "en": "Ansiblex jump bridges are now limited by alliance membership, capacitor charge, and distance.",
         "it": ""
     },
     "1054994": {
-        "en": "New battlecruiser Insurgency site and greater control over how fast and far an Insurgency spreads.  ",
+        "en": "New battlecruiser Insurgency site and greater control over how fast and far an Insurgency spreads.",
         "it": ""
     },
     "1054995": {
@@ -1239380,7 +1239296,7 @@
         "it": ""
     },
     "1055207": {
-        "en": "Deliver Stereo-Collaspe Signal",
+        "en": "Deliver Stereo-Collapse Signal",
         "it": ""
     },
     "1055208": {
@@ -1239520,7 +1239436,7 @@
         "it": ""
     },
     "1055253": {
-        "en": "Deliver Stereo-Collaspe Signal in Amo",
+        "en": "Deliver Stereo-Collapse Signal in Amo",
         "it": ""
     },
     "1055254": {
@@ -1239648,7 +1239564,7 @@
         "it": ""
     },
     "1055364": {
-        "en": "Totality Day Celebration Crate ",
+        "en": "Totality Day Celebration Crate",
         "it": ""
     },
     "1055365": {
@@ -1239660,7 +1239576,7 @@
         "it": ""
     },
     "1055379": {
-        "en": "Totality Day Celebration Crate ",
+        "en": "Totality Day Celebration Crate",
         "it": ""
     },
     "1055380": {
@@ -1240080,7 +1239996,7 @@
         "it": ""
     },
     "1055574": {
-        "en": "CH26: Destroy Tetrimon NPCs Initial ",
+        "en": "CH26: Destroy Tetrimon NPCs Initial",
         "it": ""
     },
     "1055575": {
@@ -1240300,7 +1240216,7 @@
         "it": ""
     },
     "1055643": {
-        "en": "CH26: Destroy Blood Raider NPCs Initial ",
+        "en": "CH26: Destroy Blood Raider NPCs Initial",
         "it": ""
     },
     "1055644": {
@@ -1241716,11 +1241632,11 @@
         "it": ""
     },
     "1056276": {
-        "en": "New and returning combat sites, plus hacking sites, both with chance encounters.  ",
+        "en": "New and returning combat sites, plus hacking sites, both with chance encounters.",
         "it": ""
     },
     "1056277": {
-        "en": "Seasonal track and daily login rewards, plus 90% loot drop outside highsec. ",
+        "en": "Seasonal track and daily login rewards, plus 90% loot drop outside highsec.",
         "it": ""
     },
     "1056300": {
@@ -1241880,7 +1241796,7 @@
         "it": ""
     },
     "1056370": {
-        "en": "An Incursus-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "An Incursus-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056371": {
@@ -1241960,7 +1241876,7 @@
         "it": ""
     },
     "1056392": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056393": {
@@ -1241968,7 +1241884,7 @@
         "it": ""
     },
     "1056394": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056395": {
@@ -1241976,7 +1241892,7 @@
         "it": ""
     },
     "1056396": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056397": {
@@ -1241984,7 +1241900,7 @@
         "it": ""
     },
     "1056398": {
-        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "An Ares-class frigate under the command of the Gallentia Primacy. It is tasked with warp disruption.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056399": {
@@ -1242072,7 +1241988,7 @@
         "it": ""
     },
     "1056420": {
-        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "A Maulus-class frigate under the command of the Gallentia Primacy. It is tasked with webifying.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056421": {
@@ -1242112,7 +1242028,7 @@
         "it": ""
     },
     "1056430": {
-        "en": "A Taranis-class frigate under the command of the Gallentia Primacy. It is tasked with violence.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "A Taranis-class frigate under the command of the Gallentia Primacy. It is tasked with violence.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056431": {
@@ -1242136,7 +1242052,7 @@
         "it": ""
     },
     "1056436": {
-        "en": "An Enyo-class frigate under the command of the Gallentia Primacy. It is fitted for balance and flexibility.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity. ",
+        "en": "An Enyo-class frigate under the command of the Gallentia Primacy. It is fitted for balance and flexibility.\r\n\r\nThe Gallentia Primacy loathes the Federation's Rogue Drone technology development, seeing it as a path to weakness and a dilution of Gallente purity.",
         "it": ""
     },
     "1056437": {
@@ -1242692,7 +1242608,7 @@
         "it": ""
     },
     "1056623": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.",
         "it": ""
     },
     "1056624": {
@@ -1242744,7 +1242660,7 @@
         "it": ""
     },
     "1056642": {
-        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore\r\n",
+        "en": "Mine {[numeric]amount, useGrouping} units of Raspite Ore.\r\n",
         "it": ""
     },
     "1056643": {
@@ -1243344,7 +1243260,7 @@
         "it": ""
     },
     "1056851": {
-        "en": "Imperial Navy Stasis Webifier",
+        "en": "Compact Imperial Navy Stasis Webifier",
         "it": ""
     },
     "1056852": {
@@ -1243588,11 +1243504,11 @@
         "it": ""
     },
     "1056969": {
-        "en": "Vanguard PTC LowSec SARO Spawner (DO NOT TRANSLATE) ",
+        "en": "Vanguard PTC LowSec SARO Spawner (DO NOT TRANSLATE)",
         "it": ""
     },
     "1056970": {
-        "en": "Path to Conquest SARO  LowSec combat site boss spawner (DO NOT TRANSLATE) ",
+        "en": "Path to Conquest SARO  LowSec combat site boss spawner (DO NOT TRANSLATE)",
         "it": ""
     },
     "1056976": {
@@ -1243740,7 +1243656,7 @@
         "it": ""
     },
     "1057038": {
-        "en": "Active Speed Boost Amount",
+        "en": "Active Speed Boost Multiplier",
         "it": ""
     },
     "1057039": {
@@ -1243760,7 +1243676,7 @@
         "it": ""
     },
     "1057044": {
-        "en": "Active Shield Booster Amount",
+        "en": "Active Shield Boost Bonus Multiplier",
         "it": ""
     },
     "1057045": {
@@ -1243792,7 +1243708,7 @@
         "it": ""
     },
     "1057058": {
-        "en": "Active Drone and Fighter Maximum Velocity Bonus",
+        "en": "Drone and Fighter Maximum Velocity Bonus Multiplier",
         "it": ""
     },
     "1057061": {
@@ -1243888,7 +1243804,7 @@
         "it": ""
     },
     "1057166": {
-        "en": "Active Capacitor recharge rate bonus",
+        "en": "Active Recharge Rate Multiplier",
         "it": ""
     },
     "1057167": {
@@ -1244044,7 +1243960,7 @@
         "it": ""
     },
     "1057373": {
-        "en": "Imperial Navy Stasis Webifier Blueprint",
+        "en": "Compact Imperial Navy Stasis Webifier Blueprint",
         "it": ""
     },
     "1057381": {
@@ -1244888,7 +1244804,7 @@
         "it": ""
     },
     "1058621": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "it": ""
     },
     "1058622": {
@@ -1244896,19 +1244812,19 @@
         "it": ""
     },
     "1058623": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "it": ""
     },
     "1058624": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "it": ""
     },
     "1058625": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "it": ""
     },
     "1058626": {
-        "en": "Conquest Salvager",
+        "en": "Sver's Modified Salvager",
         "it": ""
     },
     "1058627": {
@@ -1245056,7 +1244972,7 @@
         "it": ""
     },
     "1059425": {
-        "en": "Amarrgin of Victory",
+        "en": "Advantage of Faith",
         "it": ""
     },
     "1059426": {
@@ -1245068,7 +1244984,7 @@
         "it": ""
     },
     "1059429": {
-        "en": "Corporate Advantage",
+        "en": "Advantage of Honor",
         "it": ""
     },
     "1059430": {
@@ -1245076,11 +1244992,11 @@
         "it": ""
     },
     "1059431": {
-        "en": "",
+        "en": "Even a hostile takeover must be executed with honor.",
         "it": ""
     },
     "1059432": {
-        "en": "Freedom has its advantages",
+        "en": "Advantage of Freedom",
         "it": ""
     },
     "1059433": {
@@ -1245092,7 +1245008,7 @@
         "it": ""
     },
     "1059435": {
-        "en": "Unrestrained Advantage",
+        "en": "Advantage of Pride",
         "it": ""
     },
     "1059436": {
@@ -1245100,11 +1245016,11 @@
         "it": ""
     },
     "1059437": {
-        "en": "",
+        "en": "Only those who have forsaken themselves call pride a sin.",
         "it": ""
     },
     "1059449": {
-        "en": "Hold the Faith",
+        "en": "Defend the Faith",
         "it": ""
     },
     "1059450": {
@@ -1245116,7 +1245032,7 @@
         "it": ""
     },
     "1059452": {
-        "en": "The State Remains",
+        "en": "Defend the State",
         "it": ""
     },
     "1059453": {
@@ -1245128,7 +1245044,7 @@
         "it": ""
     },
     "1059455": {
-        "en": "Liberty Holds Firm",
+        "en": "Defend Freedom",
         "it": ""
     },
     "1059457": {
@@ -1245136,11 +1245052,11 @@
         "it": ""
     },
     "1059458": {
-        "en": "",
+        "en": "At any cost.",
         "it": ""
     },
     "1059459": {
-        "en": "Broken Chains, Unbroken Lines",
+        "en": "Defend the Tribes",
         "it": ""
     },
     "1059460": {
@@ -1245152,11 +1245068,11 @@
         "it": ""
     },
     "1059463": {
-        "en": "Pray for Forgiveness",
+        "en": "Hunt for Retribution",
         "it": ""
     },
     "1059464": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar or Angel capsuleers while enlisted for Amarr",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Minmatar Republic or Angel Cartel enlisted capsuleers while enlisted with the Amarr Empire",
         "it": ""
     },
     "1059465": {
@@ -1245164,11 +1245080,11 @@
         "it": ""
     },
     "1059466": {
-        "en": "Aggressive Acquisitions",
+        "en": "Hunt for Honor",
         "it": ""
     },
     "1059467": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente or Guristas capsuleers while enlisted for Caldari",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Gallente Federation or Guristas Pirate enlisted capsuleers while enlisted with the Caldari State",
         "it": ""
     },
     "1059468": {
@@ -1245176,11 +1245092,11 @@
         "it": ""
     },
     "1059469": {
-        "en": "Blaster Diplomacy",
+        "en": "Hunt for Justice",
         "it": ""
     },
     "1059470": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Guristas capsuleers while enlisted for Gallente",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Guristas Pirate enlisted capsuleers while enlisted with the Gallente Federation",
         "it": ""
     },
     "1059471": {
@@ -1245188,11 +1245104,11 @@
         "it": ""
     },
     "1059473": {
-        "en": "Scrap the Oppressors",
+        "en": "Hunt for Liberation",
         "it": ""
     },
     "1059474": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Angel capsuleers while enlisted for Minmatar",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Angel Cartel enlisted capsuleers while enlisted with the Minmatar Republic",
         "it": ""
     },
     "1059475": {
@@ -1245200,23 +1245116,23 @@
         "it": ""
     },
     "1059476": {
-        "en": "Halo and Goodbye",
+        "en": "Hunt for Dominion",
         "it": ""
     },
     "1059477": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr or Minmatar capsuleers while enlisted for Angels",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Amarr Empire or Minmatar Republic enlisted capsuleers while enlisted with the Angel Cartel",
         "it": ""
     },
     "1059478": {
-        "en": "",
+        "en": "Once you have been marked by the Angels, your fate is sealed - Witness for the prosecution two days before their disappearance.",
         "it": ""
     },
     "1059479": {
-        "en": "Hired Gun",
+        "en": "Hunt for Glory",
         "it": ""
     },
     "1059480": {
-        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari or Gallente capsuleers while enlisted for Guristas",
+        "en": "Deliver the final blow to {[numeric]amount, useGrouping} Caldari State or Gallente Federation enlisted capsuleers while enlisted with the Guristas Pirates",
         "it": ""
     },
     "1059481": {
@@ -1245224,7 +1245140,7 @@
         "it": ""
     },
     "1059482": {
-        "en": "Divine Compensation",
+        "en": "Crusade Loyalty",
         "it": ""
     },
     "1059483": {
@@ -1245232,11 +1245148,11 @@
         "it": ""
     },
     "1059484": {
-        "en": "",
+        "en": "The Lord has offered us much, and we must claim it all. - Idonis Ardishapur",
         "it": ""
     },
     "1059485": {
-        "en": "Return on Loyalty",
+        "en": "Protectorate Loyalty",
         "it": ""
     },
     "1059486": {
@@ -1245248,7 +1245164,7 @@
         "it": ""
     },
     "1059488": {
-        "en": "Union Benefits",
+        "en": "Union Loyalty",
         "it": ""
     },
     "1059489": {
@@ -1245260,7 +1245176,7 @@
         "it": ""
     },
     "1059491": {
-        "en": "From Rust to Riches",
+        "en": "Liberation Loyalty",
         "it": ""
     },
     "1059492": {
@@ -1245268,11 +1245184,11 @@
         "it": ""
     },
     "1059493": {
-        "en": "",
+        "en": "While some remain bound, none are truly free. - Matari proverb",
         "it": ""
     },
     "1059494": {
-        "en": "Crime Really Does Pay",
+        "en": "Malakim Loyalty",
         "it": ""
     },
     "1059495": {
@@ -1245284,7 +1245200,7 @@
         "it": ""
     },
     "1059499": {
-        "en": "Going Commando",
+        "en": "Commando Loyalty",
         "it": ""
     },
     "1059500": {
@@ -1245292,11 +1245208,11 @@
         "it": ""
     },
     "1059501": {
-        "en": "",
+        "en": "Respect the 9th, screw the rest. - Graffiti left behind by Guristas boarding party.",
         "it": ""
     },
     "1059502": {
-        "en": "Chosen for Destruction",
+        "en": "Break the Chosen",
         "it": ""
     },
     "1059503": {
@@ -1245308,7 +1245224,7 @@
         "it": ""
     },
     "1059511": {
-        "en": "Steel no Match",
+        "en": "Break the Steelscale",
         "it": ""
     },
     "1059512": {
@@ -1245316,11 +1245232,11 @@
         "it": ""
     },
     "1059513": {
-        "en": "",
+        "en": "Despite all the years of war, there is one thing the State and Federation can agree on.",
         "it": ""
     },
     "1059522": {
-        "en": "Suppress the Suppressors",
+        "en": "Break the Consortium",
         "it": ""
     },
     "1059523": {
@@ -1245332,11 +1245248,11 @@
         "it": ""
     },
     "1059538": {
-        "en": "The Golden Fleet",
+        "en": "Imperial Piloting",
         "it": ""
     },
     "1059539": {
-        "en": "Board {[numeric]amount, useGrouping} unique amarr navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Amarr Navy Issue ships",
         "it": ""
     },
     "1059540": {
@@ -1245344,11 +1245260,11 @@
         "it": ""
     },
     "1059546": {
-        "en": "Executive Firepower",
+        "en": "State Piloting",
         "it": ""
     },
     "1059547": {
-        "en": "Board {[numeric]amount, useGrouping} unique caldari navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Caldari Navy Issue ships",
         "it": ""
     },
     "1059548": {
@@ -1245356,11 +1245272,11 @@
         "it": ""
     },
     "1059549": {
-        "en": "Federation Armada",
+        "en": "Federal Piloting",
         "it": ""
     },
     "1059550": {
-        "en": "Board {[numeric]amount, useGrouping} unique gallente navy hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Federation Navy Issue ships",
         "it": ""
     },
     "1059551": {
@@ -1245368,11 +1245284,11 @@
         "it": ""
     },
     "1059552": {
-        "en": "A Fleet of Defiance",
+        "en": "Republic Piloting",
         "it": ""
     },
     "1059553": {
-        "en": "Board {[numeric]amount, useGrouping} unique republic fleet issue hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Republic Fleet Issue ships",
         "it": ""
     },
     "1059554": {
@@ -1245380,27 +1245296,27 @@
         "it": ""
     },
     "1059555": {
-        "en": "Angelic Legion",
+        "en": "Cartel Piloting",
         "it": ""
     },
     "1059556": {
-        "en": "Board {[numeric]amount, useGrouping} unique angel cartel hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Angel Cartel ships",
         "it": ""
     },
     "1059557": {
-        "en": "",
+        "en": "Become legion.",
         "it": ""
     },
     "1059558": {
-        "en": "Cold-Blooded Firepower",
+        "en": "Guristas Piloting",
         "it": ""
     },
     "1059559": {
-        "en": "Board {[numeric]amount, useGrouping} unique guristas hulls.",
+        "en": "Board {[numeric]amount, useGrouping} unique Guristas Pirates ships",
         "it": ""
     },
     "1059560": {
-        "en": "",
+        "en": "Cold-Blooded.",
         "it": ""
     },
     "1059561": {
